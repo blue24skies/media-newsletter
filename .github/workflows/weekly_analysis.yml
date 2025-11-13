@@ -1,0 +1,47 @@
+name: Weekly Learning Analysis
+
+on:
+  schedule:
+    # Jeden Sonntag um 22:00 Uhr
+    - cron: '0 22 * * 0'
+  
+  # Manueller Trigger für Tests
+  workflow_dispatch:
+
+jobs:
+  analyze-and-learn:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install Dependencies
+      run: |
+        pip install supabase==2.3.4
+    
+    - name: Run Weekly Analysis
+      env:
+        SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+        SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+      run: |
+        python weekly_analysis.py
+    
+    - name: Commit Learning Rules
+      run: |
+        git config user.name "Learning Bot"
+        git config user.email "learning-bot@zooproductions.de"
+        
+        git add learning_rules.py 2>/dev/null || true
+        
+        git diff --staged --quiet || git commit -m "🤖 Update learning rules - $(date +%Y-%m-%d)"
+        
+        git push || true
