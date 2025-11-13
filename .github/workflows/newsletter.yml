@@ -1,0 +1,71 @@
+name: Daily Newsletter Generator
+
+on:
+  schedule:
+    # Montag-Freitag um 6:00 UTC (7:00 MEZ / 8:00 MESZ)
+    - cron: '0 6 * * 1-5'
+  
+  # Erlaube manuelles Auslösen für Tests
+  workflow_dispatch:
+
+jobs:
+  generate-newsletter:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # Wichtig für git push
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser requests
+    
+    - name: Run Newsletter Script
+      env:
+        ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        GMAIL_USER: ${{ secrets.GMAIL_USER }}
+        GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        NEWSLETTER_URL: ${{ secrets.NEWSLETTER_URL }}
+      run: |
+        python medien_newsletter_web.py
+        
+        # Verschiebe JSON-Dateien ins docs/ Verzeichnis für GitHub Pages
+        mkdir -p docs
+        mv newsletter-*.json docs/ 2>/dev/null || true
+        cp index.html docs/ 2>/dev/null || true
+    
+    - name: Commit and Push Newsletter Data
+      run: |
+        git config user.name "Newsletter Bot"
+        git config user.email "newsletter-bot@zooproductions.de"
+        
+        # Füge nur JSON-Dateien hinzu
+        git add docs/newsletter-*.json docs/newsletter-index.json
+        
+        # Commit nur wenn es Änderungen gibt
+        git diff --staged --quiet || git commit -m "📰 Newsletter $(date +%Y-%m-%d)"
+        
+        # Push zu GitHub
+        git push
+    
+    - name: Upload Logs (on failure)
+      if: failure()
+      uses: actions/upload-artifact@v3
+      with:
+        name: newsletter-logs
+        path: |
+          *.log
+          *.txt
+        retention-days: 7
