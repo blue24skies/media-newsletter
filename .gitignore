@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# Test files
+test_*.py
+*_test.py
+
+# Temporary files
+*.tmp
+temp/
+
+# WICHTIG: Logos NICHT ignorieren - die brauchen wir!
+!logo-*.png
+!*.png
