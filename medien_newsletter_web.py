@@ -189,7 +189,7 @@ def generiere_newsletter_json(relevante_artikel):
     
     # Speichere JSON-Datei
     filename = f"newsletter-{datum}.json"
-    filepath = os.path.join('/home/claude', filename)
+    filepath = filename  # Speichere im aktuellen Verzeichnis
     
     with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(newsletter_data, f, ensure_ascii=False, indent=2)
@@ -197,7 +197,7 @@ def generiere_newsletter_json(relevante_artikel):
     print(f"   ✅ JSON gespeichert: {filename}")
     
     # Update index.json (Liste aller Newsletter)
-    index_path = '/home/claude/newsletter-index.json'
+    index_path = 'newsletter-index.json'  # Auch im aktuellen Verzeichnis
     
     if os.path.exists(index_path):
         with open(index_path, 'r', encoding='utf-8') as f:
