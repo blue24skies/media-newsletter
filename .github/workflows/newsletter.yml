@@ -41,18 +41,27 @@ jobs:
       run: |
         python medien_newsletter_web.py
         
-        # Verschiebe JSON-Dateien ins docs/ Verzeichnis für GitHub Pages
+        # Erstelle docs/ Verzeichnis wenn nicht vorhanden
         mkdir -p docs
-        mv newsletter-*.json docs/ 2>/dev/null || true
+        
+        # Kopiere index.html und Logos ins docs/ Verzeichnis
         cp index.html docs/ 2>/dev/null || true
+        cp logo-*.png docs/ 2>/dev/null || true
+        
+        # Verschiebe JSON-Dateien ins docs/ Verzeichnis für GitHub Pages
+        mv newsletter-*.json docs/ 2>/dev/null || true
+        
+        # Liste was erstellt wurde
+        echo "=== Dateien in docs/ ==="
+        ls -la docs/
     
     - name: Commit and Push Newsletter Data
       run: |
         git config user.name "Newsletter Bot"
         git config user.email "newsletter-bot@zooproductions.de"
         
-        # Füge nur JSON-Dateien hinzu
-        git add docs/newsletter-*.json docs/newsletter-index.json
+        # Füge docs/ Ordner und alle Dateien darin hinzu
+        git add docs/
         
         # Commit nur wenn es Änderungen gibt
         git diff --staged --quiet || git commit -m "📰 Newsletter $(date +%Y-%m-%d)"
