@@ -524,6 +524,10 @@
                 const feedback = bewertungsMap[artikel.id];
                 const scoreClass = artikel.score >= 9 ? 'score-high' : '';
                 
+                // Sichere Daten für JavaScript (escape quotes)
+                const safeTitle = artikel.titel.replace(/'/g, "\\'").replace(/"/g, '\\"');
+                const safeQuelle = artikel.quelle.replace(/'/g, "\\'");
+                
                 return `
                     <div class="artikel-card">
                         <div class="artikel-header">
@@ -546,13 +550,15 @@
                         <div class="feedback-buttons">
                             <button 
                                 class="feedback-btn btn-relevant ${feedback === 'relevant' ? 'active' : ''}"
-                                onclick="markFeedback(${artikel.id}, 'relevant', '${artikel.titel.replace(/'/g, "\\'")}', '${artikel.quelle}', ${artikel.score})"
+                                data-artikel='${JSON.stringify({id: artikel.id, titel: artikel.titel, quelle: artikel.quelle, score: artikel.score})}'
+                                onclick="markFeedbackFromButton(this, 'relevant')"
                             >
                                 ✓ Relevant
                             </button>
                             <button 
                                 class="feedback-btn btn-nicht-relevant ${feedback === 'nicht-relevant' ? 'active' : ''}"
-                                onclick="markFeedback(${artikel.id}, 'nicht-relevant', '${artikel.titel.replace(/'/g, "\\'")}', '${artikel.quelle}', ${artikel.score})"
+                                data-artikel='${JSON.stringify({id: artikel.id, titel: artikel.titel, quelle: artikel.quelle, score: artikel.score})}'
+                                onclick="markFeedbackFromButton(this, 'nicht-relevant')"
                             >
                                 ✗ Nicht relevant
                             </button>
@@ -560,6 +566,12 @@
                     </div>
                 `;
             }).join('');
+        }
+        
+        // Neue Funktion für sicheres Feedback
+        async function markFeedbackFromButton(button, bewertung) {
+            const artikelData = JSON.parse(button.getAttribute('data-artikel'));
+            await markFeedback(artikelData.id, bewertung, artikelData.titel, artikelData.quelle, artikelData.score);
         }
         
         // Markiere Feedback und speichere in Supabase
