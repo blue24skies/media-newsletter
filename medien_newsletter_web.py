@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Zoo Medien Newsletter Automation - Webseiten-Version
+Zoo Medien Newsletter Automation - Mit Learning Rules
 Generiert JSON-Daten und sendet kurze Email mit Link zur Webseite
++ Wendet automatisch gelernte Regeln an
 """
 
 import feedparser
@@ -10,11 +11,24 @@ import requests
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+from email.header import Header
 from datetime import datetime
 import time
 import sys
 import os
 import json
+
+# ============================================================================
+# LERN-REGELN IMPORTIEREN (falls vorhanden)
+# ============================================================================
+
+try:
+    from learning_rules import apply_learning_rules
+    USE_LEARNING = True
+    print("✅ Learning Rules aktiv - System lernt aus Feedback!")
+except ImportError:
+    USE_LEARNING = False
+    print("ℹ️ Keine Learning Rules gefunden - nutze nur Claude Base Scores")
 
 # ============================================================================
 # KONFIGURATION
@@ -34,7 +48,7 @@ EMPFAENGER = {
 }
 
 # Newsletter-Webseite URL
-NEWSLETTER_URL = os.environ.get('NEWSLETTER_URL', 'https://tomelstner.github.io/media-newsletter')
+NEWSLETTER_URL = os.environ.get('NEWSLETTER_URL', 'https://blue24skies.github.io/media-newsletter')
 
 # RSS-Feeds
 RSS_FEEDS = {
@@ -46,12 +60,18 @@ RSS_FEEDS = {
     'Guardian Media': 'https://www.theguardian.com/media/rss'
 }
 
+# Bewertungs-Schwellenwert
+MIN_SCORE = 7
+
 # ============================================================================
 # CLAUDE API FUNKTIONEN
 # ============================================================================
 
-def bewerte_artikel_mit_claude(titel, beschreibung):
-    """Bewertet Artikel-Relevanz (1-10)"""
+def bewerte_artikel_mit_claude(titel, beschreibung, quelle):
+    """
+    Bewertet Artikel-Relevanz (1-10) mit Claude API
+    + Wendet Learning Rules an falls vorhanden
+    """
     prompt = f"""Du bist Experte für die Medienindustrie. Bewerte diesen Artikel auf seine Relevanz für einen deutschen TV-Produzenten.
 
 Artikel:
@@ -77,28 +97,121 @@ Antworte NUR mit einer Zahl zwischen 1 und 10."""
             json={
                 'model': 'claude-sonnet-4-20250514',
                 'max_tokens': 50,
-                'messages': [{'role': 'user', 'content': prompt}]
+                'messages': [{
+                    'role': 'user',
+                    'content': prompt
+                }]
             },
             timeout=30
         )
         
         if response.status_code == 200:
             score_text = response.json()['content'][0]['text'].strip()
-            score = int(''.join(filter(str.isdigit, score_text))[:2])
-            return min(max(score, 1), 10)
-        return 0
-    except:
-        return 0
+            # Extrahiere Zahl
+            base_score = int(''.join(filter(str.isdigit, score_text))[:2])
+            base_score = min(max(base_score, 1), 10)
+            
+            # LEARNING RULES ANWENDEN
+            if USE_LEARNING:
+                final_score = apply_learning_rules(titel, quelle, base_score)
+                if final_score != base_score:
+                    print(f"   🎓 Learning: {base_score} → {final_score} (Regel angewendet!)")
+                return final_score
+            else:
+                return base_score
+        else:
+            print(f"   ⚠️ API Error: {response.status_code}")
+            return 5
+            
+    except Exception as e:
+        print(f"   ❌ Fehler: {e}")
+        return 5
 
 
-def erstelle_zusammenfassung_mit_claude(titel, volltext):
-    """Erstellt prägnante Zusammenfassung"""
-    prompt = f"""Fasse diesen Medien-Artikel in 2-3 prägnanten Sätzen zusammen für einen TV-Produzenten.
+def get_rss_articles(feed_url, source_name, max_items=20):
+    """Holt Artikel aus einem RSS-Feed"""
+    print(f"📡 Hole Artikel von {source_name}...")
+    
+    try:
+        # User-Agent setzen
+        import urllib.request
+        opener = urllib.request.build_opener()
+        opener.addheaders = [('User-Agent', 'Mozilla/5.0')]
+        urllib.request.install_opener(opener)
+        
+        feed = feedparser.parse(feed_url)
+        articles = []
+        
+        for entry in feed.entries[:max_items]:
+            title = entry.get("title", "")
+            description = (entry.get("summary", "") or 
+                          entry.get("description", "") or 
+                          entry.get("content", [{}])[0].get("value", "") if entry.get("content") else "")
+            link = entry.get("link", "")
+            
+            if title and link:
+                article = {
+                    "quelle": source_name,
+                    "titel": title,
+                    "beschreibung": description[:500] if description else "Keine Beschreibung",
+                    "link": link,
+                    "published": entry.get("published", entry.get("updated", ""))
+                }
+                articles.append(article)
+        
+        print(f"   ✅ {len(articles)} Artikel gefunden")
+        return articles
+    
+    except Exception as e:
+        print(f"   ❌ Fehler bei {source_name}: {e}")
+        return []
 
-Titel: {titel}
-Text: {volltext[:2000]}
 
-Antworte NUR mit der Zusammenfassung."""
+def sammle_und_bewerte_alle_artikel():
+    """Sammelt Artikel von allen Feeds und bewertet sie"""
+    print("\n🤖 SAMMLE UND BEWERTE ARTIKEL")
+    print("="*70)
+    
+    alle_artikel = []
+    artikel_counter = 0
+    
+    # Alle RSS-Feeds durchgehen
+    for source_name, feed_url in RSS_FEEDS.items():
+        articles = get_rss_articles(feed_url, source_name)
+        
+        for article in articles:
+            artikel_counter += 1
+            print(f"\n[{artikel_counter}] {article['quelle']}: {article['titel'][:60]}...")
+            
+            # Claude Bewertung
+            score = bewerte_artikel_mit_claude(
+                article['titel'],
+                article['beschreibung'],
+                article['quelle']
+            )
+            
+            article['score'] = score
+            
+            if score >= MIN_SCORE:
+                print(f"   ✅ Score: {score}/10 - RELEVANT!")
+                alle_artikel.append(article)
+            else:
+                print(f"   ⏭️ Score: {score}/10 - übersprungen")
+            
+            # Rate limiting
+            time.sleep(0.5)
+    
+    return alle_artikel
+
+
+def generiere_zusammenfassung(artikel):
+    """Generiert kurze Zusammenfassung mit Claude"""
+    prompt = f"""Fasse diesen Medien-Artikel in 2-3 prägnanten Sätzen zusammen.
+
+Titel: {artikel['titel']}
+Beschreibung: {artikel['beschreibung']}
+
+Schreibe eine professionelle Zusammenfassung die das Wichtigste auf den Punkt bringt."""
 
     try:
         response = requests.post(
@@ -110,348 +223,217 @@ Antworte NUR mit der Zusammenfassung."""
             },
             json={
                 'model': 'claude-sonnet-4-20250514',
-                'max_tokens': 300,
-                'messages': [{'role': 'user', 'content': prompt}]
+                'max_tokens': 200,
+                'messages': [{
+                    'role': 'user',
+                    'content': prompt
+                }]
             },
             timeout=30
         )
         
         if response.status_code == 200:
             return response.json()['content'][0]['text'].strip()
-        return "Zusammenfassung konnte nicht erstellt werden."
-    except:
-        return "Zusammenfassung konnte nicht erstellt werden."
-
-
-def hole_volltext_von_url(url):
-    """Holt Volltext von URL"""
-    try:
-        response = requests.get(url, timeout=10, headers={
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-        })
-        return response.text[:3000] if response.status_code == 200 else ""
-    except:
-        return ""
-
-
-# ============================================================================
-# RSS FUNKTIONEN
-# ============================================================================
-
-def hole_rss_artikel(feed_name, feed_url, max_items=20):
-    """Holt Artikel aus RSS-Feed"""
-    try:
-        feed = feedparser.parse(feed_url)
-        artikel = []
-        
-        for entry in feed.entries[:max_items]:
-            artikel.append({
-                'titel': entry.get('title', 'Kein Titel'),
-                'beschreibung': entry.get('description', entry.get('summary', 'Keine Beschreibung')),
-                'link': entry.get('link', ''),
-                'quelle': feed_name,
-                'datum': entry.get('published', 'Unbekannt')
-            })
-        
-        return artikel
+        else:
+            return artikel['beschreibung'][:200]
+            
     except Exception as e:
-        print(f"   ⚠️  Fehler bei {feed_name}: {str(e)}")
-        return []
+        print(f"   ⚠️ Zusammenfassung-Fehler: {e}")
+        return artikel['beschreibung'][:200]
 
 
-# ============================================================================
-# JSON GENERIERUNG
-# ============================================================================
-
-def generiere_newsletter_json(relevante_artikel):
-    """Generiert JSON-Datei für die Webseite"""
-    datum = datetime.now().strftime("%Y-%m-%d")
-    datum_lesbar = datetime.now().strftime("%d.%m.%Y")
+def erstelle_newsletter_json(artikel_liste):
+    """Erstellt JSON-Datei für Webseite"""
+    print("\n📄 ERSTELLE NEWSLETTER JSON")
+    print("="*70)
     
+    # Zusammenfassungen generieren
+    for idx, artikel in enumerate(artikel_liste, 1):
+        print(f"Zusammenfassung {idx}/{len(artikel_liste)}: {artikel['titel'][:50]}...")
+        artikel['zusammenfassung'] = generiere_zusammenfassung(artikel)
+        time.sleep(0.5)
+    
+    # JSON erstellen
+    heute = datetime.now().strftime('%Y-%m-%d')
     newsletter_data = {
-        'id': datum,
-        'datum': datum_lesbar,
-        'generiert_am': datetime.now().isoformat(),
-        'anzahl_artikel': len(relevante_artikel),
-        'artikel': []
+        'datum': heute,
+        'artikel': artikel_liste,
+        'anzahl': len(artikel_liste)
     }
     
-    for i, artikel in enumerate(relevante_artikel):
-        newsletter_data['artikel'].append({
-            'id': i,
-            'titel': artikel['titel'],
-            'quelle': artikel['quelle'],
-            'link': artikel['link'],
-            'zusammenfassung': artikel['zusammenfassung'],
-            'score': artikel['score'],
-            'datum': artikel.get('datum', '')
-        })
-    
-    # Speichere JSON-Datei
-    filename = f"newsletter-{datum}.json"
-    filepath = filename  # Speichere im aktuellen Verzeichnis
-    
-    with open(filepath, 'w', encoding='utf-8') as f:
+    # JSON speichern
+    json_filename = 'newsletter-data.json'
+    with open(json_filename, 'w', encoding='utf-8') as f:
         json.dump(newsletter_data, f, ensure_ascii=False, indent=2)
     
-    print(f"   ✅ JSON gespeichert: {filename}")
-    
-    # Update index.json (Liste aller Newsletter)
-    index_path = 'newsletter-index.json'  # Auch im aktuellen Verzeichnis
-    
-    if os.path.exists(index_path):
-        with open(index_path, 'r', encoding='utf-8') as f:
-            index = json.load(f)
-    else:
-        index = {'newsletter': []}
-    
-    # Füge neuen Newsletter hinzu (wenn nicht schon vorhanden)
-    if not any(n['id'] == datum for n in index['newsletter']):
-        index['newsletter'].insert(0, {
-            'id': datum,
-            'datum': datum_lesbar,
-            'anzahl_artikel': len(relevante_artikel),
-            'url': f"newsletter-{datum}.json"
-        })
-    
-    with open(index_path, 'w', encoding='utf-8') as f:
-        json.dump(index, f, ensure_ascii=False, indent=2)
-    
-    print(f"   ✅ Index aktualisiert")
-    
-    return filename
+    print(f"✅ JSON gespeichert: {json_filename}")
+    return json_filename, heute
 
 
-# ============================================================================
-# EMAIL FUNKTIONEN
-# ============================================================================
-
-def sende_benachrichtigungs_email(empfaenger_name, empfaenger_email, anzahl_artikel):
+def sende_newsletter_email(empfaenger_name, empfaenger_email, anzahl_artikel, datum):
     """Sendet kurze Email mit Link zur Webseite"""
-    datum = datetime.now().strftime("%d.%m.%Y")
-    datum_id = datetime.now().strftime("%Y-%m-%d")
     
-    # Newsletter-URL mit Datum
-    newsletter_link = f"{NEWSLETTER_URL}/?date={datum_id}"
+    newsletter_link = f"{NEWSLETTER_URL}?date={datum}"
     
+    # HTML Email
     html = f"""
-    <!DOCTYPE html>
     <html>
     <head>
-        <meta charset="utf-8">
         <style>
             body {{
                 font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
                 line-height: 1.6;
                 color: #333;
+            }}
+            .container {{
                 max-width: 600px;
                 margin: 0 auto;
                 padding: 20px;
-                background-color: #f6f6f6;
             }}
-            .container {{
-                background-color: #ffffff;
+            .header {{
+                background: linear-gradient(135deg, #181716 0%, #2a2624 100%);
+                color: #ffd01d;
+                padding: 30px;
                 border-radius: 10px;
-                padding: 40px;
-                border-top: 5px solid #ffd01d;
-                box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            }}
-            .logo {{
                 text-align: center;
-                margin-bottom: 30px;
-            }}
-            .logo img {{
-                height: 60px;
-                width: auto;
-            }}
-            h1 {{
-                color: #181716;
-                margin: 0 0 20px 0;
-                font-size: 24px;
-            }}
-            .greeting {{
-                font-size: 18px;
-                margin-bottom: 20px;
             }}
             .stats {{
-                background-color: #ffd01d;
-                color: #181716;
+                background: #f6f6f6;
                 padding: 20px;
-                border-radius: 8px;
+                border-radius: 10px;
                 margin: 20px 0;
+                text-align: center;
+            }}
+            .stats-number {{
+                font-size: 48px;
+                font-weight: bold;
+                color: #181716;
             }}
             .button {{
                 display: inline-block;
-                background-color: #ffd01d;
+                background: #ffd01d;
                 color: #181716;
-                padding: 16px 40px;
+                padding: 15px 40px;
                 text-decoration: none;
                 border-radius: 8px;
-                font-weight: 600;
-                font-size: 16px;
+                font-weight: bold;
                 margin: 20px 0;
             }}
             .footer {{
-                margin-top: 40px;
-                padding-top: 20px;
-                border-top: 1px solid #eee;
-                color: #666;
-                font-size: 14px;
                 text-align: center;
+                color: #999;
+                font-size: 12px;
+                margin-top: 30px;
             }}
         </style>
     </head>
     <body>
         <div class="container">
-            <div class="logo">
-                <img src="{NEWSLETTER_URL}/logo-full.png" alt="Zoo Productions" />
+            <div class="header">
+                <h1>🎬 Zoo Medien Newsletter</h1>
+                <p>Dein täglicher Überblick</p>
             </div>
             
-            <h1>Medien Newsletter</h1>
-            
-            <div class="greeting">
-                Hallo {empfaenger_name},
-            </div>
-            
-            <p>dein täglicher Newsletter vom <strong>{datum}</strong> steht bereit!</p>
+            <p>Guten Morgen {empfaenger_name}!</p>
             
             <div class="stats">
-                ✨ <strong>{anzahl_artikel} relevante Artikel</strong> aus Deutschland, UK und USA<br>
-                🎯 Kuratiert von Claude AI<br>
-                💡 Bewerte direkt auf der Webseite
+                <div class="stats-number">{anzahl_artikel}</div>
+                <p>relevante Artikel für dich heute</p>
             </div>
+            
+            <p>Dein personalisierter Newsletter ist bereit! Klicke auf den Button um alle Artikel zu sehen:</p>
             
             <center>
                 <a href="{newsletter_link}" class="button">
-                    📰 Jetzt Newsletter lesen
+                    Newsletter öffnen →
                 </a>
             </center>
             
+            <p><small>💡 Tipp: Bewerte die Artikel mit ✓ oder ✗ - das System lernt aus deinem Feedback!</small></p>
+            
             <div class="footer">
-                <strong>Neu:</strong> Archiv-Funktion! Durchsuche alle vergangenen Newsletter.<br><br>
-                Zoo Productions | Powered by Claude AI
+                Zoo Productions | Automatisch generiert am {datetime.now().strftime('%d.%m.%Y um %H:%M')} Uhr
+                {' | 🎓 Learning Rules aktiv!' if USE_LEARNING else ''}
             </div>
         </div>
     </body>
     </html>
     """
     
+    # Email erstellen
+    msg = MIMEMultipart('alternative')
+    msg['From'] = GMAIL_USER
+    msg['To'] = empfaenger_email
+    msg['Subject'] = Header(f"📺 Zoo Newsletter - {anzahl_artikel} Artikel für dich ({datum})", 'utf-8')
+    
+    msg.attach(MIMEText(html, 'html', 'utf-8'))
+    
+    # Senden
     try:
-        msg = MIMEMultipart('alternative')
-        msg['From'] = GMAIL_USER
-        msg['To'] = empfaenger_email
-        msg['Subject'] = f'📺 Zoo Medien Newsletter - {datum}'
-        
-        html_part = MIMEText(html, 'html', 'utf-8')
-        msg.attach(html_part)
-        
+        print(f"📧 Sende Email an {empfaenger_name} ({empfaenger_email})...")
         server = smtplib.SMTP('smtp.gmail.com', 587)
-        server.ehlo()
         server.starttls()
         server.login(GMAIL_USER, GMAIL_APP_PASSWORD)
-        server.sendmail(GMAIL_USER, empfaenger_email, msg.as_string())
+        server.send_message(msg)
         server.quit()
-        
-        print(f"   ✅ Email an {empfaenger_name} gesendet")
+        print(f"   ✅ Email erfolgreich gesendet!")
         return True
     except Exception as e:
-        print(f"   ❌ Fehler bei {empfaenger_name}: {str(e)}")
+        print(f"   ❌ Email-Fehler: {e}")
         return False
 
 
 # ============================================================================
-# HAUPTPROGRAMM
+# MAIN
 # ============================================================================
 
 def main():
     """Hauptfunktion"""
+    print("\n" + "="*70)
+    print("🎬 ZOO MEDIEN NEWSLETTER - AUTOMATISIERUNG")
+    if USE_LEARNING:
+        print("🎓 LEARNING RULES AKTIV - System lernt aus Feedback!")
+    print("="*70)
+    print(f"⏰ Gestartet: {datetime.now().strftime('%d.%m.%Y um %H:%M:%S Uhr')}")
     
-    if not ANTHROPIC_API_KEY or not GMAIL_APP_PASSWORD:
-        print("❌ FEHLER: API Keys fehlen!")
+    # API Key Check
+    if not ANTHROPIC_API_KEY:
+        print("❌ FEHLER: ANTHROPIC_API_KEY nicht gesetzt!")
         sys.exit(1)
+    
+    # Artikel sammeln und bewerten
+    relevante_artikel = sammle_und_bewerte_alle_artikel()
+    
+    print("\n📊 ERGEBNIS")
+    print("="*70)
+    print(f"✅ {len(relevante_artikel)} relevante Artikel gefunden (Score ≥{MIN_SCORE})")
+    
+    if len(relevante_artikel) == 0:
+        print("⚠️ Keine relevanten Artikel heute - Newsletter wird nicht versendet")
+        return
+    
+    # JSON erstellen
+    json_file, datum = erstelle_newsletter_json(relevante_artikel)
+    
+    # Emails versenden
+    print("\n📧 VERSENDE EMAILS")
+    print("="*70)
+    
+    erfolg_counter = 0
+    for name, email in EMPFAENGER.items():
+        if sende_newsletter_email(name, email, len(relevante_artikel), datum):
+            erfolg_counter += 1
+        time.sleep(1)
     
     print("\n" + "="*70)
-    print("🚀 ZOO MEDIEN NEWSLETTER - WEBSEITEN-VERSION")
+    print("🎉 NEWSLETTER ERFOLGREICH VERSENDET!")
+    print("="*70)
+    print(f"✅ {erfolg_counter}/{len(EMPFAENGER)} Emails erfolgreich gesendet")
+    print(f"📄 Newsletter-Daten: {json_file}")
+    print(f"🌐 Webseite: {NEWSLETTER_URL}?date={datum}")
+    if USE_LEARNING:
+        print("🎓 Learning Rules wurden angewendet!")
     print("="*70 + "\n")
-    
-    # Schritt 1: RSS-Feeds holen
-    alle_artikel = []
-    for feed_name, feed_url in RSS_FEEDS.items():
-        print(f"📡 Hole Artikel von {feed_name}...")
-        artikel = hole_rss_artikel(feed_name, feed_url)
-        alle_artikel.extend(artikel)
-        print(f"   ✅ {len(artikel)} Artikel gefunden")
-    
-    print(f"\n📊 Gesamt: {len(alle_artikel)} Artikel gesammelt")
-    
-    if not alle_artikel:
-        print("❌ Keine Artikel gefunden!")
-        sys.exit(1)
-    
-    # Schritt 2: Mit Claude bewerten
-    print("\n" + "="*70)
-    print("🤖 BEWERTE ARTIKEL MIT CLAUDE API")
-    print("="*70 + "\n")
-    
-    relevante_artikel = []
-    
-    for i, artikel in enumerate(alle_artikel, 1):
-        titel_kurz = artikel['titel'][:60] + "..." if len(artikel['titel']) > 60 else artikel['titel']
-        print(f"[{i}/{len(alle_artikel)}] {artikel['quelle']}: {titel_kurz}")
-        
-        score = bewerte_artikel_mit_claude(artikel['titel'], artikel['beschreibung'])
-        
-        if score >= 7:
-            print(f"   ✅ Score: {score} - RELEVANT!")
-            
-            print("   📄 Lade Volltext...")
-            volltext = hole_volltext_von_url(artikel['link'])
-            
-            print("   ✍️  Erstelle Zusammenfassung...")
-            zusammenfassung = erstelle_zusammenfassung_mit_claude(artikel['titel'], volltext)
-            
-            artikel['score'] = score
-            artikel['zusammenfassung'] = zusammenfassung
-            relevante_artikel.append(artikel)
-            
-            time.sleep(1)
-        else:
-            print(f"   ⏭️  Score: {score} - übersprungen")
-        
-        time.sleep(0.5)
-    
-    print(f"\n📈 {len(relevante_artikel)} von {len(alle_artikel)} Artikeln relevant")
-    
-    # Schritt 3: JSON generieren
-    if relevante_artikel:
-        print("\n" + "="*70)
-        print("📝 GENERIERE JSON-DATEN")
-        print("="*70 + "\n")
-        
-        generiere_newsletter_json(relevante_artikel)
-        
-        # Schritt 4: Benachrichtigungs-Emails senden
-        print("\n" + "="*70)
-        print("📧 SENDE BENACHRICHTIGUNGS-EMAILS")
-        print("="*70 + "\n")
-        
-        erfolge = []
-        for name, email in EMPFAENGER.items():
-            erfolg = sende_benachrichtigungs_email(name, email, len(relevante_artikel))
-            erfolge.append(erfolg)
-            time.sleep(2)
-        
-        print("\n" + "="*70)
-        print("🎉 FERTIG!")
-        print("="*70)
-        print(f"✅ {len(alle_artikel)} Artikel analysiert")
-        print(f"✅ {len(relevante_artikel)} relevante Artikel gefunden")
-        print(f"✅ JSON-Datei generiert")
-        print(f"✅ {sum(erfolge)}/{len(EMPFAENGER)} Emails versendet")
-        print("="*70 + "\n")
-    else:
-        print("\n❌ Keine relevanten Artikel gefunden")
-        sys.exit(1)
 
 
 if __name__ == "__main__":
