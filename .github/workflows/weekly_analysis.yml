@@ -2,8 +2,8 @@ name: Weekly Learning Analysis
 
 on:
   schedule:
-    # Jeden Sonntag um 22:00 Uhr
-    - cron: '0 22 * * 0'
+    # Jeden Sonntag um 22:00 Uhr Berlin Zeit (21:00 UTC im Winter, 20:00 UTC im Sommer)
+    - cron: '0 21 * * 0'
   
   # Manueller Trigger für Tests
   workflow_dispatch:
@@ -40,8 +40,11 @@ jobs:
         git config user.name "Learning Bot"
         git config user.email "learning-bot@zooproductions.de"
         
+        # Füge learning_rules.py hinzu falls erstellt
         git add learning_rules.py 2>/dev/null || true
         
+        # Commit nur wenn es Änderungen gibt
         git diff --staged --quiet || git commit -m "🤖 Update learning rules - $(date +%Y-%m-%d)"
         
+        # Push (ignoriere Fehler falls nichts zu pushen)
         git push || true
