@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Zoo Newsletter - Wöchentliche Lern-Analyse
-Analysiert Bewertungen und passt automatisch Bewertungskriterien an
+Zoo Medien Newsletter - Wöchentliche Lern-Analyse
+Analysiert Bewertungen und generiert automatisch Lern-Regeln
 """
 
 import os
 import sys
 from datetime import datetime, timedelta
 from supabase import create_client, Client
-import json
 
 # ============================================================================
 # KONFIGURATION
@@ -18,413 +17,396 @@ import json
 SUPABASE_URL = os.environ.get('SUPABASE_URL', '')
 SUPABASE_KEY = os.environ.get('SUPABASE_KEY', '')
 
-# Schwellenwerte für automatische Regeln
-MIN_BEWERTUNGEN = 5  # Mindestanzahl Bewertungen für eine Regel
-RELEVANT_THRESHOLD = 70  # % relevant für positive Regel
-IRRELEVANT_THRESHOLD = 30  # % relevant für negative Regel
+# Schwellenwerte für Regel-Generierung
+MIN_BEWERTUNGEN = 5  # Minimum Bewertungen für eine Regel
+RELEVANT_SCHWELLE = 0.70  # 70% = als relevant markieren
+IRRELEVANT_SCHWELLE = 0.30  # 30% = als irrelevant markieren
 
 # ============================================================================
-# SUPABASE CLIENT
+# FUNKTIONEN
 # ============================================================================
 
 def get_supabase_client() -> Client:
-    """Erstellt Supabase Client"""
+    """Initialisiert Supabase Client"""
     if not SUPABASE_URL or not SUPABASE_KEY:
-        print("❌ FEHLER: SUPABASE_URL oder SUPABASE_KEY fehlt!")
+        print("❌ FEHLER: SUPABASE_URL oder SUPABASE_KEY nicht gesetzt!")
         sys.exit(1)
     
     return create_client(SUPABASE_URL, SUPABASE_KEY)
 
-# ============================================================================
-# ANALYSE FUNKTIONEN
-# ============================================================================
 
-def analysiere_zeitraum(supabase: Client, tage=7):
-    """Analysiert Bewertungen der letzten X Tage"""
+def hole_bewertungen_letzte_woche(supabase: Client, tage=7):
+    """Holt alle Bewertungen der letzten X Tage"""
+    ende = datetime.now().date()
+    start = ende - timedelta(days=tage)
     
-    end_date = datetime.now().date()
-    start_date = end_date - timedelta(days=tage)
+    print(f"\n📊 Analysiere Bewertungen von {start} bis {ende}")
+    print("="*70)
     
-    print(f"\n🔍 ANALYSIERE ZEITRAUM: {start_date} bis {end_date}")
-    print("="*70 + "\n")
-    
-    # Hole alle Bewertungen des Zeitraums
-    response = supabase.table('artikel_bewertungen')\
-        .select('*')\
-        .gte('newsletter_datum', str(start_date))\
-        .lte('newsletter_datum', str(end_date))\
-        .execute()
-    
-    bewertungen = response.data
-    
-    if not bewertungen:
-        print("⚠️  Keine Bewertungen im Zeitraum gefunden!")
-        return None
-    
-    print(f"📊 {len(bewertungen)} Bewertungen gefunden\n")
-    
-    # Analyse nach Quelle
-    quellen_stats = analyze_by_source(bewertungen)
-    
-    # Analyse nach Keywords im Titel
-    keyword_stats = analyze_by_keywords(bewertungen)
-    
-    return {
-        'zeitraum': {'start': start_date, 'end': end_date},
-        'anzahl_bewertungen': len(bewertungen),
-        'quellen': quellen_stats,
-        'keywords': keyword_stats
-    }
-
-
-def analyze_by_source(bewertungen):
-    """Analysiert Bewertungen gruppiert nach Quelle"""
-    
-    quellen = {}
-    
-    for b in bewertungen:
-        quelle = b['artikel_quelle']
-        if quelle not in quellen:
-            quellen[quelle] = {'total': 0, 'relevant': 0, 'nicht_relevant': 0}
+    try:
+        response = supabase.table('artikel_bewertungen') \
+            .select('*') \
+            .gte('newsletter_datum', start.isoformat()) \
+            .lte('newsletter_datum', ende.isoformat()) \
+            .execute()
         
-        quellen[quelle]['total'] += 1
-        if b['bewertung'] == 'relevant':
-            quellen[quelle]['relevant'] += 1
+        bewertungen = response.data
+        print(f"✅ {len(bewertungen)} Bewertungen gefunden")
+        return bewertungen, start, ende
+        
+    except Exception as e:
+        print(f"❌ Fehler beim Abrufen der Bewertungen: {e}")
+        return [], start, ende
+
+
+def analysiere_nach_quelle(bewertungen):
+    """Analysiert Bewertungen nach Quelle"""
+    quellen_stats = {}
+    
+    for bew in bewertungen:
+        quelle = bew['artikel_quelle']
+        if quelle not in quellen_stats:
+            quellen_stats[quelle] = {'relevant': 0, 'nicht_relevant': 0, 'total': 0}
+        
+        quellen_stats[quelle]['total'] += 1
+        if bew['bewertung'] == 'relevant':
+            quellen_stats[quelle]['relevant'] += 1
         else:
-            quellen[quelle]['nicht_relevant'] += 1
+            quellen_stats[quelle]['nicht_relevant'] += 1
     
-    # Berechne Prozente
-    for quelle, stats in quellen.items():
-        stats['relevant_prozent'] = round((stats['relevant'] / stats['total']) * 100, 1)
+    # Prozente berechnen
+    for quelle, stats in quellen_stats.items():
+        stats['relevant_prozent'] = stats['relevant'] / stats['total'] if stats['total'] > 0 else 0
     
-    # Sortiere nach Anzahl
-    quellen_sorted = dict(sorted(quellen.items(), key=lambda x: x[1]['total'], reverse=True))
-    
-    print("📰 ANALYSE NACH QUELLE:")
-    print("-" * 70)
-    for quelle, stats in quellen_sorted.items():
-        emoji = "✅" if stats['relevant_prozent'] >= RELEVANT_THRESHOLD else "⚠️" if stats['relevant_prozent'] <= IRRELEVANT_THRESHOLD else "📊"
-        print(f"{emoji} {quelle:20s} | {stats['total']:3d} Bewertungen | {stats['relevant_prozent']:5.1f}% relevant")
-    print()
-    
-    return quellen_sorted
+    return quellen_stats
 
 
-def analyze_by_keywords(bewertungen):
-    """Analysiert Bewertungen nach Keywords im Titel"""
-    
-    # Wichtige Keywords zum Tracken
-    keywords = [
-        'streaming', 'netflix', 'prime', 'disney', 'sky',
-        'format', 'quote', 'serie', 'show', 'dokumentation',
-        'politik', 'trump', 'bbc', 'ceo', 'fusion',
-        'künstliche intelligenz', 'ki', 'ai', 'tech'
-    ]
+def analysiere_nach_keywords(bewertungen):
+    """Analysiert Bewertungen nach häufigen Keywords im Titel"""
+    # Häufige Stop-Wörter
+    stopwords = {'der', 'die', 'das', 'und', 'oder', 'ein', 'eine', 'mit', 'von', 
+                 'in', 'für', 'auf', 'ist', 'im', 'the', 'a', 'an', 'and', 'or', 
+                 'of', 'to', 'in', 'for', 'on', 'at', 'by'}
     
     keyword_stats = {}
     
-    for keyword in keywords:
-        keyword_lower = keyword.lower()
-        matches = [b for b in bewertungen if keyword_lower in b['artikel_titel'].lower()]
+    for bew in bewertungen:
+        titel = bew['artikel_titel'].lower()
+        # Extrahiere Wörter (min 4 Zeichen)
+        words = [w.strip('.,!?:;') for w in titel.split() 
+                if len(w) > 3 and w.lower() not in stopwords]
         
-        if len(matches) >= MIN_BEWERTUNGEN:
-            relevant_count = sum(1 for b in matches if b['bewertung'] == 'relevant')
-            total = len(matches)
-            prozent = round((relevant_count / total) * 100, 1)
+        for word in words:
+            if word not in keyword_stats:
+                keyword_stats[word] = {'relevant': 0, 'nicht_relevant': 0, 'total': 0}
             
-            keyword_stats[keyword] = {
-                'total': total,
-                'relevant': relevant_count,
-                'relevant_prozent': prozent
-            }
+            keyword_stats[word]['total'] += 1
+            if bew['bewertung'] == 'relevant':
+                keyword_stats[word]['relevant'] += 1
+            else:
+                keyword_stats[word]['nicht_relevant'] += 1
     
-    if keyword_stats:
-        # Sortiere nach Anzahl
-        keyword_stats = dict(sorted(keyword_stats.items(), key=lambda x: x[1]['total'], reverse=True))
-        
-        print("🔑 ANALYSE NACH KEYWORDS:")
-        print("-" * 70)
-        for keyword, stats in keyword_stats.items():
-            emoji = "✅" if stats['relevant_prozent'] >= RELEVANT_THRESHOLD else "⚠️" if stats['relevant_prozent'] <= IRRELEVANT_THRESHOLD else "📊"
-            print(f"{emoji} {keyword:20s} | {stats['total']:3d} Artikel | {stats['relevant_prozent']:5.1f}% relevant")
-        print()
+    # Prozente berechnen
+    for keyword, stats in keyword_stats.items():
+        stats['relevant_prozent'] = stats['relevant'] / stats['total'] if stats['total'] > 0 else 0
+    
+    # Nur Keywords mit genug Bewertungen
+    keyword_stats = {k: v for k, v in keyword_stats.items() if v['total'] >= MIN_BEWERTUNGEN}
     
     return keyword_stats
 
 
-# ============================================================================
-# REGEL-GENERIERUNG
-# ============================================================================
-
-def generiere_regeln(analyse_daten, supabase: Client):
-    """Generiert automatisch Lern-Regeln basierend auf Analyse"""
+def generiere_regeln(quellen_stats, keyword_stats):
+    """Generiert Lern-Regeln basierend auf Statistiken"""
+    regeln = []
     
-    print("🤖 GENERIERE AUTOMATISCHE REGELN")
-    print("="*70 + "\n")
-    
-    neue_regeln = []
-    aktualisierte_regeln = []
-    
-    # Regeln aus Quellen-Analyse
-    for quelle, stats in analyse_daten['quellen'].items():
+    # Regeln für Quellen
+    for quelle, stats in quellen_stats.items():
         if stats['total'] < MIN_BEWERTUNGEN:
             continue
         
-        regel = None
+        prozent = stats['relevant_prozent']
         
-        # Sehr relevant → Score erhöhen
-        if stats['relevant_prozent'] >= RELEVANT_THRESHOLD:
-            regel = {
+        if prozent >= RELEVANT_SCHWELLE:
+            # Quelle ist oft relevant → Score erhöhen
+            modifier = +2 if prozent >= 0.85 else +1
+            regeln.append({
                 'regel_typ': 'quelle',
                 'bedingung': quelle,
-                'score_modifier': +1,
-                'begründung': f"{stats['relevant_prozent']}% der Artikel als relevant bewertet ({stats['relevant']}/{stats['total']})",
+                'score_modifier': modifier,
+                'begründung': f"{int(prozent*100)}% der {quelle}-Artikel wurden als relevant bewertet",
                 'anzahl_bewertungen': stats['total'],
-                'relevant_prozent': stats['relevant_prozent'],
-                'aktiv': True
-            }
-            print(f"✅ NEUE REGEL: {quelle} → Score +1 (sehr relevant)")
+                'relevant_prozent': round(prozent * 100, 2)
+            })
         
-        # Sehr irrelevant → Score senken
-        elif stats['relevant_prozent'] <= IRRELEVANT_THRESHOLD:
-            regel = {
+        elif prozent <= IRRELEVANT_SCHWELLE:
+            # Quelle ist oft irrelevant → Score senken
+            modifier = -2 if prozent <= 0.15 else -1
+            regeln.append({
                 'regel_typ': 'quelle',
                 'bedingung': quelle,
-                'score_modifier': -2,
-                'begründung': f"Nur {stats['relevant_prozent']}% der Artikel als relevant bewertet ({stats['relevant']}/{stats['total']})",
+                'score_modifier': modifier,
+                'begründung': f"Nur {int(prozent*100)}% der {quelle}-Artikel wurden als relevant bewertet",
                 'anzahl_bewertungen': stats['total'],
-                'relevant_prozent': stats['relevant_prozent'],
-                'aktiv': True
-            }
-            print(f"⚠️  NEUE REGEL: {quelle} → Score -2 (oft irrelevant)")
+                'relevant_prozent': round(prozent * 100, 2)
+            })
+    
+    # Regeln für Keywords
+    for keyword, stats in keyword_stats.items():
+        if stats['total'] < MIN_BEWERTUNGEN:
+            continue
         
-        if regel:
-            # Prüfe ob Regel schon existiert
-            existing = supabase.table('lern_regeln')\
-                .select('*')\
-                .eq('regel_typ', regel['regel_typ'])\
-                .eq('bedingung', regel['bedingung'])\
+        prozent = stats['relevant_prozent']
+        
+        if prozent >= RELEVANT_SCHWELLE:
+            modifier = +2 if prozent >= 0.85 else +1
+            regeln.append({
+                'regel_typ': 'keyword',
+                'bedingung': keyword,
+                'score_modifier': modifier,
+                'begründung': f"Artikel mit '{keyword}' wurden zu {int(prozent*100)}% als relevant bewertet",
+                'anzahl_bewertungen': stats['total'],
+                'relevant_prozent': round(prozent * 100, 2)
+            })
+        
+        elif prozent <= IRRELEVANT_SCHWELLE:
+            modifier = -2 if prozent <= 0.15 else -1
+            regeln.append({
+                'regel_typ': 'keyword',
+                'bedingung': keyword,
+                'score_modifier': modifier,
+                'begründung': f"Artikel mit '{keyword}' wurden nur zu {int(prozent*100)}% als relevant bewertet",
+                'anzahl_bewertungen': stats['total'],
+                'relevant_prozent': round(prozent * 100, 2)
+            })
+    
+    return regeln
+
+
+def speichere_regeln(supabase: Client, regeln):
+    """Speichert oder aktualisiert Regeln in Supabase"""
+    neue_regeln = 0
+    aktualisierte_regeln = 0
+    
+    for regel in regeln:
+        try:
+            # Prüfe ob Regel bereits existiert
+            existing = supabase.table('lern_regeln') \
+                .select('*') \
+                .eq('regel_typ', regel['regel_typ']) \
+                .eq('bedingung', regel['bedingung']) \
                 .execute()
             
             if existing.data:
-                # Update existierende Regel
-                supabase.table('lern_regeln')\
-                    .update(regel)\
-                    .eq('id', existing.data[0]['id'])\
+                # Update
+                supabase.table('lern_regeln') \
+                    .update(regel) \
+                    .eq('regel_typ', regel['regel_typ']) \
+                    .eq('bedingung', regel['bedingung']) \
                     .execute()
-                aktualisierte_regeln.append(regel)
+                aktualisierte_regeln += 1
             else:
-                # Neue Regel erstellen
-                supabase.table('lern_regeln')\
-                    .insert(regel)\
-                    .execute()
-                neue_regeln.append(regel)
+                # Insert
+                supabase.table('lern_regeln').insert(regel).execute()
+                neue_regeln += 1
+        
+        except Exception as e:
+            print(f"⚠️ Fehler beim Speichern der Regel {regel['bedingung']}: {e}")
     
-    # Regeln aus Keyword-Analyse
-    for keyword, stats in analyse_daten['keywords'].items():
-        regel = None
-        
-        if stats['relevant_prozent'] >= RELEVANT_THRESHOLD:
-            regel = {
-                'regel_typ': 'keyword',
-                'bedingung': keyword,
-                'score_modifier': +1,
-                'begründung': f"{stats['relevant_prozent']}% als relevant bewertet ({stats['relevant']}/{stats['total']})",
-                'anzahl_bewertungen': stats['total'],
-                'relevant_prozent': stats['relevant_prozent'],
-                'aktiv': True
-            }
-            print(f"✅ NEUE REGEL: Keyword '{keyword}' → Score +1")
-        
-        elif stats['relevant_prozent'] <= IRRELEVANT_THRESHOLD:
-            regel = {
-                'regel_typ': 'keyword',
-                'bedingung': keyword,
-                'score_modifier': -1,
-                'begründung': f"Nur {stats['relevant_prozent']}% als relevant bewertet ({stats['relevant']}/{stats['total']})",
-                'anzahl_bewertungen': stats['total'],
-                'relevant_prozent': stats['relevant_prozent'],
-                'aktiv': True
-            }
-            print(f"⚠️  NEUE REGEL: Keyword '{keyword}' → Score -1")
-        
-        if regel:
-            existing = supabase.table('lern_regeln')\
-                .select('*')\
-                .eq('regel_typ', regel['regel_typ'])\
-                .eq('bedingung', regel['bedingung'])\
-                .execute()
-            
-            if existing.data:
-                supabase.table('lern_regeln')\
-                    .update(regel)\
-                    .eq('id', existing.data[0]['id'])\
-                    .execute()
-                aktualisierte_regeln.append(regel)
-            else:
-                supabase.table('lern_regeln')\
-                    .insert(regel)\
-                    .execute()
-                neue_regeln.append(regel)
-    
-    print()
     return neue_regeln, aktualisierte_regeln
 
 
-def speichere_analyse_log(supabase: Client, analyse_daten, neue_regeln, aktualisierte_regeln):
-    """Speichert Analyse-Log in Datenbank"""
-    
-    log_text = f"""
-Analysezeitraum: {analyse_daten['zeitraum']['start']} bis {analyse_daten['zeitraum']['end']}
-Bewertungen gesamt: {analyse_daten['anzahl_bewertungen']}
-
-Quellen analysiert: {len(analyse_daten['quellen'])}
-Keywords analysiert: {len(analyse_daten['keywords'])}
-
-Neue Regeln: {len(neue_regeln)}
-Aktualisierte Regeln: {len(aktualisierte_regeln)}
-"""
-    
-    supabase.table('analyse_logs').insert({
-        'analyse_datum': datetime.now().date().isoformat(),
-        'zeitraum_von': str(analyse_daten['zeitraum']['start']),
-        'zeitraum_bis': str(analyse_daten['zeitraum']['end']),
-        'anzahl_bewertungen': analyse_daten['anzahl_bewertungen'],
-        'neue_regeln': len(neue_regeln),
-        'aktualisierte_regeln': len(aktualisierte_regeln),
-        'log_text': log_text
-    }).execute()
-
-
-# ============================================================================
-# CODE-GENERIERUNG
-# ============================================================================
-
 def generiere_python_code(supabase: Client):
-    """Generiert Python-Code mit aktuellen Regeln"""
-    
-    # Hole alle aktiven Regeln
-    response = supabase.table('lern_regeln')\
-        .select('*')\
-        .eq('aktiv', True)\
-        .order('score_modifier', desc=True)\
-        .execute()
-    
-    regeln = response.data
-    
-    if not regeln:
-        print("\n⚠️  Keine aktiven Regeln vorhanden")
-        return None
-    
-    print(f"\n📝 GENERIERE PYTHON-CODE MIT {len(regeln)} REGELN")
-    print("="*70 + "\n")
-    
-    # Gruppiere Regeln
-    quellen_plus = [r for r in regeln if r['regel_typ'] == 'quelle' and r['score_modifier'] > 0]
-    quellen_minus = [r for r in regeln if r['regel_typ'] == 'quelle' and r['score_modifier'] < 0]
-    keywords_plus = [r for r in regeln if r['regel_typ'] == 'keyword' and r['score_modifier'] > 0]
-    keywords_minus = [r for r in regeln if r['regel_typ'] == 'keyword' and r['score_modifier'] < 0]
-    
-    code = """
-# ============================================================================
-# AUTOMATISCH GENERIERTE LERN-REGELN
-# Letzte Aktualisierung: """ + datetime.now().strftime("%Y-%m-%d %H:%M") + """
-# ============================================================================
+    """Generiert learning_rules.py aus Datenbank-Regeln"""
+    try:
+        response = supabase.table('lern_regeln') \
+            .select('*') \
+            .eq('aktiv', True) \
+            .execute()
+        
+        regeln = response.data
+        
+        if not regeln:
+            print("ℹ️ Keine aktiven Regeln gefunden - learning_rules.py wird nicht erstellt")
+            return
+        
+        # Python Code generieren
+        code = '''#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Automatisch generierte Lern-Regeln für Zoo Medien Newsletter
+Generiert am: {timestamp}
+Anzahl Regeln: {anzahl}
+"""
 
 def apply_learning_rules(titel, quelle, base_score):
-    \"\"\"Wendet gelernte Regeln auf den Score an\"\"\"
+    """
+    Wendet gelernte Regeln auf einen Artikel an
+    
+    Args:
+        titel (str): Artikel-Titel
+        quelle (str): Artikel-Quelle
+        base_score (int): Basis-Score von Claude (1-10)
+    
+    Returns:
+        int: Angepasster Score (1-10)
+    """
     score = base_score
     titel_lower = titel.lower()
     
-"""
-    
-    # Quellen-Regeln (positiv)
-    if quellen_plus:
-        code += "    # Quellen mit hoher Relevanz\n"
-        for regel in quellen_plus:
+    # Regeln nach Quelle
+'''.format(
+            timestamp=datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+            anzahl=len(regeln)
+        )
+        
+        # Quellen-Regeln
+        quellen_regeln = [r for r in regeln if r['regel_typ'] == 'quelle']
+        for regel in quellen_regeln:
             code += f"    if quelle == '{regel['bedingung']}':\n"
             code += f"        score += {regel['score_modifier']}  # {regel['begründung']}\n"
-        code += "\n"
-    
-    # Quellen-Regeln (negativ)
-    if quellen_minus:
-        code += "    # Quellen mit niedriger Relevanz\n"
-        for regel in quellen_minus:
-            code += f"    if quelle == '{regel['bedingung']}':\n"
-            code += f"        score += {regel['score_modifier']}  # {regel['begründung']}\n"
-        code += "\n"
-    
-    # Keyword-Regeln (positiv)
-    if keywords_plus:
-        code += "    # Keywords mit hoher Relevanz\n"
-        for regel in keywords_plus:
+        
+        code += "\n    # Regeln nach Keywords\n"
+        
+        # Keyword-Regeln
+        keyword_regeln = [r for r in regeln if r['regel_typ'] == 'keyword']
+        for regel in keyword_regeln:
             code += f"    if '{regel['bedingung']}' in titel_lower:\n"
             code += f"        score += {regel['score_modifier']}  # {regel['begründung']}\n"
-        code += "\n"
+        
+        code += '''
+    # Score im gültigen Bereich halten (1-10)
+    score = max(1, min(10, score))
     
-    # Keyword-Regeln (negativ)
-    if keywords_minus:
-        code += "    # Keywords mit niedriger Relevanz\n"
-        for regel in keywords_minus:
-            code += f"    if '{regel['bedingung']}' in titel_lower:\n"
-            code += f"        score += {regel['score_modifier']}  # {regel['begründung']}\n"
-        code += "\n"
-    
-    code += """    # Begrenze Score auf 1-10
-    return max(1, min(10, score))
-"""
-    
-    return code
+    return score
+
+
+# Statistik über aktive Regeln
+ANZAHL_REGELN = {anzahl}
+QUELLEN_REGELN = {quellen}
+KEYWORD_REGELN = {keywords}
+'''.format(
+            anzahl=len(regeln),
+            quellen=len(quellen_regeln),
+            keywords=len(keyword_regeln)
+        )
+        
+        # Datei schreiben
+        with open('learning_rules.py', 'w', encoding='utf-8') as f:
+            f.write(code)
+        
+        print(f"✅ learning_rules.py erstellt ({len(regeln)} Regeln)")
+        print(f"   - {len(quellen_regeln)} Quellen-Regeln")
+        print(f"   - {len(keyword_regeln)} Keyword-Regeln")
+        
+    except Exception as e:
+        print(f"❌ Fehler beim Generieren von learning_rules.py: {e}")
+
+
+def speichere_analyse_log(supabase: Client, start, ende, anzahl_bewertungen, 
+                          neue_regeln, aktualisierte_regeln, log_text):
+    """Speichert Analyse-Log in Datenbank"""
+    try:
+        log_entry = {
+            'analyse_datum': datetime.now().date().isoformat(),
+            'zeitraum_von': start.isoformat(),
+            'zeitraum_bis': ende.isoformat(),
+            'anzahl_bewertungen': anzahl_bewertungen,
+            'neue_regeln': neue_regeln,
+            'aktualisierte_regeln': aktualisierte_regeln,
+            'log_text': log_text
+        }
+        
+        supabase.table('analyse_logs').insert(log_entry).execute()
+        print("✅ Analyse-Log gespeichert")
+        
+    except Exception as e:
+        print(f"⚠️ Fehler beim Speichern des Logs: {e}")
 
 
 # ============================================================================
-# HAUPTPROGRAMM
+# MAIN
 # ============================================================================
 
 def main():
     """Hauptfunktion"""
-    
     print("\n" + "="*70)
-    print("🤖 ZOO NEWSLETTER - WÖCHENTLICHE LERN-ANALYSE")
+    print("🤖 ZOO MEDIEN NEWSLETTER - WÖCHENTLICHE ANALYSE")
     print("="*70)
     
-    # Initialisiere Supabase
+    # Supabase Client
     supabase = get_supabase_client()
     
-    # Analysiere letzte 7 Tage
-    analyse_daten = analysiere_zeitraum(supabase, tage=7)
+    # Bewertungen abrufen
+    bewertungen, start, ende = hole_bewertungen_letzte_woche(supabase)
     
-    if not analyse_daten:
-        print("\n⚠️  Keine Daten zum Analysieren vorhanden")
-        sys.exit(0)
+    if len(bewertungen) < MIN_BEWERTUNGEN:
+        print(f"\n⚠️ Zu wenig Bewertungen ({len(bewertungen)}) für eine Analyse")
+        print(f"   Minimum: {MIN_BEWERTUNGEN} Bewertungen")
+        print("   Warte bis nächste Woche!")
+        return
     
-    # Generiere Regeln
-    neue_regeln, aktualisierte_regeln = generiere_regeln(analyse_daten, supabase)
+    # Statistiken erstellen
+    print("\n📈 ANALYSE NACH QUELLE")
+    print("-"*70)
+    quellen_stats = analysiere_nach_quelle(bewertungen)
+    for quelle, stats in sorted(quellen_stats.items(), key=lambda x: x[1]['total'], reverse=True):
+        prozent = int(stats['relevant_prozent'] * 100)
+        print(f"{quelle:30} | {stats['total']:3} Bewertungen | {prozent:3}% relevant")
     
-    # Speichere Log
-    speichere_analyse_log(supabase, analyse_daten, neue_regeln, aktualisierte_regeln)
+    print("\n📈 ANALYSE NACH KEYWORDS")
+    print("-"*70)
+    keyword_stats = analysiere_nach_keywords(bewertungen)
+    # Top 10 Keywords
+    for keyword, stats in sorted(keyword_stats.items(), key=lambda x: x[1]['total'], reverse=True)[:10]:
+        prozent = int(stats['relevant_prozent'] * 100)
+        print(f"{keyword:30} | {stats['total']:3} Bewertungen | {prozent:3}% relevant")
     
-    # Generiere Python-Code
-    python_code = generiere_python_code(supabase)
+    # Regeln generieren
+    print("\n🎯 GENERIERE LERN-REGELN")
+    print("-"*70)
+    regeln = generiere_regeln(quellen_stats, keyword_stats)
     
-    if python_code:
-        # Speichere in Datei
-        with open('learning_rules.py', 'w', encoding='utf-8') as f:
-            f.write(python_code)
-        
-        print("✅ Python-Code gespeichert in: learning_rules.py")
-        print("\n💡 NÄCHSTE SCHRITTE:")
-        print("1. Prüfe learning_rules.py")
-        print("2. Kopiere den Code in medien_newsletter_web.py")
-        print("3. Integriere apply_learning_rules() in bewerte_artikel_mit_claude()")
+    if not regeln:
+        print("ℹ️ Keine neuen Regeln generiert (Schwellenwerte nicht erreicht)")
+        return
+    
+    print(f"✅ {len(regeln)} Regeln generiert")
+    
+    for regel in regeln:
+        operator = "+" if regel['score_modifier'] > 0 else ""
+        print(f"   [{regel['regel_typ']:8}] {regel['bedingung']:30} → Score {operator}{regel['score_modifier']} ({regel['begründung']})")
+    
+    # Regeln speichern
+    print("\n💾 SPEICHERE REGELN")
+    print("-"*70)
+    neue_regeln, aktualisierte_regeln = speichere_regeln(supabase, regeln)
+    print(f"✅ {neue_regeln} neue Regeln erstellt")
+    print(f"✅ {aktualisierte_regeln} Regeln aktualisiert")
+    
+    # Python Code generieren
+    print("\n🐍 GENERIERE PYTHON CODE")
+    print("-"*70)
+    generiere_python_code(supabase)
+    
+    # Log speichern
+    log_text = f"Analyse abgeschlossen: {len(bewertungen)} Bewertungen, {len(regeln)} Regeln generiert"
+    speichere_analyse_log(supabase, start, ende, len(bewertungen), neue_regeln, aktualisierte_regeln, log_text)
     
     # Zusammenfassung
     print("\n" + "="*70)
     print("🎉 ANALYSE ABGESCHLOSSEN")
     print("="*70)
-    print(f"✅ {analyse_daten['anzahl_bewertungen']} Bewertungen analysiert")
-    print(f"✅ {len(neue_regeln)} neue Regeln erstellt")
-    print(f"✅ {len(aktualisierte_regeln)} Regeln aktualisiert")
+    print(f"✅ {len(bewertungen)} Bewertungen analysiert")
+    print(f"✅ {len(regeln)} Regeln generiert")
+    print(f"✅ {neue_regeln} neue + {aktualisierte_regeln} aktualisierte Regeln")
+    
+    if neue_regeln > 0 or aktualisierte_regeln > 0:
+        print("\n💡 NÄCHSTE SCHRITTE:")
+        print("1. Prüfe learning_rules.py")
+        print("2. Kopiere den Code in medien_newsletter.py")
+        print("3. Integriere apply_learning_rules() in bewerte_artikel_mit_claude()")
+    
     print("="*70 + "\n")
 
 
