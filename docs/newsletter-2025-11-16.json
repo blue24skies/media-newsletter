@@ -1,240 +1,173 @@
 {
-  "datum": "2025-11-16",
-  "artikel": [
+  "date": "2025-11-16",
+  "articles": [
     {
-      "quelle": "DWDL",
-      "titel": "Die Abrechnung - Das große Sender-Showdown Spezial",
-      "beschreibung": "",
-      "link": "https://www.dwdl.de/hauptstadtstudio/104510/die_abrechnung__das_grosse_sendershowdown_spezial/",
-      "published": "Sun, 16 Nov 2025 10:07:00 +0100",
-      "score": 7,
-      "zusammenfassung": "Der Medien-Journalist Peer Schader analysiert die neue ProSieben/Joyn-Reality-Show \"Die Abrechnung\", die Prominente in inszenierten Konflikten gegeneinander antreten lässt und anschließend zur Versöhnung animiert. Er nutzt das Format als Aufhänger für eine satirische Betrachtung der aktuellen Konkurrenzkämpfe zwischen deutschen TV-Sendern, insbesondere dem Programmplatz-Streit zwischen RTL und ProSieben um \"TV total\". Der Artikel kritisiert sowohl das selbsterhaltende Reality-TV-System als auch die versteckten Spannungen in der scheinbar harmonischen deutschen Medienlandschaft."
+      "source": "DWDL",
+      "title": "Disney und YouTube TV legen Streit um Verbreitung bei",
+      "link": "https://www.dwdl.de/nachrichten/104543/disney_und_youtube_tv_legen_streit_um_verbreitung_bei/",
+      "summary": "Disney und YouTube TV haben ihren zweiwöchigen Streit um die Höhe der Verbreitungsgebühren beigelegt, nachdem Disney-Kanäle wie ABC und ESPN seit dem 30. Dezember nicht mehr über die Plattform verfügbar waren. Die Einigung erfolgte rechtzeitig vor wichtigen Sport-Events, die über die betroffenen Sender übertragen werden.",
+      "score": 8
     },
     {
-      "quelle": "DWDL",
-      "titel": "\"Kaum zu glauben XXL\" lässt alle Privatsender hinter sich",
-      "beschreibung": "",
-      "link": "https://www.dwdl.de/zahlenzentrale/104542/kaum_zu_glauben_xxl_laesst_alle_privatsender_hinter_sich/",
-      "published": "Sun, 16 Nov 2025 09:14:00 +0100",
-      "score": 9,
-      "zusammenfassung": "Die XXL-Ausgabe von \"Kaum zu glauben\" mit Kai Pflaume erzielte am Samstagabend im NDR Fernsehen mit 1,56 Millionen Zuschauern und 5,8 Prozent Marktanteil einen außergewöhnlichen Erfolg und übertrumpfte dabei sämtliche Privatsender. Der starke Erfolg der Rateshow verhalf dem NDR zu einem beachtlichen sechsten Platz im gesamtdeutschen TV-Markt mit 3,8 Prozent Tagesmarktanteil - sogar vor ProSieben. Profitiert hat die Sendung offenbar davon, dass ARD und ZDF zeitgleich auf Krimis setzten und somit eine Programmücke für Unterhaltung entstand."
-    },
-    {
-      "quelle": "DWDL",
-      "titel": "Disney Channel stürmt Top 10, Rugby räumt bei Maxx ab",
-      "beschreibung": "",
-      "link": "https://www.dwdl.de/zahlenzentrale/104541/disney_channel_stuermt_top_10_rugby_raeumt_bei_maxx_ab/",
-      "published": "Sun, 16 Nov 2025 08:51:00 +0100",
-      "score": 7,
-      "zusammenfassung": "Disney Channel erreichte am Samstagabend mit dem Animationsfilm \"Encanto\" einen bemerkenswerten Quotenerfolg und schaffte es mit 6,0 Prozent Marktanteil in der Zielgruppe 14-49 Jahre in die Top 10. Parallel feierte ProSieben Maxx große Erfolge mit Rugby-Übertragungen der Nations Series, die Marktanteile von bis zu 6,6 Prozent erzielten und dem Sender einen herausragenden siebten Tagesplatz mit 3,8 Prozent bescherten. Beide Spartensender übertrafen damit deutlich etablierte Konkurrenten wie Kabel Eins und RTLzwei."
-    },
-    {
-      "quelle": "DWDL",
-      "titel": "Unzerquizbar, aber nicht unschlagbar: Neue Raab-Show startet mau",
-      "beschreibung": "",
-      "link": "https://www.dwdl.de/zahlenzentrale/104540/unzerquizbar_aber_nicht_unschlagbar_neue_raabshow_startet_mau/",
-      "published": "Sun, 16 Nov 2025 08:34:00 +0100",
-      "score": 9,
-      "zusammenfassung": "Die neue RTL-Show \"Die Unzerquizbaren\" mit Stefan Raab und Elton ist mit nur 880.000 Zuschauern und schwachen 8,3 Prozent Marktanteil in der werberelevanten Zielgruppe (14-49 Jahre) mäßig gestartet. Das Format verlor das direkte Duell gegen ProSiebens \"The Masked Singer\" (10,8 Prozent) und landete auch hinter Sat.1s \"Harry Potter\"-Film (10,0 Prozent). Die Tagessieger waren die öffentlich-rechtlichen Sender mit \"Wilsberg\" im ZDF (23,4 Prozent Gesamtmarktanteil) und der \"Tagesschau\" (20,6 Prozent in der Zielgruppe)."
-    },
-    {
-      "quelle": "DWDL",
-      "titel": "Juliane von Schwerin: \"Ahnung finde ich wichtiger als Haltung\"",
-      "beschreibung": "",
-      "link": "https://www.dwdl.de/nahaufnahme/104536/juliane_von_schwerin_ahnung_finde_ich_wichtiger_als_haltung/",
-      "published": "Sat, 15 Nov 2025 10:50:00 +0100",
-      "score": 8,
-      "zusammenfassung": "Juliane von Schwerin, stellvertretende NDR-Programmdirektorin, übernimmt die Verantwortung für die Neuaufsetzung des umstrittenen Reportagemagazins \"Klar\", nachdem sich der Sender von Moderatorin Julia Ruhs getrennt hatte. Die Trennung erfolgte nach internen Protesten von 250 Mitarbeitern gegen Ruhs und heftige Kritik an der ersten Sendung über illegale Migration. Von Schwerin betont, dass für sie journalistische Kompetenz wichtiger sei als politische Haltung: \"Ahnung finde ich wichtiger als Haltung.\""
-    },
-    {
-      "quelle": "DWDL",
-      "titel": "Skuppin: \"Es muss wieder stärker ums Programm gehen\"",
-      "beschreibung": "",
+      "source": "DWDL",
+      "title": "Skuppin: \"Es muss wieder stärker ums Programm gehen\"",
       "link": "https://www.dwdl.de/nachrichten/104537/skuppin_es_muss_wieder_staerker_ums_programm_gehen/",
-      "published": "Sat, 15 Nov 2025 10:42:00 +0100",
-      "score": 9,
-      "zusammenfassung": "RBB-Programmdirektor Robert Skuppin verteidigt den geplanten Stellenabbau seines Senders mit dem Argument, dass gemessen an der Produktion zu viele Mitarbeiter beschäftigt seien. Durch Einsparungen von 22 Millionen Euro bei den Gehältern sollen neun Millionen für laufende Kosten und 13 Millionen zusätzlich in Programmetats investiert werden. Skuppin betont, dass interne Debatten wieder stärker auf das Programm fokussiert werden müssen, um die derzeit frustrierte Stimmung im Sender zu verbessern."
+      "summary": "RBB-Programmdirektor Robert Skuppin verteidigt die Sparmaßnahmen seines Senders mit der Begründung, dass der RBB gemessen an der Produktionskapazität zu viele Mitarbeiter beschäftige. Er räumt Finanz-, Struktur- und Transformationsprobleme ein, fordert aber gleichzeitig, dass in internen Diskussionen wieder das Programm im Mittelpunkt stehen müsse. Parallel dazu will Skuppin am Selbstwertgefühl der Belegschaft arbeiten.",
+      "score": 9
     },
     {
-      "quelle": "DWDL",
-      "titel": "\"Those About to Die\" endet bei ProSieben am Tiefpunkt",
-      "beschreibung": "",
-      "link": "https://www.dwdl.de/zahlenzentrale/104535/those_about_to_die_endet_bei_prosieben_am_tiefpunkt/",
-      "published": "Sat, 15 Nov 2025 09:23:00 +0100",
-      "score": 8,
-      "zusammenfassung": "Die Serie \"Those About to Die\" endete bei ProSieben mit einem katastrophalen Finale-Ergebnis von nur 1,4 Prozent Marktanteil in der Zielgruppe und 290.000 Zuschauern insgesamt. Damit landete ProSieben am Freitagabend auf dem letzten Platz aller Vollprogramme und verzeichnete seit dem bereits schwachen Start vor einem Monat kontinuierlich sinkende Quoten. Der Sender hatte die Serie trotz wochenlanger Marktanteile von teilweise unter drei Prozent im Programm behalten, wohl auch mangels besserer Alternativen gegen die EM-Qualifikation bei RTL."
-    },
-    {
-      "quelle": "DWDL",
-      "titel": "ZDF zeigt sich vom Länderspiel weitgehend unbeeindruckt",
-      "beschreibung": "",
-      "link": "https://www.dwdl.de/zahlenzentrale/104534/zdf_zeigt_sich_vom_laenderspiel_weitgehend_unbeeindruckt/",
-      "published": "Sat, 15 Nov 2025 09:03:00 +0100",
-      "score": 7,
-      "zusammenfassung": "Das ZDF konnte sich am Freitagabend trotz der Fußball-Konkurrenz durch RTL behaupten und erreichte mit 15,3 Prozent Tagesmarktanteil die Spitzenposition beim Gesamtpublikum. Die Krimiserie \"Jenseits der Spree\" lockte 4,35 Millionen Zuschauer (18,2 Prozent) vor die Bildschirme, während die nachfolgende \"SOKO Leipzig\" noch 3,65 Millionen Menschen erreichte. Bei der werberelevanten Zielgruppe der 14- bis 49-Jährigen schwächelten jedoch sowohl ZDF als auch ARD mit Werten zwischen 3,6 und 4,2 Prozent."
-    },
-    {
-      "quelle": "DWDL",
-      "titel": "RTL dominiert mit WM-Quali, Sat.1 tut sich mit U21 schwer",
-      "beschreibung": "",
-      "link": "https://www.dwdl.de/zahlenzentrale/104533/rtl_dominiert_mit_wmquali_sat1_tut_sich_mit_u21_schwer/",
-      "published": "Sat, 15 Nov 2025 08:45:00 +0100",
-      "score": 9,
-      "zusammenfassung": "RTL dominierte am Freitag mit 18,0 Prozent Tagesmarktanteil in der Zielgruppe der 14- bis 49-Jährigen dank der erfolgreichen Übertragung des WM-Qualifikationsspiels Luxemburg gegen Niederlande, das in der zweiten Hälfte 7,64 Millionen Zuschauer und 42,2 Prozent Marktanteil in der Zielgruppe erreichte. Sat.1 hingegen enttäuschte mit dem U21-Länderspiel Deutschland gegen Malta (nur 3,4-4,0 Prozent Marktanteil) und \"The Voice of Germany\" erreichte trotz 7,5 Prozent Zielgruppen-Marktanteil einen neuen Staffel-Tiefstwert."
-    },
-    {
-      "quelle": "DWDL",
-      "titel": "Gottschalk über \"Bambi\"-Auftritt: \"Ich hatte einen Blackout\"",
-      "beschreibung": "",
-      "link": "https://www.dwdl.de/nachrichten/104532/gottschalk_ueber_bambiauftritt_ich_hatte_einen_blackout/",
-      "published": "Sat, 15 Nov 2025 08:18:00 +0100",
-      "score": 7,
-      "zusammenfassung": "Thomas Gottschalk erklärt seinen verwirrenden Auftritt bei der \"Bambi\"-Verleihung mit einem \"Blackout\", ausgelöst durch die Verwechslung zwischen der echten Cher und ihrer Musical-Darstellerin Sophie Berner. Der 75-Jährige räumt ein, zum ersten Mal auf einer öffentlichen Bühne \"echt verwirrt\" gewesen zu sein und \"dummes Zeug erzählt\" zu haben, insbesondere seine umstrittene Aussage über Cher als einzige Frau, die er ernst nehme. Gottschalk entschuldigt sich für seine Äußerungen und betont, gesund und munter zu sein."
-    },
-    {
-      "quelle": "DWDL",
-      "titel": "ProSieben verbannt \"Die Abrechnung\" ins Nachtprogramm",
-      "beschreibung": "",
+      "source": "DWDL",
+      "title": "ProSieben verbannt \"Die Abrechnung\" ins Nachtprogramm",
       "link": "https://www.dwdl.de/nachrichten/104531/prosieben_verbannt_die_abrechnung_ins_nachtprogramm/",
-      "published": "Fri, 14 Nov 2025 17:20:00 +0100",
-      "score": 8,
-      "zusammenfassung": "ProSieben verbannt die Reality-Formate \"Die Abrechnung - Der Promi-Showdown\" und \"Das Große Promi-Büßen\" nach katastrophalen Quoten ins Nachtprogramm zwischen 1:15 und 5:15 Uhr. Die zweite Folge der \"Abrechnung\" erreichte nur 3,5 Prozent Marktanteil bei den 14- bis 49-Jährigen, während das \"Promi-Büßen\" auf desaströse 1,7 Prozent abstürzte. Ab kommender Woche ersetzt der Sender den Donnerstagabend-Primetime-Slot mit Spielfilmen wie \"Das fünfte Element\" und hofft auf eine Verlagerung der Zuschauer zur Streaming-Plattform Joyn."
+      "summary": "ProSieben verlegt das Reality-Format \"Die Abrechnung\" aufgrund schlechter linearer Quoten von der Primetime ins Nachtprogramm ab 1:15 Uhr. Die Programmumstellung führt dazu, dass \"Das große Promi-Büßen\" in der Nacht zwischen 3:45 und 5:15 Uhr ausgestrahlt wird. Der Sender reagiert damit auf den Flop des neuen Formats in der Hauptsendezeit.",
+      "score": 7
     },
     {
-      "quelle": "DWDL",
-      "titel": "Rote Zahlen, Schwarze Zahlen: Der Disney-Jahresabschluss 2025",
-      "beschreibung": "",
-      "link": "https://www.dwdl.de/industry/104530/rote_zahlen_schwarze_zahlen_der_disneyjahresabschluss_2025/",
-      "published": "Fri, 14 Nov 2025 16:20:00 +0100",
-      "score": 7,
-      "zusammenfassung": "Disney hat am 13. November 2025 seine Quartal- und Jahresergebnisse 2025 veröffentlicht, die ein gemischtes Bild zeigen: Während die linearen TV-Geschäfte enttäuschten, entwickelte sich das Streaming-Segment überwiegend positiv. Die Analyse von DWDL.de beleuchtet insbesondere die Profitabilität des Direct-to-Consumer-Geschäfts und das Abo-Wachstum nach dem Churn-Problem rund um Jimmy Kimmel. Gleichzeitig werden Fragen zur Transparenz von Disneys Abo-Zahlen und den verwendeten Kennzahlen aufgeworfen."
+      "source": "DWDL",
+      "title": "Deutsche Welle erhält zehn Millionen weniger als geplant",
+      "link": "https://www.dwdl.de/nachrichten/104527/deutsche_welle_erhaelt_zehn_millionen_weniger_als_geplant/",
+      "summary": "Der Haushaltsausschuss des Bundestages hat den Etat der Deutschen Welle für das kommende Jahr um zehn Millionen Euro auf 395,5 Millionen Euro gekürzt, obwohl dies immer noch eine Erhöhung gegenüber 2024 darstellt. Die Kürzung gegenüber den ursprünglich geplanten 405,5 Millionen Euro stößt bei den DW-Aufsichtsgremien auf Empörung und dürfte dem Auslandssender operative Probleme bereiten.",
+      "score": 8
     },
     {
-      "quelle": "DWDL",
-      "titel": "\"Herrhausen\" führt ersten Schwung der DAfFNE-Nominierungen an",
-      "beschreibung": "",
-      "link": "https://www.dwdl.de/nachrichten/104529/herrhausen_fuehrt_ersten_schwung_der_daffnenominierungen_an/",
-      "published": "Fri, 14 Nov 2025 16:15:00 +0100",
-      "score": 8,
-      "zusammenfassung": "Die ARD-Miniserie \"Herrhausen - Der Herr des Geldes\" führt mit drei Nominierungen den ersten Schwung der DAfFNE-Auszeichnungen 2026 an, die am 20. Februar in Berlin verliehen werden. Die Deutsche Akademie für Fernsehen ehrt damit herausragende kreative Leistungen bei deutschen TV- und Streaming-Produktionen in insgesamt 21 Kategorien. Neben \"Herrhausen\" sind auch \"Angemessen Angry\", \"Krank Berlin\", \"Achtsam Morden\" und weitere Produktionen mehrfach nominiert."
-    },
-    {
-      "quelle": "DWDL",
-      "titel": "SWR plant TV-Dreikampf zwischen Grünen, CDU und AfD",
-      "beschreibung": "",
+      "source": "DWDL",
+      "title": "SWR plant TV-Dreikampf zwischen Grünen, CDU und AfD",
       "link": "https://www.dwdl.de/nachrichten/104526/swr_plant_tvdreikampf_zwischen_gruenen_cdu_und_afd/",
-      "published": "Fri, 14 Nov 2025 15:03:00 +0100",
-      "score": 7,
-      "zusammenfassung": "Der SWR hat seine Wahlberichterstattung für die Landtagswahlen im März 2026 angekündigt und setzt dabei auf unterschiedliche Formate: In Baden-Württemberg ist am 24. Februar ein TV-Dreikampf zwischen CDU, Grünen und AfD geplant, während in Rheinland-Pfalz am 10. März ein klassisches Duell zwischen Ministerpräsident Schweitzer (SPD) und CDU-Herausforderer Schnieder stattfindet. Zusätzlich sind in beiden Bundesländern \"Wahlarena\"-Formate mit Bürgerfragen sowie weitere Radio- und Digitalangebote vorgesehen."
+      "summary": "Der SWR plant für die Landtagswahlen 2026 in Baden-Württemberg ein TV-Dreikampf zwischen Grünen, CDU und AfD, was auf heftige Kritik stößt. SPD und Grüne lehnen eine Beteiligung der rechtspopulistischen AfD ab und drohen mit Boykott der Sendung. Die FDP kritisiert den SWR dafür, zunächst eine Sendung ohne die FDP geplant zu haben, nun aber \"sehr viel Energie\" darauf zu verwenden, die AfD einzubeziehen.",
+      "score": 7
     },
     {
-      "quelle": "DWDL",
-      "titel": "Kurswechsel in Sicht? RTL Group weckt wieder Fantasien",
-      "beschreibung": "",
-      "link": "https://www.dwdl.de/meinungen/104525/kurswechsel_in_sicht_rtl_group_weckt_wieder_fantasien_/",
-      "published": "Fri, 14 Nov 2025 14:39:00 +0100",
-      "score": 9,
-      "zusammenfassung": "Die RTL Group erhält mit Clément Schwebig (ab Mai 2026) erstmals wieder einen eigenständigen CEO, nachdem die Führung zuletzt vom Bertelsmann-Chef mitübernommen wurde. Schwebig wechselt von Warner Bros. Discovery zurück zur RTL Group, wo er bereits von 2002 bis 2013 tätig war. Die Personalie deutet auf eine strategische Neuausrichtung hin, bei der Bertelsmann seinem TV-Geschäft wieder größere Eigenständigkeit einräumt und möglicherweise Expansionspläne in asiatische Wachstumsmärkte verfolgt."
-    },
-    {
-      "quelle": "DWDL",
-      "titel": "Vereinte Kräfte im Norden: TVN Group übernimmt TV Plus",
-      "beschreibung": "",
+      "source": "DWDL",
+      "title": "Vereinte Kräfte im Norden: TVN Group übernimmt TV Plus",
       "link": "https://www.dwdl.de/nachrichten/104523/vereinte_kraefte_im_norden_tvn_group_uebernimmt_tv_plus/",
-      "published": "Fri, 14 Nov 2025 13:33:00 +0100",
-      "score": 7,
-      "zusammenfassung": "Die TVN Group übernimmt zum 1. Januar 2026 sämtliche Geschäftsanteile der Hannoveraner Produktionsfirma TV Plus, die seit 1997 die erfolgreiche NDR-Spielshow \"Bingo! Die Umweltlotterie\" produziert. TV Plus bleibt als eigenständige Einheit bestehen, die Produktion wird künftig im TVN-Studio in Hannover stattfinden, während das bisherige Team unter Geschäftsführer Thomas Schäffer unverändert weiterarbeitet. Die Übernahme durch die zur Madsack Mediengruppe gehörende TVN Group stellt eine Konsolidierung auf dem norddeutschen Produktionsmarkt dar und soll Synergien zwischen redaktioneller Kompetenz und technischer Exzellenz schaffen."
+      "summary": "Die TVN Group übernimmt zum Jahreswechsel die Hannoveraner Produktionsfirma TV Plus, die seit 1997 die \"Bingo!\"-Show für den NDR produziert. Laut CEO Markus Osthaus sollen durch die Integration Synergien zwischen redaktioneller Kompetenz und technischer Exzellenz geschaffen werden. Beide Unternehmen sind in Hannover ansässig und stärken damit den norddeutschen Medienstandort.",
+      "score": 9
     },
     {
-      "quelle": "DWDL",
-      "titel": "Von Äpfeln und Birnen: Die TV-Reichweite muss sich nicht verstecken",
-      "beschreibung": "",
-      "link": "https://www.dwdl.de/tvmythen/104496/von_aepfeln_und_birnen_die_tvreichweite_muss_sich_nicht_verstecken/",
-      "published": "Fri, 14 Nov 2025 12:30:00 +0100",
-      "score": 8,
-      "zusammenfassung": "Das lineare Fernsehen hat zwar an Reichweite verloren, erreicht aber tatsächlich deutlich mehr Menschen als die morgendlichen TV-Quoten zeigen, da zeitversetzte Nutzung, Livestreams und Video-on-Demand-Abrufe nicht berücksichtigt werden. Die TV-Branche sollte sich auf die Ausweisung konvergenter Reichweiten einigen und diese auch veröffentlichen, um ein vollständiges Bild der tatsächlichen Nutzung zu vermitteln. Zudem werden TV-Reichweiten unfair mit anderen Medien verglichen, obwohl das Fernsehen mit der \"durchschnittlichen Sehbeteiligung\" auf die härteste Reichweiten-Währung setzt."
+      "source": "DWDL",
+      "title": "Drehstart für neue Netflix-Dramedy \"Love & Chaos\"",
+      "link": "https://www.dwdl.de/nachrichten/104520/drehstart_fuer_neue_netflixdramedy_love__chaos/",
+      "summary": "Die Produktionsfirma btf startet nach \"How to sell drugs online (fast)\" und \"King of Stonks\" die Dreharbeiten zu ihrer neuen Netflix-Serie \"Love & Chaos\" mit Anne Schäfer und Simon Ludwig in den Hauptrollen. Regie führen Hermine Huntgeburth und Charlotte Rolfes, der Netflix-Start ist für 2024 geplant.",
+      "score": 9
     },
     {
-      "quelle": "Horizont Medien",
-      "titel": "Magenta TV: Telekom engagiert Jürgen Klopp als TV-Experte für die Fußball-WM",
-      "beschreibung": "",
-      "link": "https://www.horizont.net/medien/nachrichten/magenta-tv-telekom-engagiertjuergen-klopp-als-tv-experte-fuer-die-fussball-wm-231806?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-      "published": "Fri, 14 Nov 2025 11:24:00 +0100",
-      "score": 8,
-      "zusammenfassung": "Die Deutsche Telekom hat Jürgen Klopp als TV-Experten für die Fußball-WM 2026 in den USA, Kanada und Mexiko verpflichtet, womit MagentaTV nach Thomas Müller den zweiten prominenten Experten für ihre Übertragungen gewinnt. Der frühere Liverpool- und Dortmund-Trainer wird bei dem 104-Spiele-Turnier zum Einsatz kommen, von dem MagentaTV 44 Partien exklusiv zeigt. Klopp bringt bereits TV-Erfahrung als Experte bei ZDF und RTL mit und arbeitet derzeit hauptberuflich als globaler Fußball-Chef bei Red Bull."
+      "source": "DWDL",
+      "title": "TV-Comeback: Jürgen Klopp wird WM-Experte bei MagentaTV",
+      "link": "https://www.dwdl.de/nachrichten/104518/tvcomeback_juergen_klopp_wird_wmexperte_bei_magentatv/",
+      "summary": "Die Telekom hat Jürgen Klopp als TV-Experten für die WM 2026 bei MagentaTV verpflichtet, was nach Thomas Müller einen weiteren prominenten Personal-Coup für den Streaming-Dienst darstellt. Der ehemalige Liverpool-Trainer wird exklusiv für MagentaTV die Spiele der Weltmeisterschaft in den USA, Kanada und Mexiko analysieren. Johannes B. Kerner wird ebenfalls Teil des Teams sein, nachdem er bereits vor über 20 Jahren mit Klopp vor der Kamera gestanden hatte.",
+      "score": 7
     },
     {
-      "quelle": "Horizont Medien",
-      "titel": "Neues Comedy-Format: Prime Video kündigt Spin-Off &quot;LOL Next&quot; mit Hazel Brugger an",
-      "beschreibung": "",
-      "link": "https://www.horizont.net/medien/nachrichten/neues-comedy-format-prime-video-kuendigt-spin-off-lol-next-mit-hazel-brugger-an-231797?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-      "published": "Fri, 14 Nov 2025 07:18:00 +0100",
-      "score": 8,
-      "zusammenfassung": "Prime Video kündigt für 2026 das Comedy-Spin-Off \"LOL Next\" an, das von Hazel Brugger moderiert wird und sich an Social-Media-Comedians richtet. Das neue Format basiert auf dem erfolgreichen Konzept von \"LOL: Last One Laughing\", bei dem Teilnehmer versuchen müssen, andere zum Lachen zu bringen, ohne selbst die Fassung zu verlieren. Parallel dazu erscheint 2026 auch die siebte Staffel des Originalformats mit Michael \"Bully\" Herbig als Moderator."
+      "source": "DWDL",
+      "title": "\"LOL Next\": Prime Video macht \"LOL\"-Spinoff mit Hazel Brugger",
+      "link": "https://www.dwdl.de/nachrichten/104514/lol_next_prime_video_macht_lolspinoff_mit_hazel_brugger/",
+      "summary": "Prime Video kündigt mit \"LOL Next\" einen Ableger seines erfolgreichen Comedy-Formats \"LOL: Last One Laughing\" an, das bereits in die siebte Staffel geht. Die Comedienne Hazel Brugger, die bei der Bambi-Verleihung in der Kategorie Comedy ausgezeichnet wurde, wird das Spinoff moderieren und am \"legendären roten Buzzer\" sitzen.",
+      "score": 8
     },
     {
-      "quelle": "Horizont Medien",
-      "titel": "RTL-Programmchefin im Portrait: Was Inga Leschek über Stefan Raab denkt - und wer noch auf ihrer Bucket List steht",
-      "beschreibung": "",
-      "link": "https://www.horizont.net/medien/nachrichten/rtl-programmchefin-im-portrait-was-inga-leschek-ueber-stefan-raab-denkt---und-wer-noch-auf-ihrer-bucket-list-steht-231771?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-      "published": "Fri, 14 Nov 2025 07:00:00 +0100",
-      "score": 8,
-      "zusammenfassung": "Inga Leschek ist seit zwei Jahren und neun Monaten als Chief Content Officer bei RTL Deutschland tätig und hat seither eine popkultur-orientierte Programmstrategie implementiert. Das Portrait behandelt ihre Einschätzung zu Stefan Raab sowie weitere Namen auf ihrer Wunschliste für künftige TV-Projekte. Leschek wird für ihre Fähigkeit gelobt, das Fernsehen wieder zum relevanten Gesprächsthema zu machen."
+      "source": "DWDL",
+      "title": "Disney kratzt an der Marke von 200 Millionen Streaming-Abos",
+      "link": "https://www.dwdl.de/nachrichten/104511/disney_kratzt_an_der_marke_von_200_millionen_streamingabos/",
+      "summary": "Disney erreicht mit Disney+ und Hulu zusammen 196 Millionen Streaming-Abonnenten und nähert sich damit der 200-Millionen-Marke, während das traditionelle TV-Geschäft weiterhin Probleme bereitet. Der Streaming-Markt zeigt starkes Wachstum mit sechs neuen Diensten über 15 Millionen Abonnenten in vier Jahren und einem prognostizierten Marktvolumen von 129 Milliarden US-Dollar bis 2027. Disney positioniert sich neben Netflix, Amazon Prime Video und Tencent Video als einer der führenden Streaming-Anbieter im hart umkämpften SVoD-Markt.",
+      "score": 8
     },
     {
-      "quelle": "Horizont Medien",
-      "titel": "&quot;Zahnloser Tiger&quot;: Die Grünen kritisieren Weimers Deal mit Netflix und Co scharf",
-      "beschreibung": "",
-      "link": "https://www.horizont.net/medien/nachrichten/zahnloser-tiger-die-gruenen-kritisieren-weimers-deal-mit-netflix-und-co-scharf-231773?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-      "published": "Thu, 13 Nov 2025 11:18:00 +0100",
-      "score": 8,
-      "zusammenfassung": "Die Grünen kritisieren Kulturstaatsminister Wolfram Weimers Pläne zur Rettung der deutschen Filmbranche als unzureichend und fordern stattdessen eine gesetzliche Investitionsverpflichtung für Streaminganbieter wie Netflix in Höhe von 20 Prozent ihrer deutschen Nettoumsätze. Weimer setzt dagegen auf freiwillige Vereinbarungen mit den Streamingdiensten und lehnt sowohl gesetzliche Verpflichtungen als auch Steueranreize ab. Laut einer Branchenumfrage schätzen zwei Drittel der Produktionsunternehmen ihre wirtschaftliche Lage für 2025 als schlecht oder sehr schlecht ein."
+      "source": "DWDL",
+      "title": "Leonine räumt auf: SEO Entertainment geht in Madame Zheng auf",
+      "link": "https://www.dwdl.de/nachrichten/104501/leonine_raeumt_auf_seo_entertainment_geht_in_madame_zheng_auf/",
+      "summary": "Leonine restructuriert sein Non-Fiction-Segment: Die Produktionsfirma SEO Entertainment wird als eigenständiges Label in die Madame Zheng Production integriert. SEO-Gründer Gillad Osterer verlässt nach 18 Jahren das Unternehmen, während Tina Wagner als Geschäftsführerin von Madame Zheng bestehen bleibt. Die Umstrukturierung erfolgt vier Jahre nach Leonines Übernahme von SEO Entertainment im Jahr 2020.",
+      "score": 9
     },
     {
-      "quelle": "Horizont Medien",
-      "titel": "Neuaufstellung: Chefwechsel bei Bertelsmann und RTL: Coesfeld und Schwebig folgen auf Rabe",
-      "beschreibung": "",
-      "link": "https://www.horizont.net/medien/nachrichten/neuaufstellung-chefwechsel-bei-bertelsmann-und-rtl-coesfeld-und-schwebig-folgen-auf-rabe-231762?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-      "published": "Thu, 13 Nov 2025 08:28:00 +0100",
-      "score": 10,
-      "zusammenfassung": "Bei Bertelsmann steht ein Führungswechsel bevor: Thomas Coesfeld, Enkel des verstorbenen Familienpatriarchen Richard Mohn, wird 2027 neuer Vorstandsvorsitzender und folgt damit auf Thomas Rabe. Parallel dazu übernimmt Schwebig die Führung der RTL Group. Rabe hatte bereits vor Jahren angekündigt, 2026 seine Position zu beenden."
+      "source": "DWDL",
+      "title": "Joyn schickt Lilly Becker und Joey Kelly in den Urwald",
+      "link": "https://www.dwdl.de/nachrichten/104506/joyn_schickt_lilly_becker_und_joey_kelly_in_den_urwald/",
+      "summary": "Joyn produziert für 2026 die Abenteuer-Doku \"Surviving Amazonas - Die Prüfung der Shanenawa\", in der acht Prominente darunter Lilly Becker und Joey Kelly zehn Tage lang mit dem indigenen Stamm der Shanenawa im brasilianischen Urwald leben. Das Format reiht sich in den aktuellen Trend von Reality-Formaten mit Survival- und Abenteuer-Elementen ein.",
+      "score": 7
     },
     {
-      "quelle": "Horizont Medien",
-      "titel": "Ende einer Ära: RMS stellt die Studie VuMA Touchpoints ein",
-      "beschreibung": "",
-      "link": "https://www.horizont.net/medien/nachrichten/ende-einer-aera-rms-stellt-die-studie-vuma-touchpoints-ein-231752?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-      "published": "Thu, 13 Nov 2025 03:17:00 +0100",
-      "score": 8,
-      "zusammenfassung": "Der Audiovermarkter RMS beendet nach fast 30 Jahren seine langjährige Markt-Media-Studie VuMA Touchpoints zum Jahresende 2025. Die Entscheidung erfolgt nicht aus Kostengründen, sondern im Rahmen einer strategischen Neuausrichtung in der Mediaforschung. Stattdessen plant RMS die Beteiligung an einer konkurrierenden Studie."
+      "source": "DWDL",
+      "title": "ÖRR-Reform passiert erste Hürde in Brandenburg",
+      "link": "https://www.dwdl.de/nachrichten/104505/oerrreform_passiert_erste_huerde_in_brandenburg/",
+      "summary": "Der Reformstaatsvertrag für den öffentlich-rechtlichen Rundfunk hat in Brandenburg eine erste parlamentarische Hürde genommen, nachdem Sachsen bereits knapp zugestimmt hatte. Brandenburg gilt als letzter kritischer Wackelkandidat, während noch Entscheidungen in Nordrhein-Westfalen und Niedersachsen ausstehen. Alle 16 Landesparlamente müssen bis Ende November über den Staatsvertrag abstimmen.",
+      "score": 8
     },
     {
-      "quelle": "Horizont Medien",
-      "titel": "Medienkonzern: Pro Sieben Sat 1 senkt wegen Werbeflaute operative Jahresprognose",
-      "beschreibung": "",
-      "link": "https://www.horizont.net/medien/nachrichten/medienkonzern-pro-sieben-sat-1-senkt-wegen-werbeflaute-operative-jahresprognose-231758?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-      "published": "Wed, 12 Nov 2025 21:01:00 +0100",
-      "score": 8,
-      "zusammenfassung": "Pro Sieben Sat 1 hat aufgrund der anhaltenden Schwäche im TV-Werbemarkt seine operative Jahresprognose gesenkt und erwartet nun ein bereinigtes EBITDA von 420 bis 450 Millionen Euro statt zuvor bis zu 470 Millionen Euro. Im dritten Quartal sank der Umsatz um sieben Prozent auf 820 Millionen Euro, während das bereinigte EBITDA um 27 Prozent auf 76 Millionen Euro zurückging. Der Medienkonzern steht seit der Übernahme durch den italienischen Berlusconi-Konzern Media for Europe unter neuer Führung mit CEO Marco Giordani."
+      "source": "DWDL",
+      "title": "Coesfeld wird Bertelsmann-Chef, Schwebig führt RTL Group",
+      "link": "https://www.dwdl.de/nachrichten/104502/coesfeld_wird_bertelsmannchef_schwebig_fuehrt_rtl_group/",
+      "summary": "Bertelsmann hat die Nachfolge für CEO Thomas Rabe geregelt: Thomas Coesfeld, Enkel der Bertelsmann-Eigentümerfamilie Mohn, übernimmt Anfang 2027 die Konzernspitze. Als neuer CEO der RTL Group wird bereits ab Mai 2026 Clément Schwebig eingesetzt, der bisher als Manager bei Warner Discovery für Westeuropa und Afrika tätig war.",
+      "score": 9
     },
     {
-      "quelle": "Horizont Medien",
-      "titel": "Kulturstaatsminister: Wolfram Weimer erwartet große Investitionen von Netflix und Co",
-      "beschreibung": "",
-      "link": "https://www.horizont.net/medien/nachrichten/kulturstaatsminister-wolfram-weimer-erwartet-grosse-investitionen-von-netflix-und-co-231755?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-      "published": "Wed, 12 Nov 2025 17:40:00 +0100",
-      "score": 8,
-      "zusammenfassung": "Kulturstaatsminister Wolfram Weimer erwartet nach Verhandlungen mit internationalen Streamingdiensten wie Netflix, Disney und Amazon einen \"großen Investitionsschub\" in Deutschland. Er bevorzugt dabei eine Selbstverpflichtung der Konzerne gegenüber einer gesetzlichen Regelung, da diese weniger juristische Risiken berge. Die bereits abgeschlossenen Gespräche sollen demnächst konkrete Ergebnisse zeigen."
+      "source": "DWDL",
+      "title": "ProSiebenSat.1: Weniger Umsatz und wenig Hoffnung",
+      "link": "https://www.dwdl.de/nachrichten/104500/prosiebensat1_weniger_umsatz_und_wenig_hoffnung/",
+      "summary": "ProSiebenSat.1 verzeichnete im dritten Quartal einen Umsatzrückgang von sieben Prozent aufgrund des anhaltend schwierigen TV-Werbemarkts in Deutschland, was jedoch im Rahmen der bereits angepassten Erwartungen lag. Das Unternehmen sieht weiterhin keine Anzeichen für eine schnelle Erholung des Werbemarkts. Trotz der negativen Entwicklung zeigt sich Konzernchef Bert Habets optimistisch für das zweite Halbjahr und erwartet eine Markterholung.",
+      "score": 8
     },
     {
-      "quelle": "Horizont Medien",
-      "titel": "&quot;Netflix House&quot;: Netflix eröffnet erstes Erlebniszentrum",
-      "beschreibung": "",
-      "link": "https://www.horizont.net/medien/nachrichten/netflix-house-netflix-eroeffnet-erstes-erlebniszentrum-231726?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-      "published": "Wed, 12 Nov 2025 07:41:00 +0100",
-      "score": 7,
-      "zusammenfassung": "Netflix eröffnet sein erstes Erlebniszentrum \"Netflix House\" in einem Vorort von Philadelphia und folgt damit dem Vorbild von Disney. Das zweistöckige Zentrum bietet serienbasierte Escape-Rooms, Minigolf-Stationen, VR-Erlebnisse und Attraktionen zu beliebten Netflix-Produktionen wie \"Wednesday\", \"Stranger Things\" und \"Squid Game\". Mit dieser Strategie will Netflix im intensiven Wettbewerb um Aufmerksamkeit eine Brücke zwischen digitalen Inhalten und realen Erlebnissen schaffen."
+      "source": "DWDL",
+      "title": "Weimer setzt weiter auf Selbstverpflichtung statt Gesetz",
+      "link": "https://www.dwdl.de/nachrichten/104499/weimer_setzt_weiter_auf_selbstverpflichtung_statt_gesetz/",
+      "summary": "Medienstaatsminister Wolfram Weimer bevorzugt weiterhin Selbstverpflichtungen der Streaming-Anbieter gegenüber einer gesetzlichen Investitionsverpflichtung und sieht darin eine \"autonome Lösung\" als nächsten Schritt. Während er vor dem Bundestagsausschuss betonte, dass eine gesetzliche Regelung nicht endgültig vom Tisch sei, formiert sich Widerstand von 31 Verbänden und Produzenten, die mit einer Protestnote \"Gesetz statt Ausverkauf\" fordern. Der Sperrvermerk sehe laut Weimer keine zwingende gesetzliche Lösung vor, sondern nur das Ziel von Investitionen in den deutschen Markt.",
+      "score": 8
+    },
+    {
+      "source": "Guardian Media",
+      "title": "‘Not for the faint-hearted’: is running the BBC an impossible job?",
+      "link": "https://www.theguardian.com/media/ng-interactive/2025/nov/15/is-running-the-bbc-an-impossible-job",
+      "summary": "Nach Tim Davies überraschendem Rücktritt als BBC-Generaldirektor stellt sich die Frage, ob die Führung der BBC angesichts interner Konflikte, externem politischen Druck und anstehender Verhandlungen über die Zukunft der öffentlich-rechtlichen Anstalt überhaupt noch machbar ist. Der nächste Generaldirektor wird mit beispiellosen strukturellen Herausforderungen konfrontiert, die die Existenz und den Auftrag der Corporation grundsätzlich betreffen.",
+      "score": 8
+    },
+    {
+      "source": "Guardian Media",
+      "title": "Ex-BBC boss leads calls for end to political appointments to board",
+      "link": "https://www.theguardian.com/media/2025/nov/14/ex-bbc-boss-tony-hall-political-appointments-board",
+      "summary": "Ex-BBC-Generaldirektor Tony Hall fordert ein Ende politischer Ernennungen in den BBC-Vorstand, um die Unabhängigkeit des Senders zu stärken. Auslöser ist die Kontroverse um Robbie Gibb, den ehemaligen Kommunikationschef von Theresa May, dessen Entfernung aus dem Vorstand von Abgeordneten und der BBC-Gewerkschaft gefordert wird. Kulturministerin Lisa Nandy kündigte an, dass die anstehende Charter-Überprüfung der BBC politische Vorstandsernennungen untersuchen wird.",
+      "score": 8
+    },
+    {
+      "source": "Guardian Media",
+      "title": "Naga Munchetty reportedly under formal BBC investigation over alleged bullying",
+      "link": "https://www.theguardian.com/media/2025/nov/14/naga-munchetty-reportedly-being-investigated-by-bbc-over-bullying-allegations",
+      "summary": "Die BBC hat Berichten zufolge eine formelle Untersuchung gegen BBC Breakfast-Moderatorin Naga Munchetty eingeleitet, nachdem sich Mobbing-Vorwürfe gehäuft haben. Frühere Beschwerden gegen die 50-jährige Journalistin wurden laut The Sun zu einer vollständigen internen Untersuchung ausgeweitet. Die BBC hat sich bislang nicht öffentlich zu den konkreten Vorwürfen geäußert.",
+      "score": 7
+    },
+    {
+      "source": "Guardian Media",
+      "title": "‘We’re sick of being the story’: what next for the Telegraph after takeover collapses?",
+      "link": "https://www.theguardian.com/media/2025/nov/14/telegraph-takeover-deal-price-redbird",
+      "summary": "RedBird Capital hat sein £500 Millionen Übernahmeangebot für den Telegraph zurückgezogen, wodurch die Zukunft der Mediengruppe erneut ungewiss wird. Das Konsortium, zu dem auch UAE-Fonds International Media Investments, der Daily Mail-Eigentümer und Milliardär Sir Leonard Blavatnik gehörten, zog das Angebot ohne Begründung zurück. Die hartnäckige Weigerung der Verkäufer, den hohen Verkaufspreis von £500 Millionen zu senken, wird als Grund für das wiederholte Scheitern von Übernahmeversuchen diskutiert.",
+      "score": 7
+    },
+    {
+      "source": "Guardian Media",
+      "title": "RedBird Capital drops £500m Telegraph takeover bid",
+      "link": "https://www.theguardian.com/media/2025/nov/14/redbird-capital-drops-telegraph-bid-newspaper",
+      "summary": "RedBird Capital hat sein £500m-Übernahmeangebot für die Telegraph Media Group zurückgezogen, nachdem das Unternehmen wochenlang unter intensiver Kritik der Redaktion und prominenter Medienvertreter stand, die eine Untersuchung der China-Verbindungen des US-Private-Equity-Unternehmens forderten. Der Rückzug erfolgte angesichts drohender regulatorischer Interventionen und wirft die Zukunft der Daily- und Sunday-Telegraph-Titel erneut in Ungewissheit.",
+      "score": 7
+    },
+    {
+      "source": "Guardian Media",
+      "title": "What’s in a name? MS NOW – formerly MSNBC – will soon find out",
+      "link": "https://www.theguardian.com/media/2025/nov/14/msnbc-name-change-ms-now",
+      "summary": "MSNBC ändert nach fast 30 Jahren seinen Namen zu \"MS NOW\" (My Source for News, Opinion, and the World) und trennt sich dabei vom NBC-Peacock-Logo. Die Umbenennung erfolgt im Rahmen der Abspaltung von NBC, wobei das \"MS\" weiterhin an die ursprüngliche Microsoft-Partnerschaft aus den 1990er Jahren erinnert, die bereits vor über einem Jahrzehnt endete. Der liberale Nachrichtensender kündigte die Namensänderung offiziell bei seinem jährlichen Fan-Event in New York an.",
+      "score": 7
+    },
+    {
+      "source": "Guardian Media",
+      "title": "From conscience to platforming Trump: inside the slow death of ‘woke’ ESPN",
+      "link": "https://www.theguardian.com/sport/2025/nov/14/espn-pat-mcafee-donald-trump",
+      "summary": "ESPN interviewte Donald Trump als ersten amtierenden Präsidenten in der Pat McAfee Show, wobei das Gespräch stark politisch geprägt war und McAfee dem Präsidenten ohne kritische Nachfragen eine Plattform für Selbstdarstellung bot. Der Artikel interpretiert dies als Wandel von ESPNs früher als \"progressiv\" kritisierter Haltung hin zu einer unkritischeren, politisch gefälligeren Berichterstattung. Die Inszenierung auf einem Marine-Stützpunkt wird als jingoistisch und integritätsschädigend für den Sportsender bewertet.",
+      "score": 7
+    },
+    {
+      "source": "Guardian Media",
+      "title": "Lisa Nandy: BBC review will examine political appointments to board",
+      "link": "https://www.theguardian.com/media/2025/nov/14/lisa-nandy-bbc-board-review-political-appointments",
+      "summary": "Die britische Kulturministerin Lisa Nandy kündigte an, dass die BBC-Charter-Überprüfung politische Ernennungen in den Rundfunkrat untersuchen wird, da diese \"Vertrauen und Glaubwürdigkeit beschädigt\" hätten. Im Fokus steht insbesondere das Vorstandsmitglied Robbie Gibb, ehemaliger Kommunikationschef von Theresa May, dem vorgeworfen wird, seine Befugnisse überschritten und sich in politische Angelegenheiten eingemischt zu haben.",
+      "score": 8
     }
-  ],
-  "anzahl": 26
+  ]
 }
