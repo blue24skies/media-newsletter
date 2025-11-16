@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Zoo Medien Newsletter</title>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <style>
         * {
             margin: 0;
@@ -32,45 +33,15 @@
             box-shadow: 0 10px 30px rgba(0,0,0,0.3);
         }
         
-        .header-logo {
-            display: flex;
-            align-items: center;
-            gap: 20px;
-            margin-bottom: 20px;
-        }
-        
-        .header-logo img {
-            height: 60px;
-            width: auto;
-        }
-        
         h1 {
             color: #181716;
             font-size: 2.5em;
             margin-bottom: 10px;
         }
         
-        .date-selector {
-            display: flex;
-            gap: 15px;
-            align-items: center;
-            margin-top: 20px;
-            flex-wrap: wrap;
-        }
-        
-        .date-selector select {
-            padding: 12px 20px;
-            border: 2px solid #ffd01d;
-            border-radius: 8px;
-            font-size: 16px;
-            background: white;
-            cursor: pointer;
-            transition: all 0.3s;
-        }
-        
-        .date-selector select:hover {
-            border-color: #181716;
-            transform: translateY(-2px);
+        .subtitle {
+            color: #666;
+            font-size: 1.1em;
         }
         
         .stats {
@@ -78,14 +49,15 @@
             color: #181716;
             padding: 20px;
             border-radius: 10px;
+            margin-top: 20px;
             display: flex;
-            gap: 30px;
+            justify-content: space-around;
             flex-wrap: wrap;
+            gap: 15px;
         }
         
         .stat-item {
-            flex: 1;
-            min-width: 150px;
+            text-align: center;
         }
         
         .stat-number {
@@ -93,286 +65,222 @@
             font-weight: bold;
         }
         
-        .loading {
-            text-align: center;
-            padding: 60px;
-            color: white;
-            font-size: 1.5em;
+        .stat-label {
+            font-size: 0.9em;
+            opacity: 0.8;
         }
         
-        .artikel-grid {
+        .articles {
             display: grid;
-            gap: 20px;
-            margin-top: 30px;
+            gap: 25px;
         }
         
-        .artikel-card {
+        .article {
             background: white;
-            border-radius: 12px;
-            padding: 25px;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-            transition: all 0.3s;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+            transition: transform 0.3s, box-shadow 0.3s;
         }
         
-        .artikel-card:hover {
+        .article:hover {
             transform: translateY(-5px);
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
         }
         
-        .artikel-header {
+        .article-header {
             display: flex;
             justify-content: space-between;
             align-items: start;
             margin-bottom: 15px;
-            flex-wrap: wrap;
-            gap: 10px;
+            gap: 20px;
         }
         
-        .quelle-badge {
-            background: #f0f0f0;
-            color: #666;
-            padding: 6px 12px;
+        .article-source {
+            background: #181716;
+            color: #ffd01d;
+            padding: 8px 15px;
             border-radius: 20px;
-            font-size: 0.85em;
-            font-weight: 600;
-            text-transform: uppercase;
+            font-size: 0.9em;
+            font-weight: bold;
+            white-space: nowrap;
         }
         
-        .score-badge {
-            background: linear-gradient(135deg, #ffd01d 0%, #ffdd4d 100%);
+        .article-score {
+            background: #ffd01d;
             color: #181716;
-            padding: 6px 14px;
+            padding: 8px 15px;
             border-radius: 20px;
             font-weight: bold;
-            font-size: 0.9em;
+            white-space: nowrap;
         }
         
-        .score-high {
-            background: linear-gradient(135deg, #56ab2f 0%, #a8e063 100%);
-        }
-        
-        .artikel-titel {
-            color: #333;
-            font-size: 1.4em;
-            font-weight: 600;
+        .article-title {
+            font-size: 1.5em;
+            color: #181716;
             margin-bottom: 15px;
             line-height: 1.3;
         }
         
-        .artikel-titel a {
-            color: inherit;
-            text-decoration: none;
-            transition: color 0.3s;
-        }
-        
-        .artikel-titel a:hover {
-            color: #ffd01d;
-        }
-        
-        .zusammenfassung {
+        .article-description {
             color: #555;
             margin-bottom: 20px;
             line-height: 1.6;
         }
         
-        .artikel-footer {
+        .article-actions {
             display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding-top: 20px;
-            border-top: 1px solid #eee;
-            flex-wrap: wrap;
             gap: 15px;
+            flex-wrap: wrap;
         }
         
-        .artikel-link {
-            color: #ffd01d;
-            text-decoration: none;
-            font-weight: 500;
-            display: inline-flex;
-            align-items: center;
-            gap: 5px;
-            transition: all 0.3s;
-        }
-        
-        .artikel-link:hover {
-            color: #181716;
-            gap: 10px;
-        }
-        
-        .feedback-buttons {
-            display: flex;
-            gap: 10px;
-        }
-        
-        .feedback-btn {
-            padding: 10px 20px;
+        .btn {
+            padding: 12px 25px;
             border: none;
             border-radius: 8px;
-            font-weight: 600;
+            font-size: 1em;
             cursor: pointer;
             transition: all 0.3s;
-            font-size: 0.9em;
+            text-decoration: none;
+            display: inline-block;
+            font-weight: 600;
+        }
+        
+        .btn-primary {
+            background: #181716;
+            color: #ffd01d;
+        }
+        
+        .btn-primary:hover {
+            background: #2a2624;
+            transform: translateY(-2px);
         }
         
         .btn-relevant {
-            background: #e8f5e9;
-            color: #2e7d32;
+            background: #4CAF50;
+            color: white;
         }
         
         .btn-relevant:hover {
-            background: #4caf50;
-            color: white;
-            transform: scale(1.05);
+            background: #45a049;
         }
         
-        .btn-relevant.active {
-            background: #4caf50;
-            color: white;
-        }
-        
-        .btn-nicht-relevant {
-            background: #ffebee;
-            color: #c62828;
-        }
-        
-        .btn-nicht-relevant:hover {
-            background: #f44336;
-            color: white;
-            transform: scale(1.05);
-        }
-        
-        .btn-nicht-relevant.active {
+        .btn-not-relevant {
             background: #f44336;
             color: white;
         }
         
-        .feedback-status {
-            background: #e3f2fd;
-            border-left: 4px solid #2196F3;
-            padding: 15px 20px;
+        .btn-not-relevant:hover {
+            background: #da190b;
+        }
+        
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 50px;
+            color: white;
+            font-size: 1.2em;
+        }
+        
+        .no-articles {
+            text-align: center;
+            padding: 50px;
+            background: white;
+            border-radius: 15px;
+            color: #666;
+        }
+        
+        .feedback-message {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            padding: 15px 25px;
             border-radius: 8px;
-            margin-top: 30px;
-            display: none;
+            font-weight: bold;
+            z-index: 1000;
+            animation: slideIn 0.3s;
         }
         
-        .feedback-status.show {
-            display: block;
-            animation: slideIn 0.3s ease-out;
+        .feedback-success {
+            background: #4CAF50;
+            color: white;
+        }
+        
+        .feedback-error {
+            background: #f44336;
+            color: white;
         }
         
         @keyframes slideIn {
             from {
+                transform: translateX(400px);
                 opacity: 0;
-                transform: translateY(-10px);
             }
             to {
+                transform: translateX(0);
                 opacity: 1;
-                transform: translateY(0);
             }
         }
         
-        .archiv-section {
+        .user-info-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.8);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 2000;
+        }
+        
+        .modal-content {
             background: white;
-            border-radius: 12px;
-            padding: 25px;
-            margin-top: 30px;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            padding: 40px;
+            border-radius: 15px;
+            max-width: 400px;
+            width: 90%;
         }
         
-        .archiv-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-            gap: 15px;
-            margin-top: 20px;
-        }
-        
-        .archiv-item {
-            background: #f8f9fa;
-            padding: 15px;
-            border-radius: 8px;
-            cursor: pointer;
-            transition: all 0.3s;
-            border: 2px solid transparent;
-        }
-        
-        .archiv-item:hover {
-            background: #e9ecef;
-            border-color: #ffd01d;
-            transform: translateY(-2px);
-        }
-        
-        .archiv-item.active {
-            background: linear-gradient(135deg, #ffd01d 0%, #ffdd4d 100%);
+        .modal-content h2 {
+            margin-bottom: 20px;
             color: #181716;
+        }
+        
+        .modal-content input {
+            width: 100%;
+            padding: 12px;
+            margin-bottom: 15px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 1em;
+        }
+        
+        .modal-content input:focus {
+            outline: none;
             border-color: #ffd01d;
-        }
-        
-        .archiv-datum {
-            font-weight: 600;
-            margin-bottom: 5px;
-        }
-        
-        .archiv-anzahl {
-            font-size: 0.9em;
-            opacity: 0.8;
-        }
-        
-        @media (max-width: 768px) {
-            h1 {
-                font-size: 1.8em;
-            }
-            
-            .artikel-header {
-                flex-direction: column;
-            }
-            
-            .artikel-footer {
-                flex-direction: column;
-                align-items: stretch;
-            }
-            
-            .feedback-buttons {
-                width: 100%;
-            }
-            
-            .feedback-btn {
-                flex: 1;
-            }
         }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
-            <div class="header-logo">
-                <img src="logo-full.png" alt="Zoo Productions" />
-            </div>
-            <h1>Medien Newsletter</h1>
-            <p>Tägliche Medien-News kuratiert von Claude AI</p>
+            <h1>🎬 Zoo Medien Newsletter</h1>
+            <p class="subtitle">Relevante Medien-News für TV-Produzenten</p>
             
-            <div class="date-selector">
-                <label for="newsletter-date"><strong>Newsletter vom:</strong></label>
-                <select id="newsletter-date">
-                    <option value="">Lade...</option>
-                </select>
-                <button onclick="showArchiv()" style="padding: 12px 20px; background: #ffd01d; color: #181716; border: none; border-radius: 8px; cursor: pointer; font-weight: 600;">
-                    📚 Archiv anzeigen
-                </button>
-            </div>
-            
-            <div class="stats" id="stats" style="margin-top: 20px; display: none;">
+            <div class="stats" id="stats">
                 <div class="stat-item">
-                    <div class="stat-number" id="stat-artikel">0</div>
-                    <div>Artikel heute</div>
+                    <div class="stat-number" id="total-articles">-</div>
+                    <div class="stat-label">Artikel heute</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number" id="stat-bewertet">0</div>
-                    <div>Bewertet</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-number" id="stat-relevant">0</div>
-                    <div>Als relevant markiert</div>
+                    <div class="stat-number" id="avg-score">-</div>
+                    <div class="stat-label">Ø Score</div>
                 </div>
             </div>
         </header>
@@ -381,213 +289,214 @@
             Lade Newsletter...
         </div>
         
-        <div class="artikel-grid" id="artikel-container" style="display: none;">
-            <!-- Artikel werden hier dynamisch eingefügt -->
-        </div>
+        <div class="articles" id="articles"></div>
         
-        <div class="feedback-status" id="feedback-status">
-            <strong>✓ Bewertung gespeichert!</strong>
-            <p>Dein Feedback hilft uns, den Newsletter zu verbessern.</p>
-        </div>
-        
-        <div class="archiv-section" id="archiv" style="display: none;">
-            <h2>📚 Newsletter-Archiv</h2>
-            <div class="archiv-grid" id="archiv-container">
-                <!-- Archiv wird hier dynamisch eingefügt -->
-            </div>
+        <div class="no-articles" id="no-articles" style="display: none;">
+            <h2>Keine Artikel verfügbar</h2>
+            <p>Für dieses Datum wurden keine relevanten Artikel gefunden.</p>
         </div>
     </div>
     
+    <div class="user-info-modal" id="user-modal" style="display: none;">
+        <div class="modal-content">
+            <h2>Willkommen! 👋</h2>
+            <p style="margin-bottom: 20px;">Bitte gib deinen Namen und Email ein, um Artikel bewerten zu können:</p>
+            <input type="text" id="user-name" placeholder="Dein Name" />
+            <input type="email" id="user-email" placeholder="Deine Email" />
+            <button class="btn btn-primary" onclick="saveUserInfo()">Speichern</button>
+        </div>
+    </div>
+
     <script>
-        // Globale Variablen
-        let newsletterIndex = [];
-        let currentNewsletter = null;
-        let userFeedback = {};
+        // ============================================================
+        // SUPABASE KONFIGURATION - HIER DEINE KEYS EINTRAGEN!
+        // ============================================================
+        const SUPABASE_URL = 'https://nrngjnfcfzpxheersplp.supabase.co';
+        const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5ybmdqbmZjZnpweGhlZXJzcGxwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI4Nzg4NjAsImV4cCI6MjA3ODQ1NDg2MH0.M_sxg2QOduAYSZKUI4a-Hs2403H5jFOOCOpwTdQcZEE';
         
-        // Lade Feedback aus localStorage
-        function loadFeedback() {
-            const saved = localStorage.getItem('newsletter-feedback');
-            if (saved) {
-                userFeedback = JSON.parse(saved);
+        // Supabase Client initialisieren
+        const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+        
+        // ============================================================
+        // USER INFO HANDLING
+        // ============================================================
+        let currentUser = {
+            name: localStorage.getItem('userName') || '',
+            email: localStorage.getItem('userEmail') || ''
+        };
+        
+        function checkUserInfo() {
+            if (!currentUser.name || !currentUser.email) {
+                document.getElementById('user-modal').style.display = 'flex';
             }
         }
         
-        // Speichere Feedback in localStorage
-        function saveFeedback() {
-            localStorage.setItem('newsletter-feedback', JSON.stringify(userFeedback));
-            updateStats();
-        }
-        
-        // Initialisierung
-        async function init() {
-            loadFeedback();
-            await loadNewsletterIndex();
+        function saveUserInfo() {
+            const name = document.getElementById('user-name').value.trim();
+            const email = document.getElementById('user-email').value.trim();
             
-            // Prüfe URL-Parameter
-            const urlParams = new URLSearchParams(window.location.search);
-            const dateParam = urlParams.get('date');
-            
-            if (dateParam) {
-                loadNewsletter(dateParam);
-            } else if (newsletterIndex.length > 0) {
-                loadNewsletter(newsletterIndex[0].id);
+            if (!name || !email) {
+                alert('Bitte fülle beide Felder aus!');
+                return;
             }
+            
+            if (!email.includes('@')) {
+                alert('Bitte gib eine gültige Email-Adresse ein!');
+                return;
+            }
+            
+            currentUser.name = name;
+            currentUser.email = email;
+            
+            localStorage.setItem('userName', name);
+            localStorage.setItem('userEmail', email);
+            
+            document.getElementById('user-modal').style.display = 'none';
+            
+            showFeedback('Willkommen, ' + name + '! 👋', 'success');
         }
         
-        // Lade Newsletter-Index
-        async function loadNewsletterIndex() {
+        // ============================================================
+        // NEWSLETTER LADEN
+        // ============================================================
+        async function loadNewsletter() {
             try {
-                const response = await fetch('newsletter-index.json');
+                // Datum aus URL Parameter oder heute
+                const urlParams = new URLSearchParams(window.location.search);
+                const dateParam = urlParams.get('date');
+                const date = dateParam || new Date().toISOString().split('T')[0];
+                
+                // JSON Datei laden
+                const response = await fetch(`newsletter-data.json?date=${date}`);
+                
+                if (!response.ok) {
+                    throw new Error('Newsletter nicht gefunden');
+                }
+                
                 const data = await response.json();
-                newsletterIndex = data.newsletter;
                 
-                // Fülle Dropdown
-                const select = document.getElementById('newsletter-date');
-                select.innerHTML = newsletterIndex.map(n => 
-                    `<option value="${n.id}">${n.datum} (${n.anzahl_artikel} Artikel)</option>`
-                ).join('');
+                // Statistiken anzeigen
+                document.getElementById('total-articles').textContent = data.artikel.length;
+                const avgScore = (data.artikel.reduce((sum, a) => sum + a.score, 0) / data.artikel.length).toFixed(1);
+                document.getElementById('avg-score').textContent = avgScore;
                 
-                // Event Listener
-                select.addEventListener('change', (e) => {
-                    loadNewsletter(e.target.value);
-                });
-                
-            } catch (error) {
-                console.error('Fehler beim Laden des Index:', error);
-                document.getElementById('loading').innerHTML = 
-                    '❌ Fehler beim Laden. Bitte später erneut versuchen.';
-            }
-        }
-        
-        // Lade spezifischen Newsletter
-        async function loadNewsletter(dateId) {
-            document.getElementById('loading').style.display = 'block';
-            document.getElementById('artikel-container').style.display = 'none';
-            
-            try {
-                const response = await fetch(`newsletter-${dateId}.json`);
-                currentNewsletter = await response.json();
-                
-                renderNewsletter();
-                updateStats();
+                // Artikel rendern
+                renderArticles(data.artikel, date);
                 
                 document.getElementById('loading').style.display = 'none';
-                document.getElementById('artikel-container').style.display = 'grid';
-                document.getElementById('stats').style.display = 'flex';
-                
-                // Update URL
-                history.pushState({}, '', `?date=${dateId}`);
                 
             } catch (error) {
-                console.error('Fehler beim Laden des Newsletters:', error);
-                document.getElementById('loading').innerHTML = 
-                    '❌ Newsletter nicht gefunden.';
+                console.error('Fehler beim Laden:', error);
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('no-articles').style.display = 'block';
             }
         }
         
-        // Rendere Newsletter
-        function renderNewsletter() {
-            const container = document.getElementById('artikel-container');
+        function renderArticles(articles, date) {
+            const container = document.getElementById('articles');
+            container.innerHTML = '';
             
-            container.innerHTML = currentNewsletter.artikel.map(artikel => {
-                const feedbackKey = `${currentNewsletter.id}-${artikel.id}`;
-                const feedback = userFeedback[feedbackKey];
-                
-                const scoreClass = artikel.score >= 9 ? 'score-high' : '';
-                
-                return `
-                    <div class="artikel-card">
-                        <div class="artikel-header">
-                            <span class="quelle-badge">${artikel.quelle}</span>
-                            <span class="score-badge ${scoreClass}">Score: ${artikel.score}/10</span>
-                        </div>
-                        
-                        <h2 class="artikel-titel">
-                            <a href="${artikel.link}" target="_blank">${artikel.titel}</a>
-                        </h2>
-                        
-                        <p class="zusammenfassung">${artikel.zusammenfassung}</p>
-                        
-                        <div class="artikel-footer">
-                            <a href="${artikel.link}" target="_blank" class="artikel-link">
-                                → Artikel lesen
-                            </a>
-                            
-                            <div class="feedback-buttons">
-                                <button 
-                                    class="feedback-btn btn-relevant ${feedback === 'relevant' ? 'active' : ''}"
-                                    onclick="markFeedback('${feedbackKey}', 'relevant')"
-                                >
-                                    ✓ Relevant
-                                </button>
-                                <button 
-                                    class="feedback-btn btn-nicht-relevant ${feedback === 'nicht-relevant' ? 'active' : ''}"
-                                    onclick="markFeedback('${feedbackKey}', 'nicht-relevant')"
-                                >
-                                    ✗ Nicht relevant
-                                </button>
-                            </div>
-                        </div>
+            articles.forEach((article, index) => {
+                const articleEl = document.createElement('div');
+                articleEl.className = 'article';
+                articleEl.innerHTML = `
+                    <div class="article-header">
+                        <span class="article-source">${article.quelle}</span>
+                        <span class="article-score">Score: ${article.score}/10</span>
+                    </div>
+                    <h2 class="article-title">${article.titel}</h2>
+                    <p class="article-description">${article.zusammenfassung}</p>
+                    <div class="article-actions">
+                        <a href="${article.link}" target="_blank" class="btn btn-primary">Artikel lesen →</a>
+                        <button class="btn btn-relevant" onclick="ratearticle(${index}, '${date}', 'relevant')">
+                            ✓ Relevant
+                        </button>
+                        <button class="btn btn-not-relevant" onclick="rateArticle(${index}, '${date}', 'nicht-relevant')">
+                            ✗ Nicht relevant
+                        </button>
                     </div>
                 `;
-            }).join('');
+                container.appendChild(articleEl);
+            });
         }
         
-        // Markiere Feedback
-        function markFeedback(key, type) {
-            userFeedback[key] = type;
-            saveFeedback();
-            renderNewsletter();
+        // ============================================================
+        // BEWERTUNG SPEICHERN
+        // ============================================================
+        async function rateArticle(articleIndex, date, rating) {
+            // User Info prüfen
+            if (!currentUser.name || !currentUser.email) {
+                checkUserInfo();
+                return;
+            }
             
-            // Zeige Bestätigung
-            const status = document.getElementById('feedback-status');
-            status.classList.add('show');
-            setTimeout(() => status.classList.remove('show'), 3000);
-        }
-        
-        // Update Statistiken
-        function updateStats() {
-            if (!currentNewsletter) return;
-            
-            document.getElementById('stat-artikel').textContent = currentNewsletter.anzahl_artikel;
-            
-            const currentId = currentNewsletter.id;
-            const feedbackCount = Object.keys(userFeedback)
-                .filter(k => k.startsWith(currentId))
-                .length;
-            document.getElementById('stat-bewertet').textContent = feedbackCount;
-            
-            const relevantCount = Object.entries(userFeedback)
-                .filter(([k, v]) => k.startsWith(currentId) && v === 'relevant')
-                .length;
-            document.getElementById('stat-relevant').textContent = relevantCount;
-        }
-        
-        // Zeige Archiv
-        function showArchiv() {
-            const archiv = document.getElementById('archiv');
-            const container = document.getElementById('archiv-container');
-            
-            if (archiv.style.display === 'none') {
-                container.innerHTML = newsletterIndex.map(n => {
-                    const isActive = currentNewsletter && n.id === currentNewsletter.id;
-                    return `
-                        <div class="archiv-item ${isActive ? 'active' : ''}" onclick="loadNewsletter('${n.id}')">
-                            <div class="archiv-datum">${n.datum}</div>
-                            <div class="archiv-anzahl">${n.anzahl_artikel} Artikel</div>
-                        </div>
-                    `;
-                }).join('');
+            try {
+                // Artikel-Daten holen
+                const response = await fetch(`newsletter-data.json?date=${date}`);
+                const data = await response.json();
+                const article = data.artikel[articleIndex];
                 
-                archiv.style.display = 'block';
-                archiv.scrollIntoView({ behavior: 'smooth' });
-            } else {
-                archiv.style.display = 'none';
+                // In Supabase speichern
+                const { error } = await supabase
+                    .from('artikel_bewertungen')
+                    .insert({
+                        newsletter_datum: date,
+                        artikel_id: articleIndex,
+                        artikel_titel: article.titel,
+                        artikel_quelle: article.quelle,
+                        artikel_score: article.score,
+                        user_name: currentUser.name,
+                        user_email: currentUser.email,
+                        bewertung: rating
+                    });
+                
+                if (error) {
+                    // Wenn bereits bewertet, Update machen
+                    if (error.code === '23505') {
+                        const { error: updateError } = await supabase
+                            .from('artikel_bewertungen')
+                            .update({ bewertung: rating })
+                            .eq('newsletter_datum', date)
+                            .eq('artikel_id', articleIndex)
+                            .eq('user_email', currentUser.email);
+                        
+                        if (updateError) throw updateError;
+                        showFeedback('Bewertung aktualisiert! ✓', 'success');
+                    } else {
+                        throw error;
+                    }
+                } else {
+                    showFeedback('Bewertung gespeichert! ✓', 'success');
+                }
+                
+                // Button disablen
+                const buttons = document.querySelectorAll('.article')[articleIndex].querySelectorAll('.btn-relevant, .btn-not-relevant');
+                buttons.forEach(btn => btn.disabled = true);
+                
+            } catch (error) {
+                console.error('Fehler beim Speichern:', error);
+                showFeedback('Fehler beim Speichern! ✗', 'error');
             }
         }
         
-        // Start
-        init();
+        function showFeedback(message, type) {
+            const feedback = document.createElement('div');
+            feedback.className = `feedback-message feedback-${type}`;
+            feedback.textContent = message;
+            document.body.appendChild(feedback);
+            
+            setTimeout(() => {
+                feedback.remove();
+            }, 3000);
+        }
+        
+        // ============================================================
+        // INIT
+        // ============================================================
+        window.onload = () => {
+            checkUserInfo();
+            loadNewsletter();
+        };
     </script>
 </body>
 </html>
