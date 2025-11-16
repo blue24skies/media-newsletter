@@ -531,8 +531,8 @@ def erstelle_html_email(anzahl_artikel, empfaenger_name, datum):
                 text-align: center;
             }}
             .logo {{
-                height: 60px;
-                margin-bottom: 15px;
+                height: 40px;
+                margin-bottom: 10px;
             }}
             h1 {{
                 margin: 10px 0;
@@ -572,7 +572,7 @@ def erstelle_html_email(anzahl_artikel, empfaenger_name, datum):
     <body>
         <div class="container">
             <div class="header">
-                <img src="{NEWSLETTER_URL}/logo-icon.png" alt="Zoo Productions" class="logo">
+                <img src="{NEWSLETTER_URL}/logo-full.png" alt="Zoo Productions" class="logo">
                 <h1>Zoo Medien Newsletter</h1>
                 <p>Dein täglicher Überblick</p>
             </div>
