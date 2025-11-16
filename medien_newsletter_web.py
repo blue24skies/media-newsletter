@@ -407,35 +407,33 @@ def verarbeite_artikel(artikel_liste):
     for idx, artikel in enumerate(relevante_artikel, 1):
         print(f"\n[{idx}/{len(relevante_artikel)}] {artikel['title'][:60]}...")
         
-        # 3-Stufen Web-Fetching Strategie
+        # 2-Stufen Web-Fetching Strategie
+        # WICHTIG: IMMER den kompletten Artikel laden, niemals RSS-Beschreibung als Ersatz verwenden!
         full_text = None
         
-        # Stufe 1: Prüfe RSS-Beschreibung
-        if len(artikel['description']) > 150:
-            full_text = artikel['description']
-            print(f"       ✅ RSS-Beschreibung ausreichend ({len(full_text)} Zeichen)")
+        # Stufe 1: Lade IMMER Volltext von Original-URL
+        print(f"       🌐 Lade vollständigen Artikel von URL...")
+        full_text = fetch_full_article(artikel['link'])
         
-        # Stufe 2: Lade Volltext
-        if not full_text:
-            print(f"       🌐 Lade Volltext von Original-URL...")
-            full_text = fetch_full_article(artikel['link'])
+        if full_text and len(full_text) > 200:
+            print(f"       ✅ Artikel geladen: {len(full_text)} Zeichen")
+        else:
+            print(f"       ⚠️ Volltext konnte nicht geladen werden (Paywall/Login?)")
             
-            if full_text and len(full_text) > 500:
-                print(f"       ✅ Volltext geladen ({len(full_text)} Zeichen)")
-            elif full_text:
-                print(f"       ⚠️ Volltext zu kurz ({len(full_text)} Zeichen) - Paywall/Login?")
-        
-        # Stufe 3: Brave Search Fallback
-        if not full_text or len(full_text) < 500:
+            # Stufe 2: Brave Search Fallback nur bei Fehler
             print(f"       🔍 Versuche Web-Recherche als Fallback...")
             web_context = search_web_for_context(artikel['title'], artikel['description'])
             
             if web_context:
-                # Kombiniere Teiltext + Web-Kontext
-                full_text = (artikel['description'] or '') + ' ' + web_context
+                full_text = web_context
+                print(f"       ✅ Kontext-Recherche erfolgreich: {len(full_text)} Zeichen")
+            else:
+                # Letzter Ausweg: RSS-Beschreibung
+                full_text = artikel['description']
+                print(f"       ⚠️ Fallback auf RSS-Beschreibung: {len(full_text)} Zeichen")
         
-        # JETZT: Erstelle Zusammenfassung mit Claude!
-        if full_text and len(full_text) >= 100:
+        # JETZT: Erstelle IMMER Zusammenfassung mit Claude!
+        if full_text and len(full_text) >= 50:
             print(f"       🤖 Erstelle Zusammenfassung mit Claude...")
             artikel['summary'] = erstelle_zusammenfassung_mit_claude(
                 artikel['title'],
@@ -444,8 +442,8 @@ def verarbeite_artikel(artikel_liste):
             )
             print(f"       ✅ Zusammenfassung erstellt!")
         else:
-            artikel['summary'] = "Zusammenfassung nicht verfügbar - Artikel konnte nicht vollständig geladen werden."
-            print(f"       ⚠️ Keine Zusammenfassung möglich")
+            artikel['summary'] = "Zusammenfassung nicht verfügbar - Artikel konnte nicht geladen werden."
+            print(f"       ❌ Keine Zusammenfassung möglich (zu wenig Text)")
         
         time.sleep(0.5)  # Rate limiting
     
