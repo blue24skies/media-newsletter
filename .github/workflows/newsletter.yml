@@ -1,80 +1,68 @@
-name: Daily Newsletter Generator
+name: Daily Newsletter Automation
 
 on:
   schedule:
-    # Montag-Freitag um 6:00 UTC (7:00 MEZ / 8:00 MESZ)
-    - cron: '0 6 * * 1-5'
-  
-  # Erlaube manuelles Auslösen für Tests
-  workflow_dispatch:
+    - cron: '0 5 * * *'  # 7:00 Uhr Berlin Zeit (UTC+2 im Sommer, UTC+1 im Winter → 5:00 UTC ist sicher)
+  workflow_dispatch:  # Manueller Trigger möglich
+
+permissions:
+  contents: write  # Benötigt um zu committen
 
 jobs:
   generate-newsletter:
     runs-on: ubuntu-latest
     
-    permissions:
-      contents: write  # Wichtig für git push
-    
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-    
-    - name: Set up Python 3.11
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
-        cache: 'pip'
-    
-    - name: Install Dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-    
-    - name: Run Newsletter Script
-      env:
-        ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        GMAIL_USER: ${{ secrets.GMAIL_USER }}
-        GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-        NEWSLETTER_URL: ${{ secrets.NEWSLETTER_URL }}
-      run: |
-        python medien_newsletter_web.py
-        
-        # Erstelle docs/ Verzeichnis wenn nicht vorhanden
-        mkdir -p docs
-        
-        # Kopiere index.html und Logos ins docs/ Verzeichnis
-        cp index.html docs/ 2>/dev/null || true
-        cp logo-*.png docs/ 2>/dev/null || true
-        
-        # Verschiebe JSON-Dateien ins docs/ Verzeichnis für GitHub Pages
-        mv newsletter-*.json docs/ 2>/dev/null || true
-        
-        # Liste was erstellt wurde
-        echo "=== Dateien in docs/ ==="
-        ls -la docs/
-    
-    - name: Commit and Push Newsletter Data
-      run: |
-        git config user.name "Newsletter Bot"
-        git config user.email "newsletter-bot@zooproductions.de"
-        
-        # Füge docs/ Ordner und alle Dateien darin hinzu
-        git add docs/
-        
-        # Commit nur wenn es Änderungen gibt
-        git diff --staged --quiet || git commit -m "📰 Newsletter $(date +%Y-%m-%d)"
-        
-        # Push zu GitHub
-        git push
-    
-    - name: Upload Logs (on failure)
-      if: failure()
-      uses: actions/upload-artifact@v4
-      with:
-        name: newsletter-logs
-        path: |
-          *.log
-          *.txt
-        retention-days: 7
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run Newsletter Script
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NEWSLETTER_URL: ${{ secrets.NEWSLETTER_URL }}
+          BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}
+        run: |
+          python medien_newsletter_web.py
+          
+          # Erstelle docs/ Verzeichnis wenn nicht vorhanden
+          mkdir -p docs
+          
+          # Kopiere index.html und Logos ins docs/ Verzeichnis
+          cp index.html docs/ 2>/dev/null || true
+          cp logo-*.png docs/ 2>/dev/null || true
+          
+          # Verschiebe JSON-Dateien ins docs/ Verzeichnis für GitHub Pages
+          mv newsletter-*.json docs/ 2>/dev/null || true
+          
+          # Liste was erstellt wurde
+          echo "=== Dateien in docs/ ==="
+          ls -la docs/
+      
+      - name: Commit and Push Newsletter Data
+        run: |
+          git config user.name "Newsletter Bot"
+          git config user.email "newsletter-bot@zooproductions.de"
+          
+          # Füge ALLE Dateien im docs/ Ordner hinzu (auch neue)
+          git add -A docs/
+          
+          # Commit nur wenn es Änderungen gibt
+          git diff --staged --quiet || git commit -m "📰 Newsletter $(date +%Y-%m-%d)"
+          
+          # Push zu GitHub
+          git push
