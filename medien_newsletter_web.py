@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Zoo Medien Newsletter Automation - Mit Learning Rules & Web-Fetching
-Generiert JSON-Daten und sendet kurze Email mit Link zur Webseite
-+ Wendet automatisch gelernte Regeln an
-+ Lädt vollständige Artikel für bessere Zusammenfassungen
+Zoo Medien Newsletter - FINALE VERSION
++ Learning Rules
++ Intelligentes Web-Fetching
++ Web-Search Fallback bei Paywalls
 """
 
 import feedparser
@@ -19,18 +19,19 @@ import time
 import sys
 import os
 import json
+import re
 
 # ============================================================================
-# LERN-REGELN IMPORTIEREN (falls vorhanden)
+# LERN-REGELN IMPORTIEREN
 # ============================================================================
 
 try:
     from learning_rules import apply_learning_rules
     USE_LEARNING = True
-    print("✅ Learning Rules aktiv - System lernt aus Feedback!")
+    print("✅ Learning Rules aktiv")
 except ImportError:
     USE_LEARNING = False
-    print("ℹ️ Keine Learning Rules gefunden - nutze nur Claude Base Scores")
+    print("ℹ️ Keine Learning Rules gefunden")
 
 # ============================================================================
 # KONFIGURATION
@@ -40,7 +41,6 @@ ANTHROPIC_API_KEY = os.environ.get('ANTHROPIC_API_KEY', '')
 GMAIL_USER = os.environ.get('GMAIL_USER', 'tom@zooproductions.de')
 GMAIL_APP_PASSWORD = os.environ.get('GMAIL_APP_PASSWORD', '')
 
-# Team-Empfänger
 EMPFAENGER = {
     'Tom': 'tom@zooproductions.de',
     'Kat': 'kat@zooproductions.de',
@@ -49,10 +49,8 @@ EMPFAENGER = {
     'Christina': 'christina@zooproductions.de'
 }
 
-# Newsletter-Webseite URL
 NEWSLETTER_URL = os.environ.get('NEWSLETTER_URL', 'https://blue24skies.github.io/media-newsletter')
 
-# RSS-Feeds
 RSS_FEEDS = {
     'DWDL': 'https://www.dwdl.de/rss/allethemen.xml',
     'Horizont Medien': 'https://www.horizont.net/news/feed/medien/',
@@ -62,18 +60,269 @@ RSS_FEEDS = {
     'Guardian Media': 'https://www.theguardian.com/media/rss'
 }
 
-# Bewertungs-Schwellenwert
 MIN_SCORE = 7
 
 # ============================================================================
-# CLAUDE API FUNKTIONEN
+# WEB-SEARCH FUNKTIONEN
+# ============================================================================
+
+def web_search(query, max_results=3):
+    """Sucht im Web nach einem Thema (Brave Search API)"""
+    try:
+        # Brave Search API Key aus Environment
+        brave_api_key = os.environ.get('BRAVE_SEARCH_API_KEY', '')
+        
+        if not brave_api_key:
+            print(f"      ℹ️ Keine BRAVE_SEARCH_API_KEY - überspringe Web-Suche")
+            return []
+        
+        # Bereite Suchquery vor
+        search_query = f"{query} medien tv nachrichten"
+        
+        # Brave Search API Call
+        headers = {
+            'Accept': 'application/json',
+            'X-Subscription-Token': brave_api_key
+        }
+        
+        params = {
+            'q': search_query,
+            'count': max_results,
+            'text_decorations': False,
+            'search_lang': 'de',
+            'country': 'DE'
+        }
+        
+        response = requests.get(
+            'https://api.search.brave.com/res/v1/web/search',
+            headers=headers,
+            params=params,
+            timeout=10
+        )
+        
+        if response.status_code == 200:
+            data = response.json()
+            results = []
+            
+            for result in data.get('web', {}).get('results', [])[:max_results]:
+                results.append({
+                    'title': result.get('title', ''),
+                    'snippet': result.get('description', ''),
+                    'url': result.get('url', '')
+                })
+            
+            return results
+        else:
+            print(f"      ⚠️ Brave API Error: {response.status_code}")
+            return []
+        
+    except Exception as e:
+        print(f"      ⚠️ Web-Search Fehler: {e}")
+        return []
+
+
+def hole_artikel_volltext(url):
+    """Lädt vollständigen Artikel - INTELLIGENT"""
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
+        }
+        
+        response = requests.get(url, headers=headers, timeout=15)
+        
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.content, 'html.parser')
+            
+            # Entferne unwichtige Elemente
+            for element in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'iframe', 'form', 'button']):
+                element.decompose()
+            
+            # MEHRERE Strategien um Hauptinhalt zu finden
+            article_text = None
+            
+            # Strategie 1: Suche nach article tags
+            for selector in ['article', '.article-body', '.article-content', '.post-content', '.entry-content', 'main article']:
+                article = soup.select_one(selector)
+                if article:
+                    article_text = article.get_text(separator=' ', strip=True)
+                    if len(article_text) > 300:
+                        break
+            
+            # Strategie 2: Suche nach div mit viel Text
+            if not article_text or len(article_text) < 300:
+                divs = soup.find_all('div', class_=re.compile(r'(content|article|post|entry|story|text)'))
+                for div in divs:
+                    text = div.get_text(separator=' ', strip=True)
+                    if len(text) > len(article_text or ''):
+                        article_text = text
+            
+            # Strategie 3: Alle p-Tags im body
+            if not article_text or len(article_text) < 300:
+                paragraphs = soup.find_all('p')
+                article_text = ' '.join([p.get_text(strip=True) for p in paragraphs])
+            
+            # Bereinige Text
+            if article_text:
+                lines = [line.strip() for line in article_text.split('\n') if line.strip()]
+                article_text = ' '.join(lines)
+                
+                # Entferne mehrfache Leerzeichen
+                article_text = re.sub(r'\s+', ' ', article_text)
+                
+                # Limitiere auf 3000 Zeichen
+                if len(article_text) > 3000:
+                    article_text = article_text[:3000]
+                
+                return article_text if len(article_text) > 200 else None
+        
+        return None
+        
+    except Exception as e:
+        print(f"      ⚠️ Web-Fetch Fehler: {e}")
+        return None
+
+
+def sammle_kontext_informationen(titel, quelle):
+    """Sammelt Kontext-Informationen wenn Artikel nicht ladbar ist"""
+    try:
+        # Versuche Web-Suche
+        print(f"      🔍 Suche Web-Kontext für: {titel[:60]}...")
+        
+        search_results = web_search(titel)
+        
+        if search_results:
+            print(f"      ✅ {len(search_results)} Kontext-Quellen gefunden")
+            kontext = "\n\n".join([r.get('snippet', '') for r in search_results])
+            return kontext
+        else:
+            return None
+            
+    except Exception as e:
+        print(f"      ⚠️ Kontext-Suche Fehler: {e}")
+        return None
+
+
+def generiere_zusammenfassung(artikel):
+    """INTELLIGENTE Zusammenfassung mit mehreren Fallback-Strategien"""
+    
+    titel = artikel.get('titel', '').strip()
+    beschreibung = artikel.get('beschreibung', '').strip()
+    link = artikel.get('link', '').strip()
+    quelle = artikel.get('quelle', '').strip()
+    
+    # STRATEGIE 1: RSS-Beschreibung wenn ausreichend
+    if beschreibung and len(beschreibung) > 150:
+        inhalt = beschreibung
+        quelle_info = "RSS-Feed"
+        print(f"      ✅ Nutze RSS-Beschreibung ({len(inhalt)} Zeichen)")
+    
+    # STRATEGIE 2: Lade Volltext von Original-URL
+    elif link:
+        print(f"      🌐 Lade Volltext von Original-URL...")
+        volltext = hole_artikel_volltext(link)
+        
+        if volltext and len(volltext) > 500:
+            inhalt = volltext
+            quelle_info = "Volltext"
+            print(f"      ✅ Volltext geladen ({len(volltext)} Zeichen)")
+        
+        # STRATEGIE 3: Web-Search Fallback
+        elif volltext and len(volltext) < 500:
+            print(f"      ⚠️ Volltext zu kurz ({len(volltext)} Zeichen) - Paywall/Login?")
+            print(f"      🔍 Versuche Web-Recherche als Fallback...")
+            
+            kontext = sammle_kontext_informationen(titel, quelle)
+            
+            if kontext and len(kontext) > 200:
+                # Kombiniere: Was wir haben + Web-Kontext
+                inhalt = f"Original (teilweise): {volltext}\n\nZusätzlicher Kontext aus Web-Recherche:\n{kontext}"
+                quelle_info = "Volltext + Web-Recherche"
+                print(f"      ✅ Kontext-Recherche erfolgreich ({len(kontext)} Zeichen)")
+            elif volltext:
+                inhalt = volltext
+                quelle_info = "Teiltext"
+                print(f"      ⚠️ Nutze verfügbaren Teiltext")
+            else:
+                # Fallback: Nur Titel
+                inhalt = f"Titel: {titel}\nQuelle: {quelle}"
+                quelle_info = "Nur Titel"
+                print(f"      ⚠️ Erstelle Zusammenfassung nur aus Titel")
+        
+        else:
+            # Kein Volltext ladbar - versuche Web-Recherche
+            print(f"      ❌ Volltext nicht ladbar")
+            kontext = sammle_kontext_informationen(titel, quelle)
+            
+            if kontext:
+                inhalt = f"Thema: {titel}\n\nKontext aus Web-Recherche:\n{kontext}"
+                quelle_info = "Web-Recherche"
+                print(f"      ✅ Nutze Web-Recherche ({len(kontext)} Zeichen)")
+            else:
+                inhalt = f"Titel: {titel}\nQuelle: {quelle}"
+                quelle_info = "Nur Titel"
+                print(f"      ⚠️ Nur Titel verfügbar")
+    
+    else:
+        # Kein Link vorhanden
+        inhalt = f"Titel: {titel}\nBeschreibung: {beschreibung if beschreibung else 'Keine'}"
+        quelle_info = "RSS-Basis"
+        print(f"      ℹ️ Kein Link verfügbar, nutze RSS-Daten")
+    
+    # CLAUDE ZUSAMMENFASSUNG
+    if len(inhalt) < 50:
+        return f"{titel} - Details nur im Original-Artikel verfügbar."
+    
+    prompt = f"""Du bist professioneller Medien-Journalist. Erstelle eine prägnante 2-3 Satz Zusammenfassung.
+
+Titel: {titel}
+
+Verfügbare Informationen ({quelle_info}):
+{inhalt}
+
+AUFGABE:
+- Schreibe eine professionelle, informative Zusammenfassung
+- Fokussiere auf konkrete Fakten und Kernaussagen  
+- 2-3 prägnante Sätze
+- Selbst bei wenig Info: Fasse zusammen was bekannt ist
+- Falls nur Titel: Formuliere was das Thema behandelt
+
+Schreibe NUR die Zusammenfassung."""
+
+    try:
+        response = requests.post(
+            'https://api.anthropic.com/v1/messages',
+            headers={
+                'x-api-key': ANTHROPIC_API_KEY,
+                'anthropic-version': '2023-06-01',
+                'content-type': 'application/json'
+            },
+            json={
+                'model': 'claude-sonnet-4-20250514',
+                'max_tokens': 350,
+                'messages': [{
+                    'role': 'user',
+                    'content': prompt
+                }]
+            },
+            timeout=30
+        )
+        
+        if response.status_code == 200:
+            return response.json()['content'][0]['text'].strip()
+        else:
+            return inhalt[:300] + "..."
+            
+    except Exception as e:
+        print(f"      ❌ Claude API Fehler: {e}")
+        return inhalt[:300] + "..."
+
+
+# ============================================================================
+# BEWERTUNG & RSS FUNKTIONEN (wie vorher)
 # ============================================================================
 
 def bewerte_artikel_mit_claude(titel, beschreibung, quelle):
-    """
-    Bewertet Artikel-Relevanz (1-10) mit Claude API
-    + Wendet Learning Rules an falls vorhanden
-    """
+    """Bewertet Artikel-Relevanz (1-10) mit Learning Rules"""
     prompt = f"""Du bist Experte für die Medienindustrie. Bewerte diesen Artikel auf seine Relevanz für einen deutschen TV-Produzenten.
 
 Artikel:
@@ -99,160 +348,33 @@ Antworte NUR mit einer Zahl zwischen 1 und 10."""
             json={
                 'model': 'claude-sonnet-4-20250514',
                 'max_tokens': 50,
-                'messages': [{
-                    'role': 'user',
-                    'content': prompt
-                }]
+                'messages': [{'role': 'user', 'content': prompt}]
             },
             timeout=30
         )
         
         if response.status_code == 200:
             score_text = response.json()['content'][0]['text'].strip()
-            # Extrahiere Zahl
             base_score = int(''.join(filter(str.isdigit, score_text))[:2])
             base_score = min(max(base_score, 1), 10)
             
-            # LEARNING RULES ANWENDEN
             if USE_LEARNING:
                 final_score = apply_learning_rules(titel, quelle, base_score)
                 if final_score != base_score:
-                    print(f"   🎓 Learning: {base_score} → {final_score} (Regel angewendet!)")
+                    print(f"   🎓 Learning: {base_score} → {final_score}")
                 return final_score
-            else:
-                return base_score
-        else:
-            print(f"   ⚠️ API Error: {response.status_code}")
-            return 5
-            
+            return base_score
+        return 5
     except Exception as e:
-        print(f"   ❌ Fehler: {e}")
+        print(f"   ❌ Bewertungs-Fehler: {e}")
         return 5
 
 
-def hole_artikel_volltext(url):
-    """Lädt den vollständigen Artikel von der URL"""
-    try:
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-        }
-        
-        response = requests.get(url, headers=headers, timeout=15)
-        
-        if response.status_code == 200:
-            soup = BeautifulSoup(response.content, 'html.parser')
-            
-            # Entferne unwichtige Elemente
-            for element in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'iframe', 'form']):
-                element.decompose()
-            
-            # Versuche Hauptinhalt zu finden
-            article = None
-            for selector in ['article', '.article-content', '.post-content', '.entry-content', 'main']:
-                article = soup.select_one(selector)
-                if article:
-                    break
-            
-            # Falls kein Hauptinhalt gefunden, nutze body
-            if not article:
-                article = soup.find('body')
-            
-            if article:
-                # Extrahiere Text
-                text = article.get_text(separator=' ', strip=True)
-                
-                # Bereinige Text
-                lines = [line.strip() for line in text.split('\n') if line.strip()]
-                text = ' '.join(lines)
-                
-                # Limitiere auf erste 2500 Zeichen
-                if len(text) > 2500:
-                    text = text[:2500]
-                
-                return text if len(text) > 100 else None
-        
-        return None
-        
-    except Exception as e:
-        print(f"      ⚠️ Web-Fetch Fehler: {e}")
-        return None
-
-
-def generiere_zusammenfassung(artikel):
-    """Generiert intelligente Zusammenfassung - lädt Volltext falls nötig"""
-    
-    titel = artikel.get('titel', '').strip()
-    beschreibung = artikel.get('beschreibung', '').strip()
-    link = artikel.get('link', '').strip()
-    
-    # Entscheide ob wir Volltext laden müssen
-    inhalt = beschreibung
-    volltext_geladen = False
-    
-    if not beschreibung or beschreibung == "Keine Beschreibung" or len(beschreibung) < 80:
-        # Beschreibung zu kurz oder fehlt - lade Volltext
-        if link:
-            print(f"      🌐 Lade Volltext...")
-            volltext = hole_artikel_volltext(link)
-            if volltext and len(volltext) > 100:
-                inhalt = volltext
-                volltext_geladen = True
-                print(f"      ✅ Volltext geladen ({len(volltext)} Zeichen)")
-            else:
-                print(f"      ⚠️ Volltext konnte nicht geladen werden")
-    
-    # Fallback falls immer noch zu wenig Inhalt
-    if not inhalt or len(inhalt) < 30:
-        return f"Medien-News: {titel}. Für Details bitte Artikel öffnen."
-    
-    # Claude Zusammenfassung
-    prompt = f"""Fasse diesen Medien-Artikel in 2-3 prägnanten Sätzen zusammen.
-
-Titel: {titel}
-
-Artikelinhalt:
-{inhalt}
-
-Schreibe eine professionelle, informative Zusammenfassung die das Wichtigste auf den Punkt bringt. 
-Konzentriere dich auf konkrete Fakten und Entwicklungen."""
-
-    try:
-        response = requests.post(
-            'https://api.anthropic.com/v1/messages',
-            headers={
-                'x-api-key': ANTHROPIC_API_KEY,
-                'anthropic-version': '2023-06-01',
-                'content-type': 'application/json'
-            },
-            json={
-                'model': 'claude-sonnet-4-20250514',
-                'max_tokens': 300,
-                'messages': [{
-                    'role': 'user',
-                    'content': prompt
-                }]
-            },
-            timeout=30
-        )
-        
-        if response.status_code == 200:
-            zusammenfassung = response.json()['content'][0]['text'].strip()
-            return zusammenfassung
-        else:
-            # Fallback
-            return inhalt[:250] + "..."
-            
-    except Exception as e:
-        print(f"      ⚠️ Zusammenfassung-Fehler: {e}")
-        return inhalt[:250] + "..."
-
-
 def get_rss_articles(feed_url, source_name, max_items=20):
-    """Holt Artikel aus einem RSS-Feed"""
+    """Holt Artikel aus RSS-Feed"""
     print(f"📡 Hole Artikel von {source_name}...")
     
     try:
-        # User-Agent setzen
         import urllib.request
         opener = urllib.request.build_opener()
         opener.addheaders = [('User-Agent', 'Mozilla/5.0')]
@@ -269,40 +391,36 @@ def get_rss_articles(feed_url, source_name, max_items=20):
             link = entry.get("link", "")
             
             if title and link:
-                article = {
+                articles.append({
                     "quelle": source_name,
                     "titel": title,
                     "beschreibung": description[:500] if description else "",
                     "link": link,
                     "published": entry.get("published", entry.get("updated", ""))
-                }
-                articles.append(article)
+                })
         
         print(f"   ✅ {len(articles)} Artikel gefunden")
         return articles
-    
     except Exception as e:
-        print(f"   ❌ Fehler bei {source_name}: {e}")
+        print(f"   ❌ Fehler: {e}")
         return []
 
 
 def sammle_und_bewerte_alle_artikel():
-    """Sammelt Artikel von allen Feeds und bewertet sie"""
+    """Sammelt und bewertet Artikel"""
     print("\n🤖 SAMMLE UND BEWERTE ARTIKEL")
     print("="*70)
     
     alle_artikel = []
-    artikel_counter = 0
+    counter = 0
     
-    # Alle RSS-Feeds durchgehen
     for source_name, feed_url in RSS_FEEDS.items():
         articles = get_rss_articles(feed_url, source_name)
         
         for article in articles:
-            artikel_counter += 1
-            print(f"\n[{artikel_counter}] {article['quelle']}: {article['titel'][:60]}...")
+            counter += 1
+            print(f"\n[{counter}] {article['quelle']}: {article['titel'][:60]}...")
             
-            # Claude Bewertung
             score = bewerte_artikel_mit_claude(
                 article['titel'],
                 article['beschreibung'],
@@ -317,24 +435,21 @@ def sammle_und_bewerte_alle_artikel():
             else:
                 print(f"   ⏭️ Score: {score}/10 - übersprungen")
             
-            # Rate limiting
             time.sleep(0.5)
     
     return alle_artikel
 
 
 def erstelle_newsletter_json(artikel_liste):
-    """Erstellt JSON-Datei für Webseite mit Zusammenfassungen"""
-    print("\n📄 ERSTELLE NEWSLETTER JSON")
+    """Erstellt JSON mit intelligenten Zusammenfassungen"""
+    print("\n📄 ERSTELLE NEWSLETTER JSON MIT ZUSAMMENFASSUNGEN")
     print("="*70)
     
-    # Zusammenfassungen generieren
     for idx, artikel in enumerate(artikel_liste, 1):
-        print(f"\n[{idx}/{len(artikel_liste)}] Zusammenfassung: {artikel['titel'][:50]}...")
+        print(f"\n[{idx}/{len(artikel_liste)}] {artikel['titel'][:60]}...")
         artikel['zusammenfassung'] = generiere_zusammenfassung(artikel)
-        time.sleep(0.8)  # Rate limiting
+        time.sleep(1)  # Rate limiting
     
-    # JSON erstellen
     heute = datetime.now().strftime('%Y-%m-%d')
     newsletter_data = {
         'datum': heute,
@@ -342,7 +457,6 @@ def erstelle_newsletter_json(artikel_liste):
         'anzahl': len(artikel_liste)
     }
     
-    # JSON mit Datum im Namen speichern
     json_filename = f'newsletter-{heute}.json'
     with open(json_filename, 'w', encoding='utf-8') as f:
         json.dump(newsletter_data, f, ensure_ascii=False, indent=2)
@@ -352,170 +466,87 @@ def erstelle_newsletter_json(artikel_liste):
 
 
 def sende_newsletter_email(empfaenger_name, empfaenger_email, anzahl_artikel, datum):
-    """Sendet kurze Email mit Link zur Webseite"""
-    
+    """Sendet Email"""
     newsletter_link = f"{NEWSLETTER_URL}?date={datum}"
     
-    # HTML Email
-    html = f"""
-    <html>
-    <head>
-        <style>
-            body {{
-                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
-                line-height: 1.6;
-                color: #333;
-            }}
-            .container {{
-                max-width: 600px;
-                margin: 0 auto;
-                padding: 20px;
-            }}
-            .header {{
-                background: linear-gradient(135deg, #181716 0%, #2a2624 100%);
-                color: #ffd01d;
-                padding: 30px;
-                border-radius: 10px;
-                text-align: center;
-            }}
-            .stats {{
-                background: #f6f6f6;
-                padding: 20px;
-                border-radius: 10px;
-                margin: 20px 0;
-                text-align: center;
-            }}
-            .stats-number {{
-                font-size: 48px;
-                font-weight: bold;
-                color: #181716;
-            }}
-            .button {{
-                display: inline-block;
-                background: #ffd01d;
-                color: #181716;
-                padding: 15px 40px;
-                text-decoration: none;
-                border-radius: 8px;
-                font-weight: bold;
-                margin: 20px 0;
-            }}
-            .footer {{
-                text-align: center;
-                color: #999;
-                font-size: 12px;
-                margin-top: 30px;
-            }}
-        </style>
-    </head>
-    <body>
-        <div class="container">
-            <div class="header">
-                <h1>🎬 Zoo Medien Newsletter</h1>
-                <p>Dein täglicher Überblick</p>
-            </div>
-            
-            <p>Guten Morgen {empfaenger_name}!</p>
-            
-            <div class="stats">
-                <div class="stats-number">{anzahl_artikel}</div>
-                <p>relevante Artikel für dich heute</p>
-            </div>
-            
-            <p>Dein personalisierter Newsletter ist bereit! Alle Artikel wurden intelligent zusammengefasst:</p>
-            
-            <center>
-                <a href="{newsletter_link}" class="button">
-                    Newsletter öffnen →
-                </a>
-            </center>
-            
-            <p><small>💡 Tipp: Bewerte die Artikel mit ✓ oder ✗ - das System lernt aus deinem Feedback!</small></p>
-            
-            <div class="footer">
-                Zoo Productions | Automatisch generiert am {datetime.now().strftime('%d.%m.%Y um %H:%M')} Uhr
-                {' | 🎓 Learning Rules aktiv!' if USE_LEARNING else ''}
-            </div>
-        </div>
-    </body>
-    </html>
-    """
+    html = f"""<html><head><style>
+    body{{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;line-height:1.6;color:#333}}
+    .container{{max-width:600px;margin:0 auto;padding:20px}}
+    .header{{background:linear-gradient(135deg,#181716 0%,#2a2624 100%);color:#ffd01d;padding:30px;border-radius:10px;text-align:center}}
+    .stats{{background:#f6f6f6;padding:20px;border-radius:10px;margin:20px 0;text-align:center}}
+    .stats-number{{font-size:48px;font-weight:bold;color:#181716}}
+    .button{{display:inline-block;background:#ffd01d;color:#181716;padding:15px 40px;text-decoration:none;border-radius:8px;font-weight:bold;margin:20px 0}}
+    .footer{{text-align:center;color:#999;font-size:12px;margin-top:30px}}
+    </style></head><body><div class="container">
+    <div class="header"><h1>🎬 Zoo Medien Newsletter</h1><p>Dein täglicher Überblick</p></div>
+    <p>Guten Morgen {empfaenger_name}!</p>
+    <div class="stats"><div class="stats-number">{anzahl_artikel}</div><p>relevante Artikel für dich heute</p></div>
+    <p>Dein personalisierter Newsletter mit intelligenten Zusammenfassungen ist bereit:</p>
+    <center><a href="{newsletter_link}" class="button">Newsletter öffnen →</a></center>
+    <p><small>💡 Bewerte Artikel - das System lernt aus deinem Feedback!</small></p>
+    <div class="footer">Zoo Productions | {datetime.now().strftime('%d.%m.%Y %H:%M')} Uhr{' | 🎓 Learning aktiv' if USE_LEARNING else ''}</div>
+    </div></body></html>"""
     
-    # Email erstellen
     msg = MIMEMultipart('alternative')
     msg['From'] = GMAIL_USER
     msg['To'] = empfaenger_email
-    msg['Subject'] = Header(f"📺 Zoo Newsletter - {anzahl_artikel} Artikel für dich ({datum})", 'utf-8')
-    
+    msg['Subject'] = Header(f"📺 Zoo Newsletter - {anzahl_artikel} Artikel ({datum})", 'utf-8')
     msg.attach(MIMEText(html, 'html', 'utf-8'))
     
-    # Senden
     try:
-        print(f"📧 Sende Email an {empfaenger_name} ({empfaenger_email})...")
+        print(f"📧 Sende an {empfaenger_name}...")
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls()
         server.login(GMAIL_USER, GMAIL_APP_PASSWORD)
         server.send_message(msg)
         server.quit()
-        print(f"   ✅ Email erfolgreich gesendet!")
+        print(f"   ✅ Gesendet!")
         return True
     except Exception as e:
-        print(f"   ❌ Email-Fehler: {e}")
+        print(f"   ❌ Fehler: {e}")
         return False
 
-
-# ============================================================================
-# MAIN
-# ============================================================================
 
 def main():
     """Hauptfunktion"""
     print("\n" + "="*70)
-    print("🎬 ZOO MEDIEN NEWSLETTER - AUTOMATISIERUNG")
+    print("🎬 ZOO MEDIEN NEWSLETTER - INTELLIGENTE AUTOMATISIERUNG")
     if USE_LEARNING:
-        print("🎓 LEARNING RULES AKTIV - System lernt aus Feedback!")
-    print("🌐 WEB-FETCHING AKTIV - Lädt vollständige Artikel!")
+        print("🎓 Learning Rules aktiv")
+    print("🌐 Intelligentes Web-Fetching + Recherche-Fallback")
     print("="*70)
-    print(f"⏰ Gestartet: {datetime.now().strftime('%d.%m.%Y um %H:%M:%S Uhr')}")
     
-    # API Key Check
     if not ANTHROPIC_API_KEY:
-        print("❌ FEHLER: ANTHROPIC_API_KEY nicht gesetzt!")
+        print("❌ FEHLER: ANTHROPIC_API_KEY fehlt!")
         sys.exit(1)
     
-    # Artikel sammeln und bewerten
     relevante_artikel = sammle_und_bewerte_alle_artikel()
     
     print("\n📊 ERGEBNIS")
     print("="*70)
-    print(f"✅ {len(relevante_artikel)} relevante Artikel gefunden (Score ≥{MIN_SCORE})")
+    print(f"✅ {len(relevante_artikel)} relevante Artikel (Score ≥{MIN_SCORE})")
     
-    if len(relevante_artikel) == 0:
-        print("⚠️ Keine relevanten Artikel heute - Newsletter wird nicht versendet")
+    if not relevante_artikel:
+        print("⚠️ Keine relevanten Artikel - kein Newsletter")
         return
     
-    # JSON erstellen
     json_file, datum = erstelle_newsletter_json(relevante_artikel)
     
-    # Emails versenden
     print("\n📧 VERSENDE EMAILS")
     print("="*70)
     
-    erfolg_counter = 0
+    erfolg = 0
     for name, email in EMPFAENGER.items():
         if sende_newsletter_email(name, email, len(relevante_artikel), datum):
-            erfolg_counter += 1
+            erfolg += 1
         time.sleep(1)
     
     print("\n" + "="*70)
-    print("🎉 NEWSLETTER ERFOLGREICH VERSENDET!")
+    print("🎉 NEWSLETTER VERSENDET!")
     print("="*70)
-    print(f"✅ {erfolg_counter}/{len(EMPFAENGER)} Emails erfolgreich gesendet")
-    print(f"📄 Newsletter-Daten: {json_file}")
-    print(f"🌐 Webseite: {NEWSLETTER_URL}?date={datum}")
-    if USE_LEARNING:
-        print("🎓 Learning Rules wurden angewendet!")
-    print("🌐 Volltext-Fetching für bessere Zusammenfassungen!")
+    print(f"✅ {erfolg}/{len(EMPFAENGER)} Emails gesendet")
+    print(f"📄 Datei: {json_file}")
+    print(f"🌐 Web: {NEWSLETTER_URL}?date={datum}")
     print("="*70 + "\n")
 
 
