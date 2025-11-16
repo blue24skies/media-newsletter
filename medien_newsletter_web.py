@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Zoo Medien Newsletter Automation - Mit Learning Rules
+Zoo Medien Newsletter Automation - Mit Learning Rules & Web-Fetching
 Generiert JSON-Daten und sendet kurze Email mit Link zur Webseite
 + Wendet automatisch gelernte Regeln an
++ Lädt vollständige Artikel für bessere Zusammenfassungen
 """
 
 import feedparser
 import requests
+from bs4 import BeautifulSoup
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
@@ -128,6 +130,123 @@ Antworte NUR mit einer Zahl zwischen 1 und 10."""
         return 5
 
 
+def hole_artikel_volltext(url):
+    """Lädt den vollständigen Artikel von der URL"""
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        }
+        
+        response = requests.get(url, headers=headers, timeout=15)
+        
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.content, 'html.parser')
+            
+            # Entferne unwichtige Elemente
+            for element in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'iframe', 'form']):
+                element.decompose()
+            
+            # Versuche Hauptinhalt zu finden
+            article = None
+            for selector in ['article', '.article-content', '.post-content', '.entry-content', 'main']:
+                article = soup.select_one(selector)
+                if article:
+                    break
+            
+            # Falls kein Hauptinhalt gefunden, nutze body
+            if not article:
+                article = soup.find('body')
+            
+            if article:
+                # Extrahiere Text
+                text = article.get_text(separator=' ', strip=True)
+                
+                # Bereinige Text
+                lines = [line.strip() for line in text.split('\n') if line.strip()]
+                text = ' '.join(lines)
+                
+                # Limitiere auf erste 2500 Zeichen
+                if len(text) > 2500:
+                    text = text[:2500]
+                
+                return text if len(text) > 100 else None
+        
+        return None
+        
+    except Exception as e:
+        print(f"      ⚠️ Web-Fetch Fehler: {e}")
+        return None
+
+
+def generiere_zusammenfassung(artikel):
+    """Generiert intelligente Zusammenfassung - lädt Volltext falls nötig"""
+    
+    titel = artikel.get('titel', '').strip()
+    beschreibung = artikel.get('beschreibung', '').strip()
+    link = artikel.get('link', '').strip()
+    
+    # Entscheide ob wir Volltext laden müssen
+    inhalt = beschreibung
+    volltext_geladen = False
+    
+    if not beschreibung or beschreibung == "Keine Beschreibung" or len(beschreibung) < 80:
+        # Beschreibung zu kurz oder fehlt - lade Volltext
+        if link:
+            print(f"      🌐 Lade Volltext...")
+            volltext = hole_artikel_volltext(link)
+            if volltext and len(volltext) > 100:
+                inhalt = volltext
+                volltext_geladen = True
+                print(f"      ✅ Volltext geladen ({len(volltext)} Zeichen)")
+            else:
+                print(f"      ⚠️ Volltext konnte nicht geladen werden")
+    
+    # Fallback falls immer noch zu wenig Inhalt
+    if not inhalt or len(inhalt) < 30:
+        return f"Medien-News: {titel}. Für Details bitte Artikel öffnen."
+    
+    # Claude Zusammenfassung
+    prompt = f"""Fasse diesen Medien-Artikel in 2-3 prägnanten Sätzen zusammen.
+
+Titel: {titel}
+
+Artikelinhalt:
+{inhalt}
+
+Schreibe eine professionelle, informative Zusammenfassung die das Wichtigste auf den Punkt bringt. 
+Konzentriere dich auf konkrete Fakten und Entwicklungen."""
+
+    try:
+        response = requests.post(
+            'https://api.anthropic.com/v1/messages',
+            headers={
+                'x-api-key': ANTHROPIC_API_KEY,
+                'anthropic-version': '2023-06-01',
+                'content-type': 'application/json'
+            },
+            json={
+                'model': 'claude-sonnet-4-20250514',
+                'max_tokens': 300,
+                'messages': [{
+                    'role': 'user',
+                    'content': prompt
+                }]
+            },
+            timeout=30
+        )
+        
+        if response.status_code == 200:
+            zusammenfassung = response.json()['content'][0]['text'].strip()
+            return zusammenfassung
+        else:
+            # Fallback
+            return inhalt[:250] + "..."
+            
+    except Exception as e:
+        print(f"      ⚠️ Zusammenfassung-Fehler: {e}")
+        return inhalt[:250] + "..."
+
+
 def get_rss_articles(feed_url, source_name, max_items=20):
     """Holt Artikel aus einem RSS-Feed"""
     print(f"📡 Hole Artikel von {source_name}...")
@@ -153,7 +272,7 @@ def get_rss_articles(feed_url, source_name, max_items=20):
                 article = {
                     "quelle": source_name,
                     "titel": title,
-                    "beschreibung": description[:500] if description else "Keine Beschreibung",
+                    "beschreibung": description[:500] if description else "",
                     "link": link,
                     "published": entry.get("published", entry.get("updated", ""))
                 }
@@ -204,54 +323,16 @@ def sammle_und_bewerte_alle_artikel():
     return alle_artikel
 
 
-def generiere_zusammenfassung(artikel):
-    """Generiert kurze Zusammenfassung mit Claude"""
-    prompt = f"""Fasse diesen Medien-Artikel in 2-3 prägnanten Sätzen zusammen.
-
-Titel: {artikel['titel']}
-Beschreibung: {artikel['beschreibung']}
-
-Schreibe eine professionelle Zusammenfassung die das Wichtigste auf den Punkt bringt."""
-
-    try:
-        response = requests.post(
-            'https://api.anthropic.com/v1/messages',
-            headers={
-                'x-api-key': ANTHROPIC_API_KEY,
-                'anthropic-version': '2023-06-01',
-                'content-type': 'application/json'
-            },
-            json={
-                'model': 'claude-sonnet-4-20250514',
-                'max_tokens': 200,
-                'messages': [{
-                    'role': 'user',
-                    'content': prompt
-                }]
-            },
-            timeout=30
-        )
-        
-        if response.status_code == 200:
-            return response.json()['content'][0]['text'].strip()
-        else:
-            return artikel['beschreibung'][:200]
-            
-    except Exception as e:
-        print(f"   ⚠️ Zusammenfassung-Fehler: {e}")
-        return artikel['beschreibung'][:200]
-
-
 def erstelle_newsletter_json(artikel_liste):
-    """Erstellt JSON-Datei für Webseite"""
+    """Erstellt JSON-Datei für Webseite mit Zusammenfassungen"""
     print("\n📄 ERSTELLE NEWSLETTER JSON")
     print("="*70)
     
     # Zusammenfassungen generieren
     for idx, artikel in enumerate(artikel_liste, 1):
-        print(f"Zusammenfassung {idx}/{len(artikel_liste)}: {artikel['titel'][:50]}...")
+        print(f"\n[{idx}/{len(artikel_liste)}] Zusammenfassung: {artikel['titel'][:50]}...")
         artikel['zusammenfassung'] = generiere_zusammenfassung(artikel)
-        time.sleep(0.5)
+        time.sleep(0.8)  # Rate limiting
     
     # JSON erstellen
     heute = datetime.now().strftime('%Y-%m-%d')
@@ -261,12 +342,12 @@ def erstelle_newsletter_json(artikel_liste):
         'anzahl': len(artikel_liste)
     }
     
-    # JSON speichern
-    json_filename = 'newsletter-data.json'
+    # JSON mit Datum im Namen speichern
+    json_filename = f'newsletter-{heute}.json'
     with open(json_filename, 'w', encoding='utf-8') as f:
         json.dump(newsletter_data, f, ensure_ascii=False, indent=2)
     
-    print(f"✅ JSON gespeichert: {json_filename}")
+    print(f"\n✅ JSON gespeichert: {json_filename}")
     return json_filename, heute
 
 
@@ -341,7 +422,7 @@ def sende_newsletter_email(empfaenger_name, empfaenger_email, anzahl_artikel, da
                 <p>relevante Artikel für dich heute</p>
             </div>
             
-            <p>Dein personalisierter Newsletter ist bereit! Klicke auf den Button um alle Artikel zu sehen:</p>
+            <p>Dein personalisierter Newsletter ist bereit! Alle Artikel wurden intelligent zusammengefasst:</p>
             
             <center>
                 <a href="{newsletter_link}" class="button">
@@ -393,6 +474,7 @@ def main():
     print("🎬 ZOO MEDIEN NEWSLETTER - AUTOMATISIERUNG")
     if USE_LEARNING:
         print("🎓 LEARNING RULES AKTIV - System lernt aus Feedback!")
+    print("🌐 WEB-FETCHING AKTIV - Lädt vollständige Artikel!")
     print("="*70)
     print(f"⏰ Gestartet: {datetime.now().strftime('%d.%m.%Y um %H:%M:%S Uhr')}")
     
@@ -433,6 +515,7 @@ def main():
     print(f"🌐 Webseite: {NEWSLETTER_URL}?date={datum}")
     if USE_LEARNING:
         print("🎓 Learning Rules wurden angewendet!")
+    print("🌐 Volltext-Fetching für bessere Zusammenfassungen!")
     print("="*70 + "\n")
 
 
