@@ -48,14 +48,9 @@ jobs:
         cp index.html docs/ 2>/dev/null || true
         cp logo-*.png docs/ 2>/dev/null || true
         
-        # Kopiere Fonts nur wenn sie im Root existieren (überschreibe nicht die in docs/)
-        if [ -d "fonts" ] && [ "$(ls -A fonts/*.woff2 2>/dev/null)" ]; then
-          mkdir -p docs/fonts
-          cp fonts/*.woff2 docs/fonts/
-          echo "✅ Fonts von Root nach docs/fonts/ kopiert"
-        else
-          echo "ℹ️ Keine Fonts im Root - verwende existierende in docs/fonts/"
-        fi
+        # Kopiere Fonts ins docs/ Verzeichnis
+        mkdir -p docs/fonts
+        cp fonts/*.woff2 docs/fonts/ 2>/dev/null || true
         
         # Verschiebe JSON-Dateien ins docs/ Verzeichnis für GitHub Pages
         mv newsletter-*.json docs/ 2>/dev/null || true
