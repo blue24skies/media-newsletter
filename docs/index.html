@@ -309,16 +309,15 @@
 
     <script>
         // ============================================================
-        // SUPABASE KONFIGURATION - HIER DEINE KEYS EINTRAGEN!
+        // SUPABASE KONFIGURATION
         // ============================================================
         const SUPABASE_URL = 'https://nrngjnfcfzpxheersplp.supabase.co';
         const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5ybmdqbmZjZnpweGhlZXJzcGxwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI4Nzg4NjAsImV4cCI6MjA3ODQ1NDg2MH0.M_sxg2QOduAYSZKUI4a-Hs2403H5jFOOCOpwTdQcZEE';
         
-        // Supabase Client initialisieren
         const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
         
         // ============================================================
-        // USER INFO HANDLING
+        // USER INFO
         // ============================================================
         let currentUser = {
             name: localStorage.getItem('userName') || '',
@@ -357,17 +356,16 @@
         }
         
         // ============================================================
-        // NEWSLETTER LADEN
+        // NEWSLETTER LADEN - FIX: Lade newsletter-YYYY-MM-DD.json
         // ============================================================
         async function loadNewsletter() {
             try {
-                // Datum aus URL Parameter oder heute
                 const urlParams = new URLSearchParams(window.location.search);
                 const dateParam = urlParams.get('date');
                 const date = dateParam || new Date().toISOString().split('T')[0];
                 
-                // JSON Datei laden
-                const response = await fetch(`newsletter-data.json?date=${date}`);
+                // FIX: Lade die richtige Datei newsletter-2025-11-16.json
+                const response = await fetch(`newsletter-${date}.json`);
                 
                 if (!response.ok) {
                     throw new Error('Newsletter nicht gefunden');
@@ -375,13 +373,13 @@
                 
                 const data = await response.json();
                 
-                // Statistiken anzeigen
-                document.getElementById('total-articles').textContent = data.artikel.length;
-                const avgScore = (data.artikel.reduce((sum, a) => sum + a.score, 0) / data.artikel.length).toFixed(1);
+                // Statistiken
+                document.getElementById('total-articles').textContent = data.articles.length;
+                const avgScore = (data.articles.reduce((sum, a) => sum + a.score, 0) / data.articles.length).toFixed(1);
                 document.getElementById('avg-score').textContent = avgScore;
                 
                 // Artikel rendern
-                renderArticles(data.artikel, date);
+                renderArticles(data.articles, date);
                 
                 document.getElementById('loading').style.display = 'none';
                 
@@ -401,14 +399,14 @@
                 articleEl.className = 'article';
                 articleEl.innerHTML = `
                     <div class="article-header">
-                        <span class="article-source">${article.quelle}</span>
+                        <span class="article-source">${article.source}</span>
                         <span class="article-score">Score: ${article.score}/10</span>
                     </div>
-                    <h2 class="article-title">${article.titel}</h2>
-                    <p class="article-description">${article.zusammenfassung}</p>
+                    <h2 class="article-title">${article.title}</h2>
+                    <p class="article-description">${article.summary}</p>
                     <div class="article-actions">
                         <a href="${article.link}" target="_blank" class="btn btn-primary">Artikel lesen →</a>
-                        <button class="btn btn-relevant" onclick="ratearticle(${index}, '${date}', 'relevant')">
+                        <button class="btn btn-relevant" onclick="rateArticle(${index}, '${date}', 'relevant')">
                             ✓ Relevant
                         </button>
                         <button class="btn btn-not-relevant" onclick="rateArticle(${index}, '${date}', 'nicht-relevant')">
@@ -421,29 +419,26 @@
         }
         
         // ============================================================
-        // BEWERTUNG SPEICHERN
+        // BEWERTUNG
         // ============================================================
         async function rateArticle(articleIndex, date, rating) {
-            // User Info prüfen
             if (!currentUser.name || !currentUser.email) {
                 checkUserInfo();
                 return;
             }
             
             try {
-                // Artikel-Daten holen
-                const response = await fetch(`newsletter-data.json?date=${date}`);
+                const response = await fetch(`newsletter-${date}.json`);
                 const data = await response.json();
-                const article = data.artikel[articleIndex];
+                const article = data.articles[articleIndex];
                 
-                // In Supabase speichern
                 const { error } = await supabase
                     .from('artikel_bewertungen')
                     .insert({
                         newsletter_datum: date,
                         artikel_id: articleIndex,
-                        artikel_titel: article.titel,
-                        artikel_quelle: article.quelle,
+                        artikel_titel: article.title,
+                        artikel_quelle: article.source,
                         artikel_score: article.score,
                         user_name: currentUser.name,
                         user_email: currentUser.email,
@@ -451,7 +446,6 @@
                     });
                 
                 if (error) {
-                    // Wenn bereits bewertet, Update machen
                     if (error.code === '23505') {
                         const { error: updateError } = await supabase
                             .from('artikel_bewertungen')
@@ -469,12 +463,11 @@
                     showFeedback('Bewertung gespeichert! ✓', 'success');
                 }
                 
-                // Button disablen
                 const buttons = document.querySelectorAll('.article')[articleIndex].querySelectorAll('.btn-relevant, .btn-not-relevant');
                 buttons.forEach(btn => btn.disabled = true);
                 
             } catch (error) {
-                console.error('Fehler beim Speichern:', error);
+                console.error('Fehler:', error);
                 showFeedback('Fehler beim Speichern! ✗', 'error');
             }
         }
