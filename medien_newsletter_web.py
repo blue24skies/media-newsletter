@@ -43,10 +43,10 @@ GMAIL_APP_PASSWORD = os.environ.get('GMAIL_APP_PASSWORD', '')
 
 EMPFAENGER = {
     'Tom': 'tom@zooproductions.de',
-    'Kat': 'kat@zooproductions.de',
-    'Dom': 'dom@zooproductions.de',
-    'Aurelia': 'aurelia@zooproductions.de',
-    'Christina': 'christina@zooproductions.de'
+    #'Kat': 'kat@zooproductions.de',
+    #'Dom': 'dom@zooproductions.de',
+    #'Aurelia': 'aurelia@zooproductions.de',
+    #'Christina': 'christina@zooproductions.de'
 }
 
 NEWSLETTER_URL = os.environ.get('NEWSLETTER_URL', 'https://blue24skies.github.io/media-newsletter')
