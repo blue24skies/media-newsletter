@@ -486,74 +486,90 @@ def speichere_als_json(artikel_liste):
 # EMAIL VERSAND
 # ============================================================================
 
-def erstelle_html_email(artikel_liste, empfaenger_name):
-    """Erstelle HTML Email mit Feedback-Buttons"""
+def erstelle_html_email(anzahl_artikel, empfaenger_name, datum):
+    """Sendet kurze Email mit Link zur Webseite"""
     
-    heute = datetime.now().strftime('%d.%m.%Y')
-    
-    artikel_html = ""
-    for artikel in artikel_liste:
-        # URL-encode für Feedback
-        feedback_url_base = f"{NEWSLETTER_URL}/?article={quote(artikel['title'])}"
-        
-        artikel_html += f"""
-        <div style="margin-bottom: 30px; padding: 20px; background-color: #f8f9fa; border-left: 4px solid #007bff;">
-            <h3 style="margin-top: 0; color: #333;">
-                <a href="{artikel['link']}" style="color: #007bff; text-decoration: none;">
-                    {artikel['title']}
-                </a>
-            </h3>
-            <p style="color: #666; font-size: 14px; margin: 5px 0;">
-                📰 {artikel['source']}
-            </p>
-            <p style="color: #333; line-height: 1.6; margin: 15px 0;">
-                {artikel.get('summary', 'Keine Zusammenfassung verfügbar')}
-            </p>
-            <p style="color: #888; font-size: 13px; margin: 10px 0 15px 0;">
-                ⭐ Relevanz-Score: {artikel['score']}/10
-            </p>
-            <div style="margin-top: 15px;">
-                <a href="{feedback_url_base}&feedback=relevant" 
-                   style="display: inline-block; padding: 10px 20px; background-color: #28a745; 
-                          color: white; text-decoration: none; border-radius: 5px; margin-right: 15px;">
-                    👍 Relevant
-                </a>
-                <a href="{feedback_url_base}&feedback=not_relevant" 
-                   style="display: inline-block; padding: 10px 20px; background-color: #dc3545; 
-                          color: white; text-decoration: none; border-radius: 5px;">
-                    👎 Nicht relevant
-                </a>
-            </div>
-        </div>
-        """
+    newsletter_link = f"{NEWSLETTER_URL}?date={datum}"
     
     html = f"""
     <!DOCTYPE html>
     <html>
     <head>
         <meta charset="UTF-8">
+        <style>
+            body {{
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+                line-height: 1.6;
+                color: #333;
+            }}
+            .container {{
+                max-width: 600px;
+                margin: 0 auto;
+                padding: 20px;
+            }}
+            .header {{
+                background: linear-gradient(135deg, #181716 0%, #2a2624 100%);
+                color: #ffd01d;
+                padding: 30px;
+                border-radius: 10px;
+                text-align: center;
+            }}
+            .stats {{
+                background: #f6f6f6;
+                padding: 20px;
+                border-radius: 10px;
+                margin: 20px 0;
+                text-align: center;
+            }}
+            .stats-number {{
+                font-size: 48px;
+                font-weight: bold;
+                color: #181716;
+            }}
+            .button {{
+                display: inline-block;
+                background: #ffd01d;
+                color: #181716;
+                padding: 15px 40px;
+                text-decoration: none;
+                border-radius: 8px;
+                font-weight: bold;
+                margin: 20px 0;
+            }}
+            .footer {{
+                text-align: center;
+                color: #999;
+                font-size: 12px;
+                margin-top: 30px;
+            }}
+        </style>
     </head>
-    <body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px;">
-        <div style="background-color: #007bff; color: white; padding: 30px; text-align: center; margin-bottom: 30px;">
-            <h1 style="margin: 0;">🎬 Zoo Medien Newsletter</h1>
-            <p style="margin: 10px 0 0 0; font-size: 16px;">Dein persönlicher Medien-Überblick · {heute}</p>
-        </div>
-        
-        <div style="padding: 20px;">
-            <p style="font-size: 16px;">Hallo {empfaenger_name},</p>
-            <p>hier sind die {len(artikel_liste)} wichtigsten Medien-News für heute:</p>
-            
-            {artikel_html}
-            
-            <div style="margin-top: 40px; padding: 20px; background-color: #e9ecef; border-radius: 5px; text-align: center;">
-                <p style="margin: 0; color: #666;">
-                    💡 <strong>Dein Feedback hilft!</strong><br>
-                    Klicke auf die Buttons um das System zu verbessern.
-                </p>
+    <body>
+        <div class="container">
+            <div class="header">
+                <h1>🎬 Zoo Medien Newsletter</h1>
+                <p>Dein täglicher Überblick</p>
             </div>
             
-            <div style="margin-top: 30px; text-align: center; color: #999; font-size: 12px;">
-                <p>Zoo Productions · Automatisiert mit KI-Unterstützung</p>
+            <p>Guten Morgen {empfaenger_name}!</p>
+            
+            <div class="stats">
+                <div class="stats-number">{anzahl_artikel}</div>
+                <p>relevante Artikel für dich heute</p>
+            </div>
+            
+            <p>Dein personalisierter Newsletter ist bereit! Alle Artikel wurden intelligent zusammengefasst:</p>
+            
+            <center>
+                <a href="{newsletter_link}" class="button">
+                    Newsletter öffnen →
+                </a>
+            </center>
+            
+            <p><small>💡 Tipp: Bewerte die Artikel mit ✓ oder ✗ - das System lernt aus deinem Feedback!</small></p>
+            
+            <div class="footer">
+                Zoo Productions | Automatisch generiert am {datetime.now().strftime('%d.%m.%Y um %H:%M')} Uhr
             </div>
         </div>
     </body>
@@ -563,7 +579,7 @@ def erstelle_html_email(artikel_liste, empfaenger_name):
     return html
 
 def versende_newsletter(artikel_liste):
-    """Versende Newsletter an alle Empfänger"""
+    """Versende kurze Newsletter-Email mit Link zur Website"""
     
     if not artikel_liste:
         print("⚠️ Keine relevanten Artikel - kein Newsletter versendet")
@@ -572,17 +588,18 @@ def versende_newsletter(artikel_liste):
     print(f"\n📧 VERSENDE EMAILS")
     print("="*70)
     
-    heute = datetime.now().strftime('%d.%m.%Y')
+    heute = datetime.now().strftime('%Y-%m-%d')
+    anzahl_artikel = len(artikel_liste)
     
     for name, email in EMPFAENGER.items():
         print(f"📧 Sende an {name}...")
         
         try:
-            # Erstelle personalisierte Email
-            html_content = erstelle_html_email(artikel_liste, name)
+            # Erstelle kurze Email mit Link
+            html_content = erstelle_html_email(anzahl_artikel, name, heute)
             
             msg = MIMEMultipart('alternative')
-            msg['Subject'] = f"🎬 Zoo Medien Newsletter · {heute}"
+            msg['Subject'] = f"🎬 Zoo Medien Newsletter · {anzahl_artikel} Artikel · {datetime.now().strftime('%d.%m.%Y')}"
             msg['From'] = GMAIL_USER
             msg['To'] = email
             
