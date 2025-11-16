@@ -31,20 +31,20 @@ BRAVE_SEARCH_API_KEY = os.environ.get('BRAVE_SEARCH_API_KEY', '')
 # RSS-Feeds
 RSS_FEEDS = {
     'DWDL': 'https://www.dwdl.de/rss/nachrichten.xml',
-    #'Horizont Medien': 'https://www.horizont.net/feed/kategorie/medien/rss.xml',
-    #'Variety': 'https://variety.com/feed/',
-    #'Deadline': 'https://deadline.com/feed/',
-    #'Hollywood Reporter': 'https://www.hollywoodreporter.com/feed/',
-    #'Guardian Media': 'https://www.theguardian.com/media/rss'
+    'Horizont Medien': 'https://www.horizont.net/feed/kategorie/medien/rss.xml',
+    'Variety': 'https://variety.com/feed/',
+    'Deadline': 'https://deadline.com/feed/',
+    'Hollywood Reporter': 'https://www.hollywoodreporter.com/feed/',
+    'Guardian Media': 'https://www.theguardian.com/media/rss'
 }
 
 # Empfänger - Alle Team-Mitglieder
 EMPFAENGER = {
     'Tom': 'tom@zooproductions.de',
-    #'Kat': 'kat@zooproductions.de',
-    #'Dom': 'dom@zooproductions.de',
-    #'Aurelia': 'aurelia@zooproductions.de',
-    #'Christina': 'christina@zooproductions.de'
+    'Kat': 'kat@zooproductions.de',
+    'Dom': 'dom@zooproductions.de',
+    'Aurelia': 'aurelia@zooproductions.de',
+    'Christina': 'christina@zooproductions.de'
 }
 
 # ============================================================================
@@ -273,10 +273,10 @@ Antworte NUR mit JSON:
 def erstelle_zusammenfassung_mit_claude(title, url, full_text):
     """
     Erstelle eine prägnante Zusammenfassung mit Claude
-    DIES IST DIE FEHLENDE FUNKTION!
     """
     
     if not full_text or len(full_text) < 100:
+        print(f"       ⚠️ Text zu kurz für Zusammenfassung: {len(full_text) if full_text else 0} Zeichen")
         return "Keine Zusammenfassung verfügbar."
     
     prompt = f"""Erstelle eine prägnante 2-3 Satz Zusammenfassung dieses Medien-Artikels für Fachleute:
@@ -290,6 +290,7 @@ Volltext:
 Antworte NUR mit der Zusammenfassung, keine Einleitung."""
 
     try:
+        print(f"       🔄 Sende Anfrage an Claude API...")
         response = requests.post(
             'https://api.anthropic.com/v1/messages',
             headers={
@@ -311,12 +312,15 @@ Antworte NUR mit der Zusammenfassung, keine Einleitung."""
         if response.status_code == 200:
             data = response.json()
             summary = data['content'][0]['text'].strip()
+            print(f"       ✅ Claude API Antwort erhalten!")
             return summary
         else:
+            print(f"       ❌ Claude API Fehler: Status {response.status_code}")
+            print(f"       📄 Response: {response.text[:200]}")
             return "Zusammenfassung nicht verfügbar."
             
     except Exception as e:
-        print(f"       ❌ Zusammenfassung fehlgeschlagen: {e}")
+        print(f"       ❌ Zusammenfassung fehlgeschlagen: {str(e)[:100]}")
         return "Zusammenfassung nicht verfügbar."
 
 # ============================================================================
@@ -439,15 +443,25 @@ def verarbeite_artikel(artikel_liste):
         # JETZT: Erstelle IMMER Zusammenfassung mit Claude!
         if full_text and len(full_text) >= 50:
             print(f"       🤖 Erstelle Zusammenfassung mit Claude...")
+            print(f"       📊 Text-Länge: {len(full_text)} Zeichen")
+            print(f"       📝 Erste 200 Zeichen: {full_text[:200]}...")
+            
             artikel['summary'] = erstelle_zusammenfassung_mit_claude(
                 artikel['title'],
                 artikel['link'],
                 full_text
             )
-            print(f"       ✅ Zusammenfassung erstellt!")
+            
+            if artikel['summary'] and artikel['summary'] != "Zusammenfassung nicht verfügbar.":
+                print(f"       ✅ Zusammenfassung erstellt: {artikel['summary'][:100]}...")
+            else:
+                print(f"       ⚠️ Claude gab keine gültige Zusammenfassung zurück!")
         else:
+            if not full_text:
+                print(f"       ❌ Keine Zusammenfassung möglich - kein Text geladen!")
+            else:
+                print(f"       ❌ Keine Zusammenfassung möglich - Text zu kurz: {len(full_text)} Zeichen")
             artikel['summary'] = "Zusammenfassung nicht verfügbar - Artikel konnte nicht geladen werden."
-            print(f"       ❌ Keine Zusammenfassung möglich (zu wenig Text)")
         
         time.sleep(0.5)  # Rate limiting
     
@@ -516,6 +530,15 @@ def erstelle_html_email(anzahl_artikel, empfaenger_name, datum):
                 border-radius: 10px;
                 text-align: center;
             }}
+            .logo {{
+                height: 60px;
+                margin-bottom: 15px;
+            }}
+            h1 {{
+                margin: 10px 0;
+                color: #ffd01d;
+                font-size: 28px;
+            }}
             .stats {{
                 background: #f6f6f6;
                 padding: 20px;
@@ -549,7 +572,8 @@ def erstelle_html_email(anzahl_artikel, empfaenger_name, datum):
     <body>
         <div class="container">
             <div class="header">
-                <h1>🎬 Zoo Medien Newsletter</h1>
+                <img src="{NEWSLETTER_URL}/logo-icon.png" alt="Zoo Productions" class="logo">
+                <h1>Zoo Medien Newsletter</h1>
                 <p>Dein täglicher Überblick</p>
             </div>
             
