@@ -367,7 +367,7 @@
                 const date = dateParam || new Date().toISOString().split('T')[0];
                 
                 // JSON Datei laden
-                const response = await fetch(`newsletter-${date}.json`);
+                const response = await fetch(`newsletter-data.json?date=${date}`);
                 
                 if (!response.ok) {
                     throw new Error('Newsletter nicht gefunden');
