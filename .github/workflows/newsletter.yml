@@ -58,7 +58,7 @@ jobs:
           git config user.name "Newsletter Bot"
           git config user.email "newsletter-bot@zooproductions.de"
           
-          # Füge ALLE Dateien im docs/ Ordner hinzu (auch neue)
+          # Füge ALLE Dateien im docs/ Ordner hinzu (auch neue!) - FIX!
           git add -A docs/
           
           # Commit nur wenn es Änderungen gibt
