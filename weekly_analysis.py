@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Zoo Medien Newsletter - Verbesserte Wöchentliche Lern-Analyse
-Analysiert Bewertungen und generiert intelligente Lern-Regeln
+Zoo Medien Newsletter - VERBESSERTE Wöchentliche Lern-Analyse
+Analysiert Bewertungen und generiert intelligente Multi-Faktor-Regeln:
 - Einzelne Keywords
-- Keyword-Kombinationen (2-Wörter)
+- Keyword-Paare (2-Wörter)
 - Quellen-Keyword-Kombinationen
 - Themen-Kategorien
 """
@@ -12,8 +12,15 @@ Analysiert Bewertungen und generiert intelligente Lern-Regeln
 import os
 import sys
 from datetime import datetime, timedelta
-from collections import defaultdict
-from supabase import create_client, Client
+from collections import defaultdict, Counter
+import re
+
+try:
+    from supabase import create_client, Client
+    SUPABASE_AVAILABLE = True
+except ImportError:
+    SUPABASE_AVAILABLE = False
+    print("⚠️ Supabase nicht installiert - nutze Dummy-Daten für Test")
 
 # ============================================================================
 # KONFIGURATION
@@ -22,31 +29,85 @@ from supabase import create_client, Client
 SUPABASE_URL = os.environ.get('SUPABASE_URL', '')
 SUPABASE_KEY = os.environ.get('SUPABASE_KEY', '')
 
-# Schwellenwerte für Regel-Generierung (GESENKT für mehr Regeln!)
-MIN_BEWERTUNGEN_KEYWORD = 3  # Minimum 3 Bewertungen für Keyword-Regeln
-MIN_BEWERTUNGEN_QUELLE = 5   # Minimum 5 Bewertungen für Quellen-Regeln
-MIN_BEWERTUNGEN_COMBO = 3    # Minimum 3 für Kombinationen
+# Schwellenwerte für Regel-Generierung (OPTIMIERT!)
+MIN_BEWERTUNGEN_KEYWORD = 3      # Min. 3 Bewertungen für Keyword-Regeln
+MIN_BEWERTUNGEN_QUELLE = 5       # Min. 5 Bewertungen für Quellen-Regeln
+MIN_BEWERTUNGEN_COMBO = 3        # Min. 3 für Kombinationen
+MIN_BEWERTUNGEN_GESAMT = 20      # Min. 20 Gesamtbewertungen für Analyse
 
-RELEVANT_SCHWELLE = 0.70     # 70% = als relevant markieren
-IRRELEVANT_SCHWELLE = 0.30   # 30% = als irrelevant markieren
+RELEVANT_SCHWELLE = 0.70         # 70% = positiv bewerten
+IRRELEVANT_SCHWELLE = 0.30       # 30% = negativ bewerten
 
-# Themen-Kategorien (erweitert!)
+# Stoppwörter (werden bei Keyword-Analyse ignoriert)
+STOPWORDS = {
+    'der', 'die', 'das', 'den', 'dem', 'des', 'ein', 'eine', 'einer', 'einem',
+    'und', 'oder', 'aber', 'auch', 'mit', 'von', 'zu', 'in', 'im', 'am', 'um',
+    'auf', 'bei', 'für', 'nach', 'vor', 'über', 'unter', 'aus', 'an', 'als',
+    'ist', 'sind', 'war', 'waren', 'wird', 'werden', 'wurde', 'wurden', 'hat',
+    'haben', 'hatte', 'hatten', 'sich', 'nicht', 'noch', 'nur', 'so', 'wie',
+    'mehr', 'gegen', 'zwischen', 'während', 'bis', 'seit'
+}
+
+# Themen-Kategorien
 THEMEN_KEYWORDS = {
-    'formate': ['format', 'show', 'serie', 'sendung', 'programm'],
-    'streaming': ['netflix', 'amazon', 'disney', 'apple tv', 'paramount', 'max', 'hbo'],
-    'quoten': ['quote', 'marktanteil', 'zuschauer', 'reichweite', 'rating'],
-    'personal': ['chef', 'ceo', 'geschäftsführer', 'leitung', 'wechsel', 'ernennung'],
-    'deals': ['übernahme', 'fusion', 'kauf', 'verkauf', 'investment', 'deal'],
-    'produktion': ['produktion', 'dreh', 'produktionsfirma', 'studio'],
-    'promi': ['promi', 'celebrity', 'star', 'celebrity', 'skandal', 'klatsch']
+    'formate': ['format', 'show', 'serie', 'sendung', 'programm', 'quiz', 'game'],
+    'streaming': ['netflix', 'amazon', 'disney', 'apple tv', 'paramount', 'max', 'hbo', 'prime'],
+    'quoten': ['quote', 'marktanteil', 'zuschauer', 'reichweite', 'rating', 'millionen'],
+    'personal': ['chef', 'ceo', 'geschäftsführer', 'leitung', 'wechsel', 'ernennung', 'personalien'],
+    'deals': ['übernahme', 'fusion', 'kauf', 'verkauf', 'investment', 'deal', 'beteiligung'],
+    'produktion': ['produktion', 'dreh', 'produktionsfirma', 'studio', 'dreht', 'gedreht'],
+    'promi': ['promi', 'celebrity', 'star', 'skandal', 'klatsch', 'privatleben']
 }
 
 # ============================================================================
-# FUNKTIONEN
+# HELPER FUNKTIONEN
+# ============================================================================
+
+def extrahiere_keywords(titel):
+    """Extrahiert relevante Keywords aus Titel (ohne Stoppwörter)"""
+    # Lowercase und Tokenisierung
+    titel_lower = titel.lower()
+    # Entferne Sonderzeichen, behalte nur Buchstaben, Zahlen, Leerzeichen
+    titel_clean = re.sub(r'[^\w\s]', ' ', titel_lower)
+    # Split in Wörter
+    woerter = titel_clean.split()
+    # Filtere Stoppwörter und kurze Wörter
+    keywords = [w for w in woerter if w not in STOPWORDS and len(w) > 3]
+    return keywords
+
+
+def finde_keyword_paare(keywords):
+    """Findet 2-Wort-Kombinationen"""
+    paare = []
+    for i in range(len(keywords) - 1):
+        paar = f"{keywords[i]} {keywords[i+1]}"
+        paare.append(paar)
+    return paare
+
+
+def kategorisiere_thema(titel):
+    """Ordnet Artikel einer Themen-Kategorie zu"""
+    titel_lower = titel.lower()
+    kategorien = []
+    
+    for kategorie, begriffe in THEMEN_KEYWORDS.items():
+        for begriff in begriffe:
+            if begriff in titel_lower:
+                kategorien.append(kategorie)
+                break  # Nur einmal pro Kategorie
+    
+    return kategorien
+
+
+# ============================================================================
+# DATENBANK / SUPABASE
 # ============================================================================
 
 def get_supabase_client() -> Client:
     """Initialisiert Supabase Client"""
+    if not SUPABASE_AVAILABLE:
+        return None
+    
     if not SUPABASE_URL or not SUPABASE_KEY:
         print("❌ FEHLER: SUPABASE_URL oder SUPABASE_KEY nicht gesetzt!")
         sys.exit(1)
@@ -54,558 +115,399 @@ def get_supabase_client() -> Client:
     return create_client(SUPABASE_URL, SUPABASE_KEY)
 
 
-def hole_bewertungen_letzte_woche(supabase: Client, tage=7):
-    """Holt alle Bewertungen der letzten X Tage"""
-    ende = datetime.now().date()
-    start = ende - timedelta(days=tage)
-    
-    print(f"\n📊 Analysiere Bewertungen von {start} bis {ende}")
-    print("="*70)
+def hole_bewertungen_letzte_woche(supabase):
+    """Holt alle Bewertungen der letzten 7 Tage"""
+    heute = datetime.now().date()
+    vor_7_tagen = heute - timedelta(days=7)
     
     try:
-        response = supabase.table('artikel_bewertungen') \
-            .select('*') \
-            .gte('newsletter_datum', start.isoformat()) \
-            .lte('newsletter_datum', ende.isoformat()) \
+        response = supabase.table('artikel_bewertungen')\
+            .select('*')\
+            .gte('newsletter_datum', vor_7_tagen.isoformat())\
+            .lte('newsletter_datum', heute.isoformat())\
             .execute()
         
         bewertungen = response.data
-        print(f"✅ {len(bewertungen)} Bewertungen gefunden")
-        return bewertungen, start, ende
+        print(f"\n📊 {len(bewertungen)} Bewertungen gefunden ({vor_7_tagen} bis {heute})")
         
+        return bewertungen, vor_7_tagen, heute
+    
     except Exception as e:
         print(f"❌ Fehler beim Abrufen der Bewertungen: {e}")
-        return [], start, ende
+        return [], vor_7_tagen, heute
 
 
-def extrahiere_keywords(titel, min_length=4):
-    """Extrahiert relevante Keywords aus einem Titel"""
-    # Stop-Wörter (erweitert)
-    stopwords = {
-        'der', 'die', 'das', 'und', 'oder', 'aber', 'doch', 'ein', 'eine', 'einem', 'einen',
-        'mit', 'von', 'nach', 'bei', 'für', 'auf', 'aus', 'über', 'unter', 'ist', 'sind',
-        'hat', 'haben', 'wird', 'werden', 'wurde', 'wurden', 'sein', 'im', 'am', 'zur', 'zum',
-        'the', 'a', 'an', 'and', 'or', 'but', 'of', 'to', 'in', 'for', 'on', 'at', 'by', 'with',
-        'from', 'as', 'is', 'was', 'are', 'were', 'been', 'be', 'have', 'has', 'had'
-    }
-    
-    titel_lower = titel.lower()
-    
-    # Entferne Sonderzeichen, behalte nur Buchstaben und Leerzeichen
-    import re
-    titel_clean = re.sub(r'[^\w\s]', ' ', titel_lower)
-    
-    # Extrahiere einzelne Wörter
-    words = [w.strip() for w in titel_clean.split() 
-            if len(w) >= min_length and w.lower() not in stopwords]
-    
-    return words
-
-
-def extrahiere_keyword_paare(titel):
-    """Extrahiert 2-Wort-Kombinationen (Bigrams)"""
-    words = extrahiere_keywords(titel, min_length=3)
-    
-    paare = []
-    for i in range(len(words) - 1):
-        paar = f"{words[i]} {words[i+1]}"
-        paare.append(paar)
-    
-    return paare
-
-
-def erkenne_thema(titel):
-    """Erkennt Themen-Kategorie aus Titel"""
-    titel_lower = titel.lower()
-    
-    erkannte_themen = []
-    for thema, keywords in THEMEN_KEYWORDS.items():
-        for keyword in keywords:
-            if keyword in titel_lower:
-                erkannte_themen.append(thema)
-                break
-    
-    return erkannte_themen
-
+# ============================================================================
+# ANALYSE-FUNKTIONEN
+# ============================================================================
 
 def analysiere_nach_quelle(bewertungen):
     """Analysiert Bewertungen nach Quelle"""
-    quellen_stats = defaultdict(lambda: {'relevant': 0, 'nicht_relevant': 0, 'total': 0})
+    quellen_stats = defaultdict(lambda: {'relevant': 0, 'nicht_relevant': 0, 'artikel': []})
     
-    for bew in bewertungen:
-        quelle = bew['artikel_quelle']
-        quellen_stats[quelle]['total'] += 1
-        if bew['bewertung'] == 'relevant':
+    for b in bewertungen:
+        quelle = b['artikel_quelle']
+        bewertung = b['bewertung']
+        
+        quellen_stats[quelle]['artikel'].append(b['artikel_titel'])
+        
+        if bewertung == 'relevant':
             quellen_stats[quelle]['relevant'] += 1
         else:
             quellen_stats[quelle]['nicht_relevant'] += 1
     
-    # Prozente berechnen
-    for quelle, stats in quellen_stats.items():
-        stats['relevant_prozent'] = stats['relevant'] / stats['total'] if stats['total'] > 0 else 0
-    
-    return dict(quellen_stats)
+    return quellen_stats
 
 
 def analysiere_nach_keywords(bewertungen):
-    """Analysiert Bewertungen nach einzelnen Keywords"""
-    keyword_stats = defaultdict(lambda: {'relevant': 0, 'nicht_relevant': 0, 'total': 0})
+    """Analysiert Bewertungen nach Keywords"""
+    keyword_stats = defaultdict(lambda: {'relevant': 0, 'nicht_relevant': 0, 'artikel': []})
     
-    for bew in bewertungen:
-        titel = bew['artikel_titel']
+    for b in bewertungen:
+        titel = b['artikel_titel']
+        bewertung = b['bewertung']
         keywords = extrahiere_keywords(titel)
         
         for keyword in keywords:
-            keyword_stats[keyword]['total'] += 1
-            if bew['bewertung'] == 'relevant':
+            keyword_stats[keyword]['artikel'].append(titel)
+            
+            if bewertung == 'relevant':
                 keyword_stats[keyword]['relevant'] += 1
             else:
                 keyword_stats[keyword]['nicht_relevant'] += 1
     
-    # Prozente berechnen & filtern
-    result = {}
-    for keyword, stats in keyword_stats.items():
-        if stats['total'] >= MIN_BEWERTUNGEN_KEYWORD:
-            stats['relevant_prozent'] = stats['relevant'] / stats['total']
-            result[keyword] = stats
-    
-    return result
+    return keyword_stats
 
 
 def analysiere_keyword_paare(bewertungen):
     """Analysiert 2-Wort-Kombinationen"""
-    paar_stats = defaultdict(lambda: {'relevant': 0, 'nicht_relevant': 0, 'total': 0})
+    paar_stats = defaultdict(lambda: {'relevant': 0, 'nicht_relevant': 0, 'artikel': []})
     
-    for bew in bewertungen:
-        titel = bew['artikel_titel']
-        paare = extrahiere_keyword_paare(titel)
+    for b in bewertungen:
+        titel = b['artikel_titel']
+        bewertung = b['bewertung']
+        keywords = extrahiere_keywords(titel)
+        paare = finde_keyword_paare(keywords)
         
         for paar in paare:
-            paar_stats[paar]['total'] += 1
-            if bew['bewertung'] == 'relevant':
+            paar_stats[paar]['artikel'].append(titel)
+            
+            if bewertung == 'relevant':
                 paar_stats[paar]['relevant'] += 1
             else:
                 paar_stats[paar]['nicht_relevant'] += 1
     
-    # Prozente berechnen & filtern
-    result = {}
-    for paar, stats in paar_stats.items():
-        if stats['total'] >= MIN_BEWERTUNGEN_COMBO:
-            stats['relevant_prozent'] = stats['relevant'] / stats['total']
-            result[paar] = stats
-    
-    return result
+    return paar_stats
 
 
-def analysiere_quelle_keyword_kombos(bewertungen):
-    """Analysiert Quellen + Keyword Kombinationen"""
-    combo_stats = defaultdict(lambda: {'relevant': 0, 'nicht_relevant': 0, 'total': 0})
+def analysiere_quelle_keyword_kombis(bewertungen):
+    """Analysiert Kombinationen von Quelle + Keyword"""
+    kombi_stats = defaultdict(lambda: {'relevant': 0, 'nicht_relevant': 0, 'artikel': []})
     
-    for bew in bewertungen:
-        quelle = bew['artikel_quelle']
-        titel = bew['artikel_titel']
+    for b in bewertungen:
+        titel = b['artikel_titel']
+        quelle = b['artikel_quelle']
+        bewertung = b['bewertung']
         keywords = extrahiere_keywords(titel)
         
-        # Nur Top-Keywords kombinieren (häufigste)
-        for keyword in keywords[:3]:  # Max 3 Keywords pro Artikel
-            combo = f"{quelle}:{keyword}"
-            combo_stats[combo]['total'] += 1
-            if bew['bewertung'] == 'relevant':
-                combo_stats[combo]['relevant'] += 1
+        for keyword in keywords[:3]:  # Nur Top-3 Keywords pro Artikel
+            kombi = f"{quelle}+{keyword}"
+            kombi_stats[kombi]['artikel'].append(titel)
+            
+            if bewertung == 'relevant':
+                kombi_stats[kombi]['relevant'] += 1
             else:
-                combo_stats[combo]['nicht_relevant'] += 1
+                kombi_stats[kombi]['nicht_relevant'] += 1
     
-    # Prozente berechnen & filtern
-    result = {}
-    for combo, stats in combo_stats.items():
-        if stats['total'] >= MIN_BEWERTUNGEN_COMBO:
-            stats['relevant_prozent'] = stats['relevant'] / stats['total']
-            result[combo] = stats
-    
-    return result
+    return kombi_stats
 
 
 def analysiere_themen(bewertungen):
     """Analysiert nach Themen-Kategorien"""
-    themen_stats = defaultdict(lambda: {'relevant': 0, 'nicht_relevant': 0, 'total': 0})
+    themen_stats = defaultdict(lambda: {'relevant': 0, 'nicht_relevant': 0, 'artikel': []})
     
-    for bew in bewertungen:
-        titel = bew['artikel_titel']
-        themen = erkenne_thema(titel)
+    for b in bewertungen:
+        titel = b['artikel_titel']
+        bewertung = b['bewertung']
+        kategorien = kategorisiere_thema(titel)
         
-        for thema in themen:
-            themen_stats[thema]['total'] += 1
-            if bew['bewertung'] == 'relevant':
-                themen_stats[thema]['relevant'] += 1
+        for kategorie in kategorien:
+            themen_stats[kategorie]['artikel'].append(titel)
+            
+            if bewertung == 'relevant':
+                themen_stats[kategorie]['relevant'] += 1
             else:
-                themen_stats[thema]['nicht_relevant'] += 1
+                themen_stats[kategorie]['nicht_relevant'] += 1
     
-    # Prozente berechnen
-    result = {}
-    for thema, stats in themen_stats.items():
-        if stats['total'] >= MIN_BEWERTUNGEN_COMBO:
-            stats['relevant_prozent'] = stats['relevant'] / stats['total']
-            result[thema] = stats
-    
-    return result
+    return themen_stats
 
 
-def generiere_regeln(quellen_stats, keyword_stats, paar_stats, combo_stats, themen_stats):
-    """Generiert intelligente Lern-Regeln aus allen Analysen"""
+# ============================================================================
+# REGEL-GENERIERUNG
+# ============================================================================
+
+def generiere_regeln(quellen_stats, keyword_stats, paar_stats, kombi_stats, themen_stats):
+    """Generiert Lern-Regeln basierend auf Statistiken"""
     regeln = []
     
+    print("\n🎓 GENERIERE LERN-REGELN")
+    print("=" * 70)
+    
     # 1. QUELLEN-REGELN
-    for quelle, stats in quellen_stats.items():
-        if stats['total'] < MIN_BEWERTUNGEN_QUELLE:
-            continue
+    print("\n1️⃣ QUELLEN-REGELN:")
+    for quelle, stats in sorted(quellen_stats.items()):
+        gesamt = stats['relevant'] + stats['nicht_relevant']
         
-        prozent = stats['relevant_prozent']
-        
-        if prozent >= RELEVANT_SCHWELLE:
-            modifier = +2 if prozent >= 0.85 else +1
-            regeln.append({
-                'regel_typ': 'quelle',
-                'bedingung': quelle,
-                'score_modifier': modifier,
-                'begründung': f"{int(prozent*100)}% der {quelle}-Artikel wurden als relevant bewertet",
-                'anzahl_bewertungen': stats['total'],
-                'relevant_prozent': round(prozent * 100, 2),
-                'prioritaet': 1
-            })
-        
-        elif prozent <= IRRELEVANT_SCHWELLE:
-            modifier = -2 if prozent <= 0.15 else -1
-            regeln.append({
-                'regel_typ': 'quelle',
-                'bedingung': quelle,
-                'score_modifier': modifier,
-                'begründung': f"Nur {int(prozent*100)}% der {quelle}-Artikel wurden als relevant bewertet",
-                'anzahl_bewertungen': stats['total'],
-                'relevant_prozent': round(prozent * 100, 2),
-                'prioritaet': 1
-            })
+        if gesamt >= MIN_BEWERTUNGEN_QUELLE:
+            prozent_relevant = stats['relevant'] / gesamt
+            
+            if prozent_relevant >= RELEVANT_SCHWELLE:
+                boost = 1 if prozent_relevant < 0.85 else 2
+                regeln.append({
+                    'typ': 'quelle',
+                    'wert': quelle,
+                    'aktion': boost,
+                    'grund': f"{int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
+                })
+                print(f"   ✅ {quelle}: +{boost} ({int(prozent_relevant*100)}%)")
+            
+            elif prozent_relevant <= IRRELEVANT_SCHWELLE:
+                regeln.append({
+                    'typ': 'quelle',
+                    'wert': quelle,
+                    'aktion': -1,
+                    'grund': f"nur {int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
+                })
+                print(f"   ❌ {quelle}: -1 ({int(prozent_relevant*100)}%)")
     
-    # 2. KEYWORD-REGELN (Einzelwörter)
-    for keyword, stats in keyword_stats.items():
-        prozent = stats['relevant_prozent']
+    # 2. KEYWORD-REGELN
+    print("\n2️⃣ KEYWORD-REGELN:")
+    keyword_items = sorted(keyword_stats.items(), key=lambda x: x[1]['relevant'], reverse=True)
+    count = 0
+    for keyword, stats in keyword_items:
+        if count >= 15:  # Max 15 Keyword-Regeln
+            break
         
-        if prozent >= RELEVANT_SCHWELLE:
-            modifier = +2 if prozent >= 0.85 else +1
-            regeln.append({
-                'regel_typ': 'keyword',
-                'bedingung': keyword,
-                'score_modifier': modifier,
-                'begründung': f"Artikel mit '{keyword}' wurden zu {int(prozent*100)}% als relevant bewertet",
-                'anzahl_bewertungen': stats['total'],
-                'relevant_prozent': round(prozent * 100, 2),
-                'prioritaet': 2
-            })
+        gesamt = stats['relevant'] + stats['nicht_relevant']
         
-        elif prozent <= IRRELEVANT_SCHWELLE:
-            modifier = -2 if prozent <= 0.15 else -1
-            regeln.append({
-                'regel_typ': 'keyword',
-                'bedingung': keyword,
-                'score_modifier': modifier,
-                'begründung': f"Artikel mit '{keyword}' wurden nur zu {int(prozent*100)}% als relevant bewertet",
-                'anzahl_bewertungen': stats['total'],
-                'relevant_prozent': round(prozent * 100, 2),
-                'prioritaet': 2
-            })
+        if gesamt >= MIN_BEWERTUNGEN_KEYWORD:
+            prozent_relevant = stats['relevant'] / gesamt
+            
+            if prozent_relevant >= RELEVANT_SCHWELLE:
+                boost = 1 if prozent_relevant < 0.85 else 2
+                regeln.append({
+                    'typ': 'keyword',
+                    'wert': keyword,
+                    'aktion': boost,
+                    'grund': f"{int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
+                })
+                print(f"   ✅ '{keyword}': +{boost} ({int(prozent_relevant*100)}%)")
+                count += 1
+            
+            elif prozent_relevant <= IRRELEVANT_SCHWELLE:
+                regeln.append({
+                    'typ': 'keyword',
+                    'wert': keyword,
+                    'aktion': -1,
+                    'grund': f"nur {int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
+                })
+                print(f"   ❌ '{keyword}': -1 ({int(prozent_relevant*100)}%)")
+                count += 1
     
-    # 3. KEYWORD-PAAR-REGELN (2-Wort-Kombinationen)
-    for paar, stats in paar_stats.items():
-        prozent = stats['relevant_prozent']
+    # 3. KEYWORD-PAAR-REGELN
+    print("\n3️⃣ KEYWORD-PAAR-REGELN:")
+    paar_items = sorted(paar_stats.items(), key=lambda x: x[1]['relevant'], reverse=True)
+    count = 0
+    for paar, stats in paar_items:
+        if count >= 10:  # Max 10 Paar-Regeln
+            break
         
-        if prozent >= RELEVANT_SCHWELLE:
-            modifier = +2 if prozent >= 0.85 else +1
-            regeln.append({
-                'regel_typ': 'keyword_paar',
-                'bedingung': paar,
-                'score_modifier': modifier,
-                'begründung': f"Artikel mit '{paar}' wurden zu {int(prozent*100)}% als relevant bewertet",
-                'anzahl_bewertungen': stats['total'],
-                'relevant_prozent': round(prozent * 100, 2),
-                'prioritaet': 3
-            })
+        gesamt = stats['relevant'] + stats['nicht_relevant']
         
-        elif prozent <= IRRELEVANT_SCHWELLE:
-            modifier = -1
-            regeln.append({
-                'regel_typ': 'keyword_paar',
-                'bedingung': paar,
-                'score_modifier': modifier,
-                'begründung': f"Artikel mit '{paar}' wurden nur zu {int(prozent*100)}% als relevant bewertet",
-                'anzahl_bewertungen': stats['total'],
-                'relevant_prozent': round(prozent * 100, 2),
-                'prioritaet': 3
-            })
+        if gesamt >= MIN_BEWERTUNGEN_COMBO:
+            prozent_relevant = stats['relevant'] / gesamt
+            
+            if prozent_relevant >= 0.80:  # Höhere Schwelle für Paare!
+                regeln.append({
+                    'typ': 'keyword_paar',
+                    'wert': paar,
+                    'aktion': 2,
+                    'grund': f"{int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
+                })
+                print(f"   ✅ '{paar}': +2 ({int(prozent_relevant*100)}%)")
+                count += 1
     
-    # 4. QUELLEN-KEYWORD-KOMBINATIONEN (z.B. "DWDL:format" vs "DWDL:promi")
-    for combo, stats in combo_stats.items():
-        prozent = stats['relevant_prozent']
+    # 4. QUELLEN-KEYWORD-KOMBINATIONEN
+    print("\n4️⃣ QUELLEN-KEYWORD-KOMBIS:")
+    kombi_items = sorted(kombi_stats.items(), key=lambda x: x[1]['relevant'], reverse=True)
+    count = 0
+    for kombi, stats in kombi_items:
+        if count >= 10:  # Max 10 Kombi-Regeln
+            break
         
-        if prozent >= RELEVANT_SCHWELLE:
-            modifier = +2 if prozent >= 0.85 else +1
-            quelle, keyword = combo.split(':')
-            regeln.append({
-                'regel_typ': 'quelle_keyword',
-                'bedingung': combo,
-                'score_modifier': modifier,
-                'begründung': f"{quelle}-Artikel über '{keyword}' wurden zu {int(prozent*100)}% als relevant bewertet",
-                'anzahl_bewertungen': stats['total'],
-                'relevant_prozent': round(prozent * 100, 2),
-                'prioritaet': 4
-            })
+        gesamt = stats['relevant'] + stats['nicht_relevant']
         
-        elif prozent <= IRRELEVANT_SCHWELLE:
-            modifier = -2 if prozent <= 0.15 else -1
-            quelle, keyword = combo.split(':')
-            regeln.append({
-                'regel_typ': 'quelle_keyword',
-                'bedingung': combo,
-                'score_modifier': modifier,
-                'begründung': f"{quelle}-Artikel über '{keyword}' wurden nur zu {int(prozent*100)}% als relevant bewertet",
-                'anzahl_bewertungen': stats['total'],
-                'relevant_prozent': round(prozent * 100, 2),
-                'prioritaet': 4
-            })
+        if gesamt >= MIN_BEWERTUNGEN_COMBO:
+            prozent_relevant = stats['relevant'] / gesamt
+            
+            if prozent_relevant >= 0.80:
+                regeln.append({
+                    'typ': 'quelle_keyword',
+                    'wert': kombi,
+                    'aktion': 2,
+                    'grund': f"{int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
+                })
+                quelle, keyword = kombi.split('+')
+                print(f"   ✅ {quelle} + '{keyword}': +2 ({int(prozent_relevant*100)}%)")
+                count += 1
     
     # 5. THEMEN-REGELN
-    for thema, stats in themen_stats.items():
-        prozent = stats['relevant_prozent']
+    print("\n5️⃣ THEMEN-REGELN:")
+    for thema, stats in sorted(themen_stats.items()):
+        gesamt = stats['relevant'] + stats['nicht_relevant']
         
-        if prozent >= RELEVANT_SCHWELLE:
-            modifier = +2 if prozent >= 0.85 else +1
-            regeln.append({
-                'regel_typ': 'thema',
-                'bedingung': thema,
-                'score_modifier': modifier,
-                'begründung': f"Artikel zum Thema '{thema}' wurden zu {int(prozent*100)}% als relevant bewertet",
-                'anzahl_bewertungen': stats['total'],
-                'relevant_prozent': round(prozent * 100, 2),
-                'prioritaet': 2
-            })
-        
-        elif prozent <= IRRELEVANT_SCHWELLE:
-            modifier = -2 if prozent <= 0.15 else -1
-            regeln.append({
-                'regel_typ': 'thema',
-                'bedingung': thema,
-                'score_modifier': modifier,
-                'begründung': f"Artikel zum Thema '{thema}' wurden nur zu {int(prozent*100)}% als relevant bewertet",
-                'anzahl_bewertungen': stats['total'],
-                'relevant_prozent': round(prozent * 100, 2),
-                'prioritaet': 2
-            })
+        if gesamt >= MIN_BEWERTUNGEN_KEYWORD:
+            prozent_relevant = stats['relevant'] / gesamt
+            
+            if prozent_relevant >= RELEVANT_SCHWELLE:
+                boost = 1
+                regeln.append({
+                    'typ': 'thema',
+                    'wert': thema,
+                    'aktion': boost,
+                    'grund': f"{int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
+                })
+                print(f"   ✅ Thema '{thema}': +{boost} ({int(prozent_relevant*100)}%)")
+            
+            elif prozent_relevant <= IRRELEVANT_SCHWELLE:
+                regeln.append({
+                    'typ': 'thema',
+                    'wert': thema,
+                    'aktion': -1,
+                    'grund': f"nur {int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
+                })
+                print(f"   ❌ Thema '{thema}': -1 ({int(prozent_relevant*100)}%)")
     
+    print(f"\n✅ {len(regeln)} Regeln generiert!")
     return regeln
 
 
-def speichere_regeln(supabase: Client, regeln):
-    """Speichert oder aktualisiert Regeln in Supabase"""
-    neue_regeln = 0
-    aktualisierte_regeln = 0
-    
-    for regel in regeln:
-        try:
-            # Prüfe ob Regel bereits existiert
-            existing = supabase.table('lern_regeln') \
-                .select('*') \
-                .eq('regel_typ', regel['regel_typ']) \
-                .eq('bedingung', regel['bedingung']) \
-                .execute()
-            
-            # Entferne prioritaet vor dem Speichern (nur für Sortierung)
-            regel_to_save = {k: v for k, v in regel.items() if k != 'prioritaet'}
-            
-            if existing.data:
-                # Update
-                supabase.table('lern_regeln') \
-                    .update(regel_to_save) \
-                    .eq('regel_typ', regel['regel_typ']) \
-                    .eq('bedingung', regel['bedingung']) \
-                    .execute()
-                aktualisierte_regeln += 1
-            else:
-                # Insert
-                supabase.table('lern_regeln').insert(regel_to_save).execute()
-                neue_regeln += 1
-        
-        except Exception as e:
-            print(f"⚠️ Fehler beim Speichern der Regel {regel['bedingung']}: {e}")
-    
-    return neue_regeln, aktualisierte_regeln
-
-
-def generiere_python_code(supabase: Client):
-    """Generiert intelligente learning_rules.py aus Datenbank-Regeln"""
+def generiere_learning_rules_py(regeln):
+    """Generiert learning_rules.py Datei"""
     try:
-        response = supabase.table('lern_regeln') \
-            .select('*') \
-            .eq('aktiv', True) \
-            .execute()
-        
-        regeln = response.data
-        
-        if not regeln:
-            print("ℹ️ Keine aktiven Regeln gefunden - learning_rules.py wird nicht erstellt")
-            return
-        
-        # Nach Typ gruppieren
-        quellen_regeln = [r for r in regeln if r['regel_typ'] == 'quelle']
-        keyword_regeln = [r for r in regeln if r['regel_typ'] == 'keyword']
-        paar_regeln = [r for r in regeln if r['regel_typ'] == 'keyword_paar']
-        combo_regeln = [r for r in regeln if r['regel_typ'] == 'quelle_keyword']
-        themen_regeln = [r for r in regeln if r['regel_typ'] == 'thema']
-        
-        # Python Code generieren
+        # Code-Template
         code = '''#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Automatisch generierte Lern-Regeln für Zoo Medien Newsletter
-Generiert am: {timestamp}
+AUTOMATISCH GENERIERTE LERN-REGELN
+Erstellt: {timestamp}
 Anzahl Regeln: {anzahl}
-- Quellen-Regeln: {quellen}
-- Keyword-Regeln: {keywords}
-- Keyword-Paar-Regeln: {paare}
-- Quellen-Keyword-Kombos: {kombos}
-- Themen-Regeln: {themen}
 """
 
 import re
 
-# Themen-Keywords für Erkennung
+# Themen-Keywords für Kategorisierung
 THEMEN_KEYWORDS = {themen_dict}
 
-def erkenne_thema(titel):
-    """Erkennt Themen-Kategorie aus Titel"""
+def kategorisiere_thema(titel):
+    """Ordnet Artikel Themen-Kategorien zu"""
     titel_lower = titel.lower()
-    erkannte_themen = []
+    kategorien = []
     
-    for thema, keywords in THEMEN_KEYWORDS.items():
-        for keyword in keywords:
-            if keyword in titel_lower:
-                erkannte_themen.append(thema)
+    for kategorie, begriffe in THEMEN_KEYWORDS.items():
+        for begriff in begriffe:
+            if begriff in titel_lower:
+                kategorien.append(kategorie)
                 break
     
-    return erkannte_themen
+    return kategorien
 
 def apply_learning_rules(titel, quelle, base_score):
-    """
-    Wendet gelernte Regeln auf einen Artikel an
-    
-    Args:
-        titel (str): Artikel-Titel
-        quelle (str): Artikel-Quelle
-        base_score (int): Basis-Score von Claude (1-10)
-    
-    Returns:
-        int: Angepasster Score (1-10)
-    """
+    """Wendet alle Lern-Regeln auf den Score an"""
     score = base_score
     titel_lower = titel.lower()
     
-    # Bereinige Titel für Keyword-Matching
+    # Extrahiere Keywords
     titel_clean = re.sub(r'[^\\w\\s]', ' ', titel_lower)
+    woerter = titel_clean.split()
     
-    # 1. QUELLEN-REGELN (Priorität 1)
+    {regelcode}
+    
+    return min(max(score, 1), 10)  # Score zwischen 1-10 halten
+
+# Statistik
+ANZAHL_REGELN = {anzahl}
 '''.format(
             timestamp=datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
             anzahl=len(regeln),
-            quellen=len(quellen_regeln),
-            keywords=len(keyword_regeln),
-            paare=len(paar_regeln),
-            kombos=len(combo_regeln),
-            themen=len(themen_regeln),
-            themen_dict=str(THEMEN_KEYWORDS)
+            themen_dict=repr(THEMEN_KEYWORDS),
+            regelcode=''
         )
+        
+        # Generiere Regel-Code
+        regelcode_teile = []
         
         # Quellen-Regeln
-        for regel in quellen_regeln:
-            code += f"    if quelle == '{regel['bedingung']}':\n"
-            code += f"        score += {regel['score_modifier']}  # {regel['begründung']}\n"
+        quellen_regeln = [r for r in regeln if r['typ'] == 'quelle']
+        if quellen_regeln:
+            regelcode_teile.append("    # QUELLEN-REGELN")
+            for regel in quellen_regeln:
+                regelcode_teile.append(f"    if quelle == '{regel['wert']}':")
+                regelcode_teile.append(f"        score += {regel['aktion']}  # {regel['grund']}")
         
-        code += "\n    # 2. THEMEN-REGELN (Priorität 2)\n"
-        code += "    themen = erkenne_thema(titel)\n"
-        for regel in themen_regeln:
-            code += f"    if '{regel['bedingung']}' in themen:\n"
-            code += f"        score += {regel['score_modifier']}  # {regel['begründung']}\n"
+        # Keyword-Regeln
+        keyword_regeln = [r for r in regeln if r['typ'] == 'keyword']
+        if keyword_regeln:
+            regelcode_teile.append("\n    # KEYWORD-REGELN")
+            for regel in keyword_regeln:
+                regelcode_teile.append(f"    if '{regel['wert']}' in woerter:")
+                regelcode_teile.append(f"        score += {regel['aktion']}  # {regel['grund']}")
         
-        code += "\n    # 3. KEYWORD-REGELN (Priorität 3)\n"
-        for regel in keyword_regeln:
-            code += f"    if '{regel['bedingung']}' in titel_lower:\n"
-            code += f"        score += {regel['score_modifier']}  # {regel['begründung']}\n"
+        # Keyword-Paar-Regeln
+        paar_regeln = [r for r in regeln if r['typ'] == 'keyword_paar']
+        if paar_regeln:
+            regelcode_teile.append("\n    # KEYWORD-PAAR-REGELN")
+            for regel in paar_regeln:
+                regelcode_teile.append(f"    if '{regel['wert']}' in titel_lower:")
+                regelcode_teile.append(f"        score += {regel['aktion']}  # {regel['grund']}")
         
-        code += "\n    # 4. KEYWORD-PAAR-REGELN (Priorität 4)\n"
-        for regel in paar_regeln:
-            paar = regel['bedingung']
-            code += f"    if '{paar}' in titel_lower:\n"
-            code += f"        score += {regel['score_modifier']}  # {regel['begründung']}\n"
+        # Quellen-Keyword-Kombis
+        kombi_regeln = [r for r in regeln if r['typ'] == 'quelle_keyword']
+        if kombi_regeln:
+            regelcode_teile.append("\n    # QUELLEN-KEYWORD-KOMBINATIONEN")
+            for regel in kombi_regeln:
+                quelle_val, keyword = regel['wert'].split('+')
+                regelcode_teile.append(f"    if quelle == '{quelle_val}' and '{keyword}' in woerter:")
+                regelcode_teile.append(f"        score += {regel['aktion']}  # {regel['grund']}")
         
-        code += "\n    # 5. QUELLEN-KEYWORD-KOMBINATIONEN (Priorität 5 - Spezifischste)\n"
-        for regel in combo_regeln:
-            quelle_cond, keyword_cond = regel['bedingung'].split(':')
-            code += f"    if quelle == '{quelle_cond}' and '{keyword_cond}' in titel_lower:\n"
-            code += f"        score += {regel['score_modifier']}  # {regel['begründung']}\n"
+        # Themen-Regeln
+        themen_regeln = [r for r in regeln if r['typ'] == 'thema']
+        if themen_regeln:
+            regelcode_teile.append("\n    # THEMEN-REGELN")
+            regelcode_teile.append("    kategorien = kategorisiere_thema(titel)")
+            for regel in themen_regeln:
+                regelcode_teile.append(f"    if '{regel['wert']}' in kategorien:")
+                regelcode_teile.append(f"        score += {regel['aktion']}  # {regel['grund']}")
         
-        code += '''
-    # Score im gültigen Bereich halten (1-10)
-    score = max(1, min(10, score))
-    
-    return score
-
-
-# Statistik über aktive Regeln
-ANZAHL_REGELN = {anzahl}
-QUELLEN_REGELN = {quellen}
-KEYWORD_REGELN = {keywords}
-KEYWORD_PAAR_REGELN = {paare}
-QUELLEN_KEYWORD_REGELN = {kombos}
-THEMEN_REGELN = {themen}
-'''.format(
-            anzahl=len(regeln),
-            quellen=len(quellen_regeln),
-            keywords=len(keyword_regeln),
-            paare=len(paar_regeln),
-            kombos=len(combo_regeln),
-            themen=len(themen_regeln)
-        )
+        # Füge Regelcode ein
+        regelcode_str = '\n'.join(regelcode_teile)
+        code = code.replace('{regelcode}', regelcode_str)
         
         # Datei schreiben
         with open('learning_rules.py', 'w', encoding='utf-8') as f:
             f.write(code)
         
-        print(f"✅ learning_rules.py erstellt ({len(regeln)} Regeln)")
-        print(f"   - {len(quellen_regeln)} Quellen-Regeln")
-        print(f"   - {len(themen_regeln)} Themen-Regeln")
-        print(f"   - {len(keyword_regeln)} Keyword-Regeln")
-        print(f"   - {len(paar_regeln)} Keyword-Paar-Regeln")
-        print(f"   - {len(combo_regeln)} Quellen-Keyword-Kombos")
+        print(f"\n✅ learning_rules.py erfolgreich erstellt!")
+        print(f"   Quellen: {len(quellen_regeln)}")
+        print(f"   Keywords: {len(keyword_regeln)}")
+        print(f"   Paare: {len(paar_regeln)}")
+        print(f"   Kombis: {len(kombi_regeln)}")
+        print(f"   Themen: {len(themen_regeln)}")
         
     except Exception as e:
         print(f"❌ Fehler beim Generieren von learning_rules.py: {e}")
-
-
-def speichere_analyse_log(supabase: Client, start, ende, anzahl_bewertungen, 
-                          neue_regeln, aktualisierte_regeln, log_text):
-    """Speichert Analyse-Log in Datenbank"""
-    try:
-        log_entry = {
-            'analyse_datum': datetime.now().date().isoformat(),
-            'zeitraum_von': start.isoformat(),
-            'zeitraum_bis': ende.isoformat(),
-            'anzahl_bewertungen': anzahl_bewertungen,
-            'neue_regeln': neue_regeln,
-            'aktualisierte_regeln': aktualisierte_regeln,
-            'log_text': log_text
-        }
-        
-        supabase.table('analyse_logs').insert(log_entry).execute()
-        print("✅ Analyse-Log gespeichert")
-        
-    except Exception as e:
-        print(f"⚠️ Fehler beim Speichern des Logs: {e}")
+        import traceback
+        traceback.print_exc()
 
 
 # ============================================================================
@@ -615,8 +517,12 @@ def speichere_analyse_log(supabase: Client, start, ende, anzahl_bewertungen,
 def main():
     """Hauptfunktion"""
     print("\n" + "="*70)
-    print("🤖 ZOO MEDIEN NEWSLETTER - INTELLIGENTE LERN-ANALYSE")
+    print("🤖 ZOO MEDIEN NEWSLETTER - VERBESSERTE WÖCHENTLICHE ANALYSE")
     print("="*70)
+    
+    if not SUPABASE_AVAILABLE:
+        print("❌ Supabase nicht installiert!")
+        return
     
     # Supabase Client
     supabase = get_supabase_client()
@@ -624,98 +530,38 @@ def main():
     # Bewertungen abrufen
     bewertungen, start, ende = hole_bewertungen_letzte_woche(supabase)
     
-    if len(bewertungen) < MIN_BEWERTUNGEN_KEYWORD:
+    if len(bewertungen) < MIN_BEWERTUNGEN_GESAMT:
         print(f"\n⚠️ Zu wenig Bewertungen ({len(bewertungen)}) für eine Analyse")
-        print(f"   Minimum: {MIN_BEWERTUNGEN_KEYWORD} Bewertungen")
+        print(f"   Minimum: {MIN_BEWERTUNGEN_GESAMT} Bewertungen")
         print("   Warte bis nächste Woche!")
         return
     
-    # ALLE Analysen durchführen
-    print("\n📈 ANALYSE NACH QUELLE")
-    print("-"*70)
+    print(f"✅ Genug Daten vorhanden - starte Analyse!")
+    
+    # Analysen durchführen
+    print("\n📊 FÜHRE ANALYSEN DURCH...")
     quellen_stats = analysiere_nach_quelle(bewertungen)
-    for quelle, stats in sorted(quellen_stats.items(), key=lambda x: x[1]['total'], reverse=True):
-        prozent = int(stats['relevant_prozent'] * 100)
-        print(f"{quelle:30} | {stats['total']:3} Bewertungen | {prozent:3}% relevant")
-    
-    print("\n📈 ANALYSE NACH EINZELNEN KEYWORDS")
-    print("-"*70)
     keyword_stats = analysiere_nach_keywords(bewertungen)
-    for keyword, stats in sorted(keyword_stats.items(), key=lambda x: x[1]['total'], reverse=True)[:15]:
-        prozent = int(stats['relevant_prozent'] * 100)
-        print(f"{keyword:30} | {stats['total']:3} Bewertungen | {prozent:3}% relevant")
-    
-    print("\n📈 ANALYSE NACH KEYWORD-PAAREN (2-Wörter)")
-    print("-"*70)
     paar_stats = analysiere_keyword_paare(bewertungen)
-    for paar, stats in sorted(paar_stats.items(), key=lambda x: x[1]['total'], reverse=True)[:10]:
-        prozent = int(stats['relevant_prozent'] * 100)
-        print(f"{paar:40} | {stats['total']:3} Bewertungen | {prozent:3}% relevant")
-    
-    print("\n📈 ANALYSE NACH QUELLEN-KEYWORD-KOMBOS")
-    print("-"*70)
-    combo_stats = analysiere_quelle_keyword_kombos(bewertungen)
-    for combo, stats in sorted(combo_stats.items(), key=lambda x: x[1]['total'], reverse=True)[:10]:
-        prozent = int(stats['relevant_prozent'] * 100)
-        print(f"{combo:40} | {stats['total']:3} Bewertungen | {prozent:3}% relevant")
-    
-    print("\n📈 ANALYSE NACH THEMEN")
-    print("-"*70)
+    kombi_stats = analysiere_quelle_keyword_kombis(bewertungen)
     themen_stats = analysiere_themen(bewertungen)
-    for thema, stats in sorted(themen_stats.items(), key=lambda x: x[1]['total'], reverse=True):
-        prozent = int(stats['relevant_prozent'] * 100)
-        print(f"{thema:30} | {stats['total']:3} Bewertungen | {prozent:3}% relevant")
     
     # Regeln generieren
-    print("\n🎯 GENERIERE INTELLIGENTE LERN-REGELN")
-    print("-"*70)
-    regeln = generiere_regeln(quellen_stats, keyword_stats, paar_stats, combo_stats, themen_stats)
+    regeln = generiere_regeln(quellen_stats, keyword_stats, paar_stats, kombi_stats, themen_stats)
     
     if not regeln:
-        print("ℹ️ Keine neuen Regeln generiert (Schwellenwerte nicht erreicht)")
+        print("\n⚠️ Keine Regeln generiert - Schwellenwerte nicht erreicht")
         return
     
-    print(f"✅ {len(regeln)} Regeln generiert")
+    # learning_rules.py generieren
+    generiere_learning_rules_py(regeln)
     
-    # Regeln nach Typ gruppiert anzeigen
-    for regel_typ in ['quelle', 'thema', 'keyword', 'keyword_paar', 'quelle_keyword']:
-        typ_regeln = [r for r in regeln if r['regel_typ'] == regel_typ]
-        if typ_regeln:
-            print(f"\n   [{regel_typ.upper()}]:")
-            for regel in typ_regeln:
-                operator = "+" if regel['score_modifier'] > 0 else ""
-                print(f"      {regel['bedingung']:40} → Score {operator}{regel['score_modifier']} ({regel['begründung']})")
-    
-    # Regeln speichern
-    print("\n💾 SPEICHERE REGELN")
-    print("-"*70)
-    neue_regeln, aktualisierte_regeln = speichere_regeln(supabase, regeln)
-    print(f"✅ {neue_regeln} neue Regeln erstellt")
-    print(f"✅ {aktualisierte_regeln} Regeln aktualisiert")
-    
-    # Python Code generieren
-    print("\n🐍 GENERIERE PYTHON CODE")
-    print("-"*70)
-    generiere_python_code(supabase)
-    
-    # Log speichern
-    log_text = f"Intelligente Analyse abgeschlossen: {len(bewertungen)} Bewertungen, {len(regeln)} Regeln generiert"
-    speichere_analyse_log(supabase, start, ende, len(bewertungen), neue_regeln, aktualisierte_regeln, log_text)
-    
-    # Zusammenfassung
     print("\n" + "="*70)
-    print("🎉 INTELLIGENTE ANALYSE ABGESCHLOSSEN")
+    print("🎉 ANALYSE ABGESCHLOSSEN!")
     print("="*70)
-    print(f"✅ {len(bewertungen)} Bewertungen analysiert")
-    print(f"✅ {len(regeln)} Regeln generiert")
-    print(f"✅ {neue_regeln} neue + {aktualisierte_regeln} aktualisierte Regeln")
-    print("\n💡 DAS SYSTEM LERNT JETZT:")
-    print("   - Welche Quellen generell relevant sind")
-    print("   - Welche Themen-Kategorien relevant sind")
-    print("   - Welche Keywords relevant sind")
-    print("   - Welche Keyword-Kombinationen relevant sind")
-    print("   - Welche Quellen-Keyword-Kombos relevant sind")
-    print("   → JEDER ARTIKEL WIRD INDIVIDUELL BEWERTET!")
+    print(f"📅 Zeitraum: {start} bis {ende}")
+    print(f"📊 Bewertungen: {len(bewertungen)}")
+    print(f"🎓 Regeln: {len(regeln)}")
     print("="*70 + "\n")
 
 
