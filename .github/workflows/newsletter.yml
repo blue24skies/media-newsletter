@@ -48,12 +48,18 @@ jobs:
         cp index.html docs/ 2>/dev/null || true
         cp logo-*.png docs/ 2>/dev/null || true
         
+        # Kopiere Fonts ins docs/ Verzeichnis - NEU!
+        mkdir -p docs/fonts
+        cp fonts/*.woff2 docs/fonts/ 2>/dev/null || true
+        
         # Verschiebe JSON-Dateien ins docs/ Verzeichnis für GitHub Pages
         mv newsletter-*.json docs/ 2>/dev/null || true
         
         # Liste was erstellt wurde
         echo "=== Dateien in docs/ ==="
         ls -la docs/
+        echo "=== Fonts in docs/fonts/ ==="
+        ls -la docs/fonts/ 2>/dev/null || echo "Keine Fonts gefunden"
     
     - name: Commit and Push Newsletter Data
       run: |
