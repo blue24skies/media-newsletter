@@ -517,39 +517,59 @@ def erstelle_html_email(anzahl_artikel, empfaenger_name, datum):
                 font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
                 line-height: 1.6;
                 color: #333;
+                margin: 0;
+                padding: 0;
+                background-color: #f6f6f6;
             }}
             .container {{
                 max-width: 600px;
-                margin: 0 auto;
-                padding: 20px;
+                margin: 40px auto;
+                background: white;
+                border-radius: 10px;
+                overflow: hidden;
+                box-shadow: 0 2px 10px rgba(0,0,0,0.1);
             }}
             .header {{
                 background: linear-gradient(135deg, #181716 0%, #2a2624 100%);
-                color: #ffd01d;
-                padding: 30px;
-                border-radius: 10px;
+                padding: 40px 30px;
                 text-align: center;
             }}
             .logo {{
-                height: 40px;
-                margin-bottom: 10px;
+                max-width: 180px;
+                height: auto;
+                margin-bottom: 20px;
             }}
-            h1 {{
-                margin: 10px 0;
+            .header-text {{
                 color: #ffd01d;
-                font-size: 28px;
+                font-size: 14px;
+                font-weight: 600;
+                letter-spacing: 0.5px;
+                text-transform: uppercase;
             }}
-            .stats {{
+            .content {{
+                padding: 40px 30px;
+            }}
+            .greeting {{
+                font-size: 18px;
+                color: #181716;
+                margin-bottom: 30px;
+            }}
+            .stats-box {{
                 background: #f6f6f6;
+                border-left: 4px solid #ffd01d;
                 padding: 20px;
-                border-radius: 10px;
-                margin: 20px 0;
-                text-align: center;
+                margin: 30px 0;
+                border-radius: 5px;
             }}
             .stats-number {{
-                font-size: 48px;
+                font-size: 36px;
                 font-weight: bold;
                 color: #181716;
+                margin-bottom: 5px;
+            }}
+            .stats-label {{
+                color: #666;
+                font-size: 14px;
             }}
             .button {{
                 display: inline-block;
@@ -560,12 +580,22 @@ def erstelle_html_email(anzahl_artikel, empfaenger_name, datum):
                 border-radius: 8px;
                 font-weight: bold;
                 margin: 20px 0;
+                transition: background 0.3s;
+            }}
+            .tip {{
+                background: #fff9e6;
+                border-left: 3px solid #ffd01d;
+                padding: 15px;
+                margin: 20px 0;
+                font-size: 13px;
+                color: #666;
             }}
             .footer {{
                 text-align: center;
+                padding: 30px;
                 color: #999;
                 font-size: 12px;
-                margin-top: 30px;
+                border-top: 1px solid #eee;
             }}
         </style>
     </head>
@@ -573,29 +603,35 @@ def erstelle_html_email(anzahl_artikel, empfaenger_name, datum):
         <div class="container">
             <div class="header">
                 <img src="{NEWSLETTER_URL}/logo-full.png" alt="Zoo Productions" class="logo">
-                <h1>Zoo Medien Newsletter</h1>
-                <p>Dein täglicher Überblick</p>
+                <div class="header-text">Medien Newsletter</div>
             </div>
             
-            <p>Guten Morgen {empfaenger_name}!</p>
-            
-            <div class="stats">
-                <div class="stats-number">{anzahl_artikel}</div>
-                <p>relevante Artikel für dich heute</p>
+            <div class="content">
+                <div class="greeting">
+                    Guten Morgen {empfaenger_name}! 👋
+                </div>
+                
+                <div class="stats-box">
+                    <div class="stats-number">{anzahl_artikel}</div>
+                    <div class="stats-label">relevante Artikel für dich heute</div>
+                </div>
+                
+                <p>Dein personalisierter Newsletter ist bereit! Alle Artikel wurden intelligent zusammengefasst und warten auf dich.</p>
+                
+                <center>
+                    <a href="{newsletter_link}" class="button">
+                        Newsletter öffnen →
+                    </a>
+                </center>
+                
+                <div class="tip">
+                    💡 <strong>Tipp:</strong> Bewerte die Artikel mit ✓ oder ✗ – das System lernt aus deinem Feedback!
+                </div>
             </div>
-            
-            <p>Dein personalisierter Newsletter ist bereit! Alle Artikel wurden intelligent zusammengefasst:</p>
-            
-            <center>
-                <a href="{newsletter_link}" class="button">
-                    Newsletter öffnen →
-                </a>
-            </center>
-            
-            <p><small>💡 Tipp: Bewerte die Artikel mit ✓ oder ✗ - das System lernt aus deinem Feedback!</small></p>
             
             <div class="footer">
-                Zoo Productions | Automatisch generiert am {datetime.now().strftime('%d.%m.%Y um %H:%M')} Uhr
+                Zoo Productions<br>
+                Automatisch generiert am {datetime.now().strftime('%d.%m.%Y um %H:%M')} Uhr
             </div>
         </div>
     </body>
