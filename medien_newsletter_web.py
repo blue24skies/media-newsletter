@@ -31,20 +31,20 @@ BRAVE_SEARCH_API_KEY = os.environ.get('BRAVE_SEARCH_API_KEY', '')
 # RSS-Feeds
 RSS_FEEDS = {
     'DWDL': 'https://www.dwdl.de/rss/nachrichten.xml',
-    'Horizont Medien': 'https://www.horizont.net/feed/kategorie/medien/rss.xml',
-    'Variety': 'https://variety.com/feed/',
-    'Deadline': 'https://deadline.com/feed/',
-    'Hollywood Reporter': 'https://www.hollywoodreporter.com/feed/',
-    'Guardian Media': 'https://www.theguardian.com/media/rss'
+    #'Horizont Medien': 'https://www.horizont.net/feed/kategorie/medien/rss.xml',
+    #'Variety': 'https://variety.com/feed/',
+    #'Deadline': 'https://deadline.com/feed/',
+    #'Hollywood Reporter': 'https://www.hollywoodreporter.com/feed/',
+    #'Guardian Media': 'https://www.theguardian.com/media/rss'
 }
 
 # Empfänger - Alle Team-Mitglieder
 EMPFAENGER = {
     'Tom': 'tom@zooproductions.de',
-    'Kat': 'kat@zooproductions.de',
-    'Dom': 'dom@zooproductions.de',
-    'Aurelia': 'aurelia@zooproductions.de',
-    'Christina': 'christina@zooproductions.de'
+    #'Kat': 'kat@zooproductions.de',
+    #'Dom': 'dom@zooproductions.de',
+    #'Aurelia': 'aurelia@zooproductions.de',
+    #'Christina': 'christina@zooproductions.de'
 }
 
 # ============================================================================
