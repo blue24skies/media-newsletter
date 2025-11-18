@@ -1,259 +1,267 @@
 {
   "date": "2025-11-18",
-  "total_articles": 30,
+  "total_articles": 31,
   "regions": {
     "deutschland": {
       "count": 15,
       "articles": [
         {
-          "title": "Stephan Katzmann wechselt von Leonine zu Beta Film",
-          "link": "https://www.dwdl.de/nachrichten/104566/stephan_katzmann_wechselt_von_leonine_zu_beta_film/",
-          "summary": "Stephan Katzmann wird ab April 2026 neuer CFO von Beta Film und folgt auf Maria Kaltenegger. Er wechselt von der Leonine Gruppe, wo er als CFO Licensing & Distribution tätig war.",
-          "source": "DWDL",
-          "score": 8,
-          "reasoning": "Wichtige Personal-Entscheidung bei Beta Film, einem großen deutschen Distributions- und Produktionsunternehmen. CFO-Wechsel zwischen zwei relevanten Medienunternehmen ist für die Branche hochrelevant."
-        },
-        {
-          "title": "Drehstart für neue Netflix-Dramedy \"Love & Chaos\"",
-          "link": "https://www.dwdl.de/nachrichten/104520/drehstart_fuer_neue_netflixdramedy_love__chaos/",
-          "summary": "btf startet Dreharbeiten für neue Netflix-Serie 'Love & Chaos' mit Anne Schäfer und Simon Ludwig in den Hauptrollen.",
-          "source": "DWDL",
-          "score": 8,
-          "reasoning": "Hohe Relevanz da Format-Deal zwischen etablierter Produktionsfirma btf und Netflix, Fortsetzung erfolgreicher Zusammenarbeit nach 'How to sell drugs online' und 'King of Stonks'"
-        },
-        {
           "title": "\"LOL Next\": Prime Video macht \"LOL\"-Spinoff mit Hazel Brugger",
           "link": "https://www.dwdl.de/nachrichten/104514/lol_next_prime_video_macht_lolspinoff_mit_hazel_brugger/",
-          "summary": "Prime Video kündigt LOL-Spinoff 'LOL Next' mit Hazel Brugger an. Das Hauptformat geht bereits in die siebte Staffel.",
+          "summary": "Prime Video kündigt LOL-Spinoff 'LOL Next' mit Hazel Brugger an. Das erfolgreiche Comedy-Format wird erweitert, während die Hauptserie bereits in Staffel 7 geht.",
           "source": "DWDL",
-          "score": 8,
-          "reasoning": "Erfolgreicher Format-Klassiker bekommt Spinoff mit prominenter Moderatorin - hohe Relevanz für TV-Produktionsfirmen da LOL etabliertes, quotenstarkes Format ist"
-        },
-        {
-          "title": "Jan Fleischhauer macht \"Keine Talkshow\" im ZDF",
-          "link": "https://www.dwdl.de/nachrichten/104565/jan_fleischhauer_macht_keine_talkshow_im_zdf/",
-          "summary": "Jan Fleischhauer startet neue Debattensendung 'Keine Talkshow' im ZDF. Start bereits diese Woche angekündigt.",
-          "source": "DWDL",
-          "score": 7,
-          "reasoning": "Neues Debattenformat im öffentlich-rechtlichen TV mit bekanntem Moderator - interessant für Formatentwicklung und Programmpolitik, aber noch keine Quoten- oder Erfolgsdaten verfügbar"
-        },
-        {
-          "title": "ARD schickt Kai Pflaume und Knossi auf \"Hochzeitsreise\"",
-          "link": "https://www.dwdl.de/nachrichten/104560/ard_schickt_kai_pflaume_und_knossi_auf_hochzeitsreise/",
-          "summary": "ARD produziert fünfteilige Doku-Reihe mit Kai Pflaume und Knossi über weltweite Hochzeitsrituale. Das erfolgreiche YouTube-Duo arbeitet erstmals gemeinsam fürs Fernsehen.",
-          "source": "DWDL",
-          "score": 7,
-          "reasoning": "Neue Doku-Reihe mit bekannten Moderatoren für ARD - interessant für Formatentwicklung und Talent-Kombinationen, aber ohne Quoten oder Verkaufsdaten"
-        },
-        {
-          "title": "ZDF zieht Streaming-Start von \"Ku'damm 77\" vor",
-          "link": "https://www.dwdl.de/nachrichten/104559/zdf_zieht_streamingstart_von_kudamm_77_vor/",
-          "summary": "ZDF startet 'Ku'damm 77' früher im Streaming (kurz nach Weihnachten) als ursprünglich geplant. Die lineare TV-Ausstrahlung bleibt bei Januar.",
-          "source": "DWDL",
-          "score": 7,
-          "reasoning": "Mittlere bis hohe Relevanz: Erfolgreiche TV-Serie mit Streaming-Strategie, zeigt Trend zur zeitversetzten Distribution und ist relevant für Produktionsunternehmen bezüglich Verwertungsfenstern"
-        },
-        {
-          "title": "Drei deutsche Produktionen für Rose d'Or nominiert",
-          "link": "https://www.dwdl.de/nachrichten/104555/drei_deutsche_produktionen_fuer_rose_dor_nominiert/",
-          "summary": "Drei deutsche TV-Produktionen sind für die Rose d'Or nominiert: Jan Böhmermann, ZDF-Serie 'Crystal Wall' und Vox-Format 'Kitchen Impossible'.",
-          "source": "DWDL",
-          "score": 7,
-          "reasoning": "Internationale Auszeichnungen wie Rose d'Or sind wichtig für die TV-Branche und können bei Formatverkäufen und Reputation helfen. Drei deutsche Nominierungen zeigen die internationale Wettbewerbsfähigkeit deutscher Produktionen."
+          "score": 9,
+          "reasoning": "Sehr hohe Relevanz für TV-Produktionsunternehmen: Erfolgreicher Format-Klassiker LOL bekommt Spinoff, zeigt Streaming-Expansion und Format-Entwicklung. Wichtig für Format-Adaptionen und Content-Strategien."
         },
         {
           "title": "\"Sketch History\" meldet sich noch vor Weihnachten zurück",
           "link": "https://www.dwdl.de/nachrichten/104554/sketch_history_meldet_sich_noch_vor_weihnachten_zurueck/",
-          "summary": "ZDF zeigt noch 2024 zehn neue Folgen der Comedy-Serie 'Sketch History' linear und on demand.",
+          "summary": "ZDF bestellt 10 neue Folgen 'Sketch History', die noch 2024 linear und on demand ausgestrahlt werden. Zeigt kontinuierliche Nachfrage nach Comedy-Formaten.",
           "source": "DWDL",
-          "score": 7,
-          "reasoning": "Mittlere bis hohe Relevanz: Erfolgreiche Comedy-Serie mit neuer Staffel, zeigt kontinuierliche Sender-Investition in bewährtes Format, relevant für Produktionsplanung"
+          "score": 8,
+          "reasoning": "Erfolgreiche Comedy-Serie mit neuer Staffel - relevant für Produktionsunternehmen da es zeigt, dass ZDF in bewährte Formate investiert und Comedy-Content nachfragt"
         },
         {
-          "title": "\"Watzmann ermittelt\" meldet sich mit Doppelschlag zurück",
-          "link": "https://www.dwdl.de/nachrichten/104549/watzmann_ermittelt_meldet_sich_mit_doppelschlag_zurueck/",
-          "summary": "\"Watzmann ermittelt\" startet 2024 mit doppelter Präsenz: Die Serie läuft erstmals sowohl im Vorabend als auch in der Primetime des Ersten.",
+          "title": "Drehstart für neue Netflix-Dramedy \"Love & Chaos\"",
+          "link": "https://www.dwdl.de/nachrichten/104520/drehstart_fuer_neue_netflixdramedy_love__chaos/",
+          "summary": "btf produziert neue Netflix-Serie 'Love & Chaos' mit Anne Schäfer und Simon Ludwig. Fortsetzung erfolgreicher Zusammenarbeit nach 'How to sell drugs online (fast)' und 'King of Stonks'.",
           "source": "DWDL",
-          "score": 7,
-          "reasoning": "Mittlere bis hohe Relevanz - etablierte TV-Serie mit neuer Programmstrategie (Vorabend + Primetime), zeigt Sendervertrauen in Format und potenzielle Expansion"
-        },
-        {
-          "title": "ProSieben startet wieder mit Joko und Klaas ins Jahr",
-          "link": "https://www.dwdl.de/nachrichten/104547/prosieben_startet_wieder_mit_joko_und_klaas_ins_jahr/",
-          "summary": "ProSieben setzt 2026 auf bewährtes Format: Joko und Klaas kehren mit Neujahrs-Gala zurück und können wieder mehr als 15 Minuten Sendezeit gewinnen.",
-          "source": "DWDL",
-          "score": 7,
-          "reasoning": "Erfolgreiche TV-Show mit etabliertem Format wird fortgesetzt - zeigt Vertrauen des Senders in bewährtes Content-Format, aber ohne neue Quoten-Daten oder Format-Innovationen"
-        },
-        {
-          "title": "ProSieben verbannt \"Die Abrechnung\" ins Nachtprogramm",
-          "link": "https://www.dwdl.de/nachrichten/104531/prosieben_verbannt_die_abrechnung_ins_nachtprogramm/",
-          "summary": "ProSiebens Reality-Format 'Die Abrechnung' floppte bei linearen Quoten und wird aus der Primetime ins Nachtprogramm verschoben.",
-          "source": "DWDL",
-          "score": 7,
-          "reasoning": "Mittlere bis hohe Relevanz - zeigt Performance eines Reality-Formats mit konkreten Programmierungsentscheidungen basierend auf Quoten, relevant für Format-Entwicklung"
-        },
-        {
-          "title": "Vereinte Kräfte im Norden: TVN Group übernimmt TV Plus",
-          "link": "https://www.dwdl.de/nachrichten/104523/vereinte_kraefte_im_norden_tvn_group_uebernimmt_tv_plus/",
-          "summary": "TVN Group übernimmt ab 2024 die Hannoveraner Produktionsfirma TV Plus, die seit 1997 die NDR-Show 'Bingo!' produziert. Ziel sind Synergieeffekte zwischen den beiden Unternehmen.",
-          "source": "DWDL",
-          "score": 7,
-          "reasoning": "Übernahme einer etablierten Produktionsfirma mit langjährigem NDR-Format zeigt Konsolidierung im TV-Produktionsmarkt und mögliche neue Geschäftschancen durch Synergien"
-        },
-        {
-          "title": "Disney kratzt an der Marke von 200 Millionen Streaming-Abos",
-          "link": "https://www.dwdl.de/nachrichten/104511/disney_kratzt_an_der_marke_von_200_millionen_streamingabos/",
-          "summary": "Disney erreicht mit Disney+ und Hulu fast 200 Mio. Streaming-Abos, während lineares TV weiter schwächelt. Kurzzeitige Kimmel-Suspendierung störte kaum.",
-          "source": "DWDL",
-          "score": 7,
-          "reasoning": "Mittlere Relevanz - zeigt Streaming-Wachstum bei großem Content-Anbieter Disney und Probleme des linearen TV, relevant für Produktionsstrategien"
+          "score": 8,
+          "reasoning": "Hohe Relevanz da Format-Deal zwischen etablierter Produktionsfirma btf und Netflix, nach erfolgreichen Serien wie 'How to sell drugs online (fast)' und 'King of Stonks'. Wichtig für deutsche TV-Produzenten als Referenz für Netflix-Kooperationen."
         },
         {
           "title": "Lochmann-Zwillinge werden Coaches bei \"The Voice Kids\"",
           "link": "https://www.dwdl.de/nachrichten/104508/lochmannzwillinge_werden_coaches_bei_the_voice_kids_/",
-          "summary": "Die Lochmann-Zwillinge werden 2026 Coaches bei Sat.1s 'The Voice Kids'. Zusammen mit Leony und Michael Patrick Kelly komplettieren sie das neue Coach-Team der Musikshow.",
+          "summary": "Die Lochmann-Zwillinge werden 2026 neue Coaches bei Sat.1s 'The Voice Kids'. Weitere Neuzugänge sind Leony und Michael Patrick Kelly.",
+          "source": "DWDL",
+          "score": 8,
+          "reasoning": "Hohe Relevanz da es sich um ein etabliertes TV-Format mit starker Zuschauerschaft handelt und wichtige Casting-Entscheidungen für 2026 verkündet werden. Coach-Wechsel bei Voice Kids sind branchenrelevante Personal-Entscheidungen."
+        },
+        {
+          "title": "Leonine räumt auf: SEO Entertainment geht in Madame Zheng auf",
+          "link": "https://www.dwdl.de/nachrichten/104501/leonine_raeumt_auf_seo_entertainment_geht_in_madame_zheng_auf/",
+          "summary": "Leonine strukturiert um: SEO Entertainment wird zu Label unter Madame Zheng Production. Gründer Gillad Osterer verlässt nach 18 Jahren das Unternehmen.",
+          "source": "DWDL",
+          "score": 8,
+          "reasoning": "Wichtige strukturelle Veränderung bei großem Player Leonine mit Auswirkungen auf Non-Fiction-Produktionslandschaft und signifikante Personalentscheidung"
+        },
+        {
+          "title": "Prime Video-Chef Christoph Schneider verlässt Amazon",
+          "link": "https://www.dwdl.de/nachrichten/104562/prime_videochef_christoph_schneider_verlaesst_amazon/",
+          "summary": "Prime Video Deutschland-Chef Christoph Schneider verlässt nach 13 Jahren Amazon. Seine Position entfällt durch neue Organisationsstruktur des Streamingdienstes.",
           "source": "DWDL",
           "score": 7,
-          "reasoning": "Casting-Änderungen bei etabliertem TV-Format mit starker Zielgruppen-Relevanz. Lochmann-Zwillinge bringen neue Social Media-Reichweite, wichtig für Format-Entwicklung"
+          "reasoning": "Wichtige Personal-Entscheidung bei großem Streaming-Anbieter. Strukturwandel bei Prime Video könnte Content-Strategie und Produktionspartnerschaften beeinflussen."
+        },
+        {
+          "title": "Stephan Katzmann wechselt von Leonine zu Beta Film",
+          "link": "https://www.dwdl.de/nachrichten/104566/stephan_katzmann_wechselt_von_leonine_zu_beta_film/",
+          "summary": "Stephan Katzmann wird ab April 2026 neuer CFO von Beta Film und folgt auf Maria Kaltenegger. Er wechselt von der Leonine Gruppe, wo er CFO Licensing & Distribution war.",
+          "source": "DWDL",
+          "score": 7,
+          "reasoning": "Wichtiger Personalwechsel in der Führungsebene eines relevanten Distributors - Beta Film ist ein bedeutender Player im deutschen TV-Markt, CFO-Wechsel kann Geschäftsstrategie beeinflussen"
+        },
+        {
+          "title": "Jan Fleischhauer macht \"Keine Talkshow\" im ZDF",
+          "link": "https://www.dwdl.de/nachrichten/104565/jan_fleischhauer_macht_keine_talkshow_im_zdf/",
+          "summary": "Jan Fleischhauer startet diese Woche seine neue ZDF-Debattensendung 'Keine Talkshow'. Das Format verspricht eine Alternative zum klassischen Talkshow-Konzept.",
+          "source": "DWDL",
+          "score": 7,
+          "reasoning": "Neues ZDF-Format mit bekanntem Moderator ist relevant für TV-Produktionsunternehmen, aber ohne Quoten-Daten oder Details zur Produktionsfirma noch mittlere Relevanz"
+        },
+        {
+          "title": "ARD schickt Kai Pflaume und Knossi auf \"Hochzeitsreise\"",
+          "link": "https://www.dwdl.de/nachrichten/104560/ard_schickt_kai_pflaume_und_knossi_auf_hochzeitsreise/",
+          "summary": "ARD produziert fünfteilige Doku-Serie mit Kai Pflaume und Knossi über weltweite Hochzeitsrituale. Das YouTube-erprobte Duo geht erstmals gemeinsam im öffentlich-rechtlichen TV auf Sendung.",
+          "source": "DWDL",
+          "score": 7,
+          "reasoning": "Neue ARD-Produktion mit etablierten TV-Persönlichkeiten, interessante Format-Kombination aus Doku und Entertainment, relevant für Produktionsunternehmen die ähnliche Formate entwickeln"
+        },
+        {
+          "title": "Drei deutsche Produktionen für Rose d'Or nominiert",
+          "link": "https://www.dwdl.de/nachrichten/104555/drei_deutsche_produktionen_fuer_rose_dor_nominiert/",
+          "summary": "Drei deutsche TV-Produktionen sind für die Rose d'Or nominiert: Jan Böhmermann, ZDF-Serie 'Crystal Wall' und Vox-Format 'Kitchen Impossible'. Wichtige Branchenauszeichnung.",
+          "source": "DWDL",
+          "score": 7,
+          "reasoning": "Internationale Auszeichnungen wie Rose d'Or sind wichtige Branchenereignisse, die Format-Erfolge würdigen und Verkaufschancen erhöhen. Drei deutsche Nominierungen zeigen die Wettbewerbsfähigkeit deutscher Produktionen."
+        },
+        {
+          "title": "\"Watzmann ermittelt\" meldet sich mit Doppelschlag zurück",
+          "link": "https://www.dwdl.de/nachrichten/104549/watzmann_ermittelt_meldet_sich_mit_doppelschlag_zurueck/",
+          "summary": "Die ARD-Serie 'Watzmann ermittelt' kehrt 2024 zurück und wird erstmals auch in der Primetime ausgestrahlt, zusätzlich zum gewohnten Vorabendplatz.",
+          "source": "DWDL",
+          "score": 7,
+          "reasoning": "Mittlere bis hohe Relevanz, da es um die Programmstrategie einer etablierten Serie geht. Der Wechsel in die Primetime deutet auf Erfolg hin, aber ohne konkrete Quoten-Daten oder Produktionsdetails."
+        },
+        {
+          "title": "ProSieben startet wieder mit Joko und Klaas ins Jahr",
+          "link": "https://www.dwdl.de/nachrichten/104547/prosieben_startet_wieder_mit_joko_und_klaas_ins_jahr/",
+          "summary": "ProSieben setzt 2026 die erfolgreiche Neujahrs-Gala mit Joko und Klaas fort. Die Moderatoren können wieder mehr als 15 Minuten Sendezeit gewinnen.",
+          "source": "DWDL",
+          "score": 7,
+          "reasoning": "Erfolgreiche Show-Fortsetzung mit etabliertem Format und bekannten Moderatoren - relevant für TV-Produktionsbranche, aber ohne neue Quoten-Daten oder innovative Format-Entwicklungen"
+        },
+        {
+          "title": "ProSieben verbannt \"Die Abrechnung\" ins Nachtprogramm",
+          "link": "https://www.dwdl.de/nachrichten/104531/prosieben_verbannt_die_abrechnung_ins_nachtprogramm/",
+          "summary": "ProSieben verschiebt Reality-Format 'Die Abrechnung' wegen schwacher linearer Quoten aus der Primetime ins Nachtprogramm. Auch 'Das große Promi-Büßen' rückt nach hinten.",
+          "source": "DWDL",
+          "score": 7,
+          "reasoning": "Mittlere bis hohe Relevanz - zeigt Performance eines Reality-Formats mit konkreten Programmierungskonsequenzen. Wichtig für Produktionsunternehmen zur Marktbeobachtung und Formatbewertung."
+        },
+        {
+          "title": "Vereinte Kräfte im Norden: TVN Group übernimmt TV Plus",
+          "link": "https://www.dwdl.de/nachrichten/104523/vereinte_kraefte_im_norden_tvn_group_uebernimmt_tv_plus/",
+          "summary": "TVN Group übernimmt ab 2025 die Hannoveraner Produktionsfirma TV Plus, die seit 1997 die NDR-Show 'Bingo!' produziert. Ziel sind Synergien zwischen den beiden lokalen Unternehmen.",
+          "source": "DWDL",
+          "score": 7,
+          "reasoning": "Übernahme einer etablierten Produktionsfirma mit langjähriger NDR-Show relevant für Branche, aber ohne Details zu Quoten oder strategischen Auswirkungen"
         },
         {
           "title": "Joyn schickt Lilly Becker und Joey Kelly in den Urwald",
           "link": "https://www.dwdl.de/nachrichten/104506/joyn_schickt_lilly_becker_und_joey_kelly_in_den_urwald/",
-          "summary": "Joyn produziert für 2026 'Surviving Amazonas' - Abenteuer-Doku mit Lilly Becker und Joey Kelly in Stammesgemeinschaft",
+          "summary": "Joyn plant für 2026 die Abenteuer-Doku 'Surviving Amazonas' mit Lilly Becker und Joey Kelly, die sich in eine Stammesgemeinschaft integrieren sollen.",
           "source": "DWDL",
           "score": 7,
-          "reasoning": "Neue Format-Ankündigung für 2026 mit Celebrity-Cast ist für Produktionsunternehmen relevant - zeigt Content-Strategie von Joyn/ProSiebenSat.1 und mögliche Format-Trends im Abenteuer-Doku-Bereich"
+          "reasoning": "Neue Abenteuer-Doku für Joyn mit bekannten Prominenten - relevant für Format-Entwicklung und Streaming-Content, aber noch keine Quoten-Daten verfügbar"
         }
       ]
     },
     "uk": {
-      "count": 6,
+      "count": 5,
       "articles": [
-        {
-          "title": "Money lured Anthony Joshua to circus fight but he could really hurt Jake Paul | Donald McRae",
-          "link": "https://www.theguardian.com/sport/2025/nov/17/anthony-joshua-circus-fight-jake-paul-boxing",
-          "summary": "Netflix überträgt am 19. Dezember live den Boxkampf zwischen Jake Paul und Anthony Joshua. Das Event verspricht Millionen-Zuschauer und hohe Einnahmen.",
-          "source": "Guardian Media",
-          "score": 8,
-          "reasoning": "Hochrelevant für TV-Produktion: Netflix Live-Event mit Millionen-Publikum, großes Streaming-Format mit hohen Einschaltquoten erwartet"
-        },
         {
           "title": "David Nicholls to adapt The Secret Diary of Adrian Mole Aged 13¾ for BBC",
           "link": "https://www.theguardian.com/culture/2025/nov/17/david-nicholls-to-adapt-the-secret-diary-of-adrian-mole-aged-1334-for-bbc",
-          "summary": "David Nicholls adaptiert Sue Townsends 'Adrian Mole' als 10-teilige BBC One-Serie. Das Autorenteam inklusive Caitlin Moran bringt den 80er-Jahre Klassiker ins Fernsehen.",
+          "summary": "David Nicholls adaptiert Sue Townsends Kultroman 'Adrian Mole' als 10-teilige BBC One-Serie. Das Autorenteam inkludiert Caitlin Moran für die Teenage-Comedy.",
           "source": "Guardian Media",
           "score": 8,
-          "reasoning": "Hochrelevant für deutsche TV-Produktionsfirmen: Erfolgreiche Adaption eines beliebten Buchs durch renommierte Autoren für BBC One. Zeigt Potenzial für eigene Literatur-Adaptionen und mögliche Format-Übernahmen."
+          "reasoning": "Hochrelevant: Erfolgreiche Autorin-Adaption für BBC One mit 10 Teilen, starkes Autoren-Team und bekannte Literaturvorlage - interessant für Format-Verkäufe und internationale Adaptionen"
         },
         {
-          "title": "‘Smile? YOU smile.' A new generation of stars is overthrowing the old Hollywood system, one ‘no’ at a time | Priya Elan",
-          "link": "https://www.theguardian.com/commentisfree/2025/nov/18/hollywood-stars-gen-z-millie-bobby-brown-jenna-ortega",
-          "summary": "Gen-Z-Stars wie Millie Bobby Brown und Sydney Chandler lehnen traditionelle PR-Verpflichtungen ab und fordern mehr Kontrolle über ihre Medienauftritte, was das etablierte Hollywood-System herausfordert.",
+          "title": "Money lured Anthony Joshua to circus fight but he could really hurt Jake Paul | Donald McRae",
+          "link": "https://www.theguardian.com/sport/2025/nov/17/anthony-joshua-circus-fight-jake-paul-boxing",
+          "summary": "Jake Paul vs. Anthony Joshua am 19. Dezember live auf Netflix - ein umstrittener Boxkampf, der Millionen generieren wird, aber dem Boxsport schadet.",
           "source": "Guardian Media",
           "score": 7,
-          "reasoning": "Mittlere Relevanz - zeigt wichtigen Branchentrend auf, wie Gen-Z-Stars traditionelle PR-Erwartungen ablehnen und mehr Kontrolle über ihre Medienauftritte fordern, was Auswirkungen auf TV-Produktionen und Marketing hat"
+          "reasoning": "Der Artikel behandelt einen hochkarätigen Boxing-Event auf Netflix mit enormer Reichweite und Zuschauerinteresse. Relevant für TV-Produktionen wegen des Live-Sport-Contents auf Streaming-Plattformen und der erwarteten hohen Einschaltquoten."
         },
         {
           "title": "Anthony Joshua will ‘break internet over Jake Paul’s face’ as fight is confirmed",
           "link": "https://www.theguardian.com/sport/2025/nov/17/anthony-joshua-jake-paul-boxing-netflix",
-          "summary": "Anthony Joshua kämpft am 19. Dezember gegen YouTuber Jake Paul in Miami. Der Heavyweight-Fight wird live auf Netflix übertragen.",
+          "summary": "Netflix überträgt am 19. Dezember live den Boxkampf zwischen Anthony Joshua und YouTuber Jake Paul aus Miami.",
           "source": "Guardian Media",
           "score": 7,
-          "reasoning": "Boxkampf zwischen Anthony Joshua und Jake Paul am 19. Dezember live auf Netflix - relevanter Content für Streaming-Plattform mit hohem Aufmerksamkeitspotential"
+          "reasoning": "Netflix als wichtige Streaming-Plattform zeigt Live-Sport-Content, was für TV-Produktionsunternehmen relevant ist - zeigt Trends zu Live-Events und Premium-Content im Streaming-Bereich"
         },
         {
-          "title": "One Shot With Ed Sheeran review – well-planned spontaneity from all-smiling singer",
-          "link": "https://www.theguardian.com/film/2025/nov/16/one-shot-with-ed-sheeran-review-philip-barantini",
-          "summary": "Netflix veröffentlicht einstündiges Single-Take Special mit Ed Sheeran, bei dem Regisseur Philip Barantini den Sänger ohne Schnitte durch New York begleitet.",
+          "title": "Sky Sports ditches ‘unbelievably sexist’ TikTok channel Halo after three days",
+          "link": "https://www.theguardian.com/media/2025/nov/16/sky-sports-axes-unbelievably-sexist-tiktok-channel-halo-after-three-days",
+          "summary": "Sky Sports musste nach nur drei Tagen seinen frauenspezifischen TikTok-Kanal 'Halo' einstellen, nachdem er als sexistisch und herablassend kritisiert wurde.",
           "source": "Guardian Media",
           "score": 7,
-          "reasoning": "Mittlere bis hohe Relevanz: Netflix Special mit innovativem Single-Take Format von Philip Barantini, zeigt erfolgreiche Streaming-Content-Strategie mit Musik-Dokumentationen und technisch anspruchsvolle Produktionsweise"
+          "reasoning": "Zeigt wichtige Learnings für Content-Strategie und Zielgruppenansprache im Social Media Bereich, relevant für TV-Produktionsunternehmen die ebenfalls digitale Kanäle entwickeln"
         },
         {
           "title": "‘Not for the faint-hearted’: is running the BBC an impossible job?",
           "link": "https://www.theguardian.com/media/ng-interactive/2025/nov/15/is-running-the-bbc-an-impossible-job",
-          "summary": "BBC-Generaldirektor Tim Davie tritt überraschend zurück. Die Nachfolge-Suche wirft Fragen über die extreme Belastung der BBC-Führung auf.",
+          "summary": "BBC-Generaldirektor Tim Davie tritt überraschend zurück. Die Nachfolge wird schwierig angesichts interner Konflikte und anstehender Diskussionen über Zukunft der BBC.",
           "source": "Guardian Media",
           "score": 7,
-          "reasoning": "Wichtige Personal-Entscheidung bei BBC als Major Player im TV-Markt. Führungswechsel bei großen Broadcastern beeinflussen Programmstrategie und potenzielle Kooperationen."
+          "reasoning": "Wichtige Personal-Entscheidung bei großem Public Broadcaster, relevant für TV-Branche und potentielle Geschäftsmöglichkeiten, aber nicht direkt Format-bezogen"
         }
       ]
     },
     "usa": {
-      "count": 9,
+      "count": 11,
       "articles": [
-        {
-          "title": "Stephan Katzmann to Join Beta Film as Chief Financial Officer, Replacing Maria Kaltenegger",
-          "link": "https://variety.com/2025/film/global/stephan-katzmann-beta-film-1236584535/",
-          "summary": "Stephan Katzmann wird neuer CFO bei Beta Film und ersetzt Maria Kaltenegger. Er wechselt im April von der Leonine Group zum Münchner Produktions- und Vertriebsunternehmen.",
-          "source": "Variety",
-          "score": 8,
-          "reasoning": "Wichtige Personalentscheidung bei Beta Film, einem bedeutenden deutschen Produktions- und Vertriebsunternehmen. CFO-Wechsel ist strategisch relevant für die Branche."
-        },
         {
           "title": "Fremantle Results Down Due to Lower U.S. Revenue, Loss of ‘America’s Got Talent’ Spinoff",
           "link": "https://variety.com/2025/tv/global/fremantle-results-down-lower-us-revenue-1236584490/",
-          "summary": "Fremantle verzeichnet 5,1% Umsatzrückgang auf 1,3 Mrd. Euro in ersten 9 Monaten 2024, hauptsächlich durch geringere US-Erlöse und Verlust von 'America's Got Talent' Spinoffs.",
+          "summary": "Fremantle verzeichnet 5,1% Umsatzrückgang auf 1,3 Mrd. € in 9 Monaten 2024, hauptsächlich durch geringere US-Erlöse und Verlust von 'America's Got Talent' Spinoff.",
           "source": "Variety",
           "score": 8,
-          "reasoning": "Hochrelevant für TV-Produktionsunternehmen: Fremantle ist ein Major Player im Format-Geschäft, Umsatzrückgang durch Verlust wichtiger US-Formate wie AGT-Spinoffs zeigt Marktdynamik und Risiken im internationalen TV-Geschäft auf"
+          "reasoning": "Hochrelevant für deutsche TV-Produktionsfirmen: Fremantle ist ein wichtiger internationaler Player und Konkurrent. Umsatzrückgang und Formatverluste zeigen Markttrends und potenzielle Geschäftschancen auf."
         },
         {
           "title": "Fremantle Results Hit By Loss Of ‘America’s Got Talent’ Spin-Off ‘Fantasy League’",
           "link": "https://deadline.com/2025/11/fremantle-hit-americas-got-talent-spin-off-rtl-results-1236621227/",
-          "summary": "Fremantles Umsatz sank um 5,1% auf 1,3 Mrd. Euro durch Verlust des 'America's Got Talent'-Spin-offs 'Fantasy League'. RTL führt Rückgang auf geringere US-Erlöse zurück.",
+          "summary": "Fremantles Umsatz sank um 5,1% auf €1,3B, hauptsächlich durch den Verlust der AGT-Spin-off-Show 'Fantasy League' in den USA.",
           "source": "Deadline",
           "score": 8,
-          "reasoning": "Hochrelevant für TV-Produktionsunternehmen: Zeigt finanzielle Auswirkungen des Verlusts eines erfolgreichen Spin-Off-Formats bei einem Major Player wie Fremantle, wichtig für Format-Strategie und Marktentwicklung"
+          "reasoning": "Sehr relevant für TV-Produktionsunternehmen: Zeigt konkrete finanzielle Auswirkungen des Verlusts eines erfolgreichen TV-Formats auf einen Major Player wie Fremantle, was wichtige Erkenntnisse für Format-Strategien und Geschäftsentscheidungen liefert"
+        },
+        {
+          "title": "Stephan Katzmann to Join Beta Film as Chief Financial Officer, Replacing Maria Kaltenegger",
+          "link": "https://variety.com/2025/film/global/stephan-katzmann-beta-film-1236584535/",
+          "summary": "Stephan Katzmann wird neuer CFO bei Beta Film München ab April. Er wechselt von Leonine Group und ersetzt Maria Kaltenegger nach 6 Jahren.",
+          "source": "Variety",
+          "score": 7,
+          "reasoning": "Wichtige Personalentscheidung bei Beta Film, einem bedeutenden deutschen Produktions- und Vertriebsunternehmen. CFO-Wechsel ist für die Branche relevant, da Beta Film ein wichtiger Player im internationalen Format-Geschäft ist."
         },
         {
           "title": "‘Black Doves’ Season 2: Ambika Mod, Neve Campbell, Babou Ceesay and Sam Riley Join Netflix Spy Series as Production Starts",
           "link": "https://variety.com/2025/tv/global/black-doves-season-2-ambika-mod-neve-campbell-babou-ceesay-1236584436/",
-          "summary": "Netflix produziert Staffel 2 der Spionage-Serie 'Black Doves' mit Keira Knightley. Neue Darsteller wie Ambika Mod und Neve Campbell verstärken den Cast der londoner Thriller-Serie.",
+          "summary": "Netflix startet Produktion der 2. Staffel der Spy-Serie 'Black Doves' mit Keira Knightley. Neue Cast-Mitglieder wie Ambika Mod und Neve Campbell verstärken die erfolgreiche britische Thriller-Serie.",
           "source": "Variety",
           "score": 7,
-          "reasoning": "Mittlere Relevanz - zeigt erfolgreiche Netflix-Serie in zweiter Staffel mit starkem Cast-Ausbau, relevant für Streaming-Content-Trends und internationale Koproduktionen"
+          "reasoning": "Mittlere bis hohe Relevanz: Netflix-Serie mit starker Besetzung startet Staffel 2-Produktion. Interessant für deutsche Produzenten wegen Streaming-Erfolg und möglicher Format-Inspiration, aber keine direkten Geschäftsmöglichkeiten."
         },
         {
           "title": "‘Black Doves’: Neve Campbell, Sam Riley & Ambika Mod Among Cast Added For Season 2 Of Netflix Spy Thriller",
           "link": "https://deadline.com/2025/11/black-doves-neve-campbell-sam-riley-ambika-mod-season-2-1236621000/",
-          "summary": "Netflix verlängert Spionage-Thriller 'Black Doves' um Staffel 2. Neben Keira Knightley und Ben Whishaw kommen neue Stars wie Neve Campbell und Sam Riley dazu.",
+          "summary": "Netflix setzt 'Black Doves' mit Staffel 2 fort. Keira Knightley, Ben Whishaw kehren zurück, neu dabei: Neve Campbell, Ambika Mod, Sam Riley. Spy-Thriller erweitert Cast um bekannte Namen.",
           "source": "Deadline",
           "score": 7,
-          "reasoning": "Mittlere bis hohe Relevanz: Erfolgreiche Netflix-Serie mit starker Besetzung geht in zweite Staffel, zeigt Streaming-Content-Strategie und Cast-Expansion bei etabliertem Format"
+          "reasoning": "Netflix erweitert erfolgreiche Spy-Serie um bekannte Schauspieler - zeigt Streaming-Investment in bewährte Formate und Cast-Strategien für internationale Vermarktung"
         },
         {
           "title": "Florence Longpré’s TV Drama ‘Empathy’ Brings Heart And Humanity To The World Of Psychiatric Care",
           "link": "https://deadline.com/2025/11/empathy-empathie-florence-longpre-global-breakouts-1236621269/",
-          "summary": "TV-Drama 'Empathy' von Florence Longpré über psychiatrische Pflege wird als internationaler Breakout-Hit gehandelt und könnte für Format-Adaptionen interessant sein.",
+          "summary": "Kanadische TV-Drama-Serie 'Empathy' von Florence Longpré über Psychiatrie-Bereich wird als lokaler Erfolg hervorgehoben und könnte Potenzial für internationale Vermarktung haben.",
           "source": "Deadline",
           "score": 7,
-          "reasoning": "Mittlere bis hohe Relevanz - Florence Longprés TV-Drama 'Empathy' wird als internationaler Breakout-Hit präsentiert, was für deutsche Produktionsunternehmen interessant ist bezüglich Format-Adaption oder internationaler Koproduktionen im Bereich medizinischer Dramaserien"
+          "reasoning": "Mittlere bis hohe Relevanz - zeigt erfolgreiche TV-Drama-Serie aus Kanada mit speziellem Thema (Psychiatrie), könnte für Format-Adaptionen oder internationale Vermarktung interessant sein"
+        },
+        {
+          "title": "Daniel Dae Kim To Present & Produce CNN Travel Series ‘K-Everything’",
+          "link": "https://deadline.com/2025/11/daniel-dae-k-everything-cnn-travel-series-1236620252/",
+          "summary": "Daniel Dae Kim produziert und moderiert vierteilige CNN-Reiseserie 'K-Everything' über Südkoreas globalen Pop-Kultur-Einfluss in Musik, Food und TV.",
+          "source": "Deadline",
+          "score": 7,
+          "reasoning": "Neues CNN Travel-Format mit klarem Konzept (K-Pop/Korea-Trend) und etabliertem Host. Relevant für deutsche Produzenten wegen möglicher Format-Adaption und des aktuellen Korea-Booms in Europa."
         },
         {
           "title": "Beta Film & German Film School FABW Launch “Lab-To-Market” AI Production Initiative",
           "link": "https://deadline.com/2025/11/beta-film-tv-ai-initiative-filmakademie-baden-wurttemberg-1236621237/",
-          "summary": "Beta Film und die Filmakademie Baden-Württemberg starten gemeinsame KI-Initiative für Film-/TV-Produktion. Ziel ist die Entwicklung von KI-Technologien vom Labor bis zur Marktreife.",
+          "summary": "Beta Film und die Filmakademie Baden-Württemberg starten gemeinsame KI-Initiative für Film- und TV-Produktion. Ziel ist es, KI-Technologien vom Labor in den Markt zu bringen.",
           "source": "Deadline",
           "score": 7,
-          "reasoning": "Mittlere bis hohe Relevanz für TV-Produktionsunternehmen, da es um KI-Innovation in der Film-/TV-Produktion geht. Beta Film ist ein wichtiger europäischer Produzent/Distributor, und KI-Technologien werden zunehmend produktionsrelevant."
+          "reasoning": "Mittlere bis hohe Relevanz da KI-Technologie die TV-Produktion revolutioniert und Beta Film ein wichtiger europäischer Player ist. Kooperation zwischen Produzent und Filmhochschule zeigt Branchentrend auf."
+        },
+        {
+          "title": "Sony and Composer Bear McCreary Unveil ‘Outlander in Concert’ Global Tour (Exclusive)",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/sony-outlander-in-concert-bear-mccreary-soundtrack-tickets-1236428787/",
+          "summary": "Sony und Komponist Bear McCreary kündigen globale 'Outlander in Concert'-Tour an. Weltpremiere Mai 2026 in Edinburgh mit Live-Musik und Footage aus der finalen 8. Staffel.",
+          "source": "Hollywood Reporter",
+          "score": 7,
+          "reasoning": "Zeigt erfolgreiche Franchise-Vermarktung einer TV-Serie durch Live-Events. Relevant für Produktionsunternehmen als Beispiel für zusätzliche Monetarisierungsstrategien und internationale Format-Verwertung."
         },
         {
           "title": "Sundays Are (Empirically) for Football",
           "link": "https://www.hollywoodreporter.com/business/business-news/nfl-sundays-broadcast-viewing-october-2025-nielsen-gauge-1236429185/",
-          "summary": "NFL-Übertragungen treiben US-Fernsehquoten massiv: Sonntags steigen Broadcast-Anteile von 22% auf 27,3%, Streaming-Dienste wie Peacock und Prime Video profitieren erheblich von Sportinhalten.",
+          "summary": "NFL dominiert sonntags das US-TV mit 27,3% Marktanteil vs. 22% an anderen Tagen. Streaming-Dienste wie Peacock und Prime profitieren stark von NFL-Übertragungen.",
           "source": "Hollywood Reporter",
           "score": 7,
-          "reasoning": "Der Artikel zeigt wichtige TV-Trends und Quotenentwicklungen, besonders relevant für Streaming-Strategien und Sportrechte-Vermarktung, aber keine direkten Format-Deals oder neue Produktionen"
+          "reasoning": "Zeigt wichtige TV-Trends und Streaming-Daten, die für Produktionsunternehmen bei der Programmplanung und Formatentwicklung relevant sind. NFL als Quote-Treiber ist branchenrelevant."
         },
         {
           "title": "Joe Rogan Had the Most Popular Podcast On Apple in 2025 (Exclusive)",
           "link": "https://www.hollywoodreporter.com/business/business-news/joe-rogan-had-the-most-popular-podcast-on-apple-in-2025-exclusive-1236429128/",
-          "summary": "Joe Rogan führt 2025 erstmals Apple Podcast-Charts an, verdrängt 'The Daily' auf Platz 2. Crime-Podcasts und Celebrity-Formate dominieren weiterhin die Top-Listen.",
+          "summary": "Joe Rogan führt 2025 die Apple Podcast-Charts in den USA an und verdrängt 'The Daily' auf Platz 2. Neue Shows von Amy Poehler und Kylie Kelce sind besonders erfolgreich.",
           "source": "Hollywood Reporter",
           "score": 7,
-          "reasoning": "Mittlere bis hohe Relevanz: Zeigt erfolgreiche Podcast-Formate und deren Performance-Daten, relevant für Content-Strategie und mögliche TV-Adaptionen. Podcast-Trends sind wichtig für TV-Produzenten."
+          "reasoning": "Mittlere bis hohe Relevanz für TV-Produktionsunternehmen, da der Artikel wichtige Podcast-Trends und erfolgreiche Formate aufzeigt, die für Content-Strategien und mögliche TV-Adaptionen relevant sind. Zeigt auch den Erfolg von Celebrity-hosted Shows."
         }
       ]
     }
@@ -261,212 +269,219 @@
   "articles": [
     {
       "source": "DWDL",
-      "title": "Stephan Katzmann wechselt von Leonine zu Beta Film",
-      "link": "https://www.dwdl.de/nachrichten/104566/stephan_katzmann_wechselt_von_leonine_zu_beta_film/",
-      "summary": "Stephan Katzmann wird ab April 2026 neuer CFO von Beta Film und folgt auf Maria Kaltenegger. Er wechselt von der Leonine Gruppe, wo er als CFO Licensing & Distribution tätig war.",
+      "title": "\"LOL Next\": Prime Video macht \"LOL\"-Spinoff mit Hazel Brugger",
+      "link": "https://www.dwdl.de/nachrichten/104514/lol_next_prime_video_macht_lolspinoff_mit_hazel_brugger/",
+      "summary": "Prime Video kündigt LOL-Spinoff 'LOL Next' mit Hazel Brugger an. Das erfolgreiche Comedy-Format wird erweitert, während die Hauptserie bereits in Staffel 7 geht.",
+      "score": 9
+    },
+    {
+      "source": "DWDL",
+      "title": "\"Sketch History\" meldet sich noch vor Weihnachten zurück",
+      "link": "https://www.dwdl.de/nachrichten/104554/sketch_history_meldet_sich_noch_vor_weihnachten_zurueck/",
+      "summary": "ZDF bestellt 10 neue Folgen 'Sketch History', die noch 2024 linear und on demand ausgestrahlt werden. Zeigt kontinuierliche Nachfrage nach Comedy-Formaten.",
       "score": 8
     },
     {
       "source": "DWDL",
       "title": "Drehstart für neue Netflix-Dramedy \"Love & Chaos\"",
       "link": "https://www.dwdl.de/nachrichten/104520/drehstart_fuer_neue_netflixdramedy_love__chaos/",
-      "summary": "btf startet Dreharbeiten für neue Netflix-Serie 'Love & Chaos' mit Anne Schäfer und Simon Ludwig in den Hauptrollen.",
+      "summary": "btf produziert neue Netflix-Serie 'Love & Chaos' mit Anne Schäfer und Simon Ludwig. Fortsetzung erfolgreicher Zusammenarbeit nach 'How to sell drugs online (fast)' und 'King of Stonks'.",
       "score": 8
     },
     {
       "source": "DWDL",
-      "title": "\"LOL Next\": Prime Video macht \"LOL\"-Spinoff mit Hazel Brugger",
-      "link": "https://www.dwdl.de/nachrichten/104514/lol_next_prime_video_macht_lolspinoff_mit_hazel_brugger/",
-      "summary": "Prime Video kündigt LOL-Spinoff 'LOL Next' mit Hazel Brugger an. Das Hauptformat geht bereits in die siebte Staffel.",
+      "title": "Lochmann-Zwillinge werden Coaches bei \"The Voice Kids\"",
+      "link": "https://www.dwdl.de/nachrichten/104508/lochmannzwillinge_werden_coaches_bei_the_voice_kids_/",
+      "summary": "Die Lochmann-Zwillinge werden 2026 neue Coaches bei Sat.1s 'The Voice Kids'. Weitere Neuzugänge sind Leony und Michael Patrick Kelly.",
       "score": 8
     },
     {
-      "source": "Guardian Media",
-      "title": "Money lured Anthony Joshua to circus fight but he could really hurt Jake Paul | Donald McRae",
-      "link": "https://www.theguardian.com/sport/2025/nov/17/anthony-joshua-circus-fight-jake-paul-boxing",
-      "summary": "Netflix überträgt am 19. Dezember live den Boxkampf zwischen Jake Paul und Anthony Joshua. Das Event verspricht Millionen-Zuschauer und hohe Einnahmen.",
+      "source": "DWDL",
+      "title": "Leonine räumt auf: SEO Entertainment geht in Madame Zheng auf",
+      "link": "https://www.dwdl.de/nachrichten/104501/leonine_raeumt_auf_seo_entertainment_geht_in_madame_zheng_auf/",
+      "summary": "Leonine strukturiert um: SEO Entertainment wird zu Label unter Madame Zheng Production. Gründer Gillad Osterer verlässt nach 18 Jahren das Unternehmen.",
       "score": 8
     },
     {
       "source": "Guardian Media",
       "title": "David Nicholls to adapt The Secret Diary of Adrian Mole Aged 13¾ for BBC",
       "link": "https://www.theguardian.com/culture/2025/nov/17/david-nicholls-to-adapt-the-secret-diary-of-adrian-mole-aged-1334-for-bbc",
-      "summary": "David Nicholls adaptiert Sue Townsends 'Adrian Mole' als 10-teilige BBC One-Serie. Das Autorenteam inklusive Caitlin Moran bringt den 80er-Jahre Klassiker ins Fernsehen.",
-      "score": 8
-    },
-    {
-      "source": "Variety",
-      "title": "Stephan Katzmann to Join Beta Film as Chief Financial Officer, Replacing Maria Kaltenegger",
-      "link": "https://variety.com/2025/film/global/stephan-katzmann-beta-film-1236584535/",
-      "summary": "Stephan Katzmann wird neuer CFO bei Beta Film und ersetzt Maria Kaltenegger. Er wechselt im April von der Leonine Group zum Münchner Produktions- und Vertriebsunternehmen.",
+      "summary": "David Nicholls adaptiert Sue Townsends Kultroman 'Adrian Mole' als 10-teilige BBC One-Serie. Das Autorenteam inkludiert Caitlin Moran für die Teenage-Comedy.",
       "score": 8
     },
     {
       "source": "Variety",
       "title": "Fremantle Results Down Due to Lower U.S. Revenue, Loss of ‘America’s Got Talent’ Spinoff",
       "link": "https://variety.com/2025/tv/global/fremantle-results-down-lower-us-revenue-1236584490/",
-      "summary": "Fremantle verzeichnet 5,1% Umsatzrückgang auf 1,3 Mrd. Euro in ersten 9 Monaten 2024, hauptsächlich durch geringere US-Erlöse und Verlust von 'America's Got Talent' Spinoffs.",
+      "summary": "Fremantle verzeichnet 5,1% Umsatzrückgang auf 1,3 Mrd. € in 9 Monaten 2024, hauptsächlich durch geringere US-Erlöse und Verlust von 'America's Got Talent' Spinoff.",
       "score": 8
     },
     {
       "source": "Deadline",
       "title": "Fremantle Results Hit By Loss Of ‘America’s Got Talent’ Spin-Off ‘Fantasy League’",
       "link": "https://deadline.com/2025/11/fremantle-hit-americas-got-talent-spin-off-rtl-results-1236621227/",
-      "summary": "Fremantles Umsatz sank um 5,1% auf 1,3 Mrd. Euro durch Verlust des 'America's Got Talent'-Spin-offs 'Fantasy League'. RTL führt Rückgang auf geringere US-Erlöse zurück.",
+      "summary": "Fremantles Umsatz sank um 5,1% auf €1,3B, hauptsächlich durch den Verlust der AGT-Spin-off-Show 'Fantasy League' in den USA.",
       "score": 8
+    },
+    {
+      "source": "DWDL",
+      "title": "Prime Video-Chef Christoph Schneider verlässt Amazon",
+      "link": "https://www.dwdl.de/nachrichten/104562/prime_videochef_christoph_schneider_verlaesst_amazon/",
+      "summary": "Prime Video Deutschland-Chef Christoph Schneider verlässt nach 13 Jahren Amazon. Seine Position entfällt durch neue Organisationsstruktur des Streamingdienstes.",
+      "score": 7
+    },
+    {
+      "source": "DWDL",
+      "title": "Stephan Katzmann wechselt von Leonine zu Beta Film",
+      "link": "https://www.dwdl.de/nachrichten/104566/stephan_katzmann_wechselt_von_leonine_zu_beta_film/",
+      "summary": "Stephan Katzmann wird ab April 2026 neuer CFO von Beta Film und folgt auf Maria Kaltenegger. Er wechselt von der Leonine Gruppe, wo er CFO Licensing & Distribution war.",
+      "score": 7
     },
     {
       "source": "DWDL",
       "title": "Jan Fleischhauer macht \"Keine Talkshow\" im ZDF",
       "link": "https://www.dwdl.de/nachrichten/104565/jan_fleischhauer_macht_keine_talkshow_im_zdf/",
-      "summary": "Jan Fleischhauer startet neue Debattensendung 'Keine Talkshow' im ZDF. Start bereits diese Woche angekündigt.",
+      "summary": "Jan Fleischhauer startet diese Woche seine neue ZDF-Debattensendung 'Keine Talkshow'. Das Format verspricht eine Alternative zum klassischen Talkshow-Konzept.",
       "score": 7
     },
     {
       "source": "DWDL",
       "title": "ARD schickt Kai Pflaume und Knossi auf \"Hochzeitsreise\"",
       "link": "https://www.dwdl.de/nachrichten/104560/ard_schickt_kai_pflaume_und_knossi_auf_hochzeitsreise/",
-      "summary": "ARD produziert fünfteilige Doku-Reihe mit Kai Pflaume und Knossi über weltweite Hochzeitsrituale. Das erfolgreiche YouTube-Duo arbeitet erstmals gemeinsam fürs Fernsehen.",
-      "score": 7
-    },
-    {
-      "source": "DWDL",
-      "title": "ZDF zieht Streaming-Start von \"Ku'damm 77\" vor",
-      "link": "https://www.dwdl.de/nachrichten/104559/zdf_zieht_streamingstart_von_kudamm_77_vor/",
-      "summary": "ZDF startet 'Ku'damm 77' früher im Streaming (kurz nach Weihnachten) als ursprünglich geplant. Die lineare TV-Ausstrahlung bleibt bei Januar.",
+      "summary": "ARD produziert fünfteilige Doku-Serie mit Kai Pflaume und Knossi über weltweite Hochzeitsrituale. Das YouTube-erprobte Duo geht erstmals gemeinsam im öffentlich-rechtlichen TV auf Sendung.",
       "score": 7
     },
     {
       "source": "DWDL",
       "title": "Drei deutsche Produktionen für Rose d'Or nominiert",
       "link": "https://www.dwdl.de/nachrichten/104555/drei_deutsche_produktionen_fuer_rose_dor_nominiert/",
-      "summary": "Drei deutsche TV-Produktionen sind für die Rose d'Or nominiert: Jan Böhmermann, ZDF-Serie 'Crystal Wall' und Vox-Format 'Kitchen Impossible'.",
-      "score": 7
-    },
-    {
-      "source": "DWDL",
-      "title": "\"Sketch History\" meldet sich noch vor Weihnachten zurück",
-      "link": "https://www.dwdl.de/nachrichten/104554/sketch_history_meldet_sich_noch_vor_weihnachten_zurueck/",
-      "summary": "ZDF zeigt noch 2024 zehn neue Folgen der Comedy-Serie 'Sketch History' linear und on demand.",
+      "summary": "Drei deutsche TV-Produktionen sind für die Rose d'Or nominiert: Jan Böhmermann, ZDF-Serie 'Crystal Wall' und Vox-Format 'Kitchen Impossible'. Wichtige Branchenauszeichnung.",
       "score": 7
     },
     {
       "source": "DWDL",
       "title": "\"Watzmann ermittelt\" meldet sich mit Doppelschlag zurück",
       "link": "https://www.dwdl.de/nachrichten/104549/watzmann_ermittelt_meldet_sich_mit_doppelschlag_zurueck/",
-      "summary": "\"Watzmann ermittelt\" startet 2024 mit doppelter Präsenz: Die Serie läuft erstmals sowohl im Vorabend als auch in der Primetime des Ersten.",
+      "summary": "Die ARD-Serie 'Watzmann ermittelt' kehrt 2024 zurück und wird erstmals auch in der Primetime ausgestrahlt, zusätzlich zum gewohnten Vorabendplatz.",
       "score": 7
     },
     {
       "source": "DWDL",
       "title": "ProSieben startet wieder mit Joko und Klaas ins Jahr",
       "link": "https://www.dwdl.de/nachrichten/104547/prosieben_startet_wieder_mit_joko_und_klaas_ins_jahr/",
-      "summary": "ProSieben setzt 2026 auf bewährtes Format: Joko und Klaas kehren mit Neujahrs-Gala zurück und können wieder mehr als 15 Minuten Sendezeit gewinnen.",
+      "summary": "ProSieben setzt 2026 die erfolgreiche Neujahrs-Gala mit Joko und Klaas fort. Die Moderatoren können wieder mehr als 15 Minuten Sendezeit gewinnen.",
       "score": 7
     },
     {
       "source": "DWDL",
       "title": "ProSieben verbannt \"Die Abrechnung\" ins Nachtprogramm",
       "link": "https://www.dwdl.de/nachrichten/104531/prosieben_verbannt_die_abrechnung_ins_nachtprogramm/",
-      "summary": "ProSiebens Reality-Format 'Die Abrechnung' floppte bei linearen Quoten und wird aus der Primetime ins Nachtprogramm verschoben.",
+      "summary": "ProSieben verschiebt Reality-Format 'Die Abrechnung' wegen schwacher linearer Quoten aus der Primetime ins Nachtprogramm. Auch 'Das große Promi-Büßen' rückt nach hinten.",
       "score": 7
     },
     {
       "source": "DWDL",
       "title": "Vereinte Kräfte im Norden: TVN Group übernimmt TV Plus",
       "link": "https://www.dwdl.de/nachrichten/104523/vereinte_kraefte_im_norden_tvn_group_uebernimmt_tv_plus/",
-      "summary": "TVN Group übernimmt ab 2024 die Hannoveraner Produktionsfirma TV Plus, die seit 1997 die NDR-Show 'Bingo!' produziert. Ziel sind Synergieeffekte zwischen den beiden Unternehmen.",
-      "score": 7
-    },
-    {
-      "source": "DWDL",
-      "title": "Disney kratzt an der Marke von 200 Millionen Streaming-Abos",
-      "link": "https://www.dwdl.de/nachrichten/104511/disney_kratzt_an_der_marke_von_200_millionen_streamingabos/",
-      "summary": "Disney erreicht mit Disney+ und Hulu fast 200 Mio. Streaming-Abos, während lineares TV weiter schwächelt. Kurzzeitige Kimmel-Suspendierung störte kaum.",
-      "score": 7
-    },
-    {
-      "source": "DWDL",
-      "title": "Lochmann-Zwillinge werden Coaches bei \"The Voice Kids\"",
-      "link": "https://www.dwdl.de/nachrichten/104508/lochmannzwillinge_werden_coaches_bei_the_voice_kids_/",
-      "summary": "Die Lochmann-Zwillinge werden 2026 Coaches bei Sat.1s 'The Voice Kids'. Zusammen mit Leony und Michael Patrick Kelly komplettieren sie das neue Coach-Team der Musikshow.",
+      "summary": "TVN Group übernimmt ab 2025 die Hannoveraner Produktionsfirma TV Plus, die seit 1997 die NDR-Show 'Bingo!' produziert. Ziel sind Synergien zwischen den beiden lokalen Unternehmen.",
       "score": 7
     },
     {
       "source": "DWDL",
       "title": "Joyn schickt Lilly Becker und Joey Kelly in den Urwald",
       "link": "https://www.dwdl.de/nachrichten/104506/joyn_schickt_lilly_becker_und_joey_kelly_in_den_urwald/",
-      "summary": "Joyn produziert für 2026 'Surviving Amazonas' - Abenteuer-Doku mit Lilly Becker und Joey Kelly in Stammesgemeinschaft",
+      "summary": "Joyn plant für 2026 die Abenteuer-Doku 'Surviving Amazonas' mit Lilly Becker und Joey Kelly, die sich in eine Stammesgemeinschaft integrieren sollen.",
       "score": 7
     },
     {
       "source": "Guardian Media",
-      "title": "‘Smile? YOU smile.' A new generation of stars is overthrowing the old Hollywood system, one ‘no’ at a time | Priya Elan",
-      "link": "https://www.theguardian.com/commentisfree/2025/nov/18/hollywood-stars-gen-z-millie-bobby-brown-jenna-ortega",
-      "summary": "Gen-Z-Stars wie Millie Bobby Brown und Sydney Chandler lehnen traditionelle PR-Verpflichtungen ab und fordern mehr Kontrolle über ihre Medienauftritte, was das etablierte Hollywood-System herausfordert.",
+      "title": "Money lured Anthony Joshua to circus fight but he could really hurt Jake Paul | Donald McRae",
+      "link": "https://www.theguardian.com/sport/2025/nov/17/anthony-joshua-circus-fight-jake-paul-boxing",
+      "summary": "Jake Paul vs. Anthony Joshua am 19. Dezember live auf Netflix - ein umstrittener Boxkampf, der Millionen generieren wird, aber dem Boxsport schadet.",
       "score": 7
     },
     {
       "source": "Guardian Media",
       "title": "Anthony Joshua will ‘break internet over Jake Paul’s face’ as fight is confirmed",
       "link": "https://www.theguardian.com/sport/2025/nov/17/anthony-joshua-jake-paul-boxing-netflix",
-      "summary": "Anthony Joshua kämpft am 19. Dezember gegen YouTuber Jake Paul in Miami. Der Heavyweight-Fight wird live auf Netflix übertragen.",
+      "summary": "Netflix überträgt am 19. Dezember live den Boxkampf zwischen Anthony Joshua und YouTuber Jake Paul aus Miami.",
       "score": 7
     },
     {
       "source": "Guardian Media",
-      "title": "One Shot With Ed Sheeran review – well-planned spontaneity from all-smiling singer",
-      "link": "https://www.theguardian.com/film/2025/nov/16/one-shot-with-ed-sheeran-review-philip-barantini",
-      "summary": "Netflix veröffentlicht einstündiges Single-Take Special mit Ed Sheeran, bei dem Regisseur Philip Barantini den Sänger ohne Schnitte durch New York begleitet.",
+      "title": "Sky Sports ditches ‘unbelievably sexist’ TikTok channel Halo after three days",
+      "link": "https://www.theguardian.com/media/2025/nov/16/sky-sports-axes-unbelievably-sexist-tiktok-channel-halo-after-three-days",
+      "summary": "Sky Sports musste nach nur drei Tagen seinen frauenspezifischen TikTok-Kanal 'Halo' einstellen, nachdem er als sexistisch und herablassend kritisiert wurde.",
       "score": 7
     },
     {
       "source": "Guardian Media",
       "title": "‘Not for the faint-hearted’: is running the BBC an impossible job?",
       "link": "https://www.theguardian.com/media/ng-interactive/2025/nov/15/is-running-the-bbc-an-impossible-job",
-      "summary": "BBC-Generaldirektor Tim Davie tritt überraschend zurück. Die Nachfolge-Suche wirft Fragen über die extreme Belastung der BBC-Führung auf.",
+      "summary": "BBC-Generaldirektor Tim Davie tritt überraschend zurück. Die Nachfolge wird schwierig angesichts interner Konflikte und anstehender Diskussionen über Zukunft der BBC.",
+      "score": 7
+    },
+    {
+      "source": "Variety",
+      "title": "Stephan Katzmann to Join Beta Film as Chief Financial Officer, Replacing Maria Kaltenegger",
+      "link": "https://variety.com/2025/film/global/stephan-katzmann-beta-film-1236584535/",
+      "summary": "Stephan Katzmann wird neuer CFO bei Beta Film München ab April. Er wechselt von Leonine Group und ersetzt Maria Kaltenegger nach 6 Jahren.",
       "score": 7
     },
     {
       "source": "Variety",
       "title": "‘Black Doves’ Season 2: Ambika Mod, Neve Campbell, Babou Ceesay and Sam Riley Join Netflix Spy Series as Production Starts",
       "link": "https://variety.com/2025/tv/global/black-doves-season-2-ambika-mod-neve-campbell-babou-ceesay-1236584436/",
-      "summary": "Netflix produziert Staffel 2 der Spionage-Serie 'Black Doves' mit Keira Knightley. Neue Darsteller wie Ambika Mod und Neve Campbell verstärken den Cast der londoner Thriller-Serie.",
+      "summary": "Netflix startet Produktion der 2. Staffel der Spy-Serie 'Black Doves' mit Keira Knightley. Neue Cast-Mitglieder wie Ambika Mod und Neve Campbell verstärken die erfolgreiche britische Thriller-Serie.",
       "score": 7
     },
     {
       "source": "Deadline",
       "title": "‘Black Doves’: Neve Campbell, Sam Riley & Ambika Mod Among Cast Added For Season 2 Of Netflix Spy Thriller",
       "link": "https://deadline.com/2025/11/black-doves-neve-campbell-sam-riley-ambika-mod-season-2-1236621000/",
-      "summary": "Netflix verlängert Spionage-Thriller 'Black Doves' um Staffel 2. Neben Keira Knightley und Ben Whishaw kommen neue Stars wie Neve Campbell und Sam Riley dazu.",
+      "summary": "Netflix setzt 'Black Doves' mit Staffel 2 fort. Keira Knightley, Ben Whishaw kehren zurück, neu dabei: Neve Campbell, Ambika Mod, Sam Riley. Spy-Thriller erweitert Cast um bekannte Namen.",
       "score": 7
     },
     {
       "source": "Deadline",
       "title": "Florence Longpré’s TV Drama ‘Empathy’ Brings Heart And Humanity To The World Of Psychiatric Care",
       "link": "https://deadline.com/2025/11/empathy-empathie-florence-longpre-global-breakouts-1236621269/",
-      "summary": "TV-Drama 'Empathy' von Florence Longpré über psychiatrische Pflege wird als internationaler Breakout-Hit gehandelt und könnte für Format-Adaptionen interessant sein.",
+      "summary": "Kanadische TV-Drama-Serie 'Empathy' von Florence Longpré über Psychiatrie-Bereich wird als lokaler Erfolg hervorgehoben und könnte Potenzial für internationale Vermarktung haben.",
+      "score": 7
+    },
+    {
+      "source": "Deadline",
+      "title": "Daniel Dae Kim To Present & Produce CNN Travel Series ‘K-Everything’",
+      "link": "https://deadline.com/2025/11/daniel-dae-k-everything-cnn-travel-series-1236620252/",
+      "summary": "Daniel Dae Kim produziert und moderiert vierteilige CNN-Reiseserie 'K-Everything' über Südkoreas globalen Pop-Kultur-Einfluss in Musik, Food und TV.",
       "score": 7
     },
     {
       "source": "Deadline",
       "title": "Beta Film & German Film School FABW Launch “Lab-To-Market” AI Production Initiative",
       "link": "https://deadline.com/2025/11/beta-film-tv-ai-initiative-filmakademie-baden-wurttemberg-1236621237/",
-      "summary": "Beta Film und die Filmakademie Baden-Württemberg starten gemeinsame KI-Initiative für Film-/TV-Produktion. Ziel ist die Entwicklung von KI-Technologien vom Labor bis zur Marktreife.",
+      "summary": "Beta Film und die Filmakademie Baden-Württemberg starten gemeinsame KI-Initiative für Film- und TV-Produktion. Ziel ist es, KI-Technologien vom Labor in den Markt zu bringen.",
+      "score": 7
+    },
+    {
+      "source": "Hollywood Reporter",
+      "title": "Sony and Composer Bear McCreary Unveil ‘Outlander in Concert’ Global Tour (Exclusive)",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/sony-outlander-in-concert-bear-mccreary-soundtrack-tickets-1236428787/",
+      "summary": "Sony und Komponist Bear McCreary kündigen globale 'Outlander in Concert'-Tour an. Weltpremiere Mai 2026 in Edinburgh mit Live-Musik und Footage aus der finalen 8. Staffel.",
       "score": 7
     },
     {
       "source": "Hollywood Reporter",
       "title": "Sundays Are (Empirically) for Football",
       "link": "https://www.hollywoodreporter.com/business/business-news/nfl-sundays-broadcast-viewing-october-2025-nielsen-gauge-1236429185/",
-      "summary": "NFL-Übertragungen treiben US-Fernsehquoten massiv: Sonntags steigen Broadcast-Anteile von 22% auf 27,3%, Streaming-Dienste wie Peacock und Prime Video profitieren erheblich von Sportinhalten.",
+      "summary": "NFL dominiert sonntags das US-TV mit 27,3% Marktanteil vs. 22% an anderen Tagen. Streaming-Dienste wie Peacock und Prime profitieren stark von NFL-Übertragungen.",
       "score": 7
     },
     {
       "source": "Hollywood Reporter",
       "title": "Joe Rogan Had the Most Popular Podcast On Apple in 2025 (Exclusive)",
       "link": "https://www.hollywoodreporter.com/business/business-news/joe-rogan-had-the-most-popular-podcast-on-apple-in-2025-exclusive-1236429128/",
-      "summary": "Joe Rogan führt 2025 erstmals Apple Podcast-Charts an, verdrängt 'The Daily' auf Platz 2. Crime-Podcasts und Celebrity-Formate dominieren weiterhin die Top-Listen.",
+      "summary": "Joe Rogan führt 2025 die Apple Podcast-Charts in den USA an und verdrängt 'The Daily' auf Platz 2. Neue Shows von Amy Poehler und Kylie Kelce sind besonders erfolgreich.",
       "score": 7
     }
   ]
