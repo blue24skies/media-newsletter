@@ -15,6 +15,7 @@ import time
 import sys
 import os
 import json
+import re
 from bs4 import BeautifulSoup
 from urllib.parse import quote
 import anthropic
@@ -372,10 +373,15 @@ def get_best_description(article):
     # Fallback: Nutze was da ist
     return rss_desc if rss_desc else "Keine Beschreibung verfügbar"
 
-def score_and_summarize_article(article, source_name):
+def score_and_summarize_article(article, source_name, max_retries=2):
     """
     Bewertet Artikel UND erstellt Zusammenfassung in EINEM API-Call
     Wendet danach Learning Rules an
+    
+    Args:
+        article: Artikel-Dictionary
+        source_name: Name der Quelle
+        max_retries: Maximale Anzahl Wiederholungsversuche bei Fehlern
     """
     title = article.get('title', 'Kein Titel')
     
@@ -386,11 +392,18 @@ def score_and_summarize_article(article, source_name):
     if len(description) < 100:
         print(f"      ⚠️ Sehr kurze Beschreibung ({len(description)} Zeichen)")
     
+    # Bereinige und kürze den Inhalt um API-Fehler zu vermeiden
+    # Entferne problematische Zeichen
+    description_clean = description.replace('\x00', '').replace('\r', ' ')
+    
+    # Kürze auf sichere Länge (2000 statt 2500 Zeichen)
+    description_clean = description_clean[:2000]
+    
     prompt = f"""Bewerte diesen TV/Medien-Artikel für ein deutsches TV-Produktionsunternehmen UND erstelle eine Zusammenfassung.
 
 Titel: {title}
 Quelle: {source_name}
-Inhalt: {description[:2500]}
+Inhalt: {description_clean}
 
 **AUFGABE 1 - RELEVANZ-BEWERTUNG (Score 1-10):**
 - Hohe Relevanz (8-10): Erfolgreiche TV-Formate mit hohen Quoten, neue Formate die getestet/verkauft werden, Format-Deals zwischen Produktionsfirmen und Sendern/Streamern, Streaming-Plattformen die Content suchen, wichtige Personal-Entscheidungen, Format-Adaptionen für verschiedene Märkte
@@ -403,46 +416,84 @@ Erstelle eine prägnante deutsche Zusammenfassung (2-3 Sätze, max 200 Zeichen) 
 Antworte NUR mit JSON in diesem EXAKTEN Format:
 {{"score": <1-10>, "reasoning": "<kurze Begründung>", "summary": "<deutsche Zusammenfassung>"}}"""
 
-    try:
-        message = client.messages.create(
-            model="claude-sonnet-4-20250514",
-            max_tokens=400,
-            messages=[{"role": "user", "content": prompt}]
-        )
-        
-        response_text = message.content[0].text.strip()
-        result = json.loads(response_text)
-        
-        base_score = result.get('score', 0)
-        reasoning = result.get('reasoning', 'Keine Begründung')
-        summary = result.get('summary', 'Keine Zusammenfassung verfügbar')
-        
-        # ========================================
-        # WENDE LEARNING RULES AN!
-        # ========================================
-        adjusted_score, applied_rules = apply_learning_rules(title, source_name, base_score)
-        
-        # Erweitere Reasoning wenn Regeln angewendet wurden
-        if applied_rules:
-            rules_info = []
-            for rule in applied_rules:
-                if 'theme' in rule:
-                    rules_info.append(f"{rule['theme']} ({rule['adjustment']:+d})")
-                elif 'source' in rule:
-                    rules_info.append(f"{rule['source']} ({rule['adjustment']:+d})")
+    # Retry-Logik für robustere API-Calls
+    for attempt in range(max_retries + 1):
+        try:
+            message = client.messages.create(
+                model="claude-sonnet-4-20250514",
+                max_tokens=400,
+                messages=[{"role": "user", "content": prompt}]
+            )
             
-            reasoning += f" [Learning: {base_score}→{adjusted_score}: {', '.join(rules_info)}]"
-            print(f"      🎓 Learning: {base_score} → {adjusted_score}")
-        
-        return adjusted_score, reasoning, summary
-        
-    except json.JSONDecodeError as e:
-        print(f"      ❌ JSON Parse Error: {e}")
-        print(f"      Response: {response_text[:200]}")
-        return 0, f"Fehler: Ungültige Antwort", "Zusammenfassung nicht verfügbar"
-    except Exception as e:
-        print(f"      ❌ API Error: {e}")
-        return 0, f"Fehler: {str(e)}", "Zusammenfassung nicht verfügbar"
+            response_text = message.content[0].text.strip()
+            
+            # Entferne Markdown Code-Blocks falls vorhanden
+            if response_text.startswith('```'):
+                # Entferne ```json am Anfang und ``` am Ende
+                response_text = response_text.replace('```json', '').replace('```', '').strip()
+            
+            result = json.loads(response_text)
+            
+            base_score = result.get('score', 0)
+            reasoning = result.get('reasoning', 'Keine Begründung')
+            summary = result.get('summary', 'Keine Zusammenfassung verfügbar')
+            
+            # ========================================
+            # WENDE LEARNING RULES AN!
+            # ========================================
+            adjusted_score, applied_rules = apply_learning_rules(title, source_name, base_score)
+            
+            # Erweitere Reasoning wenn Regeln angewendet wurden
+            if applied_rules:
+                rules_info = []
+                for rule in applied_rules:
+                    if 'theme' in rule:
+                        rules_info.append(f"{rule['theme']} ({rule['adjustment']:+d})")
+                    elif 'source' in rule:
+                        rules_info.append(f"{rule['source']} ({rule['adjustment']:+d})")
+                
+                reasoning += f" [Learning: {base_score}→{adjusted_score}: {', '.join(rules_info)}]"
+                print(f"      🎓 Learning: {base_score} → {adjusted_score}")
+            
+            return adjusted_score, reasoning, summary
+            
+        except json.JSONDecodeError as e:
+            print(f"      ❌ JSON Parse Error: {e}")
+            print(f"      Response (first 300 chars): {response_text[:300]}")
+            
+            # Fallback: Versuche trotzdem einen Score zu extrahieren
+            try:
+                score_match = re.search(r'"score"\s*:\s*(\d+)', response_text)
+                if score_match:
+                    fallback_score = int(score_match.group(1))
+                    print(f"      ⚠️ Fallback Score extrahiert: {fallback_score}")
+                    return fallback_score, "Parsing fehlgeschlagen, Fallback verwendet", "Zusammenfassung nicht verfügbar"
+            except:
+                pass
+            
+            return 0, f"Fehler: Ungültige Antwort", "Zusammenfassung nicht verfügbar"
+            
+        except Exception as e:
+            error_message = str(e)
+            
+            # Check ob es ein 500 Fehler ist
+            if '500' in error_message or 'Internal server error' in error_message:
+                if attempt < max_retries:
+                    print(f"      ⚠️ API 500 Error (Versuch {attempt + 1}/{max_retries + 1}), warte 2s und versuche erneut...")
+                    time.sleep(2)
+                    continue
+                else:
+                    print(f"      ❌ API Error nach {max_retries + 1} Versuchen: {e}")
+                    # Fallback: Gib mittleren Score basierend auf Titel
+                    fallback_score = 5  # Neutral
+                    return fallback_score, f"API-Fehler nach Retries: {error_message[:100]}", "Bewertung nicht möglich"
+            else:
+                # Andere Fehler sofort zurückgeben
+                print(f"      ❌ API Error: {e}")
+                return 0, f"Fehler: {error_message[:100]}", "Zusammenfassung nicht verfügbar"
+    
+    # Sollte nie hierher kommen, aber als Fallback
+    return 0, "Unerwarteter Fehler", "Zusammenfassung nicht verfügbar"
 
 # ============================================================================
 # ARTIKEL-VERARBEITUNG
