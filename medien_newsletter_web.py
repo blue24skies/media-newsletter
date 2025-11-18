@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Zoo Medien Newsletter Automation mit Themen-basiertem Learning
-Version 2.0 - Intelligentes Lernen auf Themen-Ebene
+Zoo Medien Newsletter Automation mit Zusammenfassungen
+FIXED: Erstellt jetzt Zusammenfassungen für jeden Artikel!
 """
 
 import feedparser
@@ -15,10 +15,8 @@ import time
 import sys
 import os
 import json
-import re
 from bs4 import BeautifulSoup
 from urllib.parse import quote
-import anthropic
 
 # ============================================================================
 # KONFIGURATION
@@ -59,18 +57,12 @@ EMPFAENGER = {
     #'Christina': 'christina@zooproductions.de'
 }
 
-# Anthropic Client
-client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
-
 # ============================================================================
-# THEMEN-BASIERTES LEARNING SYSTEM (NEU!)
+# LEARNING RULES SYSTEM
 # ============================================================================
-
-LEARNING_RULES = []
 
 def load_learning_rules():
-    """Lade die intelligenten Themen-basierten Learning Rules"""
-    global LEARNING_RULES
+    """Lade die Learning Rules aus learning_rules.py falls vorhanden"""
     try:
         if os.path.exists('learning_rules.py'):
             with open('learning_rules.py', 'r', encoding='utf-8') as f:
@@ -78,75 +70,37 @@ def load_learning_rules():
                 local_vars = {}
                 exec(code, {}, local_vars)
                 if 'LEARNING_RULES' in local_vars:
-                    LEARNING_RULES = local_vars['LEARNING_RULES']
-                    print(f"✅ {len(LEARNING_RULES)} Learning Rules geladen")
-                    
-                    # Zeige Statistik
-                    theme_rules = [r for r in LEARNING_RULES if 'theme' in r.get('type', '')]
-                    source_rules = [r for r in LEARNING_RULES if 'source' in r.get('type', '')]
-                    
-                    if theme_rules:
-                        print(f"   📊 {len(theme_rules)} Themen-Regeln")
-                    if source_rules:
-                        print(f"   📊 {len(source_rules)} Quellen-Regeln")
-                    
-                    return True
+                    print("✅ Learning Rules aktiv")
+                    return local_vars['LEARNING_RULES']
     except Exception as e:
         print(f"⚠️ Konnte Learning Rules nicht laden: {e}")
-    
-    LEARNING_RULES = []
-    return False
+    return {}
 
-def apply_learning_rules(title, source, base_score):
-    """
-    Wendet intelligente Themen- und Quellen-basierte Lernregeln an
+LEARNING_RULES = load_learning_rules()
+
+def apply_learning_boost(score, source, title, keywords):
+    """Wende Learning Boost auf Score an"""
+    original_score = score
     
-    Args:
-        title: Artikel-Titel
-        source: Artikel-Quelle
-        base_score: Basis-Score von Claude
-        
-    Returns:
-        Angepasster Score und Liste der angewandten Regeln
-    """
-    if not LEARNING_RULES:
-        return base_score, []
+    # Source-spezifische Regeln
+    if source in LEARNING_RULES.get('source_boosts', {}):
+        source_boost = LEARNING_RULES['source_boosts'][source]
+        score = min(10, score + source_boost)
+        if source_boost != 0:
+            print(f"    🎓 Learning: {original_score} → {score}")
+            return score
     
-    adjusted_score = base_score
-    applied_rules = []
+    # Keyword-Boosts
     title_lower = title.lower()
+    keywords_lower = [k.lower() for k in keywords]
+    for keyword, boost in LEARNING_RULES.get('keyword_boosts', {}).items():
+        if keyword.lower() in title_lower or keyword.lower() in ' '.join(keywords_lower):
+            score = min(10, score + boost)
+            if boost != 0:
+                print(f"    🎓 Learning: {original_score} → {score}")
+                return score
     
-    # Durchlaufe alle Regeln
-    for rule in LEARNING_RULES:
-        rule_type = rule.get('type', '')
-        
-        # Themen-basierte Regeln (PRIORITÄT!)
-        if rule_type in ['theme_bonus', 'theme_malus']:
-            theme = rule.get('theme', '').lower()
-            if theme and theme in title_lower:
-                adjustment = rule.get('adjustment', 0)
-                adjusted_score += adjustment
-                applied_rules.append({
-                    'type': rule_type,
-                    'theme': rule.get('theme'),
-                    'adjustment': adjustment
-                })
-        
-        # Quellen-basierte Regeln (Fallback)
-        elif rule_type in ['source_bonus', 'source_malus']:
-            if rule.get('source') == source:
-                adjustment = rule.get('adjustment', 0)
-                adjusted_score += adjustment
-                applied_rules.append({
-                    'type': rule_type,
-                    'source': source,
-                    'adjustment': adjustment
-                })
-    
-    # Score zwischen 1-10 halten
-    adjusted_score = max(1, min(10, adjusted_score))
-    
-    return adjusted_score, applied_rules
+    return score
 
 # ============================================================================
 # WEB-FETCHING + BRAVE SEARCH FALLBACK
@@ -286,301 +240,519 @@ def hole_kress_artikel():
             if len(text) < 50:
                 continue
             
-            # Simuliere Artikel-Struktur
-            artikel_count += 1
+            link_tag = p.find_parent().find('a') if p.find_parent() else None
+            if not link_tag:
+                link_tag = p.find('a')
+            
+            link = ''
+            if link_tag and link_tag.get('href'):
+                href = link_tag.get('href')
+                if href.startswith('http'):
+                    link = href
+                elif href.startswith('/'):
+                    link = f"https://kress.de{href}"
+            
+            titel = text[:100] + "..." if len(text) > 100 else text
+            
+            words = text.lower().split()
+            keywords = [w for w in words if len(w) > 5][:10]
+            
             artikel_liste.append({
-                'title': text[:100] + "..." if len(text) > 100 else text,
-                'link': 'https://kress.de/news',
-                'summary': text[:300],
-                'source': 'kress'
+                'source': 'kress',
+                'title': titel,
+                'link': link if link else 'https://kress.de/news',
+                'description': text,
+                'keywords': keywords,
+                'score': 5
             })
             
-            if artikel_count >= 5:
+            artikel_count += 1
+            if artikel_count >= 15:
                 break
         
-        print(f"   ✅ {len(artikel_liste)} Artikel gefunden")
+        print(f"   ✅ {artikel_count} Artikel von kress.de gefunden\n")
+        return artikel_liste
         
     except Exception as e:
-        print(f"   ❌ Fehler: {e}")
+        print(f"   ❌ Fehler beim Scrapen von kress.de: {e}\n")
+        return []
+
+def hole_meedia_artikel():
+    """
+    Scrape aktuelle Artikel von meedia.de
+    """
+    artikel_liste = []
     
-    return artikel_liste
+    try:
+        print(f"🌐 Scrape Artikel von meedia.de...")
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        
+        response = requests.get('https://meedia.de', headers=headers, timeout=10)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.content, 'html.parser')
+        
+        # Finde Artikel-Absätze
+        artikel_texte = soup.find_all('p')
+        
+        artikel_count = 0
+        seen_texts = set()  # Verhindere Duplikate
+        
+        for p in artikel_texte[:30]:
+            text = p.get_text(strip=True)
+            
+            if len(text) < 80 or text in seen_texts:
+                continue
+            
+            seen_texts.add(text)
+            
+            # Suche nach Links
+            link = 'https://meedia.de'
+            link_tag = p.find_parent('a') if p.find_parent() else p.find('a')
+            if link_tag and link_tag.get('href'):
+                href = link_tag.get('href')
+                if href.startswith('http'):
+                    link = href
+                elif href.startswith('/'):
+                    link = f"https://meedia.de{href}"
+            
+            titel = text[:100] + "..." if len(text) > 100 else text
+            
+            words = text.lower().split()
+            keywords = [w for w in words if len(w) > 5][:10]
+            
+            artikel_liste.append({
+                'source': 'meedia',
+                'title': titel,
+                'link': link,
+                'description': text,
+                'keywords': keywords,
+                'score': 5
+            })
+            
+            artikel_count += 1
+            if artikel_count >= 15:
+                break
+        
+        print(f"   ✅ {artikel_count} Artikel von meedia.de gefunden\n")
+        return artikel_liste
+        
+    except Exception as e:
+        print(f"   ❌ Fehler beim Scrapen von meedia.de: {e}\n")
+        return []
+
+def hole_turi2_artikel():
+    """
+    Scrape aktuelle Artikel von turi2.de
+    """
+    artikel_liste = []
+    
+    try:
+        print(f"🌐 Scrape Artikel von turi2.de...")
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        
+        response = requests.get('https://turi2.de', headers=headers, timeout=10)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.content, 'html.parser')
+        
+        # turi2 hat oft Artikel in divs oder article tags
+        artikel_elemente = soup.find_all(['article', 'div'], limit=30)
+        
+        artikel_count = 0
+        seen_texts = set()
+        
+        for element in artikel_elemente:
+            # Finde Text
+            text = element.get_text(strip=True)
+            
+            if len(text) < 80 or text in seen_texts:
+                continue
+            
+            seen_texts.add(text)
+            
+            # Finde Link
+            link = 'https://turi2.de'
+            link_tag = element.find('a')
+            if link_tag and link_tag.get('href'):
+                href = link_tag.get('href')
+                if href.startswith('http'):
+                    link = href
+                elif href.startswith('/'):
+                    link = f"https://turi2.de{href}"
+            
+            titel = text[:100] + "..." if len(text) > 100 else text
+            
+            words = text.lower().split()
+            keywords = [w for w in words if len(w) > 5][:10]
+            
+            artikel_liste.append({
+                'source': 'turi2',
+                'title': titel,
+                'link': link,
+                'description': text,
+                'keywords': keywords,
+                'score': 5
+            })
+            
+            artikel_count += 1
+            if artikel_count >= 15:
+                break
+        
+        print(f"   ✅ {artikel_count} Artikel von turi2.de gefunden\n")
+        return artikel_liste
+        
+    except Exception as e:
+        print(f"   ❌ Fehler beim Scrapen von turi2.de: {e}\n")
+        return []
 
 # ============================================================================
-# RSS FEED SAMMLUNG
+# CLAUDE API - BEWERTUNG
+# ============================================================================
+
+def bewerte_artikel_mit_claude(artikel_liste):
+    """Bewerte alle Artikel auf einmal mit Claude"""
+    
+    if not artikel_liste:
+        return []
+    
+    # Erstelle kompakten Prompt
+    artikel_text = ""
+    for idx, artikel in enumerate(artikel_liste, 1):
+        artikel_text += f"\n[{idx}] Quelle: {artikel['source']}\n"
+        artikel_text += f"Titel: {artikel['title']}\n"
+        artikel_text += f"Beschreibung: {artikel['description'][:300]}...\n"
+    
+    prompt = f"""Bewerte diese {len(artikel_liste)} Medien-Artikel für Zoo Productions (deutsche Produktionsfirma für TV-Serien/Dokus).
+
+**Bewertungsskala (1-10):**
+- 9-10: Strategisch wichtig (Produktionstrends, Streaming-Deals, Senderstrategien)
+- 7-8: Relevant (Medienmarkt, Quotenanalysen, Programmierungen)
+- 4-6: Bedingt interessant (Standard-News, internationale Stories)
+- 1-3: Nicht relevant (Celebrity-News, reine Entertainment-Stories)
+
+Artikel:
+{artikel_text}
+
+Antworte NUR mit JSON:
+{{"scores": [score1, score2, ...]}}"""
+
+    try:
+        response = requests.post(
+            'https://api.anthropic.com/v1/messages',
+            headers={
+                'x-api-key': ANTHROPIC_API_KEY,
+                'anthropic-version': '2023-06-01',
+                'content-type': 'application/json'
+            },
+            json={
+                'model': 'claude-sonnet-4-20250514',
+                'max_tokens': 1000,
+                'messages': [{
+                    'role': 'user',
+                    'content': prompt
+                }]
+            },
+            timeout=60
+        )
+        
+        if response.status_code == 200:
+            data = response.json()
+            text = data['content'][0]['text'].strip()
+            
+            # Parse JSON
+            text = text.replace('```json', '').replace('```', '').strip()
+            result = json.loads(text)
+            
+            return result.get('scores', [])
+        else:
+            print(f"❌ Claude API Fehler: {response.status_code}")
+            return []
+            
+    except Exception as e:
+        print(f"❌ Fehler bei Claude API: {e}")
+        return []
+
+# ============================================================================
+# CLAUDE API - ZUSAMMENFASSUNG (DAS WAR DAS PROBLEM!)
+# ============================================================================
+
+def erstelle_zusammenfassung_mit_claude(title, url, full_text):
+    """
+    Erstelle eine prägnante Zusammenfassung mit Claude
+    """
+    
+    if not full_text or len(full_text) < 100:
+        print(f"       ⚠️ Text zu kurz für Zusammenfassung: {len(full_text) if full_text else 0} Zeichen")
+        return "Keine Zusammenfassung verfügbar."
+    
+    prompt = f"""Erstelle eine prägnante 2-3 Satz Zusammenfassung dieses Medien-Artikels für Fachleute:
+
+Titel: {title}
+URL: {url}
+
+Volltext:
+{full_text[:2000]}
+
+Antworte NUR mit der Zusammenfassung, keine Einleitung."""
+
+    try:
+        print(f"       🔄 Sende Anfrage an Claude API...")
+        response = requests.post(
+            'https://api.anthropic.com/v1/messages',
+            headers={
+                'x-api-key': ANTHROPIC_API_KEY,
+                'anthropic-version': '2023-06-01',
+                'content-type': 'application/json'
+            },
+            json={
+                'model': 'claude-sonnet-4-20250514',
+                'max_tokens': 300,
+                'messages': [{
+                    'role': 'user',
+                    'content': prompt
+                }]
+            },
+            timeout=30
+        )
+        
+        if response.status_code == 200:
+            data = response.json()
+            summary = data['content'][0]['text'].strip()
+            print(f"       ✅ Claude API Antwort erhalten!")
+            return summary
+        else:
+            print(f"       ❌ Claude API Fehler: Status {response.status_code}")
+            print(f"       📄 Response: {response.text[:200]}")
+            return "Zusammenfassung nicht verfügbar."
+            
+    except Exception as e:
+        print(f"       ❌ Zusammenfassung fehlgeschlagen: {str(e)[:100]}")
+        return "Zusammenfassung nicht verfügbar."
+
+# ============================================================================
+# NEWSLETTER LOGIK
 # ============================================================================
 
 def sammle_artikel():
-    """Sammelt Artikel aus allen RSS-Feeds und Kress"""
+    """Sammle Artikel von allen RSS-Feeds und Web-Scraping Quellen"""
     alle_artikel = []
     
-    for quelle, url in RSS_FEEDS.items():
-        print(f"📰 {quelle}...", end=" ")
-        
+    # 1. RSS-Feeds (Deutschland, UK, USA)
+    for source_name, feed_url in RSS_FEEDS.items():
+        print(f"📡 Hole Artikel von {source_name}...")
         try:
-            feed = feedparser.parse(url)
-            anzahl = len(feed.entries)
+            feed = feedparser.parse(feed_url)
+            artikel_count = 0
             
-            for entry in feed.entries:
-                artikel = {
-                    'title': entry.get('title', 'Kein Titel'),
-                    'link': entry.get('link', ''),
-                    'summary': entry.get('summary', entry.get('description', '')),
-                    'source': quelle
-                }
-                alle_artikel.append(artikel)
+            for entry in feed.entries[:20]:  # Max 20 pro Feed
+                titel = entry.get('title', 'Kein Titel')
+                link = entry.get('link', '')
+                beschreibung = entry.get('summary', entry.get('description', ''))
+                
+                # Bereinige HTML aus Beschreibung
+                if beschreibung:
+                    soup = BeautifulSoup(beschreibung, 'html.parser')
+                    beschreibung = soup.get_text(separator=' ', strip=True)
+                
+                # Extrahiere Keywords
+                keywords = []
+                if beschreibung:
+                    words = beschreibung.lower().split()
+                    keywords = [w for w in words if len(w) > 5][:10]
+                
+                alle_artikel.append({
+                    'source': source_name,
+                    'title': titel,
+                    'link': link,
+                    'description': beschreibung,
+                    'keywords': keywords,
+                    'score': 5  # Default
+                })
+                artikel_count += 1
             
-            print(f"✅ {anzahl} Artikel")
-            time.sleep(0.5)
+            print(f"   ✅ {artikel_count} Artikel gefunden\n")
+            time.sleep(1)
             
         except Exception as e:
-            print(f"❌ Fehler: {e}")
+            print(f"   ❌ Fehler bei {source_name}: {e}\n")
     
-    # Kress Artikel hinzufügen
+    # 2. Web-Scraping Quellen - Deutschland (kress, meedia, turi2)
+    print("="*70)
+    print("🌐 WEB-SCRAPING DEUTSCHE QUELLEN")
+    print("="*70 + "\n")
+    
     kress_artikel = hole_kress_artikel()
-    alle_artikel.extend(kress_artikel)
+    if kress_artikel:
+        alle_artikel.extend(kress_artikel)
     
-    print(f"\n✅ Gesamt: {len(alle_artikel)} Artikel gesammelt\n")
+    meedia_artikel = hole_meedia_artikel()
+    if meedia_artikel:
+        alle_artikel.extend(meedia_artikel)
+    
+    turi2_artikel = hole_turi2_artikel()
+    if turi2_artikel:
+        alle_artikel.extend(turi2_artikel)
+    
     return alle_artikel
 
-# ============================================================================
-# INTELLIGENTE BESCHREIBUNG + ZUSAMMENFASSUNG
-# ============================================================================
-
-def get_best_description(article):
-    """
-    Holt die beste verfügbare Beschreibung für einen Artikel
-    Verwendet 3-stufige Strategie
-    """
-    # 1. RSS Description (wenn gut genug)
-    rss_desc = article.get('summary', '')
-    if len(rss_desc) > 150:
-        return rss_desc
+def verarbeite_artikel(artikel_liste):
+    """Bewerte Artikel und erstelle Zusammenfassungen"""
     
-    # 2. Versuche Volltext zu laden
-    url = article.get('link', '')
-    if url:
-        full_text = fetch_full_article(url)
+    print(f"\n🤖 BEWERTE {len(artikel_liste)} ARTIKEL MIT CLAUDE")
+    print("="*70)
+    
+    # Batch-Bewertung
+    scores = bewerte_artikel_mit_claude(artikel_liste)
+    
+    if len(scores) == len(artikel_liste):
+        for artikel, score in zip(artikel_liste, scores):
+            artikel['original_score'] = score
+            artikel['score'] = score
+    
+    # Wende Learning Boosts an und zeige Ergebnisse
+    relevante_artikel = []
+    
+    for idx, artikel in enumerate(artikel_liste, 1):
+        # Zeige Artikel
+        print(f"\n[{idx}] {artikel['source']}: {artikel['title'][:60]}...")
+        
+        # Learning Boost
+        original_score = artikel['score']
+        artikel['score'] = apply_learning_boost(
+            artikel['score'],
+            artikel['source'],
+            artikel['title'],
+            artikel['keywords']
+        )
+        
+        # Entscheidung
+        if artikel['score'] >= 7:
+            print(f"   ✅ Score: {artikel['score']}/10 - RELEVANT!")
+            relevante_artikel.append(artikel)
+        else:
+            print(f"   ⏭️ Score: {artikel['score']}/10 - übersprungen")
+    
+    # JETZT DER WICHTIGE TEIL: ZUSAMMENFASSUNGEN ERSTELLEN!
+    print(f"\n\n📝 ERSTELLE ZUSAMMENFASSUNGEN FÜR {len(relevante_artikel)} RELEVANTE ARTIKEL")
+    print("="*70)
+    
+    for idx, artikel in enumerate(relevante_artikel, 1):
+        print(f"\n[{idx}/{len(relevante_artikel)}] {artikel['title'][:60]}...")
+        
+        # 2-Stufen Web-Fetching Strategie
+        # WICHTIG: IMMER den kompletten Artikel laden, niemals RSS-Beschreibung als Ersatz verwenden!
+        full_text = None
+        
+        # Stufe 1: Lade IMMER Volltext von Original-URL
+        print(f"       🌐 Lade vollständigen Artikel von URL...")
+        full_text = fetch_full_article(artikel['link'])
+        
         if full_text and len(full_text) > 200:
-            return full_text
-    
-    # 3. Brave Search Fallback
-    if BRAVE_SEARCH_API_KEY:
-        title = article.get('title', '')
-        context = search_web_for_context(title, rss_desc)
-        if context:
-            return context
-    
-    # Fallback: Nutze was da ist
-    return rss_desc if rss_desc else "Keine Beschreibung verfügbar"
-
-def score_and_summarize_article(article, source_name, max_retries=2):
-    """
-    Bewertet Artikel UND erstellt Zusammenfassung in EINEM API-Call
-    Wendet danach Learning Rules an
-    
-    Args:
-        article: Artikel-Dictionary
-        source_name: Name der Quelle
-        max_retries: Maximale Anzahl Wiederholungsversuche bei Fehlern
-    """
-    title = article.get('title', 'Kein Titel')
-    
-    # Hole beste Beschreibung
-    description = get_best_description(article)
-    
-    # Falls immer noch zu kurz, erwähne das
-    if len(description) < 100:
-        print(f"      ⚠️ Sehr kurze Beschreibung ({len(description)} Zeichen)")
-    
-    # Bereinige und kürze den Inhalt um API-Fehler zu vermeiden
-    # Entferne problematische Zeichen
-    description_clean = description.replace('\x00', '').replace('\r', ' ')
-    
-    # Kürze auf sichere Länge (2000 statt 2500 Zeichen)
-    description_clean = description_clean[:2000]
-    
-    prompt = f"""Bewerte diesen TV/Medien-Artikel für ein deutsches TV-Produktionsunternehmen UND erstelle eine Zusammenfassung.
-
-Titel: {title}
-Quelle: {source_name}
-Inhalt: {description_clean}
-
-**AUFGABE 1 - RELEVANZ-BEWERTUNG (Score 1-10):**
-- Hohe Relevanz (8-10): Erfolgreiche TV-Formate mit hohen Quoten, neue Formate die getestet/verkauft werden, Format-Deals zwischen Produktionsfirmen und Sendern/Streamern, Streaming-Plattformen die Content suchen, wichtige Personal-Entscheidungen, Format-Adaptionen für verschiedene Märkte
-- Mittlere Relevanz (5-7): Allgemeine TV-Trends, Branchen-News, neue Shows ohne Quoten-Daten
-- Geringe Relevanz (1-4): Reine Politik, Wirtschafts-News ohne TV-Bezug, Celebrity-Gossip, reine Technik-News
-
-**AUFGABE 2 - ZUSAMMENFASSUNG:**
-Erstelle eine prägnante deutsche Zusammenfassung (2-3 Sätze, max 200 Zeichen) die die Kernaussage des Artikels wiedergibt.
-
-Antworte NUR mit JSON in diesem EXAKTEN Format:
-{{"score": <1-10>, "reasoning": "<kurze Begründung>", "summary": "<deutsche Zusammenfassung>"}}"""
-
-    # Retry-Logik für robustere API-Calls
-    for attempt in range(max_retries + 1):
-        try:
-            message = client.messages.create(
-                model="claude-sonnet-4-20250514",
-                max_tokens=400,
-                messages=[{"role": "user", "content": prompt}]
+            print(f"       ✅ Artikel geladen: {len(full_text)} Zeichen")
+        else:
+            print(f"       ⚠️ Volltext konnte nicht geladen werden (Paywall/Login?)")
+            
+            # Stufe 2: Brave Search Fallback nur bei Fehler
+            print(f"       🔍 Versuche Web-Recherche als Fallback...")
+            web_context = search_web_for_context(artikel['title'], artikel['description'])
+            
+            if web_context:
+                full_text = web_context
+                print(f"       ✅ Kontext-Recherche erfolgreich: {len(full_text)} Zeichen")
+            else:
+                # Letzter Ausweg: RSS-Beschreibung
+                full_text = artikel['description']
+                print(f"       ⚠️ Fallback auf RSS-Beschreibung: {len(full_text)} Zeichen")
+        
+        # JETZT: Erstelle IMMER Zusammenfassung mit Claude!
+        if full_text and len(full_text) >= 50:
+            print(f"       🤖 Erstelle Zusammenfassung mit Claude...")
+            print(f"       📊 Text-Länge: {len(full_text)} Zeichen")
+            print(f"       📝 Erste 200 Zeichen: {full_text[:200]}...")
+            
+            artikel['summary'] = erstelle_zusammenfassung_mit_claude(
+                artikel['title'],
+                artikel['link'],
+                full_text
             )
             
-            response_text = message.content[0].text.strip()
-            
-            # Entferne Markdown Code-Blocks falls vorhanden
-            if response_text.startswith('```'):
-                # Entferne ```json am Anfang und ``` am Ende
-                response_text = response_text.replace('```json', '').replace('```', '').strip()
-            
-            result = json.loads(response_text)
-            
-            base_score = result.get('score', 0)
-            reasoning = result.get('reasoning', 'Keine Begründung')
-            summary = result.get('summary', 'Keine Zusammenfassung verfügbar')
-            
-            # ========================================
-            # WENDE LEARNING RULES AN!
-            # ========================================
-            adjusted_score, applied_rules = apply_learning_rules(title, source_name, base_score)
-            
-            # Erweitere Reasoning wenn Regeln angewendet wurden
-            if applied_rules:
-                rules_info = []
-                for rule in applied_rules:
-                    if 'theme' in rule:
-                        rules_info.append(f"{rule['theme']} ({rule['adjustment']:+d})")
-                    elif 'source' in rule:
-                        rules_info.append(f"{rule['source']} ({rule['adjustment']:+d})")
-                
-                reasoning += f" [Learning: {base_score}→{adjusted_score}: {', '.join(rules_info)}]"
-                print(f"      🎓 Learning: {base_score} → {adjusted_score}")
-            
-            return adjusted_score, reasoning, summary
-            
-        except json.JSONDecodeError as e:
-            print(f"      ❌ JSON Parse Error: {e}")
-            print(f"      Response (first 300 chars): {response_text[:300]}")
-            
-            # Fallback: Versuche trotzdem einen Score zu extrahieren
-            try:
-                score_match = re.search(r'"score"\s*:\s*(\d+)', response_text)
-                if score_match:
-                    fallback_score = int(score_match.group(1))
-                    print(f"      ⚠️ Fallback Score extrahiert: {fallback_score}")
-                    return fallback_score, "Parsing fehlgeschlagen, Fallback verwendet", "Zusammenfassung nicht verfügbar"
-            except:
-                pass
-            
-            return 0, f"Fehler: Ungültige Antwort", "Zusammenfassung nicht verfügbar"
-            
-        except Exception as e:
-            error_message = str(e)
-            
-            # Check ob es ein 500 Fehler ist
-            if '500' in error_message or 'Internal server error' in error_message:
-                if attempt < max_retries:
-                    print(f"      ⚠️ API 500 Error (Versuch {attempt + 1}/{max_retries + 1}), warte 2s und versuche erneut...")
-                    time.sleep(2)
-                    continue
-                else:
-                    print(f"      ❌ API Error nach {max_retries + 1} Versuchen: {e}")
-                    # Fallback: Gib mittleren Score basierend auf Titel
-                    fallback_score = 5  # Neutral
-                    return fallback_score, f"API-Fehler nach Retries: {error_message[:100]}", "Bewertung nicht möglich"
+            if artikel['summary'] and artikel['summary'] != "Zusammenfassung nicht verfügbar.":
+                print(f"       ✅ Zusammenfassung erstellt: {artikel['summary'][:100]}...")
             else:
-                # Andere Fehler sofort zurückgeben
-                print(f"      ❌ API Error: {e}")
-                return 0, f"Fehler: {error_message[:100]}", "Zusammenfassung nicht verfügbar"
-    
-    # Sollte nie hierher kommen, aber als Fallback
-    return 0, "Unerwarteter Fehler", "Zusammenfassung nicht verfügbar"
-
-# ============================================================================
-# ARTIKEL-VERARBEITUNG
-# ============================================================================
-
-def verarbeite_artikel(artikel_liste):
-    """Bewerte und fasse alle Artikel zusammen"""
-    relevante_artikel = []
-    artikel_mit_score = []
-    
-    # Zähler für Statistik
-    total = len(artikel_liste)
-    processed = 0
-    
-    for artikel in artikel_liste:
-        processed += 1
-        quelle = artikel['source']
-        titel = artikel['title']
-        
-        print(f"[{processed}/{total}] {quelle}: {titel[:50]}...")
-        
-        # Score + Zusammenfassung in einem Call
-        score, reasoning, summary = score_and_summarize_article(artikel, quelle)
-        
-        artikel['score'] = score
-        artikel['reasoning'] = reasoning
-        artikel['summary'] = summary
-        
-        print(f"      Score: {score}/10")
-        if score > 0:
-            print(f"      ✅ {summary[:80]}...")
-        print()
-        
-        artikel_mit_score.append(artikel)
-        
-        # Nur Score >= 7 als relevant
-        if score >= 7:
-            relevante_artikel.append(artikel)
+                print(f"       ⚠️ Claude gab keine gültige Zusammenfassung zurück!")
+        else:
+            if not full_text:
+                print(f"       ❌ Keine Zusammenfassung möglich - kein Text geladen!")
+            else:
+                print(f"       ❌ Keine Zusammenfassung möglich - Text zu kurz: {len(full_text)} Zeichen")
+            artikel['summary'] = "Zusammenfassung nicht verfügbar - Artikel konnte nicht geladen werden."
         
         time.sleep(0.5)  # Rate limiting
-    
-    # Sortiere nach Score
-    relevante_artikel.sort(key=lambda x: x['score'], reverse=True)
-    
-    print(f"\n📊 ERGEBNIS:")
-    print(f"   • {len(relevante_artikel)} relevante Artikel (Score ≥ 7)")
-    print(f"   • {len([a for a in artikel_mit_score if 5 <= a['score'] < 7])} mittlere Relevanz (Score 5-6)")
-    print(f"   • {len([a for a in artikel_mit_score if a['score'] < 5])} niedrige Relevanz (Score < 5)")
     
     return relevante_artikel
 
 # ============================================================================
-# JSON SPEICHERUNG
+# SORTIERUNG NACH REGION
+# ============================================================================
+
+def sortiere_nach_region(artikel_liste):
+    """
+    Sortiere Artikel nach Region: 🇩🇪 Deutschland → 🇬🇧 UK → 🇺🇸 USA
+    Innerhalb jeder Region alphabetisch nach Quelle
+    """
+    
+    # Definiere Regionen und ihre Quellen
+    regionen = {
+        'deutschland': ['DWDL', 'Horizont Medien', 'kress', 'meedia', 'turi2'],
+        'uk': ['Guardian Media'],
+        'usa': ['Variety', 'Deadline', 'Hollywood Reporter']
+    }
+    
+    # Sortiere in drei Gruppen
+    deutschland = []
+    uk = []
+    usa = []
+    
+    for artikel in artikel_liste:
+        source = artikel['source']
+        
+        if source in regionen['deutschland']:
+            deutschland.append(artikel)
+        elif source in regionen['uk']:
+            uk.append(artikel)
+        elif source in regionen['usa']:
+            usa.append(artikel)
+    
+    # Sortiere jede Gruppe alphabetisch nach Quelle
+    deutschland.sort(key=lambda x: x['source'])
+    uk.sort(key=lambda x: x['source'])
+    usa.sort(key=lambda x: x['source'])
+    
+    # Kombiniere: Deutschland → UK → USA
+    return deutschland + uk + usa
+
+# ============================================================================
+# JSON EXPORT
 # ============================================================================
 
 def speichere_als_json(artikel_liste):
-    """Speichert Artikel als JSON mit regionaler Gruppierung"""
-    datum = datetime.now().strftime('%Y-%m-%d')
-    filename = f'newsletter-{datum}.json'
+    """Speichere relevante Artikel als JSON - sortiert nach Region"""
     
-    # Gruppiere nach Region
-    deutschland = [a for a in artikel_liste if a['source'] in ['DWDL', 'Horizont Medien', 'kress']]
-    uk = [a for a in artikel_liste if a['source'] in ['Guardian Media']]
-    usa = [a for a in artikel_liste if a['source'] in ['Variety', 'Deadline', 'Hollywood Reporter']]
+    heute = datetime.now().strftime('%Y-%m-%d')
+    filename = f'newsletter-{heute}.json'
+    
+    # Sortiere nach Region vor dem Export!
+    artikel_liste_sortiert = sortiere_nach_region(artikel_liste)
     
     data = {
-        'date': datum,
-        'total_articles': len(artikel_liste),
-        'regions': {
-            'deutschland': {
-                'count': len(deutschland),
-                'articles': deutschland
-            },
-            'uk': {
-                'count': len(uk),
-                'articles': uk
-            },
-            'usa': {
-                'count': len(usa),
-                'articles': usa
-            }
-        },
+        'date': heute,
         'articles': []
     }
     
-    # Flache Liste für Kompatibilität
-    for artikel in artikel_liste:
+    for artikel in artikel_liste_sortiert:
         data['articles'].append({
             'source': artikel['source'],
             'title': artikel['title'],
@@ -783,16 +955,11 @@ def versende_newsletter(artikel_liste):
 def main():
     print("\n" + "="*70)
     print("🎬 ZOO MEDIEN NEWSLETTER - INTELLIGENTE AUTOMATISIERUNG")
-    print("🧠 Themen-basiertes Learning System")
+    if LEARNING_RULES:
+        print("🎓 Learning Rules aktiv")
     print("🌐 Intelligentes Web-Fetching + Recherche-Fallback")
     print("📝 Mit Zusammenfassungen!")
     print("="*70 + "\n")
-    
-    # Lade Learning Rules
-    has_rules = load_learning_rules()
-    if not has_rules:
-        print("ℹ️ Noch keine Learning Rules vorhanden")
-    print()
     
     print("🤖 SAMMLE UND BEWERTE ARTIKEL")
     print("="*70)
@@ -825,12 +992,6 @@ def main():
     print(f"✅ {len(EMPFAENGER)}/{len(EMPFAENGER)} Emails gesendet")
     print(f"📄 Datei: {filename}")
     print(f"🌐 Web: {NEWSLETTER_URL}/?date={datetime.now().strftime('%Y-%m-%d')}")
-    
-    # Zeige Learning Stats wenn vorhanden
-    if LEARNING_RULES:
-        print(f"\n🧠 Learning System:")
-        print(f"   • {len(LEARNING_RULES)} aktive Regeln angewendet")
-    
     print("="*70 + "\n")
 
 if __name__ == "__main__":
