@@ -38,13 +38,20 @@ RSS_FEEDS = {
     'Guardian Media': 'https://www.theguardian.com/media/rss'
 }
 
+# Web-Scraping Quellen (ohne RSS)
+WEB_SCRAPING_SOURCES = {
+    'kress': 'https://kress.de/news',
+    'meedia': 'https://meedia.de',
+    'turi2': 'https://turi2.de'
+}
+
 # Empfänger - Alle Team-Mitglieder
 EMPFAENGER = {
     'Tom': 'tom@zooproductions.de',
-    'Kat': 'kat@zooproductions.de',
-    'Dom': 'dom@zooproductions.de',
-    'Aurelia': 'aurelia@zooproductions.de',
-    'Christina': 'christina@zooproductions.de'
+    #'Kat': 'kat@zooproductions.de',
+    #'Dom': 'dom@zooproductions.de',
+    #'Aurelia': 'aurelia@zooproductions.de',
+    #'Christina': 'christina@zooproductions.de'
 }
 
 # ============================================================================
@@ -200,6 +207,205 @@ def search_web_for_context(title, description):
         return None
 
 # ============================================================================
+# KRESS.DE WEB-SCRAPING
+# ============================================================================
+
+def hole_kress_artikel():
+    """
+    Scrape aktuelle Artikel von kress.de/news
+    Gibt Artikel im gleichen Format wie RSS-Feeds zurück
+    """
+    artikel_liste = []
+    
+    try:
+        print(f"🌐 Scrape Artikel von kress.de...")
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        
+        response = requests.get('https://kress.de/news', headers=headers, timeout=10)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.content, 'html.parser')
+        
+        # Finde Artikel-Container
+        artikel_texte = soup.find_all('p')
+        
+        artikel_count = 0
+        for p in artikel_texte[:20]:
+            text = p.get_text(strip=True)
+            
+            if len(text) < 50:
+                continue
+            
+            link_tag = p.find_parent().find('a') if p.find_parent() else None
+            if not link_tag:
+                link_tag = p.find('a')
+            
+            link = ''
+            if link_tag and link_tag.get('href'):
+                href = link_tag.get('href')
+                if href.startswith('http'):
+                    link = href
+                elif href.startswith('/'):
+                    link = f"https://kress.de{href}"
+            
+            titel = text[:100] + "..." if len(text) > 100 else text
+            
+            words = text.lower().split()
+            keywords = [w for w in words if len(w) > 5][:10]
+            
+            artikel_liste.append({
+                'source': 'kress',
+                'title': titel,
+                'link': link if link else 'https://kress.de/news',
+                'description': text,
+                'keywords': keywords,
+                'score': 5
+            })
+            
+            artikel_count += 1
+            if artikel_count >= 15:
+                break
+        
+        print(f"   ✅ {artikel_count} Artikel von kress.de gefunden\n")
+        return artikel_liste
+        
+    except Exception as e:
+        print(f"   ❌ Fehler beim Scrapen von kress.de: {e}\n")
+        return []
+
+def hole_meedia_artikel():
+    """
+    Scrape aktuelle Artikel von meedia.de
+    """
+    artikel_liste = []
+    
+    try:
+        print(f"🌐 Scrape Artikel von meedia.de...")
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        
+        response = requests.get('https://meedia.de', headers=headers, timeout=10)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.content, 'html.parser')
+        
+        # Finde Artikel-Absätze
+        artikel_texte = soup.find_all('p')
+        
+        artikel_count = 0
+        seen_texts = set()  # Verhindere Duplikate
+        
+        for p in artikel_texte[:30]:
+            text = p.get_text(strip=True)
+            
+            if len(text) < 80 or text in seen_texts:
+                continue
+            
+            seen_texts.add(text)
+            
+            # Suche nach Links
+            link = 'https://meedia.de'
+            link_tag = p.find_parent('a') if p.find_parent() else p.find('a')
+            if link_tag and link_tag.get('href'):
+                href = link_tag.get('href')
+                if href.startswith('http'):
+                    link = href
+                elif href.startswith('/'):
+                    link = f"https://meedia.de{href}"
+            
+            titel = text[:100] + "..." if len(text) > 100 else text
+            
+            words = text.lower().split()
+            keywords = [w for w in words if len(w) > 5][:10]
+            
+            artikel_liste.append({
+                'source': 'meedia',
+                'title': titel,
+                'link': link,
+                'description': text,
+                'keywords': keywords,
+                'score': 5
+            })
+            
+            artikel_count += 1
+            if artikel_count >= 15:
+                break
+        
+        print(f"   ✅ {artikel_count} Artikel von meedia.de gefunden\n")
+        return artikel_liste
+        
+    except Exception as e:
+        print(f"   ❌ Fehler beim Scrapen von meedia.de: {e}\n")
+        return []
+
+def hole_turi2_artikel():
+    """
+    Scrape aktuelle Artikel von turi2.de
+    """
+    artikel_liste = []
+    
+    try:
+        print(f"🌐 Scrape Artikel von turi2.de...")
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        
+        response = requests.get('https://turi2.de', headers=headers, timeout=10)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.content, 'html.parser')
+        
+        # turi2 hat oft Artikel in divs oder article tags
+        artikel_elemente = soup.find_all(['article', 'div'], limit=30)
+        
+        artikel_count = 0
+        seen_texts = set()
+        
+        for element in artikel_elemente:
+            # Finde Text
+            text = element.get_text(strip=True)
+            
+            if len(text) < 80 or text in seen_texts:
+                continue
+            
+            seen_texts.add(text)
+            
+            # Finde Link
+            link = 'https://turi2.de'
+            link_tag = element.find('a')
+            if link_tag and link_tag.get('href'):
+                href = link_tag.get('href')
+                if href.startswith('http'):
+                    link = href
+                elif href.startswith('/'):
+                    link = f"https://turi2.de{href}"
+            
+            titel = text[:100] + "..." if len(text) > 100 else text
+            
+            words = text.lower().split()
+            keywords = [w for w in words if len(w) > 5][:10]
+            
+            artikel_liste.append({
+                'source': 'turi2',
+                'title': titel,
+                'link': link,
+                'description': text,
+                'keywords': keywords,
+                'score': 5
+            })
+            
+            artikel_count += 1
+            if artikel_count >= 15:
+                break
+        
+        print(f"   ✅ {artikel_count} Artikel von turi2.de gefunden\n")
+        return artikel_liste
+        
+    except Exception as e:
+        print(f"   ❌ Fehler beim Scrapen von turi2.de: {e}\n")
+        return []
+
+# ============================================================================
 # CLAUDE API - BEWERTUNG
 # ============================================================================
 
@@ -328,9 +534,10 @@ Antworte NUR mit der Zusammenfassung, keine Einleitung."""
 # ============================================================================
 
 def sammle_artikel():
-    """Sammle Artikel von allen RSS-Feeds"""
+    """Sammle Artikel von allen RSS-Feeds und Web-Scraping Quellen"""
     alle_artikel = []
     
+    # 1. RSS-Feeds
     for source_name, feed_url in RSS_FEEDS.items():
         print(f"📡 Hole Artikel von {source_name}...")
         try:
@@ -368,6 +575,19 @@ def sammle_artikel():
             
         except Exception as e:
             print(f"   ❌ Fehler bei {source_name}: {e}\n")
+    
+    # 2. Web-Scraping Quellen (kress, meedia, turi2)
+    kress_artikel = hole_kress_artikel()
+    if kress_artikel:
+        alle_artikel.extend(kress_artikel)
+    
+    meedia_artikel = hole_meedia_artikel()
+    if meedia_artikel:
+        alle_artikel.extend(meedia_artikel)
+    
+    turi2_artikel = hole_turi2_artikel()
+    if turi2_artikel:
+        alle_artikel.extend(turi2_artikel)
     
     return alle_artikel
 
