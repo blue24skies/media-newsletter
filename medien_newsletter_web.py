@@ -695,21 +695,64 @@ def verarbeite_artikel(artikel_liste):
     return relevante_artikel
 
 # ============================================================================
+# SORTIERUNG NACH REGION
+# ============================================================================
+
+def sortiere_nach_region(artikel_liste):
+    """
+    Sortiere Artikel nach Region: 🇩🇪 Deutschland → 🇬🇧 UK → 🇺🇸 USA
+    Innerhalb jeder Region alphabetisch nach Quelle
+    """
+    
+    # Definiere Regionen und ihre Quellen
+    regionen = {
+        'deutschland': ['DWDL', 'Horizont Medien', 'kress', 'meedia', 'turi2'],
+        'uk': ['Guardian Media'],
+        'usa': ['Variety', 'Deadline', 'Hollywood Reporter']
+    }
+    
+    # Sortiere in drei Gruppen
+    deutschland = []
+    uk = []
+    usa = []
+    
+    for artikel in artikel_liste:
+        source = artikel['source']
+        
+        if source in regionen['deutschland']:
+            deutschland.append(artikel)
+        elif source in regionen['uk']:
+            uk.append(artikel)
+        elif source in regionen['usa']:
+            usa.append(artikel)
+    
+    # Sortiere jede Gruppe alphabetisch nach Quelle
+    deutschland.sort(key=lambda x: x['source'])
+    uk.sort(key=lambda x: x['source'])
+    usa.sort(key=lambda x: x['source'])
+    
+    # Kombiniere: Deutschland → UK → USA
+    return deutschland + uk + usa
+
+# ============================================================================
 # JSON EXPORT
 # ============================================================================
 
 def speichere_als_json(artikel_liste):
-    """Speichere relevante Artikel als JSON"""
+    """Speichere relevante Artikel als JSON - sortiert nach Region"""
     
     heute = datetime.now().strftime('%Y-%m-%d')
     filename = f'newsletter-{heute}.json'
+    
+    # Sortiere nach Region vor dem Export!
+    artikel_liste_sortiert = sortiere_nach_region(artikel_liste)
     
     data = {
         'date': heute,
         'articles': []
     }
     
-    for artikel in artikel_liste:
+    for artikel in artikel_liste_sortiert:
         data['articles'].append({
             'source': artikel['source'],
             'title': artikel['title'],
@@ -935,7 +978,7 @@ def main():
         print("\n⚠️ Keine relevanten Artikel heute (Score < 7)")
         return
     
-    # 3. Speichere JSON
+    # 3. Speichere JSON (MIT REGIONALER SORTIERUNG!)
     print("\n")
     filename = speichere_als_json(relevante_artikel)
     
