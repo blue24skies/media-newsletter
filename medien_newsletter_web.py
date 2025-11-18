@@ -62,19 +62,64 @@ EMPFAENGER = {
 # ============================================================================
 
 def load_learning_rules():
-    """Lade die Learning Rules aus learning_rules.py falls vorhanden"""
+    """
+    Lade die Learning Rules aus learning_rules.py falls vorhanden
+    ROBUST: Unterstützt sowohl Dictionary- als auch Listen-Format
+    """
     try:
         if os.path.exists('learning_rules.py'):
             with open('learning_rules.py', 'r', encoding='utf-8') as f:
                 code = f.read()
                 local_vars = {}
                 exec(code, {}, local_vars)
+                
                 if 'LEARNING_RULES' in local_vars:
-                    print("✅ Learning Rules aktiv")
-                    return local_vars['LEARNING_RULES']
+                    rules = local_vars['LEARNING_RULES']
+                    
+                    # Prüfe Format
+                    if isinstance(rules, dict):
+                        # Neues Dictionary-Format (korrekt!)
+                        print("✅ Learning Rules aktiv (Dictionary-Format)")
+                        return rules
+                    elif isinstance(rules, list):
+                        # Altes Listen-Format - konvertiere!
+                        print("⚠️ Learning Rules im alten Listen-Format - konvertiere zu Dictionary...")
+                        return convert_list_to_dict_format(rules)
+                    else:
+                        print(f"⚠️ Unbekanntes Learning Rules Format: {type(rules)}")
+                        return {}
     except Exception as e:
         print(f"⚠️ Konnte Learning Rules nicht laden: {e}")
+        import traceback
+        traceback.print_exc()
+    
     return {}
+
+def convert_list_to_dict_format(rules_list):
+    """
+    Konvertiert altes Listen-Format zu neuem Dictionary-Format
+    Altes Format: Liste von Regel-Dictionaries
+    Neues Format: {'source_boosts': {...}, 'keyword_boosts': {...}}
+    """
+    source_boosts = {}
+    keyword_boosts = {}
+    
+    for rule in rules_list:
+        if isinstance(rule, dict):
+            regel_typ = rule.get('regel_typ', '')
+            bedingung = rule.get('bedingung', '')
+            modifier = rule.get('score_modifier', 0)
+            
+            if regel_typ == 'quelle':
+                source_boosts[bedingung] = modifier
+            elif regel_typ in ['keyword', 'keyword_paar', 'thema', 'quelle_keyword']:
+                keyword_boosts[bedingung] = modifier
+    
+    print(f"   Konvertiert: {len(source_boosts)} Quellen, {len(keyword_boosts)} Keywords")
+    return {
+        'source_boosts': source_boosts,
+        'keyword_boosts': keyword_boosts
+    }
 
 LEARNING_RULES = load_learning_rules()
 
