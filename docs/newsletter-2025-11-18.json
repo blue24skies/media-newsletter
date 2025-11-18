@@ -3,254 +3,303 @@
   "articles": [
     {
       "source": "DWDL",
+      "title": "Jan Fleischhauer macht \"Keine Talkshow\" im ZDF",
+      "link": "https://www.dwdl.de/nachrichten/104565/jan_fleischhauer_macht_keine_talkshow_im_zdf/",
+      "summary": "Das ZDF startet mit \"Keine Talkshow - Eingesperrt mit Jan Fleischhauer\" ein neues Debattenformat, das ab Freitag im Stream und kommenden Dienstag linear ausgestrahlt wird. Der Sender reagiert damit auf Kritik, konservative Stimmen zu selten abzubilden, und will das Meinungsspektrum erweitern. Das Format verzichtet bewusst auf klassische Talkshow-Elemente wie Moderation, Einspieler oder Publikum und setzt nur den \"Focus\"-Kolumnisten und einen Gast mit gegensätzlicher Meinung zu einem vorgegebenen Thema aufeinander.",
+      "score": 7
+    },
+    {
+      "source": "DWDL",
+      "title": "ARD schickt Kai Pflaume und Knossi auf \"Hochzeitsreise\"",
+      "link": "https://www.dwdl.de/nachrichten/104560/ard_schickt_kai_pflaume_und_knossi_auf_hochzeitsreise/",
+      "summary": "Die ARD startet am 13. Dezember die neue Doku-Reihe \"Die Braut, ihr Mann, die Eltern & Wir! Kai und Knossi auf Hochzeitsreise\" mit Kai Pflaume und Jens Knossalla in der Mediathek, gefolgt von einer linearen Ausstrahlung ab 23. Dezember. Die fünf 45-minütigen Folgen, produziert von Flow Media Company für NDR und HR, zeigen das Moderatoren-Duo bei Hochzeitsritualen in Mexiko, Ghana, Indien, der Mongolei und Vanuatu. Das Format nutzt die bewährte Chemie der beiden TV-Persönlichkeiten und deren kombinierte Reichweite aus klassischem Fernsehen und Social Media.",
+      "score": 8
+    },
+    {
+      "source": "DWDL",
+      "title": "Wie Beta Film und FABW bei KI ihre Kräfte bündeln wollen",
+      "link": "https://www.dwdl.de/nachrichten/104528/wie_beta_film_und_fabw_bei_ki_ihre_kraefte_buendeln_wollen/",
+      "summary": "Die Filmakademie Baden-Württemberg und Beta Film haben ein strategisches Rahmenabkommen zur gemeinsamen Entwicklung von KI-Technologien, virtueller Produktion und innovativen Ausbildungsformaten geschlossen. Ziel ist es, neue Produktionsprozesse zu erproben und den KI-Wandel in der Filmbranche aktiv mitzugestalten, anstatt ihn nur passiv zu beobachten. Die Kooperation soll Studierenden experimentellen Freiraum bieten und sie gleichzeitig nah an reale Produktionen heranführen.",
+      "score": 9
+    },
+    {
+      "source": "DWDL",
+      "title": "ZDF zieht Streaming-Start von \"Ku'damm 77\" vor",
+      "link": "https://www.dwdl.de/nachrichten/104559/zdf_zieht_streamingstart_von_kudamm_77_vor/",
+      "summary": "Das ZDF zieht den Streaming-Start der vierten \"Ku'damm\"-Staffel um drei Tage vor: \"Ku'damm 77\" wird bereits ab dem 27. Dezember in der ZDFmediathek verfügbar sein, während die lineare Ausstrahlung planmäßig vom 12.-14. Januar erfolgt. Die neue Staffel macht einen großen Zeitsprung in die späten 1970er Jahre und wird von Annette Hess geschrieben sowie von Maurice Hübner inszeniert.",
+      "score": 8
+    },
+    {
+      "source": "DWDL",
+      "title": "Auch RTL Group senkt Umsatz- und Gewinnprognose",
+      "link": "https://www.dwdl.de/nachrichten/104556/auch_rtl_group_senkt_umsatz_und_gewinnprognose/",
+      "summary": "Die RTL Group musste ihre Umsatz- und Gewinnprognose für 2025 deutlich nach unten korrigieren, nachdem der Konzernumsatz in den ersten neun Monaten um 2,2% auf 4,1 Milliarden Euro sank. Hauptursachen sind rückläufige TV-Werbeerlöse (-7,4%) und schwächere Performance bei Fremantle (-5,1%), wobei auch das starke Wachstum im digitalen Werbegeschäft (+31,7%) die Verluste nicht kompensieren konnte. Der neue CEO Clément Schwebig übernimmt Mitte 2026 ein Unternehmen in einer schwierigen Marktlage mit anhaltender Werbeschwäche.",
+      "score": 9
+    },
+    {
+      "source": "DWDL",
       "title": "Drei deutsche Produktionen für Rose d'Or nominiert",
       "link": "https://www.dwdl.de/nachrichten/104555/drei_deutsche_produktionen_fuer_rose_dor_nominiert/",
-      "summary": "Drei deutsche Produktionen sind für die 64. Rose d'Or am 1. Dezember nominiert: Das ZDF mit Jan Böhmermanns \"Lass dich überwachen\" (Studio Entertainment) und der erfolgreichen Serie \"Crystal Wall\" (Soap/Telenovela), sowie Vox mit \"Kitchen Impossible\" (Competition Reality). Insgesamt konkurrieren 78 Formate aus 15 Ländern um die traditionsreiche Fernsehauszeichnung, während Netflix' \"Adolescence\" bereits vorab die Goldene Rose erhält.",
-      "score": 8
+      "summary": "Drei deutsche Produktionen sind für die Rose d'Or 2025 nominiert: Das ZDF konkurriert mit Jan Böhmermanns \"Lass dich überwachen\" (Studio Entertainment) und der erfolgreichen Streaming-Serie \"Crystal Wall\" (Soap/Telenovela), während Vox mit \"Kitchen Impossible\" in der Kategorie Competition Reality vertreten ist. Insgesamt stehen 78 Formate aus 15 Ländern zur Auswahl, wobei Netflix' \"Adolescence\" bereits vorab mit der Goldenen Rose ausgezeichnet wird.",
+      "score": 7
     },
     {
       "source": "DWDL",
       "title": "\"Sketch History\" meldet sich noch vor Weihnachten zurück",
       "link": "https://www.dwdl.de/nachrichten/104554/sketch_history_meldet_sich_noch_vor_weihnachten_zurueck/",
-      "summary": "Das ZDF bringt nach über sechs Jahren Pause zehn neue Folgen \"Sketch History\" heraus, die ab 21. Dezember in der Mediathek und am 28. Dezember ab 20:15 Uhr linear bei ZDFneo ausgestrahlt werden. Die vierte Staffel behandelt historische Persönlichkeiten wie Einstein, Bill Gates, Frida Kahlo und deutsche Politiker in gewohnt satirischer Manier. Produziert wird von Cologne Film & Entertainment unter der Regie von Erik Haffner und David Gromer mit einem Ensemble aus bekannten Darstellern wie Matthias Matschke und Jasmin Schwiers.",
+      "summary": "Das ZDF bringt nach über sechs Jahren Pause die vierte Staffel von \"Sketch History\" mit zehn neuen Folgen zurück, die ab 21. Dezember in der Mediathek und am 28. Dezember ab 20:15 Uhr bei ZDFneo linear ausgestrahlt werden. Die Comedy-Serie behandelt historische Themen wie ABBA, Einstein, Bill Gates und Ted Bundy, produziert von Cologne Film & Entertainment unter der Regie von Erik Haffner und David Gromer.",
       "score": 7
     },
     {
       "source": "DWDL",
       "title": "ZDFneo verrät Details zu neuer Eigenproduktion \"Husk\"",
       "link": "https://www.dwdl.de/nachrichten/104553/zdfneo_verraet_details_zu_neuer_eigenproduktion_husk/",
-      "summary": "ZDFneo produziert die sechsteilige Science-Fiction-Serie \"Husk\" (U5 Filmproduktion), in der Luna Jordan eine junge Frau spielt, die mithilfe von Nanobots das Bewusstsein in den Körper ihrer komatösen Schwester transferiert. Die Serie thematisiert ethische Konflikte um die Kommerzialisierung dieser bahnbrechenden Technologie, während die Dreharbeiten noch bis Januar 2026 laufen.",
+      "summary": "ZDFneo produziert die neue sechsteilige Science-Fiction-Serie \"Husk\" über eine Technologie, die mittels Nanobots Bewusstsein zwischen Körpern transferieren kann - entwickelt, um eine komatöse Schwester zu retten. Die Serie mit Luna Jordan, Alicia von Rittberg und Carlo Ljubek thematisiert ethische Grenzen moderner Neurotechnologie und wird von U5 Filmproduktion unter der Regie von Mia Meyer und Tim Trachte realisiert. Die Dreharbeiten laufen voraussichtlich bis Januar 2026.",
       "score": 8
     },
     {
       "source": "DWDL",
       "title": "\"Watzmann ermittelt\" meldet sich mit Doppelschlag zurück",
       "link": "https://www.dwdl.de/nachrichten/104549/watzmann_ermittelt_meldet_sich_mit_doppelschlag_zurueck/",
-      "summary": "Das Erste bringt am 7. Januar 2025 die Vorabendserie \"Watzmann ermittelt\" mit zwölf neuen Folgen zurück und startet erstmals mit einem Primetime-Film \"Die Tränen der Madonna\" um 20:15 Uhr. Der von Grimme-Preisträgerin Sabine Derflinger inszenierte Film dreht sich um den Mord an einem Antiquitätenhändler und ein gestohlenes wertvolles Gemälde, während das Ermittlerteam um Andreas Giebel in Lebensgefahr gerät. Die regulären Folgen laufen ab dem 7. Januar mittwochs um 18:50 Uhr, der Primetime-Film ist bereits ab 26. Dezember in der ARD-Mediathek verfügbar.",
+      "summary": "Das Erste bringt \"Watzmann ermittelt\" am 7. Januar 2025 mit zwölf neuen Vorabendfolgen zurück und startet erstmals mit einem Primetime-Film \"Die Tränen der Madonna\" um 20:15 Uhr. Der von Grimme-Preisträgerin Sabine Derflinger inszenierte Film handelt von einem ermordeten Antiquitätenhändler und einem gestohlenen wertvollen Gemälde, wobei das Ermittlerteam um Andreas Giebel in Lebensgefahr gerät. Die Serie kehrt damit auf ihren angestammten Mittwoch-Sendeplatz um 18:50 Uhr zurück.",
       "score": 7
     },
     {
       "source": "DWDL",
       "title": "ProSieben startet wieder mit Joko und Klaas ins Jahr",
       "link": "https://www.dwdl.de/nachrichten/104547/prosieben_startet_wieder_mit_joko_und_klaas_ins_jahr/",
-      "summary": "ProSieben setzt auch 2026 auf eine Neujahrs-Gala von \"Joko & Klaas gegen ProSieben\" am 1. Januar um 20:15 Uhr, moderiert von Steven Gätjen. Bei Gewinn winkt den Entertainern mehr als die üblichen 15 Minuten Sendezeit (Details noch offen), bei Niederlage müssen sie ProSieben-Aufgaben erfüllen - nachdem sie 2025 eine einwöchige Senderumbenennung in \"ProAcht\" erspielt hatten. Ab Mittwoch startet zunächst eine neue reguläre Staffel mit sechs Folgen der Florida Entertainment-Produktion.",
+      "summary": "ProSieben setzt die erfolgreiche Tradition fort und plant für den 1. Januar 2026 um 20:15 Uhr eine weitere \"Neujahrs-Gala\" von \"Joko & Klaas gegen ProSieben\" mit Steven Gätjen als Moderator. Bei einem Sieg können die beiden Entertainer mehr als die üblichen 15 Minuten Sendezeit gewinnen, während bei einer Niederlage wie gewohnt eine Strafe droht - konkrete Details zu Gewinn und Aufgabe hält der Sender noch unter Verschluss. Bereits ab diesem Mittwoch startet eine neue reguläre Staffel der von Florida Entertainment produzierten Show mit sechs Folgen.",
       "score": 7
     },
     {
       "source": "DWDL",
       "title": "Disney und YouTube TV legen Streit um Verbreitung bei",
       "link": "https://www.dwdl.de/nachrichten/104543/disney_und_youtube_tv_legen_streit_um_verbreitung_bei/",
-      "summary": "Disney und YouTube TV haben nach zweiwöchigem Streit einen mehrjährigen Vertrag geschlossen, der die Disney-Sender für zehn Millionen YouTube TV-Kunden wieder verfügbar macht. Kernpunkt der Einigung ist die kostenlose Integration von \"ESPN Unlimited\" in YouTube TV, wobei die Inhalte direkt in die YouTube-App eingebettet werden, während Disney die Kontrolle über Nutzerdaten behält. Die Vereinbarung kommt rechtzeitig zum College-Football-Wochenende und sichert Disney strategisch gegen den Rückgang im Kabelbereich ab.",
-      "score": 9
+      "summary": "Disney und YouTube TV haben nach zweiwöchigem Streit einen mehrjährigen Vertrag geschlossen, der die Disney-Sender für rund 10 Millionen YouTube-TV-Kunden wieder verfügbar macht. Die Vereinbarung integriert ESPNs Premium-Dienst \"ESPN Unlimited\" kostenlos in YouTube TV, wobei die Inhalte direkt in die YouTube-TV-App eingebettet werden, während Disney die Kontrolle über Nutzerdaten behält. Der Deal kommt rechtzeitig zum College-Football-Wochenende und zeigt Disneys strategische Absicherung gegen den Rückgang im traditionellen Kabelbereich.",
+      "score": 8
     },
     {
       "source": "DWDL",
       "title": "Skuppin: \"Es muss wieder stärker ums Programm gehen\"",
       "link": "https://www.dwdl.de/nachrichten/104537/skuppin_es_muss_wieder_staerker_ums_programm_gehen/",
-      "summary": "RBB-Programmdirektor Robert Skuppin verteidigt den geplanten Stellenabbau zur Einsparung von 22 Millionen Euro bei den Gehältern, davon sollen 13 Millionen wieder in Programmetats investiert werden. Er begründet dies damit, dass der Sender zu viele Festangestellte bei zu geringen Produktionsbudgets habe und kritisiert, dass bisher immer bei den Programmetats gespart wurde statt bei der Personalstruktur. Skuppin will die interne Debatte wieder stärker auf das Programm fokussieren, um die durch die jüngere Vergangenheit frustrierte Stimmung im RBB zu verbessern.",
-      "score": 9
+      "summary": "RBB-Programmdirektor Robert Skuppin verteidigt den geplanten Stellenabbau zur Einsparung von 22 Millionen Euro bei den Gehältern, wovon 9 Millionen zur Schuldenbegleichung und 13 Millionen für Programmetats verwendet werden sollen. Er kritisiert, dass bisher konstant Personal gehalten wurde, während gleichzeitig die Programmbudgets gekürzt wurden, was zu einem Missverhältnis zwischen Mitarbeiterzahl und verfügbaren Produktionsgeldern geführt hat. Skuppin will die interne Debatte wieder stärker auf das Programm fokussieren und das Selbstwertgefühl der frustrierten Belegschaft durch bessere Wahrnehmung der eigenen Erfolge steigern.",
+      "score": 8
     },
     {
       "source": "DWDL",
       "title": "ProSieben verbannt \"Die Abrechnung\" ins Nachtprogramm",
       "link": "https://www.dwdl.de/nachrichten/104531/prosieben_verbannt_die_abrechnung_ins_nachtprogramm/",
-      "summary": "ProSieben verbannt die Reality-Formate \"Die Abrechnung - Der Promi-Showdown\" und \"Das große Promi-Büßen\" nach katastrophalen Quoten (3,5% bzw. 1,7% bei 14-49 Jahren) ins Nachtprogramm zwischen 1:15 und 5:15 Uhr. Ab kommender Woche ersetzt der Sender die Primetime-Sendeplätze durch Spielfilme wie \"Das fünfte Element\" und \"Alita Battle Angel\". Die Hoffnung liegt darauf, dass Zuschauer zur Streaming-Plattform Joyn wechseln, wo die Formate weiterhin regulär ausgestrahlt werden.",
+      "summary": "ProSieben verschiebt die Reality-Formate \"Die Abrechnung\" und \"Das große Promi-Büßen\" nach katastrophalen Quoten (3,5% bzw. 1,7% MA 14-49) ins Nachtprogramm zwischen 1:15 und 5:15 Uhr. Ab kommender Woche werden die Donnerstagabend-Sendeplätze mit Spielfilmen wie \"Das fünfte Element\" und \"Alita Battle Angel\" gefüllt, während die Formate weiterhin auf der Streaming-Plattform Joyn verfügbar bleiben.",
       "score": 7
     },
     {
       "source": "DWDL",
       "title": "\"Herrhausen\" führt ersten Schwung der DAfFNE-Nominierungen an",
       "link": "https://www.dwdl.de/nachrichten/104529/herrhausen_fuehrt_ersten_schwung_der_daffnenominierungen_an/",
-      "summary": "Die ARD-Miniserie \"Herrhausen - Der Herr des Geldes\" führt die ersten DAfFNE-Nominierungen 2026 mit drei Nominierungen in den Kategorien Bildgestaltung, Produktion und Casting an. Die Auszeichnungen der Deutschen Akademie für Fernsehen werden am 20. Februar 2026 in Berlin verliehen, wobei die rund 700 Akademie-Mitglieder über 21 Kategorien abstimmen. Weitere mehrfach nominierte Produktionen sind \"Angemessen Angry\", \"Krank Berlin\", \"Achtsam Morden\", \"Tschappel\" und \"Die Spaltung der Welt\" mit jeweils zwei Nominierungen.",
-      "score": 8
+      "summary": "Die ARD-Miniserie \"Herrhausen - Der Herr des Geldes\" führt mit drei Nominierungen die erste Tranche der DAfFNE-Nominierungen 2026 an, ausgezeichnet in den Kategorien Bildgestaltung, Produktion und Casting. Die Deutsche Akademie für Fernsehen vergibt ihre Preise am 20. Februar 2026 in Berlin durch Abstimmung ihrer rund 700 Mitglieder aus der Branche. Weitere mehrfach nominierte Produktionen sind \"Angemessen Angry\", \"Krank Berlin\", \"Achtsam Morden\", \"Tschappel\" und \"Die Spaltung der Welt\" mit je zwei Nominierungen.",
+      "score": 7
     },
     {
       "source": "DWDL",
       "title": "Deutsche Welle erhält zehn Millionen weniger als geplant",
       "link": "https://www.dwdl.de/nachrichten/104527/deutsche_welle_erhaelt_zehn_millionen_weniger_als_geplant/",
-      "summary": "Der Haushaltsausschuss hat den Etat der Deutschen Welle für 2026 um 10,1 Millionen Euro auf 395,4 Millionen Euro gekürzt, zuzüglich 20 Millionen Euro für Investitionen. Die Aufsichtsgremien kritisieren die Kürzung scharf als Widerspruch zum Koalitionsvertrag und als falsches Signal im \"Kampf um die Köpfe\" angesichts zunehmender medialer Manipulation weltweit. Bereits 2024 musste die DW Einsparungen von 20 Millionen Euro umsetzen, insbesondere in den Bereichen Kultur und Sport.",
-      "score": 8
+      "summary": "Der Haushaltsausschuss hat den Etat der Deutschen Welle für 2026 um 10,1 Millionen Euro auf 395,4 Millionen Euro gekürzt, womit der Gesamtetat inklusive 20 Millionen Euro Investitionsmittel bei 415,5 Millionen Euro liegt. Die Kürzung steht im Widerspruch zu den im Koalitionsvertrag vereinbarten Plänen zur deutlichen Aufstockung der DW-Mittel und stößt auf scharfe Kritik der Aufsichtsgremien. Rundfunkrats- und Verwaltungsratsvorsitzende kritisieren die Entscheidung als falsches Signal, da die DW bereits 2024 Einsparungen von 20 Millionen Euro umsetzen musste und für ihre internationale Medienarbeit einen Mittelaufwuchs benötigt.",
+      "score": 7
     },
     {
       "source": "DWDL",
       "title": "SWR plant TV-Dreikampf zwischen Grünen, CDU und AfD",
       "link": "https://www.dwdl.de/nachrichten/104526/swr_plant_tvdreikampf_zwischen_gruenen_cdu_und_afd/",
-      "summary": "Der SWR hat unterschiedliche TV-Formate für die Landtagswahlen im März 2026 angekündigt: In Rheinland-Pfalz findet ein klassisches Duell zwischen Ministerpräsident Schweitzer (SPD) und CDU-Herausforderer Schnieder statt, während in Baden-Württemberg ein Dreikampf zwischen CDU, Grünen und AfD geplant ist. Ergänzt wird das Programm durch \"Wahlarena\"-Formate mit Bürgerfragen sowie Einzelinterviews mit allen aussichtsreichen Spitzenkandidaten beider Länder.",
-      "score": 8
+      "summary": "Der SWR hat seine Wahlberichterstattung für die Landtagswahlen im März 2026 vorgestellt: In Rheinland-Pfalz ist ein TV-Duell zwischen SPD-Ministerpräsident Schweitzer und CDU-Herausforderer Schnieder geplant, während in Baden-Württemberg ein Dreikampf zwischen CDU, Grünen und AfD stattfinden soll. Ergänzend sind \"Wahlarena\"-Formate mit Zuschauerfragen sowie Einzelinterviews mit allen aussichtsreichen Spitzenkandidaten vorgesehen.",
+      "score": 7
     },
     {
       "source": "DWDL",
       "title": "Vereinte Kräfte im Norden: TVN Group übernimmt TV Plus",
       "link": "https://www.dwdl.de/nachrichten/104523/vereinte_kraefte_im_norden_tvn_group_uebernimmt_tv_plus/",
-      "summary": "Die TVN Group (Teil der Madsack Mediengruppe) übernimmt zum 1. Januar 2026 sämtliche Geschäftsanteile der Hannoveraner Produktionsfirma TV Plus, die seit 1997 die NDR-Spielshow \"Bingo! Die Umweltlotterie\" produziert. TV Plus bleibt als eigenständige Einheit bestehen, die Produktion wird künftig im TVN-Studio Hannover fortgeführt, während das bestehende Team um Geschäftsführer Thomas Schäffer unverändert bleibt. Der Deal markiert eine weitere Konsolidierung auf dem norddeutschen Produktionsmarkt und soll Synergien zwischen redaktioneller Kompetenz und technischer Exzellenz schaffen.",
-      "score": 9
-    },
-    {
-      "source": "DWDL",
-      "title": "Drehstart für neue Netflix-Dramedy \"Love & Chaos\"",
-      "link": "https://www.dwdl.de/nachrichten/104520/drehstart_fuer_neue_netflixdramedy_love__chaos/",
-      "summary": "Netflix hat mit der Kölner Produktionsfirma btf die Dreharbeiten zur deutschen Adaption der schwedischen Dramedy \"Love & Anarchy\" unter dem Titel \"Love & Chaos\" in Hamburg gestartet. Die Serie mit Anne Schäfer und Simon Ludwig in den Hauptrollen erzählt die Geschichte einer verheirateten Unternehmensberaterin und eines jungen IT-Technikers, deren unterschiedliche Welten in einer leidenschaftlichen Beziehung aufeinanderprallen. Regie führen Hermine Huntgeburth und Charlotte Rolfes, das Drehbuch stammt von Elena Senft und Laura Lackmann.",
-      "score": 9
-    },
-    {
-      "source": "DWDL",
-      "title": "TV-Comeback: Jürgen Klopp wird WM-Experte bei MagentaTV",
-      "link": "https://www.dwdl.de/nachrichten/104518/tvcomeback_juergen_klopp_wird_wmexperte_bei_magentatv/",
-      "summary": "Jürgen Klopp kehrt nach seiner Zeit als ZDF-Experte (2005-2008) ins TV zurück und wird bei der WM 2026 als Fußball-Experte für MagentaTV arbeiten, zusammen mit Johannes B. Kerner. Die Telekom sicherte sich damit nach Thomas Müller einen weiteren prominenten Experten für ihre WM-Berichterstattung. Das Turnier findet vom 11. Juni bis 19. Juli 2026 in den USA, Mexiko und Kanada statt.",
-      "score": 7
-    },
-    {
-      "source": "DWDL",
-      "title": "\"LOL Next\": Prime Video macht \"LOL\"-Spinoff mit Hazel Brugger",
-      "link": "https://www.dwdl.de/nachrichten/104514/lol_next_prime_video_macht_lolspinoff_mit_hazel_brugger/",
-      "summary": "Prime Video entwickelt mit \"LOL Next\" ein Spinoff der erfolgreichen Comedy-Show \"LOL: Last One Laughing\", moderiert von Hazel Brugger und featuring zehn Social-Media-Comedy-Stars von Instagram, TikTok und YouTube. Das vierteilige Format verschärft die Regeln (bereits ein Lacher führt zum Rauswurf) und zielt wie \"The 50\" auf die Reichweite der teilnehmenden Influencer zur Aufmerksamkeitsgenerierung ab. Constantin Entertainment produziert das Spinoff parallel zur siebten Staffel des Originals, die 2026 zu Ostern erscheinen soll.",
-      "score": 8
-    },
-    {
-      "source": "DWDL",
-      "title": "Disney kratzt an der Marke von 200 Millionen Streaming-Abos",
-      "link": "https://www.dwdl.de/nachrichten/104511/disney_kratzt_an_der_marke_von_200_millionen_streamingabos/",
-      "summary": "Disney erreichte im letzten Quartal mit 196 Millionen Streaming-Abonnenten (Disney+ und Hulu) einen Zuwachs von 12,4 Millionen und übertraf damit die Wall Street-Erwartungen deutlich. Während das Direct-to-Consumer-Geschäft um 8% auf 6,2 Milliarden Dollar wuchs und der operative Gewinn um 39% auf 352 Millionen Dollar stieg, brach das klassische TV-Geschäft mit -16% Umsatz und -21% operativem Ergebnis dramatisch ein. Der Gesamtumsatz blieb mit 22,5 Milliarden Dollar stabil, das operative Ergebnis sank jedoch um 5% auf 3,5 Milliarden Dollar.",
+      "summary": "Die TVN Group (Madsack Mediengruppe) übernimmt zum 1. Januar 2026 vollständig die Hannoveraner Produktionsfirma TV Plus, die seit 1997 die NDR-Spielshow \"Bingo! Die Umweltlotterie\" produziert. TV Plus bleibt als eigenständige Einheit bestehen, die Produktion wird künftig im TVN-Studio Hannover fortgeführt, während das bisherige Team unter Geschäftsführer Thomas Schäffer unverändert weiterarbeitet. Die Übernahme stellt eine Konsolidierung des norddeutschen Produktionsmarktes dar und soll Synergien zwischen redaktioneller Kompetenz und technischer Exzellenz schaffen.",
       "score": 9
     },
     {
       "source": "Variety",
-      "title": "‘Shogun’ Season 2 Adds Ren Meguro to Cast",
-      "link": "https://variety.com/2025/tv/news/shogun-season-2-cast-ren-meguro-fx-1236584223/",
-      "summary": "FX hat den japanischen Popstar und Schauspieler Ren Meguro (28) für die zweite Staffel von \"Shogun\" verpflichtet, wo er die Rolle des Kazutada übernimmt. Der ehemalige Snow Man-Idol, der bereits in Produktionen wie \"Silent\" und \"Trillion Game\" mitwirkte, schließt sich mehreren Neuzugängen sowie den wiederkehrenden Hauptdarstellern Hiroyuki Sanada und Cosmo Jarvis an. Meguro äußerte sich begeistert über die einzigartige Japan-Darstellung der Serie und seine Teilnahme an dieser \"bahnbrechenden Produktion\".",
-      "score": 7
-    },
-    {
-      "source": "Variety",
-      "title": "A Night in the Writers’ Room: Drama Writers Mix It Up on Writing Process, Time Spent in the Room and to Outline or Not to Outline",
-      "link": "https://variety.com/2025/tv/news/night-writers-room-drama-gemmill-han-urman-harjo-ingelsby-1236583247/",
-      "summary": "Fünf Drama-Showrunner diskutierten bei Variety's \"A Night in the Writers' Room\" ihre unterschiedlichen Arbeitsmethoden und Schreibprozesse. Besonders lebhaft wurde die Debatte über individuelle Arbeitsgewohnheiten, wobei CBS \"Matlock\"-Showrunnerin Jennie Snyder Urman ihre unkonventionelle Methode teilte, Drehbücher beim Spazierengehen zu bearbeiten, da sie beim Gehen besser denken könne. Die Veranstaltung verdeutlichte, wie sehr sich das Fernsehen in kurzer Zeit verändert hat und wie unterschiedlich kreative Arbeitsprozesse in Writers' Rooms ablaufen können.",
+      "title": "NBA Makes Disney+ Philippines Debut in Multi-Year Streaming Deal",
+      "link": "https://variety.com/2025/film/news/nba-disney-philippines-streaming-deal-1236584342/",
+      "summary": "Die NBA startet erstmals auf Disney+ Philippinen durch eine neue mehrjährige Streaming-Vereinbarung, die am 20. November mit einem Doubleheader beginnt und Live-Spiele, ESPN-Dokumentationen sowie Studio-Shows wie \"Inside the NBA\" umfasst. Der Deal gewährt Disney+ Philippinen exklusive Streaming-Rechte für ausgewählte Regular Season- und Playoff-Spiele sowie Marquee-Events wie Weihnachtsspiele und den NBA Draft. Pro Saison wird eine Conference Finals-Serie live gestreamt, während die andere Conference Finals und NBA Finals zeitversetzt verfügbar sind.",
       "score": 8
     },
     {
       "source": "Deadline",
-      "title": "Ren Meguro Cast In FX’s ‘Shōgun’ For Season 2",
-      "link": "https://deadline.com/2025/11/ren-meguro-cast-shogun-season-2-1236621109/",
-      "summary": "J-Pop-Star und Schauspieler Ren Meguro wurde für die zweite Staffel von FX's \"Shōgun\" in der Rolle des Kazutada gecastet und stößt zu einem umfangreichen returning Cast um Hiroyuki Sanada und Cosmo Jarvis sowie mehreren neuen Darstellern hinzu. Die zweite Staffel spielt zehn Jahre nach den Ereignissen der ersten Staffel und setzt die geschichtsinspirierte Saga der beiden Protagonisten aus unterschiedlichen Welten fort. Meguro äußerte sich begeistert über die einzigartige Japan-Darstellung der Serie und seine Möglichkeit, an dieser bahnbrechenden Produktion mitzuwirken.",
-      "score": 7
-    },
-    {
-      "source": "Deadline",
-      "title": "‘Landman’s Billy Bob Thornton & Sam Elliott On Their ‘1883’ Kinship & Why Unresolved Father-Son Themes Of Taylor Sheridan’s Second Season Resonate So Strongly For Them: Q&A",
-      "link": "https://deadline.com/2025/11/landman-billy-bob-thornton-sam-elliott-interview-1236620940/",
-      "summary": "In der zweiten Staffel von Taylor Sheridans \"Landman\" stößt Sam Elliott als entfremdeter Vater von Billy Bob Thorntons Charakter Tommy Norris zur Besetzung hinzu, wodurch eine komplexe Drei-Generationen-Familiendynamik entsteht. Sheridan vertieft damit das Vater-Sohn-Thema der Serie, das bei beiden Hauptdarstellern starke persönliche Resonanz findet. Die neue Staffel wird als natürlicher Nachfolger zu \"Yellowstone\" wahrgenommen, wobei Sheridan weiterhin alle Episoden selbst schreibt.",
+      "title": "Disney+ Scores Live NBA Streaming Deal In Philippines",
+      "link": "https://deadline.com/2025/11/disney-nba-streaming-rights-philippines-1236621259/",
+      "summary": "Disney+ hat einen mehrjährigen Vertrag für die Übertragung von NBA-Spielen auf den Philippinen abgeschlossen, wodurch erstmals Live-Coverage auf Disney+ und ESPN im Land verfügbar wird. Der Deal umfasst ausgewählte Live-Spiele, NBA-Dokumentationen und Events wie Christmas Day Games, wobei Conference Finals teilweise live und Finals zeitversetzt gestreamt werden. Die Partnerschaft zielt auf die basketball-begeisterte philippinische Bevölkerung ab und unterstreicht die wachsende Bedeutung von Sportrechten für lokale Streaming-Dienste in der APAC-Region.",
       "score": 8
     },
     {
       "source": "Deadline",
-      "title": "Warner Bros. Television Eyes More Podcasts After Launch Of Jonathon Buckley-Hosted ‘A Lot More’",
-      "link": "https://deadline.com/2025/11/warner-bros-television-a-lot-more-podcasts-1236620882/",
-      "summary": "Warner Bros. Television hat mit dem Jonathon Buckley-gehosteten Video-Podcast \"A Lot More\" in den Podcast-Markt expandiert und ein eigenes Studio auf dem Warner Bros. Lot in Burbank errichtet. Die seit August laufende Serie bietet Behind-the-Scenes-Einblicke in Shows wie \"Georgie & Mandy's First Marriage\" und \"IT: Welcome to Derry\" mit Cast-Interviews. Das Studio plant weitere Podcast-Formate, um die umfangreiche Content-Bibliothek zu monetarisieren und neue Zielgruppen zu erreichen.",
-      "score": 8
-    },
-    {
-      "source": "Deadline",
-      "title": "‘All Her Fault’ Sets New Benchmark For Peacock With No. 1 Finish, Apple TV’s ‘Pluribus’ Off To Solid Start In Luminate Rankings",
-      "link": "https://deadline.com/2025/11/all-her-fault-premiere-viewership-peacock-pluribus-luminate-1236620695/",
-      "summary": "Peacocks neue Thriller-Miniserie \"All Her Fault\" mit Sarah Snook erreichte als erste Scripted-Serie des Streamers Platz 1 der Luminate-Rankings mit 33,6 Millionen gesehenen Stunden in der Woche vom 7.-13. November. Die achtteilige Serie übertraf damit Netflixs \"Death By Lightning\" um das Dreifache und profitierte von der vollständigen Veröffentlichung aller Episoden als Binge-Drop. Apple TV+s neue Serie \"Pluribus\" mit Rhea Seehorn startete ebenfalls solide in den Rankings.",
-      "score": 8
-    },
-    {
-      "source": "Deadline",
-      "title": "‘F1’ Director On Status Of Sequel: “I Would Love To Be Able To Tell Another Chapter In That Story”",
-      "link": "https://deadline.com/2025/11/f1-sequel-director-joseph-kosinski-1236620803/",
-      "summary": "Regisseur Joseph Kosinski bestätigt erste Gespräche über eine Fortsetzung des erfolgreichen F1-Films mit Brad Pitt, der weltweit 631 Millionen Dollar einspielte. Kosinski äußerte bei den Contenders Film Los Angeles sein Interesse daran, die Geschichte um Sonny Hayes und das APXGP-Team in einem weiteren Kapitel fortzuführen. Die Planungen befinden sich noch in der frühen Konzeptphase.",
-      "score": 7
-    },
-    {
-      "source": "Deadline",
-      "title": "John Wells Goes Back To Washington: ‘The West Wing’ EP Teams With Phoebe Fisher On Political Drama ‘The Aisle’ In The Works At Netflix",
-      "link": "https://deadline.com/2025/11/netflix-the-aisle-john-wells-phoebe-fisher-political-drama-1236620588/",
-      "summary": "John Wells, Executive Producer von \"The West Wing\", entwickelt gemeinsam mit Phoebe Fisher (\"Cruel Intentions\") eine neue politische Drama-Serie namens \"The Aisle\" für Netflix. Die Serie folgt dem jungen, ambitionierten Stab eines neu ernannten Senators, der beweisen will, dass Mut und Überzeugung noch einen Platz in der amerikanischen Demokratie haben, während sie gleichzeitig das chaotische Privatleben in Washington D.C. meistern. Wells produziert über John Wells Productions in Zusammenarbeit mit Warner Bros. Television.",
+      "title": "Beta Film & German Film School FABW Launch “Lab-To-Market” AI Production Initiative",
+      "link": "https://deadline.com/2025/11/beta-film-tv-ai-initiative-filmakademie-baden-wurttemberg-1236621237/",
+      "summary": "Beta Film und die Filmakademie Baden-Württemberg (FABW) starten eine \"Lab-To-Market\" AI-Initiative zur Entwicklung neuer KI-Anwendungen in der Film- und TV-Produktion mit Fokus auf europäische und ethisch verantwortliche Forschung. Die Partnerschaft verbindet einen der führenden europäischen Produzenten-Distributoren mit einer renommierten Filmhochschule, um Studenten praktische Erfahrungen in zukunftsweisenden Produktionstechnologien zu ermöglichen. Dies ist bereits die zweite große KI-Ankündigung von Beta Film innerhalb weniger Wochen nach dem Launch des AI-Startups Chapter41.",
       "score": 9
     },
     {
-      "source": "Hollywood Reporter",
-      "title": "Disney+ and CJ ENM’s TVING Launch Landmark Streaming Partnership in Korea",
-      "link": "https://www.hollywoodreporter.com/business/business-news/disney-cj-enm-tving-korea-1236429449/",
-      "summary": "Disney+ und Südkoreas TVING haben eine strategische Partnerschaft angekündigt, die als erste Kooperation zwischen einem globalen und lokalen Streaming-Anbieter in Korea gilt. Die Zusammenarbeit umfasst gebündelte Abonnements für Disney+, TVING und Wavve mit bis zu 37% Rabatt sowie den Austausch von Content zwischen den Plattformen. Das Joint Venture zielt darauf ab, gemeinsam gegen Marktführer Netflix im stark umkämpften koreanischen Streaming-Markt zu konkurrieren.",
-      "score": 9
+      "source": "Deadline",
+      "title": "BBC Begins “Major” Jobs Cull Across Teams That Power iPlayer & Other Online Services",
+      "link": "https://deadline.com/2025/11/bbc-84-jobs-risk-digital-iplayer-1236620473/",
+      "summary": "Die BBC plant den Abbau von über 80 Stellen in den Produktteams, die Online-Services wie iPlayer betreiben, um von einem traditionellen Liefermodell zu \"ermächtigten, ergebnisorientierten Teams\" nach Silicon Valley-Vorbild zu wechseln. Betroffen sind hauptsächlich Delivery Manager, die bisher Engineering-Teams bei Arbeitsplanung und Umsetzung unterstützten. Die Umstrukturierung soll der BBC helfen, in einem zunehmend globalen und digitalen Marktumfeld wettbewerbsfähig zu bleiben.",
+      "score": 8
+    },
+    {
+      "source": "Deadline",
+      "title": "Fremantle Results Hit By Loss Of ‘America’s Got Talent’ Spin-Off ‘Fantasy League’",
+      "link": "https://deadline.com/2025/11/fremantle-hit-americas-got-talent-spin-off-rtl-results-1236621227/",
+      "summary": "Fremantles Umsatz sank in den ersten neun Monaten 2024 um 5,1% auf 1,3 Mrd. Euro, hauptsächlich aufgrund des Wegfalls der NBC-Show \"America's Got Talent: Fantasy League\", die 2024 nur eine Staffel lief und 2025 nicht fortgesetzt wurde. Der Umsatzrückgang wurde teilweise durch die Akquisition der Asacha Media Group kompensiert, wobei RTL jedoch von geringeren Beiträgen aus dieser Übernahme berichtete. RTL revidierte zudem die Gewinnprognose für 2025 um 17% nach unten auf 650 Mio. Euro aufgrund des schwächelnden Werbemarkt-Umfelds.",
+      "score": 8
+    },
+    {
+      "source": "Deadline",
+      "title": "Disney+ & Korea’s TVING Strike Streamer Bundling Pact",
+      "link": "https://deadline.com/2025/11/disney-plus-tving-bundling-pact-south-korea-1236621213/",
+      "summary": "Disney+ und Südkoreas TVING haben eine wegweisende Bundle-Partnerschaft geschlossen, die als erste Kooperation zwischen einem globalen und einem lokalen koreanischen Streaming-Dienst gilt. Kunden können nun gebündelte Abonnements für Disney+/TVING/Wavve (21.500 KRW/Monat, 37% Ersparnis) oder Disney+/TVING (18.000 KRW/Monat, 23% Ersparnis) erwerben. Die Partnerschaft folgt dem US-Trend zu Streamer-Bundles und stärkt Disneys Fokus auf koreanische Inhalte, die bereits auf andere Märkte wie Japan ausgeweitet werden.",
+      "score": 8
     },
     {
       "source": "Hollywood Reporter",
-      "title": "Disney+ Scores Multiyear Deal to Stream NBA Games in the Basketball-Mad Philippines",
-      "link": "https://www.hollywoodreporter.com/business/business-news/disney-multiyear-deal-stream-nba-games-philippines-1236429370/",
-      "summary": "Disney+ hat einen mehrjährigen Vertrag mit ESPN abgeschlossen, um ausgewählte NBA-Spiele live auf Disney+ in den Philippinen zu streamen, wo Basketball als Nationalsport gilt. Das Angebot umfasst neben Live-Übertragungen auch ESPN-Sportdokumentationen und NBA-Sendungen wie \"Inside the NBA\" mit bekannten Kommentatoren. Die Partnerschaft markiert eine wichtige Expansion von Disneys Streaming-Strategie in Südostasien, wobei die Philippinen zu den am schnellsten wachsenden Disney+-Märkten der Region gehören.",
-      "score": 9
-    },
-    {
-      "source": "Hollywood Reporter",
-      "title": "‘Shogun’: Japanese Singer Ren Meguro Joins Season 2 Cast",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/shogun-ren-meguro-season-2-cast-1236429355/",
-      "summary": "Der japanische Sänger und Schauspieler Ren Meguro, Mitglied der Boyband Snow Man, schließt sich der Besetzung der zweiten Staffel der Emmy-prämierten FX-Serie \"Shōgun\" an und wird die Rolle des Kazutada spielen. Die Produktion der neuen Staffel beginnt im Januar in Vancouver, wobei neben Meguro weitere neue Castmitglieder wie Asami Mizukawa und Masataka Kubota hinzukommen. Hauptdarsteller Hiroyuki Sanada und Cosmo Jarvis kehren in ihren Rollen als Toranaga und Blackthorne zurück.",
+      "title": "TV Production M&A Ins and Outs: Money, Strategy, IP, and Long-Term Commitment in Tallinn Focus",
+      "link": "https://www.hollywoodreporter.com/business/business-news/tv-production-deals-tallinn-2025-panel-money-ip-founders-1236429522/",
+      "summary": "Auf einem Panel der Tallinn Black Nights Film Festival diskutierten Branchenexperten die aktuellen M&A-Trends im TV-Produktionssektor, wobei Marina Williams (Fremantle/Asacha Media Group), Kjartan Thor Thordarsson (Sagafilm Nordic) und Tim Robinson (ex-Fifth Season COO) Einblicke in Dealmaking und Skalierungsstrategien teilten. Sagafilm suchte internationale Expansion über den isländischen Markt hinaus, da Streaming-Riesen wie Disney, Netflix und Amazon erhebliche Backend-Verpflichtungen und Vertrauen in die Produktionsfirma erfordern. Der Panel fokussierte auf die zentrale Herausforderung, wie TV-Produzenten Skalierung erreichen können, ohne dabei die kreative Kontrolle zu verlieren.",
       "score": 7
+    },
+    {
+      "source": "Guardian Media",
+      "title": "‘Smile? YOU smile.' A new generation of stars is overthrowing the old Hollywood system, one ‘no’ at a time | Priya Elan",
+      "link": "https://www.theguardian.com/commentisfree/2025/nov/18/hollywood-stars-gen-z-millie-bobby-brown-jenna-ortega",
+      "summary": "Eine neue Generation von Gen Z-Schauspielern wie Millie Bobby Brown und Sydney Chandler stellt das traditionelle Hollywood-Publicitysystem in Frage, indem sie sich weigern, den üblichen Erwartungen an \"das Talent\" zu entsprechen. Brown wies Fotografen zurecht, die sie zum Lächeln aufforderten, während Chandler Interviews ablehnte und erklärte, sie sei \"eine private Person\", die selbst bestimmen möchte, wie viel von sich sie preisgeben will. Diese Haltung markiert einen Wandel weg von der traditionellen Compliance-Kultur Hollywoods hin zu mehr Selbstbestimmung der Künstler.",
+      "score": 7
+    },
+    {
+      "source": "Guardian Media",
+      "title": "David Nicholls to adapt The Secret Diary of Adrian Mole Aged 13¾ for BBC",
+      "link": "https://www.theguardian.com/culture/2025/nov/17/david-nicholls-to-adapt-the-secret-diary-of-adrian-mole-aged-1334-for-bbc",
+      "summary": "David Nicholls führt ein Autorenteam an, das Sue Townsends Kultbuch \"The Secret Diary of Adrian Mole Aged 13¾\" als 10-teilige BBC One-Serie adaptiert. Die Produktion von Big Talk Studios sucht derzeit noch den Hauptdarsteller für die Neuverfilmung des Bestsellers, der bereits 1985 und 1987 als Thames TV-Serie adaptiert wurde.",
+      "score": 8
+    },
+    {
+      "source": "Guardian Media",
+      "title": "WPP shares leap amid takeover bid speculation",
+      "link": "https://www.theguardian.com/business/2025/nov/17/wpp-shares-takeover-bid-speculation-havas-apollo-kkr",
+      "summary": "WPP-Aktien stiegen um 11% nach Spekulationen über eine mögliche Übernahme durch den französischen Konkurrenten Havas oder Private-Equity-Firmen wie Apollo und KKR. Der weltgrößte Werbekonzern kämpft mit Gewinnwarnungen, Kundenverlust und Problemen bei KI- und Datenkapazitäten, wodurch die Marktbewertung auf etwa 3 Milliarden Pfund gefallen ist. Havas, kontrolliert von Milliardär Vincent Bolloré, soll interne Gespräche über ein Gebot geführt haben, während Apollo bereits Interesse verneint hat.",
+      "score": 8
     },
     {
       "source": "Guardian Media",
       "title": "BBC should not pay Trump any money, says former director general Tony Hall",
       "link": "https://www.theguardian.com/media/2025/nov/16/bbc-should-not-pay-trump-any-money-says-former-bbc-director-general",
-      "summary": "Der ehemalige BBC-Generaldirektor Tony Hall warnt davor, Donald Trump nach dessen Androhung einer 5-Milliarden-Dollar-Klage wegen einer irreführenden Panorama-Bearbeitung seiner Rede vom 6. Januar Geld zu zahlen, da dies eine unangemessene Verwendung von Gebührenzahlergeldern wäre. Die Kontroverse um die fehlerhafte Bearbeitung führte bereits zum Rücktritt der beiden ranghöchsten BBC-Führungskräfte, Generaldirektor Tim Davie und Nachrichtenchefin Deborah Turness. Hall kritisiert, dass die journalistische Integrität und Unparteilichkeit der BBC-Journalisten in der Debatte untergegangen sei, obwohl er den Schnittfehler als schwerwiegend bezeichnet.",
+      "summary": "Der ehemalige BBC-Generaldirektor Tony Hall lehnt Zahlungen an Donald Trump kategorisch ab, nachdem dieser mit einer Klage über bis zu 5 Milliarden Dollar droht, trotz einer BBC-Entschuldigung für irreführende Panorama-Schnitte seiner Rede vom 6. Januar. Hall bezeichnet die Verwendung von Gebührenzahlergeld für solche Zahlungen als \"unangemessen\", obwohl er den umstrittenen Videoschnitt als \"schweren Fehler\" anerkennt. Der Skandal führte bereits zum Rücktritt der beiden ranghöchsten BBC-Führungskräfte, Generaldirektor Tim Davie und Nachrichtenchefin Deborah Turness.",
       "score": 8
     },
     {
       "source": "Guardian Media",
       "title": "Sky Sports ditches ‘unbelievably sexist’ TikTok channel Halo after three days",
       "link": "https://www.theguardian.com/media/2025/nov/16/sky-sports-axes-unbelievably-sexist-tiktok-channel-halo-after-three-days",
-      "summary": "Sky Sports stellte seinen neuen TikTok-Kanal \"Halo\" nach nur drei Tagen wieder ein, nachdem die als \"lil sis\" beworbene Plattform für weibliche Zielgruppen massive Kritik wegen sexistischer und patronisierender Inhalte erhielt. Der Kanal, der mit rosa Herzchen, Matcha-Referenzen und \"Barbie\"-Bezügen warb, zeigte paradoxerweise überwiegend männliche Sportstars und wurde von Frauensport-Communities als verfehlt kritisiert. Sky Sports entschuldigte sich öffentlich und räumte ein, das Konzept nicht richtig umgesetzt zu haben.",
-      "score": 8
+      "summary": "Sky Sports stellte seinen neuen TikTok-Kanal \"Halo\" nach nur drei Tagen wieder ein, nachdem die als \"lil sis\" beworbene Plattform für weibliche Zielgruppen massive Kritik wegen sexistischer und patronisierender Inhalte erhielt. Der Kanal verwendete Klischees wie pink-dominierte Ästhetik, Referenzen zu \"hot girl walks\", Matcha und Barbie, während paradoxerweise fünf der ersten elf Videos männliche Sportstars zeigten. Sky Sports ruderte nach heftiger Kritik von Sportfans und Frauenfußball-Medien zurück und gab zu, \"es nicht richtig gemacht\" zu haben.",
+      "score": 7
     },
     {
       "source": "Guardian Media",
       "title": "Trump says he will take legal action against BBC, despite its apology",
       "link": "https://www.theguardian.com/us-news/2025/nov/15/trump-says-he-will-take-legal-action-against-bbc-despite-its-apology",
-      "summary": "Trump plant trotz einer Entschuldigung der BBC rechtliche Schritte gegen den britischen Sender wegen einer irreführenden Bearbeitung seiner Rede in einer Panorama-Sendung über den Kapitol-Sturm. Er fordert Schadenersatz zwischen 1 und 5 Milliarden Dollar, obwohl die BBC eine rechtliche Grundlage für Klagen bestreitet. Der Vorfall führte bereits zum Rücktritt der beiden ranghöchsten BBC-Führungskräfte, Generaldirektor Tim Davie und Nachrichtenchefin Deborah Turness.",
+      "summary": "Trump plant trotz einer BBC-Entschuldigung rechtliche Schritte gegen den britischen Sender wegen einer irreführenden Bearbeitung seiner Rede in einer Panorama-Dokumentation über den Kapitol-Aufstand. Der US-Präsident fordert Schadenersatz zwischen 1-5 Milliarden Dollar, obwohl die BBC bereits eine Entschuldigung aussprach und zusagte, die betreffende Sendung nicht mehr auszustrahlen. Der Konflikt führte bereits zum Rücktritt der beiden höchsten BBC-Führungskräfte, Generaldirektor Tim Davie und Nachrichtenchefin Deborah Turness.",
       "score": 8
-    },
-    {
-      "source": "Guardian Media",
-      "title": "Father of teen whose death was linked to social media has ‘lost faith’ in Ofcom",
-      "link": "https://www.theguardian.com/technology/2025/nov/15/molly-russell-family-social-media-ofcom",
-      "summary": "Ian Russell, Vater der 14-jährigen Molly Russell, die sich 2017 nach dem Konsum schädlicher Online-Inhalte das Leben nahm, hat das Vertrauen in die britische Medienaufsicht Ofcom verloren und fordert einen Führungswechsel. Russell kritisiert, dass Ofcom die Dringlichkeit des Kinderschutzes im Internet nicht erkenne und die neuen digitalen Gesetze des Online Safety Act nicht mit der erforderlichen Härte durchsetze. Seine Kritik erfolgt zeitgleich mit einem Brief der Technologie-Staatssekretärin Liz Kendall an Ofcom, in dem diese ihre tiefe Besorgnis über Verzögerungen bei der Umsetzung des Gesetzes äußert.",
-      "score": 7
-    },
-    {
-      "source": "Guardian Media",
-      "title": "Big content is taking on AI – but it’s far from the David v Goliath tale they’d have you believe | Alexander Avila",
-      "link": "https://www.theguardian.com/commentisfree/2025/nov/15/big-content-ai-entertainment-media-conglomerates-tech",
-      "summary": "Universal Music Group verklagte zunächst AI-Musikstartups wegen Urheberrechtsverletzung, schloss aber kürzlich einen Deal mit dem Beklagten Udio zur gemeinsamen Entwicklung einer AI-Musikplattform. Während Medienkonzerne und Tech-Unternehmen profitable Partnerschaften eingehen, werden Künstler marginalisiert – über ein Drittel der Illustratoren hat bereits Einkommensverluste durch AI erlitten. Der Artikel argumentiert, dass die Darstellung als David-gegen-Goliath-Kampf irreführend ist, da beide Industriezweige von AI-Deals profitieren, während kreative Arbeitskräfte die Hauptlast tragen.",
-      "score": 7
     },
     {
       "source": "Guardian Media",
       "title": "‘Not for the faint-hearted’: is running the BBC an impossible job?",
       "link": "https://www.theguardian.com/media/ng-interactive/2025/nov/15/is-running-the-bbc-an-impossible-job",
-      "summary": "BBC-Generaldirektor Tim Davie ist nach einer Serie von Kontroversen überraschend zurückgetreten, darunter Streitigkeiten um Gary Lineker und die Israel-Gaza-Berichterstattung. Der jüngste Auslöser waren Vorwürfe systematischer liberaler Voreingenommenheit durch einen ehemaligen externen Berater, die interne Diskussionen über die grundsätzliche Führbarkeit der BBC anheizte. BBC-interne Quellen stellen nun die Frage, ob die Position des Generaldirektors angesichts des ständigen internen und externen Drucks sowie anstehender Existenzdebatten der Corporation überhaupt noch ausführbar ist.",
-      "score": 9
+      "summary": "Tim Davie ist überraschend als BBC-Generaldirektor zurückgetreten, nachdem er eine Serie von Kontroversen durchstehen musste, darunter Auseinandersetzungen um Gary Lineker und die Israel-Gaza-Berichterstattung. Der jüngste Auslöser waren Vorwürfe systematischer liberaler Voreingenommenheit durch einen ehemaligen externen Berater, die an die Presse durchgesickert waren. BBC-interne Quellen stellen die Frage, ob die Leitung der BBC angesichts des unerbittlichen Drucks von allen Seiten mittlerweile ein unmöglicher Job geworden ist.",
+      "score": 8
     },
     {
       "source": "Guardian Media",
       "title": "Ex-BBC boss leads calls for end to political appointments to board",
       "link": "https://www.theguardian.com/media/2025/nov/14/ex-bbc-boss-tony-hall-political-appointments-board",
-      "summary": "Der ehemalige BBC-Generaldirektor Tony Hall fordert ein Ende politischer Ernennungen in den BBC-Vorstand, nachdem Abgeordnete, Gewerkschaften und Mitarbeiter die Entfernung des konservativen Board-Mitglieds Robbie Gibb verlangen. Gibb, der von Boris Johnsons Regierung ernannt wurde, soll seinen Einfluss im Vorstand genutzt haben, um Druck wegen angeblicher liberaler Voreingenommenheit auszuüben. Hall sieht die anstehenden Charter-Verhandlungen als Gelegenheit, die politische Einflussnahme auf die BBC zu reduzieren und deren Unabhängigkeit zu stärken.",
-      "score": 9
-    },
-    {
-      "source": "Guardian Media",
-      "title": "Naga Munchetty reportedly under formal BBC investigation over alleged bullying",
-      "link": "https://www.theguardian.com/media/2025/nov/14/naga-munchetty-reportedly-being-investigated-by-bbc-over-bullying-allegations",
-      "summary": "BBC Breakfast-Moderatorin Naga Munchetty steht unter formaler Untersuchung wegen Mobbing-Vorwürfen, nachdem frühere Beschwerden zu einer vollständigen Ermittlung eskaliert wurden. Die BBC wird bei der Untersuchung der Arbeitskultur der Sendung von PwC-Beratern unterstützt, nachdem bereits im September der Chefredakteur der Show von ähnlichen Vorwürfen freigesprochen wurde. Dies erfolgt vor dem Hintergrund einer unabhängigen Überprüfung, die feststellte, dass \"bekannte Namen\" bei der BBC nicht für schlechtes Verhalten zur Rechenschaft gezogen wurden.",
+      "summary": "Ex-BBC-Generaldirektor Tony Hall fordert ein Ende politischer Ernennungen in den BBC-Vorstand und mehr Unabhängigkeit des öffentlich-rechtlichen Senders. Hintergrund sind anhaltende Kontroversen um Vorstandsmitglied Robbie Gibb, einen ehemaligen Kommunikationschef Theresa Mays, dem vorgeworfen wird, seine Position zur internen Einflussnahme wegen angeblicher liberaler Voreingenommenheit zu nutzen. Hall sieht die anstehenden Gespräche über die BBC-Charter-Erneuerung als Chance für Kulturministerin Lisa Nandy, entsprechende Reformen umzusetzen.",
       "score": 8
     },
     {
-      "source": "Guardian Media",
-      "title": "Is Tim Davie’s successor at the BBC facing the glass cliff? | Letters",
-      "link": "https://www.theguardian.com/media/2025/nov/14/is-tim-davie-successor-at-the-bbc-facing-the-glass-cliff",
-      "summary": "Leserbriefe zum Nachfolger von BBC-Generaldirektor Tim Davie thematisieren das \"Glass Cliff\"-Phänomen, bei dem Frauen häufiger in Führungspositionen berufen werden, wenn Unternehmen in Schwierigkeiten sind und dadurch ein höheres Scheitern-Risiko haben. Eine Studie zu FTSE 100-Unternehmen vor über 20 Jahren belegte bereits diesen Zusammenhang zwischen schlechter Unternehmensleistung und der Berufung von Frauen in Spitzenpositionen. Ein weiterer Leserbrief macht sich über mögliche Reputationsschäden durch Trump-Berichterstattung lustig.",
+      "source": "kress",
+      "title": "In aller Heimlichkeit hat Axel Springer die Geschäftszahlen für 2024 im Oktober im \"Bundesanzeiger\" ...",
+      "link": "https://kress.de/news",
+      "summary": "Axel Springer hat seine Geschäftszahlen für 2024 im Bundesanzeiger veröffentlicht und dabei zwischen dem fortgeführten Mediengeschäft in Deutschland/USA und dem digitalen Kleinanzeigengeschäft unterschieden, an dem nur noch eine Minderheitsbeteiligung gehalten wird. Parallel dazu führt die Familie Mohn erneut die Liste der reichsten deutschen Medienunternehmer an, während Stefan von Holtzbrinck und Christiane Schoeller als Top-Aufsteiger verzeichnet werden. ORF-Moderator Armin Wolf zieht nach einem Jahr eine gemischte Bilanz seines Wechsels von X zu Bluesky, da ihm die neue Plattform \"etwas zu idyllisch\" erscheint.",
+      "score": 7
+    },
+    {
+      "source": "kress",
+      "title": "In aller Heimlichkeit hat Axel Springer die Geschäftszahlen für 2024 im Oktober im \"Bundesanzeiger\" ...",
+      "link": "https://kress.de/news",
+      "summary": "Axel Springer hat seine Geschäftszahlen für 2024 über den Bundesanzeiger veröffentlicht und dabei zwischen dem fortgeführten Mediengeschäft in Deutschland/USA und dem digitalen Kleinanzeigengeschäft unterschieden, an dem nur noch eine Minderheitsbeteiligung gehalten wird. Gleichzeitig führt die Familie Mohn erneut die Liste der reichsten deutschen Medienunternehmer im Manager Magazin an, während ORF-Moderator Armin Wolf nach einem Jahr auf Bluesky eine gemischte Bilanz seines Wechsels von X zieht.",
+      "score": 7
+    },
+    {
+      "source": "kress",
+      "title": "Mit der Entschuldigung für ihre fehlerhafte Berichterstattung konnte die BBC Donald Trump nicht besä...",
+      "link": "https://kress.de/news",
+      "summary": "Axel Springer veröffentlichte stillschweigend seine 2024er Geschäftszahlen im Bundesanzeiger, aufgeteilt in das fortgeführte Mediengeschäft (Deutschland/USA) und das digitale Kleinanzeigengeschäft mit nur noch Minderheitsbeteiligung. 13 Medienunternehmer schafften es 2025 in die Liste der 500 reichsten Deutschen des Manager Magazins, angeführt von der Familie Mohn, während die Holtzbrinck-Eigner als Top-Aufsteiger gelten. ORF-Moderator Armin Wolf zog nach einem Jahr eine gemischte Bilanz seines Wechsels von X zu Bluesky, da ihm die Plattform \"zu idyllisch\" sei.",
+      "score": 8
+    },
+    {
+      "source": "kress",
+      "title": "Robert Skuppin, Programmdirektor des Rundfunks Berlin-Brandenburg (RBB) seit Oktober, hat die Pläne ...",
+      "link": "https://kress.de/news",
+      "summary": "Axel Springer hat seine Geschäftszahlen für 2024 im Bundesanzeiger veröffentlicht und dabei zwischen dem fortgeführten Mediengeschäft in Deutschland/USA und dem digitalen Kleinanzeigengeschäft unterschieden, an dem nur noch eine Minderheitsbeteiligung besteht. 13 Medienunternehmer schafften es 2025 in die Liste der 500 reichsten Deutschen des Manager Magazins, angeführt von der Familie Mohn, während die Holtzbrinck-Eigner als Top-Aufsteiger gelten. ORF-Moderator Armin Wolf zieht nach einem Jahr eine durchwachsene Bilanz seines Wechsels von X zu Bluesky, da ihm die Plattform \"etwas zu idyllisch\" ist.",
+      "score": 8
+    },
+    {
+      "source": "kress",
+      "title": "Das Axel-Springer-Unternehmen Idealo bekommt 465 Millionen Euro Schadenersatz zugesprochen – weit we...",
+      "link": "https://kress.de/news",
+      "summary": "Axel Springer hat seine Geschäftszahlen für 2024 im Bundesanzeiger veröffentlicht und dabei zwischen dem fortgeführten Mediengeschäft in Deutschland/USA und dem digitalen Kleinanzeigengeschäft unterschieden, an dem nur noch eine Minderheitsbeteiligung gehalten wird. 13 Medienunternehmer schafften es 2025 in die Liste der 500 reichsten Deutschen des Manager Magazins, angeführt von der Familie Mohn. Der ORF-Moderator Armin Wolf zog nach einem Jahr eine gemischte Bilanz seines Wechsels von X zu Bluesky und bezeichnet die Plattform als \"etwas zu idyllisch\".",
+      "score": 8
+    },
+    {
+      "source": "meedia",
+      "title": "Die Flaute auf den Werbemärkten setzt auch der Bertelsmann-Tochter RTL Group, der Mutterfirma von RT...",
+      "link": "https://meedia.de/news/beitrag/20572-rtl-group-senkt-die-prognose-deutlich-weniger-umsatz-zum-jahresende-erwartet.html",
+      "summary": "Die RTL Group senkt ihre Jahresprognose aufgrund schwächelnder TV-Werbemärkte deutlich: Der erwartete Umsatz sinkt von 6,45 auf 6,0-6,1 Milliarden Euro, das bereinigte EBITA von 780 auf 650 Millionen Euro. Positiv entwickelt sich dagegen das Streaming-Geschäft mit 7,6 Millionen zahlenden Abonnenten (+17,4% zum Vorjahr), wobei RTL die 8-Millionen-Marke bis Jahresende anpeilt. Die geplante Sky-Deutschland-Übernahme soll im Frühjahr abgewickelt werden und das Streaming-Geschäft weiter stärken.",
+      "score": 8
+    },
+    {
+      "source": "meedia",
+      "title": "Am Montag berichteten verschiedene Medien darüber, dass Havas über einen Einstieg bei WPP nachdenke....",
+      "link": "https://meedia.de/news/beitrag/20571-havas-ceo-yannick-bollore-dementiert-einstiegsszenarium-bei-wpp.html",
+      "summary": "Havas-CEO Yannick Bolloré dementiert in einem internen Schreiben Medienberichte über mögliche Gespräche bezüglich eines Einstiegs bei der britischen Werbeagentur-Holding WPP. Bolloré betont, dass keine Verhandlungen mit WPP stattfinden und die Akquisitionsstrategie von Havas weiterhin auf kleinere, gezielte Zukäufe ausgerichtet bleibt, wie zuletzt bei den deutschen Agenturen HRZN und Eprofessional zu beobachten war. Das Dementi bezieht sich allerdings auf Übernahmegespräche, während die ursprünglichen Gerüchte lediglich eine Minderheitsbeteiligung thematisierten.",
+      "score": 8
+    },
+    {
+      "source": "meedia",
+      "title": "Die französische Werbeholding Havas zeigt Interesse am britischen Konkurrenten WPP. Es gehe nicht um...",
+      "link": "https://meedia.de/news/beitrag/20562-wpp-offenbar-in-gespraechen-mit-havas.html",
+      "summary": "Die französische Werbeholding Havas führt laut \"Adweek\" ernsthafte Gespräche über eine Minderheitsbeteiligung am angeschlagenen britischen Konkurrenten WPP, dessen Aktienkurs binnen eines Jahres von 10 Euro auf 3,30 Euro gefallen ist. WPP durchlebt mit zwei Gewinnwarnungen und Verlusten von Großkunden wie Bayer, Coca-Cola und Mars eine schwere Phase, was neben Havas auch Investmentunternehmen wie Apollo und KKR als potenzielle Investoren anzieht. Parallel kauften WPP-CEO Cindy Rose und Kollege Philip Jansen größere Aktienpakete des eigenen Unternehmens.",
+      "score": 8
+    },
+    {
+      "source": "meedia",
+      "title": "Die werktägliche Print-Erscheinungsweise hat die „taz“ eben erst eingestellt. In der Chefredaktion s...",
+      "link": "https://meedia.de/news/beitrag/20569-katrin-gottschalk-wird-dritte-taz-chefredakteurin.html",
+      "summary": "Die „taz\" erweitert ihre Chefredaktion um Katrin Gottschalk, die nun gleichberechtigt neben Barbara Junge und Ulrike Winkelmann das Blatt leitet und damit das einzige rein weibliche Führungstrio eines deutschen Presseverlags komplettiert. Gottschalk, die seit 2016 stellvertretende Chefredakteurin und seit 2020 Leiterin der digitalen Produktentwicklung war, wird insbesondere für ihre Pionierarbeit bei der digitalen Transformation gewürdigt. Die Beförderung erfolgt zeitgleich mit der Einstellung der werktäglichen Printausgabe zugunsten eines digitalen E-Papers ab 20. Oktober.",
+      "score": 7
+    },
+    {
+      "source": "meedia",
+      "title": "Es ging um viel und es wurde zu einem unterhaltsamen Fußballfest: Das 6:0 der deutschen Fußball-Nati...",
+      "link": "https://meedia.de/news/beitrag/20568-gigantische-zahlen-fast-10-millionen-sehen-das-deutsche-6-0-in-der-wm-qualifikation.html",
+      "summary": "Das 6:0-Spiel der deutschen Nationalmannschaft gegen die Slowakei in der WM-Qualifikation erzielte im ZDF mit 9,68 Millionen Zuschauern (38,0% Marktanteil) die höchsten Einschaltquoten der gesamten Qualifikationskampagne. Trotz der starken Fußball-Konkurrenz konnte Das Erste mit der \"Morden im Norden\"-Wiederholung noch 4,38 Millionen Zuschauer (16,6%) erreichen. Der hohe Erfolg wird sowohl auf die sportliche Brisanz des entscheidenden Qualifikationsspiels als auch auf den spektakulären Spielverlauf zurückgeführt.",
+      "score": 7
+    },
+    {
+      "source": "meedia",
+      "title": "Das Landgericht Berlin hat Google zur Zahlung einer Strafe von 465 Mio. Euro an Idealo verurteilt. 1...",
+      "link": "https://meedia.de/news/beitrag/20565-465-mio-euro-landgericht-berlin-verurteilt-google.html",
+      "summary": "Das Landgericht Berlin hat Google zu 465 Millionen Euro Schadenersatz an Idealo und weitere 107 Millionen Euro an Testberichte.de verurteilt, da der Konzern seine dominante Stellung missbraucht und eigene Shopping-Dienste systematisch bevorzugt habe. Google kündigte Berufung an und will nicht zahlen. Das Urteil reiht sich in die langjährigen europäischen Kartellverfahren gegen Google ein und wird in den USA kontrovers zwischen Protektionismus-Vorwürfen und berechtigter BigTech-Regulierung diskutiert.",
       "score": 8
     }
   ]
