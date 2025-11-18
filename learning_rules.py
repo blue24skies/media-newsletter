@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 AUTOMATISCH GENERIERTE LERN-REGELN
-Erstellt: 2025-11-16 21:21:47
-Anzahl Regeln: 5
+Erstellt: 2025-11-18 14:40:05
+Anzahl Regeln: 40
 """
 
 import re
@@ -38,4 +38,4 @@ def apply_learning_rules(titel, quelle, base_score):
     return min(max(score, 1), 10)  # Score zwischen 1-10 halten
 
 # Statistik
-ANZAHL_REGELN = 5
+ANZAHL_REGELN = 40
