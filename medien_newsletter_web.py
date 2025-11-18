@@ -28,17 +28,20 @@ GMAIL_APP_PASSWORD = os.environ.get('GMAIL_APP_PASSWORD', '')
 NEWSLETTER_URL = os.environ.get('NEWSLETTER_URL', 'https://blue24skies.github.io/media-newsletter')
 BRAVE_SEARCH_API_KEY = os.environ.get('BRAVE_SEARCH_API_KEY', '')
 
-# RSS-Feeds
+# RSS-Feeds - Sortiert nach Region
 RSS_FEEDS = {
+    # Deutschland
     'DWDL': 'https://www.dwdl.de/rss/nachrichten.xml',
     'Horizont Medien': 'https://www.horizont.net/feed/kategorie/medien/rss.xml',
+    # UK
+    'Guardian Media': 'https://www.theguardian.com/media/rss',
+    # USA
     'Variety': 'https://variety.com/feed/',
     'Deadline': 'https://deadline.com/feed/',
-    'Hollywood Reporter': 'https://www.hollywoodreporter.com/feed/',
-    'Guardian Media': 'https://www.theguardian.com/media/rss'
+    'Hollywood Reporter': 'https://www.hollywoodreporter.com/feed/'
 }
 
-# Web-Scraping Quellen (ohne RSS)
+# Web-Scraping Quellen (ohne RSS) - Deutschland
 WEB_SCRAPING_SOURCES = {
     'kress': 'https://kress.de/news',
     'meedia': 'https://meedia.de',
@@ -537,7 +540,7 @@ def sammle_artikel():
     """Sammle Artikel von allen RSS-Feeds und Web-Scraping Quellen"""
     alle_artikel = []
     
-    # 1. RSS-Feeds
+    # 1. RSS-Feeds (Deutschland, UK, USA)
     for source_name, feed_url in RSS_FEEDS.items():
         print(f"📡 Hole Artikel von {source_name}...")
         try:
@@ -576,7 +579,11 @@ def sammle_artikel():
         except Exception as e:
             print(f"   ❌ Fehler bei {source_name}: {e}\n")
     
-    # 2. Web-Scraping Quellen (kress, meedia, turi2)
+    # 2. Web-Scraping Quellen - Deutschland (kress, meedia, turi2)
+    print("="*70)
+    print("🌐 WEB-SCRAPING DEUTSCHE QUELLEN")
+    print("="*70 + "\n")
+    
     kress_artikel = hole_kress_artikel()
     if kress_artikel:
         alle_artikel.extend(kress_artikel)
