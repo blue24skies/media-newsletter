@@ -2,49 +2,69 @@ name: Weekly Learning Analysis
 
 on:
   schedule:
-    # Jeden Sonntag um 22:00 Uhr Berlin Zeit (21:00 UTC im Winter, 20:00 UTC im Sommer)
+    # Läuft jeden Sonntag um 22:00 Uhr Berlin Zeit (21:00 UTC im Winter, 20:00 UTC im Sommer)
     - cron: '0 21 * * 0'
-  
-  # Manueller Trigger für Tests
-  workflow_dispatch:
+  workflow_dispatch: # Ermöglicht manuelles Auslösen für Tests
+
+# WICHTIG: GitHub Actions braucht write-Rechte für git push!
+permissions:
+  contents: write
 
 jobs:
-  analyze-and-learn:
+  analyze-feedback:
     runs-on: ubuntu-latest
-    
-    permissions:
-      contents: write
     
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Set up Python 3.11
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
+        cache: 'pip'
     
     - name: Install Dependencies
       run: |
-        pip install supabase==2.7.4
+        python -m pip install --upgrade pip
+        pip install anthropic supabase
     
     - name: Run Weekly Analysis
       env:
+        ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
         SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
       run: |
+        echo "🧠 Starte wöchentliche Learning-Analyse..."
         python weekly_analysis.py
+        
+        echo ""
+        echo "📊 Prüfe ob neue Regeln generiert wurden..."
+        if [ -f learning_rules.py ]; then
+          echo "✅ learning_rules.py gefunden"
+          echo ""
+          echo "=== Inhalt (erste 50 Zeilen) ==="
+          head -n 50 learning_rules.py
+          echo "================================"
+        else
+          echo "⚠️ learning_rules.py nicht gefunden"
+        fi
     
-    - name: Commit Learning Rules
+    - name: Commit and Push Learning Rules
       run: |
         git config user.name "Learning Bot"
         git config user.email "learning-bot@zooproductions.de"
         
-        # Füge learning_rules.py hinzu falls erstellt
-        git add learning_rules.py 2>/dev/null || true
+        # Füge learning_rules.py hinzu
+        git add learning_rules.py
         
         # Commit nur wenn es Änderungen gibt
-        git diff --staged --quiet || git commit -m "🤖 Update learning rules - $(date +%Y-%m-%d)"
-        
-        # Push (ignoriere Fehler falls nichts zu pushen)
-        git push || true
+        if git diff --staged --quiet; then
+          echo "ℹ️ Keine Änderungen an Learning Rules"
+        else
+          git commit -m "🧠 Update Learning Rules ($(date +%Y-%m-%d))"
+          git push
+          echo "✅ Learning Rules aktualisiert und gepusht"
+        fi
