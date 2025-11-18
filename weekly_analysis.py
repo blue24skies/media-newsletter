@@ -1,405 +1,481 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Weekly Learning Analysis für Zoo Media Newsletter
-Analysiert Feedback und generiert intelligente Lernregeln auf Basis von THEMEN, nicht nur Quellen
+Zoo Medien Newsletter - VERBESSERTE Wöchentliche Lern-Analyse
+Analysiert Bewertungen und generiert intelligente Multi-Faktor-Regeln:
+- Einzelne Keywords
+- Keyword-Paare (2-Wörter)
+- Quellen-Keyword-Kombinationen
+- Themen-Kategorien
 """
 
 import os
-import json
+import sys
 from datetime import datetime, timedelta
 from collections import defaultdict, Counter
-import anthropic
-from supabase import create_client, Client
+import re
+
+try:
+    from supabase import create_client, Client
+    SUPABASE_AVAILABLE = True
+except ImportError:
+    SUPABASE_AVAILABLE = False
+    print("⚠️ Supabase nicht installiert - nutze Dummy-Daten für Test")
 
 # ============================================================================
 # KONFIGURATION
 # ============================================================================
 
-SUPABASE_URL = os.environ.get('SUPABASE_URL')
-SUPABASE_KEY = os.environ.get('SUPABASE_KEY')
-ANTHROPIC_API_KEY = os.environ.get('ANTHROPIC_API_KEY')
+SUPABASE_URL = os.environ.get('SUPABASE_URL', '')
+SUPABASE_KEY = os.environ.get('SUPABASE_KEY', '')
 
-# Mindestanzahl Bewertungen für eine Regel
-MIN_FEEDBACK_COUNT = 3
+# Schwellenwerte für Regel-Generierung (OPTIMIERT!)
+MIN_BEWERTUNGEN_KEYWORD = 3      # Min. 3 Bewertungen für Keyword-Regeln
+MIN_BEWERTUNGEN_QUELLE = 5       # Min. 5 Bewertungen für Quellen-Regeln
+MIN_BEWERTUNGEN_COMBO = 3        # Min. 3 für Kombinationen
+MIN_BEWERTUNGEN_GESAMT = 20      # Min. 20 Gesamtbewertungen für Analyse
 
-# Confidence Threshold für Regeln (% positive Bewertungen)
-HIGH_CONFIDENCE_THRESHOLD = 0.75  # 75%+ positiv → bonus
-LOW_CONFIDENCE_THRESHOLD = 0.25   # 25%- positiv → malus
+RELEVANT_SCHWELLE = 0.70         # 70% = positiv bewerten
+IRRELEVANT_SCHWELLE = 0.30       # 30% = negativ bewerten
+
+# Stoppwörter (werden bei Keyword-Analyse ignoriert)
+STOPWORDS = {
+    'der', 'die', 'das', 'den', 'dem', 'des', 'ein', 'eine', 'einer', 'einem',
+    'und', 'oder', 'aber', 'auch', 'mit', 'von', 'zu', 'in', 'im', 'am', 'um',
+    'auf', 'bei', 'für', 'nach', 'vor', 'über', 'unter', 'aus', 'an', 'als',
+    'ist', 'sind', 'war', 'waren', 'wird', 'werden', 'wurde', 'wurden', 'hat',
+    'haben', 'hatte', 'hatten', 'sich', 'nicht', 'noch', 'nur', 'so', 'wie',
+    'mehr', 'gegen', 'zwischen', 'während', 'bis', 'seit'
+}
+
+# Themen-Kategorien
+THEMEN_KEYWORDS = {
+    'formate': ['format', 'show', 'serie', 'sendung', 'programm', 'quiz', 'game'],
+    'streaming': ['netflix', 'amazon', 'disney', 'apple tv', 'paramount', 'max', 'hbo', 'prime'],
+    'quoten': ['quote', 'marktanteil', 'zuschauer', 'reichweite', 'rating', 'millionen'],
+    'personal': ['chef', 'ceo', 'geschäftsführer', 'leitung', 'wechsel', 'ernennung', 'personalien'],
+    'deals': ['übernahme', 'fusion', 'kauf', 'verkauf', 'investment', 'deal', 'beteiligung'],
+    'produktion': ['produktion', 'dreh', 'produktionsfirma', 'studio', 'dreht', 'gedreht'],
+    'promi': ['promi', 'celebrity', 'star', 'skandal', 'klatsch', 'privatleben']
+}
 
 # ============================================================================
-# SUPABASE CLIENT
+# HELPER FUNKTIONEN
+# ============================================================================
+
+def extrahiere_keywords(titel):
+    """Extrahiert relevante Keywords aus Titel (ohne Stoppwörter)"""
+    # Lowercase und Tokenisierung
+    titel_lower = titel.lower()
+    # Entferne Sonderzeichen, behalte nur Buchstaben, Zahlen, Leerzeichen
+    titel_clean = re.sub(r'[^\w\s]', ' ', titel_lower)
+    # Split in Wörter
+    woerter = titel_clean.split()
+    # Filtere Stoppwörter und kurze Wörter
+    keywords = [w for w in woerter if w not in STOPWORDS and len(w) > 3]
+    return keywords
+
+
+def finde_keyword_paare(keywords):
+    """Findet 2-Wort-Kombinationen"""
+    paare = []
+    for i in range(len(keywords) - 1):
+        paar = f"{keywords[i]} {keywords[i+1]}"
+        paare.append(paar)
+    return paare
+
+
+def kategorisiere_thema(titel):
+    """Ordnet Artikel einer Themen-Kategorie zu"""
+    titel_lower = titel.lower()
+    kategorien = []
+    
+    for kategorie, begriffe in THEMEN_KEYWORDS.items():
+        for begriff in begriffe:
+            if begriff in titel_lower:
+                kategorien.append(kategorie)
+                break  # Nur einmal pro Kategorie
+    
+    return kategorien
+
+
+# ============================================================================
+# DATENBANK / SUPABASE
 # ============================================================================
 
 def get_supabase_client() -> Client:
-    """Erstellt Supabase Client"""
+    """Initialisiert Supabase Client"""
+    if not SUPABASE_AVAILABLE:
+        return None
+    
     if not SUPABASE_URL or not SUPABASE_KEY:
-        raise ValueError("SUPABASE_URL und SUPABASE_KEY müssen gesetzt sein")
+        print("❌ FEHLER: SUPABASE_URL oder SUPABASE_KEY nicht gesetzt!")
+        sys.exit(1)
+    
     return create_client(SUPABASE_URL, SUPABASE_KEY)
 
-# ============================================================================
-# FEEDBACK DATEN LADEN
-# ============================================================================
 
-def load_feedback_data(days_back: int = 30) -> list:
-    """
-    Lädt Feedback-Daten der letzten X Tage aus Supabase
-    
-    Args:
-        days_back: Anzahl Tage zurück
-        
-    Returns:
-        Liste von Feedback-Einträgen
-    """
-    supabase = get_supabase_client()
-    
-    cutoff_date = (datetime.now() - timedelta(days=days_back)).strftime('%Y-%m-%d')
+def hole_bewertungen_letzte_woche(supabase):
+    """Holt alle Bewertungen der letzten 7 Tage"""
+    heute = datetime.now().date()
+    vor_7_tagen = heute - timedelta(days=7)
     
     try:
-        response = supabase.table('artikel_bewertungen') \
-            .select('*') \
-            .gte('newsletter_datum', cutoff_date) \
+        response = supabase.table('artikel_bewertungen')\
+            .select('*')\
+            .gte('newsletter_datum', vor_7_tagen.isoformat())\
+            .lte('newsletter_datum', heute.isoformat())\
             .execute()
         
-        print(f"✅ {len(response.data)} Bewertungen geladen (letzte {days_back} Tage)")
-        return response.data
+        bewertungen = response.data
+        print(f"\n📊 {len(bewertungen)} Bewertungen gefunden ({vor_7_tagen} bis {heute})")
         
+        return bewertungen, vor_7_tagen, heute
+    
     except Exception as e:
-        print(f"❌ Fehler beim Laden der Daten: {e}")
-        return []
+        print(f"❌ Fehler beim Abrufen der Bewertungen: {e}")
+        return [], vor_7_tagen, heute
+
 
 # ============================================================================
-# THEMEN-EXTRAKTION MIT CLAUDE
+# ANALYSE-FUNKTIONEN
 # ============================================================================
 
-def extract_themes_from_titles(titles: list) -> dict:
-    """
-    Verwendet Claude API um Themen/Keywords aus Artikel-Titeln zu extrahieren
+def analysiere_nach_quelle(bewertungen):
+    """Analysiert Bewertungen nach Quelle"""
+    quellen_stats = defaultdict(lambda: {'relevant': 0, 'nicht_relevant': 0, 'artikel': []})
     
-    Args:
-        titles: Liste von Artikel-Titeln
+    for b in bewertungen:
+        quelle = b['artikel_quelle']
+        bewertung = b['bewertung']
         
-    Returns:
-        Dict mit {titel: [themen_liste]}
-    """
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
-    
-    # Batch-Verarbeitung: Alle Titel auf einmal
-    titles_text = "\n".join([f"{i+1}. {title}" for i, title in enumerate(titles)])
-    
-    prompt = f"""Analysiere diese TV/Medien-Artikel-Titel und extrahiere die HAUPTTHEMEN.
-
-Artikel-Titel:
-{titles_text}
-
-Aufgabe:
-1. Identifiziere für JEDEN Titel die 2-4 wichtigsten Themen/Keywords
-2. Fokus auf: Sender, Formate, Personen, Konzepte, Länder
-3. Normalisiere ähnliche Begriffe (z.B. "ZDF" = "Zweites Deutsches Fernsehen")
-4. Verwende deutsche und englische Begriffe wie sie im Kontext üblich sind
-
-Beispiele:
-- "RTL Quote sinkt auf Rekordtief" → ["RTL", "Quote", "Rating", "Deutschland"]
-- "Netflix Deutschland plant neue Serie" → ["Netflix", "Deutschland", "Serie", "Streaming"]
-- "BBC Drama gewinnt Emmy" → ["BBC", "Drama", "Emmy", "Award", "UK"]
-
-Antworte NUR mit einem JSON-Array im Format:
-[
-  {{"titel_nummer": 1, "themen": ["Theme1", "Theme2", "Theme3"]}},
-  {{"titel_nummer": 2, "themen": ["Theme1", "Theme2"]}}
-]
-
-WICHTIG: Antworte NUR mit dem JSON-Array, ohne zusätzlichen Text!"""
-
-    try:
-        message = client.messages.create(
-            model="claude-sonnet-4-20250514",
-            max_tokens=4000,
-            messages=[{"role": "user", "content": prompt}]
-        )
-        
-        response_text = message.content[0].text.strip()
-        
-        # Parse JSON
-        themes_data = json.loads(response_text)
-        
-        # Mappe zurück zu Titeln
-        result = {}
-        for item in themes_data:
-            titel_idx = item['titel_nummer'] - 1
-            if 0 <= titel_idx < len(titles):
-                result[titles[titel_idx]] = item['themen']
-        
-        print(f"✅ Themen für {len(result)} Artikel extrahiert")
-        return result
-        
-    except Exception as e:
-        print(f"❌ Fehler bei Themen-Extraktion: {e}")
-        return {}
-
-# ============================================================================
-# THEMEN-ANALYSE
-# ============================================================================
-
-def analyze_theme_feedback(feedback_data: list) -> dict:
-    """
-    Analysiert Feedback auf Themen-Ebene
-    
-    Args:
-        feedback_data: Feedback-Einträge aus Supabase
-        
-    Returns:
-        Dict mit Themen-Statistiken
-    """
-    if not feedback_data:
-        print("⚠️ Keine Feedback-Daten vorhanden")
-        return {}
-    
-    # Extrahiere alle Titel
-    all_titles = [entry['artikel_titel'] for entry in feedback_data]
-    
-    # Hole Themen von Claude
-    title_themes = extract_themes_from_titles(all_titles)
-    
-    if not title_themes:
-        print("⚠️ Keine Themen extrahiert")
-        return {}
-    
-    # Zähle Feedback pro Thema
-    theme_stats = defaultdict(lambda: {'relevant': 0, 'nicht_relevant': 0, 'total': 0})
-    
-    for entry in feedback_data:
-        titel = entry['artikel_titel']
-        bewertung = entry['bewertung']
-        
-        if titel in title_themes:
-            themes = title_themes[titel]
-            
-            for theme in themes:
-                theme_stats[theme]['total'] += 1
-                
-                if bewertung == 'relevant':
-                    theme_stats[theme]['relevant'] += 1
-                else:
-                    theme_stats[theme]['nicht_relevant'] += 1
-    
-    return dict(theme_stats)
-
-# ============================================================================
-# QUELLEN-ANALYSE (Fallback)
-# ============================================================================
-
-def analyze_source_feedback(feedback_data: list) -> dict:
-    """
-    Analysiert Feedback auf Quellen-Ebene (als Fallback)
-    
-    Args:
-        feedback_data: Feedback-Einträge aus Supabase
-        
-    Returns:
-        Dict mit Quellen-Statistiken
-    """
-    source_stats = defaultdict(lambda: {'relevant': 0, 'nicht_relevant': 0, 'total': 0})
-    
-    for entry in feedback_data:
-        quelle = entry['artikel_quelle']
-        bewertung = entry['bewertung']
-        
-        source_stats[quelle]['total'] += 1
+        quellen_stats[quelle]['artikel'].append(b['artikel_titel'])
         
         if bewertung == 'relevant':
-            source_stats[quelle]['relevant'] += 1
+            quellen_stats[quelle]['relevant'] += 1
         else:
-            source_stats[quelle]['nicht_relevant'] += 1
+            quellen_stats[quelle]['nicht_relevant'] += 1
     
-    return dict(source_stats)
+    return quellen_stats
+
+
+def analysiere_nach_keywords(bewertungen):
+    """Analysiert Bewertungen nach Keywords"""
+    keyword_stats = defaultdict(lambda: {'relevant': 0, 'nicht_relevant': 0, 'artikel': []})
+    
+    for b in bewertungen:
+        titel = b['artikel_titel']
+        bewertung = b['bewertung']
+        keywords = extrahiere_keywords(titel)
+        
+        for keyword in keywords:
+            keyword_stats[keyword]['artikel'].append(titel)
+            
+            if bewertung == 'relevant':
+                keyword_stats[keyword]['relevant'] += 1
+            else:
+                keyword_stats[keyword]['nicht_relevant'] += 1
+    
+    return keyword_stats
+
+
+def analysiere_keyword_paare(bewertungen):
+    """Analysiert 2-Wort-Kombinationen"""
+    paar_stats = defaultdict(lambda: {'relevant': 0, 'nicht_relevant': 0, 'artikel': []})
+    
+    for b in bewertungen:
+        titel = b['artikel_titel']
+        bewertung = b['bewertung']
+        keywords = extrahiere_keywords(titel)
+        paare = finde_keyword_paare(keywords)
+        
+        for paar in paare:
+            paar_stats[paar]['artikel'].append(titel)
+            
+            if bewertung == 'relevant':
+                paar_stats[paar]['relevant'] += 1
+            else:
+                paar_stats[paar]['nicht_relevant'] += 1
+    
+    return paar_stats
+
+
+def analysiere_quelle_keyword_kombis(bewertungen):
+    """Analysiert Kombinationen von Quelle + Keyword"""
+    kombi_stats = defaultdict(lambda: {'relevant': 0, 'nicht_relevant': 0, 'artikel': []})
+    
+    for b in bewertungen:
+        titel = b['artikel_titel']
+        quelle = b['artikel_quelle']
+        bewertung = b['bewertung']
+        keywords = extrahiere_keywords(titel)
+        
+        for keyword in keywords[:3]:  # Nur Top-3 Keywords pro Artikel
+            kombi = f"{quelle}+{keyword}"
+            kombi_stats[kombi]['artikel'].append(titel)
+            
+            if bewertung == 'relevant':
+                kombi_stats[kombi]['relevant'] += 1
+            else:
+                kombi_stats[kombi]['nicht_relevant'] += 1
+    
+    return kombi_stats
+
+
+def analysiere_themen(bewertungen):
+    """Analysiert nach Themen-Kategorien"""
+    themen_stats = defaultdict(lambda: {'relevant': 0, 'nicht_relevant': 0, 'artikel': []})
+    
+    for b in bewertungen:
+        titel = b['artikel_titel']
+        bewertung = b['bewertung']
+        kategorien = kategorisiere_thema(titel)
+        
+        for kategorie in kategorien:
+            themen_stats[kategorie]['artikel'].append(titel)
+            
+            if bewertung == 'relevant':
+                themen_stats[kategorie]['relevant'] += 1
+            else:
+                themen_stats[kategorie]['nicht_relevant'] += 1
+    
+    return themen_stats
+
 
 # ============================================================================
 # REGEL-GENERIERUNG
 # ============================================================================
 
-def generate_learning_rules(theme_stats: dict, source_stats: dict) -> list:
-    """
-    Generiert Lernregeln basierend auf Themen- und Quellen-Statistiken
+def generiere_regeln(quellen_stats, keyword_stats, paar_stats, kombi_stats, themen_stats):
+    """Generiert Lern-Regeln basierend auf Statistiken"""
+    regeln = []
     
-    Args:
-        theme_stats: Themen-Statistiken
-        source_stats: Quellen-Statistiken
-        
-    Returns:
-        Liste von Lernregeln
-    """
-    rules = []
+    print("\n🎓 GENERIERE LERN-REGELN")
+    print("=" * 70)
     
-    # ========================================
-    # THEMEN-BASIERTE REGELN (Priorität!)
-    # ========================================
-    
-    for theme, stats in theme_stats.items():
-        if stats['total'] < MIN_FEEDBACK_COUNT:
-            continue
+    # 1. QUELLEN-REGELN
+    print("\n1️⃣ QUELLEN-REGELN:")
+    for quelle, stats in sorted(quellen_stats.items()):
+        gesamt = stats['relevant'] + stats['nicht_relevant']
         
-        positive_ratio = stats['relevant'] / stats['total']
-        
-        # Stark positive Themen → Bonus
-        if positive_ratio >= HIGH_CONFIDENCE_THRESHOLD:
-            adjustment = 2 if positive_ratio >= 0.9 else 1
+        if gesamt >= MIN_BEWERTUNGEN_QUELLE:
+            prozent_relevant = stats['relevant'] / gesamt
             
-            rules.append({
-                'type': 'theme_bonus',
-                'theme': theme,
-                'adjustment': adjustment,
-                'confidence': positive_ratio,
-                'sample_size': stats['total'],
-                'reasoning': f"Thema '{theme}' hat {positive_ratio*100:.1f}% positive Bewertungen ({stats['relevant']}/{stats['total']})"
-            })
-        
-        # Stark negative Themen → Malus
-        elif positive_ratio <= LOW_CONFIDENCE_THRESHOLD:
-            adjustment = -2 if positive_ratio <= 0.1 else -1
+            if prozent_relevant >= RELEVANT_SCHWELLE:
+                boost = 1 if prozent_relevant < 0.85 else 2
+                regeln.append({
+                    'typ': 'quelle',
+                    'wert': quelle,
+                    'aktion': boost,
+                    'grund': f"{int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
+                })
+                print(f"   ✅ {quelle}: +{boost} ({int(prozent_relevant*100)}%)")
             
-            rules.append({
-                'type': 'theme_malus',
-                'theme': theme,
-                'adjustment': adjustment,
-                'confidence': 1 - positive_ratio,
-                'sample_size': stats['total'],
-                'reasoning': f"Thema '{theme}' hat nur {positive_ratio*100:.1f}% positive Bewertungen ({stats['relevant']}/{stats['total']})"
-            })
+            elif prozent_relevant <= IRRELEVANT_SCHWELLE:
+                regeln.append({
+                    'typ': 'quelle',
+                    'wert': quelle,
+                    'aktion': -1,
+                    'grund': f"nur {int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
+                })
+                print(f"   ❌ {quelle}: -1 ({int(prozent_relevant*100)}%)")
     
-    # ========================================
-    # QUELLEN-BASIERTE REGELN (Fallback)
-    # ========================================
-    
-    for source, stats in source_stats.items():
-        if stats['total'] < MIN_FEEDBACK_COUNT * 2:  # Höhere Anforderung für Quellen
-            continue
+    # 2. KEYWORD-REGELN
+    print("\n2️⃣ KEYWORD-REGELN:")
+    keyword_items = sorted(keyword_stats.items(), key=lambda x: x[1]['relevant'], reverse=True)
+    count = 0
+    for keyword, stats in keyword_items:
+        if count >= 15:  # Max 15 Keyword-Regeln
+            break
         
-        positive_ratio = stats['relevant'] / stats['total']
+        gesamt = stats['relevant'] + stats['nicht_relevant']
         
-        # Nur sehr extreme Quellen-Präferenzen
-        if positive_ratio >= 0.85:
-            rules.append({
-                'type': 'source_bonus',
-                'source': source,
-                'adjustment': 1,
-                'confidence': positive_ratio,
-                'sample_size': stats['total'],
-                'reasoning': f"Quelle '{source}' hat {positive_ratio*100:.1f}% positive Bewertungen ({stats['relevant']}/{stats['total']})"
-            })
+        if gesamt >= MIN_BEWERTUNGEN_KEYWORD:
+            prozent_relevant = stats['relevant'] / gesamt
+            
+            if prozent_relevant >= RELEVANT_SCHWELLE:
+                boost = 1 if prozent_relevant < 0.85 else 2
+                regeln.append({
+                    'typ': 'keyword',
+                    'wert': keyword,
+                    'aktion': boost,
+                    'grund': f"{int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
+                })
+                print(f"   ✅ '{keyword}': +{boost} ({int(prozent_relevant*100)}%)")
+                count += 1
+            
+            elif prozent_relevant <= IRRELEVANT_SCHWELLE:
+                regeln.append({
+                    'typ': 'keyword',
+                    'wert': keyword,
+                    'aktion': -1,
+                    'grund': f"nur {int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
+                })
+                print(f"   ❌ '{keyword}': -1 ({int(prozent_relevant*100)}%)")
+                count += 1
+    
+    # 3. KEYWORD-PAAR-REGELN
+    print("\n3️⃣ KEYWORD-PAAR-REGELN:")
+    paar_items = sorted(paar_stats.items(), key=lambda x: x[1]['relevant'], reverse=True)
+    count = 0
+    for paar, stats in paar_items:
+        if count >= 10:  # Max 10 Paar-Regeln
+            break
         
-        elif positive_ratio <= 0.15:
-            rules.append({
-                'type': 'source_malus',
-                'source': source,
-                'adjustment': -1,
-                'confidence': 1 - positive_ratio,
-                'sample_size': stats['total'],
-                'reasoning': f"Quelle '{source}' hat nur {positive_ratio*100:.1f}% positive Bewertungen ({stats['relevant']}/{stats['total']})"
-            })
+        gesamt = stats['relevant'] + stats['nicht_relevant']
+        
+        if gesamt >= MIN_BEWERTUNGEN_COMBO:
+            prozent_relevant = stats['relevant'] / gesamt
+            
+            if prozent_relevant >= 0.80:  # Höhere Schwelle für Paare!
+                regeln.append({
+                    'typ': 'keyword_paar',
+                    'wert': paar,
+                    'aktion': 2,
+                    'grund': f"{int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
+                })
+                print(f"   ✅ '{paar}': +2 ({int(prozent_relevant*100)}%)")
+                count += 1
     
-    # Sortiere Regeln nach Confidence
-    rules.sort(key=lambda x: x['confidence'], reverse=True)
+    # 4. QUELLEN-KEYWORD-KOMBINATIONEN
+    print("\n4️⃣ QUELLEN-KEYWORD-KOMBIS:")
+    kombi_items = sorted(kombi_stats.items(), key=lambda x: x[1]['relevant'], reverse=True)
+    count = 0
+    for kombi, stats in kombi_items:
+        if count >= 10:  # Max 10 Kombi-Regeln
+            break
+        
+        gesamt = stats['relevant'] + stats['nicht_relevant']
+        
+        if gesamt >= MIN_BEWERTUNGEN_COMBO:
+            prozent_relevant = stats['relevant'] / gesamt
+            
+            if prozent_relevant >= 0.80:
+                regeln.append({
+                    'typ': 'quelle_keyword',
+                    'wert': kombi,
+                    'aktion': 2,
+                    'grund': f"{int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
+                })
+                quelle, keyword = kombi.split('+')
+                print(f"   ✅ {quelle} + '{keyword}': +2 ({int(prozent_relevant*100)}%)")
+                count += 1
     
-    return rules
+    # 5. THEMEN-REGELN
+    print("\n5️⃣ THEMEN-REGELN:")
+    for thema, stats in sorted(themen_stats.items()):
+        gesamt = stats['relevant'] + stats['nicht_relevant']
+        
+        if gesamt >= MIN_BEWERTUNGEN_KEYWORD:
+            prozent_relevant = stats['relevant'] / gesamt
+            
+            if prozent_relevant >= RELEVANT_SCHWELLE:
+                boost = 1
+                regeln.append({
+                    'typ': 'thema',
+                    'wert': thema,
+                    'aktion': boost,
+                    'grund': f"{int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
+                })
+                print(f"   ✅ Thema '{thema}': +{boost} ({int(prozent_relevant*100)}%)")
+            
+            elif prozent_relevant <= IRRELEVANT_SCHWELLE:
+                regeln.append({
+                    'typ': 'thema',
+                    'wert': thema,
+                    'aktion': -1,
+                    'grund': f"nur {int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
+                })
+                print(f"   ❌ Thema '{thema}': -1 ({int(prozent_relevant*100)}%)")
+    
+    print(f"\n✅ {len(regeln)} Regeln generiert!")
+    return regeln
 
-# ============================================================================
-# REGELN SPEICHERN
-# ============================================================================
 
-def save_learning_rules(rules: list):
+def generiere_learning_rules_py(regeln):
     """
-    Speichert Lernregeln in learning_rules.py
-    
-    Args:
-        rules: Liste von Lernregeln
+    Generiert learning_rules.py im Dictionary-Format
+    Kompatibel mit medien_newsletter_web.py
     """
-    timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-    
-    file_content = f'''#!/usr/bin/env python3
+    try:
+        timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        
+        # Erstelle Dictionaries
+        source_boosts = {}
+        keyword_boosts = {}
+        
+        # Quellen-Regeln
+        quellen_regeln = [r for r in regeln if r['typ'] == 'quelle']
+        for regel in quellen_regeln:
+            source_boosts[regel['wert']] = regel['aktion']
+        
+        # Keyword-Regeln
+        keyword_regeln = [r for r in regeln if r['typ'] == 'keyword']
+        for regel in keyword_regeln:
+            keyword_boosts[regel['wert']] = regel['aktion']
+        
+        # Keyword-Paare
+        paar_regeln = [r for r in regeln if r['typ'] == 'keyword_paar']
+        for regel in paar_regeln:
+            keyword_boosts[regel['wert']] = regel['aktion']
+        
+        # Themen-Regeln: Alle Begriffe der Kategorie hinzufügen
+        themen_regeln = [r for r in regeln if r['typ'] == 'thema']
+        for regel in themen_regeln:
+            if regel['wert'] in THEMEN_KEYWORDS:
+                for begriff in THEMEN_KEYWORDS[regel['wert']]:
+                    keyword_boosts[begriff] = regel['aktion']
+        
+        # Code generieren
+        source_lines = []
+        for quelle, boost in source_boosts.items():
+            grund = [r['grund'] for r in regeln if r['typ'] == 'quelle' and r['wert'] == quelle][0]
+            source_lines.append(f"        '{quelle}': {boost},  # {grund}")
+        
+        keyword_lines = []
+        for keyword, boost in keyword_boosts.items():
+            keyword_lines.append(f"        '{keyword}': {boost},")
+        
+        code = f"""#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+\"\"\"
+AUTOMATISCH GENERIERTE LERN-REGELN
+Erstellt: {timestamp}
+Anzahl Regeln: {len(regeln)}
+
+Format: Dictionary für medien_newsletter_web.py
+\"\"\"
+
+# Learning Rules im Dictionary-Format
+LEARNING_RULES = {{
+    'source_boosts': {{
+{chr(10).join(source_lines)}
+    }},
+    'keyword_boosts': {{
+{chr(10).join(keyword_lines)}
+    }}
+}}
+
+# Statistik
+ANZAHL_QUELLEN = {len(source_boosts)}
+ANZAHL_KEYWORDS = {len(keyword_boosts)}
+ANZAHL_REGELN_GESAMT = {len(regeln)}
 """
-Learning Rules für Zoo Media Newsletter
-Auto-generiert am: {timestamp}
-
-Diese Regeln werden automatisch beim Newsletter-Scoring angewendet.
-"""
-
-# ============================================================================
-# AKTIVE LERNREGELN
-# ============================================================================
-
-LEARNING_RULES = {json.dumps(rules, indent=4, ensure_ascii=False)}
-
-# ============================================================================
-# REGEL-ANWENDUNG
-# ============================================================================
-
-def apply_learning_rules(article_title: str, article_source: str, base_score: int) -> int:
-    """
-    Wendet Lernregeln auf einen Artikel an
-    
-    Args:
-        article_title: Artikel-Titel
-        article_source: Artikel-Quelle
-        base_score: Basis-Score von Claude
         
-    Returns:
-        Angepasster Score
-    """
-    adjusted_score = base_score
-    applied_rules = []
-    
-    # Themen-basierte Regeln
-    for rule in LEARNING_RULES:
-        if rule['type'] in ['theme_bonus', 'theme_malus']:
-            theme = rule['theme'].lower()
-            title_lower = article_title.lower()
-            
-            # Check ob Thema im Titel vorkommt
-            if theme in title_lower:
-                adjusted_score += rule['adjustment']
-                applied_rules.append(f"{{rule['type']}}: {{rule['theme']}} ({{rule['adjustment']:+d}})")
+        # Datei schreiben
+        with open('learning_rules.py', 'w', encoding='utf-8') as f:
+            f.write(code)
         
-        # Quellen-basierte Regeln
-        elif rule['type'] in ['source_bonus', 'source_malus']:
-            if rule['source'] == article_source:
-                adjusted_score += rule['adjustment']
-                applied_rules.append(f"{{rule['type']}}: {{rule['source']}} ({{rule['adjustment']:+d}})")
-    
-    # Score zwischen 1-10 halten
-    adjusted_score = max(1, min(10, adjusted_score))
-    
-    if applied_rules:
-        print(f"  📊 Regeln angewendet: {{', '.join(applied_rules)}} → Score: {{base_score}} → {{adjusted_score}}")
-    
-    return adjusted_score
+        print(f"\n✅ learning_rules.py erfolgreich erstellt!")
+        print(f"   Quellen-Boosts: {len(source_boosts)}")
+        print(f"   Keyword-Boosts: {len(keyword_boosts)}")
+        print(f"   Gesamt: {len(source_boosts) + len(keyword_boosts)} anwendbare Regeln")
+        
+    except Exception as e:
+        print(f"❌ Fehler beim Generieren von learning_rules.py: {e}")
+        import traceback
+        traceback.print_exc()
 
-def get_rule_summary() -> str:
-    """Gibt Zusammenfassung der aktiven Regeln zurück"""
-    if not LEARNING_RULES:
-        return "Keine aktiven Lernregeln."
-    
-    summary = f"{{len(LEARNING_RULES)}} aktive Lernregeln:\\n\\n"
-    
-    for i, rule in enumerate(LEARNING_RULES, 1):
-        summary += f"{{i}}. "
-        
-        if rule['type'] in ['theme_bonus', 'theme_malus']:
-            summary += f"Thema '{{rule['theme']}}': {{rule['adjustment']:+d}} Punkte\\n"
-        elif rule['type'] in ['source_bonus', 'source_malus']:
-            summary += f"Quelle '{{rule['source']}}': {{rule['adjustment']:+d}} Punkte\\n"
-        
-        summary += f"   {{rule['reasoning']}}\\n\\n"
-    
-    return summary
-'''
-    
-    # Speichere Datei
-    with open('learning_rules.py', 'w', encoding='utf-8') as f:
-        f.write(file_content)
-    
-    print(f"✅ {len(rules)} Lernregeln gespeichert in learning_rules.py")
 
 # ============================================================================
 # MAIN
@@ -407,60 +483,54 @@ def get_rule_summary() -> str:
 
 def main():
     """Hauptfunktion"""
-    print("=" * 80)
-    print("🧠 Zoo Media Newsletter - Weekly Learning Analysis")
-    print("=" * 80)
-    print()
+    print("\n" + "="*70)
+    print("🤖 ZOO MEDIEN NEWSLETTER - VERBESSERTE WÖCHENTLICHE ANALYSE")
+    print("="*70)
     
-    # 1. Lade Feedback-Daten
-    print("📊 Lade Feedback-Daten...")
-    feedback_data = load_feedback_data(days_back=30)
-    
-    if not feedback_data:
-        print("⚠️ Keine Feedback-Daten vorhanden. Analyse beendet.")
+    if not SUPABASE_AVAILABLE:
+        print("❌ Supabase nicht installiert!")
         return
     
-    print(f"✅ {len(feedback_data)} Bewertungen geladen")
-    print()
+    # Supabase Client
+    supabase = get_supabase_client()
     
-    # 2. Analysiere Themen
-    print("🔍 Analysiere Themen-Feedback...")
-    theme_stats = analyze_theme_feedback(feedback_data)
-    print(f"✅ {len(theme_stats)} verschiedene Themen gefunden")
-    print()
+    # Bewertungen abrufen
+    bewertungen, start, ende = hole_bewertungen_letzte_woche(supabase)
     
-    # 3. Analysiere Quellen (Fallback)
-    print("🔍 Analysiere Quellen-Feedback...")
-    source_stats = analyze_source_feedback(feedback_data)
-    print(f"✅ {len(source_stats)} verschiedene Quellen analysiert")
-    print()
+    if len(bewertungen) < MIN_BEWERTUNGEN_GESAMT:
+        print(f"\n⚠️ Zu wenig Bewertungen ({len(bewertungen)}) für eine Analyse")
+        print(f"   Minimum: {MIN_BEWERTUNGEN_GESAMT} Bewertungen")
+        print("   Warte bis nächste Woche!")
+        return
     
-    # 4. Generiere Regeln
-    print("⚙️ Generiere Lernregeln...")
-    rules = generate_learning_rules(theme_stats, source_stats)
-    print(f"✅ {len(rules)} Regeln generiert")
-    print()
+    print(f"✅ Genug Daten vorhanden - starte Analyse!")
     
-    # 5. Ausgabe Details
-    if rules:
-        print("📋 Generierte Regeln:")
-        print("-" * 80)
-        for i, rule in enumerate(rules, 1):
-            print(f"{i}. {rule['reasoning']}")
-            print(f"   Typ: {rule['type']}, Anpassung: {rule['adjustment']:+d}, Confidence: {rule['confidence']:.1%}")
-            print()
-    else:
-        print("⚠️ Keine Regeln generiert (zu wenig Daten oder keine starken Muster)")
-        print()
+    # Analysen durchführen
+    print("\n📊 FÜHRE ANALYSEN DURCH...")
+    quellen_stats = analysiere_nach_quelle(bewertungen)
+    keyword_stats = analysiere_nach_keywords(bewertungen)
+    paar_stats = analysiere_keyword_paare(bewertungen)
+    kombi_stats = analysiere_quelle_keyword_kombis(bewertungen)
+    themen_stats = analysiere_themen(bewertungen)
     
-    # 6. Speichere Regeln
-    print("💾 Speichere Regeln...")
-    save_learning_rules(rules)
-    print()
+    # Regeln generieren
+    regeln = generiere_regeln(quellen_stats, keyword_stats, paar_stats, kombi_stats, themen_stats)
     
-    print("=" * 80)
-    print("✅ Analyse abgeschlossen!")
-    print("=" * 80)
+    if not regeln:
+        print("\n⚠️ Keine Regeln generiert - Schwellenwerte nicht erreicht")
+        return
+    
+    # learning_rules.py generieren
+    generiere_learning_rules_py(regeln)
+    
+    print("\n" + "="*70)
+    print("🎉 ANALYSE ABGESCHLOSSEN!")
+    print("="*70)
+    print(f"📅 Zeitraum: {start} bis {ende}")
+    print(f"📊 Bewertungen: {len(bewertungen)}")
+    print(f"🎓 Regeln: {len(regeln)}")
+    print("="*70 + "\n")
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()
