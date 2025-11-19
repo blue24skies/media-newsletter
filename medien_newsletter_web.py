@@ -15,6 +15,7 @@ import time
 import sys
 import os
 import json
+import re
 from bs4 import BeautifulSoup
 from urllib.parse import quote
 
@@ -341,21 +342,27 @@ def hole_meedia_artikel():
             titel_raw = candidate['titel']
             link = candidate['link']
             
-            # Strategie 1: Suche nach " – " oder " - " (Dash)
+            # Strategie 1: Suche nach " – " oder " - " (Dash) - häufigster Fall!
             if ' – ' in titel_raw:
                 titel = titel_raw.split(' – ')[0].strip()
             elif ' - ' in titel_raw:
                 titel = titel_raw.split(' - ')[0].strip()
-            # Strategie 2: Suche nach erstem Satz
-            elif '. ' in titel_raw:
-                titel = titel_raw.split('. ')[0].strip()
-            # Strategie 3: Erste 100 Zeichen
+            # Strategie 2: Suche nach Satzanfängen (Großbuchstaben nach Kleinbuchstaben)
+            # z.B. "...von Amazon Der Deutschland..." → split bei " Der"
             else:
-                titel = titel_raw[:100].strip()
+                # Suche nach Pattern: Kleinbuchstabe + Leerzeichen + Großbuchstabe + Wort
+                match = re.search(r'([a-zäöü]) ([A-ZÄÖÜ][a-zäöü]{2,})', titel_raw)
+                if match:
+                    # Schneide bei dieser Position ab
+                    titel = titel_raw[:match.end(1)].strip()
+                elif '. ' in titel_raw:
+                    titel = titel_raw.split('. ')[0].strip()
+                else:
+                    titel = titel_raw[:100].strip()
             
-            # Hard limit: Max 120 Zeichen
-            if len(titel) > 120:
-                titel = titel[:120].rsplit(' ', 1)[0] + "..."
+            # Hard limit: Max 100 Zeichen (kürzer!)
+            if len(titel) > 100:
+                titel = titel[:100].rsplit(' ', 1)[0] + "..."
             
             # Skip Duplikate und zu kurze
             if len(titel) < 20 or titel in seen_titles:
