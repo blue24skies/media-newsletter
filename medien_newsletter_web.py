@@ -254,21 +254,23 @@ def hole_kress_artikel():
             titel_raw = candidate['titel']
             link = candidate['link']
             
-            # Kürze Titel auf vernünftige Länge (erste Zeile oder max 150 Zeichen)
-            # Oft enthält titel_raw mehrere Sätze - wir wollen nur den Haupttitel
-            titel_lines = titel_raw.split('.')
-            titel = titel_lines[0].strip()  # Erste Zeile bis zum ersten Punkt
+            # Strategie 1: Suche nach " – " (Dash) - oft trennt das Haupt- von Untertitel
+            if ' – ' in titel_raw:
+                titel = titel_raw.split(' – ')[0].strip()
+            # Strategie 2: Suche nach erstem Satz (Punkt + Leerzeichen)
+            elif '. ' in titel_raw:
+                titel = titel_raw.split('. ')[0].strip()
+            # Strategie 3: Erste 100 Zeichen
+            else:
+                titel = titel_raw[:100].strip()
             
-            # Falls immer noch zu lang, schneide bei 150 Zeichen ab
-            if len(titel) > 150:
-                titel = titel[:150].strip() + "..."
+            # Hard limit: Max 120 Zeichen für Titel
+            if len(titel) > 120:
+                # Suche letztes Wort das noch reinpasst
+                titel = titel[:120].rsplit(' ', 1)[0] + "..."
             
-            # Falls zu kurz (nur ein Wort), nimm mehr
-            if len(titel) < 30 and len(titel_lines) > 1:
-                titel = (titel_lines[0] + ". " + titel_lines[1]).strip()[:150]
-            
-            # Skip Duplikate
-            if titel in seen_titles or len(titel) < 20:
+            # Skip zu kurze oder Duplikate
+            if len(titel) < 20 or titel in seen_titles:
                 continue
             seen_titles.add(titel)
             
@@ -337,18 +339,24 @@ def hole_meedia_artikel():
             titel_raw = candidate['titel']
             link = candidate['link']
             
-            # Kürze Titel auf vernünftige Länge
-            titel_lines = titel_raw.split('.')
-            titel = titel_lines[0].strip()
+            # Strategie 1: Suche nach " – " oder " - " (Dash)
+            if ' – ' in titel_raw:
+                titel = titel_raw.split(' – ')[0].strip()
+            elif ' - ' in titel_raw:
+                titel = titel_raw.split(' - ')[0].strip()
+            # Strategie 2: Suche nach erstem Satz
+            elif '. ' in titel_raw:
+                titel = titel_raw.split('. ')[0].strip()
+            # Strategie 3: Erste 100 Zeichen
+            else:
+                titel = titel_raw[:100].strip()
             
-            if len(titel) > 150:
-                titel = titel[:150].strip() + "..."
+            # Hard limit: Max 120 Zeichen
+            if len(titel) > 120:
+                titel = titel[:120].rsplit(' ', 1)[0] + "..."
             
-            if len(titel) < 30 and len(titel_lines) > 1:
-                titel = (titel_lines[0] + ". " + titel_lines[1]).strip()[:150]
-            
-            # Skip Duplikate und zu kurze Titel
-            if titel in seen_titles or len(titel) < 25:
+            # Skip Duplikate und zu kurze
+            if len(titel) < 20 or titel in seen_titles:
                 continue
             seen_titles.add(titel)
             
@@ -418,18 +426,24 @@ def hole_turi2_artikel():
             titel_raw = candidate['titel']
             link = candidate['link']
             
-            # Kürze Titel auf vernünftige Länge
-            titel_lines = titel_raw.split('.')
-            titel = titel_lines[0].strip()
+            # Strategie 1: Suche nach " – " oder " - " (Dash)
+            if ' – ' in titel_raw:
+                titel = titel_raw.split(' – ')[0].strip()
+            elif ' - ' in titel_raw:
+                titel = titel_raw.split(' - ')[0].strip()
+            # Strategie 2: Suche nach erstem Satz
+            elif '. ' in titel_raw:
+                titel = titel_raw.split('. ')[0].strip()
+            # Strategie 3: Erste 100 Zeichen
+            else:
+                titel = titel_raw[:100].strip()
             
-            if len(titel) > 150:
-                titel = titel[:150].strip() + "..."
+            # Hard limit: Max 120 Zeichen
+            if len(titel) > 120:
+                titel = titel[:120].rsplit(' ', 1)[0] + "..."
             
-            if len(titel) < 30 and len(titel_lines) > 1:
-                titel = (titel_lines[0] + ". " + titel_lines[1]).strip()[:150]
-            
-            # Skip Duplikate
-            if titel in seen_titles or len(titel) < 20:
+            # Skip Duplikate und zu kurze
+            if len(titel) < 20 or titel in seen_titles:
                 continue
             seen_titles.add(titel)
             
