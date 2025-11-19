@@ -233,7 +233,8 @@ def hole_kress_artikel():
         # Finde alle Links mit substantiellem Text
         artikel_candidates = []
         for link in soup.find_all('a', href=True):
-            link_text = link.get_text(strip=True)
+            # WICHTIG: separator=' ' fügt Leerzeichen zwischen HTML-Elementen ein!
+            link_text = link.get_text(separator=' ', strip=True)
             href = link.get('href')
             
             # Nur Links mit genug Text und echten URLs
@@ -318,7 +319,8 @@ def hole_meedia_artikel():
         # Finde alle Links mit substantiellem Text
         artikel_candidates = []
         for link in soup.find_all('a', href=True):
-            link_text = link.get_text(strip=True)
+            # WICHTIG: separator=' ' fügt Leerzeichen zwischen HTML-Elementen ein!
+            link_text = link.get_text(separator=' ', strip=True)
             href = link.get('href')
             
             # Nur Links mit genug Text
@@ -404,7 +406,8 @@ def hole_turi2_artikel():
         # Finde alle Links mit substantiellem Text
         artikel_candidates = []
         for link in soup.find_all('a', href=True):
-            link_text = link.get_text(strip=True)
+            # WICHTIG: separator=' ' fügt Leerzeichen zwischen HTML-Elementen ein!
+            link_text = link.get_text(separator=' ', strip=True)
             href = link.get('href')
             
             # Nur Links mit genug Text
