@@ -62,64 +62,19 @@ EMPFAENGER = {
 # ============================================================================
 
 def load_learning_rules():
-    """
-    Lade die Learning Rules aus learning_rules.py falls vorhanden
-    ROBUST: Unterstützt sowohl Dictionary- als auch Listen-Format
-    """
+    """Lade die Learning Rules aus learning_rules.py falls vorhanden"""
     try:
         if os.path.exists('learning_rules.py'):
             with open('learning_rules.py', 'r', encoding='utf-8') as f:
                 code = f.read()
                 local_vars = {}
                 exec(code, {}, local_vars)
-                
                 if 'LEARNING_RULES' in local_vars:
-                    rules = local_vars['LEARNING_RULES']
-                    
-                    # Prüfe Format
-                    if isinstance(rules, dict):
-                        # Neues Dictionary-Format (korrekt!)
-                        print("✅ Learning Rules aktiv (Dictionary-Format)")
-                        return rules
-                    elif isinstance(rules, list):
-                        # Altes Listen-Format - konvertiere!
-                        print("⚠️ Learning Rules im alten Listen-Format - konvertiere zu Dictionary...")
-                        return convert_list_to_dict_format(rules)
-                    else:
-                        print(f"⚠️ Unbekanntes Learning Rules Format: {type(rules)}")
-                        return {}
+                    print("✅ Learning Rules aktiv")
+                    return local_vars['LEARNING_RULES']
     except Exception as e:
         print(f"⚠️ Konnte Learning Rules nicht laden: {e}")
-        import traceback
-        traceback.print_exc()
-    
     return {}
-
-def convert_list_to_dict_format(rules_list):
-    """
-    Konvertiert altes Listen-Format zu neuem Dictionary-Format
-    Altes Format: Liste von Regel-Dictionaries
-    Neues Format: {'source_boosts': {...}, 'keyword_boosts': {...}}
-    """
-    source_boosts = {}
-    keyword_boosts = {}
-    
-    for rule in rules_list:
-        if isinstance(rule, dict):
-            regel_typ = rule.get('regel_typ', '')
-            bedingung = rule.get('bedingung', '')
-            modifier = rule.get('score_modifier', 0)
-            
-            if regel_typ == 'quelle':
-                source_boosts[bedingung] = modifier
-            elif regel_typ in ['keyword', 'keyword_paar', 'thema', 'quelle_keyword']:
-                keyword_boosts[bedingung] = modifier
-    
-    print(f"   Konvertiert: {len(source_boosts)} Quellen, {len(keyword_boosts)} Keywords")
-    return {
-        'source_boosts': source_boosts,
-        'keyword_boosts': keyword_boosts
-    }
 
 LEARNING_RULES = load_learning_rules()
 
@@ -261,7 +216,7 @@ def search_web_for_context(title, description):
 def hole_kress_artikel():
     """
     Scrape aktuelle Artikel von kress.de/news
-    Gibt Artikel im gleichen Format wie RSS-Feeds zurück
+    VERBESSERT: Lädt jetzt jeden Artikel einzeln für echte Inhalte
     """
     artikel_liste = []
     
@@ -271,51 +226,71 @@ def hole_kress_artikel():
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         }
         
+        # Hole die Übersichtsseite
         response = requests.get('https://kress.de/news', headers=headers, timeout=10)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # Finde Artikel-Container
-        artikel_texte = soup.find_all('p')
-        
-        artikel_count = 0
-        for p in artikel_texte[:20]:
-            text = p.get_text(strip=True)
-            
-            if len(text) < 50:
-                continue
-            
-            link_tag = p.find_parent().find('a') if p.find_parent() else None
-            if not link_tag:
-                link_tag = p.find('a')
-            
-            link = ''
-            if link_tag and link_tag.get('href'):
-                href = link_tag.get('href')
+        # Finde alle Links die zu /news/detail gehen
+        artikel_links = set()  # Set um Duplikate zu vermeiden
+        for link in soup.find_all('a', href=True):
+            href = link.get('href')
+            if '/news/detail/' in href:
                 if href.startswith('http'):
-                    link = href
+                    artikel_links.add(href)
                 elif href.startswith('/'):
-                    link = f"https://kress.de{href}"
-            
-            titel = text[:100] + "..." if len(text) > 100 else text
-            
-            words = text.lower().split()
-            keywords = [w for w in words if len(w) > 5][:10]
-            
-            artikel_liste.append({
-                'source': 'kress',
-                'title': titel,
-                'link': link if link else 'https://kress.de/news',
-                'description': text,
-                'keywords': keywords,
-                'score': 5
-            })
-            
-            artikel_count += 1
-            if artikel_count >= 15:
-                break
+                    artikel_links.add(f"https://kress.de{href}")
         
-        print(f"   ✅ {artikel_count} Artikel von kress.de gefunden\n")
+        print(f"   📄 {len(artikel_links)} eindeutige Artikel-Links gefunden")
+        
+        # Lade jeden Artikel einzeln (max 15)
+        artikel_count = 0
+        for artikel_url in list(artikel_links)[:15]:
+            try:
+                # Lade den kompletten Artikel
+                art_response = requests.get(artikel_url, headers=headers, timeout=10)
+                art_response.raise_for_status()
+                art_soup = BeautifulSoup(art_response.content, 'html.parser')
+                
+                # Hole Titel
+                title_tag = art_soup.find('h1')
+                if not title_tag:
+                    continue
+                titel = title_tag.get_text(strip=True)
+                
+                # Hole Artikel-Text aus allen Paragraphen
+                artikel_text = []
+                for p in art_soup.find_all('p'):
+                    text = p.get_text(strip=True)
+                    if len(text) > 30:  # Nur substantielle Paragraphen
+                        artikel_text.append(text)
+                
+                beschreibung = ' '.join(artikel_text[:3])  # Erste 3 Paragraphen
+                
+                if len(beschreibung) < 50:
+                    continue
+                
+                # Keywords aus Titel extrahieren
+                words = titel.lower().split()
+                keywords = [w for w in words if len(w) > 5][:10]
+                
+                artikel_liste.append({
+                    'source': 'kress',
+                    'title': titel,
+                    'link': artikel_url,
+                    'description': beschreibung,
+                    'keywords': keywords,
+                    'score': 5
+                })
+                
+                artikel_count += 1
+                time.sleep(0.5)  # Sei höflich zum Server
+                
+            except Exception as e:
+                # Wenn ein einzelner Artikel fehlschlägt, weitermachen
+                continue
+        
+        print(f"   ✅ {artikel_count} Artikel von kress.de erfolgreich geladen\n")
         return artikel_liste
         
     except Exception as e:
@@ -325,6 +300,7 @@ def hole_kress_artikel():
 def hole_meedia_artikel():
     """
     Scrape aktuelle Artikel von meedia.de
+    VERBESSERT: Lädt jeden Artikel einzeln für echte Inhalte
     """
     artikel_liste = []
     
@@ -334,53 +310,80 @@ def hole_meedia_artikel():
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         }
         
+        # Hole die Übersichtsseite
         response = requests.get('https://meedia.de', headers=headers, timeout=10)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # Finde Artikel-Absätze
-        artikel_texte = soup.find_all('p')
-        
-        artikel_count = 0
-        seen_texts = set()  # Verhindere Duplikate
-        
-        for p in artikel_texte[:30]:
-            text = p.get_text(strip=True)
-            
-            if len(text) < 80 or text in seen_texts:
-                continue
-            
-            seen_texts.add(text)
-            
-            # Suche nach Links
-            link = 'https://meedia.de'
-            link_tag = p.find_parent('a') if p.find_parent() else p.find('a')
-            if link_tag and link_tag.get('href'):
-                href = link_tag.get('href')
+        # Finde alle Artikel-Links
+        artikel_links = set()
+        for link in soup.find_all('a', href=True):
+            href = link.get('href')
+            # meedia.de hat meist /medien/ oder /digital/ URLs
+            if href and any(x in href for x in ['/medien/', '/digital/', '/people/', '/marketing/']):
                 if href.startswith('http'):
-                    link = href
+                    artikel_links.add(href)
                 elif href.startswith('/'):
-                    link = f"https://meedia.de{href}"
-            
-            titel = text[:100] + "..." if len(text) > 100 else text
-            
-            words = text.lower().split()
-            keywords = [w for w in words if len(w) > 5][:10]
-            
-            artikel_liste.append({
-                'source': 'meedia',
-                'title': titel,
-                'link': link,
-                'description': text,
-                'keywords': keywords,
-                'score': 5
-            })
-            
-            artikel_count += 1
-            if artikel_count >= 15:
-                break
+                    artikel_links.add(f"https://meedia.de{href}")
         
-        print(f"   ✅ {artikel_count} Artikel von meedia.de gefunden\n")
+        print(f"   📄 {len(artikel_links)} eindeutige Artikel-Links gefunden")
+        
+        # Lade jeden Artikel einzeln (max 10)
+        artikel_count = 0
+        for artikel_url in list(artikel_links)[:10]:
+            try:
+                # Lade den kompletten Artikel
+                art_response = requests.get(artikel_url, headers=headers, timeout=10)
+                art_response.raise_for_status()
+                art_soup = BeautifulSoup(art_response.content, 'html.parser')
+                
+                # Hole Titel (verschiedene Möglichkeiten)
+                title_tag = art_soup.find('h1') or art_soup.find('h2', class_='entry-title')
+                if not title_tag:
+                    continue
+                titel = title_tag.get_text(strip=True)
+                
+                # Hole Artikel-Text
+                artikel_text = []
+                # Versuche verschiedene Content-Container
+                content = art_soup.find('div', class_=['entry-content', 'article-content', 'post-content'])
+                if content:
+                    for p in content.find_all('p'):
+                        text = p.get_text(strip=True)
+                        if len(text) > 30:
+                            artikel_text.append(text)
+                else:
+                    # Fallback: Alle <p> Tags
+                    for p in art_soup.find_all('p'):
+                        text = p.get_text(strip=True)
+                        if len(text) > 30:
+                            artikel_text.append(text)
+                
+                beschreibung = ' '.join(artikel_text[:3])
+                
+                if len(beschreibung) < 50:
+                    continue
+                
+                # Keywords aus Titel
+                words = titel.lower().split()
+                keywords = [w for w in words if len(w) > 5][:10]
+                
+                artikel_liste.append({
+                    'source': 'meedia',
+                    'title': titel,
+                    'link': artikel_url,
+                    'description': beschreibung,
+                    'keywords': keywords,
+                    'score': 5
+                })
+                
+                artikel_count += 1
+                time.sleep(0.3)  # Sei höflich
+                
+            except Exception as e:
+                continue
+        
+        print(f"   ✅ {artikel_count} Artikel von meedia.de erfolgreich geladen\n")
         return artikel_liste
         
     except Exception as e:
@@ -390,6 +393,7 @@ def hole_meedia_artikel():
 def hole_turi2_artikel():
     """
     Scrape aktuelle Artikel von turi2.de
+    VERBESSERT: Lädt jeden Artikel einzeln für echte Inhalte
     """
     artikel_liste = []
     
@@ -399,54 +403,82 @@ def hole_turi2_artikel():
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         }
         
+        # Hole die Übersichtsseite
         response = requests.get('https://turi2.de', headers=headers, timeout=10)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # turi2 hat oft Artikel in divs oder article tags
-        artikel_elemente = soup.find_all(['article', 'div'], limit=30)
+        # Finde alle Artikel-Links
+        artikel_links = set()
+        for link in soup.find_all('a', href=True):
+            href = link.get('href')
+            # turi2.de hat meist /artikel/ oder /news/ URLs
+            if href and ('turi2.de' in href or href.startswith('/')):
+                # Filtere nur substantielle Artikel-URLs
+                if any(x in href for x in ['artikel', 'news', '202']) or (href.startswith('/') and len(href) > 10):
+                    if href.startswith('http'):
+                        artikel_links.add(href)
+                    elif href.startswith('/'):
+                        artikel_links.add(f"https://turi2.de{href}")
         
+        print(f"   📄 {len(artikel_links)} eindeutige Artikel-Links gefunden")
+        
+        # Lade jeden Artikel einzeln (max 5, turi2 ist oft langsam)
         artikel_count = 0
-        seen_texts = set()
-        
-        for element in artikel_elemente:
-            # Finde Text
-            text = element.get_text(strip=True)
-            
-            if len(text) < 80 or text in seen_texts:
+        for artikel_url in list(artikel_links)[:5]:
+            try:
+                # Lade den kompletten Artikel
+                art_response = requests.get(artikel_url, headers=headers, timeout=15)
+                art_response.raise_for_status()
+                art_soup = BeautifulSoup(art_response.content, 'html.parser')
+                
+                # Hole Titel
+                title_tag = art_soup.find('h1') or art_soup.find('h2')
+                if not title_tag:
+                    continue
+                titel = title_tag.get_text(strip=True)
+                
+                # Hole Artikel-Text
+                artikel_text = []
+                # Versuche article tag oder content divs
+                content = art_soup.find('article') or art_soup.find('div', class_=['content', 'entry', 'post'])
+                if content:
+                    for p in content.find_all('p'):
+                        text = p.get_text(strip=True)
+                        if len(text) > 30:
+                            artikel_text.append(text)
+                else:
+                    # Fallback: Alle <p> Tags
+                    for p in art_soup.find_all('p'):
+                        text = p.get_text(strip=True)
+                        if len(text) > 30:
+                            artikel_text.append(text)
+                
+                beschreibung = ' '.join(artikel_text[:3])
+                
+                if len(beschreibung) < 50:
+                    continue
+                
+                # Keywords aus Titel
+                words = titel.lower().split()
+                keywords = [w for w in words if len(w) > 5][:10]
+                
+                artikel_liste.append({
+                    'source': 'turi2',
+                    'title': titel,
+                    'link': artikel_url,
+                    'description': beschreibung,
+                    'keywords': keywords,
+                    'score': 5
+                })
+                
+                artikel_count += 1
+                time.sleep(0.5)  # Sei höflich, turi2 ist langsam
+                
+            except Exception as e:
                 continue
-            
-            seen_texts.add(text)
-            
-            # Finde Link
-            link = 'https://turi2.de'
-            link_tag = element.find('a')
-            if link_tag and link_tag.get('href'):
-                href = link_tag.get('href')
-                if href.startswith('http'):
-                    link = href
-                elif href.startswith('/'):
-                    link = f"https://turi2.de{href}"
-            
-            titel = text[:100] + "..." if len(text) > 100 else text
-            
-            words = text.lower().split()
-            keywords = [w for w in words if len(w) > 5][:10]
-            
-            artikel_liste.append({
-                'source': 'turi2',
-                'title': titel,
-                'link': link,
-                'description': text,
-                'keywords': keywords,
-                'score': 5
-            })
-            
-            artikel_count += 1
-            if artikel_count >= 15:
-                break
         
-        print(f"   ✅ {artikel_count} Artikel von turi2.de gefunden\n")
+        print(f"   ✅ {artikel_count} Artikel von turi2.de erfolgreich geladen\n")
         return artikel_liste
         
     except Exception as e:
