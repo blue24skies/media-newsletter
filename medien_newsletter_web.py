@@ -256,20 +256,26 @@ def hole_kress_artikel():
             titel_raw = candidate['titel']
             link = candidate['link']
             
-            # Strategie 1: Suche nach " – " (Dash) - oft trennt das Haupt- von Untertitel
+            # Strategie 1: Suche nach " – " oder " - " (Dash)
             if ' – ' in titel_raw:
                 titel = titel_raw.split(' – ')[0].strip()
-            # Strategie 2: Suche nach erstem Satz (Punkt + Leerzeichen)
-            elif '. ' in titel_raw:
-                titel = titel_raw.split('. ')[0].strip()
-            # Strategie 3: Erste 100 Zeichen
+            elif ' - ' in titel_raw:
+                titel = titel_raw.split(' - ')[0].strip()
+            # Strategie 2: Suche nach Satzanfängen
             else:
-                titel = titel_raw[:100].strip()
+                # Suche nach häufigen Satzanfängen: Das, Der, Die, Nach, etc.
+                pattern = r'([a-zäöüß]) (Das|Der|Die|Ein|Eine|Nach|Seit|Jetzt|Nun|Dabei|Denn|Doch|Aber|Und|Oder|Mit|Bei|Für|Auch|Schon|Bereits|Vor|Um|Vom)\b'
+                match = re.search(pattern, titel_raw)
+                if match:
+                    titel = titel_raw[:match.end(1)].strip()
+                elif '. ' in titel_raw:
+                    titel = titel_raw.split('. ')[0].strip()
+                else:
+                    titel = titel_raw[:100].strip()
             
-            # Hard limit: Max 120 Zeichen für Titel
-            if len(titel) > 120:
-                # Suche letztes Wort das noch reinpasst
-                titel = titel[:120].rsplit(' ', 1)[0] + "..."
+            # Hard limit: Max 100 Zeichen
+            if len(titel) > 100:
+                titel = titel[:100].rsplit(' ', 1)[0] + "..."
             
             # Skip zu kurze oder Duplikate
             if len(titel) < 20 or titel in seen_titles:
@@ -348,10 +354,12 @@ def hole_meedia_artikel():
             elif ' - ' in titel_raw:
                 titel = titel_raw.split(' - ')[0].strip()
             # Strategie 2: Suche nach Satzanfängen (Großbuchstaben nach Kleinbuchstaben)
-            # z.B. "...von Amazon Der Deutschland..." → split bei " Der"
+            # z.B. "...mit politischen Gegnern Das ZDF..." → split bei " Das"
             else:
-                # Suche nach Pattern: Kleinbuchstabe + Leerzeichen + Großbuchstabe + Wort
-                match = re.search(r'([a-zäöü]) ([A-ZÄÖÜ][a-zäöü]{2,})', titel_raw)
+                # Suche nach Pattern: Kleinbuchstabe/n + Leerzeichen + häufige Satzanfänge
+                # Findet: "...gegnern Das", "...Amazon Der", etc.
+                pattern = r'([a-zäöüß]) (Das|Der|Die|Ein|Eine|Nach|Seit|Jetzt|Nun|Dabei|Denn|Doch|Aber|Und|Oder|Mit|Bei|Für|Auch|Schon|Bereits|Vor|Um|Vom)\b'
+                match = re.search(pattern, titel_raw)
                 if match:
                     # Schneide bei dieser Position ab
                     titel = titel_raw[:match.end(1)].strip()
@@ -441,16 +449,20 @@ def hole_turi2_artikel():
                 titel = titel_raw.split(' – ')[0].strip()
             elif ' - ' in titel_raw:
                 titel = titel_raw.split(' - ')[0].strip()
-            # Strategie 2: Suche nach erstem Satz
-            elif '. ' in titel_raw:
-                titel = titel_raw.split('. ')[0].strip()
-            # Strategie 3: Erste 100 Zeichen
+            # Strategie 2: Suche nach Satzanfängen
             else:
-                titel = titel_raw[:100].strip()
+                pattern = r'([a-zäöüß]) (Das|Der|Die|Ein|Eine|Nach|Seit|Jetzt|Nun|Dabei|Denn|Doch|Aber|Und|Oder|Mit|Bei|Für|Auch|Schon|Bereits|Vor|Um|Vom)\b'
+                match = re.search(pattern, titel_raw)
+                if match:
+                    titel = titel_raw[:match.end(1)].strip()
+                elif '. ' in titel_raw:
+                    titel = titel_raw.split('. ')[0].strip()
+                else:
+                    titel = titel_raw[:100].strip()
             
-            # Hard limit: Max 120 Zeichen
-            if len(titel) > 120:
-                titel = titel[:120].rsplit(' ', 1)[0] + "..."
+            # Hard limit: Max 100 Zeichen
+            if len(titel) > 100:
+                titel = titel[:100].rsplit(' ', 1)[0] + "..."
             
             # Skip Duplikate und zu kurze
             if len(titel) < 20 or titel in seen_titles:
