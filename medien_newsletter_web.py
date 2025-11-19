@@ -251,15 +251,28 @@ def hole_kress_artikel():
         artikel_count = 0
         
         for candidate in artikel_candidates[:20]:
-            titel = candidate['titel']
+            titel_raw = candidate['titel']
             link = candidate['link']
             
+            # Kürze Titel auf vernünftige Länge (erste Zeile oder max 150 Zeichen)
+            # Oft enthält titel_raw mehrere Sätze - wir wollen nur den Haupttitel
+            titel_lines = titel_raw.split('.')
+            titel = titel_lines[0].strip()  # Erste Zeile bis zum ersten Punkt
+            
+            # Falls immer noch zu lang, schneide bei 150 Zeichen ab
+            if len(titel) > 150:
+                titel = titel[:150].strip() + "..."
+            
+            # Falls zu kurz (nur ein Wort), nimm mehr
+            if len(titel) < 30 and len(titel_lines) > 1:
+                titel = (titel_lines[0] + ". " + titel_lines[1]).strip()[:150]
+            
             # Skip Duplikate
-            if titel in seen_titles:
+            if titel in seen_titles or len(titel) < 20:
                 continue
             seen_titles.add(titel)
             
-            # Generiere Beschreibung und Keywords
+            # Generiere Keywords aus dem kurzen Titel
             words = titel.lower().split()
             keywords = [w for w in words if len(w) > 5][:10]
             
@@ -267,7 +280,7 @@ def hole_kress_artikel():
                 'source': 'kress',
                 'title': titel,
                 'link': link,
-                'description': titel,  # Bei kress ist der Link-Text meist schon gut
+                'description': titel_raw[:500],  # Volle Beschreibung für Claude
                 'keywords': keywords,
                 'score': 5
             })
@@ -321,11 +334,21 @@ def hole_meedia_artikel():
         artikel_count = 0
         
         for candidate in artikel_candidates[:25]:
-            titel = candidate['titel']
+            titel_raw = candidate['titel']
             link = candidate['link']
             
+            # Kürze Titel auf vernünftige Länge
+            titel_lines = titel_raw.split('.')
+            titel = titel_lines[0].strip()
+            
+            if len(titel) > 150:
+                titel = titel[:150].strip() + "..."
+            
+            if len(titel) < 30 and len(titel_lines) > 1:
+                titel = (titel_lines[0] + ". " + titel_lines[1]).strip()[:150]
+            
             # Skip Duplikate und zu kurze Titel
-            if titel in seen_titles or len(titel) < 35:
+            if titel in seen_titles or len(titel) < 25:
                 continue
             seen_titles.add(titel)
             
@@ -337,7 +360,7 @@ def hole_meedia_artikel():
                 'source': 'meedia',
                 'title': titel,
                 'link': link,
-                'description': titel,
+                'description': titel_raw[:500],
                 'keywords': keywords,
                 'score': 5
             })
@@ -392,11 +415,21 @@ def hole_turi2_artikel():
         artikel_count = 0
         
         for candidate in artikel_candidates[:15]:
-            titel = candidate['titel']
+            titel_raw = candidate['titel']
             link = candidate['link']
             
+            # Kürze Titel auf vernünftige Länge
+            titel_lines = titel_raw.split('.')
+            titel = titel_lines[0].strip()
+            
+            if len(titel) > 150:
+                titel = titel[:150].strip() + "..."
+            
+            if len(titel) < 30 and len(titel_lines) > 1:
+                titel = (titel_lines[0] + ". " + titel_lines[1]).strip()[:150]
+            
             # Skip Duplikate
-            if titel in seen_titles:
+            if titel in seen_titles or len(titel) < 20:
                 continue
             seen_titles.add(titel)
             
@@ -408,7 +441,7 @@ def hole_turi2_artikel():
                 'source': 'turi2',
                 'title': titel,
                 'link': link,
-                'description': titel,
+                'description': titel_raw[:500],
                 'keywords': keywords,
                 'score': 5
             })
