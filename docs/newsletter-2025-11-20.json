@@ -3,269 +3,367 @@
   "articles": [
     {
       "source": "DWDL",
+      "title": "Neues Mitglied: Netflix schließt sich dem VAUNET an",
+      "link": "https://www.dwdl.de/nachrichten/104591/neues_mitglied_netflix_schliesst_sich_dem_vaunet_an/",
+      "summary": "Netflix ist dem VAUNET als neues Mitglied im Fachbereich TV & Multimedia beigetreten und reiht sich damit neben anderen Streamingdiensten wie Disney+ und Paramount+ in Europas größte Interessenvertretung des privaten Rundfunks ein. Der Streaming-Konzern betont seine \"glokal\" ausgerichtete Strategie, bei der lokale authentische Produktionen wie deutsche Inhalte global vermarktet werden. VAUNET vertritt aktuell rund 160 Audio- und audiovisuelle Medienunternehmen in Deutschland.",
+      "score": 10
+    },
+    {
+      "source": "DWDL",
+      "title": "Weimer gibt Firmen-Anteile vorläufig an einen Treuhänder",
+      "link": "https://www.dwdl.de/nachrichten/104590/weimer_gibt_firmenanteile_vorlaeufig_an_einen_treuhaender/",
+      "summary": "Kulturstaatsminister Wolfram Weimer überträgt seine 50-Prozent-Anteile an der Weimer Media Group bis Jahresende an einen Treuhänder, um Interessenkonfliktvorwürfe zu entkräften. Die Kritik entzündete sich an der kommerziellen Vermarktung von Politikerzugängen durch sein Medienunternehmen, insbesondere beim Ludwig-Erhard-Gipfel mit geplanter Ministerriege als Rednern. Weimer hatte bereits bei Amtsantritt Geschäftsführung und operative Funktionen niedergelegt, seine Anteile waren zudem stimm- und gewinnrechtslos.",
+      "score": 8
+    },
+    {
+      "source": "DWDL",
+      "title": "Der TV-Werbemarkt war auch im Oktober tief im Minus",
+      "link": "https://www.dwdl.de/nachrichten/104589/der_tvwerbemarkt_war_auch_im_oktober_tief_im_minus/",
+      "summary": "Der deutsche TV-Werbemarkt verzeichnete im Oktober 2025 einen Brutto-Rückgang von 4,5% auf 1,81 Milliarden Euro, womit das Jahres-Minus auf 4,2% anstieg und große Vermarkter wie RTL Group und ProSiebenSat.1 ihre Prognosen nach unten korrigierten. Während Warner Bros. Discovery (-6,1%) und El Cartel Media (-12,7%) besonders schwach performten und daher eine Vermarktungskooperation eingingen, zeigten andere Mediengattungen gemischte Ergebnisse mit Zuwächsen bei Zeitungen (+4,6%) und leichten Verlusten bei Online-Werbung (-1,6%). Die Außenwerbung rutschte nach starken Vormonaten erstmals ins Minus, liegt jedoch jahresbezogen noch bei +8,3%.",
+      "score": 9
+    },
+    {
+      "source": "DWDL",
+      "title": "RTL verzichtet in diesem Jahr auf seine Reality Awards",
+      "link": "https://www.dwdl.de/nachrichten/104588/rtl_verzichtet_in_diesem_jahr_auf_seine_reality_awards/",
+      "summary": "RTL verzichtet 2025 auf die Fortsetzung seiner Reality Awards, die 2024 erstmals stattfanden und von der Konkurrenz als RTL-Werbeveranstaltung kritisiert wurden, da hauptsächlich eigene Formate nominiert waren. Die meisten anderen Sender und Streamer hatten bereits 2024 bewusst nicht an der Preisverleihung teilgenommen. Ob und wann es eine Neuauflage geben wird, bleibt unklar.",
+      "score": 8
+    },
+    {
+      "source": "DWDL",
+      "title": "\"Yes or No Games\": Quiz-Premiere bei Prime Video im Januar",
+      "link": "https://www.dwdl.de/nachrichten/104587/yes_or_no_games_quizpremiere_bei_prime_video_im_januar_/",
+      "summary": "Prime Video Deutschland startet am 16. Januar 2026 mit \"Yes or No Games\" als erster Streamer eine eigenständige Quizshow, bei der alle sechs Folgen auf einmal veröffentlicht werden. Das von ITV Studios Germany produzierte Format ist völlig neu und lässt 128 Kandidaten pro Folge in 24 virtuellen Welten um 100.000 Euro Preisgeld kämpfen, moderiert von Steven Gätjen. Die Show setzt auf innovative Technik mit dem \"Magic Cube\" und hochkarätigem Design-Team, darunter Falk Rosenthal (Eurovision, NHL Draft) für die virtuellen Welten.",
+      "score": 9
+    },
+    {
+      "source": "DWDL",
+      "title": "ProSieben plant im Dezember eine \"Überraschungsshow\"",
+      "link": "https://www.dwdl.de/nachrichten/104585/prosieben_plant_im_dezember_eine_ueberraschungsshow_/",
+      "summary": "ProSieben sendet am 11. Dezember ab 20:15 Uhr eine zweistündige \"Überraschungsshow\" mit unbekanntem Konzept, bei der laut Sender ein Weltstar erwartet wird. Das Format reiht sich in den aktuellen TV-Trend von Rätsel- und Überraschungsformaten ein, kann ohne Programmunterbrechung den derzeit schwächelnden Donnerstagabend-Slot belegen. Die Show folgt dem Erfolgsrezept von Formaten wie \"The Masked Singer\" oder \"Die Verräter\", die auf Spannung und unvorhersehbare Wendungen setzen.",
+      "score": 8
+    },
+    {
+      "source": "DWDL",
+      "title": "Banijay bündelt Live-Geschäft unter einheitlicher Flagge",
+      "link": "https://www.dwdl.de/nachrichten/104574/banijay_buendelt_livegeschaeft_unter_einheitlicher_flagge/",
+      "summary": "Banijay Germany gründet die neue Banijay Germany Live GmbH, in der alle Live-Entertainment-Aktivitäten der bisherigen MTS Live GmbH und Brainpool Live GmbH zusammengeführt werden. Das neue Unternehmen umfasst Comedy Live-Brands wie das Cologne Comedy Festival und NightWash, Tour-Booking sowie die Entwicklung neuartiger Live-Formate. Die Geschäftsführung übernehmen Ingrid Langheld (Strategie/New Business), Godehard Wolpers (Live Brands/TV Produktion) und Lara Aupke (Booking/Veranstaltungsmanagement).",
+      "score": 10
+    },
+    {
+      "source": "DWDL",
       "title": "Brandenburg macht Weg für Reform von ARD und ZDF frei",
       "link": "https://www.dwdl.de/nachrichten/104581/brandenburg_macht_weg_fuer_reform_von_ard_und_zdf_frei/",
-      "summary": "Brandenburg hat als letztes Bundesland dem Reformstaatsvertrag für ARD, ZDF und Deutschlandradio zugestimmt, wodurch die Reform zum 1. Dezember in Kraft treten kann. Die Zustimmung war nur durch Unterstützung der CDU-Opposition möglich, nachdem der Koalitionspartner BSW seine Ablehnung angekündigt hatte, was zu parteiinternen Verwerfungen mit vier Parteiaustritten führte. Die Reform sieht die Einstellung mehrerer Spartensender, eine Reduzierung der Hörfunkwellen von 70 auf 53, Beschränkungen bei Online-Texten und eine Deckelung der Sportrechte-Kosten auf fünf Prozent der Gesamtausgaben vor.",
+      "summary": "Brandenburg hat als letztes Bundesland dem Reformstaatsvertrag für ARD, ZDF und Deutschlandradio zugestimmt, wodurch dieser zum 1. Dezember in Kraft treten kann. Die Reform sieht die Einstellung mehrerer Spartensender, eine Reduzierung der Hörfunkwellen von 70 auf 53, Beschränkungen bei Online-Texten und eine Deckelung der Sportrechte-Kosten auf fünf Prozent der Gesamtausgaben vor. Die Zustimmung erfolgte nur durch Unterstützung der CDU-Opposition, nachdem der Koalitionspartner BSW seine Ablehnung signalisiert hatte, was zu parteiinternen Verwerfungen beim BSW führte.",
       "score": 10
     },
     {
       "source": "DWDL",
       "title": "Neue DW-Intendantin kritisiert geplante Etatkürzung",
       "link": "https://www.dwdl.de/nachrichten/104579/neue_dwintendantin_kritisiert_geplante_etatkuerzung/",
-      "summary": "Die neue DW-Intendantin Barbara Massing kritisiert die Kürzung des Etats um 10 Millionen Euro auf 395,4 Millionen Euro für 2026, da dies der im Koalitionsvertrag vereinbarten Stärkung der Deutschen Welle widerspricht. Trotz der Kürzungen nach bereits 20 Millionen Euro Einsparungen in 2024 formuliert Massing das Ziel, die DW zur \"führenden Stimme der Freiheit aus Europa\" zu machen und setzt dabei auf verstärkte Kooperationen mit France Médias Monde und der BBC.",
-      "score": 9
+      "summary": "Die neue DW-Intendantin Barbara Massing kritisiert die Kürzung des Etats um 10 Millionen Euro auf 395,4 Millionen Euro für 2026 als \"völlig falsches Signal\", das im Widerspruch zur im Koalitionsvertrag vereinbarten Stärkung der Deutschen Welle steht. Trotz bereits erfolgter Einsparungen von 20 Millionen Euro in 2024 formuliert Massing das ehrgeizige Ziel, die DW \"zur führenden Stimme der Freiheit aus Europa\" zu machen und sieht Potenzial durch verstärkte Kooperationen mit France Médias Monde und der BBC.",
+      "score": 7
     },
     {
       "source": "DWDL",
       "title": "\"Die Landarztpraxis\" startet im Januar in die XXL-Staffel",
       "link": "https://www.dwdl.de/nachrichten/104578/die_landarztpraxis_startet_im_januar_in_die_xxlstaffel/",
-      "summary": "Sat.1 startet am 5. Januar 2025 die vierte Staffel von \"Die Landarztpraxis\" mit einer XXL-Produktion von 240 Folgen, die erstmals ganzjährig ausgestrahlt werden soll. Die Serie wird um einen zweiten Handlungsstrang in der Nachbarortschaft Weilhausen erweitert und soll ab 2026 dauerhaft den 19-Uhr-Sendeplatz besetzen, nachdem die dritte Staffel \"mit Abstand die erfolgreichste\" war.",
+      "summary": "Sat.1 startet am 5. Januar 2025 die vierte Staffel von \"Die Landarztpraxis\" mit einer XXL-Produktion von 240 Folgen, die erstmals ganzjährig ausgestrahlt werden soll. Die Serie wird um einen zweiten Handlungsstrang mit einer weiteren Landarztpraxis im Nachbarort erweitert, da die dritte Staffel laut Sat.1-Chef Marc Rasmus \"mit Abstand die erfolgreichste\" war. Ab 2026 setzt der Sender strategisch auf durchgehende \"Landarztpraxis\"-Ausstrahlung um 19 Uhr, ohne Serienwechsel.",
       "score": 9
     },
     {
       "source": "DWDL",
       "title": "RTL+ kündigt Neues von Bushido und \"Make Love, Fake Love\" an",
       "link": "https://www.dwdl.de/nachrichten/104577/rtl_kuendigt_neues_von_bushido_und_make_love_fake_love_an/",
-      "summary": "RTL+ startet am 6. Dezember die vierte Staffel der Dokusoap \"Bushido & Anna-Maria - Alles auf Familie\", die das Leben der siebenköpfigen Familie zwischen Dubai und Deutschland zeigt. Parallel dazu läuft ab 4. Dezember eine neue Staffel von \"Make Love, Fake Love\" mit Elena Miras, bei der 16 Männer um die Realitystar-Dame kämpfen. Begleitend wird bereits ab 27. November eine Dokumentation über Elena Miras ausgestrahlt.",
-      "score": 8
+      "summary": "RTL+ startet am 6. Dezember die vierte Staffel der Dokusoap \"Bushido & Anna-Maria - Alles auf Familie\", die das Leben der siebenköpfigen Familie zwischen Dubai und Deutschland zeigt. Parallel dazu läuft ab 4. Dezember die neue Staffel von \"Make Love, Fake Love\" mit Realitystar Elena Miras, wo 16 Männer um ihre Gunst kämpfen. Ergänzend wird bereits ab 27. November eine Dokumentation über Elena Miras ausgestrahlt.",
+      "score": 9
     },
     {
       "source": "DWDL",
       "title": "ZDF einigt sich mit Schauspielern auf Folgevergütungsregel",
       "link": "https://www.dwdl.de/nachrichten/104576/zdf_einigt_sich_mit_schauspielern_auf_folgeverguetungsregel/",
-      "summary": "ZDF, der Bundesverband Schauspiel (BFFS) und die Produktionsallianz haben erstmals Gemeinsame Vergütungsregeln für Schauspieler bei fiktionalen ZDF-Auftragsproduktionen vereinbart, die ab 2026 gelten. Die neuen Regeln umfassen drei Folgevergütungsmodelle je nach Format, darunter ein Punktemodell für Serienschauspieler basierend auf konkreten Nutzungsvorgängen sowie eine zusätzliche Erlösbeteiligung an kommerziellen Vertriebserlösen. Der BFFS sieht dies als wegweisend für die Branche und plant weitere Verhandlungen zu KI und anderen Vergütungsthemen.",
+      "summary": "Das ZDF hat sich mit dem Bundesverband Schauspiel (BFFS) und der Produktionsallianz auf neue Gemeinsame Vergütungsregeln (GVR) für fiktionale Auftragsproduktionen geeinigt, die ab 2026 gelten. Die Regelung umfasst drei Folgevergütungsmodelle je nach Format, wobei erstmals auch Seriendarsteller durch ein Punktemodell basierend auf konkreten Nutzungsvorgängen sowie eine Erlösbeteiligung an kommerziellen Vertriebserlösen profitieren. Der BFFS zeigt sich euphorisch über das Ende schauspielerscher Arbeit ohne Folgevergütungsaussicht und plant weitere Verhandlungen zu KI und Vergütung.",
       "score": 10
     },
     {
       "source": "DWDL",
       "title": "ZDFneo setzt im Januar auf Nilam Farooq als \"Kryptoqueen\"",
       "link": "https://www.dwdl.de/nachrichten/104575/zdfneo_setzt_im_januar_auf_nilam_farooq_als_kryptoqueen/",
-      "summary": "ZDFneo startet am 5. Januar 2026 die sechsteilige True-Crime-Serie \"Take the Money and Run\" mit Nilam Farooq in der Hauptrolle der Finanzbetrügerin Dr. Ruja Ignatova, auch bekannt als \"Kryptoqueen\". Die von Pyjama Pictures produzierte Serie behandelt den realen Fall der verschwundenen Betrügerin, die Investoren weltweit um 20 Milliarden Euro betrog, bevor sie 2017 spurlos verschwand. Linear wird die Serie ab 11. Januar sonntags um 20:15 Uhr bei ZDFneo in Doppelfolgen ausgestrahlt.",
-      "score": 8
+      "summary": "ZDFneo zeigt ab 5. Januar 2026 die sechsteilige True-Crime-Serie \"Take the Money and Run\" mit Nilam Farooq als Hauptdarstellerin, die den Fall der verschwundenen Finanzbetrügerin Dr. Ruja Ignatova (\"Cryptoqueen\") behandelt. Die Pyjama Pictures-Produktion startet zunächst im ZDF-Streaming-Portal und läuft ab 11. Januar linear bei ZDFneo sonntags um 20:15 Uhr in Doppelfolgen. Die Serie thematisiert den Aufstieg und Fall der meistgesuchten Betrügerin, die 2017 mit einem 20-Milliarden-Kryptowährungs-Betrug spurlos verschwand.",
+      "score": 9
     },
     {
       "source": "DWDL",
       "title": "ARD zeigt \"Sandmännchen\"-Doku an Weihnachten",
       "link": "https://www.dwdl.de/nachrichten/104573/ard_zeigt_sandmaennchendoku_an_weihnachten/",
-      "summary": "Die ARD strahlt am 2. Weihnachtstag um 18:50 Uhr die 70-minütige Dokumentation \"Sandmännchen forever - Karriere einer Kultfigur\" aus, eine Koproduktion von BR, MDR, RBB und WDR. Der Film beleuchtet die deutsch-deutsche Geschichte der Kultfigur, die 1959 parallel als West- und Ost-Version startete, wobei nur das DDR-Sandmännchen überlebte und heute vom RBB produziert wird. Die Doku analysiert mit Experten, Prominenten und Machern das anhaltende Phänomen der über 66-jährigen Erfolgsgeschichte.",
+      "summary": "Die ARD strahlt am 2. Weihnachtstag um 18:50 Uhr die 70-minütige Dokumentation \"Sandmännchen forever - Karriere einer Kultfigur\" aus, die das Phänomen der über 66 Jahre erfolgreichen Kindersendung beleuchtet. Die von BR, MDR, RBB und WDR produzierte Doku thematisiert auch die deutsch-deutsche Geschichte des Formats, bei dem 1959 sowohl Ost- als auch West-Deutschland eigene Sandmännchen-Versionen starteten, wobei nur die DDR-Variante bis heute überlebt hat. Das vom RBB produzierte Format wird täglich ausgestrahlt und steht ab dem Sendetermin auch in der ARD-Mediathek zur Verfügung.",
       "score": 7
     },
     {
       "source": "DWDL",
       "title": "DLM: Schmiege übernimmt Staffel-Stab von Flecken",
       "link": "https://www.dwdl.de/nachrichten/104571/dlm_schmiege_uebernimmt_staffelstab_von_flecken/",
-      "summary": "Thorsten Schmiege (BLM-Präsident) übernimmt ab Januar 2026 turnusgemäß den Vorsitz der Direktorenkonferenz der Landesmedienanstalten (DLM) und der Kommission für Zulassung und Aufsicht (ZAK) von Eva Flecken (mabb). Die Gesamtkonferenz bestätigte zudem die stellvertretenden DLM-Vorsitzenden Christian Krebs (NLM) als Koordinator Regulierung und Wolfgang Kreißig (LFK) als neuen Koordinator Infrastruktur und Innovation. In der Gremienvorsitzendenkonferenz wurden Albrecht Bähr als Vorsitzender und Martin Gorholt als stellvertretender Vorsitzender für weitere zwei Jahre bestätigt.",
+      "summary": "Thorsten Schmiege (BLM-Präsident) übernimmt ab Januar 2026 turnusgemäß den Vorsitz der Direktorenkonferenz der Landesmedienanstalten (DLM) und der Kommission für Zulassung und Aufsicht (ZAK) von Eva Flecken (mabb). Die Gesamtkonferenz bestätigte zudem die stellvertretenden Vorsitzenden und Fachausschuss-Koordinatoren, wobei Wolfgang Kreißig (LFK) Schmiege als Koordinator für Infrastruktur und Innovation nachfolgt. Parallel wurde Albrecht Bähr als Vorsitzender der Gremienvorsitzendenkonferenz für weitere zwei Jahre bestätigt.",
       "score": 9
     },
     {
       "source": "DWDL",
       "title": "Sport1: Romeo Edsperger wird neuer Chief Sales Officer",
       "link": "https://www.dwdl.de/nachrichten/104561/sport1_romeo_edsperger_wird_neuer_chief_sales_officer/",
-      "summary": "Romeo Edsperger übernimmt seit 1. November 2025 als neuer Chief Sales Officer die gesamte Vermarktung bei Sport1 und folgt auf Stefan Obstmayer, der 2026 zur ARD Media wechselt. Der langjährige Sport1-Mitarbeiter war bereits seit 2014 in verschiedenen Führungsrollen im Sales-Bereich tätig, zuletzt als Director Agency Sales & Operations sowie Deputy CSO. Geschäftsführer Tufan Özkul hebt Edspergers fundierte Expertise und tiefes Unternehmensverständnis als entscheidende Faktoren für die strategische Neuausrichtung der Vermarktung hervor.",
+      "summary": "Romeo Edsperger übernimmt seit 1. November 2024 als neuer Chief Sales Officer die gesamte Vermarktung bei Sport1 und folgt damit auf Stefan Obstmayer, der 2026 zur ARD Media wechselt. Der langjährige Sport1-Mitarbeiter war bereits seit 2014 in verschiedenen Führungsrollen im Sales-Bereich tätig, zuletzt als Director Agency Sales & Operations sowie Deputy CSO. Geschäftsführer Tufan Özkul betonte Edspergers fundierte Branchenexpertise und tiefes Unternehmensverständnis als entscheidende Qualifikationen für die strategische Weiterentwicklung der Sport1-Vermarktung.",
       "score": 8
     },
     {
       "source": "DWDL",
       "title": "Prime Video-Chef Christoph Schneider verlässt Amazon",
       "link": "https://www.dwdl.de/nachrichten/104562/prime_videochef_christoph_schneider_verlaesst_amazon/",
-      "summary": "Christoph Schneider, Country Director von Prime Video Deutschland/Österreich und Geschäftsführer der Amazon Digital Germany GmbH, verlässt nach über 13 Jahren das Unternehmen im Rahmen einer internationalen Umstrukturierung des Prime Video-Geschäfts. Seine Aufgaben werden auf mehrere Führungskräfte aufgeteilt, die künftig direkt an internationale Amazon-Manager berichten. Der Abschied erfolgt trotz aktueller Erfolge wie neuer Partnerschaften mit deutschen TV-Sendern und dem Start eines linearen Prime-Senders.",
+      "summary": "Christoph Schneider, Country Director von Prime Video Deutschland/Österreich und Geschäfsführer der Amazon Digital Germany GmbH, verlässt Amazon nach über 13 Jahren im Zuge einer internationalen Umstrukturierung des Prime Video-Geschäfts. Seine Aufgaben werden auf mehrere Führungskräfte aufgeteilt, die künftig direkt an internationale Executives in London berichten. Der Wechsel erfolgt zu einem Zeitpunkt, an dem Prime Video unter Schneiders Führung zuletzt erfolgreiche Partnerschaften mit deutschen Sendern wie Sat.1, ProSieben, RTL und ZDF sowie den Start eines linearen Prime-Senders realisierte.",
       "score": 10
     },
     {
       "source": "DWDL",
       "title": "Stephan Katzmann wechselt von Leonine zu Beta Film",
       "link": "https://www.dwdl.de/nachrichten/104566/stephan_katzmann_wechselt_von_leonine_zu_beta_film/",
-      "summary": "Stephan Katzmann, derzeit CFO Licensing & Distribution bei Leonine, wechselt im April 2026 als neuer Finanzchef zu Beta Film und folgt auf Maria Kaltenegger, die zu KPMG zurückkehrt. Katzmann bringt umfangreiche Erfahrungen aus dem Medienbereich mit, unter anderem von Sport1 und Constantin Film, sowie von der Verzahnung der Tele-München-Gruppe mit Universum Film bei Leonine. Der Wechsel erfolgt in einem von Konsolidierung und Wettbewerb geprägten Produktions- und Vertriebsmarkt.",
+      "summary": "Stephan Katzmann wechselt im April 2026 von seiner Position als CFO Licensing & Distribution bei der Leonine-Gruppe zu Beta Film, wo er als neuer Finanzchef Maria Kaltenegger nachfolgt, die zu KPMG zurückkehrt. Katzmann bringt umfangreiche Erfahrungen aus dem Finanzbereich von Handel und Produktion mit, unter anderem von seiner Arbeit bei der Verzahnung der Tele-München-Gruppe und Universum Film bei Leonine sowie früheren Tätigkeiten bei Sport1 und Constantin Film. Beta Film sieht in seiner Expertise die idealen Voraussetzungen für die Weiterentwicklung der Produktions- und Vertriebsgruppe in einem zunehmend von Konsolidierung und Wettbewerb geprägten Marktumfeld.",
       "score": 9
     },
     {
       "source": "DWDL",
       "title": "Jan Fleischhauer macht \"Keine Talkshow\" im ZDF",
       "link": "https://www.dwdl.de/nachrichten/104565/jan_fleischhauer_macht_keine_talkshow_im_zdf/",
-      "summary": "Das ZDF startet mit \"Keine Talkshow - Eingesperrt mit Jan Fleischhauer\" ein neues Debattenformat, das ab Freitag im Stream und nächste Woche linear ausgestrahlt wird. Der Sender reagiert damit auf Kritik, konservative Stimmen zu selten abzubilden, und erprobt ein Konzept ohne klassische Talkshow-Elemente wie Moderation oder Publikum. In jeder Ausgabe diskutiert der \"Focus\"-Kolumnist mit einem Gast über polarisierende Themen - die Premiere behandelt das Thema Integration mit Reyhan Şahin alias Lady Bitch Ray.",
-      "score": 8
+      "summary": "Das ZDF startet mit \"Keine Talkshow - Eingesperrt mit Jan Fleischhauer\" ein neues Format, um das Meinungsspektrum zu erweitern und der Kritik zu begegnen, konservative Stimmen zu selten abzubilden. Das Konzept verzichtet auf klassische Talkshow-Elemente wie Moderation oder Publikum und lässt stattdessen Fleischhauer direkt mit Gästen kontrovers über vorgegebene Themen diskutieren. Die erste Folge mit Reyhan Şahin zum Thema Integration startet am Freitag im ZDF-Stream und läuft linear am Dienstag um 0:15 Uhr.",
+      "score": 9
     },
     {
-      "source": "DWDL",
-      "title": "ARD schickt Kai Pflaume und Knossi auf \"Hochzeitsreise\"",
-      "link": "https://www.dwdl.de/nachrichten/104560/ard_schickt_kai_pflaume_und_knossi_auf_hochzeitsreise/",
-      "summary": "Die ARD startet am 13. Dezember die neue fünfteilige Doku-Reihe \"Die Braut, ihr Mann, die Eltern & Wir! Kai und Knossi auf Hochzeitsreise\" in der Mediathek, produziert von Flow Media Company für NDR und HR. Das Format zeigt Kai Pflaume und Jens \"Knossi\" Knossalla auf einer weltweiten Reise durch verschiedene Hochzeitstraditionen in Mexiko, Ghana, Indien, der Mongolei und Vanuatu. Die lineare Ausstrahlung beginnt am 23. Dezember um 21:45 Uhr im Ersten, weitere Folgen laufen Anfang Januar im Vorabendprogramm.",
+      "source": "kress",
+      "title": "Medienminister unter Druck: Weimer zieht sich aus eigenem Verlag zurück",
+      "link": "https://kress.de/news/beitrag/151437-medienminister-unter-druck-weimer-zieht-sich-aus-eigenem-verlag-zurueck.html",
+      "summary": "Kulturstaatsminister Wolfram Weimer überträgt seine 50-Prozent-Anteile an der Weimer Media Group für die Dauer seiner Amtszeit an einen Treuhänder, um Interessenkonflikte zu vermeiden. Hintergrund sind Vorwürfe, sein Verlag würde auf Veranstaltungen gegen Bezahlung exklusiven Zugang zu Bundesministern anbieten und mit politischem Einfluss werben. Weimer hatte bereits im Frühjahr Geschäftsführung und Stimmrechte abgegeben, behielt jedoch die Unternehmensanteile.",
       "score": 7
     },
     {
-      "source": "DWDL",
-      "title": "Wie Beta Film und FABW bei KI ihre Kräfte bündeln wollen",
-      "link": "https://www.dwdl.de/nachrichten/104528/wie_beta_film_und_fabw_bei_ki_ihre_kraefte_buendeln_wollen/",
-      "summary": "Beta Film und die Filmakademie Baden-Württemberg haben ein strategisches Rahmenabkommen für die Zusammenarbeit in den Bereichen Künstliche Intelligenz, Virtuelle Produktion und innovative Ausbildungsformate geschlossen. Ziel ist es, neue Produktionstechnologien gemeinsam zu erproben und den KI-Wandel in der Filmbranche aktiv mitzugestalten, statt passiv zu beobachten. Die Kooperation soll Studierenden experimentellen Freiraum bieten und sie gleichzeitig nah an reale Produktionen heranführen.",
-      "score": 9
+      "source": "kress",
+      "title": "Die Zeit ernennt Sybille Klormann zur Co-Nachrichtenchefin in Berlin",
+      "link": "https://kress.de/news/beitrag/151436-die-zeit-ernennt-sybille-klormann-zur-co-nachrichtenchefin-in-berlin.html",
+      "summary": "Die Zeit hat Sybille Klormann zur Co-Nachrichtenchefin in Berlin ernannt, wo sie gemeinsam mit Monika Pilath das Nachrichtenressort leiten wird. Klormann war seit 2012 in der Nachrichtenredaktion tätig und zuletzt stellvertretende Ressortleiterin, während Angelika Finkenwirth zur stellvertretenden Nachrichtenchefin aufsteigt. Die Personalentscheidung stärkt die Führungsstruktur des Nachrichtenressorts, das für die 24/7-Berichterstattung von Eilmeldungen bis zu Hintergrundanalysen verantwortlich ist.",
+      "score": 7
     },
     {
-      "source": "DWDL",
-      "title": "ZDF zieht Streaming-Start von \"Ku'damm 77\" vor",
-      "link": "https://www.dwdl.de/nachrichten/104559/zdf_zieht_streamingstart_von_kudamm_77_vor/",
-      "summary": "Das ZDF zieht den Streaming-Start der vierten \"Ku'damm\"-Staffel um drei Tage auf den 27. Dezember vor, während die lineare Ausstrahlung planmäßig vom 12.-14. Januar erfolgt. Die neue Staffel \"Ku'damm 77\" macht einen großen Zeitsprung in die späten 1970er Jahre und wird von Annette Hess geschrieben sowie von Maurice Hübner inszeniert. Neben dem bekannten Cast mit Sonja Gerhardt und Claudia Michelsen kommen neue Darsteller wie Carlotta Bähre und Florian Stetter hinzu.",
-      "score": 9
-    },
-    {
-      "source": "DWDL",
-      "title": "Auch RTL Group senkt Umsatz- und Gewinnprognose",
-      "link": "https://www.dwdl.de/nachrichten/104556/auch_rtl_group_senkt_umsatz_und_gewinnprognose/",
-      "summary": "Die RTL Group verzeichnete in den ersten neun Monaten 2025 einen Umsatzrückgang von 2,2% auf 4,1 Milliarden Euro, verursacht durch sinkende TV-Werbeerlöse (-7,4%) und rückläufige Fremantle-Umsätze (-5,1%). Das Unternehmen korrigierte seine Jahresprognose nach unten und erwartet nun für das zweite Halbjahr einen Rückgang der TV-Werbeumsätze im hohen einstelligen Prozentbereich statt des ursprünglich prognostizierten leichten Wachstums. Der neue CEO Clément Schwebig, der Mitte 2026 übernimmt, steht vor erheblichen strukturellen Herausforderungen im schwächelnden TV-Werbemarkt.",
-      "score": 10
-    },
-    {
-      "source": "DWDL",
-      "title": "Drei deutsche Produktionen für Rose d'Or nominiert",
-      "link": "https://www.dwdl.de/nachrichten/104555/drei_deutsche_produktionen_fuer_rose_dor_nominiert/",
-      "summary": "Beim 64. Rose d'Or am 1. Dezember sind drei deutsche Produktionen nominiert: das ZDF mit Jan Böhmermanns \"Lass dich überwachen\" (Studio Entertainment) und der erfolgreichen Streaming-Serie \"Crystal Wall\" (Soap/Telenovela) sowie Vox mit \"Kitchen Impossible\" (Competition Reality). Insgesamt konkurrieren 78 Formate aus 15 Ländern um die renommierte Fernsehauszeichnung, während Netflix' \"Adolescence\" bereits als Gewinner der Goldenen Rose feststeht.",
-      "score": 8
-    },
-    {
-      "source": "DWDL",
-      "title": "\"Sketch History\" meldet sich noch vor Weihnachten zurück",
-      "link": "https://www.dwdl.de/nachrichten/104554/sketch_history_meldet_sich_noch_vor_weihnachten_zurueck/",
-      "summary": "Die ZDF-Sketchcomedy \"Sketch History\" kehrt nach über sechs Jahren Pause mit zehn neuen Folgen zurück, die ab 21. Dezember in der ZDF-Mediathek und am 28. Dezember linear bei ZDFneo ausgestrahlt werden. Die vierte Staffel behandelt historische Persönlichkeiten wie Einstein, Bill Gates, Frida Kahlo und ABBA sowie kontroverse Themen wie Serienkiller Ted Bundy als Sitcom-Parodie. Produziert wird das Format von Cologne Film & Entertainment (Warner Bros. International) mit dem bekannten Ensemble um Headautor Chris Geletneky.",
-      "score": 8
-    },
-    {
-      "source": "DWDL",
-      "title": "ZDFneo verrät Details zu neuer Eigenproduktion \"Husk\"",
-      "link": "https://www.dwdl.de/nachrichten/104553/zdfneo_verraet_details_zu_neuer_eigenproduktion_husk/",
-      "summary": "ZDFneo produziert die Science-Fiction-Serie \"Husk\" (6 Folgen) über eine revolutionäre Technologie, die mithilfe von Nanobots Bewusstsein zwischen Körpern transferieren kann. Die Hauptfigur Emilia (Luna Jordan) nutzt das Verfahren, um ihrer komatösen Schwester Clara (Alicia von Rittberg) den eigenen Körper zu leihen, während ethische Konflikte und kommerzielle Interessen eskalieren. Die Dreharbeiten der U5-Produktion laufen bis Januar 2026, Regie führen Mia Meyer und Tim Trachte.",
-      "score": 9
+      "source": "kress",
+      "title": "Handelsblatt baut US-Team um: Dana Heide nach Washington, Antonia Mannweiler nach New York",
+      "link": "https://kress.de/news/beitrag/151435-handelsblatt-baut-us-team-um-dana-heide-nach-washington-antonia-mannweiler-nach-new-york.html",
+      "summary": "Das Handelsblatt reorganisiert seine US-Berichterstattung mit neuen Korrespondenten: Dana Heide wechselt ab Januar 2026 von Berlin nach Washington für Handels- und Wirtschaftspolitik, während Antonia Mannweiler von der ARD-Finanzredaktion nach New York für die US-Finanzberichterstattung kommt. Die bisherigen US-Korrespondentinnen Annett Meiritz (Washington) und Astrid Dörner (New York) kehren nach Deutschland zurück - Meiritz ins Berliner Politikressort, Dörner als Chefreporterin ins Frankfurter Finanzressort mit einem neuen Podcast-Format.",
+      "score": 7
     },
     {
       "source": "kress",
       "title": "Holger Friedrich: Ostdeutsche Allgemeine Zeitung startet im Februar in Chemnitz Berliner...",
       "link": "https://kress.de/news/beitrag/151432-holger-friedrich-ostdeutsche-allgemeine-zeitung-startet-im-februar-in-chemnitz.html",
-      "summary": "Medienunternehmer Holger Friedrich (Berliner Zeitung) startet im Februar 2026 mit der \"Ostdeutschen Allgemeinen Zeitung\" zunächst in Chemnitz und plant anschließend digitale Ableger in allen ostdeutschen Landeshauptstädten. Das Projekt soll den monopolähnlichen Pressestrukturen in Ostdeutschland entgegenwirken und \"völlig versachlichte Informationen\" mit hoher lokaler Kompetenz sowie gesellschaftlich relevante Debatten bieten, die Friedrich in anderen Medien vermisst. Friedrich will die Berichterstattung in Chemnitz zunächst vier Wochen lang persönlich übernehmen.",
+      "summary": "Medienunternehmer Holger Friedrich (Berliner Zeitung) startet im Februar 2026 mit der \"Ostdeutschen Allgemeinen Zeitung\" zunächst in Chemnitz und plant anschließend digitale Ableger in allen ostdeutschen Landeshauptstädten. Friedrich will damit die monopolähnlichen Medienstrukturen in Ostdeutschland herausfordern und eine sachliche Berichterstattung mit lokaler Kompetenz sowie gesellschaftsrelevante Debatten bieten, die seiner Ansicht nach in den westdeutsch geprägten Medien fehlen.",
       "score": 7
     },
     {
       "source": "kress",
-      "title": "\"Zeit, was Neues zu bauen\": Manager Jakob Wais verlässt Axel Springer",
+      "title": "Wolfram Weimer schaltet Medienanwalt Schertz ein",
+      "link": "https://kress.de/news/beitrag/151430-wolfram-weimer-schaltet-medienanwalt-schertz-ein-und-verteidigt-sich-mit-einer-ueberraschenden-aussage.html",
+      "summary": "Wolfram Weimer lässt durch Medienanwalt Christian Schertz mitteilen, dass er seit seinem Amtsantritt als Staatsminister für Kultur und Medien alle operativen Funktionen in der Weimer Media Group niedergelegt hat und nicht mehr am Ludwig-Erhard-Gipfel teilnimmt. Hintergrund ist Kritik rechtspopulistischer Medien, die dem Verlag vorwarfen, \"Einfluss auf politische Entscheidungsträger\" für 80.000 Euro zu verkaufen. Schertz prüft rechtliche Schritte gegen die Berichterstattung, während die bayerische Staatsregierung den Ludwig-Erhard-Gipfel überprüft.",
+      "score": 7
+    },
+    {
+      "source": "kress",
+      "title": "\"Zeit, was Neues zu bauen\": Manager Jakob Wais verlässt Axel Springer Er trug dazu bei, Business...",
       "link": "https://kress.de/news/beitrag/151431-quot-zeit-was-neues-zu-bauen-quot-manager-jakob-wais-verlaesst-axel-springer.html",
-      "summary": "Jakob Wais, 36-jähriger Chief Content Officer bei Axel Springer, verlässt das Unternehmen Ende November nach erfolgreichen Jahren, in denen er den Aufbau von Business Insider Deutschland leitete und zuletzt die Premium-Gruppe (Business Insider Deutschland, Welt, Politico Deutschland) strategisch mitgestaltete. Der als \"Journalist des Jahres 2022\" ausgezeichnete Manager war seit 2012 bei Springer tätig und möchte sich nun neuen beruflichen Herausforderungen stellen. Unter seiner Führung wuchs die Reichweite der Welt-Marke gegen den Markttrend und es wurden KI-Produkte entwickelt, die bereits Umsätze generieren.",
+      "summary": "Jakob Wais, 36-jähriger Chief Content Officer bei Axel Springer, verlässt das Unternehmen Ende November nach 13 Jahren, um sich neuen beruflichen Herausforderungen zu stellen. Er war maßgeblich am Aufbau von Business Insider Deutschland beteiligt und leitete zuletzt strategisch die Premium-Gruppe, in der die Marken Business Insider Deutschland, Welt und Politico Deutschland gebündelt wurden. Wais, der 2022 als Journalist des Jahres ausgezeichnet wurde, führt als Erfolge das Wachstum der Welt-Reichweite und die KI-Schulung von mehreren Hundert Mitarbeitern an.",
       "score": 7
     },
     {
       "source": "kress",
       "title": "Was Mathias Döpfner 2024 verdient hat",
       "link": "https://kress.de/news/beitrag/151427-was-mathias-doepfner-2024-verdient-hat-und-wie-springer-wirtschaftlich-dasteht.html",
-      "summary": "Axel Springer steigerte 2024 den Umsatz in den fortgeführten Geschäftsbereichen um 5% auf 2,4 Milliarden Euro, wobei das deutsche Mediengeschäft rückläufig war und der Konzern 9,8% der Stellen (über 400 Arbeitsplätze) im Bereich News Media Deutschland abbaute. Durch die Kosteneinsparungen verbesserte sich die EBITDA-Marge deutlich von 11,8% auf 15,1%, während die abgegebenen digitalen Kleinanzeigengeschäfte mit 36,1% Marge wesentlich profitabler waren.",
-      "score": 7
-    },
-    {
-      "source": "kress",
-      "title": "RTL Group senkt Prognose für Umsatz und Gewinn",
-      "link": "https://kress.de/news/beitrag/151428-rtl-group-senkt-prognose-fuer-umsatz-und-gewinn.html",
-      "summary": "Die RTL Group senkt aufgrund schwächerer TV-Werbemärkte in Deutschland und Frankreich ihre Jahresprognose auf 6,1 Milliarden Euro Umsatz (zuvor 6,45 Mrd.) und 650 Millionen Euro bereinigtes EBITA (zuvor 780 Mio.). Trotz eines Umsatzrückgangs von 2,2% in den ersten neun Monaten hält CEO Thomas Rabe am mittelfristigen Ergebnisziel von 1 Milliarde Euro fest, gestützt auf das wachsende Streaming-Geschäft mit 7,6 Millionen Abonnenten und erwarteter Profitabilität ab 2026. Der Digital-Werbeumsatz stieg dagegen um 31,7%, während die Streaming-Verluste um mehr als die Hälfte auf rund 50 Millionen Euro reduziert wurden.",
-      "score": 9
+      "summary": "Axel Springer steigerte 2024 den Umsatz in den fortgeführten Geschäftsbereichen um 5% auf 2,4 Mrd. Euro, wobei die EBITDA-Marge durch massive Kosteneinsparungen von 11,8% auf 15,1% kletterte. Im deutschen News Media-Bereich wurden knapp 10% der Stellen abgebaut (über 400 Arbeitsplätze), während das deutsche Mediengeschäft rückläufig war. Die abgegebenen Kleinanzeigen-Aktivitäten erwiesen sich mit einer EBITDA-Marge von 36,1% als deutlich profitabler als das Kerngeschäft.",
+      "score": 8
     },
     {
       "source": "kress",
       "title": "Ein Frauentrio führt jetzt die Redaktion der \"taz\" Die “taz” befördert Katrin Gottschalk zur...",
       "link": "https://kress.de/news/beitrag/151426-ein-frauentrio-fuehrt-jetzt-die-redaktion-der-quot-taz-quot.html",
-      "summary": "Die \"taz\" hat Katrin Gottschalk, die seit 2016 stellvertretende Chefredakteurin war und maßgeblich die digitale Transformation vorantrieb, zur dritten Chefredakteurin befördert. Gottschalk war federführend bei der strategischen Neuausrichtung, die am 20. Oktober zur Einstellung der werktäglichen Print-Ausgabe führte – die \"taz\" erscheint nun nur noch am Wochenende gedruckt und unter der Woche ausschließlich digital. Die Zeitung wird damit von einem Frauentrio aus Gottschalk, Ulrike Winkelmann und Barbara Junge geleitet, das bereits seit Jahren \"auf Augenhöhe\" zusammenarbeitet.",
+      "summary": "Die \"taz\" hat Katrin Gottschalk zur Chefredakteurin befördert, die seit 2016 als stellvertretende Chefredakteurin tätig war und seit 2020 die digitale Produktentwicklung leitete. Sie führt nun gemeinsam mit Ulrike Winkelmann und Barbara Junge als Dreierspitze die Redaktion der Tageszeitung, die im Oktober ihre werktägliche Printausgabe eingestellt hat und nur noch am Wochenende gedruckt erscheint. Gottschalk gilt als eine der Hauptverantwortlichen für die digitale Transformation der \"taz\".",
       "score": 8
     },
     {
       "source": "kress",
       "title": "Jens Dralle leitet auch Redaktion von \"Sport Auto\" Die Motor Presse Stuttgart hat in ihrem...",
       "link": "https://kress.de/news/beitrag/151421-jens-dralle-leitet-auch-redaktion-von-quot-sport-auto-quot.html",
-      "summary": "Jens Dralle übernimmt zusätzlich zu seiner bisherigen Funktion die Redaktionsleitung von \"Sport Auto\", während Paul Englert zum stellvertretenden Ressortleiter Test & Technik bei \"Auto Motor und Sport\" befördert wird. Peter Wolkenstein wechselt von seiner stellvertretenden Position bei \"Auto Motor und Sport\" zur Vollzeit-Redaktionsleitung der Traditionsmarke \"AutoStraßenverkehr\". Gesamtverantwortlicher Chefredakteur für alle drei Titel der Motor Presse Stuttgart bleibt weiterhin Michael Pfeiffer.",
+      "summary": "Die Motor Presse Stuttgart hat ihre Redaktionsstruktur neu organisiert: Jens Dralle übernimmt zusätzlich zu seiner bisherigen Funktion die Redaktionsleitung von \"Sport Auto\", während Paul Englert zum stellvertretenden Ressortleiter Test & Technik bei \"Auto Motor und Sport\" ernannt wurde. Peter Wolkenstein wechselt von \"Auto Motor und Sport\" zur alleinigen Redaktionsleitung der Traditionsmarke \"AutoStraßenverkehr\", wobei Michael Pfeiffer weiterhin als Gesamtchefredakteur für alle drei Titel verantwortlich bleibt.",
       "score": 7
     },
     {
       "source": "kress",
       "title": "Das sind Deutschlands reichste Verleger 13 Unternehmer oder Unternehmerfamilien mit relevanten...",
       "link": "https://kress.de/news/beitrag/151422-das-sind-deutschlands-reichste-verleger.html",
-      "summary": "Die Familie Mohn führt erneut die Liste der reichsten deutschen Verleger mit einem geschätzten Vermögen von 7,2 Milliarden Euro an. Den größten Vermögenszuwachs verzeichneten Stefan von Holtzbrinck und Christiane Schoeller mit einem Plus von 1,5 Milliarden Euro auf 3,3 Milliarden Euro, hauptsächlich durch den erfolgreichen Börsengang des Wissenschaftsverlags Springer Nature. Die Vermögen der meisten anderen Verlegerfamilien blieben stabil oder sanken leicht, während Unternehmer mit Medien als Randgeschäft wie Ralph Dommermuth und Frank Gotthardt deutliche Zuwächse verbuchen konnten.",
-      "score": 7
-    },
-    {
-      "source": "kress",
-      "title": "Trotz Entschuldigung: Trump bleibt bei Milliardenforderung an BBC Mit der Entschuldigung für ihre...",
-      "link": "https://kress.de/news/beitrag/151418-trotz-entschuldigung-trump-bleibt-bei-milliardenforderung-an-bbc.html",
-      "summary": "Trotz einer offiziellen Entschuldigung der BBC und der Löschung des strittigen Beitrags \"Trump: A Second Chance?\" will US-Präsident Trump den britischen Sender auf 1-5 Milliarden Dollar Schadensersatz verklagen. Der Vorwurf lautet auf irreführenden Zusammenschnitt seiner Rede vom 6. Januar 2021, bei dem Passagen mit 60 Minuten Abstand direkt hintereinander montiert wurden. Die Kontroverse führte bereits zum Rücktritt von BBC-Chef Tim Davie und BBC News-Leiterin Deborah Turness.",
-      "score": 8
-    },
-    {
-      "source": "kress",
-      "title": "Neuer RBB-Programmdirektor Robert Skuppin: \"Wir sind zu viele Leute\" Robert Skuppin,...",
-      "link": "https://kress.de/news/beitrag/151416-neuer-rbb-programmdirektor-robert-skuppin-quot-wir-sind-zu-viele-leute-quot.html",
-      "summary": "Robert Skuppin, der neue RBB-Programmdirektor, verteidigt den geplanten Personalabbau von 22 Millionen Euro bei den Gehältern und begründet dies mit einem Missverhältnis zwischen Mitarbeiterzahl und verfügbaren Programmetats. Von den eingesparten Mitteln sollen 9 Millionen Euro zur Deckung laufender Kosten und 13 Millionen Euro direkt in die Programmgestaltung fließen. Skuppin will zudem die interne Debattenkultur wieder stärker auf das Programm fokussieren, um das durch vergangene Krisen gesunkene Selbstwertgefühl der Belegschaft zu verbessern.",
+      "summary": "Laut dem \"Manager Magazin\" führt die Familie Mohn mit 7,2 Milliarden Euro erneut die Liste der reichsten deutschen Verleger an, während Stefan von Holtzbrinck und Christiane Schoeller den größten Vermögenszuwachs auf 3,3 Milliarden Euro verzeichneten, hauptsächlich durch den erfolgreichen Börsengang von Springer Nature. Die meisten anderen Verlegervermögen stagnierten oder sanken leicht, während Unternehmer mit Medien als Randgeschäft wie Ralph Dommermuth (1&1) und Frank Gotthardt (\"Nius\") deutliche Zuwächse erzielten.",
       "score": 8
     },
     {
       "source": "meedia",
-      "title": "September-Zahlen von digital i \"The Thursday Murder Club\" und \"Wednesday\" erreichen mehr als 2...",
-      "link": "https://meedia.de/news/beitrag/20586-quot-the-thursday-murder-club-quot-und-quot-wednesday-quot-erreichen-mehr-als-2-millionen-haushalte.html",
-      "summary": "Die September-Streaming-Daten von digital i zeigen Netflix-Dominanz in Deutschland: \"The Thursday Murder Club\" führt bei Filmen mit 2,056 Millionen Haushalten, während \"Wednesday\" Staffel 2 bei Serien mit 2,221 Millionen Haushalten deutlich vorne liegt. Prime Video konnte lediglich mit \"Ice Road: Vengeance\" (über 1 Million) bei Filmen und \"Der Sommer, als ich schön wurde\" (720.000) bei Serien nennenswerte Reichweiten erzielen.",
+      "title": "Nielsen-Werbetrend Oktober Deutscher Werbemarkt verharrt unter dem Vorjahresniveau",
+      "link": "https://meedia.de/news/beitrag/20598-deutscher-werbemarkt-verharrt-unter-dem-vorjahresniveau.html",
+      "summary": "Der deutsche Werbemarkt verzeichnete in den ersten zehn Monaten 2024 einen Brutto-Rückgang von 0,6 Prozent auf 27,96 Milliarden Euro gegenüber dem Vorjahreszeitraum. Besonders stark betroffen sind das Fernsehen (-4,2 Prozent auf 12,90 Milliarden Euro) und Publikumszeitschriften (-4,1 Prozent), während Radio, Online-Vermarkter, Zeitungen und Out-of-Home gegen den Trend wachsen konnten.",
+      "score": 8
+    },
+    {
+      "source": "meedia",
+      "title": "Trotz Problemen in Spanien Neuer ProSiebenSat.1-Eigner MFE meldet Gewinnsprung Die Zahlen im...",
+      "link": "https://meedia.de/news/beitrag/20599-neuer-prosiebensat-1-eigner-mfe-meldet-gewinnsprung.html",
+      "summary": "MFE, der neue Mehrheitseigner von ProSiebenSat.1, verzeichnete in den ersten drei Quartalen 2024 einen deutlichen Gewinnsprung von 96 auf 243 Millionen Euro, während der Umsatz von 2,004 auf 1,939 Milliarden Euro sank. Die Entwicklung zeigt eine positive Tendenz in Italien, jedoch anhaltende Rückgänge in Spanien, was bei den deutschen Sendern ProSieben und Sat.1 Befürchtungen vor einem strikten Sparkurs unter der neuen Eigentümerschaft schürt.",
+      "score": 8
+    },
+    {
+      "source": "meedia",
+      "title": "Cosnova mit neuer Mediaagentur Mediachefin Susanne Eckert: „Media als Wachstumstreiber zu...",
+      "link": "https://meedia.de/news/beitrag/20587-mediachefin-susanne-eckert-media-als-wachstumstreiber-zu-verstehen.html",
+      "summary": "Das Kosmetikunternehmen Cosnova (Marken Catrice und essence) hat nach einem Pitch seine Mediaagentur von der Hamburger PIA Media zur internationalen Agentur Jellyfish gewechselt. Jellyfish übernimmt die Paid-Media-Aktivitäten mit Fokus auf Social Media in 14 Märkten und soll die übergreifende Paid-Media-Strategie mit einem \"Challenger-Brand-Mindset\" weiterentwickeln. Cosnova ist trotz seiner jungen Geschichte bereits Marktführer nach Stückzahlen bei dekorativer Kosmetik und will durch die neue Agenturpartnerschaft weiteres Wachstum erzielen.",
       "score": 7
     },
     {
       "source": "meedia",
-      "title": "Programmmarken-Daten Direkt auf Platz 1 der AGF-Charts: \"Maxton Hall\" startet mit 1,525 Millionen...",
-      "link": "https://meedia.de/news/beitrag/20582-direkt-auf-platz-1-der-agf-charts-quot-maxton-hall-quot-startet-mit-1-525-millionen-zuschauenden-in-die-neue-staffel.html",
-      "summary": "Die Amazon Prime Video-Serie \"Maxton Hall\" erreichte mit 1,525 Millionen Streaming-Nettoreichweite direkt Platz 1 der AGF-Charts und übertraf damit alle Sendungen der traditionellen TV-Sender. Dies sind die ersten verfügbaren Daten seit der Integration von Prime Video in die AGF-Messung im November 2024. Die Zahlen basieren auf dem Minimalkriterium von einer Sekunde Sehzeit und sind daher nicht direkt mit klassischen TV-Quoten vergleichbar.",
+      "title": "Kantar-Marketingtrends 2026 KI macht Marken kreativer",
+      "link": "https://meedia.de/news/beitrag/20595-ki-macht-marken-kreativer-menschliche-naehe-bleibt-entscheidend.html",
+      "summary": "Kantar identifiziert für 2026 zehn Marketing-Trends, die von Generativer KI, neuen Datenmodellen und veränderten Konsumentenerwartungen geprägt sind. Marken stehen vor der Herausforderung, technologische Innovation mit kreativer Identität zu verbinden, während KI-Agenten (bereits von 24% für Shopping-Assistenz genutzt) als \"nicht-menschliche Konsumenten\" berücksichtigt werden müssen. Trotz fortschreitender Digitalisierung bleibt der Aufbau authentischer menschlicher Verbindungen entscheidend für den Markenerfolg.",
+      "score": 8
+    },
+    {
+      "source": "meedia",
+      "title": "Comcast-Advertising-Studie Deutsche Marketer wollen 2026 verstärkt im Streaming-TV werben Trotz...",
+      "link": "https://meedia.de/news/beitrag/20594-deutsche-marketer-wollen-2026-verstaerkt-im-streaming-tv-werben.html",
+      "summary": "Laut einer neuen Comcast-Advertising-Studie planen 58 Prozent der deutschen Marketer, ihre Streaming-TV-Budgets bis 2026 auszubauen – der höchste Wert unter den fünf untersuchten europäischen Märkten. Deutsche Werbetreibende sehen im Streaming-TV das stärkste Wachstumspotenzial, deutlich vor Social Video (55 Prozent) und klassischem Fernsehen (20 Prozent). Als Hauptgründe nennen sie die Qualität des Werbeerlebnisses (54 Prozent), die Reichweite (52 Prozent) und programmatischen Einkauf (38 Prozent).",
+      "score": 8
+    },
+    {
+      "source": "meedia",
+      "title": "Stärkung der heimische KI-Industrie EU-Kommission plant deutliche Lockerung der Cookie-Regeln",
+      "link": "https://meedia.de/news/beitrag/20591-eu-kommission-plant-deutliche-lockerung-der-cookie-regeln.html",
+      "summary": "Die EU-Kommission plant eine grundlegende Reform der Cookie-Regeln, bei der Nutzer ihre Datenschutzpräferenzen zentral im Browser einstellen können und die nervigen Pop-up-Einwilligungsfenster weitgehend verschwinden würden. Für unkritische oder technisch notwendige Daten soll künftig gar keine Einwilligung mehr erforderlich sein, während personenbezogene Daten nur dann als schützenswert gelten, wenn sie aktiv zur Identifizierung genutzt werden. Zusätzlich sollen KI-Modelle bei \"berechtigtem Interesse\" mit personenbezogenen Daten trainiert werden dürfen, was die europäische KI-Industrie stärken soll.",
+      "score": 8
+    },
+    {
+      "source": "meedia",
+      "title": "Arbeitgeber-Vergleichsplattform Initiative Media gewinnt im Pitch den Neukunden kununu Initiative...",
+      "link": "https://meedia.de/news/beitrag/20585-initiative-media-gewinnt-im-pitch-den-neukunden-kununu.html",
+      "summary": "Initiative Media hat den Pitch um die Arbeitgeber-Bewertungsplattform kununu gewonnen und übernimmt ab Dezember 2025 die strategische Mediensteuerung. Die Mediaagentur setzt auf eine datengetriebene, digitale Strategie unter Nutzung von Acxiom-Daten, um Jobstarter, Arbeitnehmer und Jobsuchende zielgerichtet anzusprechen. Ziel ist es, kununu als vertrauenswürdigen Partner im Arbeitsmarkt zu etablieren und die Marke nachhaltig weiterzuentwickeln.",
       "score": 7
     },
     {
       "source": "meedia",
-      "title": "Chief Sales Officer Sport1 befördert Romeo Edsperger Zum 1",
-      "link": "https://meedia.de/news/beitrag/20583-sport1-befoerdert-romeo-edsperger.html",
-      "summary": "Romeo Edsperger wird zum 1. November 2025 zum Chief Sales Officer (CSO) von Sport1 befördert und übernimmt die Gesamtverantwortung für die Sendervermarktung. Der seit 2014 bei Sport1 tätige Manager folgt auf Stefan Obstmayer, der im Januar 2026 zu ARD Media wechselt. Die Beförderung aus den eigenen Reihen soll nach den turbulenten Führungswechseln bei Sport1 ein Zeichen für Kontinuität und Stabilität setzen.",
-      "score": 7
+      "title": "Medien-Regulierung Thorsten Schmiege wird Vorsitzender der Direktorenkonferenz der...",
+      "link": "https://meedia.de/news/beitrag/20596-thorsten-schmiege-wird-vorsitzender-der-direktorenkonferenz-der-landesmedienanstalten.html",
+      "summary": "Thorsten Schmiege, Präsident der Bayerischen Landeszentrale für neue Medien (BLM), übernimmt zum 1. Januar den Vorsitz der Direktorenkonferenz der Landesmedienanstalten (DLM) und der Kommission für Zulassung und Aufsicht (ZAK). Der 51-Jährige löst Eva Flecken von der Medienanstalt Berlin-Brandenburg (mabb) ab, die das Amt zwei Jahre innehatte. Die Ernennung erfolgt vor dem Hintergrund des beschleunigten technologischen Wandels und der wachsenden Bedeutung globaler Plattformen in der Medienlandschaft.",
+      "score": 8
     },
     {
       "source": "meedia",
-      "title": "Chef von Prime Video Christoph Schneider verabschiedet sich von Amazon",
-      "link": "https://meedia.de/news/beitrag/20580-christoph-schneider-verabschiedet-sich-von-amazon.html",
-      "summary": "Christoph Schneider, Deutschland- und Österreich-Chef von Prime Video sowie Geschäftsführer der Amazon Digital Germany, verlässt nach 13 Jahren das Unternehmen mit sofortiger Wirkung im Rahmen einer internationalen Umstrukturierung. Seine Aufgaben werden auf mehrere Führungskräfte aufgeteilt: Stephan Bauer übernimmt den SVoD-Lizenzeinkauf für Nord- und Zentraleuropa, Max Pawlak leitet TVoD international und Philip Pratt bleibt für Deutsche Originals bei Amazon MGM Studios verantwortlich.",
-      "score": 9
+      "title": "Projekt des \"Berliner Zeitung\"-Verlegers Holger Friedrich “Ostdeutsche Allgemeine Zeitung” startet...",
+      "link": "https://meedia.de/news/beitrag/20597-ostdeutsche-allgemeine-zeitung-startet-im-februar-in-chemnitz.html",
+      "summary": "Holger Friedrich, Verleger der \"Berliner Zeitung\", plant für Februar 2026 den Start der \"Ostdeutschen Allgemeinen Zeitung\" in Chemnitz mit geplanten Ablegern in allen ostdeutschen Landeshauptstädten. Friedrich kritisiert die monopolähnlichen Medienstrukturen in Ostdeutschland und will mit seinem digitalen Angebot versachlichte Informationen und lokale Debatten zu gesellschaftlich relevanten Themen bieten. Das Projekt soll die ostdeutsche Medienlandschaft durch größeren Debattenraum und lokale Kompetenz bereichern.",
+      "score": 7
+    },
+    {
+      "source": "Guardian Media",
+      "title": "Larry Ellison discussed axing CNN hosts with White House in takeover bid talks",
+      "link": "https://www.theguardian.com/us-news/2025/nov/20/warner-bros-discovery-takeover-paramount-skydance-larry-ellison",
+      "summary": "Larry Ellison, größter Aktionär von Paramount, diskutierte in Gesprächen mit dem Weißen Haus über mögliche Personalwechsel bei CNN-Moderatoren, die Trump missfallen, im Rahmen von Übernahmeverhandlungen für Warner Bros Discovery. Hochrangige White House-Beamte äußerten intern ihre Präferenz für eine Akquisition durch Paramount Skydance, während das Unternehmen argumentiert, regulatorische Hürden leichter überwinden zu können als Konkurrenten. Die Gespräche umfassten konkrete Namen für Entlassungen und Ersetzungen sowie die Integration von CBS-Formaten in das CNN-Programm.",
+      "score": 8
+    },
+    {
+      "source": "Guardian Media",
+      "title": "ESPN rejoins MLB as NBC and Netflix land games in sweeping new rights deal",
+      "link": "https://www.theguardian.com/sport/2025/nov/19/baseball-espn-nbc-netflix-new-media-rights-dea",
+      "summary": "MLB hat neue Medienrechte-Verträge im Wert von durchschnittlich 800 Millionen Dollar jährlich mit ESPN (550 Mio.), NBC (200 Mio.) und Netflix (50 Mio.) abgeschlossen. ESPN kehrt nach einem Ausstieg im Februar zurück und erhält die wertvollen Out-of-Market-Streaming-Rechte für MLB.tv, während NBC Sunday Night Baseball und die Wild Card-Spiele übernimmt und Netflix das Home Run Derby sowie weitere Marquee-Games zeigt. ESPN verliert zwar Playoff-Spiele, gewinnt aber strategisch wichtige Streaming-Rechte für sechs MLB-Teams und 30 reguläre Saisonspiele.",
+      "score": 8
+    },
+    {
+      "source": "Guardian Media",
+      "title": "Peers call for independent body to take control of Telegraph sale",
+      "link": "https://www.theguardian.com/media/2025/nov/19/peers-independent-body-control-telegraph-sale",
+      "summary": "Peers im House of Lords fordern, dass eine unabhängige Behörde wie die Competition and Markets Authority oder das Cabinet Office die Kontrolle über den Verkaufsprozess des Telegraph übernimmt, nachdem RedBird IMI den Verkauf nach dem Ausstieg seines US-Partners neu starten musste. Die Parlamentarier kritisieren das Kulturministerium für die Misswirtschaft des bereits über zwei Jahre andauernden Verkaufsprozesses und verlangen eine ordnungsgemäße Auktion durch einen unabhängigen \"weißen Ritter\"-Käufer.",
+      "score": 7
     },
     {
       "source": "Guardian Media",
       "title": "Mishal Husain calls for end to ministers picking BBC board members amid ‘existential crisis’",
       "link": "https://www.theguardian.com/media/2025/nov/19/mishal-husain-bbc-board-appointments-existential-crisis",
-      "summary": "Die ehemalige BBC-Journalistin Mishal Husain bezeichnet die aktuelle Krise bei der BBC als \"existenziell\" und fordert ein Ende der ministeriellen Ernennung von Vorstandsmitgliedern, um das Vertrauen der Öffentlichkeit zurückzugewinnen. Sie kritisiert zudem, dass die Rolle des Generaldirektors als sowohl CEO als auch Chefredakteur für über 5.000 Journalisten weltweit \"zu umfangreich\" für eine Person sei. Die Äußerungen erfolgen vor der parlamentarischen Befragung der BBC-Führung nach den Rücktritten von Generaldirektor Tim Davie und Nachrichtenchefin Deborah Turness sowie inmitten der Kontroverse um Vorstandsmitglied Robbie Gibb.",
+      "summary": "Die ehemalige BBC-Journalistin Mishal Husain bezeichnet die aktuelle Krise bei der BBC als \"existenziell\" und fordert ein Ende der ministeriellen Ernennung von Vorstandsmitgliedern, um das Vertrauen der Öffentlichkeit zurückzugewinnen. Sie kritisiert zudem, dass die Rolle des Generaldirektors als sowohl CEO als auch Chefredakteur für über 5.000 Journalisten weltweit \"zu umfangreich\" für eine Person sei. Die Aussagen erfolgen vor einer parlamentarischen Anhörung der BBC-Führung, nachdem Vorstandsmitglied Robbie Gibb Vorwürfe eines rechtsgerichteten Putsches gegenübersieht und zwei Spitzenmanager zurückgetreten sind.",
       "score": 8
     },
     {
       "source": "Guardian Media",
       "title": "David Nicholls to adapt The Secret Diary of Adrian Mole Aged 13¾ for BBC",
       "link": "https://www.theguardian.com/culture/2025/nov/17/david-nicholls-to-adapt-the-secret-diary-of-adrian-mole-aged-1334-for-bbc",
-      "summary": "David Nicholls (One Day) führt ein Autorenteam an, das Sue Townsends Kultbuch \"The Secret Diary of Adrian Mole Aged 13¾\" für BBC One als 10-teilige Serie adaptiert. Die Produktion von Big Talk Studios sucht derzeit landesweit nach einem Darsteller für die Hauptrolle des Adrian Mole. Dies ist bereits die zweite TV-Adaption des Bestsellers, nachdem Thames TV 1985 eine erste Verfilmung mit Gian Sammarco und Julie Walters produzierte.",
+      "summary": "Die BBC produziert eine 10-teilige Neuverfilmung von Sue Townsends Klassiker \"The Secret Diary of Adrian Mole Aged 13¾\" unter der Leitung von David Nicholls (\"One Day\") und einem Autorenteam inklusive Caitlin Moran. Big Talk Studios übernimmt die Produktion der Serie, die den kultigen Teenager-Roman der 1980er Jahre adaptiert, welcher über 20 Millionen Mal verkauft und in 30 Sprachen übersetzt wurde. Die Besetzung steht noch nicht fest, eine landesweite Suche nach dem Hauptdarsteller läuft bereits.",
       "score": 8
     },
     {
       "source": "Deadline",
-      "title": "Disney To Spend $24B On Content In FY26, Entertainment May Soon Outpace Sports Amid Ramped Up Investment In Local Programming",
-      "link": "https://deadline.com/2025/11/disney-cfo-on-content-spending-avatar-fire-and-ash-1236624357/",
-      "summary": "Disney plant für das Geschäftsjahr 2026 Content-Investitionen von 24 Milliarden Dollar (Steigerung um 1 Milliarde), aufgeteilt zu etwa 50:50 zwischen Sport und Entertainment, wobei Entertainment-Content künftig stärker wachsen könnte. CFO Hugh Johnson betonte die strategische Fokussierung auf lokale Inhalte für internationale Märkte, um Engagement und Retention zu steigern, nachdem das Unternehmen seine Content-Ausgaben von zuvor rund 30 Milliarden deutlich reduziert hatte. Die Content-Kosten sollen weiterhin wachsen, aber erheblich langsamer als die Umsätze im Direct-to-Consumer-Bereich.",
+      "title": "Whisper Launches U.S. Hub As ‘Brady & The Blues’ Producer Revs Up For A Sale",
+      "link": "https://deadline.com/2025/11/whisper-launches-america-hub-sale-brady-and-the-blues-1236624474/",
+      "summary": "Die Sony-backed britische Produktionsfirma Whisper, bekannt für Amazon's Tom Brady-Dokumentation, hat einen US-Hub in L.A. eröffnet und steht kurz vor einem Verkauf mit KPMG als Berater. Das von Sunil Patel, Jake Humphrey und David Coulthard vor 15 Jahren gegründete Unternehmen hat sich von reiner Sportberichterstattung zu Premium-Dokumentationen und Entertainment-Formaten mit A-List-Talenten entwickelt. Head of Documentaries Drew Masters ist bereits nach L.A. umgezogen und baut das US-Team aus, während die Eigentümer eine tiefere amerikanische Marktpenetration vorbereiten.",
       "score": 8
     },
     {
       "source": "Deadline",
-      "title": "FCC Launches Review Of Network-Affiliate Relationships",
-      "link": "https://deadline.com/2025/11/trump-fcc-network-affiliate-relationships-1236624134/",
-      "summary": "FCC-Vorsitzender Brendan Carr hat eine Überprüfung der Vertragsbeziehungen zwischen US-Fernsehsendern und ihren lokalen Partnerstationen eingeleitet, da er befürchtet, dass nationale Programmanbieter zu viel Kontrolle über lokale Sender ausüben. Die Untersuchung fokussiert sich auf vertragliche Beschränkungen, die lokale Stationen dafür bestrafen, nationale Sendungen abzusetzen oder konkurrierende Inhalte auszustrahlen. Als Auslöser diente ein Vorfall im September, bei dem ABC-Moderator Jimmy Kimmel nach Carrs Kritik zunächst von mehreren Sendergruppen abgesetzt wurde.",
+      "title": "‘Saint-Pierre’ Season 2 Sets January Launch Date; Trailer Released For CBC Crime Drama",
+      "link": "https://deadline.com/2025/11/st-pierre-season-2-launch-date-trailer-1236624549/",
+      "summary": "CBC's Crime-Drama \"Saint-Pierre\" startet am 5. Januar 2026 in die zweite Staffel, nachdem Season 1 die erfolgreichste neue Serie des Senders in diesem Jahr war. Die 12-teilige Staffel mit Allan Hawco und Josephine Jobert behandelt einen potenziellen Serienkiller-Fall und wird von Hawco Productions in Zusammenarbeit mit Fifth Season produziert, die auch den internationalen Vertrieb übernehmen. Die Serie wird montags um 21 Uhr auf CBC ausgestrahlt und auf CBC Gem gestreamt.",
+      "score": 7
+    },
+    {
+      "source": "Deadline",
+      "title": "Alan Cumming Was Offered ‘The Traitors’ UK Hosting Gig Before Claudia Winkleman",
+      "link": "https://deadline.com/2025/11/alan-cumming-traitors-uk-host-offer-1236624520/",
+      "summary": "BBC Chief Content Officer Kate Phillips enthüllte, dass Alan Cumming ursprünglich als Moderator für die britische Version von \"The Traitors\" angefragt wurde, bevor Claudia Winkleman die Rolle übernahm - Cumming konnte jedoch aufgrund von Terminproblemen nicht zusagen. Zusätzlich war zunächst Costa Rica als Drehort geplant, bevor die BBC auf das schottische Ardross Castle umschwenkte, um die Produktion im Vereinigten Königreich zu halten. Die Show entwickelte sich sowohl in Großbritannien als auch den USA zu einem großen Erfolg, wobei das jüngste Celebrity-Special der BBC 11 Millionen Zuschauer für das Finale erreichte.",
+      "score": 7
+    },
+    {
+      "source": "Deadline",
+      "title": "Michele Morrone & Gabrielle Union Starring In Prime Video Italy Original Film ‘Blame It On Rome’",
+      "link": "https://deadline.com/2025/11/michele-morrone-gabrielle-union-amazon-blame-it-on-rome-1236624514/",
+      "summary": "Prime Video Italy produziert die englischsprachige Romantic Comedy \"Blame It On Rome\" mit Michele Morrone und Gabrielle Union unter der Regie von Francesco Carrozzini. Der Film folgt einer New Yorker Kunstmanagerin, die nach einem beruflichen Desaster in Rom bleibt und einen Privatdetektiv engagiert, um die Vaterschaft ihrer Schwangerschaft zu klären. Die Produktion läuft bereits in Rom mit einem hochkarätigen Kreativteam, darunter Oscar-nominierte Kostümbildnerin Massimo Cantini Parrini.",
       "score": 8
     },
     {
       "source": "Deadline",
-      "title": "AMC Ripped Me Off Over ‘Fear The Walking Dead’ Profits, Zombie Series Co-Creator Dave Erickson Claims & He’s Looking For Payback",
-      "link": "https://deadline.com/2025/11/fear-the-walking-dead-creator-sues-amc-over-profits-1236624074/",
-      "summary": "Dave Erickson, Co-Creator und ehemaliger Showrunner von \"Fear the Walking Dead\" (Staffeln 1-3), verklagt AMC wegen angeblich vorenthaltener Gewinnbeteiligungen in Millionenhöhe. Trotz Hunderten von Millionen Dollar Einnahmen durch die von 2015-2023 laufende Serie zeigt Ericksons Gewinnbeteiligungsabrechnung ein Defizit von 185 Millionen Dollar, während andere Beteiligte bereits 49-67 Millionen Dollar erhalten haben. Dies ist der neueste Fall in einer Serie von Rechtsstreitigkeiten zwischen AMC und kreativen Partnern über Gewinnbeteiligungen bei Walking Dead-Produktionen.",
+      "title": "BeIN Media Group Extends NBA Deal For Middle East & North Africa",
+      "link": "https://deadline.com/2025/11/bein-media-nba-deal-middle-east-and-north-africa-basketball-1236624536/",
+      "summary": "BeIN Media Group hat seinen langjährigen NBA-Rechtevertrag für den Nahen Osten und Nordafrika verlängert und erhält damit bis zu neun Regular-Season-Spiele pro Woche sowie Playoff- und Finals-Rechte in arabischer, englischer und französischer Sprache. Die Inhalte werden sowohl auf BeINs linearen Sportkanälen als auch auf der Streaming-Plattform TOD ausgestrahlt, wobei die Partnerschaft bereits seit 2008 besteht. Der Deal unterstreicht die wachsende Popularität von Basketball in der MENA-Region, wo der Sport als zweitbeliebteste Mannschaftssportart nach Fußball gilt.",
+      "score": 8
+    },
+    {
+      "source": "Hollywood Reporter",
+      "title": "The 50 Most Powerful TV Producers of 2025",
+      "link": "https://www.hollywoodreporter.com/lists/top-tv-producers-2025-survey/",
+      "summary": "The Hollywood Reporter's 2025 survey of the 50 most powerful TV producers reveals industry optimism about returning to longer episode orders and increased investment in original content, with Greg Berlanti noting executives are recognizing \"the value in TV going back to being TV.\" Despite ongoing challenges including writer unemployment, production exodus from Los Angeles, and AI disruption concerns, successful creators like the Hacks team (Lucia Aniello, Paul W. Downs, and Jen Statsky) are securing new deals and developing projects at major studios like Warner Bros. Television.",
+      "score": 9
+    },
+    {
+      "source": "Hollywood Reporter",
+      "title": "Rotterdam Film Fest Sets Feminist Focus Program Celebrating 60th Anniversary of NOW",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/rotterdam-iffr-feminist-focus-program-now-60th-anniversary-1236432042/",
+      "summary": "Das International Film Festival Rotterdam (IFFR) präsentiert zur 55. Ausgabe (29. Jan. - 8. Feb.) das feministische Fokusprogramm \"The Future Is NOW\" anlässlich des 60. Jahrestags der National Organization for Women (NOW). Das Programm kombiniert Klassiker mit Weltpremieren und beleuchtet historisch unterrepräsentierte Frauenfilmkunst verschiedener Epochen, mit besonderem Schwerpunkt auf Animation. Höhepunkte sind die Premieren des Omnibus-Projekts \"Three Ways of Returning\" von Xiaolu Guo, Andrea Luka Zimmerman und Mania Akbari sowie Josephine Ahnelts Dokumentarfilm \"Wellen Wende\" über postpartale Erfahrungen von Frauen.",
       "score": 7
     },
     {
       "source": "Hollywood Reporter",
-      "title": "Should Your Local CBS Station Be Able to Pick Up Shows From Another Network? The FCC Wants to Find Out",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/local-cbs-station-pick-up-network-shows-fcc-1236431752/",
-      "summary": "Die FCC unter Chairman Brendan Carr hat eine neue Untersuchung angekündigt, die die Beziehungen zwischen den vier dominierenden US-Fernsehnetworks und ihren lokalen Partnerstationen überprüfen soll. Dabei bezieht sich Carr auf die Chain Broadcasting Regulations von 1941, die damals zur Aufspaltung der Radio-Monopole führten und NBC zwangen, ein Netzwerk zu verkaufen (das spätere ABC). Ziel ist es, lokale Sender zu stärken und möglicherweise wettbewerbswidrige Praktiken der großen Networks zu unterbinden.",
+      "title": "‘The Morning Show’ Showrunner on Daunting Torture Scenes, Dark-Yet-Hopeful Finale and Plotting Season 5",
+      "link": "https://www.hollywoodreporter.com/tv/tv-features/the-morning-show-season-4-finale-season-5-interview-1236431471/",
+      "summary": "Die vierte Staffel von \"The Morning Show\" endete mit Bradley Jackson (Reese Witherspoon) als inhaftierte Journalistin in Belarus, inspiriert von realen Fällen wie Evan Gershkovich. Showrunnerin Charlotte Stoudt entwickelte Folterszenen, die jedoch im Vergleich zu echten Gefangenschaften \"harmlos\" waren, bevor das Ensemble um Alex (Jennifer Aniston) Bradley nach 35 Tagen durch die Aufdeckung von Celine's (Marion Cotillard) Vertuschungsaktivitäten befreite. Das dunkle aber hoffnungsvolle Finale bereitet den Grundstein für eine bereits geplante fünfte Staffel.",
       "score": 8
+    },
+    {
+      "source": "Variety",
+      "title": "TV Academy Sets August 2026 Date for the Return of the Televerse Festival, Which Moves to a Full Weekend",
+      "link": "https://variety.com/2025/tv/news/tv-academy-televerse-festival-2026-dates-1236586505/",
+      "summary": "Die Television Academy hat das Televerse Festival für 14.-16. August 2026 bestätigt und erweitert es von einem Donnerstag-Samstag- auf ein Freitag-Sonntag-Format. Das inaugural Event 2025 zog über 2.500 Teilnehmer an (75% Academy-Mitglieder, 25% Öffentlichkeit) und konzentrierte sich auf Emmy-FYC-Panels nominierter Shows. Die Veranstaltung findet erneut im JW Marriott at L.A. Live in Downtown Los Angeles statt.",
+      "score": 7
     }
   ]
 }
