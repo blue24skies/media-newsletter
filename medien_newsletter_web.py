@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Zoo Medien Newsletter Automation mit Zusammenfassungen
-FIXED: Erstellt jetzt Zusammenfassungen für jeden Artikel!
+Zoo Medien Newsletter Automation mit Zusammenfassungen + ARCHIV
+✅ Duplikat-Erkennung via Supabase
+✅ Automatische Archivierung aller Artikel
+✅ Run-Statistiken für Analyse
 """
 
 import feedparser
@@ -57,6 +59,84 @@ EMPFAENGER = {
     #'Aurelia': 'aurelia@zooproductions.de',
     #'Christina': 'christina@zooproductions.de'
 }
+
+# ============================================================================
+# SUPABASE CLIENT
+# ============================================================================
+
+SUPABASE_URL = os.environ.get('SUPABASE_URL', '')
+SUPABASE_KEY = os.environ.get('SUPABASE_KEY', '')
+
+try:
+    from supabase import create_client, Client
+    supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY) if SUPABASE_URL and SUPABASE_KEY else None
+    SUPABASE_AVAILABLE = supabase is not None
+    if SUPABASE_AVAILABLE:
+        print("✅ Supabase verbunden - Archiv aktiv")
+except Exception as e:
+    supabase = None
+    SUPABASE_AVAILABLE = False
+    print(f"⚠️ Supabase nicht verfügbar - Archiv deaktiviert: {e}")
+
+# ============================================================================
+# ARCHIV-FUNKTIONEN
+# ============================================================================
+
+def pruefe_auf_duplikat(article_url):
+    """Prüft ob Artikel bereits im Archiv existiert"""
+    if not supabase:
+        return False
+    try:
+        result = supabase.table('newsletter_articles_archive') \
+            .select('article_url') \
+            .eq('article_url', article_url) \
+            .execute()
+        return len(result.data) > 0
+    except Exception as e:
+        print(f"⚠️ Duplikat-Check Fehler: {str(e)}")
+        return False
+
+def speichere_artikel_im_archiv(artikel, run_date, region):
+    """Speichert Artikel im Archiv"""
+    if not supabase:
+        return False
+    try:
+        data = {
+            'article_url': artikel['link'],
+            'article_title': artikel['title'],
+            'source': artikel['source'],
+            'region': region,
+            'published_date': artikel.get('published', ''),
+            'first_sent_date': run_date,
+            'relevance_score': artikel['score'],
+            'summary': artikel.get('summary', '')
+        }
+        supabase.table('newsletter_articles_archive').insert(data).execute()
+        return True
+    except Exception as e:
+        print(f"⚠️ Archivierung Fehler: {str(e)}")
+        return False
+
+def speichere_run_metadata(run_date, stats):
+    """Speichert Newsletter-Run Statistiken"""
+    if not supabase:
+        return False
+    try:
+        data = {
+            'run_date': run_date,
+            'total_articles_processed': stats['total'],
+            'relevant_articles_found': stats['relevant'],
+            'new_articles_sent': stats['new'],
+            'duplicate_articles_filtered': stats['duplicates'],
+            'sources_checked': stats['sources'],
+            'run_status': stats['status'],
+            'error_message': stats.get('error')
+        }
+        supabase.table('newsletter_runs').insert(data).execute()
+        return True
+    except Exception as e:
+        print(f"⚠️ Metadata-Speicherung Fehler: {str(e)}")
+        return False
 
 # ============================================================================
 # LEARNING RULES SYSTEM
@@ -129,7 +209,7 @@ def fetch_full_article(url):
         if article:
             text = article.get_text(separator=' ', strip=True)
             if len(text) > 200:
-                return text[:3000]  # Ersten 3000 Zeichen
+                return text[:3000]
         
         # Strategie 2: Suche nach gängigen Content-Klassen
         content_selectors = [
@@ -168,8 +248,7 @@ def search_web_for_context(title, description):
         return None
     
     try:
-        # Erstelle Suchquery aus Titel
-        query = title[:100]  # Max 100 Zeichen
+        query = title[:100]
         
         headers = {
             'Accept': 'application/json',
@@ -178,7 +257,7 @@ def search_web_for_context(title, description):
         
         params = {
             'q': query,
-            'count': 3,  # Top 3 Ergebnisse
+            'count': 3,
             'text_decorations': False
         }
         
@@ -192,7 +271,6 @@ def search_web_for_context(title, description):
         if response.status_code == 200:
             data = response.json()
             
-            # Sammle Snippets von Top-Ergebnissen
             snippets = []
             if 'web' in data and 'results' in data['web']:
                 for result in data['web']['results'][:3]:
@@ -215,10 +293,7 @@ def search_web_for_context(title, description):
 # ============================================================================
 
 def hole_kress_artikel():
-    """
-    Scrape aktuelle Artikel von kress.de/news
-    VERBESSERT: Bessere Link-Zuordnung + Duplikat-Vermeidung
-    """
+    """Scrape aktuelle Artikel von kress.de/news"""
     artikel_liste = []
     
     try:
@@ -231,16 +306,12 @@ def hole_kress_artikel():
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # Finde alle Links mit substantiellem Text
         artikel_candidates = []
         for link in soup.find_all('a', href=True):
-            # WICHTIG: separator=' ' fügt Leerzeichen zwischen HTML-Elementen ein!
             link_text = link.get_text(separator=' ', strip=True)
             href = link.get('href')
             
-            # Nur Links mit genug Text und echten URLs
             if len(link_text) >= 40 and href and len(href) > 5:
-                # Keine Navigation/Footer/Social-Links
                 if not any(x in href.lower() for x in ['facebook', 'twitter', 'instagram', 'mailto', 'tel:', '#']):
                     full_url = href if href.startswith('http') else f"https://kress.de{href}"
                     artikel_candidates.append({
@@ -248,7 +319,6 @@ def hole_kress_artikel():
                         'link': full_url
                     })
         
-        # Vermeide Duplikate
         seen_titles = set()
         artikel_count = 0
         
@@ -256,14 +326,11 @@ def hole_kress_artikel():
             titel_raw = candidate['titel']
             link = candidate['link']
             
-            # Strategie 1: Suche nach " – " oder " - " (Dash)
             if ' – ' in titel_raw:
                 titel = titel_raw.split(' – ')[0].strip()
             elif ' - ' in titel_raw:
                 titel = titel_raw.split(' - ')[0].strip()
-            # Strategie 2: Suche nach Satzanfängen
             else:
-                # Suche nach häufigen Satzanfängen: Das, Der, Die, Nach, etc.
                 pattern = r'([a-zäöüß]) (Das|Der|Die|Ein|Eine|Nach|Seit|Jetzt|Nun|Dabei|Denn|Doch|Aber|Und|Oder|Mit|Bei|Für|Auch|Schon|Bereits|Vor|Um|Vom)\b'
                 match = re.search(pattern, titel_raw)
                 if match:
@@ -273,16 +340,13 @@ def hole_kress_artikel():
                 else:
                     titel = titel_raw[:100].strip()
             
-            # Hard limit: Max 100 Zeichen
             if len(titel) > 100:
                 titel = titel[:100].rsplit(' ', 1)[0] + "..."
             
-            # Skip zu kurze oder Duplikate
             if len(titel) < 20 or titel in seen_titles:
                 continue
             seen_titles.add(titel)
             
-            # Generiere Keywords aus dem kurzen Titel
             words = titel.lower().split()
             keywords = [w for w in words if len(w) > 5][:10]
             
@@ -290,7 +354,7 @@ def hole_kress_artikel():
                 'source': 'kress',
                 'title': titel,
                 'link': link,
-                'description': titel_raw[:500],  # Volle Beschreibung für Claude
+                'description': titel_raw[:500],
                 'keywords': keywords,
                 'score': 5
             })
@@ -307,10 +371,7 @@ def hole_kress_artikel():
         return []
 
 def hole_meedia_artikel():
-    """
-    Scrape aktuelle Artikel von meedia.de
-    VERBESSERT: Bessere Link-Zuordnung + Duplikat-Vermeidung
-    """
+    """Scrape aktuelle Artikel von meedia.de"""
     artikel_liste = []
     
     try:
@@ -323,16 +384,12 @@ def hole_meedia_artikel():
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # Finde alle Links mit substantiellem Text
         artikel_candidates = []
         for link in soup.find_all('a', href=True):
-            # WICHTIG: separator=' ' fügt Leerzeichen zwischen HTML-Elementen ein!
             link_text = link.get_text(separator=' ', strip=True)
             href = link.get('href')
             
-            # Nur Links mit genug Text
             if len(link_text) >= 35 and href and len(href) > 5:
-                # Keine Navigation/Footer/Social-Links
                 if not any(x in href.lower() for x in ['facebook', 'twitter', 'instagram', 'mailto', 'tel:', '#', 'kategorie']):
                     full_url = href if href.startswith('http') else f"https://meedia.de{href}"
                     artikel_candidates.append({
@@ -340,7 +397,6 @@ def hole_meedia_artikel():
                         'link': full_url
                     })
         
-        # Vermeide Duplikate
         seen_titles = set()
         artikel_count = 0
         
@@ -348,36 +404,27 @@ def hole_meedia_artikel():
             titel_raw = candidate['titel']
             link = candidate['link']
             
-            # Strategie 1: Suche nach " – " oder " - " (Dash) - häufigster Fall!
             if ' – ' in titel_raw:
                 titel = titel_raw.split(' – ')[0].strip()
             elif ' - ' in titel_raw:
                 titel = titel_raw.split(' - ')[0].strip()
-            # Strategie 2: Suche nach Satzanfängen (Großbuchstaben nach Kleinbuchstaben)
-            # z.B. "...mit politischen Gegnern Das ZDF..." → split bei " Das"
             else:
-                # Suche nach Pattern: Kleinbuchstabe/n + Leerzeichen + häufige Satzanfänge
-                # Findet: "...gegnern Das", "...Amazon Der", etc.
                 pattern = r'([a-zäöüß]) (Das|Der|Die|Ein|Eine|Nach|Seit|Jetzt|Nun|Dabei|Denn|Doch|Aber|Und|Oder|Mit|Bei|Für|Auch|Schon|Bereits|Vor|Um|Vom)\b'
                 match = re.search(pattern, titel_raw)
                 if match:
-                    # Schneide bei dieser Position ab
                     titel = titel_raw[:match.end(1)].strip()
                 elif '. ' in titel_raw:
                     titel = titel_raw.split('. ')[0].strip()
                 else:
                     titel = titel_raw[:100].strip()
             
-            # Hard limit: Max 100 Zeichen (kürzer!)
             if len(titel) > 100:
                 titel = titel[:100].rsplit(' ', 1)[0] + "..."
             
-            # Skip Duplikate und zu kurze
             if len(titel) < 20 or titel in seen_titles:
                 continue
             seen_titles.add(titel)
             
-            # Generiere Keywords
             words = titel.lower().split()
             keywords = [w for w in words if len(w) > 5][:10]
             
@@ -402,10 +449,7 @@ def hole_meedia_artikel():
         return []
 
 def hole_turi2_artikel():
-    """
-    Scrape aktuelle Artikel von turi2.de
-    VERBESSERT: Bessere Link-Zuordnung + Duplikat-Vermeidung
-    """
+    """Scrape aktuelle Artikel von turi2.de"""
     artikel_liste = []
     
     try:
@@ -418,16 +462,12 @@ def hole_turi2_artikel():
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # Finde alle Links mit substantiellem Text
         artikel_candidates = []
         for link in soup.find_all('a', href=True):
-            # WICHTIG: separator=' ' fügt Leerzeichen zwischen HTML-Elementen ein!
             link_text = link.get_text(separator=' ', strip=True)
             href = link.get('href')
             
-            # Nur Links mit genug Text
             if len(link_text) >= 40 and href and len(href) > 5:
-                # Keine Navigation/Footer/Social/Werbe-Links
                 if not any(x in href.lower() for x in ['facebook', 'twitter', 'instagram', 'mailto', 'tel:', '#', 'werben', 'themenwochen', 'termine']):
                     if not any(x in link_text.lower() for x in ['werben bei turi2', 'themenwochen', 'termine der kommunikation']):
                         full_url = href if href.startswith('http') else f"https://turi2.de{href}"
@@ -436,7 +476,6 @@ def hole_turi2_artikel():
                             'link': full_url
                         })
         
-        # Vermeide Duplikate
         seen_titles = set()
         artikel_count = 0
         
@@ -444,12 +483,10 @@ def hole_turi2_artikel():
             titel_raw = candidate['titel']
             link = candidate['link']
             
-            # Strategie 1: Suche nach " – " oder " - " (Dash)
             if ' – ' in titel_raw:
                 titel = titel_raw.split(' – ')[0].strip()
             elif ' - ' in titel_raw:
                 titel = titel_raw.split(' - ')[0].strip()
-            # Strategie 2: Suche nach Satzanfängen
             else:
                 pattern = r'([a-zäöüß]) (Das|Der|Die|Ein|Eine|Nach|Seit|Jetzt|Nun|Dabei|Denn|Doch|Aber|Und|Oder|Mit|Bei|Für|Auch|Schon|Bereits|Vor|Um|Vom)\b'
                 match = re.search(pattern, titel_raw)
@@ -460,16 +497,13 @@ def hole_turi2_artikel():
                 else:
                     titel = titel_raw[:100].strip()
             
-            # Hard limit: Max 100 Zeichen
             if len(titel) > 100:
                 titel = titel[:100].rsplit(' ', 1)[0] + "..."
             
-            # Skip Duplikate und zu kurze
             if len(titel) < 20 or titel in seen_titles:
                 continue
             seen_titles.add(titel)
             
-            # Generiere Keywords
             words = titel.lower().split()
             keywords = [w for w in words if len(w) > 5][:10]
             
@@ -503,7 +537,6 @@ def bewerte_artikel_mit_claude(artikel_liste):
     if not artikel_liste:
         return []
     
-    # Erstelle kompakten Prompt
     artikel_text = ""
     for idx, artikel in enumerate(artikel_liste, 1):
         artikel_text += f"\n[{idx}] Quelle: {artikel['source']}\n"
@@ -547,7 +580,6 @@ Antworte NUR mit JSON:
             data = response.json()
             text = data['content'][0]['text'].strip()
             
-            # Parse JSON
             text = text.replace('```json', '').replace('```', '').strip()
             result = json.loads(text)
             
@@ -561,13 +593,11 @@ Antworte NUR mit JSON:
         return []
 
 # ============================================================================
-# CLAUDE API - ZUSAMMENFASSUNG (DAS WAR DAS PROBLEM!)
+# CLAUDE API - ZUSAMMENFASSUNG
 # ============================================================================
 
 def erstelle_zusammenfassung_mit_claude(title, url, full_text):
-    """
-    Erstelle eine prägnante Zusammenfassung mit Claude
-    """
+    """Erstelle eine prägnante Zusammenfassung mit Claude"""
     
     if not full_text or len(full_text) < 100:
         print(f"       ⚠️ Text zu kurz für Zusammenfassung: {len(full_text) if full_text else 0} Zeichen")
@@ -625,24 +655,21 @@ def sammle_artikel():
     """Sammle Artikel von allen RSS-Feeds und Web-Scraping Quellen"""
     alle_artikel = []
     
-    # 1. RSS-Feeds (Deutschland, UK, USA)
     for source_name, feed_url in RSS_FEEDS.items():
         print(f"📡 Hole Artikel von {source_name}...")
         try:
             feed = feedparser.parse(feed_url)
             artikel_count = 0
             
-            for entry in feed.entries[:20]:  # Max 20 pro Feed
+            for entry in feed.entries[:20]:
                 titel = entry.get('title', 'Kein Titel')
                 link = entry.get('link', '')
                 beschreibung = entry.get('summary', entry.get('description', ''))
                 
-                # Bereinige HTML aus Beschreibung
                 if beschreibung:
                     soup = BeautifulSoup(beschreibung, 'html.parser')
                     beschreibung = soup.get_text(separator=' ', strip=True)
                 
-                # Extrahiere Keywords
                 keywords = []
                 if beschreibung:
                     words = beschreibung.lower().split()
@@ -654,7 +681,7 @@ def sammle_artikel():
                     'link': link,
                     'description': beschreibung,
                     'keywords': keywords,
-                    'score': 5  # Default
+                    'score': 5
                 })
                 artikel_count += 1
             
@@ -664,7 +691,6 @@ def sammle_artikel():
         except Exception as e:
             print(f"   ❌ Fehler bei {source_name}: {e}\n")
     
-    # 2. Web-Scraping Quellen - Deutschland (kress, meedia, turi2)
     print("="*70)
     print("🌐 WEB-SCRAPING DEUTSCHE QUELLEN")
     print("="*70 + "\n")
@@ -701,10 +727,8 @@ def verarbeite_artikel(artikel_liste):
     relevante_artikel = []
     
     for idx, artikel in enumerate(artikel_liste, 1):
-        # Zeige Artikel
         print(f"\n[{idx}] {artikel['source']}: {artikel['title'][:60]}...")
         
-        # Learning Boost
         original_score = artikel['score']
         artikel['score'] = apply_learning_boost(
             artikel['score'],
@@ -713,25 +737,40 @@ def verarbeite_artikel(artikel_liste):
             artikel['keywords']
         )
         
-        # Entscheidung
         if artikel['score'] >= 7:
             print(f"   ✅ Score: {artikel['score']}/10 - RELEVANT!")
             relevante_artikel.append(artikel)
         else:
             print(f"   ⏭️ Score: {artikel['score']}/10 - übersprungen")
     
-    # JETZT DER WICHTIGE TEIL: ZUSAMMENFASSUNGEN ERSTELLEN!
+    # DUPLIKAT-CHECK VOR ZUSAMMENFASSUNGEN
+    print(f"\n\n🔍 PRÜFE AUF DUPLIKATE")
+    print("="*70)
+    
+    relevante_ohne_duplikate = []
+    duplikat_count = 0
+    
+    for artikel in relevante_artikel:
+        if pruefe_auf_duplikat(artikel['link']):
+            duplikat_count += 1
+            print(f"⏭️ Duplikat: {artikel['title'][:60]}...")
+        else:
+            relevante_ohne_duplikate.append(artikel)
+    
+    print(f"\n✅ {len(relevante_ohne_duplikate)} neue Artikel")
+    print(f"⏭️ {duplikat_count} Duplikate übersprungen")
+    
+    relevante_artikel = relevante_ohne_duplikate
+    
+    # ZUSAMMENFASSUNGEN ERSTELLEN
     print(f"\n\n📝 ERSTELLE ZUSAMMENFASSUNGEN FÜR {len(relevante_artikel)} RELEVANTE ARTIKEL")
     print("="*70)
     
     for idx, artikel in enumerate(relevante_artikel, 1):
         print(f"\n[{idx}/{len(relevante_artikel)}] {artikel['title'][:60]}...")
         
-        # 2-Stufen Web-Fetching Strategie
-        # WICHTIG: IMMER den kompletten Artikel laden, niemals RSS-Beschreibung als Ersatz verwenden!
         full_text = None
         
-        # Stufe 1: Lade IMMER Volltext von Original-URL
         print(f"       🌐 Lade vollständigen Artikel von URL...")
         full_text = fetch_full_article(artikel['link'])
         
@@ -739,8 +778,6 @@ def verarbeite_artikel(artikel_liste):
             print(f"       ✅ Artikel geladen: {len(full_text)} Zeichen")
         else:
             print(f"       ⚠️ Volltext konnte nicht geladen werden (Paywall/Login?)")
-            
-            # Stufe 2: Brave Search Fallback nur bei Fehler
             print(f"       🔍 Versuche Web-Recherche als Fallback...")
             web_context = search_web_for_context(artikel['title'], artikel['description'])
             
@@ -748,15 +785,11 @@ def verarbeite_artikel(artikel_liste):
                 full_text = web_context
                 print(f"       ✅ Kontext-Recherche erfolgreich: {len(full_text)} Zeichen")
             else:
-                # Letzter Ausweg: RSS-Beschreibung
                 full_text = artikel['description']
                 print(f"       ⚠️ Fallback auf RSS-Beschreibung: {len(full_text)} Zeichen")
         
-        # JETZT: Erstelle IMMER Zusammenfassung mit Claude!
         if full_text and len(full_text) >= 50:
             print(f"       🤖 Erstelle Zusammenfassung mit Claude...")
-            print(f"       📊 Text-Länge: {len(full_text)} Zeichen")
-            print(f"       📝 Erste 200 Zeichen: {full_text[:200]}...")
             
             artikel['summary'] = erstelle_zusammenfassung_mit_claude(
                 artikel['title'],
@@ -775,7 +808,7 @@ def verarbeite_artikel(artikel_liste):
                 print(f"       ❌ Keine Zusammenfassung möglich - Text zu kurz: {len(full_text)} Zeichen")
             artikel['summary'] = "Zusammenfassung nicht verfügbar - Artikel konnte nicht geladen werden."
         
-        time.sleep(0.5)  # Rate limiting
+        time.sleep(0.5)
     
     return relevante_artikel
 
@@ -784,19 +817,14 @@ def verarbeite_artikel(artikel_liste):
 # ============================================================================
 
 def sortiere_nach_region(artikel_liste):
-    """
-    Sortiere Artikel nach Region: 🇩🇪 Deutschland → 🇬🇧 UK → 🇺🇸 USA
-    Innerhalb jeder Region alphabetisch nach Quelle
-    """
+    """Sortiere Artikel nach Region: 🇩🇪 Deutschland → 🇬🇧 UK → 🇺🇸 USA"""
     
-    # Definiere Regionen und ihre Quellen
     regionen = {
         'deutschland': ['DWDL', 'Horizont Medien', 'kress', 'meedia', 'turi2'],
         'uk': ['Guardian Media'],
         'usa': ['Variety', 'Deadline', 'Hollywood Reporter']
     }
     
-    # Sortiere in drei Gruppen
     deutschland = []
     uk = []
     usa = []
@@ -811,12 +839,10 @@ def sortiere_nach_region(artikel_liste):
         elif source in regionen['usa']:
             usa.append(artikel)
     
-    # Sortiere jede Gruppe alphabetisch nach Quelle
     deutschland.sort(key=lambda x: x['source'])
     uk.sort(key=lambda x: x['source'])
     usa.sort(key=lambda x: x['source'])
     
-    # Kombiniere: Deutschland → UK → USA
     return deutschland + uk + usa
 
 # ============================================================================
@@ -829,7 +855,6 @@ def speichere_als_json(artikel_liste):
     heute = datetime.now().strftime('%Y-%m-%d')
     filename = f'newsletter-{heute}.json'
     
-    # Sortiere nach Region vor dem Export!
     artikel_liste_sortiert = sortiere_nach_region(artikel_liste)
     
     data = {
@@ -1012,7 +1037,6 @@ def versende_newsletter(artikel_liste):
         print(f"📧 Sende an {name}...")
         
         try:
-            # Erstelle kurze Email mit Link
             html_content = erstelle_html_email(anzahl_artikel, name, heute)
             
             msg = MIMEMultipart('alternative')
@@ -1022,7 +1046,6 @@ def versende_newsletter(artikel_liste):
             
             msg.attach(MIMEText(html_content, 'html', 'utf-8'))
             
-            # Versende
             with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
                 server.login(GMAIL_USER, GMAIL_APP_PASSWORD)
                 server.send_message(msg)
@@ -1039,11 +1062,11 @@ def versende_newsletter(artikel_liste):
 
 def main():
     print("\n" + "="*70)
-    print("🎬 ZOO MEDIEN NEWSLETTER - INTELLIGENTE AUTOMATISIERUNG")
+    print("🎬 ZOO MEDIEN NEWSLETTER - MIT ARCHIV-SYSTEM")
     if LEARNING_RULES:
         print("🎓 Learning Rules aktiv")
-    print("🌐 Intelligentes Web-Fetching + Recherche-Fallback")
-    print("📝 Mit Zusammenfassungen!")
+    if SUPABASE_AVAILABLE:
+        print("💾 Archiv-System aktiv")
     print("="*70 + "\n")
     
     print("🤖 SAMMLE UND BEWERTE ARTIKEL")
@@ -1056,27 +1079,73 @@ def main():
         print("❌ Keine Artikel gefunden")
         return
     
-    # 2. Bewerte und erstelle Zusammenfassungen
+    # Statistiken für später
+    stats = {
+        'total': len(alle_artikel),
+        'relevant': 0,
+        'new': 0,
+        'duplicates': 0,
+        'sources': list(RSS_FEEDS.keys()) + list(WEB_SCRAPING_SOURCES.keys()),
+        'status': 'success',
+        'error': None
+    }
+    
+    # 2. Bewerte und erstelle Zusammenfassungen (mit Duplikat-Check)
     relevante_artikel = verarbeite_artikel(alle_artikel)
+    
+    # Update Stats
+    stats['relevant'] = len([a for a in alle_artikel if a.get('score', 0) >= 7])
+    stats['new'] = len(relevante_artikel)
+    stats['duplicates'] = stats['relevant'] - stats['new']
     
     if not relevante_artikel:
         print("\n⚠️ Keine relevanten Artikel heute (Score < 7)")
         return
     
-    # 3. Speichere JSON (MIT REGIONALER SORTIERUNG!)
+    # 3. Archiviere Artikel in Supabase
+    heute = datetime.now().strftime('%Y-%m-%d')
+    
+    if SUPABASE_AVAILABLE:
+        print(f"\n💾 ARCHIVIERE {len(relevante_artikel)} ARTIKEL")
+        print("="*70)
+        
+        regionen = {
+            'deutschland': ['DWDL', 'Horizont Medien', 'kress', 'meedia', 'turi2'],
+            'uk': ['Guardian Media'],
+            'usa': ['Variety', 'Deadline', 'Hollywood Reporter']
+        }
+        
+        archiviert_count = 0
+        for artikel in relevante_artikel:
+            source = artikel['source']
+            region = 'deutschland' if source in regionen['deutschland'] else \
+                     'uk' if source in regionen['uk'] else 'usa'
+            
+            if speichere_artikel_im_archiv(artikel, heute, region):
+                print(f"✓ {artikel['title'][:50]}...")
+                archiviert_count += 1
+        
+        print(f"\n✅ {archiviert_count}/{len(relevante_artikel)} Artikel archiviert")
+        
+        # Speichere Run-Metadata
+        speichere_run_metadata(heute, stats)
+    
+    # 4. Speichere JSON
     print("\n")
     filename = speichere_als_json(relevante_artikel)
     
-    # 4. Versende Newsletter
+    # 5. Versende Newsletter
     versende_newsletter(relevante_artikel)
     
-    # 5. Zusammenfassung
+    # 6. Zusammenfassung
     print("\n" + "="*70)
     print("🎉 NEWSLETTER VERSENDET!")
     print("="*70)
     print(f"✅ {len(EMPFAENGER)}/{len(EMPFAENGER)} Emails gesendet")
     print(f"📄 Datei: {filename}")
-    print(f"🌐 Web: {NEWSLETTER_URL}/?date={datetime.now().strftime('%Y-%m-%d')}")
+    print(f"🌐 Web: {NEWSLETTER_URL}/?date={heute}")
+    if SUPABASE_AVAILABLE:
+        print(f"💾 Archiv: {len(relevante_artikel)} neue Artikel, {stats['duplicates']} Duplikate gefiltert")
     print("="*70 + "\n")
 
 if __name__ == "__main__":
