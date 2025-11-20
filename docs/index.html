@@ -90,6 +90,34 @@
             font-style: italic;
         }
         
+        /* NEU: Navigation */
+        .nav-menu {
+            display: flex;
+            gap: 20px;
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 2px solid #eee;
+        }
+        
+        .nav-menu a {
+            color: #666;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            transition: all 0.3s;
+            font-weight: 600;
+        }
+        
+        .nav-menu a:hover {
+            background: #ffd01d;
+            color: #181716;
+        }
+        
+        .nav-menu a.nav-active {
+            background: #ffd01d;
+            color: #181716;
+        }
+        
         .stats {
             background: linear-gradient(135deg, #ffd01d 0%, #ffdd4d 100%);
             color: #181716;
@@ -329,6 +357,12 @@
             </div>
             <p class="subtitle">Relevante Medien-News für TV-Produzenten</p>
             
+            <!-- NEU: Navigation -->
+            <div class="nav-menu">
+                <a href="index.html" class="nav-active">Aktueller Newsletter</a>
+                <a href="archive.html">Archiv</a>
+            </div>
+            
             <div class="stats" id="stats">
                 <div class="stat-item">
                     <div class="stat-number" id="total-articles">-</div>
@@ -412,7 +446,7 @@
         }
         
         // ============================================================
-        // NEWSLETTER LADEN - FIX: Lade newsletter-YYYY-MM-DD.json
+        // NEWSLETTER LADEN - MIT SUPPORT FÜR HISTORISCHE NEWSLETTER
         // ============================================================
         async function loadNewsletter() {
             try {
@@ -420,14 +454,39 @@
                 const dateParam = urlParams.get('date');
                 const date = dateParam || new Date().toISOString().split('T')[0];
                 
-                // FIX: Lade die richtige Datei newsletter-2025-11-16.json
-                const response = await fetch(`newsletter-${date}.json`);
+                let data;
                 
-                if (!response.ok) {
-                    throw new Error('Newsletter nicht gefunden');
+                if (dateParam) {
+                    // HISTORISCHER NEWSLETTER: Lade aus Supabase
+                    console.log(`Lade historischen Newsletter: ${date}`);
+                    const { data: articles, error } = await supabase
+                        .from('newsletter_articles_archive')
+                        .select('*')
+                        .eq('first_sent_date', date)
+                        .order('region', { ascending: true });
+                    
+                    if (error) throw error;
+                    
+                    data = {
+                        date: date,
+                        articles: articles.map(a => ({
+                            source: a.source,
+                            title: a.article_title,
+                            link: a.article_url,
+                            summary: a.summary,
+                            score: a.relevance_score
+                        }))
+                    };
+                } else {
+                    // AKTUELLER NEWSLETTER: Lade aus JSON
+                    const response = await fetch(`newsletter-${date}.json`);
+                    
+                    if (!response.ok) {
+                        throw new Error('Newsletter nicht gefunden');
+                    }
+                    
+                    data = await response.json();
                 }
-                
-                const data = await response.json();
                 
                 // Statistiken
                 document.getElementById('total-articles').textContent = data.articles.length;
@@ -484,9 +543,30 @@
             }
             
             try {
-                const response = await fetch(`newsletter-${date}.json`);
-                const data = await response.json();
-                const article = data.articles[articleIndex];
+                // Bestimme Datenquelle basierend auf Datum
+                const urlParams = new URLSearchParams(window.location.search);
+                const isHistorical = urlParams.get('date');
+                
+                let article;
+                
+                if (isHistorical) {
+                    // Historischer Newsletter: aus Supabase-Daten
+                    const { data: articles } = await supabase
+                        .from('newsletter_articles_archive')
+                        .select('*')
+                        .eq('first_sent_date', date)
+                        .order('region', { ascending: true });
+                    article = {
+                        title: articles[articleIndex].article_title,
+                        source: articles[articleIndex].source,
+                        score: articles[articleIndex].relevance_score
+                    };
+                } else {
+                    // Aktueller Newsletter: aus JSON
+                    const response = await fetch(`newsletter-${date}.json`);
+                    const data = await response.json();
+                    article = data.articles[articleIndex];
+                }
                 
                 const { error } = await supabase
                     .from('artikel_bewertungen')
