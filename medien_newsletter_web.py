@@ -35,7 +35,7 @@ BRAVE_SEARCH_API_KEY = os.environ.get('BRAVE_SEARCH_API_KEY', '')
 RSS_FEEDS = {
     # Deutschland
     'DWDL': 'https://www.dwdl.de/rss/nachrichten.xml',
-    'Horizont Medien': 'https://www.horizont.net/feed/kategorie/medien/rss.xml',
+    'Horizont Medien': 'https://www.horizont.net/news/feed/medien/',
     # UK
     'Guardian Media': 'https://www.theguardian.com/media/rss',
     # USA
@@ -885,7 +885,8 @@ def speichere_als_json(artikel_liste):
 def erstelle_html_email(anzahl_artikel, empfaenger_name, datum):
     """Sendet kurze Email mit Link zur Webseite"""
     
-    newsletter_link = f"{NEWSLETTER_URL}?date={datum}"
+    # Link OHNE date-Parameter -> lädt automatisch die heutige JSON-Datei
+    newsletter_link = f"{NEWSLETTER_URL}"
     
     html = f"""
     <!DOCTYPE html>
