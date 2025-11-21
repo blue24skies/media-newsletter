@@ -292,6 +292,70 @@ def search_web_for_context(title, description):
 # KRESS.DE WEB-SCRAPING
 # ============================================================================
 
+def extrahiere_sauberen_titel(titel_raw):
+    """
+    Extrahiert einen sauberen Titel aus dem rohen Link-Text
+    Versucht intelligent den Hauptsatz zu finden und Zusatzinfos abzuschneiden
+    """
+    titel_raw = titel_raw.strip()
+    
+    # Strategie 1: Explizite Trennzeichen (– oder -)
+    if ' – ' in titel_raw:
+        return titel_raw.split(' – ')[0].strip()
+    if ' - ' in titel_raw:
+        return titel_raw.split(' - ')[0].strip()
+    
+    # Strategie 2: Satzende-Erkennung (. gefolgt von Großbuchstabe oder Ende)
+    # Aber NICHT bei Abkürzungen wie "z.B." oder "u.a."
+    satzende_pattern = r'([^\.]+\.)(?:\s+[A-ZÄÖÜ]|\s*$)'
+    match = re.search(satzende_pattern, titel_raw)
+    if match:
+        erster_satz = match.group(1).strip()
+        # Prüfe ob es eine sinnvolle Länge hat
+        if 30 <= len(erster_satz) <= 150:
+            return erster_satz
+    
+    # Strategie 3: Doppelpunkt nach Thema (z.B. "RTL: Neue Show startet...")
+    if ': ' in titel_raw:
+        parts = titel_raw.split(': ', 1)
+        if len(parts[0]) < 50 and len(parts[1]) > 20:
+            # Der Teil nach dem Doppelpunkt ist die eigentliche Headline
+            nach_doppelpunkt = parts[1]
+            # Wende weitere Strategien auf den Teil nach dem Doppelpunkt an
+            return extrahiere_sauberen_titel(nach_doppelpunkt)
+    
+    # Strategie 4: Suche nach typischen Satzanfängen im Text (zweiter Satz beginnt)
+    # Regex findet: Kleinbuchstabe + Satzzeichen + optionales Leerzeichen + Satzanfang
+    satzanfang_pattern = r'([a-zäöüß][\.!?])\s+(Das|Der|Die|Ein|Eine|Nach|Seit|Jetzt|Nun|Dabei|Denn|Doch|Aber|Und|Oder|Mit|Bei|Für|Auch|Schon|Bereits|Vor|Um|Vom|So|Es|Sie|Er|Wir|Ihr)\b'
+    match = re.search(satzanfang_pattern, titel_raw)
+    if match:
+        ende_erster_satz = match.start() + len(match.group(1))
+        erster_satz = titel_raw[:ende_erster_satz].strip()
+        if 30 <= len(erster_satz) <= 150:
+            return erster_satz
+    
+    # Strategie 5: Wenn der Text sehr lang ist (>150 Zeichen), 
+    # suche den ersten sinnvollen Schnitt-Punkt
+    if len(titel_raw) > 150:
+        # Versuche nach ~100-120 Zeichen einen Satzabschluss zu finden
+        teiltext = titel_raw[:120]
+        # Suche rückwärts nach . ! ?
+        for satzzeichen in ['. ', '! ', '? ']:
+            if satzzeichen in teiltext:
+                pos = teiltext.rfind(satzzeichen)
+                if pos > 50:  # Mindestens 50 Zeichen
+                    return titel_raw[:pos + 1].strip()
+        
+        # Wenn kein Satzzeichen gefunden, schneide bei letztem Wort vor 120 Zeichen
+        return titel_raw[:100].rsplit(' ', 1)[0].strip() + '...'
+    
+    # Strategie 6: Text ist kurz genug, verwende ihn komplett
+    if len(titel_raw) <= 150:
+        return titel_raw
+    
+    # Fallback: Schneide bei 100 Zeichen am letzten Wort
+    return titel_raw[:100].rsplit(' ', 1)[0].strip() + '...'
+
 def hole_kress_artikel():
     """Scrape aktuelle Artikel von kress.de/news"""
     artikel_liste = []
@@ -326,23 +390,10 @@ def hole_kress_artikel():
             titel_raw = candidate['titel']
             link = candidate['link']
             
-            if ' – ' in titel_raw:
-                titel = titel_raw.split(' – ')[0].strip()
-            elif ' - ' in titel_raw:
-                titel = titel_raw.split(' - ')[0].strip()
-            else:
-                pattern = r'([a-zäöüß]) (Das|Der|Die|Ein|Eine|Nach|Seit|Jetzt|Nun|Dabei|Denn|Doch|Aber|Und|Oder|Mit|Bei|Für|Auch|Schon|Bereits|Vor|Um|Vom)\b'
-                match = re.search(pattern, titel_raw)
-                if match:
-                    titel = titel_raw[:match.end(1)].strip()
-                elif '. ' in titel_raw:
-                    titel = titel_raw.split('. ')[0].strip()
-                else:
-                    titel = titel_raw[:100].strip()
+            # Nutze die neue intelligente Titel-Extraktion
+            titel = extrahiere_sauberen_titel(titel_raw)
             
-            if len(titel) > 100:
-                titel = titel[:100].rsplit(' ', 1)[0] + "..."
-            
+            # Qualitätsprüfung
             if len(titel) < 20 or titel in seen_titles:
                 continue
             seen_titles.add(titel)
@@ -404,23 +455,10 @@ def hole_meedia_artikel():
             titel_raw = candidate['titel']
             link = candidate['link']
             
-            if ' – ' in titel_raw:
-                titel = titel_raw.split(' – ')[0].strip()
-            elif ' - ' in titel_raw:
-                titel = titel_raw.split(' - ')[0].strip()
-            else:
-                pattern = r'([a-zäöüß]) (Das|Der|Die|Ein|Eine|Nach|Seit|Jetzt|Nun|Dabei|Denn|Doch|Aber|Und|Oder|Mit|Bei|Für|Auch|Schon|Bereits|Vor|Um|Vom)\b'
-                match = re.search(pattern, titel_raw)
-                if match:
-                    titel = titel_raw[:match.end(1)].strip()
-                elif '. ' in titel_raw:
-                    titel = titel_raw.split('. ')[0].strip()
-                else:
-                    titel = titel_raw[:100].strip()
+            # Nutze die neue intelligente Titel-Extraktion
+            titel = extrahiere_sauberen_titel(titel_raw)
             
-            if len(titel) > 100:
-                titel = titel[:100].rsplit(' ', 1)[0] + "..."
-            
+            # Qualitätsprüfung
             if len(titel) < 20 or titel in seen_titles:
                 continue
             seen_titles.add(titel)
@@ -483,23 +521,10 @@ def hole_turi2_artikel():
             titel_raw = candidate['titel']
             link = candidate['link']
             
-            if ' – ' in titel_raw:
-                titel = titel_raw.split(' – ')[0].strip()
-            elif ' - ' in titel_raw:
-                titel = titel_raw.split(' - ')[0].strip()
-            else:
-                pattern = r'([a-zäöüß]) (Das|Der|Die|Ein|Eine|Nach|Seit|Jetzt|Nun|Dabei|Denn|Doch|Aber|Und|Oder|Mit|Bei|Für|Auch|Schon|Bereits|Vor|Um|Vom)\b'
-                match = re.search(pattern, titel_raw)
-                if match:
-                    titel = titel_raw[:match.end(1)].strip()
-                elif '. ' in titel_raw:
-                    titel = titel_raw.split('. ')[0].strip()
-                else:
-                    titel = titel_raw[:100].strip()
+            # Nutze die neue intelligente Titel-Extraktion
+            titel = extrahiere_sauberen_titel(titel_raw)
             
-            if len(titel) > 100:
-                titel = titel[:100].rsplit(' ', 1)[0] + "..."
-            
+            # Qualitätsprüfung
             if len(titel) < 20 or titel in seen_titles:
                 continue
             seen_titles.add(titel)
