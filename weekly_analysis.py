@@ -247,45 +247,28 @@ def analysiere_themen(bewertungen):
 # ============================================================================
 
 def generiere_regeln(quellen_stats, keyword_stats, paar_stats, kombi_stats, themen_stats):
-    """Generiert Lern-Regeln basierend auf Statistiken"""
+    """
+    Generiert Lern-Regeln basierend auf Statistiken
+    
+    WICHTIG: Bewertet NUR Inhalte (Keywords, Themen), NICHT Quellen!
+    Quellen wie DWDL, Kress, etc. sollen NICHT bewertet werden.
+    """
     regeln = []
     
-    print("\n🎓 GENERIERE LERN-REGELN")
+    print("\n🎓 GENERIERE LERN-REGELN (CONTENT-BASIERT)")
     print("=" * 70)
     
-    # 1. QUELLEN-REGELN
-    print("\n1️⃣ QUELLEN-REGELN:")
-    for quelle, stats in sorted(quellen_stats.items()):
-        gesamt = stats['relevant'] + stats['nicht_relevant']
-        
-        if gesamt >= MIN_BEWERTUNGEN_QUELLE:
-            prozent_relevant = stats['relevant'] / gesamt
-            
-            if prozent_relevant >= RELEVANT_SCHWELLE:
-                boost = 1 if prozent_relevant < 0.85 else 2
-                regeln.append({
-                    'typ': 'quelle',
-                    'wert': quelle,
-                    'aktion': boost,
-                    'grund': f"{int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
-                })
-                print(f"   ✅ {quelle}: +{boost} ({int(prozent_relevant*100)}%)")
-            
-            elif prozent_relevant <= IRRELEVANT_SCHWELLE:
-                regeln.append({
-                    'typ': 'quelle',
-                    'wert': quelle,
-                    'aktion': -1,
-                    'grund': f"nur {int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
-                })
-                print(f"   ❌ {quelle}: -1 ({int(prozent_relevant*100)}%)")
+    # QUELLEN-REGELN SIND DEAKTIVIERT!
+    # Wir bewerten Inhalte, nicht Dienstleister
+    print("\n1️⃣ QUELLEN-REGELN: DEAKTIVIERT ❌")
+    print("   → Quellen werden nicht bewertet, nur Inhalte!")
     
-    # 2. KEYWORD-REGELN
-    print("\n2️⃣ KEYWORD-REGELN:")
+    # 2. KEYWORD-REGELN (Einzelne Themen/Begriffe)
+    print("\n2️⃣ KEYWORD-REGELN (Themen-basiert):")
     keyword_items = sorted(keyword_stats.items(), key=lambda x: x[1]['relevant'], reverse=True)
     count = 0
     for keyword, stats in keyword_items:
-        if count >= 15:  # Max 15 Keyword-Regeln
+        if count >= 20:  # Max 20 Keyword-Regeln (erhöht von 15)
             break
         
         gesamt = stats['relevant'] + stats['nicht_relevant']
@@ -314,12 +297,12 @@ def generiere_regeln(quellen_stats, keyword_stats, paar_stats, kombi_stats, them
                 print(f"   ❌ '{keyword}': -1 ({int(prozent_relevant*100)}%)")
                 count += 1
     
-    # 3. KEYWORD-PAAR-REGELN
-    print("\n3️⃣ KEYWORD-PAAR-REGELN:")
+    # 3. KEYWORD-PAAR-REGELN (Spezifischere Themen)
+    print("\n3️⃣ KEYWORD-PAAR-REGELN (Spezifische Themen):")
     paar_items = sorted(paar_stats.items(), key=lambda x: x[1]['relevant'], reverse=True)
     count = 0
     for paar, stats in paar_items:
-        if count >= 10:  # Max 10 Paar-Regeln
+        if count >= 15:  # Max 15 Paar-Regeln (erhöht von 10)
             break
         
         gesamt = stats['relevant'] + stats['nicht_relevant']
@@ -337,17 +320,12 @@ def generiere_regeln(quellen_stats, keyword_stats, paar_stats, kombi_stats, them
                 print(f"   ✅ '{paar}': +2 ({int(prozent_relevant*100)}%)")
                 count += 1
     
-    # 4. QUELLEN-KEYWORD-KOMBINATIONEN
-    print("\n4️⃣ QUELLEN-KEYWORD-KOMBIS:")
-    kombi_items = sorted(kombi_stats.items(), key=lambda x: x[1]['relevant'], reverse=True)
-    count = 0
-    for kombi, stats in kombi_items:
-        if count >= 10:  # Max 10 Kombi-Regeln
-            break
-        
-        gesamt = stats['relevant'] + stats['nicht_relevant']
-        
-        if gesamt >= MIN_BEWERTUNGEN_COMBO:
+    # 4. QUELLEN-KEYWORD-KOMBINATIONEN → DEAKTIVIERT!
+    # Diese waren quellen-abhängig, was wir nicht wollen
+    print("\n4️⃣ QUELLEN-KEYWORD-KOMBIS: DEAKTIVIERT ❌")
+    print("   → Wurden entfernt da quellen-abhängig")
+    
+    # 5. THEMEN-REGELN (Kategorien)
             prozent_relevant = stats['relevant'] / gesamt
             
             if prozent_relevant >= 0.80:
@@ -396,18 +374,15 @@ def generiere_learning_rules_py(regeln):
     """
     Generiert learning_rules.py im Dictionary-Format
     Kompatibel mit medien_newsletter_web.py
+    
+    WICHTIG: Enthält NUR content-basierte Regeln (Keywords, Themen)
+    KEINE quellen-basierten Regeln!
     """
     try:
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         
-        # Erstelle Dictionaries
-        source_boosts = {}
+        # Erstelle nur Keyword-Dictionary (KEINE source_boosts!)
         keyword_boosts = {}
-        
-        # Quellen-Regeln
-        quellen_regeln = [r for r in regeln if r['typ'] == 'quelle']
-        for regel in quellen_regeln:
-            source_boosts[regel['wert']] = regel['aktion']
         
         # Keyword-Regeln
         keyword_regeln = [r for r in regeln if r['typ'] == 'keyword']
@@ -427,11 +402,6 @@ def generiere_learning_rules_py(regeln):
                     keyword_boosts[begriff] = regel['aktion']
         
         # Code generieren
-        source_lines = []
-        for quelle, boost in source_boosts.items():
-            grund = [r['grund'] for r in regeln if r['typ'] == 'quelle' and r['wert'] == quelle][0]
-            source_lines.append(f"        '{quelle}': {boost},  # {grund}")
-        
         keyword_lines = []
         for keyword, boost in keyword_boosts.items():
             keyword_lines.append(f"        '{keyword}': {boost},")
@@ -439,9 +409,12 @@ def generiere_learning_rules_py(regeln):
         code = f"""#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 \"\"\"
-AUTOMATISCH GENERIERTE LERN-REGELN
+AUTOMATISCH GENERIERTE LERN-REGELN (CONTENT-BASIERT)
 Erstellt: {timestamp}
 Anzahl Regeln: {len(regeln)}
+
+WICHTIG: Nur Inhalte werden bewertet, NICHT Quellen!
+Keywords und Themen bekommen Boosts basierend auf Team-Feedback.
 
 Format: Dictionary für medien_newsletter_web.py
 \"\"\"
@@ -449,15 +422,16 @@ Format: Dictionary für medien_newsletter_web.py
 # Learning Rules im Dictionary-Format
 LEARNING_RULES = {{
     'source_boosts': {{
-{chr(10).join(source_lines)}
+        # QUELLEN-BOOSTS SIND DEAKTIVIERT
+        # Wir bewerten Inhalte (Keywords/Themen), nicht Dienstleister
     }},
     'keyword_boosts': {{
-{chr(10).join(keyword_lines)}
+{chr(10).join(keyword_lines) if keyword_lines else "        # Noch keine Keywords gelernt"}
     }}
 }}
 
 # Statistik
-ANZAHL_QUELLEN = {len(source_boosts)}
+ANZAHL_QUELLEN = 0  # Quellen werden nicht mehr bewertet
 ANZAHL_KEYWORDS = {len(keyword_boosts)}
 ANZAHL_REGELN_GESAMT = {len(regeln)}
 """
@@ -467,9 +441,9 @@ ANZAHL_REGELN_GESAMT = {len(regeln)}
             f.write(code)
         
         print(f"\n✅ learning_rules.py erfolgreich erstellt!")
-        print(f"   Quellen-Boosts: {len(source_boosts)}")
+        print(f"   Quellen-Boosts: 0 (DEAKTIVIERT)")
         print(f"   Keyword-Boosts: {len(keyword_boosts)}")
-        print(f"   Gesamt: {len(source_boosts) + len(keyword_boosts)} anwendbare Regeln")
+        print(f"   Gesamt: {len(keyword_boosts)} anwendbare Regeln (content-basiert)")
         
     except Exception as e:
         print(f"❌ Fehler beim Generieren von learning_rules.py: {e}")
@@ -513,7 +487,10 @@ def main():
     kombi_stats = analysiere_quelle_keyword_kombis(bewertungen)
     themen_stats = analysiere_themen(bewertungen)
     
-    # Regeln generieren
+    # User-spezifische Analyse (informativ, wird nicht für Regeln verwendet)
+    user_stats = analysiere_pro_user(bewertungen)
+    
+    # Regeln generieren (TEAM-weit, nicht user-spezifisch)
     regeln = generiere_regeln(quellen_stats, keyword_stats, paar_stats, kombi_stats, themen_stats)
     
     if not regeln:
@@ -530,6 +507,63 @@ def main():
     print(f"📊 Bewertungen: {len(bewertungen)}")
     print(f"🎓 Regeln: {len(regeln)}")
     print("="*70 + "\n")
+
+
+def analysiere_pro_user(bewertungen):
+    """
+    Analysiert Bewertungen pro User separat
+    Zeigt unterschiedliche Präferenzen der Team-Mitglieder
+    """
+    user_stats = defaultdict(lambda: {
+        'total': 0,
+        'relevant': 0,
+        'nicht_relevant': 0,
+        'top_keywords': defaultdict(int),
+        'top_themen': defaultdict(int)
+    })
+    
+    # Sammle Daten pro User
+    for b in bewertungen:
+        user = b['user_name']
+        user_stats[user]['total'] += 1
+        
+        if b['bewertung'] == 'relevant':
+            user_stats[user]['relevant'] += 1
+            # Extrahiere Keywords für relevante Artikel
+            keywords = extrahiere_keywords(b['artikel_titel'])
+            for kw in keywords[:5]:
+                user_stats[user]['top_keywords'][kw] += 1
+            # Themen
+            themen = kategorisiere_thema(b['artikel_titel'])
+            for thema in themen:
+                user_stats[user]['top_themen'][thema] += 1
+        else:
+            user_stats[user]['nicht_relevant'] += 1
+    
+    # Ausgabe
+    print("\n👥 USER-SPEZIFISCHE PRÄFERENZEN")
+    print("=" * 70)
+    
+    for user, stats in sorted(user_stats.items()):
+        prozent = (stats['relevant'] / stats['total'] * 100) if stats['total'] > 0 else 0
+        print(f"\n{user}:")
+        print(f"  📊 {stats['relevant']}/{stats['total']} relevant ({prozent:.0f}%)")
+        
+        # Top Keywords
+        if stats['top_keywords']:
+            top_kw = sorted(stats['top_keywords'].items(), key=lambda x: x[1], reverse=True)[:5]
+            print(f"  🔑 Top Keywords: {', '.join([f'{kw}({cnt})' for kw, cnt in top_kw])}")
+        
+        # Top Themen
+        if stats['top_themen']:
+            top_th = sorted(stats['top_themen'].items(), key=lambda x: x[1], reverse=True)[:3]
+            print(f"  📂 Top Themen: {', '.join([f'{th}({cnt})' for th, cnt in top_th])}")
+    
+    print("\n💡 HINWEIS: Aktuelles Learning ist TEAM-weit, nicht user-spezifisch!")
+    print("   → Alle Bewertungen aller User werden zusammen analysiert")
+    print("   → Future: Per-User Learning für personalisierte Newsletter?")
+    
+    return user_stats
 
 
 if __name__ == "__main__":
