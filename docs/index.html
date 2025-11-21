@@ -260,6 +260,25 @@
             cursor: not-allowed;
         }
         
+        .btn-rated {
+            opacity: 0.6;
+            cursor: not-allowed;
+            position: relative;
+        }
+        
+        .btn-rated:hover {
+            opacity: 0.6 !important;
+        }
+        
+        .rated-badge {
+            background: #4CAF50;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.85em;
+            font-weight: 600;
+        }
+        
         .loading {
             text-align: center;
             padding: 50px;
@@ -293,6 +312,11 @@
         
         .feedback-error {
             background: #f44336;
+            color: white;
+        }
+        
+        .feedback-info {
+            background: #2196F3;
             color: white;
         }
         
@@ -448,6 +472,35 @@
         // ============================================================
         // NEWSLETTER LADEN - MIT SUPPORT FÜR HISTORISCHE NEWSLETTER
         // ============================================================
+        async function loadExistingRatings(date) {
+            /**
+             * Lädt bereits vorhandene Bewertungen des aktuellen Users für diesen Newsletter
+             * Returns: Set mit Artikel-IDs die bereits bewertet wurden
+             */
+            if (!currentUser.email) return new Set();
+            
+            try {
+                const { data, error } = await supabase
+                    .from('artikel_bewertungen')
+                    .select('artikel_id, bewertung')
+                    .eq('newsletter_datum', date)
+                    .eq('user_email', currentUser.email);
+                
+                if (error) throw error;
+                
+                // Erstelle Map: artikel_id -> bewertung
+                const ratings = new Map();
+                data.forEach(row => {
+                    ratings.set(row.artikel_id, row.bewertung);
+                });
+                
+                return ratings;
+            } catch (error) {
+                console.error('Fehler beim Laden der Bewertungen:', error);
+                return new Map();
+            }
+        }
+        
         async function loadNewsletter() {
             try {
                 const urlParams = new URLSearchParams(window.location.search);
@@ -493,8 +546,11 @@
                 const avgScore = (data.articles.reduce((sum, a) => sum + a.score, 0) / data.articles.length).toFixed(1);
                 document.getElementById('avg-score').textContent = avgScore;
                 
+                // Lade bereits vorhandene Bewertungen für diesen Newsletter
+                const existingRatings = await loadExistingRatings(date);
+                
                 // Artikel rendern
-                renderArticles(data.articles, date);
+                renderArticles(data.articles, date, existingRatings);
                 
                 document.getElementById('loading').style.display = 'none';
                 
@@ -505,27 +561,42 @@
             }
         }
         
-        function renderArticles(articles, date) {
+        function renderArticles(articles, date, existingRatings = new Map()) {
             const container = document.getElementById('articles');
             container.innerHTML = '';
             
             articles.forEach((article, index) => {
+                const alreadyRated = existingRatings.has(index);
+                const previousRating = existingRatings.get(index);
+                
+                // Button-Status basierend auf ob bereits bewertet
+                const relevantBtnClass = alreadyRated && previousRating === 'relevant' 
+                    ? 'btn btn-relevant btn-rated' 
+                    : 'btn btn-relevant';
+                const notRelevantBtnClass = alreadyRated && previousRating === 'nicht-relevant'
+                    ? 'btn btn-not-relevant btn-rated'
+                    : 'btn btn-not-relevant';
+                
+                const disabledAttr = alreadyRated ? 'disabled' : '';
+                const ratedLabel = alreadyRated ? '✓ Bewertet' : '';
+                
                 const articleEl = document.createElement('div');
                 articleEl.className = 'article';
                 articleEl.innerHTML = `
                     <div class="article-header">
                         <span class="article-source">${article.source}</span>
                         <span class="article-score">Score: ${article.score}/10</span>
+                        ${alreadyRated ? `<span class="rated-badge">${ratedLabel}</span>` : ''}
                     </div>
                     <h2 class="article-title">${article.title}</h2>
                     <p class="article-description">${article.summary}</p>
                     <div class="article-actions">
                         <a href="${article.link}" target="_blank" class="btn btn-primary">Artikel lesen →</a>
-                        <button class="btn btn-relevant" onclick="rateArticle(${index}, '${date}', 'relevant')">
-                            ✓ Relevant
+                        <button class="${relevantBtnClass}" onclick="rateArticle(${index}, '${date}', 'relevant')" ${disabledAttr}>
+                            ${alreadyRated && previousRating === 'relevant' ? '✓ Relevant' : '✓ Relevant'}
                         </button>
-                        <button class="btn btn-not-relevant" onclick="rateArticle(${index}, '${date}', 'nicht-relevant')">
-                            ✗ Nicht relevant
+                        <button class="${notRelevantBtnClass}" onclick="rateArticle(${index}, '${date}', 'nicht-relevant')" ${disabledAttr}>
+                            ${alreadyRated && previousRating === 'nicht-relevant' ? '✓ Nicht relevant' : '✗ Nicht relevant'}
                         </button>
                     </div>
                 `;
@@ -539,6 +610,13 @@
         async function rateArticle(articleIndex, date, rating) {
             if (!currentUser.name || !currentUser.email) {
                 checkUserInfo();
+                return;
+            }
+            
+            // Prüfe ob dieser Artikel bereits bewertet wurde
+            const buttons = document.querySelectorAll('.article')[articleIndex].querySelectorAll('.btn-relevant, .btn-not-relevant');
+            if (buttons[0].disabled) {
+                showFeedback('Artikel wurde bereits bewertet! ℹ️', 'info');
                 return;
             }
             
