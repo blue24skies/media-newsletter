@@ -325,20 +325,6 @@ def generiere_regeln(quellen_stats, keyword_stats, paar_stats, kombi_stats, them
     print("\n4️⃣ QUELLEN-KEYWORD-KOMBIS: DEAKTIVIERT ❌")
     print("   → Wurden entfernt da quellen-abhängig")
     
-    # 5. THEMEN-REGELN (Kategorien)
-            prozent_relevant = stats['relevant'] / gesamt
-            
-            if prozent_relevant >= 0.80:
-                regeln.append({
-                    'typ': 'quelle_keyword',
-                    'wert': kombi,
-                    'aktion': 2,
-                    'grund': f"{int(prozent_relevant*100)}% relevant ({stats['relevant']}/{gesamt})"
-                })
-                quelle, keyword = kombi.split('+')
-                print(f"   ✅ {quelle} + '{keyword}': +2 ({int(prozent_relevant*100)}%)")
-                count += 1
-    
     # 5. THEMEN-REGELN
     print("\n5️⃣ THEMEN-REGELN:")
     for thema, stats in sorted(themen_stats.items()):
