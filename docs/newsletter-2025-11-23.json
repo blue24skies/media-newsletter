@@ -1,0 +1,33 @@
+{
+  "date": "2025-11-23",
+  "articles": [
+    {
+      "source": "Guardian Media",
+      "title": "Lord Rothermere’s Telegraph takeover strengthens UK media’s rightwing tilt",
+      "link": "https://www.theguardian.com/media/2025/nov/22/lord-rothermeres-telegraph-takeover-extends-rightwings-reach-over-british-media",
+      "summary": "Lord Rothermere's Daily Mail and General Trust hat für £500 Millionen die Daily Telegraph von RedBird IMI übernommen, nachdem RedBird sein eigenes Kaufangebot aufgrund von Kritik wegen China-Verbindungen zurückgezogen hatte. Die Übernahme verstärkt die rechtspolitische Ausrichtung der britischen Medienlandschaft, da nun beide einflussreichen konservativen Zeitungen unter Rothermeres Kontrolle stehen. Kritiker befürchten eine Verringerung der Medienvielfalt und des Wettbewerbs im britischen Zeitungsmarkt.",
+      "score": 7
+    },
+    {
+      "source": "Guardian Media",
+      "title": "Daily Mail owner strikes £500m deal to buy Telegraph titles",
+      "link": "https://www.theguardian.com/media/2025/nov/22/daily-mail-owner-strikes-deal-buy-telegraph-titles-rothermere",
+      "summary": "Daily Mail & General Trust (DMGT) hat einen £500m Deal zum Kauf der Telegraph-Titel mit RedBird IMI abgeschlossen, wodurch ein bedeutender rechtsgerichteter Medienkonzern entsteht. Die Übernahme wird voraussichtlich eine eingehende Prüfung durch Ofcom und die Competition and Markets Authority auslösen. DMGT könnte den Verkauf von i Paper und Metro erwägen, um wettbewerbsrechtliche Bedenken zu zerstreuen.",
+      "score": 7
+    },
+    {
+      "source": "Guardian Media",
+      "title": "BBC board member quits after being ‘cut out’ of talks over liberal bias claims",
+      "link": "https://www.theguardian.com/media/2025/nov/21/bbc-board-member-quits-after-being-cut-out-of-talks-over-liberal-bias-claims",
+      "summary": "BBC-Vorstandsmitglied Shumeet Banerji ist zurückgetreten, nachdem er von entscheidenden Diskussionen ausgeschlossen wurde, die zum Rücktritt von Generaldirektor Tim Davie und BBC News-Chefin Deborah Turness führten. Die Führungskrise entstand durch interne Spannungen über den Umgang mit Vorwürfen liberaler Voreingenommenheit in der Berichterstattung zu Trump, Gaza und Transgender-Rechten. Banerji kritisiert \"Governance-Probleme\" an der Spitze der BBC und wirft damit Fragen zur Rolle von Aufsichtsratschef Samir Shah und dem umstrittenen Vorstandsmitglied Sir Robbie Gibb auf.",
+      "score": 8
+    },
+    {
+      "source": "Hollywood Reporter",
+      "title": "HBO Max’s Big Plan: Be HBO Again",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/inside-hbo-max-plan-casey-bloys-hbo-ip-max-original-1236432357/",
+      "summary": "HBO Max CEO Casey Bloys führt eine strategische Neuausrichtung durch, um die Streaming-Plattform wieder stärker auf die Premium-Marke HBO zu fokussieren, nachdem die ursprüngliche Strategie als Netflix-Konkurrent gescheitert ist. Die Erkenntnis: Während Netflix und YouTube zu Video-Utilities geworden sind, verloren viele Streaming-Anbieter durch das Streben nach Volumen ihre Markenidentität. Die im Mai angekündigte Rebrandung zu \"Max\" ist Teil dieser Rückbesinnung auf HBOs Premium-Positionierung.",
+      "score": 8
+    }
+  ]
+}
