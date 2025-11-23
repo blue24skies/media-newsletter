@@ -36,6 +36,8 @@ RSS_FEEDS = {
     # Deutschland
     'DWDL': 'https://www.dwdl.de/rss/nachrichten.xml',
     'Horizont Medien': 'https://www.horizont.net/news/feed/medien/',
+    'W&V': 'https://www.wuv.de/feed',
+    'Quotenmeter': 'https://www.quotenmeter.de/rss',
     # UK
     'Guardian Media': 'https://www.theguardian.com/media/rss',
     # USA
@@ -845,7 +847,7 @@ def sortiere_nach_region(artikel_liste):
     """Sortiere Artikel nach Region: 🇩🇪 Deutschland → 🇬🇧 UK → 🇺🇸 USA"""
     
     regionen = {
-        'deutschland': ['DWDL', 'Horizont Medien', 'kress', 'meedia', 'turi2'],
+        'deutschland': ['DWDL', 'Horizont Medien', 'W&V', 'Quotenmeter', 'kress', 'meedia', 'turi2'],
         'uk': ['Guardian Media'],
         'usa': ['Variety', 'Deadline', 'Hollywood Reporter']
     }
@@ -1136,7 +1138,7 @@ def main():
         print("="*70)
         
         regionen = {
-            'deutschland': ['DWDL', 'Horizont Medien', 'kress', 'meedia', 'turi2'],
+            'deutschland': ['DWDL', 'Horizont Medien', 'W&V', 'Quotenmeter', 'kress', 'meedia', 'turi2'],
             'uk': ['Guardian Media'],
             'usa': ['Variety', 'Deadline', 'Hollywood Reporter']
         }
