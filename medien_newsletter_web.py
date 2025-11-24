@@ -56,10 +56,10 @@ WEB_SCRAPING_SOURCES = {
 # Empfänger - Alle Team-Mitglieder
 EMPFAENGER = {
     'Tom': 'tom@zooproductions.de',
-    'Kat': 'kat@zooproductions.de',
-    'Dom': 'dom@zooproductions.de',
-    'Aurelia': 'aurelia@zooproductions.de',
-    'Christina': 'christina@zooproductions.de'
+    #'Kat': 'kat@zooproductions.de',
+    #'Dom': 'dom@zooproductions.de',
+    #'Aurelia': 'aurelia@zooproductions.de',
+    #'Christina': 'christina@zooproductions.de'
 }
 
 # ============================================================================
