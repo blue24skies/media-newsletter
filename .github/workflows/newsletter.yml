@@ -3,7 +3,7 @@ name: Daily Newsletter Generation
 on:
   schedule:
     # Läuft täglich um 7:00 Uhr Berlin Zeit (6:00 UTC im Winter, 5:00 UTC im Sommer)
-    - cron: '0 6 * * *'
+    - cron: '0 9 * * *'
   workflow_dispatch: # Ermöglicht manuelles Auslösen
 
 # WICHTIG: GitHub Actions braucht write-Rechte für git push!
