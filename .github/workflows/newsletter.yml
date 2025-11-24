@@ -2,7 +2,7 @@ name: Daily Newsletter Generation
 
 on:
   schedule:
-    # Läuft täglich um 7:00 Uhr Berlin Zeit (6:00 UTC im Winter, 5:00 UTC im Sommer)
+    # Läuft täglich um 9:00 Uhr Berlin Zeit (8:00 UTC im Winter, 7:00 UTC im Sommer)
     - cron: '0 9 * * *'
   workflow_dispatch: # Ermöglicht manuelles Auslösen
 
