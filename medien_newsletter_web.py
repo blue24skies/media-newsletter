@@ -84,19 +84,77 @@ except Exception as e:
 # ARCHIV-FUNKTIONEN
 # ============================================================================
 
-def pruefe_auf_duplikat(article_url):
-    """Prüft ob Artikel bereits im Archiv existiert"""
+def pruefe_auf_duplikat(article_url, article_title, article_published_date=''):
+    """
+    Intelligente Duplikat-Prüfung:
+    - Prüft ob exakt die gleiche URL mit gleichem Titel bereits archiviert wurde
+    - Erlaubt Updates zu existierenden Artikeln (gleiche URL, aber neuer Titel oder Datum)
+    """
     if not supabase:
         return False
     try:
+        # Hole alle Artikel mit dieser URL aus dem Archiv
         result = supabase.table('newsletter_articles_archive') \
-            .select('article_url') \
+            .select('article_url, article_title, published_date, first_sent_date') \
             .eq('article_url', article_url) \
             .execute()
-        return len(result.data) > 0
+        
+        if len(result.data) == 0:
+            # URL existiert nicht im Archiv - definitiv kein Duplikat
+            return False
+        
+        # URL existiert - prüfe ob es ein Update ist
+        for archived_article in result.data:
+            archived_title = archived_article.get('article_title', '')
+            archived_date = archived_article.get('published_date', '')
+            first_sent = archived_article.get('first_sent_date', '')
+            
+            # Wenn Titel EXAKT gleich ist, ist es ein Duplikat
+            if archived_title == article_title:
+                print(f"      📋 Duplikat erkannt: Exakt gleicher Titel (zuletzt: {first_sent})")
+                return True
+            
+            # Wenn Titel ähnlich ist (z.B. nur Tippfehler-Korrekturen), ist es auch ein Duplikat
+            # Berechne einfache Ähnlichkeit basierend auf gemeinsamen Wörtern
+            title_similarity = berechne_titel_aehnlichkeit(archived_title, article_title)
+            if title_similarity > 0.85:  # 85% Ähnlichkeit = wahrscheinlich gleicher Artikel
+                print(f"      📋 Duplikat erkannt: {int(title_similarity*100)}% Titel-Ähnlichkeit (zuletzt: {first_sent})")
+                return True
+        
+        # URL existiert, aber Titel ist deutlich anders = Update/neue Info zum Thema
+        print(f"      ✨ Artikel-Update erkannt: Gleiche URL, aber neuer Titel - wird gesendet!")
+        return False
+        
     except Exception as e:
         print(f"⚠️ Duplikat-Check Fehler: {str(e)}")
         return False
+
+def berechne_titel_aehnlichkeit(titel1, titel2):
+    """
+    Berechnet Ähnlichkeit zwischen zwei Titeln basierend auf gemeinsamen Wörtern
+    Gibt Wert zwischen 0 (völlig unterschiedlich) und 1 (identisch) zurück
+    """
+    # Normalisiere Titel: Kleinbuchstaben, entferne Sonderzeichen
+    def normalisiere(text):
+        text = text.lower()
+        # Entferne HTML-Entities und Sonderzeichen
+        text = re.sub(r'&[a-z]+;', '', text)
+        text = re.sub(r'[^\w\s]', ' ', text)
+        # Teile in Wörter und filtere kurze Wörter (< 3 Zeichen)
+        woerter = [w for w in text.split() if len(w) >= 3]
+        return set(woerter)
+    
+    woerter1 = normalisiere(titel1)
+    woerter2 = normalisiere(titel2)
+    
+    if not woerter1 or not woerter2:
+        return 0.0
+    
+    # Jaccard-Ähnlichkeit: Anzahl gemeinsamer Wörter / Anzahl aller Wörter
+    gemeinsame = woerter1.intersection(woerter2)
+    alle = woerter1.union(woerter2)
+    
+    return len(gemeinsame) / len(alle) if alle else 0.0
 
 def speichere_artikel_im_archiv(artikel, run_date, region):
     """Speichert Artikel im Archiv"""
@@ -778,7 +836,8 @@ def verarbeite_artikel(artikel_liste):
     duplikat_count = 0
     
     for artikel in relevante_artikel:
-        if pruefe_auf_duplikat(artikel['link']):
+        artikel_datum = artikel.get('published', '')
+        if pruefe_auf_duplikat(artikel['link'], artikel['title'], artikel_datum):
             duplikat_count += 1
             print(f"⏭️ Duplikat: {artikel['title'][:60]}...")
         else:
