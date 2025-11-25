@@ -57,8 +57,6 @@ WEB_SCRAPING_SOURCES = {
 EMPFAENGER = {
     'Tom': 'tom@zooproductions.de',
     'Kat': 'kat@zooproductions.de',
-    'Dom': 'dom@zooproductions.de',
-    'Aurelia': 'aurelia@zooproductions.de',
     'Christina': 'christina@zooproductions.de'
 }
 
@@ -964,6 +962,60 @@ def speichere_als_json(artikel_liste):
     
     return filename
 
+def aktualisiere_newsletter_index():
+    """
+    Aktualisiert die Index-Dateien für die Webseite:
+    - newsletter-index.json: Liste aller verfügbaren Daten  
+    - newsletter-data.json: Kombinierte Daten aller Newsletter
+    """
+    import glob
+    
+    # Finde alle Newsletter-JSON-Dateien
+    newsletter_dateien = sorted(glob.glob('newsletter-20*.json'), reverse=True)
+    
+    if not newsletter_dateien:
+        print("⚠️ Keine Newsletter-Dateien gefunden")
+        return
+    
+    # Erstelle newsletter-index.json (Liste aller Daten)
+    index_data = {
+        'dates': []
+    }
+    
+    # Erstelle newsletter-data.json (alle Artikel kombiniert)
+    all_data = {
+        'newsletters': []
+    }
+    
+    for datei in newsletter_dateien:
+        # Extrahiere Datum aus Dateiname (z.B. newsletter-2025-11-25.json -> 2025-11-25)
+        datum = datei.replace('newsletter-', '').replace('.json', '')
+        index_data['dates'].append(datum)
+        
+        # Lade Newsletter-Daten
+        try:
+            with open(datei, 'r', encoding='utf-8') as f:
+                newsletter_data = json.load(f)
+                all_data['newsletters'].append(newsletter_data)
+        except Exception as e:
+            print(f"⚠️ Fehler beim Laden von {datei}: {e}")
+    
+    # Speichere newsletter-index.json
+    try:
+        with open('newsletter-index.json', 'w', encoding='utf-8') as f:
+            json.dump(index_data, f, ensure_ascii=False, indent=2)
+        print(f"✅ Index aktualisiert: {len(index_data['dates'])} Newsletter")
+    except Exception as e:
+        print(f"❌ Fehler beim Speichern von newsletter-index.json: {e}")
+    
+    # Speichere newsletter-data.json
+    try:
+        with open('newsletter-data.json', 'w', encoding='utf-8') as f:
+            json.dump(all_data, f, ensure_ascii=False, indent=2)
+        print(f"✅ Daten-Archiv aktualisiert: {len(all_data['newsletters'])} Newsletter")
+    except Exception as e:
+        print(f"❌ Fehler beim Speichern von newsletter-data.json: {e}")
+
 # ============================================================================
 # EMAIL VERSAND
 # ============================================================================
@@ -1221,10 +1273,13 @@ def main():
     print("\n")
     filename = speichere_als_json(relevante_artikel)
     
-    # 5. Versende Newsletter
+    # 5. Aktualisiere Index-Dateien für Webseite
+    aktualisiere_newsletter_index()
+    
+    # 6. Versende Newsletter
     versende_newsletter(relevante_artikel)
     
-    # 6. Zusammenfassung
+    # 7. Zusammenfassung
     print("\n" + "="*70)
     print("🎉 NEWSLETTER VERSENDET!")
     print("="*70)
