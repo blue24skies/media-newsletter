@@ -531,8 +531,9 @@
                         }))
                     };
                 } else {
-                    // AKTUELLER NEWSLETTER: Lade aus JSON
-                    const response = await fetch(`newsletter-${date}.json`);
+                    // AKTUELLER NEWSLETTER: Lade aus JSON mit Cache-Busting
+                    const timestamp = new Date().getTime();
+                    const response = await fetch(`newsletter-${date}.json?t=${timestamp}`);
                     
                     if (!response.ok) {
                         throw new Error('Newsletter nicht gefunden');
