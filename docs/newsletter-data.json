@@ -1,167 +1,181 @@
 {
   "newsletters": [
     {
-      "date": "2025-11-26",
+      "date": "2025-11-27",
       "articles": [
         {
           "source": "DWDL",
-          "title": "NDR und SWR machen mehrteilige Dokuserie über Eiskeller-Fall",
-          "link": "https://www.dwdl.de/nachrichten/104656/ndr_und_swr_machen_mehrteilige_dokuserie_ueber_eiskellerfall/",
-          "summary": "NDR und SWR produzieren eine dreiteilige Dokuserie über den \"Eiskeller-Fall\", in dem Sebastian T. nach einem überraschend schnellen Freispruch im zweiten Prozess rehabilitiert wurde, nachdem er zuvor wegen des Mordes an der Studentin Hanna W. verurteilt worden war. Die 90-minütige Serie mit dem Arbeitstitel \"Tod nach der Disko – Der Eiskeller-Fall\" soll am 28. Januar 2026 in der ARD Mediathek erscheinen und hinterfragt kritisch die Justizpraxis bei Indizienprozessen. Produziert wird das Format von Spiegel TV unter der Regie von Meike Pommer, die über zwei Jahre zum Fall recherchiert hat.",
-          "score": 8
+          "title": "Co-Geschäftsführer Stefan Ottlitz verlässt den \"Spiegel\"",
+          "link": "https://www.dwdl.de/nachrichten/104665/cogeschaeftsfuehrer_stefan_ottlitz_verlaesst_den_spiegel/",
+          "summary": "Stefan Ottlitz, Co-Geschäftsführer des \"Spiegel\" seit 2020, verlässt das Medienhaus auf eigenen Wunsch und wird bis Sommer 2026 noch beratend tätig bleiben. Ottlitz, der 2018 von der \"Süddeutschen\" kam, prägte maßgeblich die erfolgreiche digitale Transformation des \"Spiegel\" mit der Einführung des Spiegel+-Abos für 20 Euro. Die Geschäftsführung liegt nun wieder allein bei Thomas Hass, der in den kommenden Tagen die Neuaufstellung seines Führungsteams bekannt geben will.",
+          "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Der Werbeflaute zum Trotz: Das \"Screenforce Festival\" kehrt zurück",
-          "link": "https://www.dwdl.de/nachrichten/104649/der_werbeflaute_zum_trotz_das_screenforce_festival_kehrt_zurueck/",
-          "summary": "Trotz anhaltender Werbeflaute und schwacher Konjunktur kehrt das Screenforce Festival am 2. Juli 2026 unter dem Motto \"Big Screens & Summer Dreams\" zurück, nachdem es 2025 aufgrund der angespannten Marktlage pausiert hatte. Das Festival der TV-Gattungsinitiative hatte 2024 nach coronabedingter Pause mit einem Zirkuszelt-Event in Düsseldorf ein erfolgreiches Comeback gefeiert und Bestnoten erhalten. 2025 investierte Screenforce stattdessen in drei Studien und Präsenz auf der DMEXCO, um das Budget verantwortungsvoll zu nutzen.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Inspiriert von \"Conny from the Block\": ZDF dreht \"Die Behörde\"",
-          "link": "https://www.dwdl.de/nachrichten/104652/inspiriert_von_conny_from_the_block_zdf_dreht_die_behoerde/",
-          "summary": "Das ZDF dreht mit Pyjama Pictures (\"Die Discounter\") die neue Workplace-Mockumentary \"Die Behörde\", die in einem fiktiven Berliner Bürgeramt spielt und von den Comedy-Figuren Tülin Sezgins (\"Conny from the Block\") inspiriert ist. Die Impro-Comedy um Amtschefin Ronja (Friederike Kempter) und ihr chaotisches Team zeigt den Alltag zwischen Bürokratie, fordernden Bürgern und Optimierungsversuchen. Sezgin selbst übernimmt eine Rolle als Kantinenchefin Handan.",
+          "title": "Prime Video kündigt neuen Pastewka-Film für Februar an",
+          "link": "https://www.dwdl.de/nachrichten/104664/prime_video_kuendigt_neuen_pastewkafilm_fuer_februar_an/",
+          "summary": "Prime Video startet am 6. Februar 2026 die Murder-Mystery-Komödie \"Fabian und die mörderische Hochzeit\" mit Bastian Pastewka als glücklosem Hochstapler, der auf einer Hochzeit in einen Mordfall verwickelt wird. Der von UFA Fiction produzierte Film wurde unter der Regie von Markus Sehr in Lettland und Litauen gedreht und basiert auf Büchern von Martin Eigler, Lars Neuwöhner und Sven S. Poser.",
           "score": 9
         },
         {
           "source": "DWDL",
-          "title": "Klassiker zu Weihnachten: \"Sissi\" zieht von der ARD zu RTL um",
-          "link": "https://www.dwdl.de/nachrichten/104648/klassiker_zu_weihnachten_sissi_zieht_von_der_ard_zu_rtl_um/",
-          "summary": "RTL hat sich die Rechte an der klassischen \"Sissi\"-Trilogie mit Romy Schneider gesichert und strahlt alle drei Filme erstmals an Heiligabend aus, nachdem sie zuletzt bei der ARD liefen. Die 70 Jahre alten Filme werden ab 20:15 Uhr gezeigt, mit Wiederholungen am 1. Weihnachtstag und Verfügbarkeit bei RTL+. Dies ergänzt RTLs bereits vorhandenen \"Sisi\"-Content mit der eigenen vierstaffligen Serie, die linear schwache Quoten erzielte, aber bei RTL+ zu den erfolgreichsten Fiction-Produktionen zählte.",
+          "title": "Auch RTL+ überträgt Black Friday Game der NFL kostenlos",
+          "link": "https://www.dwdl.de/nachrichten/104663/auch_rtl_uebertraegt_black_friday_game_der_nfl_kostenlos/",
+          "summary": "RTL+ überträgt das NFL Black Friday Game zwischen Chicago Bears und Philadelphia Eagles am Freitag um 21 Uhr kostenfrei, nachdem Amazon bereits eine kostenlose weltweite Übertragung angekündigt hatte. Zusätzlich zeigt RTL an Thanksgiving zwei NFL-Spiele auf Nitro im Free-TV und am Sonntag das gewohnte NFL-Programm auf RTL und RTL+. Die Übertragungen erfolgen mit etablierten deutschen NFL-Kommentatoren wie Jan Weinreich, Patrick Esume und Jan Stecker.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "DAfFNE-Nominierungen: \"Dagobert\" setzt sich an die Spitze",
-          "link": "https://www.dwdl.de/nachrichten/104645/daffnenominierungen_dagobert_setzt_sich_an_die_spitze/",
-          "summary": "Die Deutsche Akademie für Fernsehen (DAfFNE) gab weitere Nominierungen für die Preisverleihung am 20. Februar 2026 bekannt, wobei die RTL+-Serie \"Ich bin Dagobert\" mit vier Nominierungen (Bildgestaltung, Maskenbild, Szenenbild, VFX/Animation) das Feld anführt. In den Non-Fiction-Kategorien konkurrieren u.a. Vox' \"Herbstresidenz mit Tim Mälzer\", Böhmermanns \"Lass dich überwachen\" und ProSiebens \"Zurück zum Glauben\"-Dokumentation von Thilo Mischke. Die Auszeichnungen werden von über 700 Akademie-Mitgliedern in 21 Kategorien vergeben und decken die verschiedenen kreativen Gewerke der TV-Produktion ab.",
-          "score": 9
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Gattungs-Event: Screenforce Festival 2026: Die Bühne für Total Video kehrt zurück",
-          "link": "https://www.horizont.net/medien/nachrichten/gattungs-event-screenforce-festival-2026-die-buehne-fuer-total-video-kehrt-zurueck-232025?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Das Screenforce Festival kehrt nach einjähriger Pause am 2. Juli 2026 nach Düsseldorf zurück und vereint die Bewegtbildbranche unter dem Motto \"Total Video\". Die Veranstaltung der TV-Sender wurde 2025 ausgesetzt, die Gründe und Besonderheiten der Neuauflage werden im Artikel thematisiert.",
+          "title": "Pluto TV holt \"Liebe Sünde\" und \"Flipper\" aus dem Archiv",
+          "link": "https://www.dwdl.de/nachrichten/104662/pluto_tv_holt_liebe_suende_und_flipper_aus_dem_archiv/",
+          "summary": "Paramount erweitert seine FAST-Plattform Pluto TV im Dezember um mehrere nostalgische Kanäle, darunter das Sexualitätsmagazin \"Liebe Sünde\" (täglich ab 23 Uhr) und einen 24/7-Kanal mit der Klassikerserie \"Flipper\". Zusätzlich starten die Themenkanäle \"Pluto TV Ferne Galaxien\" mit Science-Fiction-Content wie \"Stargate Atlantis\" sowie \"Pluto TV Magische Geschichten\" mit Fantasy-Inhalten von Narnia bis zur \"ProSieben Märchenstunde\".",
           "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "Norman Wagner: Utiq-Boss appelliert an den Innovationsgeist der Werbekunden",
-          "link": "https://www.horizont.net/medien/nachrichten/norman-wagner-utiq-bossappelliert-an-den-innovationsgeist-der-werbekunden-231904?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Norman Wagner, CEO von Utiq, appelliert an Werbetreibende, verstärkt in ID-basierte Inventare zu investieren, um die Entwicklung im Open Web voranzutreiben. Der ID-System-Anbieter räumt ein, dass Utiq in diesem Jahr nur etwa zehn Kunden gewinnen konnte, was angesichts der Dringlichkeit des Themas als unzureichend betrachtet wird. Wagner sieht die Advertiser in der Verantwortung, durch ihre Budgetentscheidungen den nötigen Innovationsschub zu liefern.",
+          "source": "DWDL",
+          "title": "\"Leopard, Seebär & Co.\" feiert zwei überraschende Comebacks",
+          "link": "https://www.dwdl.de/nachrichten/104661/leopard_seebaer__co_feiert_zwei_ueberraschende_comebacks/",
+          "summary": "Das Erste bringt ab 12. Januar 2026 die Zoo-Doku \"Leopard, Seebär & Co.\" als Wiederholungen auf den umkämpften 16:10 Uhr-Sendeplatz zurück, nachdem die erfolgreiche Zoo-Doku-Reihe 2018 eingestellt wurde. Der Sender sucht seit Jahren nach einem nachhaltigen Format für diesen Slot, nachdem verschiedene Versuche mit Kreuzfahrtgeschichten, Quizformaten und zuletzt einer testweisen Vorverlagerung von \"Brisant\" nur mäßigen Erfolg zeigten. Die Rückkehr zu den Zoo-Dokus signalisiert eine Besinnung auf bewährte Inhalte nach Jahren erfolgloser Programmexperimente im ARD-Nachmittagsprogramm.",
           "score": 7
         },
         {
-          "source": "Horizont Medien",
-          "title": "Datenschutz: EU-Kommission verspricht weniger Cookie-Popups und mehr KI-Freiheit",
-          "link": "https://www.horizont.net/medien/nachrichten/datenschutz-eu-kommission-verspricht-weniger-cookie-popups-und-mehr-ki-freiheit-231912?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die EU-Kommission plant eine umfassende Vereinfachung der Digitalregeln in den Bereichen Datenschutz, Cybersicherheit und Künstliche Intelligenz, nachdem zuletzt verstärkt Kritik aus den USA kam. Ein zentraler Punkt ist die Einführung verbraucherfreundlicherer Cookie-Regelungen, die zu weniger störenden Pop-ups führen sollen. Das Reformpaket zielt darauf ab, die bestehenden EU-Vorschriften zu entbürokratisieren und gleichzeitig die Nutzerfreundlichkeit zu verbessern.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "DuMont-Chef Bauer: Der Satz, den noch keiner so offen gesagt hat DuMont-Chef Christoph Bauer spricht im kress pro-Interview so offen wie selten über die ökonomischen Grenzen regionaler Nachrichten im Netz",
-          "link": "https://kress.de/news/beitrag/151452-dumont-chef-bauer-der-satz-den-noch-keiner-so-offen-gesagt-hat.html",
-          "summary": "DuMont-CEO Christoph Bauer erklärt im kress pro-Interview, dass Verlage zu lange auf Exklusivität von Inhalten gesetzt haben, während Plattformen die Allgegenwärtigkeit von Informationen kommerzialisieren - er nennt dies die \"Content Trap\". Besonders für regionale Nachrichten, die den Großteil der publizierten Inhalte ausmachen, gebe es digital keine Möglichkeit, ausreichend Geld zu verdienen. Bauer prognostiziert, dass sich der Druck durch Plattformen und KI-Suche noch intensivieren wird und die journalistische Medienbranche nach 30 Jahren Internet noch immer kein wirklich relevantes digitales Geschäftsmodell gefunden hat.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Neuer Geschäftsführer bei Schwäbisch Media",
-          "link": "https://kress.de/news/beitrag/151450-felix-kovac-uebernimmt-regio-tv-neuer-geschaeftsfuehrer-bei-schwaebisch-media.html",
-          "summary": "Felix Kovac (57), ehemaliger Geschäftsführer der Antenne Bayern Group, übernimmt zum 1. Januar 2026 die Geschäftsführung der Regio TV-Sendergruppe der SV Gruppe (Schwäbisch Media). Der erfahrene Medienmanager soll die private Lokal-TV-Familie mit Standorten in Stuttgart, Ulm, Ravensburg und Rostock als multimediale Marke weiterentwickeln und die regionale Relevanz in Baden-Württemberg und Mecklenburg-Vorpommern ausbauen.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "„Die russischen Machthaber unterschätzen die Recherchefähigkeiten der Journalisten\"",
-          "link": "https://kress.de/news/beitrag/151451-djv-chef-beuster-die-russischen-machthaber-unterschaetzen-die-recherchefaehigkeiten-der-journalisten-quot.html",
-          "summary": "Der Deutsche Journalisten-Verband kritisiert Russlands Einstufung der Rechercheplattform Correctiv als \"unerwünschte Organisation\", wodurch Kontakte und Veröffentlichungen unter Strafe gestellt werden. DJV-Chef Mika Beuster sieht darin Putins systematischen Versuch, kritische Auslandsberichterstattung über Russland zu unterdrücken, betont aber gleichzeitig, dass die russischen Machthaber die Recherchefähigkeiten von Journalisten unterschätzen. Der Verband mahnt Informanten und Medienschaffende in Russland angesichts der zunehmenden staatlichen Verfolgung zu äußerster Vorsicht.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "UEFA vergibt Champions-League-Rechte ausschließlich an Streamer Viele hatten dieses Ergebnis erwartet, für Fans ist es dennoch ernüchternd.",
-          "link": "https://kress.de/news/beitrag/151440-uefa-vergibt-champions-league-rechte-ausschliesslich-an-streamer.html",
-          "summary": "Die UEFA hat die Champions-League-Rechte für 2027-2031 ausschließlich an Streaming-Anbieter vergeben: Prime Video behält ein Topspiel (künftig mittwochs), Paramount+ sicherte sich fast alle anderen Spiele und Netflix die Finalübertragung ab 2028. Für Fans bedeutet dies deutlich mehr benötigte Abos, da keine Free-TV-Übertragung mehr garantiert ist - nur bei deutscher Finalteilnahme bleibt das Endspiel frei empfangbar.",
+          "source": "DWDL",
+          "title": "Vuelta-Tochter soll \"All Heroes Are Bastards\" zum Export-Erfolg machen",
+          "link": "https://www.dwdl.de/nachrichten/104660/vueltatochter_soll_all_heroes_are_bastards_zum_exporterfolg_machen/",
+          "summary": "Die Highend-Fantasy-Dramaserie \"All Heroes Are Bastards\" von Picture Me Rollin und bildundtonfabrik erhält über 3 Millionen Euro Förderung und wird von Global Constellation (Vuelta-Tochter) international vertrieben. Die ARD Degeto-Produktion der Grimme-nominierten Macher Esra und Patrick Phul spielt in einem gespaltenen Köln und folgt drei Protagonisten mit übernatürlichen Kräften, die entführte Kinder retten müssen. Hauptrollen übernehmen u.a. Rapper Kebir Sargin in seinem Schauspieldebüt sowie David Mayonga und Funda Bostanlik.",
           "score": 10
         },
         {
+          "source": "DWDL",
+          "title": "\"School of Champions\" meldet sich zum Olympia-Start zurück",
+          "link": "https://www.dwdl.de/nachrichten/104659/school_of_champions_meldet_sich_zum_olympiastart_zurueck/",
+          "summary": "Die ARD veröffentlicht zum Start der Olympischen Winterspiele am 6. Februar 2026 die dritte Staffel der erfolgreichen Ski-Serie \"School of Champions\" in der Mediathek, mit linearer Ausstrahlung im Ersten ab 7. Februar. Die neuen Folgen thematisieren ein mögliches Aus des Skiinternats, während bereits die Dreharbeiten für Staffel 4 begonnen haben, die sich um Doping-Gerüchte und den Tod einer jungen Skifahrerin drehen wird. Mit über 9 Millionen Abrufen der ersten beiden Staffeln gilt die vom BR verantwortete und von Superfilm produzierte Serie als großer Mediathek-Erfolg.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "Von Calmund bis Kamps: Wer bei der \"Promi-Darts-WM\" antritt",
+          "link": "https://www.dwdl.de/nachrichten/104657/von_calmund_bis_kamps_wer_bei_der_promidartswm_antritt/",
+          "summary": "ProSieben setzt am 4. Januar 2026 die erfolgreiche \"Promi-Darts-WM\" fort, nachdem die Vorjahresausgabe hervorragende 14,4% Marktanteil bei den 14-49-Jährigen und über eine Million Zuschauer erzielte. Als Prominente treten Rainer Calmund, Cathy Hummels, Ailton, Gülcan Kamps, Joey Kelly und Alex Kumptner in Zweierteams mit Darts-Profis an. Die Live-Show wird ab 20:15 Uhr von Christian Düren moderiert und von Banijay Productions Germany produziert.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Aminati und Soost sollen Sport1-Shows auf die Beine helfen",
+          "link": "https://www.dwdl.de/nachrichten/104653/aminati_und_soost_sollen_sport1shows_auf_die_beine_helfen/",
+          "summary": "Sport1 setzt 2026 auf eine 50:50-Strategie mit je 100 Stunden Sport und Entertainment pro Monat, nachdem die seit Herbst 2024 von Acunmedya eingebrachten Primetime-Shows bisher nur schwache Quoten erzielten. Während traditionelle Sportformate wie \"Doppelpass\" weiterhin erfolgreich laufen und Sport1 im Oktober auf 0,8% Marktanteil (14-49 Jahre) brachten, benötigt die Entertainment-Sparte laut Acunmedya-CEO mehr Zeit zur Etablierung im deutschen Markt. Chief Sales Officer Romeo Edsperger zeigt sich dennoch optimistisch und konnte die neue Programmstrategie erfolgreich bei Werbekunden und Agenturen pitchen.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "ZDF setzt \"heute-show extra\" mit Fabian Köster fort",
+          "link": "https://www.dwdl.de/nachrichten/104643/zdf_setzt_heuteshow_extra_mit_fabian_koester_fort/",
+          "summary": "Das ZDF setzt seine erfolgreiche \"heute-show\"-Ableger-Strategie 2025 fort und kündigt die Rückkehr von \"heute-show extra - Next Stop Köster\" für den 16. Januar an, in der Fabian Köster SPD-Chef Lars Klingbeil interviewen wird. Bereits am 9. Januar startet ein neues \"heute-show spezial\" mit Köster und van der Horst, die ihre besten Reportagen präsentieren. Die Formate erzielten in der Sommerpause des Originals sehr gute Quoten und dienten als starkes Lead-In für nachfolgende Programme wie \"Till Tonight\".",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Exklusiv: El Cartel Brothers: &quot;Wir sind die starke dritte Kraft im Markt&quot;",
+          "link": "https://www.horizont.net/medien/nachrichten/exklusiv-el-cartel-brothers-wir-sind-die-starke-dritte-kraft-im-markt-232030?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die El Cartel Brothers positionieren sich als \"starke dritte Kraft im Markt\" und werden in der TV-Branche mit großer Spannung erwartet. Geschäftsführer Claudia Ziemer und Stephan Karrer geben erstmals Einblicke in ihre strategischen Pläne und bewerten die aktuelle Wettbewerbssituation in der Fernsehlandschaft.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Presse-Copyrights: Axel Springer kündigt Corint-Verträge – zu einem heiklen Zeitpunkt",
+          "link": "https://www.horizont.net/medien/nachrichten/presse-copyrights-axel-springer-kuendigt-corint-vertraege--zu-einem-heiklen-zeitpunkt-232064?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Axel Springer kündigt seine Verträge mit der Verwertungsgesellschaft Corint Media, während andere Großverlage bereits nicht mehr dabei sind. Der Schritt erfolgt vor dem Hintergrund der Diskussion um die Monetarisierung von Presserechten gegenüber Digitalplattformen, insbesondere im Hinblick auf die künftige KI-Nutzung von Verlagsinhalten. Die Branche steht vor der strategischen Frage, ob gemeinsame oder individuelle Verhandlungen mit Tech-Konzernen erfolgversprechender sind.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Nach sechs Jahren: Warum Co-Geschäftsführer Stefan Ottlitz jetzt den Spiegel verlässt",
+          "link": "https://www.horizont.net/medien/nachrichten/nach-sechs-jahren-warum-co-geschaeftsfuehrer-stefan-ottlitz-jetzt-den-spiegel-verlaesst-232067?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Stefan Ottlitz verlässt nach sechs Jahren als Co-Geschäftsführer den Spiegel-Verlag zum Jahresende auf eigenen Wunsch. Trotz offiziell betonter Harmonie zwischen den Beteiligten deutet der Artikel auf spezifische Hintergründe für den Abgang hin. Ottlitz war insgesamt acht Jahre in verantwortlichen Positionen beim Spiegel tätig.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Erfolgreichster Film des Jahres: Fünf Millionen Menschen sehen &quot;Kanu des Manitu&quot;",
+          "link": "https://www.horizont.net/medien/nachrichten/erfolgreichster-film-des-jahres-fuenf-millionen-menschen-sehen-kanu-des-manitu-232003?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Michael \"Bully\" Herbigs Komödie \"Das Kanu des Manitu\" hat drei Monate nach Kinostart die Fünf-Millionen-Zuschauermarke überschritten und ist damit der erfolgreichste Film des Jahres. Der Regisseur und Hauptdarsteller zeigt sich überwältigt von diesem außergewöhnlichen Publikumserfolg.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Marktforscher: Michael Murrins steigt bei Nielsen zum Managing Director JICs, Broadcasters &amp; Publishers auf",
+          "link": "https://www.horizont.net/medien/nachrichten/marktforscher-michael-murrins-steigt-bei-nielsen-zum-managing-director-jics-broadcasters--publishers-auf-231974?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Nielsen ernennt Michael Murrins zum Managing Director JICs, Broadcasters & Publishers EMEA, um die Beziehungen zu Medienhäusern, Vermarktern und Messgremien in der Region zu stärken. Mit dieser strategischen Personalentscheidung will der Hamburger Werbeforscher näher an Sender und Publisher heranrücken.",
+          "score": 7
+        },
+        {
           "source": "kress",
-          "title": "Weimer zieht sich aus eigenem Verlag zurück Die Debatte um mögliche Interessenkonflikte zwingt...",
-          "link": "https://kress.de/news/beitrag/151437-medienminister-unter-druck-weimer-zieht-sich-aus-eigenem-verlag-zurueck.html",
-          "summary": "Kulturstaatsminister Wolfram Weimer überträgt seine 50-Prozent-Anteile an der selbst gegründeten Weimer Media Group für die Dauer seiner Amtszeit an einen Treuhänder, um Vorwürfe möglicher Interessenkonflikte zu entkräften. Hintergrund sind Berichte, wonach seine Verlagsgruppe Unternehmen gegen Bezahlung exklusiven Zugang zu Bundesministern anbietet und mit politischem Einfluss wirbt. Weimer hatte bereits im Frühjahr seine Geschäftsführung und Stimmrechte abgegeben, behielt jedoch die Unternehmensanteile.",
+          "title": "Marion Horn & Stefan Lutz über die neue Rolle von Chefredakteuren",
+          "link": "https://kress.de/news/beitrag/151458-marion-horn-amp-stefan-lutz-ueber-die-neue-rolle-von-chefredakteuren.html",
+          "summary": "Marion Horn (Bild) und Stefan Lutz (Südkurier) sehen die moderne Chefredakteurs-Rolle als erweitert: Sie müssen heute nicht nur inhaltlich führen, sondern als Coach, Kommunikator und Markenlenker verschiedene Plattformen konsistent managen sowie als Brückenbauer zwischen Redaktion, Business und Technologie fungieren. Beide betonen die Notwendigkeit, sowohl publizistische als auch betriebswirtschaftliche Verantwortung zu übernehmen und verstärkt an kompetente Mitarbeiter zu delegieren. Horn hebt zudem die Bedeutung diverser Führungsstrukturen und klarer Wertevermittlung in dynamischen Medienumfeldern hervor.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Neuer Geschäftsführer bei Schwäbisch Media Der frühere Lenker der Antenne Bayern Group, Felix Kovac, kehrt zurück ins Lokal-TV.",
+          "link": "https://kress.de/news/beitrag/151450-felix-kovac-uebernimmt-regio-tv-neuer-geschaeftsfuehrer-bei-schwaebisch-media.html",
+          "summary": "Felix Kovac (57), ehemaliger Geschäftsführer der Antenne Bayern Group, übernimmt zum 1. Januar 2026 die Geschäftsführung der Regio TV-Sendergruppe der SV Gruppe mit Standorten in Stuttgart, Ulm, Ravensburg und Rostock. Der erfahrene Medienmanager bringt umfassende Expertise im regionalen TV-Bereich mit, unter anderem von a.tv Augsburg und Regio TV Schwaben, und soll die Sendergruppe als multimediale Marke weiterentwickeln.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "„Die russischen Machthaber unterschätzen die Recherchefähigkeiten der Journalisten\" Anlass für...",
+          "link": "https://kress.de/news/beitrag/151451-djv-chef-beuster-die-russischen-machthaber-unterschaetzen-die-recherchefaehigkeiten-der-journalisten-quot.html",
+          "summary": "Der Deutsche Journalisten-Verband kritisiert scharf Russlands Einstufung der Rechercheplattform Correctiv als \"unerwünschte Organisation\", wodurch Kontakte und Veröffentlichungen unter Strafe gestellt werden. DJV-Chef Mika Beuster sieht darin Putins systematischen Versuch, kritische Auslandsberichterstattung über Russland zu unterdrücken, betont aber, dass Journalisten trotz zunehmender Repressionen weiterhin an Informationen gelangen. Der Verband mahnt Medienschaffende in Russland zu äußerster Vorsicht, da das Regime nach Medienverboten und Journalistenmorden nun verstärkt auch ausländische Korrespondenten und deren Informanten verfolgt.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Linda Zervakis kritisiert Kulturstaatsminister Weimer: \"Wer 'Zwangsgebühr' sagt, will provozieren\" Im Interview mit der NOZ wirft Linda Zervakis Kulturstaatsminister Weimer Provokation vor. Zugleich empfiehlt sie ARD und ZDF mehr Mut",
+          "link": "https://kress.de/news/beitrag/151449-linda-zervakis-kritisiert-kulturstaatsminister-weimer-quot-wer-039-zwangsgebuehr-039-sagt-will-provozieren-quot.html",
+          "summary": "Linda Zervakis kritisiert Kulturstaatsminister Wolfram Weimer für die Verwendung des Begriffs \"Zwangsgebühr\" in der ÖRR-Debatte als provokative Reizvokabel, die nicht zur Ministerrolle passe. Gleichzeitig empfiehlt die ehemalige Tagesschau-Moderatorin ARD und ZDF mehr Mut bei der Publikumsansprache und verweist auf erfolgreiche Formate wie Joko und Klaas, die Haltung mit Leichtigkeit verbinden.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Analyse der Oktober-Zahlen Nina Chuba und die \"Tagesschau\" neu in den Podcast-Charts der agma Zwei...",
-          "link": "https://meedia.de/news/beitrag/20626-nina-chuba-und-die-quot-tagesschau-quot-neu-in-den-podcast-charts-der-agma.html",
-          "summary": "Die ma Podcast-Charts für Oktober zeigen zwei Neuzugänge in den Top 50: Der \"tagesschau-Podcast am Morgen\" erreichte Platz 40 mit rund 70.000 Downloads pro Episode, Nina Chubas \"Die Leute lieben das\" landete auf Rang 44 mit 61.000 Downloads. Der True-Crime-Podcast \"Mordlust\" bleibt mit fast 790.000 Abrufen pro Folge unangefochten auf Platz 1, während Seven.One Audio drei der vier Top-Plätze vermarktet.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "AGF-Streaming-Daten Amazon-Serie \"Maxton Hall\" springt über die 2-Millionen-Marke Die deutsche...",
-          "link": "https://meedia.de/news/beitrag/20625-amazon-serie-quot-maxton-hall-quot-springt-ueber-die-2-millionen-marke.html",
-          "summary": "Die Amazon-Serie \"Maxton Hall\" führt das AGF-Programmmarken-Ranking mit einer Streaming-Nettoreichweite von 2,024 Millionen Zuschauern in KW 46 an und schlägt damit alle linearen TV-Formate der großen deutschen Sender. Die Zahlen basieren auf dem neuen AGF-Amazon-Kooperationsmodell und umfassen nur werbefinanzierte VoD-Angebote, wobei das Minimalkriterium bei einer Sekunde Viewing-Zeit liegt. Weitere Millionenreichweiten erzielten \"ntv Nachrichten\", \"Das Sommerhaus der Stars\" und \"Tatort\".",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "Süßwaren Fisherman’s Friend: Marketingchef Dirk Hohnberg nimmt seinen Hut Die Bonbonmarke Fisherman’s Friend verliert ihren Marketingchef Dirk Hohnberg. Nach gut vier Jahren im Amt sucht Hohnberg eine neue Herausforderung",
-          "link": "https://meedia.de/news/beitrag/20624-fisherman-s-friend-marketingchef-dirk-hohnberg-nimmt-seinen-hut.html",
-          "summary": "Dirk Hohnberg verlässt nach vier Jahren seine Position als Marketingchef von Fisherman's Friend bei CFP Brands Süßwarenhandels GmbH, um eine neue berufliche Herausforderung zu suchen. Der Marketing-Experte, der zuvor bei Wilkinson Sword und Reckitt Benckiser tätig war, kündigt jedoch an, der Marke treu zu bleiben und künftig an anderer Stelle im Fisherman's Friend Universum zu wirken. CFP Brands sucht nun einen Nachfolger für die Position des Marketing Directors.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Krankenkasse OMD Düsseldorf gewinnt Pitch um 85-Millionen-Mediaetat der AOK Das Düsseldorfer Büro...",
-          "link": "https://meedia.de/news/beitrag/20622-omd-duesseldorf-gewinnt-pitch-um-85-millionen-mediaetat-der-aok.html",
-          "summary": "OMD Düsseldorf hat die öffentliche Ausschreibung um den Mediaetat des AOK-Bundesverbands sowie vier regionaler AOK-Gesellschaften gewonnen, mit einem Gesamtvolumen von 85 Millionen Euro. Die Zusammenarbeit startet am 1. Dezember 2024 (ursprünglich für Oktober 2025 geplant) und beinhaltet einen Attention-basierten Kommunikationsansatz durch eine neue Kooperation mit eye square sowie den Einsatz der Omnicom-Technologieplattform Omni. Für OMD ist dies die erste Zusammenarbeit mit dem AOK-Bundesverband.",
+          "title": "Video Daily: TV-Quoten & Streaming-Charts \"Die Stefan Raab Show\" fällt fast auf neuen Minusrekord Es sieht weiter nicht nach einem Aufschwung aus: \"Die Stefan Raab Show\" floppt bei RTL Woche für Woche. Mit 0,23 Millionen 14- bis 49-Jährigen erzielte die Sendung am Mittwochabend sogar nur einen Marktanteil von 5,5 Prozent",
+          "link": "https://meedia.de/news/beitrag/20637-quot-die-stefan-raab-show-quot-faellt-fast-auf-neuen-minusrekord.html",
+          "summary": "\"Die Stefan Raab Show\" erreichte bei RTL mit 0,23 Millionen Zuschauern (14-49 Jahre) nur 5,5% Marktanteil und damit fast einen neuen Minusrekord. Zum Vergleich dominierte \"Aktenzeichen XY\" im ZDF die Prime-Time mit 4,23 Millionen Zuschauern und 19,1% Marktanteil. Die Tagesschau führte mit 5,08 Millionen Zuschauern und 22,4% Marktanteil die Gesamt-Tageswertung an.",
           "score": 8
         },
         {
           "source": "meedia",
-          "title": "Marketing-Spezialist Platform X Wie Michael Schrader mit KI-Hilfe die Abo-Vermarktung für Verlage auf ein neues Level hebt Die VNR Group ist mit deutlich über 300 Medienmarken selbst einer der größten Fachverlage im deutschen Markt. Die von CEO Michael Schrader gesteuerte Bonner Tochterfirma Platform X hat sich nicht nur auf die Abo-Vermarktung eigener Titel spezialisiert, sondern sich auch als erfolgreicher Spezialdienstleister für komplexe Direktmarketing-Fragen etabliert. Zuletzt kamen erneut namhafte Neukunden dazu",
-          "link": "https://meedia.de/news/beitrag/20621-wie-michael-schrader-mit-ki-hilfe-die-abo-vermarktung-fuer-verlage-auf-ein-neues-level-hebt.html",
-          "summary": "Platform X, die Bonner Tochterfirma der VNR Group, hat sich als Spezialdienstleister für Abo-Vermarktung und komplexes Direktmarketing etabliert und konnte namhafte Neukunden wie Schlütersche, Carl-Hanser-Verlag und Vincentz gewinnen. CEO Michael Schrader nutzt KI-Tools, um die Vermarktung von Abonnements für Verlage zu optimieren, wobei das Unternehmen auf Erfahrungen mit über 500 Abo-Produkten der VNR Group zurückgreift. Die Dienstleistung richtet sich besonders an kleinere und mittlere Verlage, die bei IT-Infrastruktur und Digitalisierung vor wachsenden Herausforderungen stehen.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Analyseunternehmen Ex-WPP-Chef Mark Read heuert bei Kantar Media an Mark Read war im Juni als CEO von WPP zurückgetreten, kurz darauf hatte Cindy Rose den Posten übernommen",
-          "link": "https://meedia.de/news/beitrag/20619-ex-wpp-chef-mark-read-heuert-bei-kantar-media-an.html",
-          "summary": "Der ehemalige WPP-CEO Mark Read, der im Juni zurückgetreten war und von Cindy Rose abgelöst wurde, übernimmt die Position des Vorstandsvorsitzenden bei Kantar Media. Das Medienmessungs- und Analyseunternehmen wurde kürzlich von der Private-Equity-Gruppe HIG Capital übernommen, nachdem es zuvor Teil der Kantar Group unter Bain Capital und WPP war. Read war von 2018 bis 2025 CEO von WPP und zuvor in verschiedenen Führungspositionen innerhalb des Konzerns tätig.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "US-Werbeholdings \"Keine wettbewerbsrechtlichen Bedenken\": EU genehmigt Mega-Übernahme von IPG duch...",
-          "link": "https://meedia.de/news/beitrag/20617-quot-keine-wettbewerbsrechtlichen-bedenken-quot-eu-genehmigt-mega-uebernahme-von-ipg-duch-omnicom.html",
-          "summary": "Die EU hat die 26 Milliarden Dollar schwere Übernahme der Interpublic Group (IPG) durch Omnicom kartellrechtlich genehmigt, womit die letzte regulatorische Hürde für den Deal genommen ist. Der Zusammenschluss wird die weltweit größte Agenturgruppe mit einem geschätzten Jahresumsatz von 26 Milliarden US-Dollar schaffen. Nach bereits erfolgten Genehmigungen der Aktionäre sowie in den USA und Großbritannien kann Omnicom den fast einjährigen Übernahmeprozess nun innerhalb von 48 Stunden abschließen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Lokalfernsehgruppe von Schwäbisch Media Felix Kovac wird Geschäftsführer der Regio‑TV-Sender Mit seiner Karriereplanung hat der frühere langjährige Antenne-Bayern-Chef die Branche und vermutlich selbst sein unmittelbares Umfeld zuletzt immer wieder in Atem gehalten. Jetzt dockt Felix Kovac erneut fest an",
-          "link": "https://meedia.de/news/beitrag/20620-felix-kovac-wird-geschaeftsfuehrer-der-regio-tv-sender.html",
-          "summary": "Felix Kovac, ehemaliger Antenne-Bayern-Chef, wird zum 1. Januar 2025 Geschäftsführer der Regio-TV-Sendergruppe der SV Gruppe (Schwäbisch Media). Nach seinem Wechsel von Antenne Bayern über das Augsburg Journal übernimmt er nun die Lokalfernsehgruppe mit Standorten in Stuttgart, Ulm, Ravensburg und Rostock. Kovac soll die Sender inhaltlich, digital und wirtschaftlich weiterentwickeln sowie die Vernetzung zwischen den Standorten ausbauen.",
+          "title": "Trilogie läuft am Heiligabend RTL luchst der ARD den Weihnachts-Dauerbrenner \"Sissi\" ab Zu den Langzeit-Phänomenen des deutschen Fernsehens gehören eindeutig die drei \"Sissi\"-Filme mit Romy Schneider&nbsp;aus den 1950er-Jahren. In den vergangenen zehn Jahren liefen sie an den Weihnachtstagen im Ersten",
+          "link": "https://meedia.de/news/beitrag/20633-rtl-luchst-der-ard-den-weihnachts-dauerbrenner-quot-sissi-quot-ab.html",
+          "summary": "RTL hat der ARD die Ausstrahlungsrechte für die \"Sissi\"-Filmtrilogie mit Romy Schneider abgeluchst und zeigt die drei Filme aus den 1950er-Jahren erstmals am Heiligabend 2025. Die Filme, die in den vergangenen zehn Jahren traditionell im Ersten liefen und dort noch immer Millionenpublikum erreichten, gehören zu den deutschen TV-Langzeit-Phänomenen. Damit verliert die ARD einen ihrer Weihnachts-Dauerbrenner an den Privatsender.",
           "score": 9
         },
         {
-          "source": "Deadline",
-          "title": "‘Fallout’ Season 2 To Bypass Golden Globes, Will Launch Campaign With Emmys & Do Next Cycle Of Critics Choice & Guild Awards",
-          "link": "https://deadline.com/2025/11/fallout-season-2-golden-globes-emmy-awards-campaign-1236629148/",
-          "summary": "Amazon MGM Studios verzichtet bei \"Fallout\" Staffel 2 auf eine Teilnahme an den Golden Globes und der aktuellen Awards-Saison, da bis zu den Einreichungsfristen nur drei der acht Episoden verfügbar sein werden. Stattdessen plant der Streaming-Riese eine Kampagne für die Emmys 2026 sowie die Critics Choice und Guild Awards 2027, nachdem alle Folgen vollständig produziert und ausgestrahlt wurden. Die erste Staffel der postapokalyptischen Serie erhielt bereits 17 Emmy-Nominierungen und weitere neun Guild-Nominierungen.",
+          "source": "meedia",
+          "title": "Großes Bewegtbild-Event Screenforce plant für 2026 wieder ein Festival Nach einem Jahr Pause lädt...",
+          "link": "https://meedia.de/news/beitrag/20632-screenforce-plant-fuer-2026-wieder-ein-festival.html",
+          "summary": "Die Gattungsinitiative Screenforce plant ihr zweites Festival für den 2. Juli 2026 in Düsseldorf, nachdem das Event 2025 aufgrund des verhaltenen Werbemarkts abgesagt werden musste. Das Festival soll TV- und Total Video-Vermarkter zusammenbringen und mit aufwendigen Screenings, Content-Strategien und Branchennews die Bewegtbild-Landschaft präsentieren. Screenforce vereint neun führende TV-Vermarkter aus Deutschland, Österreich und der Schweiz, darunter Seven.One Media und die Ad Alliance.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Neue redaktionelle Formate NOZ/mh:n testet KI-Chatbot und startet lokale Community-Plattform...",
+          "link": "https://meedia.de/news/beitrag/20630-noz-mh-n-testet-ki-chatbot-und-startet-lokale-community-plattform.html",
+          "summary": "Die Mediengruppe NOZ/mh:n testet den selbst entwickelten KI-Chatbot \"Frag die NOZ\", der auf Basis eigener Artikel lokaljournalistische Antworten generiert und speziell auf regionale Bezüge trainiert wurde. Nach positiven Tests mit 900 Probanden läuft derzeit ein einmonatiger A/B-Test mit 10% der Nutzer, bei Erfolg ist der vollständige Rollout für Q1 2026 geplant. Zusätzlich startete das Unternehmen die Community-Plattform \"LokalPuls\" als weiteres digitales Format.",
           "score": 7
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "On to the Next Round: Warner Bros. Discovery Sets New Bidding Deadline Amid Sale Talks",
-          "link": "https://www.hollywoodreporter.com/business/business-news/warner-bros-discovery-bidding-deadline-1236435758/",
-          "summary": "Warner Bros. Discovery hat nach der ersten Angebotsrunde eine neue Frist für überarbeitete Gebote auf den 1. Dezember festgelegt, nachdem Paramount (Vollübernahme), Comcast und Netflix (primär Studio- und Streaming-Geschäft) ihre initialen Angebote eingereicht hatten. Der Bieterprozess beschleunigt sich seit Juni, als das Unternehmen Pläne zur Aufspaltung seiner Studio-Sparte von den linearen TV-Geschäftsbereichen bekannt gab.",
+          "source": "Guardian Media",
+          "title": "Ministers approve £750m Marlow Film Studios development after review",
+          "link": "https://www.theguardian.com/business/2025/nov/26/ministers-approve-marlow-film-studios-planning-review-buckinghamshire",
+          "summary": "Die britischen Minister haben nach einer Überprüfung die Genehmigung für die £750 Millionen teure Marlow Film Studios-Entwicklung in Buckinghamshire erteilt, nachdem das Projekt zunächst von der lokalen Verwaltung abgelehnt worden war. Das Hollywood-style Studio-Projekt mit 18 Tonbühnen und einer Kultur- und Bildungsakademie wird 4.000 Arbeitsplätze schaffen und gilt als Testfall für Labours Prioritätensetzung zugunsten wirtschaftlichen Wachstums gegenüber lokalem Widerstand. Die Entscheidung erfolgte mit Unterstützung prominenter Filmemacher wie Sam Mendes, James Cameron und Paul Greengrass.",
+          "score": 9
+        },
+        {
+          "source": "Guardian Media",
+          "title": "‘Dog that didn’t bark’: Uefa’s Champions League rights sale delivered a key lesson",
+          "link": "https://www.theguardian.com/football/2025/nov/26/uefa-champions-league-broadcasting-rights-sale-lesson-global-streaming-company",
+          "summary": "UEFA erzielte bei der Champions League-Rechteauktion für 2027-31 durchschnittliche jährliche Steigerungen von über 20% in den fünf größten europäischen Märkten, hauptsächlich durch den Einstieg von Paramount als neuem Bieter. Der geplante Verkauf eines globalen Pakets an einen Streaming-Anbieter scheiterte jedoch, obwohl Netflix, Apple TV und Dazn Interesse zeigten – das traditionelle Modell des Verkaufs an einzelne Märkte erwies sich als lukrativer. Diese Entwicklung deutet darauf hin, dass Sport trotz Tech-Interesse noch nicht erfolgreich globalisiert werden kann.",
           "score": 9
         }
       ]
