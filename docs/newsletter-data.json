@@ -1,328 +1,258 @@
 {
   "newsletters": [
     {
-      "date": "2025-12-02",
+      "date": "2025-12-03",
       "articles": [
         {
           "source": "DWDL",
-          "title": "\"Tiefgreifend, aber zwingend notwendig\": RTL baut 600 Stellen ab",
-          "link": "https://www.dwdl.de/nachrichten/104734/tiefgreifend_aber_zwingend_notwendig_rtl_baut_600_stellen_ab/",
-          "summary": "RTL Deutschland baut rund 600 Arbeitsplätze ab und richtet sich strategisch stärker auf das Streaming-Geschäft aus, nachdem der Werbeumsatz in den vergangenen sechs Jahren um 20 Prozent gesunken ist. Mit 6,6 Millionen RTL+-Abonnenten und der geplanten Sky-Übernahme will sich der Konzern gegen US-Streamingdienste positionieren und bis 2026 Profitabilität im Streaming erreichen. CEO Stephan Schmitter bezeichnete die Maßnahmen als \"tiefgreifend, aber zwingend notwendig\" angesichts der beschleunigten Transformation des Medienmarkts.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Einen Gedanken wert\": Herbst über neue \"Stromberg\"-Staffel",
-          "link": "https://www.dwdl.de/nachrichten/104733/einen_gedanken_wert_herbst_ueber_neue_strombergstaffel/",
-          "summary": "Christoph Maria Herbst äußerte bei der Weltpremiere des neuen \"Stromberg\"-Kinofilms Interesse an einer möglichen neuen Serienstaffel und verwies auf Autor Ralf Husmann, der sich \"mehr vorstellen\" könne, was noch mit der Marke machbar sei. Der Film selbst wird als fanservicereicher, aber zu langatmiger Reset kritisiert, der unfreiwillig verdeutlicht, dass die Stärke der ursprünglichen Serie in der Kürze der Episoden und dem geschlossenen Büro-Kosmos lag.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Rose d'Or: \"Adolesence\" holt Triple, kein Preis nach Deutschland",
-          "link": "https://www.dwdl.de/nachrichten/104732/rose_dor_adolesence_holt_triple_kein_preis_nach_deutschland/",
-          "summary": "Bei der Rose d'Or-Verleihung in London gingen alle drei deutschen Nominierungen leer aus: \"Lass dich überwachen\" (ZDF), \"Crystal Wall\" (ZDF) und \"Kitchen Impossible\" (Vox) konnten sich nicht gegen die internationale Konkurrenz durchsetzen. Großer Gewinner war das Netflix-Drama \"Adolescence\", das ein Triple holte - die Goldene Rose, den Preis als bestes Drama und eine Nachwuchsauszeichnung für Hauptdarsteller Owen Cooper. Das Vereinigte Königreich dominierte die Preisverleihung mit den meisten Auszeichnungen.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Nachtstreife\", Dialog und eine Radio-Reform: Die HR-Pläne 2026",
-          "link": "https://www.dwdl.de/nachrichten/104728/nachtstreife_dialog_und_eine_radioreform_die_hrplaene_2026/",
-          "summary": "Der Hessische Rundfunk plant für 2026 eine umfassende Radio-Reform, bei der You FM und HR Info mit den entsprechenden Jugend- und Infowellen von SWR und SR zusammengelegt werden. Programmdirektorin Julia Krittian und Intendant Florian Hager kündigten zudem neue Formate an, die regionale Perspektiven und Bürgerbeteiligung fördern sollen, darunter eine rollende Pop-Up-Redaktion und das digitale Meinungsbarometer \"HR fragt\". Der HR positioniert sich dabei als Vorreiter in der ARD-Radiostrategie, die bereits vor dem neuen Reformstaatsvertrag entwickelt wurde.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "RTL Deutschland baut Stellen im höheren dreistelligen Bereich ab",
-          "link": "https://www.dwdl.de/nachrichten/104729/rtl_deutschland_baut_stellen_im_hoeheren_dreistelligen_bereich_ab/",
-          "summary": "RTL Deutschland plant den größten Stellenabbau in der Unternehmensgeschichte mit mehr als 600 betroffenen Arbeitsplätzen, wie CEO Stephan Schmitter bei einem \"Business Update\" verkünden will. Der Abbau wird mit dem schwierigen Werbemarkt und der strategischen Verlagerung vom linearen Fernsehen zum Streaming begründet. Ein Sozialplan wurde bereits mit dem Betriebsrat ausgehandelt, wobei auch betriebsbedingte Kündigungen nicht ausgeschlossen werden.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Natzel wird neuer Chef des Mediengründerzentrums NRW",
-          "link": "https://www.dwdl.de/nachrichten/104727/natzel_wird_neuer_chef_des_mediengruenderzentrums_nrw/",
-          "summary": "Jonathan Natzel hat zum 1. Dezember die Geschäftsführung des Mediengründerzentrums NRW übernommen und folgt damit auf Rainer Weiland, der Ende Juli ausgeschieden war. Der neue Geschäftsführer bringt umfassende Branchenerfahrung mit, unter anderem als Gründer der VR-Spezialistin Weltenmacher GmbH und durch seine Tätigkeit als Strategieberater für Digitalisierungs- und Wachstumsprozesse. Natzel soll mit seiner Gründererfahrung und seinem technologischen Know-how die Förderung junger Medienunternehmen in NRW vorantreiben.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Prime-Video-Hit \"Maxton Hall\" endet nach Staffel drei",
-          "link": "https://www.dwdl.de/nachrichten/104719/primevideohit_maxton_hall_endet_nach_staffel_drei/",
-          "summary": "Prime Video beendet die Young-Adult-Serie \"Maxton Hall - Die Welt zwischen uns\" nach der dritten Staffel, deren Dreharbeiten bereits abgeschlossen sind. Die zweite Staffel erreichte Platz eins der Prime-Video-Charts in rund 100 Ländern und gilt als meistgesehene International Original Serie des Streamingdienstes. Das Ende nach drei Staffeln entspricht der zugrundeliegenden dreiteiligen \"Save\"-Buchreihe von Mona Kasten.",
+          "title": "Einschätzung der wirtschaftlichen Lage hat sich erneut verschlechtert",
+          "link": "https://www.dwdl.de/nachrichten/104751/einschaetzung_der_wirtschaftlichen_lage_hat_sich_erneut_verschlechtert/",
+          "summary": "Die Herbstumfrage der Produktionsallianz zeigt eine dramatische Verschlechterung der Branchenstimmung: 85 Prozent der 199 befragten Produktionsunternehmen bewerten die wirtschaftliche Lage als (sehr) schlecht (2024: 77 Prozent), 74 Prozent blicken pessimistisch auf 2026. Hauptprobleme sind sinkende Auftraggeber-Budgets bei steigenden Herstellungskosten, verlangsamte Entscheidungsprozesse (86 Prozent) und schrumpfende Auftragsvolumina (80 Prozent), während Personalmangel erstmals kein akutes Problem darstellt.",
           "score": 10
         },
         {
           "source": "DWDL",
-          "title": "ARD und ZDF sparen sich getrennte Nachrichten um 12 Uhr",
-          "link": "https://www.dwdl.de/nachrichten/104721/ard_und_zdf_sparen_sich_getrennte_nachrichten_um_12_uhr/",
-          "summary": "ARD und ZDF haben ihre getrennt produzierten 12-Uhr-Nachrichten abgeschafft und das Mittagsmagazin auf 12:00 Uhr vorverlegt, um Kosten zu sparen. Das ZDF startet nun mit Soft-News-Themen wie Adventskalender-Ratgebern, während die harte politische Berichterstattung erst nach 13:00 Uhr folgt. Die eingesparten Ressourcen sollen anderweitig investiert werden.",
+          "title": "FAST-Kanäle von RTL Deutschland kommen zu Waipu.TV",
+          "link": "https://www.dwdl.de/nachrichten/104750/fastkanaele_von_rtl_deutschland_kommen_zu_waiputv/",
+          "summary": "RTL Deutschland und Waipu.TV haben eine Partnerschaft zur Distribution von FAST-Channels geschlossen, wodurch sieben der acht thematischen RTL-Kanäle (RTL Comedy, RTL Shine, RTL Haus & Garten sowie vier sendungsspezifische Kanäle) auf der Streaming-Plattform verfügbar werden. Die werbefinanzierten linearen Online-Kanäle, die RTL vor eineinhalb Jahren gestartet hat, erweitern damit ihre Reichweite über die eigene Plattform RTL+ hinaus. Lediglich der \"Alarm für Cobra 11\"/\"Balko\"-Kanal bleibt exklusiv bei RTL+.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Wie die ARD die \"Tagesschau\"-App den neuen Vorgaben anpasst",
-          "link": "https://www.dwdl.de/nachrichten/104714/wie_die_ard_die_tagesschauapp_den_neuen_vorgaben_anpasst/",
-          "summary": "Die ARD hat ihre überarbeitete \"Tagesschau\"-App entsprechend den neuen Rundfunkstaatsvertrag-Vorgaben gelauncht, die eine primär audiovisuelle Gestaltung vorschreiben und Texte nur sendungsbegleitend erlauben. Die App wurde um Social Media-Videos, Podcasts, \"Faktenfinder\"-Inhalte und einen personalisierten \"Story-Modus\" erweitert, während ARD-Vorsitzender Hager warnte, dass die neuen Regelungen zu Reichweitenverlusten und langsamerer Berichterstattung führen werden.",
-          "score": 8
+          "title": "ARD und Verleger fordern Regulierung von Tech-Riesen und KI",
+          "link": "https://www.dwdl.de/nachrichten/104744/ard_und_verleger_fordern_regulierung_von_techriesen_und_ki/",
+          "summary": "ARD und das \"Bündnis Zukunft Presse\" (BDZV und MVFP) fordern in einer gemeinsamen Erklärung stärkere politische Regulierung von Tech-Konzernen und KI-Systemen, da monopolartige Gatekeeper-Strukturen zunehmend über die Sichtbarkeit von Medieninhalten entscheiden. Die Allianz kritisiert, dass journalistische Inhalte in intransparenten KI-Antworten verschwinden und redaktionelle Arbeiten ohne Urheberkennung in KI-Systeme einfließen. ARD-Vorsitzender Hager warnt vor einer Erschütterung des deutschen Mediensystems durch KI-Agenten und Tech-Konzerne, die demokratische Meinungsvielfalt gefährden.",
+          "score": 9
         },
         {
-          "source": "Horizont Medien",
-          "title": "Bernard Domenichini geht: Sandra Meys ist Leiterin Advertising &amp; Market Insights von ARD Media",
-          "link": "https://www.horizont.net/medien/nachrichten/bernard-domenichini-geht-sandra-meys-ist-leiterin-advertising--market-insights-von-ard-media-232142?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Sandra Meys übernimmt bei ARD Media die Leitung des Bereichs Advertising & Market Insights und folgt damit auf Bernard Domenichini. Domenichini hat den Frankfurter Vermarkter verlassen, um sich einer neuen beruflichen Herausforderung außerhalb der Werbebranche zu widmen.",
+          "source": "DWDL",
+          "title": "\"Joyce\" bei Joyn: Streamer führt neue KI-Assistentin ein",
+          "link": "https://www.dwdl.de/nachrichten/104741/joyce_bei_joyn_streamer_fuehrt_neue_kiassistentin_ein/",
+          "summary": "ProSiebenSat.1 launcht bei seinem Streamingdienst Joyn die KI-Assistentin \"Joyce\" als Beta-Version, die über Text- oder Spracheingabe personalisierte Programm-Empfehlungen liefert. Das auf Google Gemini basierende Tool ist zunächst nur für iOS verfügbar und soll künftig um Sortiervorschläge und Release-Erinnerungen erweitert werden. Joyce lernt kontinuierlich aus den Nutzungsgewohnheiten und passt ihre Empfehlungen entsprechend an.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Goldvertise hat bald wieder Sender mit AGF-Lizenz",
+          "link": "https://www.dwdl.de/nachrichten/104738/goldvertise_hat_bald_wieder_sender_mit_agflizenz/",
+          "summary": "Goldvertise integriert ab Januar 2026 drei High-View-Sender (AXN Black, Just Cooking, One Terra) in die AGF-Messung und erweitert gleichzeitig die Datengrundlage durch eine Kooperation mit AEOS für weitere Vodafone-verbreitete Sender. Mit dieser Dual-Strategie will der Vermarkter Werbekunden eine transparentere und präzisere Datenbasis für Mediaplanung und Kampagnenbewertung bieten. Die AGF-lizenzierten Sender sind die einzigen im aktuellen Goldvertise-Portfolio mit dieser Zertifizierung.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "DF1 sichert sich Übertragungsrechte an der Formel E",
+          "link": "https://www.dwdl.de/nachrichten/104737/df1_sichert_sich_uebertragungsrechte_an_der_formel_e/",
+          "summary": "DF1 hat sich die Übertragungsrechte für die Formel E-Saison 2025/26 gesichert und wird alle 17 Rennen live im Free-TV zeigen, nachdem sich ServusTV aus der Rennserie zurückgezogen hat. Der Spartensender produziert erstmals komplett aus dem eigenen Studio in Unterföhring und ist damit exklusiver Free-TV-Partner der elektrischen Rennserie in Deutschland. Die neue Saison startet am 6. Dezember in São Paulo, mit insgesamt 11 Locations weltweit inklusive zwei Berlin-Rennen im Mai.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Black Friday Woche bringt Amazon im Werbe-Ranking nach vorn",
+          "link": "https://www.dwdl.de/aeos/104720/black_friday_woche_bringt_amazon_im_werberanking_nach_vorn/",
+          "summary": "Amazon dominierte in der Black Friday Woche das TV-Werberanking mit 2.877 geschalteten Spots, einer Bruttoreichweite von über 1.000 XRP und Brutto-Werbeausgaben von rund 13,5 Millionen Euro. ProSiebenSat.1 sicherte sich dabei fast 45 Prozent der Amazon-Werbebudgets, während die RTL-Gruppe knapp 30 Prozent erhielt. Auf den Plätzen zwei bis vier folgten Lindt (765 XRP), Wick (712 XRP) und McDonald's (649 XRP).",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Reformstaatsvertrag: Was sich für ARD, ZDF und Co ändert",
-          "link": "https://www.horizont.net/medien/nachrichten/reformstaatsvertrag-was-sich-fuer-ard-zdf-und-co-aendert-232136?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der neue Reformstaatsvertrag verpflichtet ARD, ZDF und Deutschlandradio zu strukturellen Reformen mit dem Ziel einer schlankeren Organisation durch Programmreduzierung und Abbau von Doppelstrukturen. Eine zentrale Neuerung ist die Budgetdeckelung für Sportrechte auf maximal fünf Prozent des Gesamtbudgets. Die Reform soll die Zusammenarbeit zwischen den öffentlich-rechtlichen Sendern stärken und deren Modernisierung vorantreiben.",
+          "title": "Chief Content Officer Henrik Pabst: Wie Pro Sieben Sat 1 und MFE zusammenarbeiten",
+          "link": "https://www.horizont.net/medien/nachrichten/chief-content-officer-henrik-pabst-wie-pro-sieben-sat-1-und-mfe-zusammenarbeiten-232196?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Pro Sieben Sat 1 Chief Content Officer Henrik Pabst kündigte auf dem Cannes-Markt verstärkte Kooperationen mit Streamingdiensten und öffentlich-rechtlichen Sendern an, während die Sendergruppe unter neuer MFE-Eigentümerschaft zur \"digital-first Entertainment-Gruppe\" transformiert wird. Die strategischen Aussagen erfolgten vor der Ernennung von MFE-Manager Marco Giordani als neuen ProSieben-CEO, geben aber bereits Einblicke in die künftige Ausrichtung des Medienkonzerns.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "&quot;Klare Kante zeigen&quot;: Wie KI-Experten der Medien zwischen Zuversicht und Zweifeln schwanken",
+          "link": "https://www.horizont.net/medien/nachrichten/klare-kante-zeigen-wie-ki-experten-der-medien-zwischen-zuversicht-und-zweifeln-schwanken-232190?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "KI-Experten im Medienbereich zeigen eine ausgeprägte Ambivalenz zwischen Euphorie und Warnung, wenn es um die Zukunft der Medien im KI-Zeitalter geht. Auf der \"AI Media Leaders\"-Konferenz in Hamburg wurde deutlich, dass selbst Fachleute binnen kürzester Zeit zwischen optimistischen und skeptischen Einschätzungen wechseln. Diese Unsicherheit spiegelt wider, dass KI als Medienthema noch sehr neu ist und niemand die langfristigen Entwicklungen verlässlich vorhersagen kann.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "&quot;Joyce&quot;: Joyn startet KI-Streaming-Assistentin",
+          "link": "https://www.horizont.net/medien/nachrichten/joyce-joyn-startet-ki-streaming-assistentin-232178?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Joyn führt die KI-Streaming-Assistentin \"Joyce\" ein, um Nutzern bei der Content-Auswahl zu helfen und das Problem des endlosen Scrollens durch das Überangebot an Filmen und Serien zu lösen. Die Assistentin soll personalisierte Empfehlungen geben und die Entscheidungsfindung bei der Programmauswahl erleichtern.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "TV-Krise: RTL-Umbau: So viele Stellen fallen weg - und das sind die Hintergründe",
+          "link": "https://www.horizont.net/medien/nachrichten/tv-krise-rtl-umbau-so-viele-stellen-fallen-weg---und-das-sind-die-hintergruende-232166?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "RTL Deutschland kündigt einen umfangreichen Konzernumbau mit dem Abbau von 600 der insgesamt 7500 Stellen an. Der Stellenabbau erfolgt im Rahmen einer Neustrukturierung des Unternehmens und spiegelt die aktuellen Herausforderungen der TV-Branche wider.",
           "score": 9
         },
         {
           "source": "Horizont Medien",
-          "title": "Der TV-Markt im November: RTL Zwei mit neuem Jahresbestwert, Pro Sieben im Aufwind",
-          "link": "https://www.horizont.net/medien/nachrichten/der-tv-markt-im-november-rtl-zwei-mit-neuem-jahresbestwert-pro-sieben-im-aufwind-232134?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "RTL Zwei erreichte im November einen neuen Jahresbestwert, während Pro Sieben den besten Marktanteil seit Juni erzielte. Sat 1 setzte seine volatile Entwicklung mit einem erneuten Absturz fort, und RTL muss voraussichtlich auf einen zweistelligen Jahresschnitt verzichten.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "1 Media) zur Motor Presse Stuttgart.",
-          "link": "https://kress.de/news/beitrag/151465-motor-presse-winnebeck-uebernimmt-hauptrolle-in-redaktioneller-transformation.html",
-          "summary": "Michael Winnebeck (43) wechselt zum 1. Dezember 2025 von seiner Position als Redaktionsleiter von Ran Digital bei ProSiebenSat.1 Media zur Motor Presse Stuttgart, wo er als Head of Digital Content & Strategy alle digitalen Redaktionsbereiche verantworten wird. Der diplomierte Medienwissenschaftler soll eine zentrale Rolle in der redaktionellen Transformation des Verlags übernehmen und neue Impulse für die digitale Ausrichtung setzen.",
+          "title": "Studie: So stark nehmen Hassrede und Desinformation im Netz zu",
+          "link": "https://www.horizont.net/medien/nachrichten/studie-so-stark-nehmen-hassrede-und-desinformation-im-netz-zu-232086?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Eine aktuelle Studie zeigt, dass 85 Prozent der Befragten eine Zunahme von Hassrede und Desinformation im Internet im Vergleich zu vor zwei Jahren wahrnehmen. Besonders jüngere Internetnutzer (36% in 2023) sind stärker von Hassrede betroffen als die Altersgruppe 45-64 Jahre (27% gegenüber 20% in 2023). Die Wahrnehmung beider Phänomene - Hassrede und Desinformation - hat sich in den letzten zwei Jahren deutlich verstärkt.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "So entkommen Medienprofis der Ressourcenfalle In unserer Zeit, in der ständig von „Nachhaltigkeit\"...",
-          "link": "https://kress.de/news/beitrag/151462-staendig-ueberlastet-so-entkommen-medienprofis-der-ressourcenfalle.html",
-          "summary": "Karriere-Coach Attila Albert analysiert die weit verbreitete Überlastung bei Medienprofis und identifiziert vier Hauptursachen: mangelhafte technische Ausrüstung, fehlende Ressourcenplanung, schlechte Arbeitsorganisation und unzureichendes Selbstmanagement. Er empfiehlt eine systematische Analyse der individuellen Belastungsfaktoren als Grundlage für Verbesserungen und betont, dass viele dieser Probleme durch Absprachen und erlernbare Techniken lösbar sind. Als Zeitpunkt für solche Reflexionen schlägt Albert den Jahresabschluss vor, um nachhaltigere Arbeitsweisen für das kommende Jahr zu entwickeln.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Falstaff launcht neues Magazin für den gesamten Norden Europas Der österreichische Gourmet- und...",
-          "link": "https://kress.de/news/beitrag/151464-falstaff-launcht-neues-magazin-fuer-den-gesamten-norden-europas.html",
-          "summary": "Der österreichische Gourmet-Verlag Falstaff hat sein neues Magazin \"Falstaff Nordics\" für die skandinavischen und baltischen Länder in Kopenhagen gelauncht, das viermal jährlich erscheinen wird. Herausgeber Wolfgang Rosam kündigt eine aggressive Expansionsstrategie für 2026 an, mit geplanten Launches in Portugal, Polen, Spanien sowie möglichen Einstiegen in den USA, Asien und dem arabischen Raum. Das Wiener Headquarter mit 100 Mitarbeitern koordiniert dabei die Produktion für alle internationalen Falstaff-Ausgaben.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Sebastian Späth wird Chefredakteur im Jahreszeiten Verlag kress pro zeichnete ihn als einen der Young Leader des Jahres 2025 aus.",
-          "link": "https://kress.de/news/beitrag/151461-sebastian-spaeth-wird-chefredakteur-im-jahreszeiten-verlag.html",
-          "summary": "Sebastian Späth übernimmt ab Januar 2026 die Chefredaktion des Robb Report im Jahreszeiten Verlag und vertritt Gloria von Bronewski während deren Elternzeit. Der 33-jährige Journalist, der zuletzt Chefredakteur der Lifestyle-Magazine Falstaff und Falstaff Travel war, ist zusätzlich für Neuentwicklungen im Magazinportfolio des Verlags zuständig. kress pro zeichnete ihn als einen der Young Leaders des Jahres 2025 aus.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Spiegel-Geschäftsführer Stefan Ottlitz geht überraschend Breaking News am Mittwochnachmittag: Nach...",
-          "link": "https://kress.de/news/beitrag/151459-spiegel-geschaeftsfuehrer-stefan-ottlitz-geht-ueberraschend.html",
-          "summary": "Stefan Ottlitz verlässt überraschend seine Position als Geschäftsführer des Spiegel Verlags und wird bis Sommer 2026 in beratender Funktion tätig bleiben. Thomas Hass übernimmt ab sofort die alleinige Geschäftsführung und wird sein Führungsteam neu strukturieren. Ottlitz wird für seine erfolgreiche Digitalisierungsstrategie gewürdigt, während sein als schwierig wahrgenommener Führungsstil und die Trennung von Steffen Klusmann nach internen Machtkämpfen kritisch bewertet wurden.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Marion Horn & Stefan Lutz über die neue Rolle von Chefredakteuren Mit Marion Horn (Bild) und Stefan Lutz (Südkurier) sprechen zwei bekannte Chefredakteure aus der Branche in kress pro über die Zukunft des Führens",
-          "link": "https://kress.de/news/beitrag/151458-marion-horn-amp-stefan-lutz-ueber-die-neue-rolle-von-chefredakteuren.html",
-          "summary": "Marion Horn (Bild) und Stefan Lutz (Südkurier) diskutieren den Wandel der Chefredakteurs-Rolle von primär inhaltlicher Führung hin zu Multi-Plattform-Management mit Coach-, Kommunikator- und Markenlenker-Funktionen. Horn betont die Bedeutung diverser Führungsstrukturen und publizistischer Haltung unter Druck, während Lutz die Notwendigkeit strategischer Verantwortung und verstärkter Delegation an spezialisierte Kollegen hervorhebt. Beide sehen Chefredakteure zunehmend als Brückenbauer zwischen Redaktion, Business und Technologie in einem hochdynamischen Medienumfeld.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts \"Bauer sucht Frau\" springt auf grandioses Staffel-Hoch, \"Der letzte...",
-          "link": "https://meedia.de/news/beitrag/20674-quot-bauer-sucht-frau-quot-springt-auf-grandioses-staffel-hoch-quot-der-letzte-bulle-quot-dennoch-halbwegs-stabil.html",
-          "summary": "RTLs \"Bauer sucht Frau\" erreichte mit der fünften Folge ein Staffel-Hoch von 19,3% Marktanteil bei den 14-49-Jährigen und 15,4% beim Gesamtpublikum (3,55 Mio. Zuschauer). Prime-Time-Sieger beim Gesamtpublikum war jedoch das ZDF mit \"Ein Fall für Conti\", das 4,64 Millionen Zuschauer (19,1%) erreichte. Das Erste schwächelte nach der \"Tagesschau\" deutlich mit einer Natur-Doku (8,4%) und \"Hart aber fair\" (8,8%).",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "November-Daten Amazon-Serie \"Maxton Hall\" pulverisiert die Rekorde der AGF-Streaming-Messung Die...",
-          "link": "https://meedia.de/news/beitrag/20673-amazon-serie-quot-maxton-hall-quot-pulverisiert-die-rekorde-der-agf-streaming-messung.html",
-          "summary": "Die Amazon Prime Video-Serie \"Maxton Hall\" hat im November mit ihrer zweiten Staffel neue AGF-Streaming-Rekorde aufgestellt, wobei die ersten drei Episoden zwischen 3,9 und 4,6 Millionen Views erreichten und damit den bisherigen Rekord von RTLs \"Sommerhaus der Stars\" (3,3 Millionen) deutlich übertrafen. Prime Video dominierte mit 12 der Top-25-Plätze, davon allein neun mit \"Maxton Hall\"-Folgen aus beiden Staffeln. Die später im Monat veröffentlichten Episoden zeigten aufgrund der AGF-Messmethodik erwartungsgemäß niedrigere Werte, dürften aber in den Folgemonaten noch deutlich ansteigen.",
+          "title": "500 Journalisten, arbeiten für RTL Deutschland.",
+          "link": "https://kress.de/news/beitrag/151470-streaming-first-rtl-deutschland-setzt-600-stellen-auf-die-streichliste.html",
+          "summary": "RTL Deutschland baut im Zuge seiner \"Streaming-First\"-Strategie rund 600 von 7.500 Stellen ab, da die TV-Werbeumsätze seit 2019 um über 20 Prozent eingebrochen sind. Der Konzern hat Milliarden in RTL+ investiert, das von 0,8 auf 6,6 Millionen zahlende Abonnenten wuchs und 2026 erstmals profitabel werden soll. CEO Stephan Schmitter begründet den Umbau mit der beschleunigten Nutzungsverlagerung zu Streaming und der geplanten Sky-Übernahme.",
           "score": 10
         },
         {
           "source": "meedia",
-          "title": "Publicis Media dominiert bei den Holdings, Initiative bei den Agenturnetworks Laut einer aktuellen...",
-          "link": "https://meedia.de/news/beitrag/20672-neugeschaeft-publicis-media-dominiert-bei-den-holdings-initiative-bei-den-agenturnetworks.html",
-          "summary": "Publicis Media dominiert laut COMvergence-Studie Q1-Q3 2025 das Neugeschäft der Holdings mit 7,7 Milliarden US-Dollar (ein Drittel aller gewechselten Mediaausgaben), gefolgt von IPG Mediabrands (2,5 Mrd.), Dentsu (1,737 Mrd.) und Omnicom Media Group (1,717 Mrd.). Bei den Agenturnetworks führt Initiative (Interpublic), während WPP Media als einzige Gruppe mehr Volumen verlor als gewann. Die Studie zeigt eine ungewöhnlich hohe Wechselbereitschaft der Unternehmen bei der Agenturwahl.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Omnicom lässt keinen Stein auf dem anderen BBDO und DDB vereint: Neue Jobs für Björn Bremer,...",
-          "link": "https://meedia.de/news/beitrag/20670-bbdo-und-ddb-vereint-neue-jobs-fuer-bjoern-bremer-christina-keller-und-tonio-kroeger.html",
-          "summary": "Nach dem Omnicom-IPG-Merger wird die Agenturmarke DDB vom deutschen Markt verschwinden und in BBDO aufgehen, wobei global nur noch drei große Kreativmarken (BBDO, McCann, TBWA) im Fokus stehen sollen. Die neu aufgestellte deutsche BBDO-Gruppe wird mit Standorten in Düsseldorf, Frankfurt, München und Hamburg operieren, während die bisherige TeamBBDO-Struktur von Christian Rätsch damit Geschichte ist. Dies markiert den Beginn einer großflächigen globalen Konsolidierung mit weitreichenden Folgen für den deutschen Agenturmarkt.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "\"Große Einkaufsvolumina heute nicht mehr so wichtig\" Mediaplus beendet Einkaufs-Joint-Venture mit Interpublic Die Übernahme von Interpublic (IPG) durch Omnicom ist abgesegnet, die ersten konkreten Entscheidungen in Sachen Agenturzusammenlegungen und Postenbesetzungen werden in allernächster Zeit erwartet. Hierzulande steht bereits eine Veränderung vor dem Hintergrund des Omnicom-IPG-Deals fest: Mediaplus zieht sich aus Magna Global Mediaplus, dem Einkaufs-Joint-Venture mit IPG Mediabrands, raus. Wie sich Mediaplus für die Zukunft rüstet",
-          "link": "https://meedia.de/news/beitrag/20666-mediaplus-beendet-einkaufs-joint-venture-mit-interpublic.html",
-          "summary": "Mediaplus beendet zum 1. Januar 2027 das Einkaufs-Joint-Venture \"Magna Global Mediaplus\" mit IPG Mediabrands als Folge der Übernahme von Interpublic durch Omnicom. Die Serviceplan-Tochter begründet den Schritt damit, dass große Einkaufsvolumina in der Mediaplanung heute nicht mehr die entscheidende Rolle spielen wie früher. Bis Ende 2026 bleibt die bisherige Konstellation des Joint-Ventures noch bestehen.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Olympische Spiele Claudia Wagner quittiert bei Deutsche Sport Marketing ihren Geschäftsführungsjob Claudia Wagner verlässt bei Deutsche Sport Marketing (DSM) ihren Posten in der Geschäftsführung zu Ende März 2026. Dies geschehe „auf eigenen Wunsch“. Nach 14 Jahren bei DSM",
-          "link": "https://meedia.de/news/beitrag/20668-claudia-wagner-quittiert-bei-deutsche-sport-marketing-ihren-geschaeftsfuehrungsjob.html",
-          "summary": "Claudia Wagner verlässt Ende März 2026 nach 14 Jahren auf eigenen Wunsch ihre Position als Geschäftsführerin bei Deutsche Sport Marketing (DSM), der Vermarktungsagentur von DOSB und DBS. Die Olympischen Winterspiele 2026 in Mailand/Cortina d'Ampezzo werden ihre letzten großen Events in der DSM-Führung sein. Wagner hatte während ihrer achtjährigen Geschäftsführungstätigkeit neue Wirtschaftspartner gewonnen und das Konzept des Deutschen Hauses weiterentwickelt.",
+          "title": "TV-Quoten & Streaming-Charts \"Marie Brand\" und \"Bauer sucht Frau\" halten sich gut gegen den...",
+          "link": "https://meedia.de/news/beitrag/20687-quot-marie-brand-quot-und-quot-bauer-sucht-frau-quot-halten-sich-gut-gegen-den-dfb-pokal.html",
+          "summary": "Das DFB-Pokal-Spiel zwischen Borussia Dortmund und Bayer Leverkusen dominierte am Dienstag das lineare TV mit 5,12 Millionen Zuschauern (23,6% MA) und herausragenden 30,6% bei den 14-49-Jährigen. Trotz der starken Fußball-Konkurrenz erzielten die ZDF-Krimi-Wiederholung \"Marie Brand\" mit 4,18 Millionen Zuschauern (17,1% MA) und RTLs \"Bauer sucht Frau\" mit 2,90 Millionen (12,4% MA) solide Quoten.",
           "score": 9
         },
         {
           "source": "meedia",
-          "title": "TV-Monat November mit den Marktanteilen von 92 Sendern Super RTL triumphiert mit Weihnachtsfilmen, RTL Zwei so stark wie seit April 2023 nicht mehr Zwei der Gewinner des Fernsehmonats November heißen RTL Zwei und Super RTL. RTL Zwei steigerte sich bei den 14- bis 49-Jährigen mit 4,4 Prozent auf den besten Monats-Marktanteil seit zweieinhalb Jahren, Super RTL sprang dank seiner Prime-Time-Weihnachtsfilme in die Top Ten",
-          "link": "https://meedia.de/news/beitrag/20664-super-rtl-triumphiert-mit-weihnachtsfilmen-rtl-zwei-so-stark-wie-seit-april-2023-nicht-mehr.html",
-          "summary": "RTL Zwei erreichte im November 2024 mit 4,4% Marktanteil (14-49 Jahre) den besten Wert seit zweieinhalb Jahren, während Super RTL dank Prime-Time-Weihnachtsfilmen in die Top Ten sprang und ein 12-Monats-Hoch erzielte. Das ZDF blieb mit 14,7% Marktführer, RTL verlor als stärkster Privatsender 0,3 Prozentpunkte gegenüber dem Vormonat. Die meistgesehene Sendung war das WM-Qualifikationsspiel Deutschland-Slowakei.",
+          "title": "tv erweitert ihr Angebot um sieben FAST-Kanäle von RTL Deutschland.",
+          "link": "https://meedia.de/news/beitrag/20688-waipu-tv-startet-sieben-fast-kanaele-von-rtl-deutschland.html",
+          "summary": "Die TV-Streaming-Plattform waipu.tv erweitert ihr Angebot um sieben FAST-Kanäle von RTL Deutschland, wobei drei Kanäle (\"RTL Comedy\", \"RTL Shine\", \"RTL Haus & Garten\") bereits verfügbar sind und vier weitere am 9. Dezember starten. Die neuen thematischen Kanäle bieten ganze Episoden beliebter RTL-Formate wie \"Shopping Queen\", \"Bauer sucht Frau\" oder \"Alles was zählt Classics\" und erweitern das Angebot der Plattform mit über 300 Sendern für ihre rund zwei Millionen Abokunden.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Rotstift regiert DB-Fernverkehr-Vorständin Stefanie Berk verlässt die Bahn Der Umbau bei der...",
+          "link": "https://meedia.de/news/beitrag/20682-db-fernverkehr-vorstaendin-stefanie-berk-verlaesst-die-bahn.html",
+          "summary": "Stefanie Berk, Vorständin für Marketing und Vertrieb der DB Fernverkehr AG, verlässt Ende des Jahres die Deutsche Bahn im Zuge der Strukturreformen unter der neuen Konzernchefin Evelyn Palla. Das gesamte Ressort Marketing und Vertrieb wird zum 1. Februar 2026 aufgelöst und in den Bereich des Vorstandsvorsitzenden Michael Peterson integriert. Der Schritt ist Teil der konzernweiten Verschlankung und Kosteneinsparungen, die bereits zu weiteren Personalabgängen im Marketing- und Kommunikationsbereich geführt haben.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "ITV to show every England Test from 2026 after agreeing new £80m deal",
+          "link": "https://www.theguardian.com/sport/2025/dec/02/itv-tnt-sports-win-rights-broadcast-england-rugby-union-test-nations-championship",
+          "summary": "ITV hat sich die Übertragungsrechte für die neue Nations Championship ab 2026 mit einem £80m-Deal gesichert, wodurch alle England Rugby-Länderspiele frei empfangbar im terrestrischen Fernsehen gezeigt werden. Das neue 12-Team-Turnier umfasst die Six Nations plus sechs südliche Hemisphäre-Teams und ergänzt ITVs bestehende £63m-Partnerschaft mit der BBC für die Six Nations Championship. Die Rechtevereinbarung läuft über mindestens drei Jahre und stellt eine bedeutende Stärkung der TV-Präsenz für Rugby Union dar.",
+          "score": 9
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Virgin Media fined £23.8m for putting vulnerable customers at risk",
+          "link": "https://www.theguardian.com/media/2025/dec/01/virgin-media-fined-vulnerable-customers-landline-ofcom",
+          "summary": "Ofcom hat Virgin Media mit einer Rekordstrafe von £23,8 Millionen belegt, weil das Unternehmen zwischen August 2022 und Dezember 2023 bei der Migration von analog zu digital tausende vulnerable Kunden mit Telecare-Alarmsystemen gefährdete. Virgin Media versäumte es, Kunden mit lebensrettenden Alarmanlagen ordnungsgemäß zu identifizieren und zu schützen, wodurch deren Geräte zeitweise nicht mehr mit Notfall-Callcentern kommunizieren konnten. Das Unternehmen meldete die schwerwiegenden Vorfälle selbst und räumte Fehler bei der Migrationsstrategie ein.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Move over, Murdoch: will Lord Rothermere be Britain’s most powerful media mogul?",
+          "link": "https://www.theguardian.com/news/ng-interactive/2025/nov/29/will-lord-rothermere-britain-most-powerful-media-mogul",
+          "summary": "Lord Rothermere, Eigentümer der Daily Mail, verfolgt seit 2004 das Ziel, die Telegraph-Titel zu erwerben, um ein konservatives Medienimperium zu schaffen, das Rupert Murdochs politischen Einfluss herausfordern könnte. Nach zwei gescheiterten Übernahmeversuchen anderer Interessenten für die 2023 zum Verkauf stehenden Telegraph-Zeitungen hat der 57-jährige Rothermere nun seinen Schritt unternommen. Die jahrhundertelange Tradition der Rothermere-Familie im britischen Zeitungsgeschäft und ihr langfristiges strategisches Denken in Generationen verschafft ihnen einen Vorteil bei solchen Übernahmen.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Jeremy Clarkson Says He Doesn’t Believe ‘The Traitors’ Gameplay Is Real",
+          "link": "https://deadline.com/2025/12/jeremy-clarkson-does-not-believe-the-traitors-is-real-1236634251/",
+          "summary": "Jeremy Clarkson äußerte Zweifel an der Authentizität der BBC-Show \"The Traitors\" und vermutet trotz seiner Begeisterung für das Format eine versteckte Produktionseinmischung, da seiner 30-jährigen TV-Erfahrung nach kein Sender das Risiko eingehen würde, eine teure Show komplett unkontrolliert laufen zu lassen. Studio Lambert weist diese Vorwürfe zurück und betont ihre \"hands-off\"-Produktionsphilosophie, bei der die Kandidaten nach der initialen Spielerklärung eigenständig agieren. Clarkson lehnte eine Teilnahme an der Celebrity-Version ab und verwies auf seine bereits zahlreichen beruflichen Verpflichtungen.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "HBO Max 2026 Launch Date For Germany, Italy & More Revealed",
+          "link": "https://deadline.com/2025/12/hbo-max-germany-italy-2026-launch-date-january-1236634223/",
+          "summary": "HBO Max startet am 13. Januar 2026 in Deutschland, Italien, Österreich, der Schweiz, Luxemburg und Liechtenstein und markiert damit eine wichtige europäische Expansion von Warner Bros. Discovery. Für die Markteinführung produziert der Streaming-Service lokale Originals, darunter die deutschen Serien \"4 Blocks Zero\" und \"Banksters\" sowie italienische Produktionen wie \"Portobello\" von Marco Bellocchio. Der Start in Großbritannien bleibt weiterhin unbestimmt.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Netflix Teams With Gary Lineker To Stream Daily ‘The Rest Is Football’ Show During FIFA World Cup",
+          "link": "https://deadline.com/2025/12/netflix-gary-lineker-the-rest-is-football-fifa-world-cup-1236634235/",
+          "summary": "Netflix kooperiert mit Gary Lineker für eine tägliche Version seines Podcasts \"The Rest Is Football\" während der FIFA WM 2026, die aus einem New Yorker Studio mit Alan Shearer und Micah Richards produziert wird. Der Deal erfolgt nach Linekers kontroversem Abgang bei der BBC im Mai 2024 aufgrund eines Instagram-Posts zum Gaza-Konflikt. Netflix besitzt keine Live-Übertragungsrechte für WM-Spiele, daher wird sich das Format auf Analyse und Gäste konzentrieren, während Fox (USA) und BBC/ITV (UK) die Spielerechte halten.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Netflix Defends Ted Sarandos Against Diddy’s ‘Reckoning’ Reproach & Legal Threats: “This Is Not A Hit Piece,” It Says Of Docuseries EP’d By 50 Cent",
+          "link": "https://deadline.com/2025/12/diddy-threatens-netflix-50-cent-lawsuit-1236633472/",
+          "summary": "Netflix verteidigt sich gegen Vorwürfe von Sean \"Diddy\" Combs, die Dokumentarserie \"Sean Combs: The Reckoning\" sei ein \"Hit Piece\" und Akt der Vergeltung, nachdem Combs' Anwälte in einem Unterlassungsschreiben behaupteten, CEO Ted Sarandos habe aus Rache Executive Producer 50 Cent engagiert. Der Streaming-Dienst weist alle Anschuldigungen zurück und betont, dass 50 Cent keine kreative Kontrolle hatte, niemand für die Teilnahme bezahlt wurde und alle verwendeten Aufnahmen legal beschafft wurden. Combs plant nun formelle rechtliche Schritte gegen Netflix einzuleiten.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Guillermo Del Toro To Receive BFI Fellowship",
+          "link": "https://deadline.com/2025/12/guillermo-del-toro-to-receive-bfi-fellowship-frankenstein-1236632979/",
+          "summary": "Das British Film Institute ehrt Guillermo del Toro mit seinem höchsten Auszeichnung, dem BFI Fellowship, in Anerkennung seines außergewöhnlichen Beitrags zum Film und seiner künstlerischen Vielseitigkeit in Animation und Live-Action. Die Verleihung findet im Mai 2026 in London statt und wird von einer Retrospektive, Masterclasses für Nachwuchsfilmer und der 4K-Wiederveröffentlichung seines Debütfilms Cronos (1992) begleitet. Del Toros jüngster Netflix-Film Frankenstein (2025) wurde teilweise in Großbritannien gedreht, was seine enge Verbindung zum britischen Kino unterstreicht.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "‘The Traitors’ Heading To Korea Hosted By Cha Seung-Won",
+          "link": "https://deadline.com/2025/12/the-traitors-korea-hosted-cha-seung-won-1236633104/",
+          "summary": "Der koreanische Schauspieler Cha Seung-won wird die lokale Adaption der internationalen Reality-Show \"The Traitors\" moderieren, produziert von Luyworks Media und Something Special. Das Format, bei dem \"Faithfuls\" versuchen \"Traitors\" zu entlarven, wurde bereits in über 30 Ländern erfolgreich adaptiert und gilt als globales Phänomen. Die koreanische Version soll laut Produzent Yul Han \"K-Content auf das nächste Level\" bringen.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Prime Minister,’ Starring New Zealand’s Dynamic Former Leader Jacinda Ardern, Prepares For Ballot Of Oscar Doc Branch Voters",
+          "link": "https://deadline.com/2025/12/prime-minister-lindsay-utz-interview-jacinda-ardern-documentary-1236633829/",
+          "summary": "Die Dokumentation \"Prime Minister\" über Neuseelands ehemalige Premierministerin Jacinda Ardern feierte bei Sundance 2025 Weltpremiere und wurde anschließend von Magnolia Pictures, HBO Documentary Films und CNN Films akquiriert. Der Film von Lindsay Utz und Michelle Walshe beleuchtet Arderns ungewöhnlichen Aufstieg zur Parteichefin der Labour Party 2017 im Alter von 37 Jahren, nachdem ihr Vorgänger nach schlechten Umfrageergebnissen zurückgetreten war. Die Dokumentation, die nun auf HBO Max und CNN streambar ist, porträtiert Ardern als authentische Politikerin, die ohne das übliche politische Image-Coaching auskam.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Gina Lollobrigida Docuseries, ‘Struwwelpeter’ Thriller From ‘Dark’ Creators Among Upcoming Local HBO Max Europe Originals",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/gina-lollobrigida-docu-series-struwwelpeter-hbo-max-europe-1236439527/",
+          "summary": "HBO Max Europa kündigte mehrere lokale Original-Produktionen an, darunter eine Gina Lollobrigida-Dokumentarserie aus Italien und deutsche Formate wie \"4 Blocks Zero\" sowie \"Banksters\". Besonders hervorzuheben ist eine Thriller-Serie der \"Dark\"-Schöpfer Jantje Friese und Baran Bo Odar, die das klassische Kinderbuch \"Struwwelpeter\" als düstere Realität adaptiert.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "HBO Max Sets Launches in Germany, Italy, and More Markets for Jan. 13",
+          "link": "https://www.hollywoodreporter.com/business/business-news/hbo-max-germany-italy-launch-switzerland-jan-13-2026-1236439493/",
+          "summary": "HBO Max expandiert am 13. Januar 2025 in sechs neue europäische Märkte (Deutschland, Italien, Österreich, Schweiz, Luxemburg und Liechtenstein), gefolgt von Großbritannien und Irland Anfang 2026. Die Expansion erfolgt in Schlüsselmärkten, wo HBO Max-Inhalte bisher exklusiv über Comcasts Sky verfügbar waren. Als besonderes Highlight wird HBO Max erstmals die Olympischen Winterspiele Milano Cortina 2026 live für alle Abonnenten übertragen.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "‘The Rest Is Football’ Podcast Heading to Netflix for 2026 World Cup",
+          "link": "https://www.hollywoodreporter.com/business/business-news/rest-is-football-podcast-netflix-2026-world-cup-1236440841/",
+          "summary": "Netflix hat sich die Rechte an \"The Rest Is Football\", einem der weltweit größten Sport-Podcasts, für die FIFA Weltmeisterschaft 2026 gesichert. Die Hosts Gary Lineker, Micah Richards und Alan Shearer werden täglich aus einem New Yorker Studio senden und das Turnier sowie das englische Team ausführlich analysieren. Der Deal ist Teil von Netflixs Strategie zur Expansion im Sport-Content-Bereich und im Video-Podcasting-Markt, um gegen YouTube zu konkurrieren.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Guillermo del Toro to Receive BFI Fellowship Honor",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/guillermo-del-toro-to-receive-bfi-fellowship-1236439309/",
+          "summary": "Der mexikanische Regisseur Guillermo del Toro erhält das BFI Fellowship, die höchste Auszeichnung des British Film Institute, und reiht sich damit in die Liga von Filmgrößen wie David Lean, Akira Kurosawa und Martin Scorsese ein. Die Ehrung würdigt seinen außergewöhnlichen Beitrag zum Film durch Werke wie \"The Shape of Water\" und \"Pan's Labyrinth\" sowie seine distinctive künstlerische Handschrift in Animation und Live-Action. Die Auszeichnung wird im Mai 2024 in London überreicht und umfasst eine Retrospektive seiner Arbeiten sowie Masterclasses für Nachwuchsfilmemacher.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "HBO Max Sets Jan. 13 Launch in Italy, Germany and Other Key European Markets",
+          "link": "https://variety.com/2025/streaming/global/hbo-max-launch-italy-germany-austria-jan-13-1236597237/",
+          "summary": "HBO Max startet am 13. Januar 2025 in Deutschland, Italien, Österreich, der Schweiz, Luxemburg und Liechtenstein und vervollständigt damit fast die europäische Expansion (nur UK und Irland fehlen noch). Der Launch umfasst das komplette Portfolio von HBO, Warner Bros. und DC Universe sowie neue lokale Produktionen wie die \"4 Blocks\"-Prequel-Serie \"4 Blocks Zero\" in Deutschland und die Drama-Serie \"Melania\" in Italien. Der Zeitpunkt ist strategisch vor den Olympischen Winterspielen Milano Cortina 2026 gewählt, die live auf der Plattform übertragen werden.",
           "score": 10
         },
         {
-          "source": "Deadline",
-          "title": "British Microdrama Firm Onset Octopus First To Board Irvin Gelb’s Standard-Setting Micro-Series Certified Alliance",
-          "link": "https://deadline.com/2025/12/microdrama-onset-octopus-micro-series-certified-alliance-1236631601/",
-          "summary": "Das britische Microdrama-Produktionshaus Onset Octopus ist als Gründungspartner der neuen Micro-Series Certified Alliance beigetreten, die von IGM Media's Irvin Gelb als Qualitäts- und Ethikstandard für die Branche etabliert wurde. Die Allianz reagiert auf zunehmende Zuschauermüdigkeit bei repetitiven Microdrama-Inhalten und plant die Einführung eines \"Certified Alliance Seal\" als Vertrauenssiegel für Publikum und Marken. Während Microdramas in China bereits mehr Umsatz als die heimische Kinokasse generieren sollen, positioniert sich die Allianz für Co-Produktionen zwischen US-, UK- und europäischen Partnern im schnell wachsenden vertikalen Video-Markt.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Tamara Kotevska, Jacqueline Lentzou & Rubaiyat Hossain Films Set For Les Arcs Work in Progress Showcase",
-          "link": "https://deadline.com/2025/12/les-arcs-work-in-progress-2026-showcase-selection-line-up-1236632060/",
-          "summary": "Das Les Arcs Film Festival präsentiert in seinem Work in Progress Showcase 12 Filme in der Postproduktion, darunter Werke der Oscar-nominierten Regisseurin Tamara Kotevska (\"Man Vs Flock\"), Jacqueline Lentzou (\"A Day In The Life Of Jo: Chapter Phaedra\") und Rubaiyat Hossain (\"The Difficult Bride\"). Die Veranstaltung zielt darauf ab, Filme in der Nachbearbeitung mit internationalen Vertriebspartnern und Verkaufsagenten zu vernetzen.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Heist: Robbing The Bank Of England’ Producer Sells Minority Stake To Rosegown",
-          "link": "https://deadline.com/2025/12/homegrown-studios-sells-stake-rosegown-investments-1236631600/",
-          "summary": "Homegrown Studios von John Farrar hat einen Minderheitsanteil an Rosegown Investments verkauft, das bereits in vier UK-Indies investiert hat und kürzlich seine erste Auftragsproduk­tion \"Heist: Robbing the Bank of England\" für Crime & Investigation landete. Die strategische Investition soll die Entwicklung von Formaten und Premium-Dokumentationen vorantreiben, während das Leeds-basierte Unternehmen bereits bezahlte Entwicklungsverträge mit einem großen US-Network und mehrere Co-Produktions­deals vorweisen kann. Rosegown etabliert sich als wichtiger Player in der UK-Produktions­industrie mit Investitionen in Vibrant Television, Little Venice Studios und Dare Pictures.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Banijay UK Sues Caryn Mandabach After Buying Out ‘Peaky Blinders’ Producer’s Company",
-          "link": "https://deadline.com/2025/12/banijay-sues-caryn-mandabach-peaky-blinders-1236631932/",
-          "summary": "Banijay UK hat eine Klage gegen Caryn Mandabach eingereicht wegen einer strittigen Steuerschuld im Zusammenhang mit der Übernahme ihrer Produktionsfirma (jetzt Garrison Drama Limited) für £14,7M im Juni 2024, durch die Banijay die Rechte an \"Peaky Blinders\" erwarb. Der Rechtsstreit dreht sich um die Frage, wer für eine nicht näher spezifizierte Körperschaftsteuer-Verbindlichkeit aus der Akquisition verantwortlich ist. Die Klage wurde beim London Circuit Commercial Court eingereicht, wobei beide Parteien durch renommierte Anwaltskanzleien vertreten werden und sich nicht öffentlich äußern.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Taylor Swift Releases ‘Eras Tour: The Final Show’ Trailer: First Look At ‘The Tortured Poets Department’ Set",
-          "link": "https://deadline.com/2025/12/taylor-swift-eras-tour-docu-trailer-sabrina-carpenter-kelce-1236616765/",
-          "summary": "Taylor Swift hat den offiziellen Trailer für \"Eras Tour: The Final Show\" veröffentlicht, einen Konzertfilm der in Vancouver aufgezeichneten finalen Show ihrer rekordverdächtigen Eras Tour, der erstmals das komplette \"The Tortured Poets Department\"-Set zeigt. Ab dem 12. Dezember startet der Film exklusiv auf Disney+ zusammen mit der sechsteiligen Dokumentarserie \"The End of an Era\", die Behind-the-Scenes-Einblicke in die Tour bietet und Gastauftritte von Sabrina Carpenter, Travis Kelce, Ed Sheeran und anderen prominenten Persönlichkeiten zeigt. Die Dokumentarserie startet mit zwei Episoden und wird anschließend wöchentlich mit jeweils zwei neuen Folgen fortgesetzt.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Guillermo del Toro Reviles AI Accepting ‘Frankenstein’ Tribute At Gotham Awards, Praises Film “Willfully Made By Humans, For Humans”",
-          "link": "https://deadline.com/2025/12/guillermo-del-toro-on-ai-gotham-awards-frankenstein-tribute-1236632537/",
-          "summary": "Guillermo del Toro nutzte seine Dankesrede bei der Gotham Awards-Ehrung für seinen Netflix-Film \"Frankenstein\" zu einer vehementen Kritik an künstlicher Intelligenz, indem er mehrfach \"F*ck AI\" rief und betonte, dass sein Film \"willentlich von Menschen für Menschen\" gemacht wurde. Der Oscar-Preisträger lobte explizit die menschliche Kunstfertigkeit aller Beteiligten von Designern bis Editoren und positionierte sein Werk bewusst als Gegenentwurf zu KI-generierten Inhalten. Del Toro reflektierte auch über seine lebenslange Verbindung zu Mary Shelleys \"Frankenstein\" und wie die Geschichte von Außenseitern und Monstern seine künstlerische Identität prägte.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Pavements’: EP Robert Schwartzman & Director Alex Ross Perry On Why Unlikely Indie Band Pavement Was Likely Choice For Music Docu – Crew Call Podcast",
-          "link": "https://deadline.com/2025/12/pavements-robert-schwartzman-alex-ross-perry-interview-1236632357/",
-          "summary": "Regisseur Alex Ross Perry erklärt in seinem Dokumentarfilm \"Pavements\", warum die Indie-Band Pavement trotz ihres geringen kommerziellen Erfolgs das perfekte Beispiel für authentische Musikkultur der 90er Jahre darstellt. Perry betont, dass Pavement nicht seine Lieblingsband ist, aber ideal geeignet, um die Geschichte einer Band zu erzählen, die sich dem Mainstream-Druck widersetzte, während andere Alternative-Rock-Gruppen kommerzielle Erfolge feierten. Die Band aus Stockton verkörpert damit exemplarisch den Konflikt zwischen künstlerischer Integrität und kommerziellem \"Sell-out\" in der 90er-Musikszene.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Iran’s Jafar Panahi Dedicates Gotham Award To Filmmakers “Deprived Of The Right To See And Be Seen”",
-          "link": "https://deadline.com/2025/12/jafar-panahi-gotham-awards-remarks-best-original-screenplay-1236632123/",
-          "summary": "Der iranische Regisseur Jafar Panahi gewann drei Gotham Awards für seinen Cannes Palme d'Or-preisgekrönten Film \"It Was Just an Accident\" und widmete die Auszeichnungen unabhängigen Filmemachern im Iran und weltweit. Am selben Tag wurde Panahi in Abwesenheit zu einem Jahr Gefängnis und einem zweijährigen Reiseverbot verurteilt, wegen \"Propagandaaktivitäten gegen das System\". Der Film ist Frankreichs Oscar-Beitrag 2026 und Panahi befindet sich derzeit auf einer US-Tournee zur Filmpräsentation.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "‘Babylon Berlin’ Wraps Shoot for Fifth and Final Season (Exclusive)",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/babylon-berlin-wraps-shoot-fifth-and-final-season-1236438193/",
-          "summary": "Die deutsche Neo-Noir-Serie \"Babylon Berlin\" hat die Dreharbeiten zur fünften und finalen Staffel abgeschlossen, die in 8 Episoden die letzten Tage der Weimarer Republik von Februar bis März 1933 behandelt. Die finale Staffel, adaptiert nach Volker Kutschers Roman \"Märzgefallene\", führt Kommissar Gereon Rath und Charlotte Ritter in einem letzten Fall zusammen und zeigt die dramatischen gesellschaftlichen Umbrüche während Hitlers Machtübernahme. Nach insgesamt 48 Episoden endet damit eine der aufwendigsten deutschen TV-Produktionen, die das Berlin der 1920er Jahre bis zum Untergang der Republik nachzeichnete.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Gotham Film Awards: ‘One Battle After Another’ Wins Best Feature; Jafar Panahi’s ‘It Was Just an Accident’ Sweeps",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/2025-gotham-film-awards-winners-list-1236437998/",
-          "summary": "Paul Thomas Andersons \"One Battle After Another\" gewann den Hauptpreis für den besten Film bei den Gotham Film Awards 2025, während Jafar Panahis \"It Was Just an Accident\" alle drei nominierten Kategorien (Drehbuch, internationaler Film, Regie) gewann. Panahi erhielt die Auszeichnungen nur Stunden nachdem Iran den Regisseur in Abwesenheit zu einem Jahr Gefängnis verurteilt hatte und widmete seine Preise unabhängigen Filmemachern im Iran und weltweit, die trotz Repression weiterarbeiten.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "CAA Adds Digital Media Veteran to Bolster Creators Division",
-          "link": "https://www.hollywoodreporter.com/business/business-news/caa-creators-division-greg-goodfried-1236438436/",
-          "summary": "Greg Goodfried, Mitbegründer von LonelyGirl15 und ehemaliger UTA-Agent, wechselt zur Creative Artists Agency (CAA) als Agent in der Creators Division. Er wird digitale Creator und Podcaster vertreten sowie digitale Strategien für CAA-Kunden in den Bereichen Film, Musik, TV und Sport entwickeln. Mit ihm wechselt auch Jamie Guggenheim von seinem Management-Unternehmen DamGood Management zur CAA.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "‘Awards Chatter’ Pod: Sydney Sweeney on Oscar-Buzzed ‘Christy,’ Return of ‘Euphoria’ and Upcoming Kim Novak/Sammy Davis Jr. Film",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/awards-chatter-podcast-sydney-sweeney-interview-christy-euphoria-1236438263/",
-          "summary": "Sydney Sweeney diskutiert in einem Awards Chatter Podcast-Interview ihren Oscar-beworbenen Film \"Christy\", in dem sie die Boxerin und Missbrauchsopfer Christy Martin spielt und als Produzentin fungierte. Der 28-jährige \"Euphoria\"-Star beschreibt die emotionalen Reaktionen von Zuschauern, die ähnliche Erfahrungen gemacht haben, als lebensverändernd und betont, dass dies der erste Charakter sei, der Menschen auf diese Weise berührt habe. Sweeney spricht außerdem über die Rückkehr von \"Euphoria\" und ein kommendes Filmprojekt über Kim Novak und Sammy Davis Jr.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "‘Landman’ Duo Ali Larter and Michelle Randolph Know They Are the Heart of the Show",
-          "link": "https://www.hollywoodreporter.com/tv/tv-features/landman-ali-larter-michelle-randolph-season-2-interview-1236438417/",
-          "summary": "In der zweiten Staffel der erfolgreichen Paramount+ Serie \"Landman\" übernehmen Ali Larter (Angela) und Michelle Randolph (Ainsley) als Mutter-Tochter-Duo eine zentrale Rolle im Haushalt von Tommy Norris (Billy Bob Thornton). Sam Elliott stößt als T.L., Tommys Vater, zur Besetzung hinzu und bringt eine neue Perspektive auf die beiden Charaktere mit, die er laut Randolph als \"pure Freude\" wahrnimmt. Die Schauspielerinnen diskutieren in einem Interview ihre Rollen in der von Taylor Sheridan miterschaffenen Hit-Serie und deren Zukunftsaussichten.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Justin Lin to Direct ‘Helldivers’ Video Game Movie (Exclusive)",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/helldivers-movie-justin-lin-sony-1236438370/",
-          "summary": "Justin Lin wird die Verfilmung des erfolgreichen Videospiels \"Helldivers\" für Sony Pictures und PlayStation Productions inszenieren, wobei Gary Dauberman das Drehbuch verfasst hat. Das Sci-Fi-Actionprojekt basiert auf dem 2015er Game von Arrowhead Game Studios, dessen Sequel \"Helldivers 2\" 2024 über 12 Millionen Einheiten verkaufte. Lin, bekannt für die \"Fast and Furious\"-Reihe, will trotz seiner Nicht-Gamer-Perspektive menschliche Charaktere und zeitgemäße Themen in die Geschichte um Elite-Soldaten im Kampf gegen außerirdische Bedrohungen einweben.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "‘Spartacus: House of Ashur’ Creator, Star Talk Pushing Boundaries of Sex and Violence, Intimacy Coordinators and Not Changing the Written Word",
-          "link": "https://www.hollywoodreporter.com/movies/movie-features/spartacus-house-of-asher-steven-s-deknight-nick-e-tarabay-1236438211/",
-          "summary": "Showrunner Steven S. DeKnight und Schauspieler Nick E. Tarabay kehren mit \"Spartacus: House of Ashur\" zur Starz-Franchise zurück - einer revisionistischen Serie, die ab 5. Dezember die alternative Geschichte erzählt, was passiert wäre, wenn der beliebte Antagonist Ashur überlebt hätte. Die neue Serie behält die charakteristischen Elemente der ursprünglichen Spartacus-Reihe bei: explizite Gewaltdarstellung in Zeitlupe, ausgiebige Sexszenen und melodramatische Handlungsstränge. DeKnight und Tarabay diskutierten das Projekt bei einem Heat Vision Live-Event des Hollywood Reporter, wobei sie die visuell opulente Action und das Genre-typische Storytelling hervorhoben.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Streaming Ratings: ‘IT: Welcome to Derry’ Has Solid Opening on HBO Max",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-oct-27-nov-2-2025-1236438445/",
-          "summary": "\"IT: Welcome to Derry\" erzielte mit 620 Millionen Streaming-Minuten in der Woche vom 27. Oktober bis 2. November das beste Wochenergebnis einer HBO/HBO Max-Originalserie seit fünf Monaten und rangierte auf Platz 12 der Gesamtcharts. Die HBO-Prequel-Serie zur IT-Filmreihe lag damit knapp außerhalb der Top 10, während \"Nobody Wants This\" mit 919 Millionen Minuten die Streaming-Charts anführte. \"The Witcher\" kehrte nach 2,5 Jahren Pause mit neuem Hauptdarsteller Liam Hemsworth auf Platz 2 zurück, verzeichnete jedoch mit 837 Millionen Minuten einen 36%igen Rückgang gegenüber der vorherigen Staffelpremiere.",
-          "score": 9
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Cyber Monday Streaming Deals 2025: Hulu, Disney+, DirecTV and More",
-          "link": "https://www.hollywoodreporter.com/lifestyle/shopping/best-black-friday-streaming-deals-1235053070/",
-          "summary": "Streaming-Anbieter bieten zum Cyber Monday 2025 ihre größten Preisnachlässe des Jahres mit Rabatten von bis zu 80% auf Services wie Sling, Paramount+ (77% Rabatt) und dem Disney+/Hulu-Bundle (62% Rabatt für 12 Monate). Besonders attraktiv sind längerfristige Angebote wie Apple TV+ für sechs Monate zu $5,99/Monat statt $12,99 und HBO Max auf Hulu für ein Jahr zu $2,99/Monat. DirecTV ergänzt das Angebot mit einer fünftägigen kostenlosen Testphase plus bis zu $45 Rabatt auf den ersten Monat.",
-          "score": 8
-        },
-        {
           "source": "Variety",
-          "title": "Aubrey O’Day Says She Was Fired From Danity Kane for ‘Not Participating Sexually’ With Diddy; Struggles to Recall Alleged Assault: ‘I Don’t Even Know if I Was Raped and I Don’t Want to Know’",
-          "link": "https://variety.com/2025/tv/news/aubrey-oday-diddy-fired-danity-kane-sex-1236596233/",
-          "summary": "Aubrey O'Day behauptet in der Netflix-Dokumentation \"Sean Combs: The Reckoning\", dass sie von Sean \"Diddy\" Combs aus der Gruppe Danity Kane entfernt wurde, weil sie sich weigerte, sexuelle Beziehungen zu ihm einzugehen. O'Day beschreibt ein Muster der Manipulation und des Missbrauchs, einschließlich expliziter E-Mails von Combs, und gibt an, dass sie sich nicht vollständig an einen mutmaßlichen sexuellen Übergriff erinnern kann. Die Vorwürfe fügen sich in die wachsende Zahl von Anschuldigungen gegen den Musikmogul ein, der derzeit rechtlichen Problemen gegenübersteht.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "Indonesian Filmmaker Garin Nugroho Elevated to Higher Rank in France’s Arts Honor",
-          "link": "https://variety.com/2025/film/news/indonesia-garin-nugroho-france-arts-honor-1236596977/",
-          "summary": "Der renommierte indonesische Filmemacher Garin Nugroho wurde von Frankreichs Kulturministerium zum \"Officier dans l'Ordre des Arts et des Lettres\" ernannt, eine Aufwertung seiner bereits 2015 erhaltenen \"Chevalier\"-Auszeichnung. Die Ehrung würdigt seine jahrzehntelange Arbeit zur Förderung des indonesischen Kinos auf internationaler Ebene, insbesondere nachdem sein Film \"Daun di Atas Bantal\" 1998 als erster indonesischer Spielfilm für die Filmfestspiele von Cannes ausgewählt wurde. Seine Werke haben kontinuierlich Anerkennung in Frankreich gefunden, zuletzt gewann \"Memories of My Body\" 2018 die Montgolfière d'Or beim Festival des 3 Continents.",
+          "title": "‘The Stories’ and ‘Noor’ Among Highlights at Red Sea as Revamped Programming Team Keeps the Focus on Filmmaking",
+          "link": "https://variety.com/2025/film/festivals/red-sea-programmers-on-modified-film-versions-1236597511/",
+          "summary": "Das Red Sea Film Festival in Saudi-Arabien durchläuft in seiner fünften Edition (4.-13. Dezember) bedeutende programmatische Veränderungen unter der neuen Direktorin für internationale Programme, Fionnuala Halligan. Halligan hat ein komplett neues Programmteam zusammengestellt, das internationale Experten wie Mike Goodridge, Giovanna Fulvi und Deepti D'Cunha umfasst. Das Festival etabliert sich in seinem neuen Standort am Culture Square in Jeddah und strebt eine ganzjährige Filmprogrammierung an.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "‘Peepli Live’ Director Anusha Rizvi Returns With Family Comedy ‘The Great Shamsuddin Family’ for JioHotstar (EXCLUSIVE)",
-          "link": "https://variety.com/2025/tv/news/peepli-live-director-great-shamsuddin-family-1236596690/",
-          "summary": "Anusha Rizvi, Regisseurin des gefeierten Films \"Peepli Live\", kehrt mit der Familienkomödie \"The Great Shamsuddin Family\" für JioHotstar zurück. Der Film folgt Autorin Bani Ahmed (Kritika Kamra), die während einer karriereentscheidenden 12-Stunden-Deadline mit einer Familienkrise konfrontiert wird, als Verwandte mit verschiedenen Notfällen in ihrer Wohnung auftauchen. Die Geschichte thematisiert moderne indische Familiendynamiken, interkonfessionelle Komplexität und den Konflikt zwischen Karrierechancen im Ausland und familiären Verpflichtungen.",
+          "title": "Red Sea Film Festival Chiefs Play Up ‘East Meets West’ Role as Industry Attendance Rises and Saudi Event Embraces Boxing Biopic ‘Giant’",
+          "link": "https://variety.com/2025/film/global/red-sea-film-festival-industry-saudi-boxing-biopic-giant-1236596152/",
+          "summary": "Das Red Sea Film Festival in Jeddah eröffnet mit der Nahost-Premiere des Boxerfilms \"Giant\" über den britisch-jemenitischen Boxer Naseem Hamed und positioniert sich als wichtiger Filmmarkt in der arabischen Region mit einem \"Ost trifft West\"-Konzept. Die Veranstalter sehen das Festival als größten Markt in der MENA-Region und betonen die inklusive Ausrichtung auf Asien und Afrika. Das Event findet vor dem Hintergrund der rasant wachsenden saudischen Film- und TV-Industrie statt.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Taylor Swift Releases Official Trailer for ‘Eras Tour: The Final Show’ Concert Film",
-          "link": "https://variety.com/2025/music/news/taylor-swift-releases-trailer-eras-tour-concert-film-1236596944/",
-          "summary": "Taylor Swift veröffentlicht am 12. Dezember auf Disney+ den Konzertfilm \"The Eras Tour: The Final Show\", der ihre abschließende Tour-Performance in Vancouver zeigt und erstmals das komplette \"Tortured Poets Department\"-Set enthält, das nach der Album-Veröffentlichung im April 2024 zur Setlist hinzugefügt wurde. Parallel startet eine sechsteilige Dokumentarserie \"The End of an Era\" mit den ersten beiden Episoden am selben Tag. Der offizielle Trailer wurde bereits veröffentlicht und zeigt Swift bei der Performance von \"Long Live\" während ihrer emotionalen Abschiedsrede.",
+          "title": "‘Mr. Men Little Miss’ Movie in the Works From ‘Paddington’ Producers Studiocanal and Heyday (EXCLUSIVE)",
+          "link": "https://variety.com/2025/film/global/paddington-studiocanal-heyday-men-little-miss-feature-film-1236597499/",
+          "summary": "Studiocanal und Heyday Films, die Produzenten der erfolgreichen \"Paddington\"-Filme, entwickeln gemeinsam mit Sanrio eine Kinoadaption der beliebten \"Mr. Men Little Miss\"-Buchreihe von Roger Hargreaves. Die seit 1971 erschienene Kinderbuchserie, die über 250 Millionen verkaufte Exemplare verzeichnet, wird damit erstmals für die große Leinwand adaptiert. Das Projekt zielt darauf ab, sowohl Kinder als auch Erwachsene weltweit anzusprechen, ähnlich wie es bereits bei der \"Paddington\"-Franchise erfolgreich gelungen ist.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "‘Nothing But Thirty’ Sequel ‘Only Thirty-Five’ in Works at Mediacorp, Linmon Media",
+          "link": "https://variety.com/2025/tv/markets-festivals/nothing-but-thirty-sequel-mediacorp-linmon-media-1236598204/",
+          "summary": "Singapurs Mediacorp und das chinesische Produktionshaus Linmon Media entwickeln gemeinsam \"Only Thirty-Five\", die Fortsetzung der erfolgreichen Serie \"Nothing But Thirty\", die über 5,5 Milliarden Views auf Tencent Video erzielte. Die Produktion beginnt 2026 mit Dreharbeiten in China und Singapur, wobei die Handlung der Protagonistin Gu Jia folgt, die nach ihrem 35. Geburtstag einen Neuanfang wagt und ein Haushaltsservice-Unternehmen gründet. Das Originalprojekt führte bereits zu Adaptionen in Thailand, Vietnam, Japan und Südkorea.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Red Sea Competition Film ‘Sink’ Debuts Trailer as Director Discusses Mental Health, Motherhood and Defying Western Tropes (EXCLUSIVE)",
+          "link": "https://variety.com/2025/film/global/zain-duraie-sink-red-sea-film-festival-trailer-1236597664/",
+          "summary": "Der jordanische Film \"Sink\" von Regisseurin Zain Duraie feiert seine Premiere im Wettbewerb des Red Sea Film Festivals und erzählt die persönliche Geschichte einer Mutter, die zunehmend verzweifelt versucht, ihren Teenager-Sohn vor dem Absturz in eine Geisteskrankheit zu bewahren. Das Drama mit Clara Khoury und Mohammad Nizir markiert Duraies ersten Langfilm nach ihrem preisgekrönten Kurzfilm \"Give Up the Ghost\" (2019) und behandelt bewusst Themen wie psychische Gesundheit und Mutterschaft jenseits westlicher Klischees über arabisches Kino.",
           "score": 7
         }
       ]
