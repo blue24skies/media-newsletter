@@ -1,258 +1,230 @@
 {
   "newsletters": [
     {
-      "date": "2025-12-03",
+      "date": "2025-12-04",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Einschätzung der wirtschaftlichen Lage hat sich erneut verschlechtert",
-          "link": "https://www.dwdl.de/nachrichten/104751/einschaetzung_der_wirtschaftlichen_lage_hat_sich_erneut_verschlechtert/",
-          "summary": "Die Herbstumfrage der Produktionsallianz zeigt eine dramatische Verschlechterung der Branchenstimmung: 85 Prozent der 199 befragten Produktionsunternehmen bewerten die wirtschaftliche Lage als (sehr) schlecht (2024: 77 Prozent), 74 Prozent blicken pessimistisch auf 2026. Hauptprobleme sind sinkende Auftraggeber-Budgets bei steigenden Herstellungskosten, verlangsamte Entscheidungsprozesse (86 Prozent) und schrumpfende Auftragsvolumina (80 Prozent), während Personalmangel erstmals kein akutes Problem darstellt.",
+          "title": "ARD setzt \"Werwölfe\" fort und sucht mehr Reality-Formate",
+          "link": "https://www.dwdl.de/nachrichten/104757/ard_setzt_werwoelfe_fort_und_sucht_mehr_realityformate/",
+          "summary": "Die ARD bestätigt eine zweite Staffel von \"Werwölfe – Das Spiel von List und Täuschung\" mit Michael Kessler als Erzähler, nachdem das Format über fünf Millionen Abrufe in der Mediathek erzielte. ARD-Unterhaltungskoordinator Andreas Gerling kündigt eine strategische Expansion in Reality-Formate an und sucht aktiv nach neuen Formaten jenseits von Strategiespielen. Trotz der geplanten Programmausweitung bleibt das Unterhaltungsbudget konstant oder wird aufgrund der nicht erfolgten Rundfunkbeitragserhöhung sogar gekürzt.",
           "score": 10
         },
         {
           "source": "DWDL",
-          "title": "FAST-Kanäle von RTL Deutschland kommen zu Waipu.TV",
-          "link": "https://www.dwdl.de/nachrichten/104750/fastkanaele_von_rtl_deutschland_kommen_zu_waiputv/",
-          "summary": "RTL Deutschland und Waipu.TV haben eine Partnerschaft zur Distribution von FAST-Channels geschlossen, wodurch sieben der acht thematischen RTL-Kanäle (RTL Comedy, RTL Shine, RTL Haus & Garten sowie vier sendungsspezifische Kanäle) auf der Streaming-Plattform verfügbar werden. Die werbefinanzierten linearen Online-Kanäle, die RTL vor eineinhalb Jahren gestartet hat, erweitern damit ihre Reichweite über die eigene Plattform RTL+ hinaus. Lediglich der \"Alarm für Cobra 11\"/\"Balko\"-Kanal bleibt exklusiv bei RTL+.",
+          "title": "Arte holt ukrainischen Sender in sein Partner-Netzwerk",
+          "link": "https://www.dwdl.de/nachrichten/104763/arte_holt_ukrainischen_sender_in_sein_partnernetzwerk/",
+          "summary": "ARTE GEIE hat einen Assoziierungsvertrag mit dem ukrainischen öffentlich-rechtlichen Sender Suspilne Ukraine unterzeichnet und erweitert damit sein Partner-Netzwerk auf 13 Mitglieder. Die Kooperation soll hochwertige Koproduktionen ermöglichen und baut auf bereits bestehenden Projekten wie der Dokumentarfilm-Reihe \"Generation Ukraine\" auf. Der Schritt wird von beiden Seiten als Zeichen der Solidarität und professionellen Zusammenarbeit unter schwierigen Bedingungen gewertet.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "ARD und Verleger fordern Regulierung von Tech-Riesen und KI",
-          "link": "https://www.dwdl.de/nachrichten/104744/ard_und_verleger_fordern_regulierung_von_techriesen_und_ki/",
-          "summary": "ARD und das \"Bündnis Zukunft Presse\" (BDZV und MVFP) fordern in einer gemeinsamen Erklärung stärkere politische Regulierung von Tech-Konzernen und KI-Systemen, da monopolartige Gatekeeper-Strukturen zunehmend über die Sichtbarkeit von Medieninhalten entscheiden. Die Allianz kritisiert, dass journalistische Inhalte in intransparenten KI-Antworten verschwinden und redaktionelle Arbeiten ohne Urheberkennung in KI-Systeme einfließen. ARD-Vorsitzender Hager warnt vor einer Erschütterung des deutschen Mediensystems durch KI-Agenten und Tech-Konzerne, die demokratische Meinungsvielfalt gefährden.",
+          "title": "\"Hamburg Days\": Neue Beatles-Serie entsteht für ZDF und BBC",
+          "link": "https://www.dwdl.de/nachrichten/104760/hamburg_days_neue_beatlesserie_entsteht_fuer_zdf_und_bbc/",
+          "summary": "Das ZDF und die BBC produzieren gemeinsam die sechsteilige Serie \"Hamburg Days\" über die frühen Beatles-Jahre in Hamburg Anfang der 1960er Jahre, basierend auf Klaus Voormanns Autobiografie. Christian Schwochow fungiert als Showrunner, Mat Whitecross als Regisseur, produziert wird von W&B Television und Turbine Studios. Die Serie thematisiert die Freundschaft zwischen den jungen Beatles und einer deutschen Künstlergruppe im pulsierenden St. Pauli Nachtleben.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Im Januar: Vox setzt auf Primetime-Reportagen, RTL auf Jauch",
+          "link": "https://www.dwdl.de/nachrichten/104761/im_januar_vox_setzt_auf_primetimereportagen_rtl_auf_jauch/",
+          "summary": "RTL startet 2026 mit seiner zehnten \"3-Millionen-Euro-Woche\" bei \"Wer wird Millionär\" vom 5.-9. Januar, obwohl der Höchstgewinn noch nie erspielt wurde und der letzte Millionengewinn bereits fünfeinhalb Jahre zurückliegt. Vox setzt ab 7. Januar drei Wochen lang mittwochs auf \"Stern TV Reportage\" in der Primetime mit Themen wie Schnäppchenjagd, Mehrlinge und Hausmeister im sozialen Brennpunkt. Beide Sender komplettieren ihr Programm um den Jahreswechsel mit bewährten Formaten wie Chartshows und Musik-Specials.",
           "score": 9
         },
         {
           "source": "DWDL",
-          "title": "\"Joyce\" bei Joyn: Streamer führt neue KI-Assistentin ein",
-          "link": "https://www.dwdl.de/nachrichten/104741/joyce_bei_joyn_streamer_fuehrt_neue_kiassistentin_ein/",
-          "summary": "ProSiebenSat.1 launcht bei seinem Streamingdienst Joyn die KI-Assistentin \"Joyce\" als Beta-Version, die über Text- oder Spracheingabe personalisierte Programm-Empfehlungen liefert. Das auf Google Gemini basierende Tool ist zunächst nur für iOS verfügbar und soll künftig um Sortiervorschläge und Release-Erinnerungen erweitert werden. Joyce lernt kontinuierlich aus den Nutzungsgewohnheiten und passt ihre Empfehlungen entsprechend an.",
-          "score": 10
+          "title": "Henrik Pabst: \"Mittlerweile hat sich die Aufregung gelegt\"",
+          "link": "https://www.dwdl.de/nachrichten/104758/henrik_pabst_mittlerweile_hat_sich_die_aufregung_gelegt/",
+          "summary": "Henrik Pabst, einziger verbliebener Vorstand nach der MFE-Übernahme von ProSiebenSat.1, berichtet von einer erfolgreichen Integration der italienischen Eigentümer trotz intensiver Umbruchswochen für die Belegschaft. MFE mischt sich nicht in lokale Programmentscheidungen ein, möchte aber die datenbasierten Entscheidungsprozesse verstehen. Pabst sieht Synergien im neuen Unternehmensverbund vor allem bei der Streaming-Technologie (Joyn und zwei weitere Plattformen), der paneuropäischen Vermarktung und dem Programmeinkauf.",
+          "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Goldvertise hat bald wieder Sender mit AGF-Lizenz",
-          "link": "https://www.dwdl.de/nachrichten/104738/goldvertise_hat_bald_wieder_sender_mit_agflizenz/",
-          "summary": "Goldvertise integriert ab Januar 2026 drei High-View-Sender (AXN Black, Just Cooking, One Terra) in die AGF-Messung und erweitert gleichzeitig die Datengrundlage durch eine Kooperation mit AEOS für weitere Vodafone-verbreitete Sender. Mit dieser Dual-Strategie will der Vermarkter Werbekunden eine transparentere und präzisere Datenbasis für Mediaplanung und Kampagnenbewertung bieten. Die AGF-lizenzierten Sender sind die einzigen im aktuellen Goldvertise-Portfolio mit dieser Zertifizierung.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "DF1 sichert sich Übertragungsrechte an der Formel E",
-          "link": "https://www.dwdl.de/nachrichten/104737/df1_sichert_sich_uebertragungsrechte_an_der_formel_e/",
-          "summary": "DF1 hat sich die Übertragungsrechte für die Formel E-Saison 2025/26 gesichert und wird alle 17 Rennen live im Free-TV zeigen, nachdem sich ServusTV aus der Rennserie zurückgezogen hat. Der Spartensender produziert erstmals komplett aus dem eigenen Studio in Unterföhring und ist damit exklusiver Free-TV-Partner der elektrischen Rennserie in Deutschland. Die neue Saison startet am 6. Dezember in São Paulo, mit insgesamt 11 Locations weltweit inklusive zwei Berlin-Rennen im Mai.",
+          "title": "RTL macht Abschied von Jauch und Schöneberger bei \"DSWNWP\" offiziell",
+          "link": "https://www.dwdl.de/nachrichten/104755/rtl_macht_abschied_von_jauch_und_schoeneberger_bei_dswnwp_offiziell/",
+          "summary": "RTL bestätigt offiziell das Ende der Ära Gottschalk-Jauch-Schöneberger bei \"Denn sie wissen nicht, was passiert\" - alle drei Moderatoren verabschieden sich am kommenden Samstag aus der Show, wobei Gottschalks Abschied aufgrund seiner Krebserkrankung im Mittelpunkt steht. Das Format selbst wird fortgesetzt und startet bereits am 13. Dezember mit neuen Moderatoren in eine neue Phase.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Black Friday Woche bringt Amazon im Werbe-Ranking nach vorn",
-          "link": "https://www.dwdl.de/aeos/104720/black_friday_woche_bringt_amazon_im_werberanking_nach_vorn/",
-          "summary": "Amazon dominierte in der Black Friday Woche das TV-Werberanking mit 2.877 geschalteten Spots, einer Bruttoreichweite von über 1.000 XRP und Brutto-Werbeausgaben von rund 13,5 Millionen Euro. ProSiebenSat.1 sicherte sich dabei fast 45 Prozent der Amazon-Werbebudgets, während die RTL-Gruppe knapp 30 Prozent erhielt. Auf den Plätzen zwei bis vier folgten Lindt (765 XRP), Wick (712 XRP) und McDonald's (649 XRP).",
-          "score": 7
+          "title": "Details zum Start von HBO Max: Termin, Preise, deutsche Serien",
+          "link": "https://www.dwdl.de/nachrichten/104752/details_zum_start_von_hbo_max_termin_preise_deutsche_serien/",
+          "summary": "HBO Max startet am 13. Januar 2026 in Deutschland mit drei Abo-Stufen: Basis-Abo mit Werbung für 5,99 Euro, Standard ohne Werbung für 11,99 Euro und Premium mit 4K für 16,99 Euro monatlich. Sport-Inhalte kosten zusätzlich 3 Euro pro Monat, während als Content-Highlight das \"Game of Thrones\"-Prequel \"A Knight of the Seven Kingdoms\" bereits ab 19. Januar verfügbar sein wird. Alle Preise steigen 2027 um jeweils einen Euro.",
+          "score": 10
         },
         {
-          "source": "Horizont Medien",
-          "title": "Chief Content Officer Henrik Pabst: Wie Pro Sieben Sat 1 und MFE zusammenarbeiten",
-          "link": "https://www.horizont.net/medien/nachrichten/chief-content-officer-henrik-pabst-wie-pro-sieben-sat-1-und-mfe-zusammenarbeiten-232196?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Pro Sieben Sat 1 Chief Content Officer Henrik Pabst kündigte auf dem Cannes-Markt verstärkte Kooperationen mit Streamingdiensten und öffentlich-rechtlichen Sendern an, während die Sendergruppe unter neuer MFE-Eigentümerschaft zur \"digital-first Entertainment-Gruppe\" transformiert wird. Die strategischen Aussagen erfolgten vor der Ernennung von MFE-Manager Marco Giordani als neuen ProSieben-CEO, geben aber bereits Einblicke in die künftige Ausrichtung des Medienkonzerns.",
+          "source": "DWDL",
+          "title": "Netflix schickt \"Alphamännchen\" in die zweite Staffel",
+          "link": "https://www.dwdl.de/nachrichten/104753/netflix_schickt_alphamaennchen_in_die_zweite_staffel/",
+          "summary": "Netflix hat zwei Monate nach dem Start der ersten Staffel eine zweite Staffel der deutschen Comedyserie \"Alphamännchen\" angekündigt, die auf dem spanischen Original \"Machos Alfa\" basiert und von Geißendörfer Pictures produziert wird. Das ursprüngliche Cast mit Tom Beck, Moritz Führmann, Serkan Kaya und David Rott kehrt zurück, ein Starttermin steht jedoch noch nicht fest. Parallel dazu startet die zweite Staffel von \"Love is Blind: Germany\" am 8. Januar 2025.",
           "score": 10
         },
         {
           "source": "Horizont Medien",
-          "title": "&quot;Klare Kante zeigen&quot;: Wie KI-Experten der Medien zwischen Zuversicht und Zweifeln schwanken",
-          "link": "https://www.horizont.net/medien/nachrichten/klare-kante-zeigen-wie-ki-experten-der-medien-zwischen-zuversicht-und-zweifeln-schwanken-232190?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "KI-Experten im Medienbereich zeigen eine ausgeprägte Ambivalenz zwischen Euphorie und Warnung, wenn es um die Zukunft der Medien im KI-Zeitalter geht. Auf der \"AI Media Leaders\"-Konferenz in Hamburg wurde deutlich, dass selbst Fachleute binnen kürzester Zeit zwischen optimistischen und skeptischen Einschätzungen wechseln. Diese Unsicherheit spiegelt wider, dass KI als Medienthema noch sehr neu ist und niemand die langfristigen Entwicklungen verlässlich vorhersagen kann.",
+          "title": "Studie: So gefragt bleiben menschengemachte Nachrichten im KI-Zeitalter",
+          "link": "https://www.horizont.net/medien/nachrichten/studie-so-gefragt-bleiben-menschengemachte-nachrichten-im-ki-zeitalter-232200?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Eine aktuelle Studie zeigt, dass nur 12% der Befragten vollständig KI-generierte Nachrichten akzeptieren, während auch bei menschlicher Kontrolle (\"Human in the Loop\") lediglich 21% Vertrauen haben. Obwohl derzeit nur 34% der Medienunternehmen KI zur Textgenerierung nutzen, planen 53% den künftigen Einsatz. Die Herausforderung für Redaktionen liegt darin, Inhalte für verschiedene Nutzungsformen gleichzeitig bereitzustellen, was vermutlich zu einer deutlich erhöhten Nachrichtenproduktion führen wird.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "&quot;Joyce&quot;: Joyn startet KI-Streaming-Assistentin",
-          "link": "https://www.horizont.net/medien/nachrichten/joyce-joyn-startet-ki-streaming-assistentin-232178?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Joyn führt die KI-Streaming-Assistentin \"Joyce\" ein, um Nutzern bei der Content-Auswahl zu helfen und das Problem des endlosen Scrollens durch das Überangebot an Filmen und Serien zu lösen. Die Assistentin soll personalisierte Empfehlungen geben und die Entscheidungsfindung bei der Programmauswahl erleichtern.",
+          "title": "Streamingdienst: HBO Max startet am 13. Januar und schließt Exklusiv-Deal mit Leonine",
+          "link": "https://www.horizont.net/medien/nachrichten/streamingdienst-hbo-max-startet-am-13.-januar-und-schliesst-exklusive-partnerschaft-mit-leonine-232203?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Warner Bros Discovery startet HBO Max am 13. Januar 2026 in Deutschland, Österreich, der Schweiz, Liechtenstein und Luxemburg. Parallel dazu wurde eine exklusive Content-Partnerschaft mit Leonine Studios vereinbart, um das Programmangebot für den deutschsprachigen Markt zu stärken.",
           "score": 10
         },
         {
           "source": "Horizont Medien",
-          "title": "TV-Krise: RTL-Umbau: So viele Stellen fallen weg - und das sind die Hintergründe",
-          "link": "https://www.horizont.net/medien/nachrichten/tv-krise-rtl-umbau-so-viele-stellen-fallen-weg---und-das-sind-die-hintergruende-232166?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "RTL Deutschland kündigt einen umfangreichen Konzernumbau mit dem Abbau von 600 der insgesamt 7500 Stellen an. Der Stellenabbau erfolgt im Rahmen einer Neustrukturierung des Unternehmens und spiegelt die aktuellen Herausforderungen der TV-Branche wider.",
-          "score": 9
+          "title": "Als Bild-Kolumnist: Harald Martenstein folgt auf Franz Josef Wagner",
+          "link": "https://www.horizont.net/medien/nachrichten/als-bild-kolumnist-harald-martenstein-folgt-auf-franz-josef-wagner-232149?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Harald Martenstein übernimmt ab Februar 2026 die Kolumne des im Oktober verstorbenen Franz Josef Wagner bei der Bild-Zeitung. Die bisherige Kolumne \"Post von Wagner\" wird unter dem neuen Titel \"Mail von Martenstein\" weitergeführt.",
+          "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "Studie: So stark nehmen Hassrede und Desinformation im Netz zu",
-          "link": "https://www.horizont.net/medien/nachrichten/studie-so-stark-nehmen-hassrede-und-desinformation-im-netz-zu-232086?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Eine aktuelle Studie zeigt, dass 85 Prozent der Befragten eine Zunahme von Hassrede und Desinformation im Internet im Vergleich zu vor zwei Jahren wahrnehmen. Besonders jüngere Internetnutzer (36% in 2023) sind stärker von Hassrede betroffen als die Altersgruppe 45-64 Jahre (27% gegenüber 20% in 2023). Die Wahrnehmung beider Phänomene - Hassrede und Desinformation - hat sich in den letzten zwei Jahren deutlich verstärkt.",
+          "source": "kress",
+          "title": "ARD Degeto Film sucht eine Abteilungsleitung (m/w/d) Redaktion & Programm-Management in Frankfurt",
+          "link": "https://kress.de/news/beitrag/151480-ard-degeto-film-sucht-eine-abteilungsleitung-m-w-d-redaktion-amp-programm-management-in-frankfurt.html",
+          "summary": "ARD Degeto Film sucht eine Abteilungsleitung für Redaktion & Programm-Management in Frankfurt, die strategisch Auftragsproduktionen, Koproduktionen und Lizenzkäufe für Das Erste und die ARD Mediathek verantwortet. Die Position umfasst Stoffentwicklung, redaktionelle Produktionsbetreuung sowie die Repräsentation von Degeto auf Festivals und in filmpolitischen Diskussionen. Vorausgesetzt werden mehrjährige Redaktions- und Produktionserfahrung, fundierte Kenntnisse der Film- und TV-Landschaft sowie Führungskompetenzen und Expertise in Budgetierung und Produktionssteuerung.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Wie Medienhäuser mit der „Frage des Tages“ ihren direkten Traffic steigern (Sponsored Post) Die...",
+          "link": "https://kress.de/news/beitrag/151476-wie-medienhaeuser-mit-der-frage-des-tages-ihren-direkten-traffic-steigern-sponsored-post.html",
+          "summary": "Medienhäuser setzen zunehmend auf wiederkehrende Formate wie die „Frage des Tages\" von Pinpoll, um direkten Traffic zu generieren und den Rückgang durch Google's AI-Features zu kompensieren. Durch tägliche interaktive Umfragen auf der Startseite entwickeln Nutzer eine Gewohnheit, regelmäßig die Website zu besuchen, was zur Bindung der eigenen Community beiträgt. Mehrere Publisher wie nw.de, rp-online.de und salzburg24.at nutzen bereits dieses Format erfolgreich zur langfristigen Reichweitenstabilisierung.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Bauer Media Group sucht einen Digital Content Lead (m/w/d) Food & Nutrition in Hamburg Die Bauer...",
+          "link": "https://kress.de/news/beitrag/151475-bauer-media-group-sucht-einen-digital-content-lead-m-w-d-food-amp-nutrition-in-hamburg.html",
+          "summary": "Die Bauer Media Group sucht einen Digital Content Lead (m/w/d) für den Bereich Food & Nutrition in Hamburg, der für die Umsetzung der Content-Strategie, Budgetverantwortung, Qualitätssicherung und Führung des Redaktionsteams zuständig ist. Vorausgesetzt werden ein Studium in Kommunikationswissenschaften, Marketing oder Journalismus sowie mindestens fünf Jahre Erfahrung in Content-Erstellung, Strategie und Teamführung. Die Position erfordert Expertise in crossfunktionaler Teamleitung und verschiedenen Content-Formaten sowie Distributionskanälen.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "500 Journalisten, arbeiten für RTL Deutschland.",
-          "link": "https://kress.de/news/beitrag/151470-streaming-first-rtl-deutschland-setzt-600-stellen-auf-die-streichliste.html",
-          "summary": "RTL Deutschland baut im Zuge seiner \"Streaming-First\"-Strategie rund 600 von 7.500 Stellen ab, da die TV-Werbeumsätze seit 2019 um über 20 Prozent eingebrochen sind. Der Konzern hat Milliarden in RTL+ investiert, das von 0,8 auf 6,6 Millionen zahlende Abonnenten wuchs und 2026 erstmals profitabel werden soll. CEO Stephan Schmitter begründet den Umbau mit der beschleunigten Nutzungsverlagerung zu Streaming und der geplanten Sky-Übernahme.",
+          "title": "Sebastian Vesper und Oberauer gehen nach 10 Jahren getrennte Wege Ende Februar 2026 verlässt...",
+          "link": "https://kress.de/news/beitrag/151471-sebastian-vesper-und-oberauer-gehen-nach-10-jahren-getrennte-wege.html",
+          "summary": "Sebastian Vesper verlässt Ende Februar 2026 nach 10 Jahren den Medienfachverlag Oberauer, wo er seit März 2016 das Berliner Büro leitete und als langjähriger Chefredakteur des \"PR Report\" tätig war. In seiner Zeit entwickelte er neue Geschäftsmodelle, baute Branchenwettbewerbe wie die PR Report Awards aus und steuerte das Kongressgeschäft erfolgreich durch die Pandemie. Die einvernehmliche Trennung wird von beiden Seiten positiv bewertet, Vesper plant zunächst eine Auszeit bevor er ein neues berufliches Kapitel beginnt.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Hubert Burda Media sucht einen Chef vom Dienst (m/w/d) in Hamburg Hubert Burda Media möchte sich verstärken.",
+          "link": "https://kress.de/news/beitrag/151469-hubert-burda-media-sucht-einen-chef-vom-dienst-m-w-d-in-hamburg.html",
+          "summary": "Hubert Burda Media sucht einen Chef vom Dienst für den Standort Hamburg, der die Koordination und Steuerung des gesamten Print-Produktionsprozesses verantwortet. Die Position umfasst die Planung und Überwachung von Heftstrukturen, Terminen und Workflows sowie die enge Zusammenarbeit mit allen relevanten Abteilungen von Redaktion bis Druckerei. Vorausgesetzt werden fundierte Kenntnisse im Print-Produktionsprozess, mehrjährige Redaktionserfahrung und sicherer Umgang mit Redaktionssystemen wie K4 und InDesign.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Wagner-Erbe bei Bild: Martenstein schreibt künftig die Seite-2-Kolumne Harald Martenstein übernimmt die legendäre Bild-Kolumne „Post von Wagner“. Unter welchem Titel er das Format auf Seite zwei weiterführt",
+          "link": "https://kress.de/news/beitrag/151468-wagner-erbe-bei-bild-martenstein-schreibt-kuenftig-die-seite-2-kolumne.html",
+          "summary": "Harald Martenstein übernimmt ab Februar 2026 die legendäre Bild-Kolumne „Post von Wagner\" als Nachfolger des im Oktober verstorbenen Franz Josef Wagner und führt sie unter dem Titel „Mail von Martenstein\" von Montag bis Freitag auf Seite zwei fort. Der mehrfach preisgekrönte Journalist und Autor wird parallel seine wöchentliche Kolumne in der Welt am Sonntag weiterführen. Bild-Chefredakteurin Marion Horn würdigt Martenstein als „gleichermaßen amüsant und furchtlos\" und sieht in der Fortsetzung der Kultkolumne sowohl Verantwortung als auch Ehre.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "TV-Quoten & Streaming-Charts ARD-Krimi \"Schattenmord\" besiegt beinahe Bayern München und den...",
+          "link": "https://meedia.de/news/beitrag/20698-ard-krimi-quot-schattenmord-quot-besiegt-beinahe-bayern-muenchen-und-den-dfb-pokal.html",
+          "summary": "Der ARD-Krimi \"Schattenmord: Unter Feinden\" erreichte mit 5,19 Millionen Zuschauern (21,8% Marktanteil) nur knapp weniger Publikum als das parallel laufende DFB-Pokal-Achtelfinale Bayern München gegen Union Berlin im ZDF (5,22 Millionen, 23,3% Marktanteil). Während der Fußball beim jungen Publikum dominierte, zeigt das Ergebnis die außergewöhnliche Zugkraft des ARD-Krimis gegen starke Sport-Konkurrenz. Auch ZDFneo punktete mit \"Wilsberg\" (0,97 Mio.) und \"Nord Nord Mord\" (1,68 Mio., 8,8% Marktanteil) auf Kosten der Privatsender.",
+          "score": 9
+        },
+        {
+          "source": "meedia",
+          "title": "Privatradio aus Ulm Daniel Lutz geht zu Radio 7 Zum 1.",
+          "link": "https://meedia.de/news/beitrag/20697-daniel-lutz-geht-zu-radio-7.html",
+          "summary": "Daniel Lutz wird zum 1. April 2026 neuer Programmdirektor bei Radio 7 in Ulm und wechselt damit von seinem aktuellen Posten als Programmdirektor bei Klassik Radio. Der erfahrene Radiomacher, der zuvor bei Hitradio RT1 und Antenne Bayern tätig war, folgt auf Karsten Wellert, der seinerseits zu Antenne Bayern in die Führungsebene wechselt. Parallel übernimmt im Januar Tobias Krohn die Geschäftsführung des zur Neuen Pressegesellschaft Ulm gehörenden Regionalsenders.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Sponsored Post Intimissimi & Germany’s Next Topmodel: die Kraft nativer Markeninszenierung Was passiert, wenn eines der erfolgreichsten deutschen TV-Formate nicht nur als Werbefläche dient, sondern zu einer echten Markenbühne wird? Die Partnerschaft zwischen Intimissimi und Germany’s Next Topmodel liefert darauf eine klare Antwort. Sie zeigt, wie Marken ihre Geschichte nahtlos in die Handlung bestehender TV-Shows integrieren können und über alle Kanäle hinweg",
+          "link": "https://meedia.de/news/beitrag/20671-intimissimi-amp-germany-s-next-topmodel-die-kraft-nativer-markeninszenierung.html",
+          "summary": "Die Partnerschaft zwischen Intimissimi und Germany's Next Topmodel demonstriert erfolgreiche native Markeninszenierung durch 360°-Integration über TV, Streaming und digitale Kanäle hinweg. Das Herzstück bildet ein fest in die Show integriertes Intimissimi-Casting, bei dem eine GNTM-Kandidatin zum Kampagnengesicht wird - dramaturgisch relevant und emotional in die Story eingebunden. Diese seit drei Jahren bestehende Kooperation zeigt, wie Marken durch nahtlose Integration in TV-Formate stärkere Wirkung als klassische Werbung erzielen können.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Gemeinsame Erklärung Verlegerverbände und ARD fordern, \"Tech-Monopole\" an die Kette zu legen Das...",
+          "link": "https://meedia.de/news/beitrag/20694-verlegerverbaende-und-ard-fordern-quot-tech-monopole-quot-an-die-kette-zu-legen.html",
+          "summary": "Das \"Bündnis Zukunft Presse\" (BDZV und MVFP) hat gemeinsam mit der ARD eine Erklärung veröffentlicht, die die Politik zur Regulierung von \"Tech-Monopolen\" auffordert, um die Unabhängigkeit von Presse und Rundfunk zu schützen. Die Medienvertreter fordern faire Rahmenbedingungen, insbesondere die Sichtbarkeit ihrer Inhalte auf Tech-Plattformen, urheberrechtlichen Schutz vor missbräuchlicher KI-Nutzung und Transparenz bei Algorithmen. ARD-Vorsitzender Hager warnt, dass das deutsche Mediensystem zwar derzeit stabil sei, dies aber nur durch gemeinsames Handeln von privaten und öffentlichen Medien erhalten werden könne.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Projekte, Events, Kampagnen TopJob Projektmanager Events & Awards m/w/d Johann Oberauer GmbH Berlin",
+          "link": "https://meedia.de/jobs/job-details/15510-projektmanager-events-awards-m-w-d.html",
+          "summary": "Die Johann Oberauer GmbH sucht einen Projektmanager Events & Awards (m/w/d) in Vollzeit für Berlin zur eigenständigen Planung und Umsetzung von Branchenevents wie dem Medien Camp, PR Report Awards und European Publishing Congress. Die Position erfordert Erfahrung im Event-/Awardmanagement, starke Organisationsfähigkeiten und umfasst Aufgaben wie Dienstleister-Koordination, Budgetverantwortung und Zusammenarbeit im Event-Team. Das Unternehmen bietet eigenverantwortliches Arbeiten in spannenden Medien- und Kommunikationsprojekten.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Neuer Streamingdienst Starttermin, Preis, Pakete, Inhalte: alle Details zum Deutschland-Start von HBO Max Warner Bros.",
+          "link": "https://meedia.de/news/beitrag/20692-starttermin-preis-pakete-inhalte-alle-details-zum-deutschland-start-von-hbo-max.html",
+          "summary": "HBO Max startet am 13. Januar 2025 in Deutschland und dem DACH-Raum mit einem gestaffelten Preismodell von 6 Euro (werbefinanziert) bis 17 Euro monatlich. Der Dienst setzt auf HBO-Premiumcontent wie das \"Game of Thrones\"-Prequel \"A Knight of the Seven Kingdoms\" sowie lokale Eigenproduktionen wie \"Banksters\" und das geplante \"4 Blocks\"-Prequel. Bestehende HBO-Serien bleiben vorerst nicht-exklusiv aufgrund laufender Sky-Verträge, während neue Produktionen direkt exklusiv auf der Plattform erscheinen.",
           "score": 10
         },
         {
-          "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts \"Marie Brand\" und \"Bauer sucht Frau\" halten sich gut gegen den...",
-          "link": "https://meedia.de/news/beitrag/20687-quot-marie-brand-quot-und-quot-bauer-sucht-frau-quot-halten-sich-gut-gegen-den-dfb-pokal.html",
-          "summary": "Das DFB-Pokal-Spiel zwischen Borussia Dortmund und Bayer Leverkusen dominierte am Dienstag das lineare TV mit 5,12 Millionen Zuschauern (23,6% MA) und herausragenden 30,6% bei den 14-49-Jährigen. Trotz der starken Fußball-Konkurrenz erzielten die ZDF-Krimi-Wiederholung \"Marie Brand\" mit 4,18 Millionen Zuschauern (17,1% MA) und RTLs \"Bauer sucht Frau\" mit 2,90 Millionen (12,4% MA) solide Quoten.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "tv erweitert ihr Angebot um sieben FAST-Kanäle von RTL Deutschland.",
-          "link": "https://meedia.de/news/beitrag/20688-waipu-tv-startet-sieben-fast-kanaele-von-rtl-deutschland.html",
-          "summary": "Die TV-Streaming-Plattform waipu.tv erweitert ihr Angebot um sieben FAST-Kanäle von RTL Deutschland, wobei drei Kanäle (\"RTL Comedy\", \"RTL Shine\", \"RTL Haus & Garten\") bereits verfügbar sind und vier weitere am 9. Dezember starten. Die neuen thematischen Kanäle bieten ganze Episoden beliebter RTL-Formate wie \"Shopping Queen\", \"Bauer sucht Frau\" oder \"Alles was zählt Classics\" und erweitern das Angebot der Plattform mit über 300 Sendern für ihre rund zwei Millionen Abokunden.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Rotstift regiert DB-Fernverkehr-Vorständin Stefanie Berk verlässt die Bahn Der Umbau bei der...",
-          "link": "https://meedia.de/news/beitrag/20682-db-fernverkehr-vorstaendin-stefanie-berk-verlaesst-die-bahn.html",
-          "summary": "Stefanie Berk, Vorständin für Marketing und Vertrieb der DB Fernverkehr AG, verlässt Ende des Jahres die Deutsche Bahn im Zuge der Strukturreformen unter der neuen Konzernchefin Evelyn Palla. Das gesamte Ressort Marketing und Vertrieb wird zum 1. Februar 2026 aufgelöst und in den Bereich des Vorstandsvorsitzenden Michael Peterson integriert. Der Schritt ist Teil der konzernweiten Verschlankung und Kosteneinsparungen, die bereits zu weiteren Personalabgängen im Marketing- und Kommunikationsbereich geführt haben.",
+          "source": "Guardian Media",
+          "title": "BBC criticised for plan to cover some World Cup 2026 games remotely",
+          "link": "https://www.theguardian.com/football/2025/dec/03/bbc-criticised-for-plan-to-cover-some-world-cup-2026-games-remotely",
+          "summary": "Die BBC plant aufgrund steigender Kosten, einige Spiele der WM 2026 remote von ihrer Basis in Salford aus zu kommentieren, statt Kommentatoren zu allen Spielen in die USA, Kanada und Mexiko zu entsenden. Diese beispiellose Kostensparmaßnahme soll vor allem bei weniger nachgefragten Spielen des auf 48 Teams erweiterten Turniers angewendet werden, während wichtige Spiele und alle Partien der britischen Nationalteams weiterhin vor Ort begleitet werden sollen. Die Entscheidung wird von Branchenexperten kritisiert, da sie die Qualität der Berichterstattung beeinträchtigen könnte.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "ITV to show every England Test from 2026 after agreeing new £80m deal",
-          "link": "https://www.theguardian.com/sport/2025/dec/02/itv-tnt-sports-win-rights-broadcast-england-rugby-union-test-nations-championship",
-          "summary": "ITV hat sich die Übertragungsrechte für die neue Nations Championship ab 2026 mit einem £80m-Deal gesichert, wodurch alle England Rugby-Länderspiele frei empfangbar im terrestrischen Fernsehen gezeigt werden. Das neue 12-Team-Turnier umfasst die Six Nations plus sechs südliche Hemisphäre-Teams und ergänzt ITVs bestehende £63m-Partnerschaft mit der BBC für die Six Nations Championship. Die Rechtevereinbarung läuft über mindestens drei Jahre und stellt eine bedeutende Stärkung der TV-Präsenz für Rugby Union dar.",
-          "score": 9
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Virgin Media fined £23.8m for putting vulnerable customers at risk",
-          "link": "https://www.theguardian.com/media/2025/dec/01/virgin-media-fined-vulnerable-customers-landline-ofcom",
-          "summary": "Ofcom hat Virgin Media mit einer Rekordstrafe von £23,8 Millionen belegt, weil das Unternehmen zwischen August 2022 und Dezember 2023 bei der Migration von analog zu digital tausende vulnerable Kunden mit Telecare-Alarmsystemen gefährdete. Virgin Media versäumte es, Kunden mit lebensrettenden Alarmanlagen ordnungsgemäß zu identifizieren und zu schützen, wodurch deren Geräte zeitweise nicht mehr mit Notfall-Callcentern kommunizieren konnten. Das Unternehmen meldete die schwerwiegenden Vorfälle selbst und räumte Fehler bei der Migrationsstrategie ein.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Move over, Murdoch: will Lord Rothermere be Britain’s most powerful media mogul?",
-          "link": "https://www.theguardian.com/news/ng-interactive/2025/nov/29/will-lord-rothermere-britain-most-powerful-media-mogul",
-          "summary": "Lord Rothermere, Eigentümer der Daily Mail, verfolgt seit 2004 das Ziel, die Telegraph-Titel zu erwerben, um ein konservatives Medienimperium zu schaffen, das Rupert Murdochs politischen Einfluss herausfordern könnte. Nach zwei gescheiterten Übernahmeversuchen anderer Interessenten für die 2023 zum Verkauf stehenden Telegraph-Zeitungen hat der 57-jährige Rothermere nun seinen Schritt unternommen. Die jahrhundertelange Tradition der Rothermere-Familie im britischen Zeitungsgeschäft und ihr langfristiges strategisches Denken in Generationen verschafft ihnen einen Vorteil bei solchen Übernahmen.",
+          "title": "Misha Glenny to present BBC Radio 4 ‘institution’ In Our Time",
+          "link": "https://www.theguardian.com/media/2025/dec/03/misha-glenny-bbc-radio-4-in-our-time-melvyn-bragg",
+          "summary": "Misha Glenny, 67-jähriger preisgekrönter Journalist und Autor, übernimmt ab 15. Januar die Moderation der BBC Radio 4-Sendung \"In Our Time\" von Melvyn Bragg, der nach über 27 Jahren und 1.000 Episoden im September ausschied. Die 1998 gestartete Sendung gehört zu den meistgehörten On-Demand-Programmen der BBC weltweit und behandelt Themen aus Geschichte, Philosophie, Wissenschaft und Kultur mit führenden Akademikern.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Jeremy Clarkson Says He Doesn’t Believe ‘The Traitors’ Gameplay Is Real",
-          "link": "https://deadline.com/2025/12/jeremy-clarkson-does-not-believe-the-traitors-is-real-1236634251/",
-          "summary": "Jeremy Clarkson äußerte Zweifel an der Authentizität der BBC-Show \"The Traitors\" und vermutet trotz seiner Begeisterung für das Format eine versteckte Produktionseinmischung, da seiner 30-jährigen TV-Erfahrung nach kein Sender das Risiko eingehen würde, eine teure Show komplett unkontrolliert laufen zu lassen. Studio Lambert weist diese Vorwürfe zurück und betont ihre \"hands-off\"-Produktionsphilosophie, bei der die Kandidaten nach der initialen Spielerklärung eigenständig agieren. Clarkson lehnte eine Teilnahme an der Celebrity-Version ab und verwies auf seine bereits zahlreichen beruflichen Verpflichtungen.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "HBO Max 2026 Launch Date For Germany, Italy & More Revealed",
-          "link": "https://deadline.com/2025/12/hbo-max-germany-italy-2026-launch-date-january-1236634223/",
-          "summary": "HBO Max startet am 13. Januar 2026 in Deutschland, Italien, Österreich, der Schweiz, Luxemburg und Liechtenstein und markiert damit eine wichtige europäische Expansion von Warner Bros. Discovery. Für die Markteinführung produziert der Streaming-Service lokale Originals, darunter die deutschen Serien \"4 Blocks Zero\" und \"Banksters\" sowie italienische Produktionen wie \"Portobello\" von Marco Bellocchio. Der Start in Großbritannien bleibt weiterhin unbestimmt.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Netflix Teams With Gary Lineker To Stream Daily ‘The Rest Is Football’ Show During FIFA World Cup",
-          "link": "https://deadline.com/2025/12/netflix-gary-lineker-the-rest-is-football-fifa-world-cup-1236634235/",
-          "summary": "Netflix kooperiert mit Gary Lineker für eine tägliche Version seines Podcasts \"The Rest Is Football\" während der FIFA WM 2026, die aus einem New Yorker Studio mit Alan Shearer und Micah Richards produziert wird. Der Deal erfolgt nach Linekers kontroversem Abgang bei der BBC im Mai 2024 aufgrund eines Instagram-Posts zum Gaza-Konflikt. Netflix besitzt keine Live-Übertragungsrechte für WM-Spiele, daher wird sich das Format auf Analyse und Gäste konzentrieren, während Fox (USA) und BBC/ITV (UK) die Spielerechte halten.",
+          "title": "Simon Pegg Film ‘Angels In The Asylum’ In Talks With Rescue Investor, But “Unlikely” To Fully Repay $5M Owed To Creditors",
+          "link": "https://deadline.com/2025/12/simon-pegg-angels-in-the-asylum-rescue-investor-1236634838/",
+          "summary": "Der britische Indie-Film \"Angels In The Asylum\" mit Simon Pegg musste nach 15 von 30 Drehtagen im Februar aufgrund fehlender Finanzierung gestoppt werden und hinterließ Schulden von 5 Millionen Dollar bei Cast, Crew und anderen Gläubigern. Die Produktionsfirma AITA Films befindet sich seit April im Insolvenzverfahren und führt derzeit detaillierte Gespräche mit einem potenziellen Rettungsinvestor. Die Insolvenzverwalter warnen jedoch, dass eine vollständige Rückzahlung aller Schulden \"unwahrscheinlich\" ist, obwohl sie im Juli noch eine komplette Begleichung der Forderungen erwartet hatten.",
           "score": 9
         },
         {
           "source": "Deadline",
-          "title": "Netflix Defends Ted Sarandos Against Diddy’s ‘Reckoning’ Reproach & Legal Threats: “This Is Not A Hit Piece,” It Says Of Docuseries EP’d By 50 Cent",
-          "link": "https://deadline.com/2025/12/diddy-threatens-netflix-50-cent-lawsuit-1236633472/",
-          "summary": "Netflix verteidigt sich gegen Vorwürfe von Sean \"Diddy\" Combs, die Dokumentarserie \"Sean Combs: The Reckoning\" sei ein \"Hit Piece\" und Akt der Vergeltung, nachdem Combs' Anwälte in einem Unterlassungsschreiben behaupteten, CEO Ted Sarandos habe aus Rache Executive Producer 50 Cent engagiert. Der Streaming-Dienst weist alle Anschuldigungen zurück und betont, dass 50 Cent keine kreative Kontrolle hatte, niemand für die Teilnahme bezahlt wurde und alle verwendeten Aufnahmen legal beschafft wurden. Combs plant nun formelle rechtliche Schritte gegen Netflix einzuleiten.",
+          "title": "Jon M. Chu Signs First Look Deal With Paramount",
+          "link": "https://deadline.com/2025/12/jon-m-chu-paramount-1236635538/",
+          "summary": "Jon M. Chu hat einen dreijährigen First-Look-Deal mit Paramount unterzeichnet, der ab Januar 2026 in Kraft tritt und ihm ermöglicht, Film- und TV-Projekte für das Studio zu entwickeln und zu produzieren. Der Deal folgt auf Chus kommerzielle Erfolge mit den \"Wicked\"-Filmen, die Rekorde für Broadway-Adaptionen brachen, sowie seinem früheren Hit \"Crazy Rich Asians\". Chu und seine Produktionsfirma werden auf dem Paramount-Gelände angesiedelt und eng mit den Studio-Führungskräften zusammenarbeiten.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "American Society Of Cinematographers Will Honor Robert Yeoman With Lifetime Achievement Award At 40th Annual Gala",
+          "link": "https://deadline.com/2025/12/asc-robert-yeoman-lifetime-achievement-award-1236635526/",
+          "summary": "Die American Society of Cinematographers ehrt Robert Yeoman, langjährigen Kameramann und Wes Anderson-Kollaborateur, mit dem Lifetime Achievement Award bei der 40. ASC-Gala am 8. März 2026. Yeoman, bekannt für seine präzise visuelle Handschrift in Filmen wie \"The Grand Budapest Hotel\", \"Moonrise Kingdom\" und \"Asteroid City\", wird für seinen nachhaltigen Einfluss auf die Kinematografie ausgezeichnet. Die Veranstaltung im Beverly Hilton wird global live gestreamt und würdigt zusätzlich M. David Mullen mit dem Career Achievement in Television Award.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Jon M. Chu Inks First-Look Deal With Paramount",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/jon-m-chu-first-look-deal-paramount-1236441989/",
+          "summary": "Jon M. Chu, Regisseur von \"Wicked\" und \"Crazy Rich Asians\", hat einen dreijährigen First-Look-Deal mit Paramount Pictures und Paramount Television Studios unterzeichnet, der ab Januar 2026 in Kraft tritt. Trotz Bemühungen von Warner Bros. und Universal, ihn zu halten bzw. zu gewinnen, entschied sich Chu für Paramount, das unter David Ellisons Skydance-Führung aggressiv Top-Talente wie die Duffer Brothers, James Mangold und Will Smith verpflichtet. Der Deal kommt nach dem Rekorderfolg von \"Wicked\", das die größte weltweite Eröffnung einer Broadway-Verfilmung aller Zeiten erzielte.",
           "score": 9
         },
         {
-          "source": "Deadline",
-          "title": "Guillermo Del Toro To Receive BFI Fellowship",
-          "link": "https://deadline.com/2025/12/guillermo-del-toro-to-receive-bfi-fellowship-frankenstein-1236632979/",
-          "summary": "Das British Film Institute ehrt Guillermo del Toro mit seinem höchsten Auszeichnung, dem BFI Fellowship, in Anerkennung seines außergewöhnlichen Beitrags zum Film und seiner künstlerischen Vielseitigkeit in Animation und Live-Action. Die Verleihung findet im Mai 2026 in London statt und wird von einer Retrospektive, Masterclasses für Nachwuchsfilmer und der 4K-Wiederveröffentlichung seines Debütfilms Cronos (1992) begleitet. Del Toros jüngster Netflix-Film Frankenstein (2025) wurde teilweise in Großbritannien gedreht, was seine enge Verbindung zum britischen Kino unterstreicht.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "‘The Traitors’ Heading To Korea Hosted By Cha Seung-Won",
-          "link": "https://deadline.com/2025/12/the-traitors-korea-hosted-cha-seung-won-1236633104/",
-          "summary": "Der koreanische Schauspieler Cha Seung-won wird die lokale Adaption der internationalen Reality-Show \"The Traitors\" moderieren, produziert von Luyworks Media und Something Special. Das Format, bei dem \"Faithfuls\" versuchen \"Traitors\" zu entlarven, wurde bereits in über 30 Ländern erfolgreich adaptiert und gilt als globales Phänomen. Die koreanische Version soll laut Produzent Yul Han \"K-Content auf das nächste Level\" bringen.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Prime Minister,’ Starring New Zealand’s Dynamic Former Leader Jacinda Ardern, Prepares For Ballot Of Oscar Doc Branch Voters",
-          "link": "https://deadline.com/2025/12/prime-minister-lindsay-utz-interview-jacinda-ardern-documentary-1236633829/",
-          "summary": "Die Dokumentation \"Prime Minister\" über Neuseelands ehemalige Premierministerin Jacinda Ardern feierte bei Sundance 2025 Weltpremiere und wurde anschließend von Magnolia Pictures, HBO Documentary Films und CNN Films akquiriert. Der Film von Lindsay Utz und Michelle Walshe beleuchtet Arderns ungewöhnlichen Aufstieg zur Parteichefin der Labour Party 2017 im Alter von 37 Jahren, nachdem ihr Vorgänger nach schlechten Umfrageergebnissen zurückgetreten war. Die Dokumentation, die nun auf HBO Max und CNN streambar ist, porträtiert Ardern als authentische Politikerin, die ohne das übliche politische Image-Coaching auskam.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Gina Lollobrigida Docuseries, ‘Struwwelpeter’ Thriller From ‘Dark’ Creators Among Upcoming Local HBO Max Europe Originals",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/gina-lollobrigida-docu-series-struwwelpeter-hbo-max-europe-1236439527/",
-          "summary": "HBO Max Europa kündigte mehrere lokale Original-Produktionen an, darunter eine Gina Lollobrigida-Dokumentarserie aus Italien und deutsche Formate wie \"4 Blocks Zero\" sowie \"Banksters\". Besonders hervorzuheben ist eine Thriller-Serie der \"Dark\"-Schöpfer Jantje Friese und Baran Bo Odar, die das klassische Kinderbuch \"Struwwelpeter\" als düstere Realität adaptiert.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "HBO Max Sets Launches in Germany, Italy, and More Markets for Jan. 13",
-          "link": "https://www.hollywoodreporter.com/business/business-news/hbo-max-germany-italy-launch-switzerland-jan-13-2026-1236439493/",
-          "summary": "HBO Max expandiert am 13. Januar 2025 in sechs neue europäische Märkte (Deutschland, Italien, Österreich, Schweiz, Luxemburg und Liechtenstein), gefolgt von Großbritannien und Irland Anfang 2026. Die Expansion erfolgt in Schlüsselmärkten, wo HBO Max-Inhalte bisher exklusiv über Comcasts Sky verfügbar waren. Als besonderes Highlight wird HBO Max erstmals die Olympischen Winterspiele Milano Cortina 2026 live für alle Abonnenten übertragen.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "‘The Rest Is Football’ Podcast Heading to Netflix for 2026 World Cup",
-          "link": "https://www.hollywoodreporter.com/business/business-news/rest-is-football-podcast-netflix-2026-world-cup-1236440841/",
-          "summary": "Netflix hat sich die Rechte an \"The Rest Is Football\", einem der weltweit größten Sport-Podcasts, für die FIFA Weltmeisterschaft 2026 gesichert. Die Hosts Gary Lineker, Micah Richards und Alan Shearer werden täglich aus einem New Yorker Studio senden und das Turnier sowie das englische Team ausführlich analysieren. Der Deal ist Teil von Netflixs Strategie zur Expansion im Sport-Content-Bereich und im Video-Podcasting-Markt, um gegen YouTube zu konkurrieren.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Guillermo del Toro to Receive BFI Fellowship Honor",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/guillermo-del-toro-to-receive-bfi-fellowship-1236439309/",
-          "summary": "Der mexikanische Regisseur Guillermo del Toro erhält das BFI Fellowship, die höchste Auszeichnung des British Film Institute, und reiht sich damit in die Liga von Filmgrößen wie David Lean, Akira Kurosawa und Martin Scorsese ein. Die Ehrung würdigt seinen außergewöhnlichen Beitrag zum Film durch Werke wie \"The Shape of Water\" und \"Pan's Labyrinth\" sowie seine distinctive künstlerische Handschrift in Animation und Live-Action. Die Auszeichnung wird im Mai 2024 in London überreicht und umfasst eine Retrospektive seiner Arbeiten sowie Masterclasses für Nachwuchsfilmemacher.",
+          "source": "Variety",
+          "title": "‘Demon Slayer,’ ‘Cyberpunk: Edgerunners’ Lead Data Showing Anime Is Asia Pacific’s Most Underused Growth Engine",
+          "link": "https://variety.com/2025/tv/markets-festivals/demon-slayer-cyberpunk-edgerunners-apac-anime-demand-gap-1236599569/",
+          "summary": "Neue Daten von Ampere Analysis zeigen, dass Anime die am stärksten untergenutzte Wachstumschance für Streaming-Plattformen im asiatisch-pazifischen Raum darstellt, obwohl die Region die weltweit größte Anime-Zuschauerbasis beherbergt. Die Anzahl verfügbarer japanischer Anime-Titel auf globalen SVoD-Plattformen außerhalb Japans ist in fünf Jahren um 80% gestiegen (von 4.397 in 2021 auf geschätzte 7.865 bis Q4 2025), während lokale Streaming-Dienste weiterhin deutlich hinter globalen Konkurrenten zurückbleiben. Besonders in Märkten wie den Philippinen (59% der Internetnutzer) und Indonesien (50%) zeigt sich eine starke Anime-Affinität, die von lokalen Plattformen noch nicht ausreichend bedient wird.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "HBO Max Sets Jan. 13 Launch in Italy, Germany and Other Key European Markets",
-          "link": "https://variety.com/2025/streaming/global/hbo-max-launch-italy-germany-austria-jan-13-1236597237/",
-          "summary": "HBO Max startet am 13. Januar 2025 in Deutschland, Italien, Österreich, der Schweiz, Luxemburg und Liechtenstein und vervollständigt damit fast die europäische Expansion (nur UK und Irland fehlen noch). Der Launch umfasst das komplette Portfolio von HBO, Warner Bros. und DC Universe sowie neue lokale Produktionen wie die \"4 Blocks\"-Prequel-Serie \"4 Blocks Zero\" in Deutschland und die Drama-Serie \"Melania\" in Italien. Der Zeitpunkt ist strategisch vor den Olympischen Winterspielen Milano Cortina 2026 gewählt, die live auf der Plattform übertragen werden.",
-          "score": 10
+          "title": "Jon M. Chu Moves First-Look Film and TV Deal to Paramount",
+          "link": "https://variety.com/2025/film/news/jon-m-chu-first-look-film-and-tv-deal-paramount-1236599477/",
+          "summary": "Jon M. Chu hat einen dreijährigen First-Look-Deal für Film und TV mit Paramount Skydance abgeschlossen, der am 2. Januar 2025 in Kraft tritt. Der \"Wicked\"-Regisseur wechselt damit von seinem vorherigen Warner Bros.-Deal zu dem von David Ellison geführten Studio, wo er sich in die Riege namhafter Filmemacher wie den Duffer-Brüdern, James Mangold und Will Smith einreiht. Der Deal erfolgt vor dem Hintergrund des enormen Erfolgs seiner \"Wicked\"-Filme, die Boxoffice-Rekorde brechen und Awards-Buzz generieren.",
+          "score": 9
         },
         {
           "source": "Variety",
-          "title": "‘The Stories’ and ‘Noor’ Among Highlights at Red Sea as Revamped Programming Team Keeps the Focus on Filmmaking",
-          "link": "https://variety.com/2025/film/festivals/red-sea-programmers-on-modified-film-versions-1236597511/",
-          "summary": "Das Red Sea Film Festival in Saudi-Arabien durchläuft in seiner fünften Edition (4.-13. Dezember) bedeutende programmatische Veränderungen unter der neuen Direktorin für internationale Programme, Fionnuala Halligan. Halligan hat ein komplett neues Programmteam zusammengestellt, das internationale Experten wie Mike Goodridge, Giovanna Fulvi und Deepti D'Cunha umfasst. Das Festival etabliert sich in seinem neuen Standort am Culture Square in Jeddah und strebt eine ganzjährige Filmprogrammierung an.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Red Sea Film Festival Chiefs Play Up ‘East Meets West’ Role as Industry Attendance Rises and Saudi Event Embraces Boxing Biopic ‘Giant’",
-          "link": "https://variety.com/2025/film/global/red-sea-film-festival-industry-saudi-boxing-biopic-giant-1236596152/",
-          "summary": "Das Red Sea Film Festival in Jeddah eröffnet mit der Nahost-Premiere des Boxerfilms \"Giant\" über den britisch-jemenitischen Boxer Naseem Hamed und positioniert sich als wichtiger Filmmarkt in der arabischen Region mit einem \"Ost trifft West\"-Konzept. Die Veranstalter sehen das Festival als größten Markt in der MENA-Region und betonen die inklusive Ausrichtung auf Asien und Afrika. Das Event findet vor dem Hintergrund der rasant wachsenden saudischen Film- und TV-Industrie statt.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "‘Mr. Men Little Miss’ Movie in the Works From ‘Paddington’ Producers Studiocanal and Heyday (EXCLUSIVE)",
-          "link": "https://variety.com/2025/film/global/paddington-studiocanal-heyday-men-little-miss-feature-film-1236597499/",
-          "summary": "Studiocanal und Heyday Films, die Produzenten der erfolgreichen \"Paddington\"-Filme, entwickeln gemeinsam mit Sanrio eine Kinoadaption der beliebten \"Mr. Men Little Miss\"-Buchreihe von Roger Hargreaves. Die seit 1971 erschienene Kinderbuchserie, die über 250 Millionen verkaufte Exemplare verzeichnet, wird damit erstmals für die große Leinwand adaptiert. Das Projekt zielt darauf ab, sowohl Kinder als auch Erwachsene weltweit anzusprechen, ähnlich wie es bereits bei der \"Paddington\"-Franchise erfolgreich gelungen ist.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "‘Nothing But Thirty’ Sequel ‘Only Thirty-Five’ in Works at Mediacorp, Linmon Media",
-          "link": "https://variety.com/2025/tv/markets-festivals/nothing-but-thirty-sequel-mediacorp-linmon-media-1236598204/",
-          "summary": "Singapurs Mediacorp und das chinesische Produktionshaus Linmon Media entwickeln gemeinsam \"Only Thirty-Five\", die Fortsetzung der erfolgreichen Serie \"Nothing But Thirty\", die über 5,5 Milliarden Views auf Tencent Video erzielte. Die Produktion beginnt 2026 mit Dreharbeiten in China und Singapur, wobei die Handlung der Protagonistin Gu Jia folgt, die nach ihrem 35. Geburtstag einen Neuanfang wagt und ein Haushaltsservice-Unternehmen gründet. Das Originalprojekt führte bereits zu Adaptionen in Thailand, Vietnam, Japan und Südkorea.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Red Sea Competition Film ‘Sink’ Debuts Trailer as Director Discusses Mental Health, Motherhood and Defying Western Tropes (EXCLUSIVE)",
-          "link": "https://variety.com/2025/film/global/zain-duraie-sink-red-sea-film-festival-trailer-1236597664/",
-          "summary": "Der jordanische Film \"Sink\" von Regisseurin Zain Duraie feiert seine Premiere im Wettbewerb des Red Sea Film Festivals und erzählt die persönliche Geschichte einer Mutter, die zunehmend verzweifelt versucht, ihren Teenager-Sohn vor dem Absturz in eine Geisteskrankheit zu bewahren. Das Drama mit Clara Khoury und Mohammad Nizir markiert Duraies ersten Langfilm nach ihrem preisgekrönten Kurzfilm \"Give Up the Ghost\" (2019) und behandelt bewusst Themen wie psychische Gesundheit und Mutterschaft jenseits westlicher Klischees über arabisches Kino.",
+          "title": "Australian Drama Production Hits Record $1.7 Billion, Driven by International Activity",
+          "link": "https://variety.com/2025/film/news/australian-drama-production-record-1236599470/",
+          "summary": "Die australische Drama-Produktion erreichte 2024/25 mit AUD$2,7 Milliarden ($1,78 Milliarden) einen Rekordwert und stieg um 43% gegenüber dem Vorjahr, wobei internationale Produktionen AUD$678 Millionen zum Wachstum beitrugen. Von 174 produzierten Titeln waren 71 australische Produktionen mit einem Volumen von AUD$1,1 Milliarden, was jedoch den Anteil lokaler Produktionen am Gesamtvolumen von 50% auf 40% sinken ließ. Das Wachstum wurde hauptsächlich durch hochbudgetierte Spielfilme und Streaming-Produktionen getrieben, während die Anzahl der TV-Titel über verschiedene Plattformen rückläufig war.",
           "score": 7
         }
       ]
