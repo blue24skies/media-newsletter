@@ -1,63 +1,126 @@
 {
   "newsletters": [
     {
-      "date": "2025-12-07",
+      "date": "2025-12-08",
       "articles": [
         {
-          "source": "Horizont Medien",
-          "title": "Mega-Deal: Netflix übernimmt Warner Bros. für 82,7 Milliarden Dollar",
-          "link": "https://www.horizont.net/medien/nachrichten/mega-deal-netflix-uebernimmt-warner-bros.-fuer-827-milliarden-dollar-232276?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Netflix übernimmt Warner Bros. für 82,7 Milliarden US-Dollar (ca. 71 Mrd. Euro) und vollzieht damit die größte Medienübernahme der jüngeren Geschichte. Die Transaktion erfolgt nach der Abspaltung des Discovery Global-Geschäftsbereichs von Warner und umfasst auch HBO.",
+          "source": "DWDL",
+          "title": "15,5 Milliarden Euro - aber nur ein Bruchteil von den Streamern",
+          "link": "https://www.dwdl.de/nachrichten/104810/155_milliarden_euro__aber_nur_ein_bruchteil_von_den_streamern/",
+          "summary": "Kulturstaatsminister Weimer verzichtet auf gesetzliche Investitionsverpflichtungen für Streamingdienste und setzt stattdessen auf freiwillige Selbstverpflichtungen, die insgesamt 15,5 Milliarden Euro für deutsche Produktionen (2026-2030) umfassen. Der für internationale Streaming-Anbieter relevante Anteil beträgt jedoch nur 1,83 Milliarden Euro über fünf Jahre (ca. 366 Mio. Euro jährlich), während eine gesetzliche Verpflichtung 1,4-2,18 Milliarden Euro jährlich eingebracht hätte. Der Großteil der zugesagten Summe entfällt auf bereits bestehende Investitionen deutscher öffentlich-rechtlicher und privater Sender.",
           "score": 10
         },
         {
-          "source": "kress",
-          "title": "Verfassungsgericht stärkt Spiegel bei Verdachtsberichterstattung Medien tragen bei...",
-          "link": "https://kress.de/news/beitrag/151477-wirecard-fall-verfassungsgericht-staerkt-spiegel-bei-verdachtsberichterstattung.html",
-          "summary": "Das Bundesverfassungsgericht hat eine wegweisende Entscheidung zur Pressefreiheit bei Verdachtsberichterstattung getroffen und dem Spiegel im Wirecard-Fall recht gegeben. Die Karlsruher Richter stellten klar, dass Medien nicht beweisen müssen, dass eine \"über den Anfangsverdacht hinausgehende Verurteilungswahrscheinlichkeit\" besteht – besonders bei verschleierungsanfälligen Wirtschaftsdelikten. Das Gericht kritisierte die Vorinstanzen dafür, das besondere öffentliche Interesse an der Wirecard-Aufarbeitung nicht angemessen gewürdigt zu haben.",
+          "source": "DWDL",
+          "title": "MagentaTV holt auch Mats Hummels als WM-Experten",
+          "link": "https://www.dwdl.de/nachrichten/104772/magentatv_holt_auch_mats_hummels_als_wmexperten/",
+          "summary": "MagentaTV hat Mats Hummels als dritten prominenten Experten für die WM 2026 verpflichtet und komplettiert damit das Team um Thomas Müller und Jürgen Klopp. Der Streaming-Dienst überträgt alle 104 WM-Spiele, davon 44 exklusiv, und hat bereits eine Sublizenzvereinbarung mit ARD und ZDF geschlossen. Hummels' erster Einsatz erfolgt bereits bei der WM-Gruppenauslosung am 5. Dezember ab 17:45 Uhr.",
           "score": 7
         },
         {
-          "source": "Guardian Media",
-          "title": "Warner Bros Disaster? Netflix inks deal for troubled Hollywood giant",
-          "link": "https://www.theguardian.com/media/2025/dec/06/warner-bros-discovery-netflix-deal",
-          "summary": "David Zaslav, CEO von Warner Bros Discovery, verhandelte 2021 eine Megafusion zwischen Discovery und WarnerMedia (HBO, CNN, Warner Bros Studios), versprach dabei allen Beteiligten große Gewinne. Jetzt, fast fünf Jahre später, plant Netflix eine landschaftsverändernde Übernahme von Warner Bros, während sich herausstellt, dass nur wenige von Zaslavs ursprünglichen Versprechen profitiert haben. Die Fusion, die als \"Deal seiner Karriere\" galt, entwickelt sich zu einem Desaster für den einst als Medienmogul gefeierten Zaslav.",
-          "score": 10
-        },
-        {
-          "source": "Guardian Media",
-          "title": "The New Yorker at 100: Netflix documentary dives inside a groundbreaking magazine",
-          "link": "https://www.theguardian.com/film/2025/dec/06/the-new-yorker-at-100-netflix-documentary",
-          "summary": "Regisseur Marshall Curry dokumentiert in seinem Netflix-Film \"The New Yorker at 100\" das renommierte Magazin anlässlich seines hundertjährigen Bestehens und gewährt dabei seltene Einblicke in Redaktionssitzungen und Archive. Der Film zeigt, wie sich das Magazin unter Chefredakteur David Remnick durch \"supreme self-assuredness\" als essenzielle Publikation in der schrumpfenden Medienlandschaft behauptet hat. Curry musste feststellen, dass die Arbeitsweise des New Yorker weniger dramatisch ist als erwartet - die charakteristische Gelassenheit der Redaktion bot wenig von der hektischen Deadline-Atmosphäre typischer Mediendarstellungen.",
+          "source": "Horizont Medien",
+          "title": "Letzte Show: Gottschalk überzieht nicht, geht früher und beschert RTL gute Quote",
+          "link": "https://www.horizont.net/medien/nachrichten/letzte-show-gottschalk-ueberzieht-nicht-geht-frueher-und-beschert-rtl-gute-quote-232292?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Thomas Gottschalks letzte RTL-Show erzielte einen starken Marktanteil von 16,7 Prozent in der werberelevanten Zielgruppe 14-49 Jahre und lag damit deutlich vor der Konkurrenz. Die Zuschauerzahlen der finalen Sendung werden nicht explizit genannt, die vorherigen Mai-Ausgaben erreichten 1,85 bzw. 1,65 Millionen Zuschauer. Gottschalk kündigte in der Sendung im Gespräch mit Günther Jauch sein komplettes Ende im Showgeschäft an.",
           "score": 8
         },
         {
-          "source": "Guardian Media",
-          "title": "New York Times sues AI startup for ‘illegal’ copying of millions of articles",
-          "link": "https://www.theguardian.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit",
-          "summary": "Die New York Times verklagt das KI-Startup Perplexity AI wegen angeblich illegaler Vervielfältigung von Millionen Artikeln ohne Genehmigung und Markenrechtsverletzungen durch falsche Zuschreibung von KI-generierten Inhalten. Die Klage ist Teil eines breiteren Rechtsstreits zwischen Medienunternehmen und Tech-Firmen über die unbefugte Nutzung urheberrechtlich geschützter Inhalte zum Training von KI-Systemen. Perplexity sieht sich bereits weiteren Klagen von Dow Jones, New York Post und Vorwürfen von Cloudflare wegen unerlaubter Web-Scraping-Aktivitäten gegenüber.",
+          "source": "Horizont Medien",
+          "title": "Übernahme: Trump will bei Warner-Deal von Netflix mitentscheiden",
+          "link": "https://www.horizont.net/medien/nachrichten/uebernahme-trump-will-bei-warner-deal-von-netflix-mitentscheiden-232288?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "US-Präsident Trump äußerte Bedenken bezüglich einer möglichen Übernahme von Warner Brothers durch Netflix, da er den hohen Marktanteil des Streaming-Dienstes als wettbewerbsrechtlich problematisch einstuft. Trump kündigte an, dass er sich aktiv in die anstehende Wettbewerbsprüfung einbringen werde.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "HORIZONT geht ins Kino: Diese Kinofilme sollten Sie im Frühjahr auf dem Schirm haben",
+          "link": "https://www.horizont.net/medien/nachrichten/horizont-geht-ins-kino-diese-kinofilme-sollten-sie-im-fruehjahr-auf-dem-schirm-haben-232107?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "HORIZONT stellt die wichtigsten Kinofilme für das erste Quartal 2026 vor, während die Branche bereits über die Zeit nach den aktuellen Weihnachts-Blockbustern wie \"Avatar - Fire and Ash\" hinausblickt. Zu den Highlights gehören Familienfilme wie neue \"Checker Tobi\"- und \"Drei ???\"-Produktionen, die Theateradaption \"Extrawurst\", Andy Weirs \"Der Astronaut\" sowie ein neuer Horst Schlämmer-Film. Die Übersicht richtet sich an Kinobetreiber und Filmvermarkter zur strategischen Planung.",
           "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Sanchez löst Senst an der Spitze von Springers Super-Redaktion ab Geplanter Übergang bei Axel Springers Premium-Gruppe.",
+          "link": "https://kress.de/news/beitrag/151484-sanchez-loest-senst-an-der-spitze-von-springers-super-redaktion-ab.html",
+          "summary": "Mathias Sanchez (41) übernimmt zum 1. Januar 2026 als CEO die Leitung von Axel Springers Premium-Gruppe (Welt, Politico Deutschland, Business Insider Deutschland) und löst damit Claudius Senst ab, der die Position übergangsweise nach Peter Würtenbergers gesundheitsbedingtem Rückzug innehatte. Der bisherige Media Impact-COO Sanchez will schwerpunktmäßig journalistische Exzellenz, Event-Formate und KI-getriebene Innovationen vorantreiben, während seine bisherige Position bei Media Impact an Benedikt Faerber übergeht.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "TV-Quoten & Streaming-Charts Thiel und Boerne holen den besten \"Tatort\"-Marktanteil seit 33 Jahren...",
+          "link": "https://meedia.de/news/beitrag/20712-thiel-und-boerne-holen-den-besten-quot-tatort-quot-marktanteil-seit-33-jahren.html",
+          "summary": "Der Münster-\"Tatort\" mit Thiel und Boerne erreichte im Dezember 2025 mit 11,63 Millionen Zuschauern einen Rekord-Marktanteil von 42,6 Prozent – den besten \"Tatort\"-Wert seit 1992. Obwohl die absoluten Zuschauerzahlen unter den Alltime-Rekorden von 2017 liegen, zeigt die Serie ihre anhaltende Dominanz im linearen Fernsehen. Bei den jungen Zuschauern erzielte der Krimi 30,1 Prozent Marktanteil, musste sich hier aber Konkurrenz von \"Das Duell um die Welt\" erwehren.",
+          "score": 10
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Trump warns Netflix’s $83bn deal for Warner Bros poses competition concerns",
+          "link": "https://www.theguardian.com/media/2025/dec/08/trump-netflix-warner-bros-takeover-deal-competition-concerns",
+          "summary": "Trump hat Bedenken bezüglich Netflix' 83 Milliarden Dollar Übernahme von Warner Bros geäußert und angekündigt, sich persönlich in die Genehmigungsentscheidung einzubringen, da die kombinierte Marktmacht \"problematisch\" sein könnte. Die Fusion würde Netflix über die 30%-Marktanteilsschwelle in den USA bringen und dem Konzern Kontrolle über wichtige Franchises wie Harry Potter, Batman sowie HBO-Produktionen verschaffen. Zahlreiche Branchenstimmen, einschließlich Hollywood-Gewerkschaften, fordern bereits eine Blockierung des Deals aufgrund von Wettbewerbsbedenken.",
+          "score": 10
         },
         {
           "source": "Guardian Media",
           "title": "Netflix agrees to buy Warner Bros Discovery studio and streaming business in $83bn deal",
           "link": "https://www.theguardian.com/business/2025/dec/05/netflix-frontrunner-warner-bros-discovery-streaming-and-studio-sale",
-          "summary": "Netflix erwirbt Warner Bros Discovery in einem 83-Milliarden-Dollar-Deal und übernimmt damit bedeutende Assets wie die Warner Bros Studios (Harry Potter, Batman), HBO (Game of Thrones, The White Lotus) sowie umfangreiche TV-Archive inklusive Friends und The Big Bang Theory. Die Transaktion, die nach der Abspaltung der Kabelkanäle wie CNN, TBS und TNT im dritten Quartal 2025 abgeschlossen werden soll, beinhaltet jedoch TNT Sports UK & Ireland für Premier League- und Champions League-Übertragungen. Der Deal umfasst eine Ausfallgebühr von 5,8 Milliarden Dollar seitens Netflix, falls keine regulatorische Genehmigung erteilt wird.",
+          "summary": "Netflix übernimmt Warner Bros Discovery für 82,7 Milliarden Dollar und erhält damit Kontrolle über das Warner Bros Studio (Harry Potter, Batman-Franchises), HBO (Game of Thrones, The White Lotus) sowie umfangreiche TV-Archive inklusive Friends und The Big Bang Theory. Der Deal schließt nach der geplanten Abspaltung der Kabelkanäle (CNN, TBS, TNT) im dritten Quartal 2025 ab, wobei Netflix die Sportrechte von TNT Sports UK & Ireland behält. Die Transaktion beinhaltet eine Ausfallgebühr von 5,8 Milliarden Dollar bei fehlender Regulierungsgenehmigung und wird die Hollywood-Landschaft grundlegend umgestalten.",
           "score": 10
         },
         {
-          "source": "Guardian Media",
-          "title": "Explaining UK debt with biscuits: Labour MPs get the hang of viral content",
-          "link": "https://www.theguardian.com/politics/2025/dec/05/labour-mp-gordon-mckee-video-explaining-uk-debt-biscuits-33m-views",
-          "summary": "Labour-Abgeordneter Gordon McKee erzielte über 3,3 Millionen Views auf X mit einem 101-Sekunden-Video, das Großbritanniens Schulden-zu-BIP-Verhältnis anhand von Keksstapeln erklärt. Als einziger Labour-Hinterbänkler mit eigenem Digital Content Creator produziert McKee professionelle, virale Inhalte und wird zunehmend von Kollegen nachgeahmt. Der Erfolg zeigt Labour's wachsende Bemühungen, Social Media für politische Kommunikation zu nutzen und komplexe Wirtschaftsthemen verständlich zu vermitteln.",
+          "source": "Deadline",
+          "title": "‘IT: Welcome To Derry’ Episode 7: Andy & Barbara Muschietti Unpack Origins Of Pennywise, Periwinkle & The Pillar – Crew Call Podcast",
+          "link": "https://deadline.com/2025/12/it-welcome-to-derry-episode-7-podcast-muschietti-interview-1236641432/",
+          "summary": "In Episode 7 von HBOs \"IT: Welcome to Derry\" enthüllen die Co-Creators Andy und Barbara Muschietti die Ursprünge von Pennywise und seiner \"Tochter\" Periwinkle, die zunächst unschuldig entertainen wollte, aber die finstere Wahrheit über ihren Vater erkennen muss. Die Episode führt zudem den Pfeiler als Element ein, das die Kreatur stoppen kann, während die Armee dessen wahre Macht unterschätzt. Die Muschiettis bestätigen Pläne für Season 2 (1935) und Season 3 (1908), wobei die Produktion durch Streiks und das schnelle Wachstum der jungen Darsteller verzögert wurde.",
           "score": 7
         },
         {
+          "source": "Deadline",
+          "title": "Donald Trump Praises Ted Sarandos, Confirms Meeting But Says Netflix-WB Would Have “Very Big Market Share” That “Could Be A Problem”",
+          "link": "https://deadline.com/2025/12/donald-trump-praises-ted-sarandos-netflix-wbd-market-share-1236641296/",
+          "summary": "Präsident Trump äußerte sich erstmals zum Netflix-Warner Bros.-Deal und lobte Netflix-CEO Ted Sarandos als \"fantastisch\", warnte jedoch vor dem \"sehr großen Marktanteil\", den die Fusion schaffen würde. Trump bestätigte ein Treffen mit Sarandos im Oval Office letzte Woche und deutete an, dass er bei der kartellrechtlichen Prüfung der 27,75-Dollar-pro-Aktie-Übernahme eine Rolle spielen werde. Die Fusion, die HBO Max einschließt, könnte laut Trump \"ein Problem\" darstellen und bedarf der Bewertung durch Wirtschaftsexperten.",
+          "score": 10
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "‘It: Welcome to Derry’ Co-Creators Tease “Heartbreaking” End to Season",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/it-welcome-to-derry-andy-barbara-muschietti-hbo-ccxp-1236444350/",
+          "summary": "Die Co-Creators der HBO-Serie \"It: Welcome to Derry\" beschrieben das vorletzte Episode der ersten Staffel bei einem CCXP-Panel als \"devastierend\" und \"herzzerreißend\", mit Andeutungen auf mehrere Todesfälle. Die sechste Episode enthüllte bereits, dass Ingrid Kersh die Tochter des ursprünglichen Pennywise ist und endete mit einem Cliffhanger, als ein rassistischer Mob den Black Spot erreicht. Die Aussagen der Produzenten Andy und Barbara Muschietti sowie der Darsteller deuten auf ein dramatisches und düsteres Staffelfinale hin.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Trump Weighs in on Proposed Netflix-Warner Bros. Deal: It’s a “Very Big Market Share” and “Could Be a Problem”",
+          "link": "https://www.hollywoodreporter.com/business/business-news/trump-netflix-warner-bros-deal-1236444352/",
+          "summary": "Präsident Trump äußerte sich erstmals zur geplanten 82,7 Milliarden Dollar schweren Übernahme von Warner Bros. durch Netflix und warnte vor dem resultierenden \"sehr großen Marktanteil\", der \"ein Problem darstellen könnte\". Trump bestätigte ein Treffen mit Netflix-Co-CEO Ted Sarandos im Oval Office vor Bekanntgabe des Deals, betonte aber, dass keine Garantien bezüglich der Fusion gegeben wurden. Die Transaktion muss noch regulatorische Prüfungen durchlaufen, an denen Trump nach eigenen Angaben beteiligt sein wird.",
+          "score": 10
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Sean Baker Says “Filmmakers Need to Put Our Foot Down” in Response to Netflix–Warners Deal",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/sean-baker-netflix-warner-bros-deal-theatrical-windows-1236444290/",
+          "summary": "Regisseur Sean Baker kritisierte auf dem Red Sea International Film Festival die Verkürzung von Kino-Auswertungsfenstern im Zuge des Netflix-Warner Bros. Deals und forderte stattdessen deren Ausweitung. Er argumentiert, dass Direct-to-Streaming-Releases oder Day-and-Date-Starts die Bedeutung von Filmen mindern, während die Kinoauswertung deren Wichtigkeit erhöht. Baker appellierte an Filmemacher, sich gegen die Erosion traditioneller Theatrical Windows zu wehren.",
+          "score": 10
+        },
+        {
           "source": "Variety",
-          "title": "China Audiences Drive 2025 Box Office With Animation and War Epics as Comedies Collapse",
-          "link": "https://variety.com/2025/film/festivals/china-audience-survey-animation-war-epics-1236602361/",
-          "summary": "Chinesische Kinogänger trieben 2025 Animation, Action und historische Kriegsfilme an die Spitze der Zufriedenheitscharts, während Komödien und Romanzen praktisch aus der Gunst fielen - Filme wie das Nanjing-Massaker-Epos \"Dead to Rights\" und \"Ne Zha 2\" führten sowohl bei Zufriedenheitswerten als auch Kassenerfolg. Chinas lokale Kinokassen erzielten bis dato 6,7 Milliarden Dollar (2024: 5,8 Milliarden gesamt), wobei heimische Filme 83,8% des Box Office ausmachten. Die Trends spiegeln westliche Märkte wider, da auch dort Komödien und Romanzen an Popularität verloren haben.",
-          "score": 8
+          "title": "Netflix–WBD Deal Would Create $6.6 Billion APAC Heavyweight, Media Partners Asia Warns of ‘Licensing Cliff’",
+          "link": "https://variety.com/2025/tv/news/netflix-wbd-6-billion-apac-heavyweight-mpa-1236603029/",
+          "summary": "Netflix' geplante Übernahme von Warner Bros. Discoverys Studio- und Streaming-Assets würde einen APAC-Giganten mit 6,6 Milliarden Dollar jährlichem wiederkehrenden Umsatz schaffen und Netflix Kontrolle über wichtige Franchise-IPs wie DC, Harry Potter und HBO verschaffen. Media Partners Asia warnt vor einer \"Licensing Cliff\", da Netflix nach Abschluss der 82,7 Milliarden Dollar-Transaktion WBD-Inhalte von regionalen Streaming-Plattformen in Indien, Japan und Korea zurückziehen könnte, sobald bestehende Lizenzverträge 2027 auslaufen. Dies würde lokale Streamer zwingen, ihre Programmstrategien grundlegend zu überdenken.",
+          "score": 10
+        },
+        {
+          "source": "Variety",
+          "title": "‘It: Welcome to Derry’: Director Andy Muschietti Breaks Down the Series’ Most Horrifying Sequence Yet",
+          "link": "https://variety.com/2025/tv/news/welcome-to-derry-andy-muschietti-on-the-black-spot-1236601662/",
+          "summary": "Regisseur Andy Muschietti bespricht in \"It: Welcome to Derry\" Episode 7 eine der verstörendsten Sequenzen der Serie, die den rassistisch motivierten Angriff auf den \"Black Spot\" zeigt - einen Treffpunkt für schwarze Soldaten in Derry. Die Episode verdeutlicht, dass die Schrecken der Serie nicht nur übernatürlicher Natur sind, sondern auch in menschlicher Gewalt wurzeln, als ein weißer Mob das Gebäude anzündet und auf die eingeschlossenen Menschen schießt. Diese Sequenz markiert einen dramatischen Wendepunkt der HBO-Serie und zeigt die historischen Wurzeln des Bösen in Stephen Kings fiktiver Stadt.",
+          "score": 9
+        },
+        {
+          "source": "Variety",
+          "title": "Trump Calls Ted Sarandos a ‘Fantastic Man’ but Says Netflix-Warner Bros. Deal Would Give Streamer ‘Very Big Market Share’: ‘It Could Be a Problem’",
+          "link": "https://variety.com/2025/tv/news/trump-netflix-warner-bros-deal-market-share-could-problem-1236602926/",
+          "summary": "Präsident Trump bestätigte ein Treffen mit Netflix Co-CEO Ted Sarandos im Weißen Haus bezüglich der geplanten Übernahme von Warner Bros. Discovery durch Netflix und äußerte Bedenken über den resultierenden Marktanteil. Trump erklärte, dass der Deal eine Prüfung erfordern werde und er persönlich an der Entscheidung beteiligt sein werde. Die Äußerungen erfolgten am Rande der Kennedy Center Honors-Zeremonie, die Trump als erster Präsident persönlich moderierte.",
+          "score": 10
         }
       ]
     }
