@@ -57,8 +57,8 @@ WEB_SCRAPING_SOURCES = {
 EMPFAENGER = {
     'Tom': 'tom@zooproductions.de',
     'Kat': 'kat@zooproductions.de',
-    'Dom': 'dom@zooproductions.de',
-    'Aurelia': 'aurelia@zooproductions.de',
+    #'Dom': 'dom@zooproductions.de',
+    #'Aurelia': 'aurelia@zooproductions.de',
     'Christina': 'christina@zooproductions.de'
 }
 
