@@ -1,258 +1,174 @@
 {
   "newsletters": [
     {
-      "date": "2025-12-12",
+      "date": "2025-12-13",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Noch immer keine Entscheidung zur Investitionsverpflichtung",
-          "link": "https://www.dwdl.de/nachrichten/104880/noch_immer_keine_entscheidung_zur_investitionsverpflichtung/",
-          "summary": "Der Koalitionsausschuss der Bundesregierung hat erneut keine Entscheidung zur geplanten Investitionsverpflichtung für Streamingdienste und Sender getroffen, obwohl die Branche auf eine baldige Regelung drängt. Während Kulturstaatsminister Weimer und die Union auf freiwillige Selbstverpflichtungen setzen, fordert die SPD zusammen mit der Produktionsbranche eine gesetzliche Verpflichtung zur Reinvestition von Umsätzen in Deutschland. Eine Lösung könnte nun auf Ebene der stellvertretenden Fraktionsvorsitzenden gesucht werden, wobei unklar bleibt, ob das Thema noch vor Weihnachten behandelt wird.",
-          "score": 9
+          "title": "MTV streicht Musikvideos ab 2026 aus dem Programm",
+          "link": "https://www.dwdl.de/nachrichten/104897/mtv_streicht_musikvideos_ab_2026_aus_dem_programm/",
+          "summary": "MTV Deutschland stellt zum 1. Januar 2026 die Ausstrahlung von Musikvideos vollständig ein und beendet damit eine jahrzehntelange Ära des Musikfernsehens. Der Sender wird künftig ausschließlich auf Reality-TV, Dokusoaps und Clipshows setzen, nachdem Musikinhalte bereits in den vergangenen Jahren sukzessive reduziert wurden. Die letzte Musiksendung läuft in den frühen Morgenstunden des Neujahrstags 2026.",
+          "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Berlusconi: Kein Stellenabbau bei ProSiebenSat.1 geplant",
-          "link": "https://www.dwdl.de/nachrichten/104878/berlusconi_kein_stellenabbau_bei_prosiebensat1_geplant/",
-          "summary": "MFE-Chef Pier Silvio Berlusconi kündigte an, bei ProSiebenSat.1 trotz geplanter Synergien nach der Übernahme \"zum jetzigen Zeitpunkt keine Entlassungen\" anzustreben, obwohl Kostensenkungen aufgrund der schwierigen Wirtschaftslage und der Abwanderung von Werbegeldern zu internationalen Plattformen nötig seien. Dies steht im Kontrast zum aktuellen massiven Stellenabbau bei Konkurrent RTL Deutschland, wobei ProSiebenSat.1 bereits mehrere Entlassungswellen hinter sich hat. Berlusconi bezeichnete das vierte Quartal als \"kein gutes Quartal\", erwartet aber dennoch einen Jahresgewinn.",
-          "score": 9
+          "title": "HR-Chef Florian Hager: \"Wir sind klar unterfinanziert\"",
+          "link": "https://www.dwdl.de/nachrichten/104896/hrchef_florian_hager_wir_sind_klar_unterfinanziert/",
+          "summary": "Der Hessische Rundfunk plant für 2026 mit einem rechnerischen Überschuss von 30 Millionen Euro bei 563 Millionen Euro Aufwendungen, jedoch kritisiert HR-Intendant Florian Hager eine klare Unterfinanzierung durch den eingefrorenen Rundfunkbeitrag bei steigenden Kosten. Der ausgewiesene Überschuss basiert größtenteils auf buchhalterischen Effekten und führt nicht zu erhöhter operativer Handlungsfähigkeit, weshalb weiterhin Personalabbau und gezielte Investitionspriorisierung notwendig bleiben.",
+          "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Disney steigt bei OpenAI ein und bringt Disney-Charaktere mit",
-          "link": "https://www.dwdl.de/nachrichten/104877/disney_steigt_bei_openai_ein_und_bringt_disneycharaktere_mit/",
-          "summary": "Disney ist als erster großer Content-Partner bei OpenAI eingestiegen und investiert eine Milliarde US-Dollar, während gleichzeitig über 200 Disney-, Marvel-, Pixar- und Star Wars-Charaktere für KI-generierte Videos auf der Plattform Sora verfügbar werden. Die dreijährige Partnerschaft ermöglicht es Nutzern, eigene Videos mit bekannten Charakteren zu erstellen, wobei ausdrücklich keine Stimmen oder Bilder realer Personen generiert werden können. Disney plant, die OpenAI-Technologie für eigene Produkte zu nutzen und kuratierte Sora-Videos auf Disney+ zu zeigen.",
+          "title": "\"Tage, die es nicht gab\" läuft nur zum Start um 20:15 Uhr",
+          "link": "https://www.dwdl.de/nachrichten/104894/tage_die_es_nicht_gab_laeuft_nur_zum_start_um_2015_uhr/",
+          "summary": "Das Erste startet am 4. Februar mit der zweiten Staffel von \"Tage, die es nicht gab\" um 20:15 Uhr, zeigt jedoch nur die ersten beiden Folgen in der Primetime - die restlichen sechs Episoden laufen ab 0:15 Uhr. Die ARD verfolgt damit eine Mediathek-First-Strategie, da die komplette achtteilige Staffel bereits ab 16. Januar online verfügbar ist. In der neuen Staffel \"Tödliche Geheimnisse\" werden die vier Freundinnen in einen Mordfall verwickelt, als die Tochter einer von ihnen eine Leiche findet.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "RTL schraubt am Übertragungskonzept der NFL",
+          "link": "https://www.dwdl.de/nachrichten/104888/rtl_schraubt_am_uebertragungskonzept_der_nfl/",
+          "summary": "RTL führt ab dem kommenden Sonntag den \"Playoff-Alarm\" ein - eine Mini-Konferenz-Schaltung, bei der während der Hauptübertragung zu relevanten Szenen anderer NFL-Spiele gewechselt wird, um deren Playoff-Auswirkungen zu erläutern. Hintergrund sind schwache Quoten der bisherigen NFL-Übertragungen mit Marktanteilen zwischen 6,9-7,4% (14-49 Jahre), während der Super Bowl zuletzt über 60% Marktanteil erreichte. Das neue Format soll in der entscheidenden Phase der Regular Season für mehr Zuschauerbindung sorgen.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Liefers und Prahl bleiben dem Münster-\"Tatort\" noch länger erhalten",
+          "link": "https://www.dwdl.de/nachrichten/104889/liefers_und_prahl_bleiben_dem_muenstertatort_noch_laenger_erhalten/",
+          "summary": "Der WDR-Rundfunkrat hat längerfristige Darstellerverträge für Jan Josef Liefers und Axel Prahl genehmigt, wodurch die Fortsetzung des erfolgreichen Münster-\"Tatorts\" gesichert ist. Zusätzlich wurden der Wirtschaftsplan 2026 mit Erträgen von 1,7 Milliarden Euro sowie weitere Programmverträge für \"Kölner Treff\" und \"Gefragt - Gejagt\" bewilligt. Nach anfänglichen Problemen bezüglich geschlechtergerechter Vergütung erhielt auch der Fernsehfilm \"Doitscha\" die finale Zustimmung.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "RTL startet mit Bahro und Ströbel ins neue Krimi-Jahr",
+          "link": "https://www.dwdl.de/nachrichten/104885/rtl_startet_mit_bahro_und_stroebel_ins_neue_krimijahr/",
+          "summary": "RTL erweitert sein Krimi-Portfolio am \"tödlichen Dienst-Tag\" um zwei neue Reihen: \"Haveltod - Ein Potsdams-Krimi\" mit Wolfgang Bahro startet am 13. Januar 2025, gefolgt von \"Einsatz Seeler - Ein Lübeck-Krimi\" mit Sebastian Ströbel eine Woche später. Die Strategie zahlt sich aus - RTLs Dienstags-Krimis erreichten zuletzt durchweg zweistellige Marktanteile beim Gesamtpublikum, wobei \"Alpentod\" mit über drei Millionen Zuschauern besonders erfolgreich war.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Medienaufsicht: Thorsten Schmiege als Chef der BLM bestätigt",
+          "link": "https://www.horizont.net/medien/nachrichten/medienaufsicht-thorsten-schmiege-als-chef-der-blm-bestaetigt-232421?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Thorsten Schmiege wurde für eine zweite Amtszeit von fünf Jahren als Präsident der Bayerischen Landeszentrale für neue Medien (BLM) wiedergewählt. Der Jurist bleibt damit weiterhin Bayerns Chefaufseher für Privatsender und Streamingplattformen.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Übertragung der Handball-WM: Sporteurope.TV-Chef kontert DHB-Präsident in Debatte um Handball-WM",
+          "link": "https://www.horizont.net/medien/nachrichten/uebertragung-der-handball-wm-sporteurope.tv-chefkontert-dhb-praesident-in-debatte-um-handball-wm-232415?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Sporteurope.TV überträgt im Gegensatz zu ARD und ZDF alle 108 Spiele der Handball-WM und positioniert sich damit als Alternative zu den öffentlich-rechtlichen Sendern. Der Chef des Streaming-Dienstes übt Kritik an DHB-Präsident Andreas Michelmann und dessen Haltung in der aktuellen TV-Übertragungsdebatte. Die Auseinandersetzung verdeutlicht die Spannungen zwischen traditionellen Sendern und neuen Streaming-Anbietern bei der Vermarktung von Sportrechten.",
+          "score": 9
+        },
+        {
+          "source": "kress",
+          "title": "Kein Stellenabbau bei ProSiebenSat.1 geplant",
+          "link": "https://kress.de/news/beitrag/151535-mfe-chef-berlusconi-kein-stellenabbau-bei-prosiebensat-1-geplant.html",
+          "summary": "MFE-CEO Pier Silvio Berlusconi schließt nach der 75%-Übernahme von ProSiebenSat.1 einen direkten Stellenabbau aktuell aus, kann ihn jedoch nicht grundsätzlich ausschließen. Der neue Geschäftsplan soll Synergien heben und Kosten senken, während eine stärkere Fokussierung auf TV und Entertainment sowie mögliche Verkäufe von Randgeschäften im E-Commerce erwartet werden. Berlusconi bezeichnete das wirtschaftliche Umfeld in Deutschland als herausfordernd und das vierte Quartal 2025 in allen Märkten als schwach.",
           "score": 10
         },
         {
-          "source": "DWDL",
-          "title": "RTL holt die Reality Awards im Frühjahr 2026 zurück",
-          "link": "https://www.dwdl.de/nachrichten/104876/rtl_holt_die_reality_awards_im_fruehjahr_2026_zurueck/",
-          "summary": "RTL bringt die Reality Awards im Frühjahr 2026 zurück, nachdem die Preisverleihung 2025 pausierte - erneut als große Gala-Show mit Ausstrahlung auf RTL+. Die erste Ausgabe 2024 litt unter mangelnder branchenweiter Akzeptanz, da hauptsächlich RTL-eigene Formate nominiert waren und Konkurrenz-Anbieter die Veranstaltung als Werbeplattform des Senders boykottierten. Details zu Moderation, Kategorien und möglichen Neuerungen will RTL zeitnah bekanntgeben.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Ex-RBB-Intendantin Schlesinger wegen Untreue angeklagt",
-          "link": "https://www.dwdl.de/nachrichten/104872/exrbbintendantin_schlesinger_wegen_untreue_angeklagt/",
-          "summary": "Die Berliner Generalstaatsanwaltschaft hat gegen die ehemalige RBB-Intendantin Patricia Schlesinger Anklage wegen Untreue in 26 Fällen erhoben, wobei auch drei weitere ehemalige Führungskräfte des öffentlich-rechtlichen Senders angeklagt wurden. Die Vorwürfe umfassen unrechtmäßige Bonuszahlungen unter Umgehung der Kontrollgremien, pflichtwidrige ARD-Vorsitz-Zulagen, unbegründete Zahlungen an einen ehemaligen Mitarbeiter sowie private Bewirtungskosten-Erstattungen. In sieben Fällen geht die Staatsanwaltschaft von besonders schweren Fällen aufgrund gewerbsmäßiger Begehung oder hohem Schaden aus.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Nachrichten 360: Neuer Newssender startet mit Agentur-Inhalten",
-          "link": "https://www.dwdl.de/nachrichten/104871/nachrichten_360_neuer_newssender_startet_mit_agenturinhalten/",
-          "summary": "Das barcelonische Start-up Love TV Channels hat den neuen FAST-Channel \"Nachrichten 360\" auf Samsung TV Plus gestartet, der ausschließlich mit Agentur-Content von dpa, AFP und Reuters operiert. Der Sender soll eine \"pluralistische Sicht\" vermitteln und das wachsende CTV-Werbepotential im deutschen Streaming-Markt erschließen. Love TV Channels betreibt bereits einen ähnlichen Kanal in Spanien und setzt auf die steigende Nachfrage nach Streaming-Nachrichtenangeboten.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Family Entertainment: Mehner führt neue Studio Alba Productions",
-          "link": "https://www.dwdl.de/nachrichten/104870/family_entertainment_mehner_fuehrt_neue_studio_alba_productions/",
-          "summary": "Corinna Mehner übernimmt mit sofortiger Wirkung die Geschäftsführung der neu gegründeten Studio Alba Productions, einer Tochterfirma der Studio Hamburg Production Group mit Fokus auf Family Entertainment. Die erfahrene Produzentin, die 22 Jahre lang Blue Eyes Fiction leitete und Erfolge wie \"Hexe Lilli\" und \"Woodwalkers\" verantwortete, soll gemeinsam mit CEO Michael Lehmann den Bereich strategisch ausbauen. Zu den ersten Projekten gehören das Kinoabenteuer \"Miniatur Wunderland\" und die Animations-Koproduktion \"Seeräubermoses\".",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "SEO-Entertainment-Gründer Uwe von Grafenstein gestorben",
-          "link": "https://www.dwdl.de/nachrichten/104869/seoentertainmentgruender_uwe_von_grafenstein_gestorben/",
-          "summary": "Uwe von Grafenstein, Co-Gründer der erfolgreichen Produktionsfirma SEO Entertainment, ist Ende November im Alter von nur 44 Jahren verstorben. Mit SEO Entertainment produzierte er mehrfach preisgekrönte und nominierte Formate wie \"Sido geht wählen\", \"Das Lachen der Anderen\" und \"Feuer & Flamme\", bevor er sich 2018 aus der TV-Branche zurückzog. Seit seinem Ausstieg arbeitete er als Business-Coach mit Storytelling-Expertise und gründete 2019 die Kalhammer & von Grafenstein GmbH in München.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Unterschiedliche Vorstellungen: \"SZ\"-Chefredakteur Krach geht",
-          "link": "https://www.dwdl.de/nachrichten/104868/unterschiedliche_vorstellungen_szchefredakteur_krach_geht/",
-          "summary": "Wolfgang Krach verlässt nach 23 Jahren bei der \"Süddeutschen Zeitung\" seine Position als Chefredakteur aufgrund \"unterschiedlicher Vorstellungen\" mit den Gesellschaftern über die Weiterentwicklung der Zeitung. Judith Wittwer übernimmt ab 2026 die alleinige Chefredaktion, nachdem sie bereits seit 2020 gemeinsam mit Krach die redaktionelle Leitung innehatte. Unter Krachs Führung entstanden bedeutende investigative Projekte wie die \"Panama Papers\".",
-          "score": 9
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Tschüss Visits und PIs: Auch Ströer zieht sich von IVW Digital zurück – mitsamt Dickschiff T-Online",
-          "link": "https://www.horizont.net/medien/nachrichten/tschuess-visits-und-pis-auch-stroeer-zieht-sich-von-ivw-digital-zurueck--mitsamt-dickschiff-t-online-232395?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Ströer zieht sich zusammen mit T-Online aus der IVW Digital-Messung zurück, wodurch die Organisation in diesem Jahr bereits 40 Prozent ihrer Angebote verloren hat. Der Rückzug ist Teil einer größeren Branchenbewegung, bei der sich Medienunternehmen von traditionellen Metriken wie Page Impressions und Visits abwenden. Dies zeigt die zunehmende Erosion etablierter Media-Standards in der digitalen Werbewirtschaft.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Generalstaatsanwaltschaft Berlin: Anklage gegen Ex-RBB-Intendantin Schlesinger",
-          "link": "https://www.horizont.net/medien/nachrichten/generalstaatsanwaltschaft-berlin-anklage-gegen-ex-rbb-intendantin-schlesinger-232389?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die Generalstaatsanwaltschaft Berlin hat Anklage gegen die ehemalige RBB-Intendantin Patricia Schlesinger erhoben, der in 26 Fällen Untreue vorgeworfen wird. Die Vorwürfe umfassen die unrechtmäßige Erstattung privater Essen als Bewirtungskosten, einer Urlaubsreise sowie die Einführung eines variablen Vergütungssystems für Führungskräfte ab 2018. Nach Abschluss der Ermittlungen folgt nun das gerichtliche Verfahren.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Nachrichtensender von Warner Bros.: Trump spricht sich für den Verkauf von CNN aus",
-          "link": "https://www.horizont.net/medien/nachrichten/nachrichtensender-von-warner-bros.-trump-spricht-sich-fuer-den-verkauf-von-cnn-aus-232387?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "US-Präsident Donald Trump fordert im Rahmen des Warner Bros. Discovery-Deals den Verkauf des Nachrichtensenders CNN. Die Forderung steht im Kontext der kritischen Berichterstattung von CNN über Trump und könnte regulatorische Auswirkungen auf die Medienkonzentration haben.",
-          "score": 9
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Preferred Sources und KI-Partnerschaften: So will Google Publishern unter die Arme greifen",
-          "link": "https://www.horizont.net/medien/nachrichten/preferred-sources-und-ki-partnerschaften-so-will-google-publishern-unter-die-arme-greifen-232379?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Googles neue KI-Suche führt zu dramatischen Reichweiten-Einbußen bei Publishern, da Nutzer seltener auf weiterführende Links klicken. Google reagiert mit neuen Funktionen und KI-Partnerschaften für ausgewählte Publisher wie den Spiegel, um den Traffic-Verlust zu kompensieren. Die Maßnahmen zielen darauf ab, das angespannte Verhältnis zwischen der Suchmaschine und Content-Anbietern zu entspannen.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Gesetz in Australien: Wie deutsche Politiker zu einem Social-Media-Verbot für Kinder und Jugendliche stehen",
-          "link": "https://www.horizont.net/medien/nachrichten/gesetz-in-australien-wie-deutsche-politiker-zu-einem-social-media-verbot-fuer-kinder-und-jugendliche-stehen-232359?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Australien hat ein Social-Media-Verbot für Kinder und Jugendliche verabschiedet, das in der deutschen Politik kontroverse Diskussionen auslöst. BSW-Gründerin Sahra Wagenknecht befürwortet das australische Gesetz als Vorbild für Deutschland und argumentiert für Schutzmaßnahmen vor \"krank machenden Algorithmen und digitaler Totalüberwachung\". Die Debatte fokussiert sich weniger auf ein generelles Smartphone-Verbot als vielmehr auf regulatorische Ansätze zum Jugendschutz in sozialen Medien.",
+          "source": "kress",
+          "title": "Führungswechsel bei RTL Hessen: Katrin Raap löst Eberhard Volk ab Eberhard Volk gibt nach über 20 Jahren die Geschäftsführung von RTL Hessen ab.",
+          "link": "https://kress.de/news/beitrag/151536-fuehrungswechsel-bei-rtl-hessen-katrin-raap-loest-eberhard-volk-ab.html",
+          "summary": "Katrin Raap übernimmt zum 1. März 2026 die Geschäftsführung von RTL Hessen und löst damit Eberhard Volk ab, der sich nach über 20 Jahren aus familiären Gründen zurückzieht. Die Volljuristin Raap ist seit 1997 bei RTL Deutschland tätig, leitete ab 2015 das Produktionsmanagement der infoNetwork GmbH und verantwortet seit 2021 bei RTL News den Bereich Produktionsservices und Lizenzierung. Der Wechsel markiert eine strategische Neuausrichtung des regionalen RTL-Standorts unter erfahrener interner Führung.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Die besten Führungskräfte der Medienbranche Kress hat Entscheidungsträger ausgewählt, die das Jahr...",
-          "link": "https://kress.de/news/beitrag/151532-kress-awards-2025-die-besten-fuehrungskraefte-der-medienbranche.html",
-          "summary": "Thomas Düffert, CEO der Madsack Mediengruppe, wurde von \"kress pro\" zum \"Medienmanager des Jahres 2025\" gekürt, nachdem er das Unternehmen durch strategische Akquisitionen (u.a. Nordwest Mediengruppe, DDV Mediengruppe) von einem Regionalverlag zu einem Medienhaus mit über einer Milliarde Euro Umsatz entwickelte. Die Jury würdigte seine Konsolidierungsstrategie als Motor der digitalen Transformation im systemrelevanten Regionalmediengeschäft. Zusätzlich erhielt Publizist Stefan Aust den Preis für sein Lebenswerk.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Mediengruppe Bayern darf MGO schlucken",
+          "title": "Mediengruppe Bayern darf MGO schlucken Das Bundeskartellamt hat die geplante Übernahme der...",
           "link": "https://kress.de/news/beitrag/151529-kartellamt-genehmigt-uebernahme-mediengruppe-bayern-darf-mgo-schlucken.html",
-          "summary": "Das Bundeskartellamt hat die Übernahme der Mediengruppe Oberfranken (u.a. \"Fränkischer Tag\", \"Coburger Tageblatt\") durch die Mediengruppe Bayern (\"Passauer Neue Presse\", \"Donaukurier\", \"Mittelbayerische Zeitung\") bereits im Vorprüfverfahren genehmigt. Kartellamtspräsident Mundt sieht keine wettbewerblichen Probleme, da beide Gruppen in unterschiedlichen bayerischen Regionen tätig sind und kein unmittelbares Konkurrenzverhältnis besteht.",
+          "summary": "Das Bundeskartellamt hat die Übernahme der Mediengruppe Oberfranken (u.a. \"Fränkischer Tag\", \"Coburger Tageblatt\") durch die Mediengruppe Bayern (\"Passauer Neue Presse\", \"Donaukurier\") bereits im Vorprüfverfahren genehmigt. Kartellamtspräsident Mundt sieht keine wettbewerblichen Probleme, da beide Gruppen in unterschiedlichen bayerischen Regionen aktiv sind und kein unmittelbares Konkurrenzverhältnis besteht. Die Behörde prüfte primär die Auswirkungen auf Leser- und Anzeigenmarkt, nicht die Meinungsvielfalt.",
           "score": 7
         },
         {
-          "source": "kress",
-          "title": "Trump will auch Warner Bros. Discovery unter seiner Kontrolle sehen: Ein Milliardär und ein Schwiegersohn Das Gegengebot von Paramount Skydance für Warner Bros. Discovery kommt wenig überraschend. Die Trump-nahen Kräfte um Larry und David Ellison",
-          "link": "https://kress.de/news/beitrag/151530-trump-will-auch-warner-bros-discovery-unter-seiner-kontrolle-sehen-ein-milliardaer-und-ein-schwiegersohn.html",
-          "summary": "Paramount Skydance, geführt von David Ellison (Sohn des Oracle-Gründers Larry Ellison), plant eine feindliche Übernahme von Warner Bros. Discovery und konkurriert damit gegen ein 72-Milliarden-Dollar-Angebot von Netflix. Die Übernahme wird als Teil einer Trump-nahen Strategie zur Kontrolle großer US-Medienunternehmen gesehen, nachdem die Ellisons bereits Paramount akquiriert und das Trump-kritische CBS-Network \"befriedet\" haben. Netflix hatte primär Interesse an den Streaming-Diensten HBO und Discovery+ mit 130 Millionen Kunden, nicht aber am traditionellen TV-Geschäft inklusive CNN.",
+          "source": "meedia",
+          "title": "Interview mit Kolja Kleist, Chief Commercial Officer Tagesspiegel: \"Unsere Chance ist die Dualität\" Kolja Kleist wechselte von Burda Forward zum \"Tagesspiegel\". Was treibt den erfahrenen Digitalmanager dazu, in der klassischen Verlagswelt anzuheuern, die mit enormen Herausforderungen zu kämpfen hat? Kleist ist der Meinung, dass starke Medienmarken",
+          "link": "https://meedia.de/news/beitrag/20761-tagesspiegel-quot-unsere-chance-ist-die-dualitaet-quot.html",
+          "summary": "Kolja Kleist wechselte von Burda Forward als neuer Chief Commercial Officer zum Tagesspiegel, wo er seit Februar für alle Vermarktungs- und Business-Development-Aktivitäten der Verlagsgruppe verantwortlich ist. Der erfahrene Digitalmanager sieht trotz der Herausforderungen im klassischen Verlagswesen großes Potenzial für starke Medienmarken bei richtiger Positionierung. Die Position des CCO wurde von der Holtzbrinck-Tochter eigens für Kleist geschaffen, der über 20 Jahre Medienerfahrung mitbringt.",
+          "score": 9
+        },
+        {
+          "source": "meedia",
+          "title": "Copa del Rey DAZN sichert sich den spanischen Pokalwettbewerb für vier Spielzeiten Der Wettbewerb trägt das Königliche im Titel.",
+          "link": "https://meedia.de/news/beitrag/20762-dazn-sichert-sich-den-spanischen-pokalwettbewerb-fuer-vier-spielzeiten.html",
+          "summary": "DAZN hat sich die exklusiven Übertragungsrechte für die spanische Copa del Rey in der DACH-Region für vier Spielzeiten bis 2028/29 gesichert. Der Deal stärkt DAZNs Position als \"Heimat des internationalen Spitzenfußballs\" und ergänzt das bestehende LaLiga-Angebot um den traditionsreichen spanischen Pokalwettbewerb mit Top-Vereinen wie Real Madrid, FC Barcelona und Atlético Madrid. Die Übertragungen beginnen bereits am 16. Dezember mit der Runde der letzten 32 Teams.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "News und Werbung in Dauerrotation Spanischer FAST-Channel-Entwickler bringt den Sender Nachrichten 360 nach Deutschland Das Vermarktungsgeschäft mit CTV-Werbung im Streaming boomt. Laufend werden neue Angebote lanciert. Ungewöhnlich ist allerdings der Marktantritt von Nachrichten 360. Der Nischensender zeigt News rund um die Uhr",
+          "link": "https://meedia.de/news/beitrag/20760-spanischer-fast-channel-entwickler-bringt-den-sender-nachrichten-360-nach-deutschland.html",
+          "summary": "Das spanische Start-up Love TV Channels launcht den FAST-Channel \"Nachrichten 360\" auf Samsung TV Plus in Deutschland, der rund um die Uhr Nachrichtenmaterial von Agenturen wie dpa, AFP und Reuters ausstrahlt. Anders als übliche FAST-Angebote nutzt das Unternehmen keine eigenen Inhalte, sondern lizenziert gezielt News-Content für die werbefinanzierte Streaming-Vermarktung. Das Konzept folgt dem erfolgreichen spanischen Vorbild \"Actualidad 360\" und zielt auf die zusätzlichen CTV-Werbeerlöse im boomenden Streaming-Markt ab.",
           "score": 10
         },
         {
-          "source": "kress",
-          "title": "Polizei-Einsatz bei AfD-Demos: DJV Hessen sieht Pressefreiheit verletzt Bei den Protesten gegen die neue AfD-Jugendorganisation in Gießen sollen Polizisten mehreren Journalistinnen und Journalisten trotz Presseausweis den Zugang verweigert haben. Der DJV Hessen spricht von einer Verletzung der Pressefreiheit",
-          "link": "https://kress.de/news/beitrag/151528-polizei-einsatz-bei-afd-demos-djv-hessen-sieht-pressefreiheit-verletzt.html",
-          "summary": "Bei Protesten gegen die neue AfD-Jugendorganisation in Gießen verwehrte die Polizei am 29. November mehreren Journalisten trotz gültiger Presseausweise den Zugang zu Demonstrationsbereichen, darunter Reportern von epd, taz und freien Radios. Der DJV Hessen kritisiert dies als Verletzung der Pressefreiheit und fordert bessere Schulungen für Polizeibeamte im Umgang mit Medienvertretern. Innenminister Poseck (CDU) kündigte eine Aufarbeitung der Ereignisse an und lud den DJV zu einem Gespräch ein.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Ex-Medienmanager Gerrit Klein: \"Neulich habe ich einen Stern durchgeblättert",
-          "link": "https://kress.de/news/beitrag/151526-ex-medienmanager-gerrit-klein-quot-neulich-habe-ich-einen-stern-durchgeblaettert-da-war-eine-einzige-fremdanzeige-drin-quot.html",
-          "summary": "Der ehemalige Medienmanager Gerrit Klein beobachtet eine dramatische Verschlechterung der Medienbranche, insbesondere beim Werbevolumen - exemplarisch am \"Stern\", der nur noch eine einzige Fremdanzeige enthielt. Klein sieht den Verlust der Gatekeeper-Rolle traditioneller Medien, da die Aufmerksamkeit heute auf viele Akteure wie Influencer und Content-Marketing zersplittert ist. Trotz seiner eigenen Transformationsbemühungen in früheren Positionen konnte weder die Erlös- noch die Bedeutungsebene des klassischen Journalismus erhalten werden.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Millionenrisiko für den RBB: Nothelle erhält Ruhegeld auf Lebenszeit Ein rechtskräftiges Urteil des Arbeitsgerichts Berlin zwingt den RBB, Ex-Programmdirektorin Claudia Nothelle wieder Ruhegeld zu zahlen",
-          "link": "https://kress.de/news/beitrag/151524-millionenrisiko-fuer-den-rbb-nothelle-erhaelt-ruhegeld-auf-lebenszeit.html",
-          "summary": "Das Arbeitsgericht Berlin hat rechtskräftig entschieden, dass der RBB seiner ehemaligen Programmdirektorin Claudia Nothelle lebenslang 8.438 Euro monatliches Ruhegeld zahlen muss, nachdem der Sender die Zahlungen 2023 eigenmächtig gestoppt hatte. Der RBB muss auch bereits einbehaltene Beträge vollständig erstatten und könnte laut Gerichtsangaben bei durchschnittlicher Lebenserwartung bis zu vier Millionen Euro zahlen. Das Urteil ist seit Oktober rechtskräftig, da der Sender die Berufungsfrist verstreichen ließ.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Tagesthemen-Moderatorin Jessy Wellmer warnt: Journalismus agiert kaum noch selbst Jessy Wellmer",
-          "link": "https://kress.de/news/beitrag/151518-tagesthemen-moderatorin-jessy-wellmer-warnt-journalismus-agiert-kaum-noch-selbst.html",
-          "summary": "Tagesthemen-Moderatorin Jessy Wellmer diagnostiziert in ihrer neuen ARD-Dokumentation \"Wie zerrissen ist Deutschland?\" eine durch soziale Medien befeuerte Empörungskultur, die trotz individueller Zufriedenheit zu gesellschaftlichem Pessimismus führt. Sie kritisiert, dass der Journalismus kaum noch selbst agiert und Teil der Empörungsspirale wird, obwohl öffentlich-rechtliche Medien nicht denselben Zwängen wie private Anbieter unterliegen. Wellmer plädiert dafür, von der \"Stufe der Empörung\" herunterzukommen und sich wieder zu entspannen.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "EU nimmt Google ins Visier: KI-Tools sollen Verlage benachteiligen Die EU-Kommission untersucht, ob Google seine Suchmacht nutzt, um KI-Angebote wie „AI Overview“ und „AI Mode“ zu trainieren",
-          "link": "https://kress.de/news/beitrag/151517-eu-nimmt-google-ins-visier-ki-tools-sollen-verlage-benachteiligen.html",
-          "summary": "Die EU-Kommission hat eine wettbewerbsrechtliche Untersuchung gegen Google wegen der KI-Tools \"AI Overview\" und \"AI Mode\" eingeleitet, da der Konzern möglicherweise seinen privilegierten Zugang zu Webseiten unrechtmäßig für KI-Training nutzt und dadurch andere KI-Anbieter benachteiligt. Kritisiert wird zudem, dass Website-Betreiber und Verlage nicht für die Nutzung ihrer Inhalte entschädigt werden und keine Widerspruchsmöglichkeit haben, was zu Umsatzverlusten durch reduzierte Website-Klicks führt.",
-          "score": 8
-        },
-        {
           "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts Sport1 startet direkt mit grandiosen Quoten in die Darts-WM Nachdem...",
-          "link": "https://meedia.de/news/beitrag/20757-sport1-startet-direkt-mit-grandiosen-quoten-in-die-darts-wm.html",
-          "summary": "Sport1 erzielte mit den ersten Partien der Darts-WM einen herausragenden Prime-Time-Marktanteil von 10,3 Prozent bei den 14- bis 49-Jährigen, nachdem die Unterhaltungsformate des Senders bislang erfolglos blieben. Im Gesamtpublikum dominierte der \"Zürich-Krimi\" im Ersten mit 4,76 Millionen Zuschauern (21,3%), verlor jedoch gegenüber der Vorwoche deutlich an Reichweite. Von den Privatsendern schaffte nur RTL mit dem Europa-League-Spiel des SC Freiburg (1,51-1,77 Mio.) den Sprung in die Tages-Top-25.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "Generalstaatsanwaltschaft Berlin Anklage gegen Ex-RBB-Intendantin Schlesinger wegen Untreue Seit Jahren wird der Skandal rund um den RBB und seine Ex-Intendantin Schlesinger aufgearbeitet",
-          "link": "https://meedia.de/news/beitrag/20756-anklage-gegen-ex-rbb-intendantin-schlesinger-wegen-untreue.html",
-          "summary": "Die Generalstaatsanwaltschaft Berlin hat gegen die ehemalige RBB-Intendantin Patricia Schlesinger Anklage wegen Untreue in 26 Fällen erhoben, wobei ihr vorgeworfen wird, zwischen Januar 2018 und Juli 2022 unzulässige Zahlungen erhalten und dem Sender weitere rechtswidrige Kosten verursacht zu haben. Neben Schlesinger sind auch weitere ehemalige Führungskräfte des RBB angeklagt, darunter der frühere Verwaltungsdirektor und der damalige Vorsitzende des Verwaltungsrats. In sieben Fällen wird von besonders schwerer Untreue aufgrund gewerbsmäßiger Begehung oder besonders hohen Schadens ausgegangen.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Paramount gegen Netflix Der Bieterkampf um Warner Bros.",
-          "link": "https://meedia.de/news/beitrag/20755-der-bieterkampf-um-warner-bros-discovery-eskaliert.html",
-          "summary": "David Ellison, der im Sommer Paramount übernahm, führt Gespräche mit Donald Trump über eine mögliche Übernahme von Warner Bros. Discovery inklusive CNN, wobei auch Trumps Vorbehalte gegen den Nachrichtensender thematisiert wurden. Warner Bros. Discovery-Chef David Zaslav warnte indirekt vor staatlicher Kontrolle über Medien mit der Aussage \"Wenn die Regierung die Nachrichten kontrolliert, ist das das Ende der Demokratie\". Die Übernahme könnte letztendlich von Trumps persönlicher Zustimmung abhängen, da die Ellison-Familie enge Verbindungen zum Präsidenten unterhält.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "Adnami stellt KI-Einkaufsassistenten vor Mit Adnami können jetzt individuelle Agenten erstellt...",
-          "link": "https://meedia.de/news/beitrag/20749-media-adnami-stellt-ki-einkaufsassistenten-vor.html",
-          "summary": "Adnami hat mit \"Agentic Curation\" KI-gesteuerte Agenten eingeführt, die automatisch Multi-Publisher-Deals konfigurieren und Kampagnen auf maximale Aufmerksamkeit optimieren. Die Agenten analysieren kontinuierlich Bidstream-Daten, um den Wert jeder Impression in Relation zum erwarteten Attention-Output zu bewerten und ermöglichen dadurch schnellere Deal-Erstellung sowie datenbasierte Optimierung. Das System soll manuelle Arbeitsprozesse reduzieren, Aktivierungszeiten verkürzen und die Performance über alle Märkte hinweg verbessern.",
+          "title": "Neue Vermarktungsmöglichkeit? Youtube TV bringt günstige Themenkanäle YouTube TV, der...",
+          "link": "https://meedia.de/news/beitrag/20759-youtube-tv-bringt-guenstige-themenkanaele.html",
+          "summary": "YouTube TV führt Anfang 2026 eine grundlegende Neustrukturierung ein: Anstelle des bisherigen 73-Dollar-Pakets mit über 100 Kanälen können Kunden künftig aus mehr als zehn genre-spezifischen Abonnements wählen, darunter ein eigenes Sportpaket mit ESPN Unlimited-Zugang. Die Initiative zielt sowohl auf flexiblere Nutzererfahrungen als auch strategisch auf den CTV-Werbemarkt ab, wobei insbesondere US-Sport-Inhalte auch für europäische Märkte interessant werden könnten.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "\"2026 wird enorm spannend\" \"kicker\" holt die Print-Vermarktung zurück ins Haus",
-          "link": "https://meedia.de/news/beitrag/20744-quot-kicker-quot-holt-die-print-vermarktung-zurueck-ins-haus-bcn-verliert-den-vermarktungsauftrag.html",
-          "summary": "Der kicker-Verlag holt zum Jahreswechsel die Print-Vermarktung von BCN zurück ins eigene Haus und baut sein Media-Sales-Team um Taygun Karakas und Lukas Ringer zu einem 360-Grad-Vermarkter aus. Das Team soll künftig als \"One-Stop-Shop\" sowohl Print- als auch Digital-Kampagnen vermarkten und dabei auf die Expertise des 2020 übernommenen Digitalvermarkters Quarter Media setzen. BCN, der Gemeinschaftsvermarkter von Burda, Funke und Klambt, verliert damit einen wichtigen Kunden aus dem Sportmedien-Bereich.",
-          "score": 8
+          "title": "\"The Next Big Scroll\" 10 Trends, die das Social Web 2026 prägen werden Es ist die Zeit der großen Rückblicke und Prognosen.",
+          "link": "https://meedia.de/news/beitrag/20748-10-trends-die-das-social-web-2026-praegen-werden.html",
+          "summary": "We Are Era und Social Match haben den Trendreport \"The Next Big Scroll\" veröffentlicht, der auf über 70 Seiten die 10 wichtigsten Social-Media-Trends für 2026 analysiert. Der Report behandelt zentrale Fragen zur Zukunft des Community-Marketings und der Creator Economy, basierend auf Insights von über 15 Branchenexperten. Ziel ist es, Marken und Agenturen strategische Einblicke zu geben, wie sie 2026 im Social Web relevant bleiben können.",
+          "score": 7
         },
         {
-          "source": "meedia",
-          "title": "Kommentar von Alex Still, Chief Strategy Officer bei Verve Das Wettbieten um Warner Bros.",
-          "link": "https://meedia.de/news/beitrag/20745-das-wettbieten-um-warner-bros-was-werber-jetzt-wissen-muessen.html",
-          "summary": "Netflix und Paramount kämpfen in einem Bieterwettbewerb um Warner Bros., wodurch ein Streaming-Gigant mit beispielloser Reichweite und der größte \"Walled Garden\" der Branche entstehen würde. Die Konsolidierung führt zu steigenden Abo-Preisen (von 10 auf 20 Euro), was Nutzer in werbefinanzierte Modelle treibt, während gleichzeitig Plattformen mit hoher Marktmacht Premium-Reichweite zu Hochpreisen diktieren können. Trotz hoher Werbeaufmerksamkeit bei Connected-TV besteht ein Vertrauensproblem seitens der Nutzer gegenüber dieser Werbeform.",
+          "source": "Guardian Media",
+          "title": "Deal or no deal? The inside story of the battle for Warner Bros",
+          "link": "https://www.theguardian.com/news/ng-interactive/2025/dec/13/deal-or-no-deal-the-inside-story-of-the-battle-for-warner-bros",
+          "summary": "Netflix bietet 82,7 Milliarden Dollar für Warner Bros Discovery (inklusive CNN, HBO, Batman-Franchise), während das Trump-nahe Paramount Skydance mit einem feindlichen 108-Milliarden-Dollar-Gegenangebot kontert. Trump kündigte an, sich in den Regulierungsprozess einzumischen, was bei Experten Bedenken über politische Einflussnahme auf eine der größten Medien-Fusionen der Geschichte auslöst. Der Deal könnte sowohl die Hollywood-Landschaft als auch den Nachrichtensektor weltweit grundlegend verändern.",
           "score": 10
         },
         {
-          "source": "Guardian Media",
-          "title": "Jared Kushner – and three Arab monarchies – are at the heart of the Paramount-WBD bid | Mohamad Bazzi",
-          "link": "https://www.theguardian.com/commentisfree/2025/dec/11/jared-kushner-paramount-warner-bros-deal",
-          "summary": "Paramount Skydance hat ein $108 Milliarden-Übernahmeangebot für Warner Bros Discovery eingereicht, das laut SEC-Unterlagen Finanzierung von Jared Kushners Private-Equity-Firma sowie den Monarchien Saudi-Arabiens, Katars und der VAE umfasst. Trump kündigte an, in die Prüfung des konkurrierenden Netflix-Deals \"involviert\" zu sein und bezeichnete diesen als potenziell problematisch. Paramount-CEO David Ellison argumentiert, dass sein Angebot aufgrund der geringeren Größe und freundschaftlichen Beziehungen zur Trump-Administration weniger regulatorischer Prüfung unterliegen würde.",
-          "score": 9
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Film bro finds and ‘crash out cinema’: how Letterboxd became a review haven for the algorithm-averse",
-          "link": "https://www.theguardian.com/film/2025/dec/10/letterboxd-app-movie-review-social-media",
-          "summary": "Letterboxd, eine Film-Bewertungsplattform aus 2011, erlebte während der Corona-Pandemie einen Popularitätsschub und erreichte 2024 17 Millionen Nutzer, hauptsächlich zwischen 18-34 Jahren. Die App zieht Cinephilen an, die eine Alternative zu algorithmischen Empfehlungssystemen suchen und stattdessen auf kuratierte Watchlists und Community-basierte Filmkritiken setzen. Der Erfolg steht im Kontrast zur aktuellen Krise der Filmindustrie und wird durch virale Formate wie \"Letterboxd Four Favorites\" weiter befeuert.",
+          "source": "Deadline",
+          "title": "Google Takes Down Disney AI Videos Following Cease & Desist",
+          "link": "https://deadline.com/2025/12/google-takes-down-disney-ai-videos-cease-desist-1236647823/",
+          "summary": "Google hat nach einer Abmahnung von Disney Dutzende von AI-generierten Videos mit Disney-Charakteren wie Mickey Mouse, Deadpool und Moana von YouTube entfernt. Die Abmahnung erfolgte zeitgleich mit Disneys $1-Milliarden-Deal mit OpenAI (Google-Konkurrent) für die Lizenzierung von Disney-Charakteren für deren AI-Service Sora über drei Jahre. Disney wirft Google vor, dessen AI-Trainingsmodelle würden Disneys Urheberrechte \"in massivem Ausmaß\" verletzen, während das Unternehmen gleichzeitig demonstriert, wie legale Zusammenarbeit zwischen AI-Unternehmen und Content-Inhabern funktionieren kann.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Adam Schiff Talks Of Need For AI And Music Legislation, Says “There’s Going Be Accountability” As Execs Try To Win Trump’s Favor In WBD Deal",
-          "link": "https://deadline.com/2025/12/adam-schiff-trump-warner-bros-discovery-cnn-1236646359/",
-          "summary": "Senator Adam Schiff (D-CA) fordert verstärkte Schutzmaßnahmen für Content-Creator im Zeitalter der KI und äußert Optimismus bezüglich einer geplanten Musikbranche-Gesetzgebung. Er kritisiert Trumps Einmischung in die Warner Bros. Discovery-Übernahmeverhandlungen, insbesondere dessen Forderung nach einem CNN-Verkauf, als Bedrohung der Pressefreiheit und verfassungswidrige Nutzung regulatorischer Macht zur Inhaltsbeeinflussung.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Blake Lively Wasn’t Only High-Profile Smear Campaign By Baldoni Crisis PR, Alleges Jonesworks PR Firm Boss; Overlaps With Taylor Swift Attack, Astroturfing Study Finds",
-          "link": "https://deadline.com/2025/12/blake-lively-justin-baldoni-smear-campaign-allegation-1236643956/",
-          "summary": "Blake Lively's Verleumdungsklage gegen Justin Baldoni wegen einer angeblichen Online-Schmutzkampagne gewinnt an Bedeutung, nachdem eine Datenanalyse von GUDEA Verbindungen zwischen den gegen Lively gerichteten Angriffen und ähnlichen Kampagnen gegen Taylor Swift und Rebel Wilson aufdeckte. Die Studie zeigt eine überlappende Nutzerschaft bei \"inauthentischen Narrativen\" gegen diese Prominenten, was auf ein koordiniertes Astroturfing-Netzwerk hindeutet. Lively fordert Schadenersatz von etwa 500 Millionen Dollar und behauptet, die Kampagne habe ihrem Ruf geschadet und ihr berufliche Möglichkeiten gekostet.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "‘Matlock’ Boss Breaks Down Midseason Finale, Senior’s Fate and Promises to Wrap Up Show’s Key Scandal",
-          "link": "https://www.hollywoodreporter.com/tv/tv-features/matlock-midseason-finale-senior-fate-wellbrexa-scandal-interview-1236448524/",
-          "summary": "Die CBS-Serie \"Matlock\" mit Kathy Bates erreichte ihr Midseason-Finale, nachdem die Hauptfigur Matty als wohlhabende Madeline Kingston entlarvt wurde, die sich in die Anwaltskanzlei Jacobson Moore eingeschleust hat, um sie für den Schutz des Pharmaunternehmens Wellbrexa zur Rechenschaft zu ziehen, das sie für den Opioid-bedingten Tod ihrer Tochter verantwortlich macht. Olympia (Skye P. Marshall) entdeckte Mattys wahre Identität, was ihre Freundschaft zerstörte und sie vor die Wahl stellte, entweder ihren Ex-Partner Julian oder dessen Vater Senior zu schützen. Die Serie-Showrunnerin verspricht, den zentralen Wellbrexa-Skandal in der kommenden Staffel aufzulösen.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Streaming Ratings: ‘All Her Fault’ Surges in Second Week",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-nov-10-16-2025-1236448557/",
-          "summary": "Peacock's \"All Her Fault\" mit Sarah Snook und Dakota Fanning erzielte in der zweiten Woche einen Anstieg von 92% auf 867 Millionen Streaming-Minuten und erreichte damit den besten Einzelwochenwert für eine Original-Scripted-Serie in der Geschichte des NBCUniversal-Streamers. Die Serie rangierte auf Platz 3 der Original-Serien in den Nielsen-Streaming-Charts, während Netflix's \"Stranger Things\" mit 1,35 Milliarden Minuten die Gesamtwertung anführte. Netflix's neue Drama-Serie \"The Beast in Me\" hatte mit 952 Millionen Minuten den stärksten Wochenstart.",
+          "title": "James Cameron On Pending Netflix-Warner Bros Merger: “You Can’t Just Steamroll Theatrical Out Of Existence”",
+          "link": "https://deadline.com/2025/12/netflix-warner-bros-james-cameron-theatrical-business-1236647533/",
+          "summary": "James Cameron äußert sich kritisch zu einer möglichen Netflix-Warner Bros Fusion und befürchtet negative Auswirkungen auf das Kinowesen, da Netflix seiner Ansicht nach das traditionelle Kinoerlebnis durch Streaming ersetzen möchte. Trotz Netflix-Co-CEO Ted Sarandos' Beteuerungen, theatrical-freundlich zu sein, bleibt Cameron skeptisch und kündigt Widerstand gegen eine Verdrängung des Kinogeschäfts an. Ein zentraler Streitpunkt ist das Verwertungsfenster, wobei Sarandos nur 17 Tage exklusive Kinoauswertung befürwortet, während die Kinobetreiber 45 Tage fordern.",
           "score": 9
         },
         {
-          "source": "Variety",
-          "title": "First Rohingya-Language Feature ‘Lost Land’ Wins Golden Yusr at Red Sea Film Festival",
-          "link": "https://variety.com/2025/film/asia/red-sea-awards-lost-land-anthony-hopkins-idris-elba-1236607405/",
-          "summary": "\"Lost Land\" von Akio Fujimoto, der erste Spielfilm in Rohingya-Sprache über zwei Geschwister auf der Flucht aus Myanmar nach Malaysia, gewann den Golden Yusr als bester Film beim Red Sea Film Festival in Jeddah. Der Film, der bereits bei den Filmfestspielen von Venedig den Spezialpreis der Jury erhielt, wurde für seine empathische Darstellung vertriebener Kinder ausgezeichnet und mit einem Preisgeld von 100.000 Dollar prämiert. Den Silbernen Yusr erhielt Cherien Dabis' \"All That's Left of You\" über drei Generationen einer palästinensischen Familie.",
+          "source": "Deadline",
+          "title": "‘Zootopia 2’ Still Making Noise In Third Weekend With $25M No. 1 Haul – Box Office Update",
+          "link": "https://deadline.com/2025/12/box-office-zootopia-2-five-nights-at-freddys-2-ella-mccay-1236647494/",
+          "summary": "Disney's \"Zootopia 2\" behauptet sich mit $25M am dritten Wochenende als Box-Office-Spitzenreiter und erreicht eine Gesamtsumme von $257.6M, während es als schnellster Hollywood-Animationsfilm die $1 Milliarde-Marke global überschreitet. \"Five Nights at Freddy's 2\" folgt auf Platz 2 mit $19.6M (-69%) und zeigt bessere Haltefähigkeit als der erste Teil, der parallel auf Peacock lief. \"Wicked: For Good\" hält sich mit $8M auf Platz 3, liegt jedoch 13% hinter dem Tempo des ersten \"Wicked\"-Films zum gleichen Zeitpunkt.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Jane Fonda Spoofs Nicole Kidman’s Beloved AMC Theatres Ad With Warner Bros. Twist: “Somehow Mergers Feel Good in a Place Like This”",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/jane-fonda-nicole-kidman-amc-ad-warner-bros-merger-1236449891/",
+          "summary": "Jane Fonda parodierte Nicole Kidmans ikonische AMC-Kino-Werbung, um die Warner Bros. Discovery-Fusion zu kritisieren, wobei sie Zeilen wie \"Somehow mergers feel good in a place like this\" verwendete. Die zweifache Oscar-Preisträgerin nutzte das Video, um ihre Opposition gegen Medienkonsolidierung auszudrücken und bezeichnete solche Deals als Bedrohung für die Unterhaltungsindustrie und den ersten Verfassungszusatz. Das Parodie-Video endete damit, dass Fonda aus dem Kino geworfen wurde, bevor es abgerissen werden sollte.",
+          "score": 10
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "TV Academy Reveals Nomination Date(s) for 2026 Emmys",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/2026-emmys-nominations-dates-voting-periods-calendar-1236449777/",
+          "summary": "Die TV Academy hat die Nominierungstermine für die Emmy-Verleihung 2026 bekanntgegeben, die am 14. September (Montag) stattfindet. Während die meisten Nominierungen am 8. Juli 2026 verkündet werden, erfolgt die Bekanntgabe für 13 handwerkliche Kategorien (Kamera, Ton, Musik, Beleuchtung) erst eine Woche später am 15. Juli. Diese zeitliche Trennung ist neu, obwohl der zweistufige Abstimmungsprozess mit Peer-Group-Screening-Panels für diese Kategorien bereits etabliert ist.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Netflix Teams with Roy Lee, Zach Cregger to Tackle Brian Michael Bendis-Marc Andreyko Graphic Novel ‘Torso’ (Exclusive)",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/torso-movie-zach-cregger-netflix-1236449285/",
+          "summary": "Netflix hat sich die Filmrechte an der Graphic Novel \"Torso\" von Brian Michael Bendis und Marc Andreyko nach einem intensiven Bieterkampf für einen siebenstelligen Betrag gesichert. Das True-Crime-Projekt behandelt Elliot Ness' Zeit in Cleveland bei der Jagd auf einen Serienkiller und wird von Roy Lee (Vertigo Entertainment) und Zach Cregger (Subconscious) sowie Alex Hedlund und Nick Antosca (Eat the Cat) produziert. Die Adaption der bereits über zwei Jahrzehnte in Hollywood kursierenden Geschichte befindet sich in der frühen Entwicklungsphase ohne festgelegten Autor oder Regisseur.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "‘Diablo IV’ Paladin Expansion, New ‘Divinity’ Game, Lenny Kravitz as ‘007 First Light’ Bond Villain and More Reveals From 2025 Game Awards",
-          "link": "https://variety.com/2025/gaming/news/diablo-iv-paladin-divinity-game-007-first-light-game-awards-1236606894/",
-          "summary": "Blizzard kündigte bei den 2025 Game Awards die lang erwartete Paladin-Klasse für \"Diablo IV\" sowie die \"Lord of Hatred\"-Erweiterung für April an. Der Paladin kombiniert klassische Fähigkeiten aus Diablo II wie Auren und Blessed Hammer mit dem modernen Kampfsystem von Diablo IV. Neben Blizzard präsentierten auch andere Entwickler bedeutende Ankündigungen, darunter ein neues \"Divinity\"-Spiel und \"007 First Light\" mit Lenny Kravitz als Bösewicht.",
+          "title": "Google Removes AI Videos of Disney Characters After Cease and Desist Letter",
+          "link": "https://variety.com/2025/film/news/google-removes-ai-videos-disney-characters-cease-desist-1236608015/",
+          "summary": "Google entfernte nach einer Unterlassungsaufforderung von Disney dutzende KI-generierte Videos mit Disney-Figuren (Mickey Mouse, Deadpool, Star Wars-Charaktere etc.) von YouTube, von denen viele mit Googles eigenem KI-Video-Tool Veo erstellt wurden. Die Maßnahme erfolgte kurz vor Disneys Ankündigung einer Lizenzvereinbarung mit OpenAI für 200 Charaktere zur Nutzung in deren Sora-Tool. Disney versucht damit eine klare Linie gegen unlizenzierte KI-Nutzung seiner Charaktere zu ziehen und forderte die Entfernung einer umfangreichen Liste von Figuren aus verschiedenen Franchises.",
           "score": 7
         }
       ]
