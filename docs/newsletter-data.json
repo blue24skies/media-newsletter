@@ -1,175 +1,84 @@
 {
   "newsletters": [
     {
-      "date": "2025-12-13",
+      "date": "2025-12-14",
       "articles": [
         {
           "source": "DWDL",
-          "title": "MTV streicht Musikvideos ab 2026 aus dem Programm",
-          "link": "https://www.dwdl.de/nachrichten/104897/mtv_streicht_musikvideos_ab_2026_aus_dem_programm/",
-          "summary": "MTV Deutschland stellt zum 1. Januar 2026 die Ausstrahlung von Musikvideos vollständig ein und beendet damit eine jahrzehntelange Ära des Musikfernsehens. Der Sender wird künftig ausschließlich auf Reality-TV, Dokusoaps und Clipshows setzen, nachdem Musikinhalte bereits in den vergangenen Jahren sukzessive reduziert wurden. Die letzte Musiksendung läuft in den frühen Morgenstunden des Neujahrstags 2026.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "HR-Chef Florian Hager: \"Wir sind klar unterfinanziert\"",
-          "link": "https://www.dwdl.de/nachrichten/104896/hrchef_florian_hager_wir_sind_klar_unterfinanziert/",
-          "summary": "Der Hessische Rundfunk plant für 2026 mit einem rechnerischen Überschuss von 30 Millionen Euro bei 563 Millionen Euro Aufwendungen, jedoch kritisiert HR-Intendant Florian Hager eine klare Unterfinanzierung durch den eingefrorenen Rundfunkbeitrag bei steigenden Kosten. Der ausgewiesene Überschuss basiert größtenteils auf buchhalterischen Effekten und führt nicht zu erhöhter operativer Handlungsfähigkeit, weshalb weiterhin Personalabbau und gezielte Investitionspriorisierung notwendig bleiben.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Tage, die es nicht gab\" läuft nur zum Start um 20:15 Uhr",
-          "link": "https://www.dwdl.de/nachrichten/104894/tage_die_es_nicht_gab_laeuft_nur_zum_start_um_2015_uhr/",
-          "summary": "Das Erste startet am 4. Februar mit der zweiten Staffel von \"Tage, die es nicht gab\" um 20:15 Uhr, zeigt jedoch nur die ersten beiden Folgen in der Primetime - die restlichen sechs Episoden laufen ab 0:15 Uhr. Die ARD verfolgt damit eine Mediathek-First-Strategie, da die komplette achtteilige Staffel bereits ab 16. Januar online verfügbar ist. In der neuen Staffel \"Tödliche Geheimnisse\" werden die vier Freundinnen in einen Mordfall verwickelt, als die Tochter einer von ihnen eine Leiche findet.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "RTL schraubt am Übertragungskonzept der NFL",
-          "link": "https://www.dwdl.de/nachrichten/104888/rtl_schraubt_am_uebertragungskonzept_der_nfl/",
-          "summary": "RTL führt ab dem kommenden Sonntag den \"Playoff-Alarm\" ein - eine Mini-Konferenz-Schaltung, bei der während der Hauptübertragung zu relevanten Szenen anderer NFL-Spiele gewechselt wird, um deren Playoff-Auswirkungen zu erläutern. Hintergrund sind schwache Quoten der bisherigen NFL-Übertragungen mit Marktanteilen zwischen 6,9-7,4% (14-49 Jahre), während der Super Bowl zuletzt über 60% Marktanteil erreichte. Das neue Format soll in der entscheidenden Phase der Regular Season für mehr Zuschauerbindung sorgen.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Liefers und Prahl bleiben dem Münster-\"Tatort\" noch länger erhalten",
-          "link": "https://www.dwdl.de/nachrichten/104889/liefers_und_prahl_bleiben_dem_muenstertatort_noch_laenger_erhalten/",
-          "summary": "Der WDR-Rundfunkrat hat längerfristige Darstellerverträge für Jan Josef Liefers und Axel Prahl genehmigt, wodurch die Fortsetzung des erfolgreichen Münster-\"Tatorts\" gesichert ist. Zusätzlich wurden der Wirtschaftsplan 2026 mit Erträgen von 1,7 Milliarden Euro sowie weitere Programmverträge für \"Kölner Treff\" und \"Gefragt - Gejagt\" bewilligt. Nach anfänglichen Problemen bezüglich geschlechtergerechter Vergütung erhielt auch der Fernsehfilm \"Doitscha\" die finale Zustimmung.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "RTL startet mit Bahro und Ströbel ins neue Krimi-Jahr",
-          "link": "https://www.dwdl.de/nachrichten/104885/rtl_startet_mit_bahro_und_stroebel_ins_neue_krimijahr/",
-          "summary": "RTL erweitert sein Krimi-Portfolio am \"tödlichen Dienst-Tag\" um zwei neue Reihen: \"Haveltod - Ein Potsdams-Krimi\" mit Wolfgang Bahro startet am 13. Januar 2025, gefolgt von \"Einsatz Seeler - Ein Lübeck-Krimi\" mit Sebastian Ströbel eine Woche später. Die Strategie zahlt sich aus - RTLs Dienstags-Krimis erreichten zuletzt durchweg zweistellige Marktanteile beim Gesamtpublikum, wobei \"Alpentod\" mit über drei Millionen Zuschauern besonders erfolgreich war.",
+          "title": "ZDF: Strengere Regeln bei Beauftragung von Dienstleistern",
+          "link": "https://www.dwdl.de/nachrichten/104890/zdf_strengere_regeln_bei_beauftragung_von_dienstleistern/",
+          "summary": "Das ZDF verschärft seine Compliance-Regeln für die Beauftragung von Dienstleistern in Krisengebieten und autoritären Staaten, nachdem bekannt wurde, dass ein getöteter Techniker der Produktionsfirma PMP in Gaza Hamas-Mitglied war. Künftig werden neben Qualität und Zuverlässigkeit auch systematische Background-Checks der Mitarbeiter durchgeführt, die Selbstauskünfte, Referenzen, Social-Media-Profile und externe Expertenprüfungen umfassen. Das ZDF hat die Zusammenarbeit mit PMP bereits eingestellt und will durch die neuen Standards potenzielle Risiken bei der Berichterstattung aus schwer zugänglichen Gebieten minimieren.",
           "score": 8
         },
         {
           "source": "Horizont Medien",
-          "title": "Medienaufsicht: Thorsten Schmiege als Chef der BLM bestätigt",
-          "link": "https://www.horizont.net/medien/nachrichten/medienaufsicht-thorsten-schmiege-als-chef-der-blm-bestaetigt-232421?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Thorsten Schmiege wurde für eine zweite Amtszeit von fünf Jahren als Präsident der Bayerischen Landeszentrale für neue Medien (BLM) wiedergewählt. Der Jurist bleibt damit weiterhin Bayerns Chefaufseher für Privatsender und Streamingplattformen.",
-          "score": 8
+          "title": "360-Grad-Vermarktung: Kicker gibt BCN den Laufpass und vermarktet Print wieder selbst",
+          "link": "https://www.horizont.net/medien/nachrichten/360-grad-vermarktung-kicker-gibt-bcn-den-laufpass-und-vermarktet-print-wieder-selbst-232383?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der Kicker übernimmt die Vermarktung seiner Printprodukte wieder in Eigenregie und beendet damit die Zusammenarbeit mit dem bisherigen Printvermarkter BCN. Ziel ist es, Werbekunden zur Fußball-WM 2026 eine integrierte 360-Grad-Vermarktung über alle Kanäle hinweg anzubieten.",
+          "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Übertragung der Handball-WM: Sporteurope.TV-Chef kontert DHB-Präsident in Debatte um Handball-WM",
-          "link": "https://www.horizont.net/medien/nachrichten/uebertragung-der-handball-wm-sporteurope.tv-chefkontert-dhb-praesident-in-debatte-um-handball-wm-232415?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Sporteurope.TV überträgt im Gegensatz zu ARD und ZDF alle 108 Spiele der Handball-WM und positioniert sich damit als Alternative zu den öffentlich-rechtlichen Sendern. Der Chef des Streaming-Dienstes übt Kritik an DHB-Präsident Andreas Michelmann und dessen Haltung in der aktuellen TV-Übertragungsdebatte. Die Auseinandersetzung verdeutlicht die Spannungen zwischen traditionellen Sendern und neuen Streaming-Anbietern bei der Vermarktung von Sportrechten.",
-          "score": 9
+          "title": "Vor der Eröffnung von Terminal 3: So gestaltet Media Frankfurt das modernste OOH-Ökosystem Europas",
+          "link": "https://www.horizont.net/medien/nachrichten/vor-der-eroeffnung-von-terminal-3-so-gestaltet-media-frankfurt-das-modernste-ooh-oekosystem-europas-232336?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Media Frankfurt entwickelt für das im April 2026 eröffnende Terminal 3 am Frankfurter Flughafen ein hochmodernes Out-of-Home-Werbeumfeld, das nach Angaben des Vermarkters zu den spektakulärsten Markenbühnen Europas gehören soll. Geschäftsführer Martin Korosec verspricht Werbungtreibenden einen \"strategischen Quantensprung\" durch das neue digitale OOH-Ökosystem.",
+          "score": 7
         },
         {
           "source": "kress",
-          "title": "Kein Stellenabbau bei ProSiebenSat.1 geplant",
-          "link": "https://kress.de/news/beitrag/151535-mfe-chef-berlusconi-kein-stellenabbau-bei-prosiebensat-1-geplant.html",
-          "summary": "MFE-CEO Pier Silvio Berlusconi schließt nach der 75%-Übernahme von ProSiebenSat.1 einen direkten Stellenabbau aktuell aus, kann ihn jedoch nicht grundsätzlich ausschließen. Der neue Geschäftsplan soll Synergien heben und Kosten senken, während eine stärkere Fokussierung auf TV und Entertainment sowie mögliche Verkäufe von Randgeschäften im E-Commerce erwartet werden. Berlusconi bezeichnete das wirtschaftliche Umfeld in Deutschland als herausfordernd und das vierte Quartal 2025 in allen Märkten als schwach.",
-          "score": 10
+          "title": "Anna Thorwirth steuert bei Oberauer Awards & Formate",
+          "link": "https://kress.de/news/beitrag/151538-anna-thorwirth-steuert-bei-oberauer-awards-amp-formate.html",
+          "summary": "Anna Thorwirth kehrt zum Medienfachverlag Oberauer zurück und übernimmt die strategische Weiterentwicklung der Branchenwettbewerbe sowie des Kongressgeschäfts. Die ehemalige Projektmanagerin (2016-2024) war zuletzt bei der Kommunikationsberatung goodthoughts tätig und wird nun auch die DPRG-Kooperation und das Sponsoring-Key-Accounting verantworten. Oberauer-Geschäftsführer Johann Oberauer sieht in ihrer Rückkehr eine Stärkung für die Weiterentwicklung bestehender Formate und die Gestaltung neuer Angebote.",
+          "score": 7
         },
         {
           "source": "kress",
-          "title": "Führungswechsel bei RTL Hessen: Katrin Raap löst Eberhard Volk ab Eberhard Volk gibt nach über 20 Jahren die Geschäftsführung von RTL Hessen ab.",
-          "link": "https://kress.de/news/beitrag/151536-fuehrungswechsel-bei-rtl-hessen-katrin-raap-loest-eberhard-volk-ab.html",
-          "summary": "Katrin Raap übernimmt zum 1. März 2026 die Geschäftsführung von RTL Hessen und löst damit Eberhard Volk ab, der sich nach über 20 Jahren aus familiären Gründen zurückzieht. Die Volljuristin Raap ist seit 1997 bei RTL Deutschland tätig, leitete ab 2015 das Produktionsmanagement der infoNetwork GmbH und verantwortet seit 2021 bei RTL News den Bereich Produktionsservices und Lizenzierung. Der Wechsel markiert eine strategische Neuausrichtung des regionalen RTL-Standorts unter erfahrener interner Führung.",
+          "title": "ZDF sucht einen Redakteur (m/w/d) mit Schwerpunkt Video-Koordination für digitale...",
+          "link": "https://kress.de/news/beitrag/151534-zdf-sucht-einen-redakteur-m-w-d-mit-schwerpunkt-video-koordination-fuer-digitale-nachrichtenangebote-in-mainz.html",
+          "summary": "Das ZDF sucht einen Redakteur für die Video-Koordination digitaler Nachrichtenangebote, der interne und externe Teams bei der Erstellung von Videos für YouTube, TikTok und andere Plattformen betreut. Die Position umfasst Themen-Identifizierung, Storytelling, Analytics-basierte Erfolgsmessung sowie die Entwicklung neuer journalistischer Videoformate für die Zielgruppe 18-30 Jahre. Vorausgesetzt werden Studium oder mehrjährige Erfahrung in digitalen Nachrichtenredaktionen, sehr gute Plattform-Kenntnisse und Bereitschaft zu Schichtarbeit.",
           "score": 7
         },
         {
           "source": "kress",
           "title": "Mediengruppe Bayern darf MGO schlucken Das Bundeskartellamt hat die geplante Übernahme der...",
           "link": "https://kress.de/news/beitrag/151529-kartellamt-genehmigt-uebernahme-mediengruppe-bayern-darf-mgo-schlucken.html",
-          "summary": "Das Bundeskartellamt hat die Übernahme der Mediengruppe Oberfranken (u.a. \"Fränkischer Tag\", \"Coburger Tageblatt\") durch die Mediengruppe Bayern (\"Passauer Neue Presse\", \"Donaukurier\") bereits im Vorprüfverfahren genehmigt. Kartellamtspräsident Mundt sieht keine wettbewerblichen Probleme, da beide Gruppen in unterschiedlichen bayerischen Regionen aktiv sind und kein unmittelbares Konkurrenzverhältnis besteht. Die Behörde prüfte primär die Auswirkungen auf Leser- und Anzeigenmarkt, nicht die Meinungsvielfalt.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Interview mit Kolja Kleist, Chief Commercial Officer Tagesspiegel: \"Unsere Chance ist die Dualität\" Kolja Kleist wechselte von Burda Forward zum \"Tagesspiegel\". Was treibt den erfahrenen Digitalmanager dazu, in der klassischen Verlagswelt anzuheuern, die mit enormen Herausforderungen zu kämpfen hat? Kleist ist der Meinung, dass starke Medienmarken",
-          "link": "https://meedia.de/news/beitrag/20761-tagesspiegel-quot-unsere-chance-ist-die-dualitaet-quot.html",
-          "summary": "Kolja Kleist wechselte von Burda Forward als neuer Chief Commercial Officer zum Tagesspiegel, wo er seit Februar für alle Vermarktungs- und Business-Development-Aktivitäten der Verlagsgruppe verantwortlich ist. Der erfahrene Digitalmanager sieht trotz der Herausforderungen im klassischen Verlagswesen großes Potenzial für starke Medienmarken bei richtiger Positionierung. Die Position des CCO wurde von der Holtzbrinck-Tochter eigens für Kleist geschaffen, der über 20 Jahre Medienerfahrung mitbringt.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "Copa del Rey DAZN sichert sich den spanischen Pokalwettbewerb für vier Spielzeiten Der Wettbewerb trägt das Königliche im Titel.",
-          "link": "https://meedia.de/news/beitrag/20762-dazn-sichert-sich-den-spanischen-pokalwettbewerb-fuer-vier-spielzeiten.html",
-          "summary": "DAZN hat sich die exklusiven Übertragungsrechte für die spanische Copa del Rey in der DACH-Region für vier Spielzeiten bis 2028/29 gesichert. Der Deal stärkt DAZNs Position als \"Heimat des internationalen Spitzenfußballs\" und ergänzt das bestehende LaLiga-Angebot um den traditionsreichen spanischen Pokalwettbewerb mit Top-Vereinen wie Real Madrid, FC Barcelona und Atlético Madrid. Die Übertragungen beginnen bereits am 16. Dezember mit der Runde der letzten 32 Teams.",
+          "summary": "Das Bundeskartellamt hat die Übernahme der Mediengruppe Oberfranken (u.a. \"Fränkischer Tag\", \"Coburger Tageblatt\") durch die Mediengruppe Bayern (\"Passauer Neue Presse\", \"Donaukurier\") bereits im Vorprüfverfahren genehmigt. Kartellamtspräsident Mundt sieht keine wettbewerblichen Probleme, da beide Gruppen in unterschiedlichen bayerischen Regionen aktiv sind und kein unmittelbares Konkurrenzverhältnis besteht. Die Behörde prüfte dabei primär die Auswirkungen auf Leser- und Anzeigenmarkt, nicht jedoch Aspekte der Meinungsvielfalt.",
           "score": 8
         },
         {
-          "source": "meedia",
-          "title": "News und Werbung in Dauerrotation Spanischer FAST-Channel-Entwickler bringt den Sender Nachrichten 360 nach Deutschland Das Vermarktungsgeschäft mit CTV-Werbung im Streaming boomt. Laufend werden neue Angebote lanciert. Ungewöhnlich ist allerdings der Marktantritt von Nachrichten 360. Der Nischensender zeigt News rund um die Uhr",
-          "link": "https://meedia.de/news/beitrag/20760-spanischer-fast-channel-entwickler-bringt-den-sender-nachrichten-360-nach-deutschland.html",
-          "summary": "Das spanische Start-up Love TV Channels launcht den FAST-Channel \"Nachrichten 360\" auf Samsung TV Plus in Deutschland, der rund um die Uhr Nachrichtenmaterial von Agenturen wie dpa, AFP und Reuters ausstrahlt. Anders als übliche FAST-Angebote nutzt das Unternehmen keine eigenen Inhalte, sondern lizenziert gezielt News-Content für die werbefinanzierte Streaming-Vermarktung. Das Konzept folgt dem erfolgreichen spanischen Vorbild \"Actualidad 360\" und zielt auf die zusätzlichen CTV-Werbeerlöse im boomenden Streaming-Markt ab.",
-          "score": 10
+          "source": "kress",
+          "title": "Don Bosco Medien sucht eine Stellvertretende Redaktionsleitung/Stellvertretende Leitung...",
+          "link": "https://kress.de/news/beitrag/151527-don-bosco-medien-sucht-eine-stellvertretende-redaktionsleitung-stellvertretende-leitung-content-room-m-w-d-in-muenchen.html",
+          "summary": "Don Bosco Medien sucht eine Stellvertretende Redaktionsleitung für den Standort München, die sowohl das Don Bosco Magazin crossmedial betreuen als auch beim strategischen Aufbau eines neuen Content-Rooms mitwirken soll. Die Position umfasst die redaktionelle Leitung von Print-, Digital- und Social-Media-Kanälen sowie die Entwicklung neuer Content-Formate und Auftragsarbeiten wie Podcasts und Websites. Vorausgesetzt werden ein Medien-/Kommunikationsstudium und mehrjährige Führungserfahrung in der crossmedialen Content-Erstellung.",
+          "score": 7
         },
         {
-          "source": "meedia",
-          "title": "Neue Vermarktungsmöglichkeit? Youtube TV bringt günstige Themenkanäle YouTube TV, der...",
-          "link": "https://meedia.de/news/beitrag/20759-youtube-tv-bringt-guenstige-themenkanaele.html",
-          "summary": "YouTube TV führt Anfang 2026 eine grundlegende Neustrukturierung ein: Anstelle des bisherigen 73-Dollar-Pakets mit über 100 Kanälen können Kunden künftig aus mehr als zehn genre-spezifischen Abonnements wählen, darunter ein eigenes Sportpaket mit ESPN Unlimited-Zugang. Die Initiative zielt sowohl auf flexiblere Nutzererfahrungen als auch strategisch auf den CTV-Werbemarkt ab, wobei insbesondere US-Sport-Inhalte auch für europäische Märkte interessant werden könnten.",
+          "source": "kress",
+          "title": "Weidel attackiert Welt-Chef Burgard",
+          "link": "https://kress.de/news/beitrag/151522-weidel-attackiert-welt-chef-burgard-und-erklaert-die-medien-zum-vollversager.html",
+          "summary": "AfD-Chefin Alice Weidel kritisierte nach einem 35-minütigen Interview mit Welt-Chefredakteur Jan-Philipp Burgard dessen Framing und warf ihm vor, ihr \"Nazi-Parolen\" in den Mund gelegt zu haben, nachdem er sie auf Höckes Verurteilung wegen \"Alles für Deutschland\" ansprach. Weidel attackierte anschließend pauschal die Medienbranche als \"Vollversager\" und beklagte, dass über kontroverse Aussagen statt über Wirtschafts- und Migrationskrisen gesprochen werde. Burgard wies die Vorwürfe zurück und verwies darauf, dass das ungeschnittene Interview vollständig verfügbar sei.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "\"The Next Big Scroll\" 10 Trends, die das Social Web 2026 prägen werden Es ist die Zeit der großen Rückblicke und Prognosen.",
-          "link": "https://meedia.de/news/beitrag/20748-10-trends-die-das-social-web-2026-praegen-werden.html",
-          "summary": "We Are Era und Social Match haben den Trendreport \"The Next Big Scroll\" veröffentlicht, der auf über 70 Seiten die 10 wichtigsten Social-Media-Trends für 2026 analysiert. Der Report behandelt zentrale Fragen zur Zukunft des Community-Marketings und der Creator Economy, basierend auf Insights von über 15 Branchenexperten. Ziel ist es, Marken und Agenturen strategische Einblicke zu geben, wie sie 2026 im Social Web relevant bleiben können.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Deal or no deal? The inside story of the battle for Warner Bros",
-          "link": "https://www.theguardian.com/news/ng-interactive/2025/dec/13/deal-or-no-deal-the-inside-story-of-the-battle-for-warner-bros",
-          "summary": "Netflix bietet 82,7 Milliarden Dollar für Warner Bros Discovery (inklusive CNN, HBO, Batman-Franchise), während das Trump-nahe Paramount Skydance mit einem feindlichen 108-Milliarden-Dollar-Gegenangebot kontert. Trump kündigte an, sich in den Regulierungsprozess einzumischen, was bei Experten Bedenken über politische Einflussnahme auf eine der größten Medien-Fusionen der Geschichte auslöst. Der Deal könnte sowohl die Hollywood-Landschaft als auch den Nachrichtensektor weltweit grundlegend verändern.",
-          "score": 10
-        },
-        {
-          "source": "Deadline",
-          "title": "Google Takes Down Disney AI Videos Following Cease & Desist",
-          "link": "https://deadline.com/2025/12/google-takes-down-disney-ai-videos-cease-desist-1236647823/",
-          "summary": "Google hat nach einer Abmahnung von Disney Dutzende von AI-generierten Videos mit Disney-Charakteren wie Mickey Mouse, Deadpool und Moana von YouTube entfernt. Die Abmahnung erfolgte zeitgleich mit Disneys $1-Milliarden-Deal mit OpenAI (Google-Konkurrent) für die Lizenzierung von Disney-Charakteren für deren AI-Service Sora über drei Jahre. Disney wirft Google vor, dessen AI-Trainingsmodelle würden Disneys Urheberrechte \"in massivem Ausmaß\" verletzen, während das Unternehmen gleichzeitig demonstriert, wie legale Zusammenarbeit zwischen AI-Unternehmen und Content-Inhabern funktionieren kann.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "James Cameron On Pending Netflix-Warner Bros Merger: “You Can’t Just Steamroll Theatrical Out Of Existence”",
-          "link": "https://deadline.com/2025/12/netflix-warner-bros-james-cameron-theatrical-business-1236647533/",
-          "summary": "James Cameron äußert sich kritisch zu einer möglichen Netflix-Warner Bros Fusion und befürchtet negative Auswirkungen auf das Kinowesen, da Netflix seiner Ansicht nach das traditionelle Kinoerlebnis durch Streaming ersetzen möchte. Trotz Netflix-Co-CEO Ted Sarandos' Beteuerungen, theatrical-freundlich zu sein, bleibt Cameron skeptisch und kündigt Widerstand gegen eine Verdrängung des Kinogeschäfts an. Ein zentraler Streitpunkt ist das Verwertungsfenster, wobei Sarandos nur 17 Tage exklusive Kinoauswertung befürwortet, während die Kinobetreiber 45 Tage fordern.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Zootopia 2’ Still Making Noise In Third Weekend With $25M No. 1 Haul – Box Office Update",
-          "link": "https://deadline.com/2025/12/box-office-zootopia-2-five-nights-at-freddys-2-ella-mccay-1236647494/",
-          "summary": "Disney's \"Zootopia 2\" behauptet sich mit $25M am dritten Wochenende als Box-Office-Spitzenreiter und erreicht eine Gesamtsumme von $257.6M, während es als schnellster Hollywood-Animationsfilm die $1 Milliarde-Marke global überschreitet. \"Five Nights at Freddy's 2\" folgt auf Platz 2 mit $19.6M (-69%) und zeigt bessere Haltefähigkeit als der erste Teil, der parallel auf Peacock lief. \"Wicked: For Good\" hält sich mit $8M auf Platz 3, liegt jedoch 13% hinter dem Tempo des ersten \"Wicked\"-Films zum gleichen Zeitpunkt.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Jane Fonda Spoofs Nicole Kidman’s Beloved AMC Theatres Ad With Warner Bros. Twist: “Somehow Mergers Feel Good in a Place Like This”",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/jane-fonda-nicole-kidman-amc-ad-warner-bros-merger-1236449891/",
-          "summary": "Jane Fonda parodierte Nicole Kidmans ikonische AMC-Kino-Werbung, um die Warner Bros. Discovery-Fusion zu kritisieren, wobei sie Zeilen wie \"Somehow mergers feel good in a place like this\" verwendete. Die zweifache Oscar-Preisträgerin nutzte das Video, um ihre Opposition gegen Medienkonsolidierung auszudrücken und bezeichnete solche Deals als Bedrohung für die Unterhaltungsindustrie und den ersten Verfassungszusatz. Das Parodie-Video endete damit, dass Fonda aus dem Kino geworfen wurde, bevor es abgerissen werden sollte.",
-          "score": 10
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "TV Academy Reveals Nomination Date(s) for 2026 Emmys",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/2026-emmys-nominations-dates-voting-periods-calendar-1236449777/",
-          "summary": "Die TV Academy hat die Nominierungstermine für die Emmy-Verleihung 2026 bekanntgegeben, die am 14. September (Montag) stattfindet. Während die meisten Nominierungen am 8. Juli 2026 verkündet werden, erfolgt die Bekanntgabe für 13 handwerkliche Kategorien (Kamera, Ton, Musik, Beleuchtung) erst eine Woche später am 15. Juli. Diese zeitliche Trennung ist neu, obwohl der zweistufige Abstimmungsprozess mit Peer-Group-Screening-Panels für diese Kategorien bereits etabliert ist.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Netflix Teams with Roy Lee, Zach Cregger to Tackle Brian Michael Bendis-Marc Andreyko Graphic Novel ‘Torso’ (Exclusive)",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/torso-movie-zach-cregger-netflix-1236449285/",
-          "summary": "Netflix hat sich die Filmrechte an der Graphic Novel \"Torso\" von Brian Michael Bendis und Marc Andreyko nach einem intensiven Bieterkampf für einen siebenstelligen Betrag gesichert. Das True-Crime-Projekt behandelt Elliot Ness' Zeit in Cleveland bei der Jagd auf einen Serienkiller und wird von Roy Lee (Vertigo Entertainment) und Zach Cregger (Subconscious) sowie Alex Hedlund und Nick Antosca (Eat the Cat) produziert. Die Adaption der bereits über zwei Jahrzehnte in Hollywood kursierenden Geschichte befindet sich in der frühen Entwicklungsphase ohne festgelegten Autor oder Regisseur.",
+          "title": "Globale Havas-Studie Meaningful Brands Pampers ist die bedeutsamste und die dynamischste Marke in...",
+          "link": "https://meedia.de/news/beitrag/20742-pampers-ist-die-bedeutsamste-und-die-dynamischste-marke-in-deutschland.html",
+          "summary": "Laut der Havas-Studie \"Meaningful Brands 2025\" führt Pampers sowohl das Ranking der bedeutsamsten als auch der dynamischsten Marken in Deutschland an, gefolgt von PayPal/Amazon bzw. Hipp/WhatsApp. Die Studie zeigt jedoch einen alarmierenden Trend: 78% aller Marken könnten laut Verbrauchern über Nacht verschwinden, ohne dass es sie kümmern würde, während 60% der Befragten bereit sind, bei günstigeren oder komfortableren Alternativen sofort zu wechseln. Die Markenbindung erodiert zunehmend, da Konsumenten verstärkt Wert auf Nachhaltigkeit und ethische Unternehmensführung legen.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Google Removes AI Videos of Disney Characters After Cease and Desist Letter",
-          "link": "https://variety.com/2025/film/news/google-removes-ai-videos-disney-characters-cease-desist-1236608015/",
-          "summary": "Google entfernte nach einer Unterlassungsaufforderung von Disney dutzende KI-generierte Videos mit Disney-Figuren (Mickey Mouse, Deadpool, Star Wars-Charaktere etc.) von YouTube, von denen viele mit Googles eigenem KI-Video-Tool Veo erstellt wurden. Die Maßnahme erfolgte kurz vor Disneys Ankündigung einer Lizenzvereinbarung mit OpenAI für 200 Charaktere zur Nutzung in deren Sora-Tool. Disney versucht damit eine klare Linie gegen unlizenzierte KI-Nutzung seiner Charaktere zu ziehen und forderte die Entfernung einer umfangreichen Liste von Figuren aus verschiedenen Franchises.",
+          "title": "Big Advertisers Appear Wary of CBS News’ Bari Weiss Town Hall Format",
+          "link": "https://variety.com/2025/tv/news/advertisers-wary-cbs-news-bari-weiss-town-hall-1236608265/",
+          "summary": "CBS News startete ein neues Town Hall-Format unter der Leitung von Bari Weiss, der neuen Chefredakteurin, mit einem kontroversen Interview mit der CEO der konservativen Organisation Turning Point USA. Große Werbetreibende zeigten sich zurückhaltend bei der Unterstützung des Formats, was sich in einer geringen Präsenz etablierter Marken während der Werbeblöcke widerspiegelte. CBS plant trotz der anfänglichen Werbe-Skepsis weitere Town Halls und Debatten in diesem neuen Format.",
           "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Pink Floyd’s Nick Mason Recalls the Making of ‘Wish You Were Here,’ as 50th Anniversary Boxed Set Arrives: ‘There Wasn’t a Theme to the Record Until Syd Barrett Visited the Studio’",
+          "link": "https://variety.com/2025/music/news/pink-floyd-nick-mason-wish-you-were-here-boxed-set-interview-1236608245/",
+          "summary": "Pink Floyd-Schlagzeuger Nick Mason erläutert in einem Interview anlässlich der 50th Anniversary Boxed Set von \"Wish You Were Here\", dass das Album ursprünglich kein einheitliches Thema besaß, bis Syd Barrett überraschend das Studio besuchte. Die Jubiläumsedition enthält unveröffentlichte Demos, Live-Aufnahmen und Dolby Atmos-Mixe. Mason ist das einzige Bandmitglied, das auf allen Pink Floyd-Alben von 1967 bis zum Ende der Band mitwirkte.",
+          "score": 8
         }
       ]
     }
