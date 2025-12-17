@@ -1,237 +1,202 @@
 {
   "newsletters": [
     {
-      "date": "2025-12-16",
+      "date": "2025-12-17",
       "articles": [
         {
-          "source": "DWDL",
-          "title": "Wow nun auch mit \"Filme & Serien\"-Paket bei Prime Video",
-          "link": "https://www.dwdl.de/nachrichten/104930/wow_nun_auch_mit_filme__serienpaket_bei_prime_video/",
-          "summary": "Sky und Amazon erweitern ihre Streaming-Partnerschaft: Nach dem bereits verfügbaren Live-Sport-Angebot ist nun auch das \"Filme & Serien\"-Paket von Wow als Zusatzkanal über Prime Video für 9,98 Euro monatlich buchbar. Kunden können damit Sky-Inhalte wie \"House of the Dragon\", \"Wicked\" und kommende Produktionen direkt über ihren Amazon-Account nutzen, ohne App-Wechsel oder zusätzliche Registrierung.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "Tommi Schmitt macht neue Fußballer-Doku für das ZDF",
-          "link": "https://www.dwdl.de/nachrichten/104925/tommi_schmitt_macht_neue_fussballerdoku_fuer_das_zdf/",
-          "summary": "Entertainer Tommi Schmitt produziert für das ZDF eine neue Fußballer-Dokumentation zur WM 2026, in der er die Nationalspieler Nick Woltemade, Nadiem Amiri und David Raum auf ihrem Weg zum Turnier begleitet. Dies ist bereits Schmitts dritte Kooperation mit dem ZDF nach erfolgreichen EM- und Hummels-Produktionen. Schmitt positioniert seine Arbeiten bewusst als neue Darstellungsform jenseits klassischer journalistischer Dokumentationen, bei der er durch seinen \"kumpeligen\" Ansatz authentische Einblicke in die Spielerpersönlichkeiten ermöglicht.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Philipp Welte verlässt Burda überraschend komplett",
-          "link": "https://www.dwdl.de/nachrichten/104924/philipp_welte_verlaesst_burda_ueberraschend_komplett/",
-          "summary": "Philipp Welte verlässt Burda zum Jahreswechsel überraschend komplett und verzichtet auf den geplanten Einzug in den Verwaltungsrat, um Platz für den Generationswechsel zu schaffen. Jan Wachtel von der Bauer Media Group übernimmt zum 1. Januar die Verantwortung für das nationale Verlagsgeschäft. Welte bleibt vorerst Vorstandsvorsitzender des Medienverbands der freien Presse und schließt nicht aus, sich nach neuen beruflichen Möglichkeiten umzusehen, will aber keine exekutive Verantwortung mehr übernehmen.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "DW ist in Russland jetzt eine \"unerwünschte Organisation\"",
-          "link": "https://www.dwdl.de/nachrichten/104917/dw_ist_in_russland_jetzt_eine_unerwuenschte_organisation/",
-          "summary": "Die russische Staatsanwaltschaft hat die Deutsche Welle als \"unerwünschte Organisation\" eingestuft, was eine Verschärfung gegenüber der bisherigen Klassifizierung als \"ausländischer Agent\" darstellt und jede Zusammenarbeit mit dem Sender unter Strafe stellt. Die Einstufung betrifft auch russische DW-Mitarbeiter weltweit und macht bereits das Teilen von DW-Inhalten strafbar. DW-Intendantin Massing kündigte an, trotz der Repressionen weiterhin unabhängig über den Ukraine-Krieg und andere in Russland zensierte Themen zu berichten.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Neuausrichtung: ARD-Audiothek wird 2026 zu ARD Sounds",
-          "link": "https://www.dwdl.de/nachrichten/104916/neuausrichtung_ardaudiothek_wird_2026_zu_ard_sounds/",
-          "summary": "Die ARD startet im März 2026 mit \"ARD Sounds\" eine umfassende Neuausrichtung ihrer digitalen Audiostrategie, die die bisherige Audiothek und über 40 eigenständige Radio-Apps in einer zentralen Plattform zusammenführt. Das neue Angebot soll durch personalisierte Empfehlungen und Echtzeit-Interaktion jüngere Zielgruppen besser erreichen und alle öffentlich-rechtlichen Audioinhalte von Live-Radio bis zu exklusiven Podcasts an einem Ort bündeln. Die technische Entwicklung erfolgt in Synergie mit der ARD-Mediathek, während der schrittweise Rollout als App-Update beginnt.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Geschäft mit der Liebe\": ATV hat gegen das Gesetz verstoßen",
-          "link": "https://www.dwdl.de/nachrichten/104915/geschaeft_mit_der_liebe_atv_hat_gegen_das_gesetz_verstossen/",
-          "summary": "Die österreichische Medienbehörde KommAustria hat schwerwiegende Rechtsverletzungen bei ATVs Reality-Format \"Das Geschäft mit der Liebe\" festgestellt, nachdem in einer Folge ein Protagonist eine alkoholisierte Frau gegen ihren Willen in eine Toilette zerrte und sexuelle Handlungen andeutete. Die Behörde wertet dies als Missachtung der Menschenwürde und Aufstachelung zur Gewalt gegen Frauen sowie als Verstoß gegen das Audiovisuelle Mediendienste-Gesetz. Zusätzlich verstieß ATV gegen Jugendschutzbestimmungen, da die problematische Folge mehrere Tage ohne Zugangssperre auf der Streaming-Plattform Joyn verfügbar war.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Free-TV-Sender DF1 will sich ab 2026 selbst vermarkten",
-          "link": "https://www.dwdl.de/nachrichten/104914/freetvsender_df1_will_sich_ab_2026_selbst_vermarkten/",
-          "summary": "Der Free-TV-Sender DF1 übernimmt ab 2026 die Vermarktung seines Werbeinventars selbst und beendet damit die bisherige Zusammenarbeit mit DAZN Media in diesem Bereich. Stefan Graf (ehemals Inovisco Mobile Media) wird den Aufbau der neuen Vermarktungseinheit leiten, während die Kooperation mit DAZN im Content-Bereich bestehen bleibt. DF1 verspricht sich von der Eigenvermarktung mehr Flexibilität und eine engere Verzahnung von Content und Werbepartnern bei aktuellen Marktanteilen von 0,1-0,2 Prozent.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "ProSiebenSat.1 verkauft Wetter-Portal \"wetter.com\" an Funke",
-          "link": "https://www.dwdl.de/nachrichten/104911/prosiebensat1_verkauft_wetterportal_wettercom_an_funke/",
-          "summary": "ProSiebenSat.1 verkauft sein Wetterportal \"wetter.com\" im Rahmen eines Asset-Deals an die Funke Mediengruppe, wobei die Mitarbeiter per Betriebsübergang übernommen werden und der Abschluss für Q1 2026 erwartet wird. Der Verkauf ist Teil der strategischen Konzentration auf das Kerngeschäft Entertainment, während Funke das Portal als bedeutende Ergänzung seines Digitalportfolios betrachtet. Der Kaufpreis wurde nicht kommuniziert, die Transaktion steht noch unter Kartellvorbehalt.",
+          "source": "Horizont Medien",
+          "title": "Jahresrückblick: Das waren die wichtigsten Ereignisse im Medien-Jahr 2025",
+          "link": "https://www.horizont.net/medien/nachrichten/rueckblick-das-waren-die-wichtigsten-ereignisse-im-medien-jahr-2025-232462?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Das Medienjahr 2025 war geprägt vom Ende einer Print-Ära, Googles kontroversen AI Overviews und Donald Trumps Drohungen gegen verschiedene Medienunternehmen. Diese drei Entwicklungen zählen zu den prägendsten Ereignissen, die die Medienbranche im vergangenen Jahr bewegten.",
           "score": 9
         },
         {
           "source": "Horizont Medien",
-          "title": "Medienkrieg des US-Präsidenten : Nach ABC, CBS, New York Times jetzt BBC - Trump reicht Milliardenklage ein",
-          "link": "https://www.horizont.net/medien/nachrichten/medienkrieg-des-us-praesidenten-nach-abc-cbs-new-york-times-jetzt-bbc---trump-reicht-milliardenklage-ein-232469?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "US-Präsident Donald Trump hat nach ABC, CBS und New York Times nun auch gegen die BBC eine Milliardenklage eingereicht, nachdem ihm eine Entschuldigung des britischen Senders wegen eines TV-Berichts nicht ausreichte. Trump setzt damit sein bekanntes Instrument fort, Medienhäuser systematisch mit Klagen zu überziehen.",
+          "title": "Von der Leinwand zum Streaming: Kinozeitschrift Cinema wird 50",
+          "link": "https://www.horizont.net/medien/nachrichten/von-der-leinwand-zum-streaming-kinozeitschrift-cinema-wird-50-232488?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Deutschlands traditionsreichstes Kinomagazin Cinema feiert sein 50-jähriges Bestehen mit dem Launch des Podcasts \"Cinema Classics – Der Making-of-Podcast – 50 Jahre Cinema\". Der Podcast wird von Cinema-Urgestein Ralf Blau und Co-Redaktionsleiterin Lisa Schwarz moderiert und beleuchtet die Historie des Magazins seit seinen Anfängen.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Crossmediale Kampagne: Driving home for Christmas: Ewe Go und Seven-One werben für E-Ladenetz",
+          "link": "https://www.horizont.net/medien/nachrichten/crossmediale-kampagne-driving-home-for-christmas-ewe-go-und-seven-one-werben-fuer-e-ladenetz-232460?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Ewe Go bewirbt in einer crossmedialen Weihnachtskampagne sein E-Ladenetz durch eine Kombination aus TV- und Podcast-Werbung während der reiseintensiven Adventszeit. Seven-One Media setzt dabei auf einen strategischen crossmedialen Ansatz, um die flächendeckende Verfügbarkeit der Elektro-Ladestationen zu kommunizieren.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "&quot;Angebot zurückgegeben&quot;: Burda-Magazinchef Philipp Welte geht nun doch nicht in den Verwaltungsrat",
-          "link": "https://www.horizont.net/medien/nachrichten/angebot-zurueckgegeben-burda-magazinchef-philipp-welte-geht-nun-doch-nicht-in-den-verwaltungsrat-232468?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Philipp Welte, langjähriger Verlagsvorstand bei Burda, wird entgegen ursprünglicher Pläne Anfang 2026 doch nicht in den Verwaltungsrat wechseln und hat das entsprechende Angebot nach Gesprächen mit der Verlegerfamilie zurückgegeben. Die Entscheidung verschärft den bereits laufenden Generationswechsel im Medienhaus Burda und wirft Fragen über die Hintergründe dieser überraschenden Kehrtwende auf.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Audio-Plattform: Aus der ARD Audiothek wird ARD Sounds",
-          "link": "https://www.horizont.net/medien/nachrichten/audio-plattform-aus-der-ard-audiothek-wird-ard-sounds-232452?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die ARD benennt ihre Audioplattform von \"ARD Audiothek\" in \"ARD Sounds\" um und entwickelt diese strategisch weiter. Ab Frühjahr 2026 werden sämtliche bestehenden Apps der ARD-Radiosender in die zentrale Plattform integriert. Diese Konsolidierung zielt auf eine einheitliche Audio-Strategie und verbesserte Nutzerführung ab.",
+          "title": "Streaming: Wow bietet Film- und Serienkanal bei Prime Video an",
+          "link": "https://www.horizont.net/medien/nachrichten/streaming-wow-bietet-film--und-serienkanal-bei-prime-video-an-232477?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Sky erweitert seine Kooperation mit Amazon und bietet ab sofort neben dem bereits verfügbaren Sport-Paket auch den Film- und Serienkanal \"Wow\" als Zusatzkanal direkt in der Prime Video App an. Das Angebot ist auch ohne Prime-Abonnement buchbar und umfasst die Premium-Inhalte des Sky-Streamingdienstes Wow. Diese Strategie stärkt Skys Distribution und ermöglicht Amazon eine Erweiterung seines Content-Angebots durch Drittanbieter-Kanäle.",
           "score": 10
         },
         {
           "source": "Horizont Medien",
-          "title": "TV-Konzern: Pro Sieben Sat 1 verkauft Wetter.com an Funke",
-          "link": "https://www.horizont.net/medien/nachrichten/tv-konzern-pro-sieben-sat-1-verkauft-wetter.com-an-funke-232439?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "ProSiebenSat.1 verkauft seine Wetterplattform Wetter.com an die Funke Mediengruppe, wobei der Abschluss der Transaktion für das erste Quartal 2026 erwartet wird und noch der Zustimmung der Kartellbehörden bedarf. Die Belegschaft von Wetter.com soll im Rahmen eines Betriebsübergangs zum neuen Eigentümer wechseln. Der Verkauf erfolgt, nachdem ProSiebenSat.1 selbst zu mehr als 75 Prozent vom italienischen Medienkonzern Media for Europe übernommen wurde.",
-          "score": 8
+          "title": "&quot;Ich bin ein Star - Holt mich hier raus!&quot;: Dschungelcamp bei RTL startet am 23. Januar",
+          "link": "https://www.horizont.net/medien/nachrichten/ich-bin-ein-star---holt-mich-hier-raus-dschungelcamp-startet-am-23.-januar-232475?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "RTL startet am 23. Januar 2025 die 19. Staffel von \"Ich bin ein Star - Holt mich hier raus!\" mit den Moderatoren Sonja Zietlow und Jan Köppen. Die Reality-Show wird 17 Tage lang täglich um 20:15 Uhr live aus dem australischen Dschungel übertragen.",
+          "score": 7
         },
         {
           "source": "kress",
-          "title": "Funke kauft wetter.com von ProSiebenSat.1",
+          "title": "Philipp Welte verlässt das Haus Der langjährige Burda-Verlagschef Philipp Welte wird, anders als...",
+          "link": "https://kress.de/news/beitrag/151545-paukenschlag-bei-burda-philipp-welte-verlaesst-das-haus.html",
+          "summary": "Der langjährige Burda-Verlagschef Philipp Welte verzichtet überraschend auf den geplanten Wechsel in den Verwaltungsrat des Konzerns und verlässt das Unternehmen komplett. Welte begründet dies mit dem laufenden Generationswechsel bei der Verlegerfamilie, bei dem die Geschwister Jacob und Elisabeth Burda die unternehmerische Verantwortung übernommen haben. Wie geplant übergibt er zum 1. Januar die Verantwortung für das nationale Verlagsgeschäft an den Bauer-Manager Jan Wachtel.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Der Tagesspiegel sucht eine Ressortleitung Berlin (m/w/d) in Berlin \"Der Tagesspiegel\", der als...",
+          "link": "https://kress.de/news/beitrag/151544-der-tagesspiegel-sucht-eine-ressortleitung-berlin-m-w-d-in-berlin.html",
+          "summary": "Der Tagesspiegel sucht eine Ressortleitung für das Berlin-Ressort mit Gesamtverantwortung für die Hauptstadtberichterstattung auf allen Kanälen sowie Führung und Entwicklung des Redaktionsteams. Vorausgesetzt werden journalistische Exzellenz, mehrjährige Erfahrung im Hauptstadtjournalismus, nachweisbare Führungskompetenz sowie fundierte crossmediale Expertise von Print bis Video. Die Position erfordert strategisches Denken, Berlin-Vernetzung und die Fähigkeit zur Innovation digitaler Formate.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "de hatte die nächste Übernahmerunde schon angekündigt.",
           "link": "https://kress.de/news/beitrag/151542-neunte-uebernahme-2025-funke-kauft-wetter-com-von-prosiebensat-1.html",
-          "summary": "Die Funke Mediengruppe übernimmt wetter.com mit über 25 Millionen monatlichen Nutzern von ProSiebenSat.1, um ihre Digitalstrategie weiter zu beschleunigen. Es handelt sich um die bereits neunte Akquisition von Funke in diesem Jahr und gehört zu den größten Transaktionen der vergangenen Jahre. Das 100-köpfige Team samt Management wechselt zu Funke, die Transaktion steht noch unter kartellrechtlichem Vorbehalt.",
-          "score": 8
+          "summary": "Die Funke Mediengruppe übernimmt wetter.com von ProSiebenSat.1 und setzt damit ihren Digitalexpansionskurs fort – es ist bereits die neunte Akquisition 2025. Die Wetterplattform erreicht über 25 Millionen Nutzer monatlich in 15 Märkten und bringt ein 100-köpfiges Team mit, das unter der bestehenden Führung zu Funke wechselt. Der Deal steht noch unter Kartellvorbehalt, Premium-Features sollen künftig in die Digital-Abos der Funke-Marken integriert werden.",
+          "score": 9
         },
         {
           "source": "kress",
-          "title": "Warum man prüfen sollte, wo man beruflich gerade steht Der anstehende Jahreswechsel ist eine gute...",
-          "link": "https://kress.de/news/beitrag/151537-standortbestimmung-warum-man-pruefen-sollte-wo-man-beruflich-gerade-steht.html",
-          "summary": "Karrierecoach Attila Albert empfiehlt Medienprofis eine regelmäßige berufliche Standortbestimmung, da viele bei Stellenabbau oder Umstrukturierungen unvorbereitet getroffen werden. Der Jahreswechsel bietet sich besonders für diese Reflexion an, die drei Komponenten umfasst: Einschätzung der aktuellen Position, Formulierung beruflicher Ziele und Identifikation notwendiger Schritte zur Zielerreichung. Eine solche Analyse sollte sowohl die berufliche Situation (Stelle, Kompetenzen, Gehalt) als auch deren Wechselspiel mit anderen Lebensbereichen berücksichtigen.",
+          "title": "Axel Springer sucht einen CvD/Redakteur (m/w/d) in Berlin Das Medienunternehmen Axel Springer möchte sich in der Premium-Gruppe verstärken.",
+          "link": "https://kress.de/news/beitrag/151539-axel-springer-sucht-einen-cvd-redakteur-m-w-d-in-berlin.html",
+          "summary": "Axel Springer sucht für die \"Welt\"-Nachrichtensendungen einen erfahrenen CvD/Redakteur, der die Planung, Gestaltung und Abwicklung aktueller Sendungen sowie Sondersendungen verantwortet. Die Position umfasst die komplette redaktionelle Betreuung von der Themenfindung bis zur technischen Qualitätskontrolle, einschließlich der Erstellung verschiedener Beitragsformate. Vorausgesetzt werden TV-Erfahrung als CvD/RvD, journalistische Ausbildung sowie Bereitschaft zum Schichtdienst inklusive Wochenenden und Feiertagen.",
           "score": 7
         },
         {
           "source": "kress",
           "title": "1 trotz des schwierigen Marktumfelds keinen unmittelbaren Bedarf für Stellenabbau.",
           "link": "https://kress.de/news/beitrag/151535-mfe-chef-berlusconi-kein-stellenabbau-bei-prosiebensat-1-geplant.html",
-          "summary": "MFE-CEO Pier Silvio Berlusconi kündigte nach der 75%-Übernahme von ProSiebenSat.1 an, Stellenabbau zu vermeiden, auch wenn er es nicht gänzlich ausschließen kann. Der neue Geschäftsplan soll durch Synergien und Kostensenkungen sowie eine stärkere Fokussierung auf TV und Entertainment dem schwierigen deutschen Marktumfeld begegnen. Randgeschäfte wie E-Commerce-Beteiligungen könnten verkauft werden, während das gesamte bisherige Vorstandsteam bereits ausgeschieden ist.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Mediengruppe Bayern darf MGO schlucken Das Bundeskartellamt hat die geplante Übernahme der...",
-          "link": "https://kress.de/news/beitrag/151529-kartellamt-genehmigt-uebernahme-mediengruppe-bayern-darf-mgo-schlucken.html",
-          "summary": "Das Bundeskartellamt hat die Übernahme der Mediengruppe Oberfranken (u.a. \"Fränkischer Tag\", \"Coburger Tageblatt\") durch die Mediengruppe Bayern (\"Passauer Neue Presse\", \"Donaukurier\") bereits im Vorprüfverfahren genehmigt. Kartellamtspräsident Mundt sieht keine wettbewerblichen Probleme, da beide Gruppen in unterschiedlichen bayerischen Regionen aktiv sind und kein unmittelbares Konkurrenzverhältnis besteht. Die Behörde prüfte dabei primär die Auswirkungen auf Leser- und Anzeigenmarkt, nicht aber Aspekte der Meinungsvielfalt.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "WPP Media Ex-Publicis-Chef Olivier Korte übernimmt Leitung der WPP-Agentur EssenceMediacom Seit Monaten geht es immer in die eine Richtung: Führungskräfte verlassen WPP Media",
-          "link": "https://meedia.de/news/beitrag/20773-ex-publicis-chef-olivier-korte-uebernimmt-leitung-der-wpp-agentur-essencemediacom.html",
-          "summary": "Olivier Korte, ehemaliger CEO von Publicis Media Deutschland/Österreich, wechselt ab Januar 2026 als President zu WPP Medias EssenceMediacom und kehrt damit den üblichen Abwanderungstrend von WPP zu Publicis um. Janett Zschunke, bisherige EssenceMediacom-Chefin, übernimmt dafür die neue Position als Chief Client Officer bei WPP Media. Beide Führungskräfte werden Teil des WPP Media ExCo und berichten an DACH-CEO Claus Bröckers.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Umbenennung und Neuausrichtung Aus der ARD Audiothek wird \"ARD Sounds\" Die ARD will im März 2026...",
-          "link": "https://meedia.de/news/beitrag/20772-aus-der-ard-audiothek-wird-quot-ard-sounds-quot.html",
-          "summary": "Die ARD benennt im März 2026 ihre Audiothek in \"ARD Sounds\" um und konsolidiert dabei über 40 eigenständige Radiosender-Apps zu einer zentralen Audio-Plattform, die auch ZDF-Podcasts integriert. Mit der Neuausrichtung reagiert der öffentlich-rechtliche Rundfunk auf veränderte Nutzungsgewohnheiten und will insbesondere jüngere Zielgruppen über moderne Endgeräte wie Smartphones und Smartspeaker besser erreichen.",
-          "score": 10
-        },
-        {
-          "source": "meedia",
-          "title": "Noch ein WPP-Media-Aussteiger Rolf Theunissen hört nach 17 Jahren bei WPP Media auf Nach...",
-          "link": "https://meedia.de/news/beitrag/20769-rolf-theunissen-hoert-nach-17-jahren-bei-wpp-media-auf.html",
-          "summary": "Rolf Theunissen verlässt nach 17 Jahren WPP Media und seiner zuletzten Position als Managing Director bei EssenceMediacom, wo er drei Jahre lang den Google-Account in der Media Futures Group leitete. Sein Abgang reiht sich in eine Serie von Führungskräfte-Abgängen bei WPP Media ein, während das Unternehmen mit sinkenden Umsätzen kämpft. Theunissen verzichtete auf die übliche Freistellung und wird zum Jahresende ausscheiden, um 2026 \"schnell handlungsfähig\" zu sein.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Netto startet TikTok‑Mockumentary mit Star-Besetzung Weihnachtswerbung mal anders: Der Discounter...",
-          "link": "https://meedia.de/news/beitrag/20770-lowkey-funny-netto-startet-tiktok-mockumentary-mit-star-besetzung.html",
-          "summary": "Netto startet eine sechsteilige TikTok-Mockumentary-Serie mit den Comedians Mirja Boes und Martin Schneider sowie Creator Fabian Rashagai, entwickelt von der Agentur Philipp und Keuntje. Die humorvolle Serie persifliert die Herausforderungen beim Social Media-Einstieg und wird in einem voll ausgestatteten Netto-Content-Studio produziert, womit der Discounter seine Social-Media-Strategie um serielle Entertainment-Formate erweitert.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Starmer urged to stand up for BBC against Trump’s ‘outrageous’ $10bn lawsuit – UK politics live",
-          "link": "https://www.theguardian.com/politics/live/2025/dec/16/donald-trump-bbc-lawsuit-keir-starmer-kemi-badenoch-reaction-latest-news-updates",
-          "summary": "Donald Trump's Anwälte haben in ihrer 10-Milliarden-Dollar-Klage gegen die BBC Aussagen der ehemaligen britischen Premierministerin Liz Truss zitiert, um ihre Verleumdungsvorwürfe zu stützen. Truss wird mit Aussagen angeführt, in denen sie der BBC vorwirft, zu lügen, Material zu manipulieren und systematisch linkslastig über Trump und konservative Politik zu berichten. Die Klage nutzt Truss' Kritik an der BBC als \"Fake News\"-Produzent, um den Vorwurf der \"actual malice\" zu untermauern.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "BBC bosses ‘right to stick by their guns’ against Trump, says minister",
-          "link": "https://www.theguardian.com/media/2025/dec/16/bbc-bosses-right-to-stick-by-their-guns-against-trump-says-minister",
-          "summary": "Donald Trump hat eine 10-Milliarden-Dollar-Klage gegen die BBC eingereicht und wirft dem Sender vor, seine Rede vom 6. Januar 2021 vor dem Sturm auf das Kapitol \"vorsätzlich, bösartig und irreführend\" bearbeitet zu haben. Britische Politiker, darunter Gesundheitsminister Stephen Kinnock, verteidigen die BBC und fordern Premierminister Starmer auf, sich gegen Trumps \"empörende rechtliche Drohung\" zu stellen. Die BBC hat zwar einzelne Fehler in der entsprechenden Panorama-Sendung eingeräumt, weist jedoch die grundsätzlichen Vorwürfe der Verleumdung zurück.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "How might the BBC be funded if the licence fee is scrapped?",
-          "link": "https://www.theguardian.com/media/2025/dec/16/how-might-the-bbc-be-funded-if-the-licence-fee-is-scrapped",
-          "summary": "Die britische Regierung prüft verschiedene Finanzierungsmodelle für die BBC als Alternative zur Rundfunkgebühr, darunter Werbung, Abonnements und Haushaltsabgaben, wobei eine Steuerfinanzierung bereits ausgeschlossen wurde. Brancheninsider erwarten jedoch, dass trotz des bis 2027 laufenden Prüfprozesses letztendlich am bestehenden Gebührenmodell festgehalten wird. Befürworter der Rundfunkgebühr argumentieren, dass nur dieses Modell das BBC-Prinzip der \"Universalität\" - Programme für alle zu produzieren - gewährleisten kann.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Culture secretary to consider investigation into Telegraph takeover by Daily Mail owner",
-          "link": "https://www.theguardian.com/media/2025/dec/16/telegraph-takeover-daily-mail-owner-lisa-nandy-redbird-imi",
-          "summary": "Kulturministerin Lisa Nandy prüft eine Untersuchung der 500-Millionen-Pfund-Übernahme der Telegraph-Titel durch Lord Rothermeres Daily Mail & General Trust (DMGT), nachdem der Abu Dhabi-gestützte Verkäufer RedBird IMI formal um die Übertragung der Kaufoption gebeten hat. RedBird IMI war nach dem Verbot ausländischer Staatsbeteiligungen an britischen Zeitungen zum Verkauf gezwungen worden, wobei DMGT bereits eine Finanzierung über NatWest gesichert hat. Der Deal sieht vor, dass RedBird IMI die finalen 100 Millionen Pfund erst nach zwei Jahren erhält, finanziert über eine Deutsche Bank-Anleihe mit Fälligkeit 2027.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Trump files up to $10bn lawsuit against BBC over edit of Capitol speech – as it happened",
-          "link": "https://www.theguardian.com/us-news/live/2025/dec/15/ilhan-omar-trump-immigration-politics-latest-updates",
-          "summary": "Donald Trump hat eine 10-Milliarden-Dollar-Klage gegen die BBC eingereicht, die sich auf die angeblich verzerrte Darstellung seiner Rede vom 6. Januar 2021 in einer \"Panorama\"-Dokumentation von 2024 bezieht. Die im südlichen Bezirk von Florida eingereichte Klage umfasst Vorwürfe der Verleumdung und Verstöße gegen Floridas Handelspraktiken-Gesetze, wobei jeweils 5 Milliarden Dollar Schadensersatz gefordert werden.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Donald Trump sues BBC for up to $10bn over edit of January 6 speech",
-          "link": "https://www.theguardian.com/us-news/2025/dec/15/trump-bbc-lawsuit",
-          "summary": "Donald Trump verklagt die BBC auf bis zu 10 Milliarden Dollar wegen der Bearbeitung seiner Rede vom 6. Januar 2021 in einer Panorama-Sendung, wobei er Verleumdung und Verstöße gegen Floridas Verbraucherschutzgesetze geltend macht. Die BBC hat die Bearbeitung bereits als \"Fehleinschätzung\" bezeichnet und sich entschuldigt, während Führungskräfte wie Generaldirektor Tim Davie nach Vorwürfen systemischer Probleme in der Berichterstattung zurückgetreten sind. Die Klage ist Teil von Trumps breiteren Angriffen auf internationale Medien und erfolgt kurz vor seinem Amtsantritt als Präsident.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "It’s the media’s job to hold power to account. This year, too many got into bed with it instead | Arwa Mahdawi",
-          "link": "https://www.theguardian.com/media/2025/dec/15/its-the-medias-job-to-hold-power-to-account-this-year-too-many-got-into-bed-with-it-instead",
-          "summary": "Arwa Mahdawi kritisiert die zunehmende Verwischung der Grenzen zwischen Werbung, PR und Journalismus, wobei zu viele Medien ihre Kontrollaufgabe gegenüber der Macht aufgegeben haben. Sie argumentiert, dass Journalisten statt \"ohne Furcht und Begünstigung\" zu arbeiten, zunehmend autoritäre Politiker durch euphemistische Berichterstattung legitimieren und sich den Mächtigen anbiedern. Die Autorin sieht dies als gefährlichere Entwicklung als klassische Werbung, da hier Kriege und Völkermord \"verkauft\" werden statt Konsumgüter.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Hong Kong media tycoon convicted – as it happened",
-          "link": "https://www.theguardian.com/world/live/2025/dec/15/jimmy-lai-verdict-hong-kong-court-national-security-charges-live",
-          "summary": "Hong Kong-Medienmogul Jimmy Lai wurde in einem wegweisenden Verfahren nach dem chinesischen Sicherheitsgesetz wegen Verschwörung zur Kollaboration mit ausländischen Kräften und seditionären Publikationen schuldig gesprochen. Das Gericht bezeichnete den 78-jährigen Gründer der inzwischen eingestellten Apple Daily als \"Drahtzieher\" von Verschwörungen zur Destabilisierung der chinesischen Regierung, womit ihm lebenslange Haft droht. Menschenrechtsorganisationen verurteilten das Urteil als \"Scheinverurteilung\" und \"Todesstoß für die Pressefreiheit in Hong Kong\".",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Daily Mail owner secures funding for £500m takeover of Telegraph",
-          "link": "https://www.theguardian.com/business/2025/dec/14/daily-mail-owner-secures-funding-for-500m-takeover-of-telegraph",
-          "summary": "Lord Rothermere's Daily Mail and General Trust (DMGT) hat die Finanzierung für eine £500m-Übernahme der Telegraph gesichert, wobei £400m initial über NatWest-Kredite und weitere £100m binnen zwei Jahren gezahlt werden sollen. Der Deal muss noch von Kulturministerin Lisa Nandy sowie Regulierungsbehörden wie der Competition and Markets Authority und Ofcom genehmigt werden, bevor die Bedingungen voraussichtlich am Montag bekannt gegeben werden. Die Übernahme würde Telegraph zu DMGTs Medienportfolio hinzufügen, das bereits Metro, i Paper und New Scientist umfasst.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Trump Doesn’t TACO For Once; POTUS Actually Sues BBC For $5 Billion Over “Brazen” Edit Of Jan. 6 Documentary",
-          "link": "https://deadline.com/2025/12/trump-bbc-lawsuit-filed-1236649585/",
-          "summary": "Donald Trump hat eine 5-Milliarden-Dollar-Klage gegen die BBC wegen angeblicher Verleumdung in einem Panorama-Dokumentarfilm über den 6. Januar eingereicht, der eine Woche vor der Präsidentschaftswahl 2024 ausgestrahlt wurde. Die in Florida eingereichte Klage wirft der BBC vor, durch manipulative Schnitte Trumps Aussagen verfälscht und damit versucht zu haben, die Wahl zu beeinflussen. Die rechtliche Durchsetzbarkeit der grenzüberschreitenden Klage bleibt fraglich, wobei Trump offenbar ebenso auf die symbolische Wirkung wie auf eine mögliche Entschädigung abzielt.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Kurt Sutter Noir Crime Drama In Works At MGM+",
-          "link": "https://deadline.com/2025/12/kurt-sutter-noir-crime-drama-mgm-plus-1236649346/",
-          "summary": "MGM+ entwickelt eine neue noir Crime-Serie von \"Sons of Anarchy\"-Schöpfer Kurt Sutter, die in Los Angeles der 1950er Jahre spielt und einen Privatdetektiv im Umfeld von Verbrechen und korrupten Polizisten fokussiert. Das Projekt markiert Sutters ersten Ausflug ins Noir-Genre und seine Rückkehr zu LA-Crime-Dramen nach seinem Start bei \"The Shield\". Parallel arbeitet Sutter an der Biker-Serie \"Nomad\" für Apple TV+ mit Jason Momoa und verließ kürzlich die Netflix-Western-Serie \"The Abandons\" kurz vor Produktionsende.",
+          "summary": "MFE-CEO Pier Silvio Berlusconi kündigte nach der 75%-Übernahme von ProSiebenSat.1 an, dass aktuell kein Stellenabbau geplant sei, auch wenn er dies nicht vollständig ausschließen könne. Der neue Geschäftsplan fokussiert auf Synergien und Kostensenkungen, wobei eine stärkere Konzentration auf TV und Entertainment sowie der Verkauf von Randgeschäften wie E-Commerce-Beteiligungen erwartet wird. Das schwierige Marktumfeld mit schwachem Werbegeschäft führte bereits zu gesenkten Gewinnprognosen für 2025.",
           "score": 9
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "Donald Trump Files $5 Billion Lawsuit Against BBC Over ‘Panorama’ Doc Edit",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/donald-trump-lawsuit-bbc-panorama-doc-capitol-riot-1236451458/",
-          "summary": "Donald Trump hat eine 5-Milliarden-Dollar-Klage gegen die BBC eingereicht, in der er behauptet, dass eine Panorama-Dokumentation seine Rede vom 6. Januar 2021 irreführend bearbeitet hat, um den Eindruck zu erwecken, er habe seine Anhänger zum Angriff auf das Kapitol aufgerufen. Die BBC hat sich bereits für die Bearbeitung entschuldigt, lehnte jedoch Trumps Forderung nach finanzieller Entschädigung ab, woraufhin die Klage eine Woche vor der Präsidentschaftswahl 2024 eingereicht wurde. Trump wirft der BBC vor, mit der Dokumentation gezielt in den Wahlkampf eingegriffen und seinem Ruf geschadet zu haben.",
+          "source": "meedia",
+          "title": "ARD-Serie \"Mozart/Mozart\" floppt Am Dienstag- und Mittwochabend zeigt Das Erste die sechs Folgen...",
+          "link": "https://meedia.de/news/beitrag/20785-wenig-interesse-ard-serie-quot-mozart-mozart-quot-floppt.html",
+          "summary": "Die ARD-Eigenproduktion \"Mozart/Mozart\" verzeichnete am Dienstagabend schwache Einschaltquoten mit nur 10,1% Marktanteil zur Primetime und sinkenden Werten im Verlauf der drei ausgestrahlten Folgen (2,40 auf 1,94 Millionen Zuschauer). RTL dominierte den Abend mit \"Bauer sucht Frau\" (14,0% Marktanteil), während auch das ZDF mit seinem Programm die ARD-Serie übertraf. Die Serie wird linear als Flop bewertet, die Hoffnung liegt nun auf den Streaming-Abrufen.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Doppelinterview mit den Gründern von Alchemist Media Labs Wie gut ist das angebotene Inventar wirklich?",
+          "link": "https://meedia.de/news/beitrag/20784-wie-gut-ist-das-angebotene-inventar-wirklich.html",
+          "summary": "Die ehemaligen Warner-Mediaplanner Joe Pawlas und Matthias Wass von Czege haben Alchemist Media Labs gegründet, um Advertisern eine unabhängige Validierung von Werbeinventaren bereits in der Planungsphase zu ermöglichen. Das Startup adressiert das branchenweite Problem mangelnder Transparenz bei der Bewertung von Werbeplacierungen und soll trotz anfänglicher Skepsis einen wichtigen Beitrag zur Marktkonsolidierung leisten.",
           "score": 7
         },
         {
+          "source": "meedia",
+          "title": "Christian Lutterbeck, Head of YouTube Sales DACH Die besten deutschen Weihnachtsspots auf YouTube...",
+          "link": "https://meedia.de/news/beitrag/20782-die-besten-deutschen-weihnachtsspots-auf-youtube.html",
+          "summary": "Christian Lutterbeck, Head of YouTube Sales DACH, hat die erfolgreichsten deutschen Weihnachtsspots 2025 auf YouTube bekannt gegeben, die durch einen Algorithmus bewertet werden, der Views, organische Reichweite, Zuschauerbindung, Klicks und Sentiment berücksichtigt. Das YouTube Ads Leaderboard kategorisiert die Werbevideos in verschiedene Längen-Formate und wird monatlich sowie jährlich für Weihnachtsspots erstellt. Der Artikel erwähnt Aldi Süd als einen der erfolgreichen Werbetreibenden, die auf optimistische Musik setzen, wobei die vollständige Top-5-Liste der Spots angekündigt wird.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "One Media und moccamedia haben gemeinsam eine kombinierte TV- und Podcastkampagne auf die Beine gestellt.",
+          "link": "https://meedia.de/news/beitrag/20781-so-geht-die-kombinierte-tv-und-podcastkampagne-fuer-ewe-ladesaeulen.html",
+          "summary": "Seven.One Media und moccamedia haben für EWE Go eine crossmediale Kampagne entwickelt, die gezielt \"automobil- und E-Mobility-affine\" Zuschauer über Addressable-TV-Werbung (10-sekündige SwitchIns beim Senderwechsel auf ProSiebenSat.1-Sendern) und parallel laufende Presenter Read Ads im Premium Audio Network anspricht. Die bis Jahresende laufende Kampagne nutzt die erhöhte Nachfrage nach Lademöglichkeiten im Winter, wenn E-Auto-Batterien durch kalte Temperaturen schneller entladen.",
+          "score": 9
+        },
+        {
+          "source": "meedia",
+          "title": "So will Rofu Kinderland an bessere Zeiten anknüpfen Rofu Kinderland stellt seine Geschäftsführung und strategische Ausrichtung neu auf.",
+          "link": "https://meedia.de/news/beitrag/20779-spielwarenhandel-so-will-rofu-kinderland-an-bessere-zeiten-anknuepfen.html",
+          "summary": "Rofu Kinderland reorganisiert seine Geschäftsführung und bündelt Einkauf, Marketing und Vertrieb unter Michael Edl, um schneller auf Markttrends reagieren zu können. Das Spielwarenhandelsunternehmen mit rund 100 Filialen kämpft mit Konsumzurückhaltung, gestiegenen Kosten und intensivem Wettbewerb im stationären und digitalen Bereich. Parallel zur strategischen Neuausrichtung auf erlebnisorientierte Flächen und Omnichannel-Ansätze sucht Rofu nach einem strategischen Partner.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Dreijahres-Partnerschaft mit globaler Signalwirkung OpenAI: Sora darf mit Disney-Figuren spielen Die Walt Disney Company und OpenAI haben Ende 2025 eine strategisch bedeutsame Partnerschaft angekündigt, die traditionelle Hollywood-Industrie und die KI-Branche gleichermaßen aufhorchen lässt. Im Kern des Abkommens steht eine dreijährige Lizenzvereinbarung über Disney-Inhalte, die es OpenAI ermöglicht, über 200 legendäre Figuren aus Disney, Pixar, Marvel und Star Wars für generative KI-Anwendungen zu nutzen. Dabei ist die Vereinbarung in mehrfacher Hinsicht neuartig und wegweisend",
+          "link": "https://meedia.de/news/beitrag/20780-openai-sora-darf-mit-disney-figuren-spielen.html",
+          "summary": "Disney und OpenAI haben eine dreijährige Lizenzvereinbarung geschlossen, die OpenAI exklusiv für ein Jahr die Nutzung von über 200 Disney-Figuren (Disney, Pixar, Marvel, Star Wars) für generative KI-Anwendungen wie Sora ermöglicht. Disney investiert rund eine Milliarde US-Dollar in OpenAI und erhält im Gegenzug strategische Beteiligungen sowie Nutzungsrechte an der KI-Technologie für kreative Prozesse und Produktinnovationen. Nach Ablauf der einjährigen Exklusivität kann Disney auch Lizenzdeals mit anderen KI-Anbietern eingehen.",
+          "score": 10
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Musicians criticise BBC Radio Scotland’s decision to axe specialist late-night shows",
+          "link": "https://www.theguardian.com/music/2025/dec/17/musicians-criticise-bbc-radio-scotlands-decision-to-axe-specialist-late-night-shows",
+          "summary": "BBC Radio Scotland plant, vier spezialisierte Late-Night-Shows (22-24 Uhr, Mo-Do) durch das Mainstream-Format \"Up Late\" zu ersetzen, das etablierte Hits der 1970er bis heute spielen soll. Prominente schottische Musiker wie Eddi Reader und Mitglieder von Franz Ferdinand kritisieren diese Entscheidung in einem offenen Brief, da die kuratierten Shows der bisherigen DJs karriereentscheidende Plattformen für neue schottische Künstler bieten. Sie argumentieren, dass BBC Radio Scotland die einzige Station mit ausreichender Reichweite für solche karrierefördernden Erstausstrahlungen ist.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Jared Kushner’s firm exits takeover battle for Warner Bros Discovery",
+          "link": "https://www.theguardian.com/media/2025/dec/16/jared-kushner-affinity-partners-warner-bros-discovery",
+          "summary": "Jared Kushners Private-Equity-Firma Affinity Partners hat sich aus dem feindlichen Übernahmekampf um Warner Bros Discovery zurückgezogen, nachdem sie als wichtiger Geldgeber der 108,4 Milliarden Dollar schweren Offerte von Paramount Skydance fungiert hatte. Die Beteiligung des Trump-Schwiegersohns war unter Beobachtung geraten, während Paramount versucht, WBDs geplanten 82,7 Milliarden Dollar Deal mit Netflix zu verhindern. WBD prüft derzeit Paramounts unaufgeforderte Offerte und wird in den kommenden Tagen eine Empfehlung an die Aktionäre abgeben.",
+          "score": 10
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Ministers look at depoliticising top BBC jobs as Farage rides high in polls",
+          "link": "https://www.theguardian.com/media/2025/dec/16/depoliticising-bbc-jobs-nigel-farage-high-in-polls",
+          "summary": "Die britische Regierung prüft Reformen zur Stärkung der BBC-Unabhängigkeit, einschließlich der Beendigung politischer Ernennungen in den Vorstand und Änderungen am zehnjährigen Charter-Erneuerungsprozess. Hintergrund sind interne Spannungen nach Vorwürfen politischer Einflussnahme durch die vorherige konservative Regierung sowie die steigenden Umfragewerte der BBC-kritischen Reform UK-Partei von Nigel Farage. Parallel werden alternative Finanzierungsmodelle wie Werbung, Abonnements und Paywalls für ältere Inhalte diskutiert, da die Zahl der TV-Lizenzgebühr-Zahler seit 2017-18 um 2,4 Millionen Haushalte gesunken ist.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Dances With Wolves’ & ‘Killers Of The Flower Moon’ Actress Tantoo Cardinal Narrating Doc Series ‘Animal Nation’",
+          "link": "https://deadline.com/2025/12/tantoo-cardinal-narrate-documentary-series-animal-nation-1236650992/",
+          "summary": "Die kanadische Cree- und Métis-Schauspielerin Tantoo Cardinal (\"Dances With Wolves\", \"Killers Of The Flower Moon\") wird die Dokumentarserie \"Animal Nation\" sprechen, die sieben Schlüsselarten (Bär, Biber, Bison, Karibu, Adler, Lachs und Wolf) aus indigener Perspektive porträtiert. Die Serie wurde in Zusammenarbeit mit indigenen Gemeinden in Kanada und den USA entwickelt und startet am 8. Januar auf dem kanadischen TV-Sender APTN sowie auf APTN+. Das Produktionsteam umfasst überwiegend indigene Kreative und zeigt die jahrhundertealte Verbindung zwischen indigenen Völkern und diesen Ökosystemen.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Survivor’ & ‘The Floor’ Season Finales To Be Interrupted By Live Donald Trump Address",
+          "link": "https://deadline.com/2025/12/survivor-the-floor-season-finales-interrupted-trump-address-1236650737/",
+          "summary": "Präsident Trump kündigte kurzfristig eine Live-Ansprache für Mittwoch 21 Uhr ET an, die alle vier großen US-Sender übertragen werden und dabei ihre Primetime-Programme unterbrechen müssen. CBS wird das dreistündige Finale von \"Survivor\" (Staffel 49) pausieren und danach fortsetzen, während Fox ebenfalls das Finale der vierten Staffel von \"The Floor\" unterbrechen muss. Die Rede soll unter 30 Minuten dauern, wobei Trumps Tendenz zu längeren Ansprachen Unsicherheit über den tatsächlichen Zeitrahmen schafft.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Nick Reiner Murder Charges: Read The DA’s Just Filed Felony Complaint Against Rob Reiner’s Son",
+          "link": "https://deadline.com/2025/12/reiner-murder-charges-read-complaint-1236650717/",
+          "summary": "Nick Reiner, Sohn des verstorbenen Regisseurs Rob Reiner, wurde offiziell wegen Mordes ersten Grades mit besonderen Umständen für die Messerstecherei seiner Eltern Rob und Michele Reiner am 14. Dezember angeklagt. Der 32-jährige Co-Autor von \"Being Charlie\", der zuletzt wieder bei seinen Eltern lebte und offen über Suchtprobleme sprach, könnte aufgrund der besonderen Umstände eine lebenslange Haftstrafe ohne Bewährungsmöglichkeit oder sogar die Todesstrafe erhalten. Die Staatsanwaltschaft von LA County hat noch keine endgültige Entscheidung über die Beantragung der Todesstrafe getroffen.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Jared Kushner’s Affinity Partners Drops Out Of Paramount Bid For Warner Bros. Discovery",
+          "link": "https://deadline.com/2025/12/jared-kushner-paramount-warner-bros-discovery-1236650663/",
+          "summary": "Jared Kushners Investmentfirma Affinity Partners hat sich aus der Investorengruppe zurückgezogen, die Paramounts 108,4 Milliarden Dollar schwere feindliche Übernahme von Warner Bros. Discovery unterstützt. Der Rückzug erfolgte nach politischem Druck und Bedenken bezüglich Kushners Verbindungen zu Donald Trump, der angekündigt hat, in den behördlichen Genehmigungsprozess der Transaktion eingreifen zu wollen. Parallel konkurriert Paramount mit einem bestehenden Netflix-Deal, bei dem Netflix die Studio- und Streaming-Assets übernehmen würde, während die Kabelkanäle abgespalten werden sollen.",
+          "score": 10
+        },
+        {
+          "source": "Deadline",
+          "title": "Sinclair Takeover Proposal Rebuffed By E.W. Scripps Board",
+          "link": "https://deadline.com/2025/12/sinclair-takeover-proposal-rebuffed-by-scripps-board-1236650659/",
+          "summary": "Das Board von E.W. Scripps hat einstimmig ein unaufgefordertes Übernahmeangebot von Sinclair Inc. über 7 US-Dollar pro Aktie abgelehnt, nachdem Sinclair bereits einen 8,2%-Anteil am Unternehmen erworben hatte. Die Fusion würde wie das parallel laufende Nexstar-Tegna-Geschäft (6,2 Milliarden US-Dollar) die bundesweite 39%-Grenze für TV-Stationsbesitz überschreiten und regulatorische Änderungen erfordern. Scripps bleibt offen für andere Möglichkeiten zur Steigerung des Shareholder Values.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Final Destination Bloodlines’ Helmers Zach Lipovsky & Adam Stein In Final Negotiations To Direct ‘The Traveler’ For Paramount",
+          "link": "https://deadline.com/2025/12/the-traveler-zach-lipovsky-adam-stein-direct-paramount-1236650298/",
+          "summary": "Zach Lipovsky und Adam Stein, die Regisseure von \"Final Destination Bloodlines\", stehen kurz vor der Vertragsunterzeichnung für die Regie des Sci-Fi-Dramas \"The Traveler\" bei Paramount. Das Projekt basiert auf Joseph Eckerts Roman über einen Biologietechniker, der unkontrolliert durch die Zeit springt, und entwickelt sich von einem intimen Familiendrama zu einer großangelegten Science-Fiction-Odyssee. Die Regisseure verfolgen das Projekt bereits seit sechs Jahren leidenschaftlich, seit es noch bei MGM in Entwicklung war.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Netflix Reveals ‘Jo Nesbo’s Detective Hole’ First-Look Image, Release Date",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-jo-nesbos-detective-hole-series-image-release-date-1236452843/",
+          "summary": "Netflix veröffentlicht am 26. März die neunteilige Krimi-Serie \"Jo Nesbøs Detective Hole\" mit Tobias Santelmann als Harry Hole und Joel Kinnaman als Antagonist Tom Waaler. Die Serie adaptiert Jo Nesbøs norwegische Bestseller-Krimireihe um den obsessiven Ermittler und spielt in Oslo. Autor Nesbø fungiert als Creator, Drehbuchautor und Executive Producer der internationalen Produktion.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Gov. Phil Murphy on New Jersey’s Two Big Studios Competing for Warner Bros: “May the Best Team Win”",
+          "link": "https://www.hollywoodreporter.com/business/business-news/nj-gov-phil-murphy-netflix-paramount-warners-1888-studios-1236452190/",
+          "summary": "New Jersey feierte die Grundsteinlegung für die 1888 Studios, eine 58 Hektar große Produktionsanlage in Bayonne mit 1,1 Millionen Quadratfuß Produktionsfläche auf 23 Soundstages. Paramount wird als Ankermieter 285.000 Quadratfuß für mindestens 10 Jahre belegen, wobei das Projekt durch eine Verbindung zwischen Entwickler Arki Busson und Gouverneur Phil Murphy über Jon Bon Jovi zustande kam. Die Anlage soll in 18-24 Monaten betriebsbereit sein.",
+          "score": 10
+        },
+        {
           "source": "Variety",
-          "title": "Trump Sues BBC Demanding at Least $10 Billion in Damages Over Edited Jan. 6 Documentary",
-          "link": "https://variety.com/2025/tv/news/trump-sues-bbc-10-billion-damages-edited-jan-6-panorama-documentary-1236609532/",
-          "summary": "Donald Trump verklagt die BBC auf mindestens 10 Milliarden US-Dollar Schadensersatz wegen einer Panorama-Dokumentation, die seine Äußerungen vor dem 6. Januar 2021 bearbeitet dargestellt haben soll. Die Klage wurde am Montag vor einem Bundesgericht in Florida eingereicht und wirft dem britischen Sender Verleumdung sowie Verstöße gegen Floridas Gesetz zu irreführenden Geschäftspraktiken vor. Trump behauptet, die Dokumentation sei eine Woche vor der Präsidentschaftswahl 2024 ausgestrahlt worden, um das Wahlergebnis zu beeinflussen.",
+          "title": "Variety Announces Additional Speakers and Sessions for Expanded CES 2026 Programming",
+          "link": "https://variety.com/2025/biz/news/variety-speakers-sessions-expanded-ces-2026-programming-1236610390/",
+          "summary": "Variety erweitert sein CES 2026-Programm in Las Vegas auf zwei Tage mit dem etablierten Entertainment Summit am 7. Januar und dem neuen Business of Creators Summit am 8. Januar, präsentiert von Samsung Ads. Zu den neu angekündigten Sprechern gehören Samsung TV Plus' Takashi Nakano, NVIDIAs Jamie Allan, Versants Val Boreland und Substack-Mitgründer Hamish McKenzie. Ein Schwerpunkt liegt auf der Rolle von Creators als neue Machtspieler im TV-Streaming, insbesondere auf FAST-Plattformen wie Samsung TV Plus.",
           "score": 7
         }
       ]
