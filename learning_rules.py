@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 AUTOMATISCH GENERIERTE LERN-REGELN (CONTENT-BASIERT)
-Erstellt: 2025-12-14 21:19:02
-Anzahl Regeln: 27
+Erstellt: 2025-12-21 21:19:19
+Anzahl Regeln: 24
 
 WICHTIG: Nur Inhalte werden bewertet, NICHT Quellen!
 Keywords und Themen bekommen Boosts basierend auf Team-Feedback.
@@ -18,48 +18,43 @@ LEARNING_RULES = {
         # Wir bewerten Inhalte (Keywords/Themen), nicht Dienstleister
     },
     'keyword_boosts': {
-        'will': 2,
-        'streaming': 2,
-        'paramount': 2,
-        'discovery': 1,
-        'quoten': 2,
-        'media': 1,
-        'springers': 2,
-        'charts': 2,
-        'social': 1,
-        'vorentscheid': 2,
-        'besten': 2,
-        'jahr': 1,
+        'quot': 2,
+        '2025': 2,
+        'video': 1,
+        'macht': 2,
+        'neue': 2,
         'startet': 2,
-        'golden': 1,
-        'globes': 1,
-        'bringt': 2,
-        'euro': -1,
-        'millionen': -1,
-        'part': -1,
-        'neuen': -1,
-        'bros discovery': 2,
-        'quoten streaming': 2,
-        'streaming charts': 2,
-        'social media': 2,
-        'paramount will': 2,
-        'format': 1,
-        'show': 1,
-        'serie': 1,
-        'sendung': 1,
-        'programm': 1,
-        'quiz': 1,
-        'game': 1,
-        'promi': 1,
-        'celebrity': 1,
-        'star': 1,
-        'skandal': 1,
-        'klatsch': 1,
-        'privatleben': 1,
+        'holt': 2,
+        'paramount': 1,
+        'philipp': 2,
+        'welte': 2,
+        'star': 2,
+        'anders': 2,
+        'jahr': 2,
+        'streaming': 1,
+        'disney': 1,
+        'deal': 2,
+        'amazon': 1,
+        'drama': 2,
+        'quoten': 1,
+        'doku': 2,
+        'philipp welte': 2,
+        'jahr 2025': 2,
+        'produktion': -1,
+        'dreh': -1,
+        'produktionsfirma': -1,
+        'studio': -1,
+        'dreht': -1,
+        'gedreht': -1,
+        'netflix': 1,
+        'apple tv': 1,
+        'max': 1,
+        'hbo': 1,
+        'prime': 1,
     }
 }
 
 # Statistik
 ANZAHL_QUELLEN = 0  # Quellen werden nicht mehr bewertet
-ANZAHL_KEYWORDS = 38
-ANZAHL_REGELN_GESAMT = 27
+ANZAHL_KEYWORDS = 33
+ANZAHL_REGELN_GESAMT = 24
