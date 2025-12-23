@@ -1,63 +1,231 @@
 {
   "newsletters": [
     {
-      "date": "2025-12-22",
+      "date": "2025-12-23",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Acast übernimmt Podcast-Produzenten Wake Word Studios",
-          "link": "https://www.dwdl.de/nachrichten/104996/acast_uebernimmt_podcastproduzenten_wake_word_studios/",
-          "summary": "Das schwedische Podcast-Unternehmen Acast übernimmt den Münchner und Berliner Podcast-Produzenten Wake Word Studios (bekannt u.a. für \"Beisenherz & Polak - Friendly Fire\") und gliedert ihn in seine globale Produktionssparte Acast Creative Studios ein. Die Akquisition soll Acasts Position auf dem deutschen Podcast-Markt stärken und die Monetarisierung für deutschsprachige Creator vorantreiben. Wake Word-Gründer Ruben Schulze-Fröhlich bleibt als Chef der deutschen Einheit, nachdem sich bisheriger Investor Axel Springer zurückzog.",
+          "title": "Sportdigital mit zwei neuen FAST-Channels bei MagentaTV",
+          "link": "https://www.dwdl.de/nachrichten/105005/sportdigital_mit_zwei_neuen_fastchannels_bei_magentatv/",
+          "summary": "Die Deutsche Telekom erweitert ihr FAST-Channel-Portfolio bei MagentaTV um zwei weitere Sender von Sportdigital: den Fußball-Kanal \"scooore\" mit Highlight-Magazinen, Club-TV-Formaten und Live-/Re-Live-Übertragungen sowie \"Landlust TV\", das in Kooperation mit dem Landwirtschaftsverlag Münster Inhalte rund um das Landleben produziert. Das FAST-Angebot der Telekom, das Anfang Dezember mit vier Kanälen der Mainstream Media AG startete, soll bis zur WM auf bis zu 40 werbefinanzierte Online-Kanäle anwachsen.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "High View übernimmt Bewegtbild-Vermarkter Goldvertise",
+          "link": "https://www.dwdl.de/nachrichten/105000/high_view_uebernimmt_bewegtbildvermarkter_goldvertise/",
+          "summary": "High View übernimmt zum Jahreswechsel den TV-Vermarkter Goldvertise, der erst 2024 aus der Goldbach-Umstrukturierung hervorgegangen war und über 45 Special-Interest-Sender vermarktet. Goldvertise soll als eigenständige Tochtergesellschaft unter Geschäftsführer Frank Möbius weitergeführt werden, um eine Führungsrolle im Total Video Ökosystem zu übernehmen. Die Akquisition zielt auf die Nutzung von Synergien zwischen den Marken, Kompetenzen und Technologien beider Unternehmen ab.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "ProSieben und Sat.1 duellieren sich bei \"Schlag den Star\"",
+          "link": "https://www.dwdl.de/nachrichten/105002/prosieben_und_sat1_duellieren_sich_bei_schlag_den_star_/",
+          "summary": "Die 100. Ausgabe von \"Schlag den Star\" am 11. Januar 2025 um 20:15 Uhr auf ProSieben wird als außergewöhnliches Sender-Duell ausgetragen, bei dem jeweils vier Stars von ProSieben und Sat.1 gegeneinander antreten. Die Jubiläumssendung wird ungewöhnlicherweise am Sonntagabend statt am gewohnten Samstag programmiert, was ProSiebenS Strategie entspricht, den Sonntag zunehmend als Show-Abend zu etablieren.",
           "score": 7
         },
         {
-          "source": "Horizont Medien",
-          "title": "HORIZONT liest: Das waren 2025 die Lieblings-Printtitel der Redaktion",
-          "link": "https://www.horizont.net/medien/nachrichten/horizont-liest-das-waren-2025-die-lieblings-printtitel-der-horizont-redaktion-232414?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die HORIZONT-Redaktion präsentiert ihre favorisierten Printmedien des Jahres 2025, während die Branche weiterhin unter dem Digitalisierungsdruck steht. Das Jahr 2025 war geprägt von bedeutsamen Ereignissen wie Googles AI Overviews, Trumps Mediendrohungen und dem Ende verschiedener Print-Ären. Parallel durchlief die deutsche Agenturlandschaft ein turbulentes Jahr mit Fusionen, Umstrukturierungen und verstärktem KI-Einsatz in der Kreation.",
-          "score": 7
+          "source": "DWDL",
+          "title": "MagentaTV schnappt Sky hochkarätige Golf-Rechte weg",
+          "link": "https://www.dwdl.de/nachrichten/105001/magentatv_schnappt_sky_hochkaraetige_golfrechte_weg/",
+          "summary": "Die Deutsche Telekom sichert sich für MagentaTV umfangreiche Golf-Rechte (2025-2029) mit 131 Wettbewerben der PGA-Tour und DP World-Tour, die bisher Sky übertragen hatte. Das Paket umfasst 300 Live-Tage jährlich auf zwei neuen Sendern (MS Golf 1 und MS Golf 2) mit bis zu 20 Stunden täglicher Übertragung an Turniertagen. Einzelne Events werden frei empfangbar angeboten, um neue Zielgruppen zu erschließen.",
+          "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "Jetzt lesen: Das neue HORIZONT Whitepaper Digital-Out-of-Home ist da",
-          "link": "https://www.horizont.net/medien/nachrichten/jetzt-lesen-das-neue-horizont-whitepaper-digital-out-of-home-ist-da-232523?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "HORIZONT hat ein neues Whitepaper \"Digital Out-of-Home 2025\" veröffentlicht, das zeigt, wie DOOH als messbarer, agiler und kontextsensitiver Baustein in integrierte Marketing-Strategien eingebunden wird. Das Whitepaper behandelt die Verknüpfung von DOOH mit TV, Retail und Cross-Channel-Ansätzen und bietet Orientierung für einen Markt im Wandel. Für HORIZONT-Abonnenten ist das Whitepaper kostenlos verfügbar.",
+          "source": "kress",
+          "title": "Katharina Kort wechselt nach 27 Jahren vom Handelsblatt zum Spiegel",
+          "link": "https://kress.de/news/beitrag/151569-katharina-kort-wechselt-nach-27-jahren-vom-handelsblatt-zum-spiegel.html",
+          "summary": "Katharina Kort wechselt nach 27 Jahren beim Handelsblatt zum Spiegel und wird ab Januar 2025 als Korrespondentin aus New York über die US-Wirtschaft berichten. Die 1973 geborene Journalistin war zuletzt als US-Büroleiterin des Handelsblatts tätig und verfügt über umfangreiche internationale Erfahrung mit Stationen in Italien, Brüssel und den USA. Der Wechsel erfolgt zu einem Team um Yasmin El-Sharif, Stefan Kaiser und Simon Book beim Spiegel.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Ronja Böhlke gehört zu den Young Leadern des Jahres 2025",
+          "link": "https://kress.de/news/beitrag/151570-ronja-boehlke-gehoert-zu-den-young-leadern-des-jahres-2025.html",
+          "summary": "Ronja Böhlke (33) wurde als eine der 25 Young Leader des Jahres 2025 ausgezeichnet und leitet seit kurzem als Geschäftsführerin die neu gegründete 720 Health Media, den eigenständigen Vermarkter für Gesundheit und Pharmazie des Wort & Bild Verlags. Zuvor hatte sie bereits bei NDR Media mit 29 Jahren Führungspositionen übernommen und die Vermarktung dort erfolgreich neu aufgestellt, bevor sie 2024 zum Wort & Bild Verlag wechselte.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Eigenständig statt Verlag: Robin Alexander und Dagmar Rosenfeld lösen Springer-Podcast „Machtwechsel“ heraus",
-          "link": "https://kress.de/news/beitrag/151563-eigenstaendig-statt-verlag-robin-alexander-und-dagmar-rosenfeld-loesen-springer-podcast-machtwechsel-heraus-und-verlassen-ihre-redaktionen.html",
-          "summary": "Robin Alexander (Welt) und Dagmar Rosenfeld (The Pioneer) übernehmen ab Januar 2026 ihren erfolgreichen Politik-Podcast „Machtwechsel\" als eigenständiges, unabhängig produziertes und vermarktetes Format. Beide verlassen ihre Redaktionen, bleiben aber als wöchentliche Kolumnisten für ihre bisherigen Medienhäuser tätig. Der Schritt wird von Axel Springer unterstützt und soll demonstrieren, dass qualitätsorientierter Journalismus auch von unabhängigen Journalisten erfolgreich vermarktet werden kann.",
+          "title": "Umbau bei Bauer: Programmies-Chef Philipp Schulze verabschiedet sich Nach knapp zwei Jahren verlässt Philipp Schulze die Bauer Media Group.",
+          "link": "https://kress.de/news/beitrag/151568-umbau-bei-bauer-programmies-chef-philipp-schulze-verabschiedet-sich.html",
+          "summary": "Philipp Schulze verlässt nach knapp zwei Jahren seine Position als Head of Segment TV bei der Bauer Media Group, wo er seit Mai 2023 die Gesamtverantwortung für die Programmzeitschriften \"TV Movie\", \"tv14\" und \"tv Hören und Sehen\" sowie weitere Titel innehatte. Seine Aufgaben übernimmt ab 1. Januar 2026 Eike Lange, Director Brands der Content KG, zusätzlich zu seinen bisherigen Tätigkeiten. Schulze kündigte seinen Wechsel über LinkedIn an, ohne jedoch seine neuen beruflichen Pläne zu konkretisieren.",
+          "score": 10
+        },
+        {
+          "source": "kress",
+          "title": "Gillert und Wenzek übernehmen „Voice & Vision“ Mit „Voice & Vision“ bündelt der Tagesspiegel Audio, Video und Social in einem neuen Super-Ressort.",
+          "link": "https://kress.de/news/beitrag/151566-neues-super-ressort-beim-tagesspiegel-gillert-und-wenzek-uebernehmen-voice-amp-vision.html",
+          "summary": "Der Tagesspiegel bündelt seine digitalen Kanäle Audio, Video und Social Media im neuen Ressort „Voice & Vision\" unter der Doppelspitze von Sonja Gillert (vormals Welt) und Morten Wenzek. Das „Super-Ressort\" soll journalistische Inhalte kanalübergreifend multimedial ausspielen und neue Zielgruppen erschließen. Die Reorganisation reagiert auf veränderte Nutzungsgewohnheiten und den wachsenden Stellenwert von Podcasts, Videos und Social-Plattformen.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Sven Prange folgt auf Christian Rickens Das Handelsblatt stellt sein Morning Briefing neu auf: Sven...",
+          "link": "https://kress.de/news/beitrag/151565-handelsblatt-morning-briefing-sven-prange-folgt-auf-christian-rickens.html",
+          "summary": "Sven Prange übernimmt ab März 2025 die Leitung des Handelsblatt Morning Briefings von Christian Rickens, der zum Wirtschaftsmagazin brand eins als Chefredakteur wechselt. Der erfahrene Handelsblatt-Journalist Prange, der zuletzt das Ressort Wochenende leitete, plant den etablierten Newsletter mit mehr exklusiven Inhalten und verstärkter Orientierung in einer sich wandelnden Weltordnung weiterzuentwickeln. Dabei will er eine liberale Haltung und die Bereitschaft zur kritischen Meinungsprüfung als zentrale Elemente beibehalten.",
           "score": 7
         },
         {
           "source": "kress",
           "title": "Was Medienprofis 2026 anders machen sollten Abflauende KI-Euphorie, schwache Wirtschaft, prekäre...",
           "link": "https://kress.de/news/beitrag/151558-branchen-und-karrieretrends-was-medienprofis-2026-anders-machen-sollten.html",
-          "summary": "Die KI-Euphorie in der Medienbranche weicht 2026 pragmatischen Abwägungen über wirtschaftliche Sinnhaftigkeit und betriebliche Implementierung, während sich erste Versuche zeigen, Newsportale komplett KI-gestützt zu betreiben. Medienprofis sollten für substanzielle KI-Kompetenzen auf mehrmonatige MAS- oder CAS-Programme setzen statt auf oberflächliche Anwenderkurse. Die anhaltend schwache Wirtschaftslage bleibt eine zentrale Herausforderung für alle Medienprofis mit Umsatzverantwortung oder in der Jobsuche.",
+          "summary": "Die KI-Euphorie in der Medienbranche ist einer pragmatischeren Herangehensweise gewichen, bei der wirtschaftliche und organisatorische Abwägungen für den sinnvollen KI-Einsatz im Vordergrund stehen. Medienprofis sollten 2026 auf substanzielle KI-Weiterbildungen durch mehrmonatige MAS- oder CAS-Programme setzen statt oberflächliche Anwenderkurse zu absolvieren. Die anhaltend schwache Wirtschaftslage bleibt eine zentrale Herausforderung für alle Medienprofis mit Umsatzverantwortung oder bei der Arbeits- und Auftragssuche.",
           "score": 8
         },
         {
-          "source": "kress",
-          "title": "SZ-Journalistin Cathrin Kahlweit erhält Ehrenpreis für ihr Lebenswerk Das medium magazin zeichnet...",
-          "link": "https://kress.de/news/beitrag/151551-sz-journalistin-cathrin-kahlweit-erhaelt-ehrenpreis-fuer-ihr-lebenswerk.html",
-          "summary": "Das medium magazin zeichnet die 66-jährige SZ-Journalistin Cathrin Kahlweit mit dem Lebenswerk-Ehrenpreis bei der Wahl zu den „Journalistinnen und Journalisten des Jahres 2025\" aus. Die Jury würdigt ihre 35-jährige Karriere von 1989 bis 2025 als Reporterin, Korrespondentin und Redakteurin mit Schwerpunkt auf Europa und Osteuropa, unter anderem für ihre herausragende Ukraine-Kriegsberichterstattung. Kahlweit gilt aufgrund ihrer fachlichen Kompetenz und ihres unverwechselbaren Stils als Vorbild für Journalisten aller Generationen.",
-          "score": 7
+          "source": "meedia",
+          "title": "Weltweite Omnicom-Agentur für Mercedes Amtlich und besiegelt: Mark Niedzballa wird CEO der...",
+          "link": "https://meedia.de/news/beitrag/20819-amtlich-und-besiegelt-mark-niedzballa-wird-ceo-der-mercedes-agentur-team-x.html",
+          "summary": "Omnicom hat offiziell bestätigt, dass Mark Niedzballa ab 1. Februar 2026 neuer CEO der Mercedes-Agentur Team X wird und damit Natanael Sijanta ablöst. Der ehemalige COO von David+Martin bringt umfangreiche Automotive-Erfahrung mit, unter anderem als CEO der BMW-Agentur The Game und vorherige Tätigkeiten bei Mercedes und Opel. Team X fungiert als weltweite Leadagentur für Mercedes-Benz und verantwortet strategische Markenführung, Kommunikation und Media über die gesamte Customer Journey.",
+          "score": 8
         },
         {
           "source": "meedia",
-          "title": "Head of Segment TV Philipp Schulze verabschiedet sich von Bauer Als Head of Segment TV hat Philipp...",
-          "link": "https://meedia.de/news/beitrag/20810-philipp-schulze-verabschiedet-sich-von-bauer.html",
-          "summary": "Philipp Schulze, der seit Mai 2023 als Head of Segment TV die Programmzeitschriften \"TV Movie\", \"tv14\" und \"tv Hören und Sehen\" bei der Bauer Media Group verantwortete, hat seinen Abschied zum Jahresende angekündigt. Seine Aufgaben übernimmt ab Januar 2026 Eike Lange, Director Brands der Content KG, zusätzlich zu seinen bisherigen Tätigkeiten. Schulze war zuvor bereits bei Burda für konkurrierende Programmzeitschriften wie \"TV Spielfilm\" tätig gewesen.",
+          "title": "Gastbeitrag: Martech-Trends für 2026 Loyalität wird die härteste Währung Nach Jahren des Wachstums um jeden Preis zählt im Handel und bei B2C-Marken längst nicht mehr Reichweite",
+          "link": "https://meedia.de/news/beitrag/20820-loyalitaet-wird-die-haerteste-waehrung.html",
+          "summary": "Im Jahr 2026 wird sich der Fokus im B2C-Handel von reinem Wachstum und Reichweite hin zu Rentabilität durch Kundenbindung und langfristige Kundenbeziehungen verschieben. Die größte Herausforderung für Marken wird die \"Experience-Lücke\" zwischen Kundenerwartungen und tatsächlich gelieferten Erlebnissen sein, wobei Kundenindifferenz zur Hauptbedrohung wird. Mobile-First muss dabei als zentrale Orchestrierungslogik für nahtlose, personalisierte Customer Experiences verstanden werden, um Relevanz und Loyalität zu sichern.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "MagentaTV startet ein umfangreiches Golf-Angebot Eine attraktive Programm-Lizenz weniger bei Sky,...",
+          "link": "https://meedia.de/news/beitrag/20817-quot-neue-heimat-quot-magentatv-startet-ein-umfangreiches-golf-angebot.html",
+          "summary": "MagentaTV übernimmt ab Januar 2025 die Marktführerschaft im deutschen Golf-TV und entzieht Sky damit eine wichtige Programmlizenz. Die Deutsche Telekom sicherte sich bis 2029 die Rechte an 131 internationalen Golf-Turnieren (PGA Tour, DP World Tour, Champions Tour, Korn Ferry Tour) sowie exklusiv den Ryder Cup 2027/2029, die über zwei neue Kanäle MS Golf 1 und MS Golf 2 ausgestrahlt werden. Das Komplettangebot mit rund 300 Live-Golf-Tagen pro Jahr ist für alle MagentaTV- und MagentaSport-Kunden ohne Zusatzkosten verfügbar.",
+          "score": 10
+        },
+        {
+          "source": "meedia",
+          "title": "\"Perfekter Nachfolger gefunden\" Handelsblatt Morning Briefing: Sven Prange übernimmt ab März Beim \"Handelsblatt Morning Briefing\" steht ein Führungswechsel an. Ab März übernimmt Sven Prange die Verantwortung für den reichweitenstarken Newsletter. Er folgt auf Christian Rickens, der künftig Chefredakteur des Wirtschaftsmagazins \"Brand eins\" wird. Was sich \"Handelsblatt\"-Chefredakteur Sebastian Matthes&nbsp;von dem neuen Frühaufsteher erwartet",
+          "link": "https://meedia.de/news/beitrag/20813-handelsblatt-morning-briefing-sven-prange-uebernimmt-ab-maerz.html",
+          "summary": "Sven Prange übernimmt ab März die Leitung des \"Handelsblatt Morning Briefings\" und folgt damit auf Christian Rickens, der als Chefredakteur zu \"Brand eins\" wechselt. Der erfahrene Journalist kommt aus den eigenen Reihen und war bereits in verschiedenen Führungspositionen beim Handelsblatt und der WirtschaftsWoche tätig. Chefredakteur Sebastian Matthes sieht in Prange den \"perfekten Nachfolger\" für den reichweitenstarken Newsletter, der eine wichtige strategische Rolle als Visitenkarte des Verlags spielt.",
+          "score": 9
+        },
+        {
+          "source": "meedia",
+          "title": "Expansion nach Deutschland, globaler Media- und Kreativetat für Omnicom Die spanische BBVA-Bank,...",
+          "link": "https://meedia.de/news/beitrag/20818-spanische-bbva-bank-expansion-nach-deutschland-globaler-media-und-kreativetat-fuer-omnicom.html",
+          "summary": "Die spanische BBVA-Bank hat nach einem Pitch Omnicom für ihren globalen Media- und Kreativetat ausgewählt – den ersten großen Neukunden-Gewinn der US-Holding nach der IPG-Übernahme. Omnicom richtet für BBVA die spezialisierte Unit „Casa BBVA\" ein, die in zehn Ländern aktiv wird und die bisherige WPP-Mediaagentur Mindshare ablöst. BBVA ist seit diesem Jahr auch in Deutschland mit Angeboten wie 3 Prozent Guthabenzinsen aktiv.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "FMCG Sabine Kloos tritt bei Gerolsteiner als neue CMO an Sabine Kloos wird bei Gerolsteiner neue...",
+          "link": "https://meedia.de/news/beitrag/20816-sabine-kloos-tritt-bei-gerolsteiner-als-neue-cmo-an.html",
+          "summary": "Sabine Kloos übernimmt Anfang Januar als neue CMO bei Gerolsteiner die Nachfolge des langjährigen Marketingchefs Marcus Macioszek und wechselt von der BP-Gruppe, wo sie zuletzt die Marketingleitung von Aral Deutschland innehatte. Die 53-Jährige bringt umfangreiche FMCG-Erfahrung aus Stationen bei Bahlsen, Kraft, Mars, Coca-Cola und anderen Marken mit. Kloos trifft auf eine veränderte Agentursituation, da die bisherige Leadagentur David + Martin insolvent ist und Gerolsteiner bereits eine noch nicht kommunizierte Nachfolgelösung gefunden hat.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Spektakulärer Deal Goldvertise schlüpft bei High View unter Die High View GmbH, eigenen Angaben...",
+          "link": "https://meedia.de/news/beitrag/20815-goldvertise-schluepft-bei-high-view-unter.html",
+          "summary": "High View GmbH übernimmt zum Jahreswechsel sämtliche Anteile an der Goldvertise Media GmbH, um eine führende Position im Total-Video-Ökosystem zu erlangen. Goldvertise bleibt als unabhängige Tochtergesellschaft mit Geschäftsführer Frank Möbius bestehen, wobei sich für Kunden und Partner im operativen Geschäft nichts ändert. Die Akquisition erfolgt nur wenige Wochen nach der Aufspaltung von Goldbach Deutschland, aus der Goldvertise als eigenständige CTV-Gesellschaft hervorging.",
+          "score": 10
+        },
+        {
+          "source": "meedia",
+          "title": "Neue FAST-Kanäle Landlust TV jetzt bei MagentaTV: Comeback im Werbe-Streaming Der FAST-Channel Landlust TV ist ab sofort über MagentaTV empfangbar. Damit erweitert die Telekom ihr kostenloses, werbefinanziertes Streaming-Angebot um einen Sender, der sich ganz dem Landleben, traditionellen Handwerken und regionaler Kultur widmet. Produziert wird Landlust TV von Sportdigital in Zusammenarbeit mit dem Landwirtschaftsverlag Münster. Zudem startete bei der Telekom-Tochter mit Scooore ein weiterer FAST-Channel",
+          "link": "https://meedia.de/news/beitrag/20811-landlust-tv-jetzt-bei-magentatv-comeback-im-werbe-streaming.html",
+          "summary": "Die Telekom erweitert ihr FAST-Channel-Portfolio bei MagentaTV um Landlust TV, einen werbefinanzierten Sender für Landleben, Handwerk und regionale Kultur, produziert von Sportdigital und dem Landwirtschaftsverlag Münster. Zusätzlich startete der Fußball-FAST-Channel Scooore. Landlust TV greift auf bewährte Inhalte wie Koch-, Handwerks- und Naturformate zurück und kehrt damit nach dem Ende bei NDR 2012 ins deutsche Fernsehen zurück.",
+          "score": 9
+        },
+        {
+          "source": "Guardian Media",
+          "title": "TV comedy is back – starting with a festive Ab Fab reunion in Amandaland",
+          "link": "https://www.theguardian.com/tv-and-radio/2025/dec/22/tv-comedy-is-back-starting-with-a-festive-ab-fab-reunion-in-amandaland",
+          "summary": "TV-Comedy erlebt eine Renaissance nach dem Erfolg des Gavin & Stacey-Finales 2023 (19,3 Millionen Zuschauer), angeführt von der BBC-Weihnachtsproduktion Amandaland mit Lucy Punch, die Jennifer Saunders und Joanna Lumley erstmals seit Absolutely Fabulous wieder in einer Sitcom vereint. Parallel dazu kommen 2025 neue Staffeln von Last One Laughing (Amazon) und Mitchell & Webb Are Not Helping (Channel 4) sowie eine britische Version von Saturday Night Live (Sky).",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Outrage after CBS pulls 60 Minutes segment on El Salvador’s Cecot prison",
+          "link": "https://www.theguardian.com/media/2025/dec/22/cbs-pulls-60-minutes-segment-el-salvador-prison",
+          "summary": "CBS zog kurzfristig eine 60 Minutes-Reportage über El Salvadors umstrittenes Cecot-Gefängnis zurück, in dem die Trump-Regierung hunderte Venezolaner deportiert hatte. Die kontrovers ernannte Chefredakteurin Bari Weiss begründete dies mit mangelnder Sendefähigkeit, während interne Proteste von Journalisten und der verantwortlichen Korrespondentin Sharyn Alfonsi auf politische Zensur hindeuten. Der Vorfall verstärkt bestehende Bedenken über Weiss' Ernennung und eine mögliche Politisierung des traditionellen Nachrichtensenders.",
+          "score": 9
+        },
+        {
+          "source": "Guardian Media",
+          "title": "CBS News delays 60 Minutes segment on El Salvador’s Cecot mega-prison",
+          "link": "https://www.theguardian.com/media/2025/dec/22/cbs-news-delays-60-minutes-segment-featuring-investigation-into-cecot-megaprison",
+          "summary": "CBS News hat kurzfristig eine für Sonntag geplante 60 Minutes-Reportage über das Cecot-Megagefängnis in El Salvador verschoben, in das die Trump-Administration hunderte Migranten deportiert hatte. Der Sender begründete die Verschiebung mit \"zusätzlichem Recherchebedarf\", stößt jedoch auf Kritik einschließlich aus den eigenen Reihen, da die Reportage Missbrauchsvorwürfe in dem als \"staatlich sanktionierte Folter\" beschriebenen Gefängnis thematisieren sollte. Die Entscheidung erfolgte unmittelbar vor der geplanten Ausstrahlung, wobei CBS alle Online-Inhalte zur Sendung entfernte.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Christmas ads put on a diet as UK ban on TV junk food advertising bites",
+          "link": "https://www.theguardian.com/business/2025/dec/20/uk-ad-ban-tv-junk-food",
+          "summary": "Die britische Werbebranche hat ihre Weihnachtswerbung bereits seit Oktober freiwillig an neue Vorschriften angepasst, die ab 5. Januar 2025 Junk-Food-Werbung im TV vor 21 Uhr und online ganztägig verbieten. Große Supermarktketten wie Tesco, Waitrose und M&S zeigen nun statt Süßigkeiten und Puddings gesunde Alternativen wie Obst, Gemüse oder hausgemachte Kuchen. Dies führt zur ersten \"fettarmen, zuckerarmen und salzarmen\" Weihnachtswerbung im britischen Fernsehen.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "‘60 Minutes’ Segment Pulled By CBS News Chief Bari Weiss Surfaces Online",
+          "link": "https://deadline.com/2025/12/60-minutes-deportation-segment-online-1236655594/",
+          "summary": "Ein von CBS News Chefredakteurin Bari Weiss zurückgezogenes 60 Minutes-Segment über venezolanische Deportierte, die von der Trump-Administration in das El Salvador-Gefängnis CECOT geschickt wurden, ist nach einem Fehler beim kanadischen Sender Global TV online aufgetaucht. Das Segment dokumentiert Misshandlungsvorwürfe von Deportierten ohne Vorstrafen und zitiert Human Rights Watch-Daten, wonach fast die Hälfte der Inhaftierten keine kriminelle Vergangenheit hat, während die Trump-Administration die Praxis mit dem Verweis auf \"Mörder und Vergewaltiger\" verteidigt. Der Bericht wurde zurückgezogen, da er keine direkten Interviews mit Trump-Regierungsvertretern enthielt, was bei CBS-Mitarbeitern und Medienaufsichtsbehörden Kritik über politische Einflussnahme auslöste.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Hollywood’s Big New Labor Deal: Studios To Offer Guilds’ Health Plans $100M Lifeline In Exchange For Longer Multi-Year Contracts In 2026",
+          "link": "https://deadline.com/2025/12/hollywood-unions-contracts-health-plans-1236655471/",
+          "summary": "Die AMPTP unter neuer Führung von Greg Hessinger bereitet sich darauf vor, den drei großen Hollywood-Gewerkschaften (SAG-AFTRA, DGA, WGA) rund 110 Millionen Dollar zur Sanierung ihrer defizitären Gesundheitspläne anzubieten. Im Gegenzug fordern die Studios eine Verlängerung der Vertragszyklen von derzeit drei auf fünf Jahre, da die Gewerkschaftspläne monatlich hohe Verluste verzeichnen – allein die WGA verlor seit Streikende über 120 Millionen Dollar. Die ersten Verhandlungen mit SAG-AFTRA sind für Februar 2026 angesetzt.",
+          "score": 10
+        },
+        {
+          "source": "Deadline",
+          "title": "WBD Advises Shareholders Not To Take Any Action As It Reviews Paramount’s Amended Takeover Offer",
+          "link": "https://deadline.com/2025/12/warner-bros-discovery-review-paramount-new-takeover-offer-1236655458/",
+          "summary": "Warner Bros Discovery bestätigte den Erhalt von Paramounts überarbeitetem feindlichem Übernahmeangebot von 30 USD je Aktie und rät Aktionären, vorerst keine Maßnahmen zu ergreifen, während das Board das Angebot prüft. Das WBD-Board hält weiterhin an seiner Netflix-Fusion fest und stuft Paramounts sechstes Angebot trotz verbesserter Finanzierungsgarantien durch Larry Ellison als unzureichend ein. Aktionäre haben bis zum 21. Januar Zeit, ihre Aktien im Rahmen des 40,4 Milliarden USD schweren Angebots anzudienen.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Stranger Things’ Shatters Nielsen Record It Already Held As Season 5 Premiere Ushers In Highest Weekly Viewing Total Ever For A Streaming Title",
+          "link": "https://deadline.com/2025/12/stranger-things-5-premiere-nielsen-streaming-record-viewers-1236655429/",
+          "summary": "Die fünfte Staffel von \"Stranger Things\" erzielte mit 8,46 Milliarden Viewing-Minuten in der Premierenwoche den höchsten wöchentlichen Streaming-Rekord aller Zeiten und übertraf damit den bisherigen Rekord von 7,2 Milliarden Minuten, den die Serie selbst 2022 mit Staffel 4 aufgestellt hatte. Besonders bemerkenswert ist die Leistung, da nur vier Episoden veröffentlicht wurden und diese lediglich etwas über vier Tage verfügbar waren, verglichen mit sieben Episoden bei Staffel 4. 57% der Viewing-Zeit entfielen auf die neuen Season-5-Episoden, wobei 59% der Zuschauer aus der Zielgruppe 18-49 stammten.",
+          "score": 9
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Spiked ’60 Minutes’ Segment Spreads Online After Canadian TV Network Posts Unedited Episode",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/spiked-60-minutes-segment-posted-online-airs-canada-1236457731/",
+          "summary": "CBS News-Chefredakteurin Bari Weiss ließ ein geplantes 60 Minutes-Segment über Venezuelaner im salvadorianischen CECOT-Gefängnis kurz vor der Ausstrahlung zurückziehen, da es ihrer Ansicht nach nicht sendefähig war und keine neuen Erkenntnisse bot. Der kanadische TV-Sender Global TV strahlte jedoch versehentlich die ursprüngliche Version aus und stellte sie online verfügbar, wodurch das zurückgezogene Segment öffentlich zugänglich wurde. Weiss begründete ihre Entscheidung damit, dass 60 Minutes höhere Standards erfüllen müsse und die Hauptakteure vor der Kamera befragen sollte.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Warner Bros. Discovery Says It Will “Carefully Review and Consider” Paramount’s Revised Offer",
+          "link": "https://www.hollywoodreporter.com/business/business-news/warner-bros-discovery-review-new-paramount-tender-offer-1236457702/",
+          "summary": "Warner Bros. Discovery bestätigte den Erhalt eines überarbeiteten Übernahmeangebots von Paramount und wird dieses \"sorgfältig prüfen\", nachdem das Unternehmen ein vorheriges Angebot vom 8. Dezember bereits abgelehnt hatte. Das neue Angebot beinhaltet eine vollständige Garantie von Larry Ellison, eine auf 5,8 Milliarden Dollar erhöhte Kündigungsgebühr (entsprechend dem Netflix-Deal) und einen unveränderten Kaufpreis von 30 Dollar pro Aktie. Der WBD-Vorstand muss nun entscheiden, ob er mit Paramount verhandelt oder bei der bestehenden Vereinbarung mit Netflix bleibt.",
+          "score": 9
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Would Major Hollywood Unions Accept a Five-Year Contract? AMPTP Mulls Offer As 2026 Talks Near",
+          "link": "https://www.hollywoodreporter.com/business/business-news/amptp-considers-five-year-hollywood-labor-contracts-1236457624/",
+          "summary": "Die AMPTP erwägt erstmals seit den 1940ern eine Abkehr von den traditionellen dreijährigen Tarifverträgen und prüft fünfjährige Verträge mit den großen Hollywood-Gewerkschaften. Hintergrund sind die kostenintensiven Streiks von 2023, die die Unterhaltungsindustrie monatelang lähmten. Die nächsten Verhandlungsrunden mit WGA, DGA und SAG-AFTRA beginnen 2026, wobei noch keine formellen Vertragsvorschläge ausgetauscht wurden.",
+          "score": 10
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "‘Chicago Fire’ Production Assistants Vote to Unionize",
+          "link": "https://www.hollywoodreporter.com/business/business-news/chicago-fire-production-assistants-unionize-1236457456/",
+          "summary": "Die Produktionsassistenten der NBC-Serie \"Chicago Fire\" haben einstimmig für eine Gewerkschaftsgründung gestimmt - die erste erfolgreiche NLRB-Wahl für PAs einer in Chicago gedrehten Show und einer NBC-Produktion. Von 23 wahlberechtigten Mitarbeitern stimmten 18 dafür, wobei 10 weitere Stimmen angefochten wurden und die NLRB die Ergebnisse noch zertifizieren muss. Dies ist der jüngste Erfolg von Production Assistants United, die seit Sommer 2024 mehrere Produktionen wie \"The Pitt\", \"Abbott Elementary\" und \"All American\" erfolgreich organisiert haben.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "NBC to Air ‘Stumble’ Episodes on Mondays Next Month (EXCLUSIVE)",
+          "link": "https://variety.com/2025/tv/news/nbc-pulls-the-paper-stumble-monday-1236615558/",
+          "summary": "NBC beendet die lineare Ausstrahlung von \"The Paper\" vorzeitig und ersetzt die Serie ab 5. Januar montags um 20:30 Uhr durch Wiederholungen der Freshman-Comedy \"Stumble\", um der Show zusätzliche Reichweite zu verschaffen. \"Stumble\" läuft weiterhin mit neuen Folgen freitags, während die verbleibenden drei \"The Paper\"-Episoden am 3. Januar auf einem Samstagsplatz ausgestrahlt werden. Die Programmänderung ist Teil von NBCs Strategie, \"Stumble\" mehr Momentum zu verleihen, bevor der Montagsslot im Februar an die neue Comedy \"The Fall and Rise of Reggie Dinkins\" übergeht.",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "Charlamagne Tha God Inks Five-Year Deal Renewal With iHeartMedia",
-          "link": "https://variety.com/2025/digital/news/charlamagne-tha-god-iheartmedia-deal-renewal-1236613953/",
-          "summary": "iHeartMedia hat den Vertrag mit Charlamagne Tha God, Co-Host der erfolgreichen Radioshow \"The Breakfast Club\" und Gründer des Black Effect Podcast-Netzwerks, um fünf Jahre verlängert. Ab 2026 wird Netflix exklusiv die Videoversionen von \"The Breakfast Club\" streamen, während die Audio-Versionen weiterhin auf allen gängigen Podcast-Plattformen verfügbar bleiben. Die Vereinbarung ist Teil einer größeren Lizenzpartnerschaft zwischen iHeartMedia und Netflix, die mehr als ein Dutzend Shows umfasst.",
-          "score": 8
+          "title": "‘60 Minutes’ Report Yanked by Bari Weiss Leaks Online After It Was Accidentally Streamed on Canadian TV App",
+          "link": "https://variety.com/2025/tv/news/60-minutes-report-leaks-online-bari-weiss-migrant-prison-1236615715/",
+          "summary": "Ein von CBS zurückgezogener \"60 Minutes\"-Bericht über die Misshandlung von US-Deportierten in einem salvadorianischen Gefängnis ist online durchgesickert, nachdem er versehentlich über eine kanadische TV-App gestreamt wurde. Der knapp 14-minütige Beitrag dokumentiert die \"grauenhafte Behandlung\" von Häftlingen im CECOT-Gefängnis, darunter ein venezolanischer Asylsuchender ohne Vorstrafen, der Folter und Misshandlungen schildert. CBS hatte das Segment etwa drei Stunden vor der geplanten Ausstrahlung am Sonntag aus dem Programm genommen, doch Global TV lud versehentlich die falsche Episode-Version in ihre Streaming-App hoch.",
+          "score": 7
         }
       ]
     }
