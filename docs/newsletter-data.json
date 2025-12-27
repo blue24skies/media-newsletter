@@ -1,55 +1,76 @@
 {
   "newsletters": [
     {
-      "date": "2025-12-26",
+      "date": "2025-12-27",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Schauspieler Uwe Kockisch mit 81 Jahren gestorben",
-          "link": "https://www.dwdl.de/nachrichten/105021/schauspieler_uwe_kockisch_mit_81_jahren_gestorben/",
-          "summary": "Der Schauspieler Uwe Kockisch ist am 23. Dezember 2024 im Alter von 81 Jahren in Madrid an Lungenkrebs gestorben. Der 1944 in Cottbus geborene Schauspieler war über 20 Jahre am Berliner Maxim Gorki Theater tätig und wirkte in mehr als 100 Film- und Fernsehproduktionen mit, darunter die ARD-Serien \"Zappek\", \"Donna Leon\" (als Commissario Brunetti 2003-2019) und \"Weissensee\". Für seine Arbeit wurde er unter anderem mit dem Grimme-Preis ausgezeichnet.",
+          "title": "\"Navy CIS: Origins\" wechselt auf späteren Sendeplatz",
+          "link": "https://www.dwdl.de/nachrichten/105025/navy_cis_origins_wechselt_auf_spaeteren_sendeplatz/",
+          "summary": "Sat.1 kehrt ab 13. Januar mit seinem US-Serienabend zurück und programmiert \"Navy CIS: Origins\" eine Stunde später als zuvor um 21:10 Uhr nach der 23. Staffel von \"Navy CIS\" (20:15 Uhr). Der Abend wird durch \"FBI: Special Crime Unit\" (22:10 Uhr) und \"FBI: Most Wanted\" (23:10 Uhr) komplettiert, wobei die US-Serien zuletzt meist schwache Quoten erzielten und sich gegen neue deutsche Krimireihen bei RTL behaupten müssen.",
           "score": 7
         },
         {
           "source": "kress",
           "title": "Katharina Kort wechselt nach 27 Jahren vom Handelsblatt zum Spiegel Die bisherige US-Büroleiterin...",
           "link": "https://kress.de/news/beitrag/151569-katharina-kort-wechselt-nach-27-jahren-vom-handelsblatt-zum-spiegel.html",
-          "summary": "Katharina Kort wechselt nach 27 Jahren beim Handelsblatt zum Spiegel und wird ab Januar aus New York über die US-Wirtschaft berichten. Die 1973 geborene Journalistin war seit 2017 als US-Büroleiterin des Handelsblatts tätig und hatte zuvor bereits verschiedene Auslandsstationen in New York, Brüssel und Mailand. Kort bringt umfangreiche internationale Erfahrung in der Wirtschaftsberichterstattung mit, insbesondere aus den USA und Italien.",
+          "summary": "Katharina Kort wechselt nach 27 Jahren beim Handelsblatt zum Spiegel und wird ab Januar 2025 als Korrespondentin aus New York über die US-Wirtschaft berichten. Die 1973 geborene Journalistin war zuletzt als US-Büroleiterin des Handelsblatts tätig und verfügt über umfangreiche internationale Erfahrung mit Stationen in Düsseldorf, Frankfurt, Brüssel, Mailand und New York. Zuvor berichtete sie bereits zwischen 2005 und 2016 über Italiens Wirtschaft und Politik, bevor sie 2017 die Leitung des US-Büros übernahm.",
           "score": 7
         },
         {
           "source": "kress",
           "title": "Ronja Böhlke gehört zu den Young Leadern des Jahres 2025 kress präsentiert in einer Serie junge...",
           "link": "https://kress.de/news/beitrag/151570-ronja-boehlke-gehoert-zu-den-young-leadern-des-jahres-2025.html",
-          "summary": "Ronja Böhlke (33) wurde als eine der \"25 Young Leaders des Jahres 2025\" von kress ausgezeichnet und ist seit kurzem Geschäftsführerin von 720 Health Media, dem neu gegründeten Vermarkter für Gesundheit und Pharmazie des Wort & Bild Verlags. Die ehemalige NDR-Geschäftsführerin wechselte im Oktober 2024 zum Wort & Bild Verlag und übernahm bereits ein Jahr später die Leitung des eigenständigen Vermarktungsunternehmens.",
+          "summary": "Ronja Böhlke (33) wurde als eine der \"25 Young Leaders des Jahres 2025\" von kress pro ausgezeichnet und übernahm nach ihrer erfolgreichen Zeit als NDR Media-Geschäftsführerin im Oktober 2024 die Vermarktungsleitung beim Wort & Bild Verlag. Bereits ein Jahr später wurde sie zur Geschäftsführerin der neu gegründeten 720 Health Media ernannt, dem eigenständigen Vermarkter für Gesundheit und Pharmazie des Verlags.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Gillert und Wenzek übernehmen „Voice & Vision“ Mit „Voice & Vision“ bündelt der Tagesspiegel Audio, Video und Social in einem neuen Super-Ressort.",
+          "link": "https://kress.de/news/beitrag/151566-neues-super-ressort-beim-tagesspiegel-gillert-und-wenzek-uebernehmen-voice-amp-vision.html",
+          "summary": "Der Tagesspiegel bündelt seine digitalen Aktivitäten in einem neuen Ressort „Voice & Vision\" unter der Doppelspitze von Sonja Gillert (vormals Welt, Audio-Expertin) und Morten Wenzek (bisheriger Social/Video-Leiter). Das Super-Ressort vereint Audio, Video und Social Media mit dem Ziel, journalistische Inhalte kanalübergreifend und multimedial auszuspielen sowie neue Zielgruppen zu erreichen.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "King Charles’s annual message is most watched TV show in UK on Christmas Day",
+          "link": "https://www.theguardian.com/media/2025/dec/26/king-charles-annual-message-most-watched-tv-show-uk-christmas-day",
+          "summary": "King Charles' Weihnachtsansprache war am 25. Dezember mit knapp 7 Millionen Zuschauern das meistgesehene TV-Programm in Großbritannien, wobei er die \"große Vielfalt unserer Gemeinden\" würdigte und zu \"Mitgefühl und Versöhnung\" aufrief. Insgesamt dominierte jedoch \"Gavin and Stacey\" die Weihnachts-Quoten mit 12,3 Millionen Zuschauern für das Serienfinale - dem erfolgreichsten Weihnachtsprogramm seit 16 Jahren. Weitere beliebte Sendungen waren \"The Scarecrows' Wedding\" (4,3 Mio.) und das \"Strictly Come Dancing Christmas Special\" (4,2 Mio.).",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Changing channels: TV streaming at turning point as most UK subscribers opt for ads",
+          "link": "https://www.theguardian.com/media/2025/dec/26/tv-streaming-turning-point-most-uk-subscribers-opt-for-ads",
+          "summary": "Die Anzahl der UK-Streaming-Abonnenten mit werbefinanzierten Paketen hat erstmals die der teureren werbefreien Abos übertroffen, was einen Wendepunkt für die Branche markiert. Netflix, das ursprünglich werbefreies Streaming als Kernversprechen hatte und bis 2019 Werbung ablehnte, führte vor drei Jahren nach einem Post-COVID-Wachstumsstillstand ein günstigeres werbeunterstütztes Abo ein. Dieser Strategiewechsel von der ursprünglich reinen Abonnement-Strategie hin zu werbefinanzierten Modellen wird von kostenbewussten Verbrauchern vorangetrieben.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Avatar: Fire & Ash’ Heads To $214M Cume, ‘Marty Supreme’ $25M+, ‘Anaconda’ $22M, ‘Song Sung Blue’ $12M In Final B.O. Weekend Of 2025",
+          "link": "https://deadline.com/2025/12/box-office-avatar-fire-and-ash-marty-supreme-anaconda-1236657345/",
+          "summary": "„Avatar: Fire & Ash\" führt das finale Box Office-Wochenende 2025 mit geschätzten $60M im zweiten Wochenende an (-33% Rückgang) und erreicht eine Gesamtsumme von $213,7M, während die Branche die beste Post-COVID Weihnachtswoche mit $342,3M (+10% zum Vorjahr) verzeichnet. A24s „Marty Supreme\" übertrifft mit $25,7M in vier Tagen Timothée Chalamets vorjährigen Weihnachtsfilm „A Complete Unknown\" ($23,2M in fünf Tagen), während Disney als einziges Major Studio die $6 Milliarden-Marke global durchbricht.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "2026 U.S. Box Office To Hit $9B: How Long Can Theatrical Biz Remain Intact Before Netflix-Warner Bros Crushes The Window?",
+          "link": "https://deadline.com/2025/12/box-office-2026-preview-1236657116/",
+          "summary": "Die US-Kinokassen sollen 2026 erneut 9 Milliarden Dollar erreichen, nachdem 2025 mit 8,8-8,9 Milliarden knapp darunter blieb – hauptsächlich aufgrund einzelner Tentpole-Flops. Branchenexperten befürchten jedoch, dass eine mögliche Netflix-Übernahme von Warner Bros. und die damit verbundene Verkürzung des exklusiven Kinofensters auf 17 Tage das Kinobusiness innerhalb von drei Jahren erheblich schwächen könnte. Trotz dieser Unsicherheiten verzeichnet die Branche nach Corona das dritte Jahr in Folge mit über 8,5 Milliarden Dollar Umsatz.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘Stranger Things 5′ Creators & Star Noah Schnapp Unpack Will Byers’ Leap Of Faith In Volume 2: “It Was So Freeing”",
-          "link": "https://deadline.com/2025/12/stranger-things-5-will-byers-coming-out-scene-interviews-1236656044/",
-          "summary": "In der vorletzten Episode von \"Stranger Things 5\" outet sich Will Byers (Noah Schnapp) vor Freunden und Familie als schwul, nachdem er erkennt, dass seine Geheimnisse ihn anfällig für Vecnas psychische Angriffe machen. Schnapp beschreibt die Szene als \"befreiend\" nach jahrelangem Aufbau seit der ersten Staffel, während die Duffer Brothers bereits in früheren Seasons Hinweise auf Wills Sexualität platzierten. Die Handlung verknüpft Wills persönliches Coming-Out strategisch mit der übernatürlichen Bedrohung der Serie.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Stranger Things 5’ Star Caleb McLaughlin On That Emotional Scene With [SPOILER], Upside Down Mythology & More From Vol. 2",
-          "link": "https://deadline.com/2025/12/stranger-things-5-caleb-mclaughlin-lucas-max-reunion-1236656002/",
-          "summary": "In Stranger Things 5 Vol. 2 erwacht Max (Sadie Sink) nach fast zwei Jahren aus dem Koma und reuniert emotional mit Lucas (Caleb McLaughlin), nachdem sie Henrys Mindscape entkommen konnte. Caleb McLaughlin beschreibt die Szene als besonders authentisch, da die beiden Charaktere die ganze Staffel über kaum gemeinsame Bildschirmzeit hatten. Die zweite Staffelhälfte liefert zudem endlich Antworten über die Mythologie der Upside Down und die Bedrohungen von Hawkins.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Patricia Heaton Remembers Her ‘The Middle’ Co-Star Pat Finn: “Our Hearts Are Broken”",
-          "link": "https://deadline.com/2025/12/patricia-heaton-pat-finn-tribute-the-middle-dead-1236656879/",
-          "summary": "Patricia Heaton trauert um ihren verstorbenen \"The Middle\"-Co-Star Pat Finn, der am 22. Dezember im Alter von 60 Jahren nach dreijährigem Krebskampf in Los Angeles verstarb. Finn spielte von 2011 bis 2018 den Nachbarn Bill Norwood in 23 Episoden der Sitcom und war auch in Shows wie \"Seinfeld\", \"Murphy Brown\" und \"Friends\" zu sehen. Heaton würdigte ihn in einem Instagram-Post als \"einen der besten und lustigsten Menschen\" und hob seine Hinterlassenschaft aus Liebe, Freundschaft und Comedy hervor.",
+          "title": "James Cameron Will “Hold A Press Conference” If He Decides To End ‘Avatar’ Franchise Early",
+          "link": "https://deadline.com/2025/12/james-cameron-press-conference-end-avatar-franchise-early-1236657330/",
+          "summary": "James Cameron hat einen Notfallplan für die Avatar-Franchise angekündigt: Falls die geplanten Teile 4 und 5 nicht realisiert werden können, will er in einer Pressekonferenz die ursprünglich geplante Handlung preisgeben. Trotz des enormen Erfolgs von \"Avatar: Fire and Ash\", der bereits 153,6 Millionen Dollar eingespielt hat, macht Cameron die Fortsetzung der Saga von der Profitabilität abhängig. Als Alternative erwägt der Regisseur, die Filme zu Romanen zu adaptieren, um eine \"kanonische Aufzeichnung\" der ursprünglichen Vision zu schaffen.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "‘Kantara: Chapter 1’ Star Rukmini Vasanth on Rishab Shetty Collaboration, Yash’s ‘Toxic’ and NTR Jr. Team-Up: ‘The Sense of Play and the Sense of Enjoyment’ (EXCLUSIVE)",
-          "link": "https://variety.com/2025/film/news/kantara-toxic-rukmini-vasanth-yash-ntr-jr-1236617330/",
-          "summary": "Rukmini Vasanth, Absolventin der Royal Academy of Dramatic Art, hat mit ihrer Rolle als Kanakavathi in Rishab Shettys mythologischem Prequel \"Kantara: A Legend – Chapter 1\" einen Karrieredurchbruch erzielt. Die Schauspielerin, die bereits durch die Filme \"Sapta Sagaradaache Ello\" (2023) Anerkennung fand, hat nun weitere Großprojekte wie Yashs \"Toxic\" und einen Prashanth Neel-Film mit NTR Jr. in der Pipeline. Ihr Fokus liegt auf der Darstellung von Frauen mit Entscheidungskraft und Handlungsautonomie, wobei ihre Rolle in \"Kantara\" von Beginn an als narrativer Schlüssel mit geheimen Motiven konzipiert wurde.",
+          "title": "What’s Coming to Netflix in January 2026",
+          "link": "https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/",
+          "summary": "Netflix startet 2026 mit einer Mischung aus neuen und wiederkehrenden Titeln, wobei die vierte Staffel von \"Bridgerton\" Ende Januar als meisterwarteter Titel erscheint. Neue Serien umfassen den psychologischen Thriller \"His & Hers\" am 8. Januar, während beliebte Filme wie \"Pitch Perfect\", \"Dune\" und \"Despicable Me\" auf die Plattform zurückkehren. Die zweite Hälfte der vierten \"Bridgerton\"-Staffel folgt am 26. Februar 2026.",
           "score": 7
         }
       ]
