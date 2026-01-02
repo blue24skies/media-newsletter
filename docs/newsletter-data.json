@@ -1,112 +1,154 @@
 {
   "newsletters": [
     {
-      "date": "2026-01-01",
+      "date": "2026-01-02",
       "articles": [
         {
-          "source": "kress",
-          "title": "Sina Burmeister gehört zu den Young Leadern des Jahres 2025 kress präsentiert in einer Serie junge...",
-          "link": "https://kress.de/news/beitrag/151579-sina-burmeister-gehoert-zu-den-young-leadern-des-jahres-2025.html",
-          "summary": "Sina Burmeister (34), stellvertretende Leiterin des RTL-Hauptstadtstudios, wurde von kress zu den \"25 Young Leaders des Jahres 2025\" gekürt. Die ehemalige Wirtschaftsanwältin wechselte Ende 2022 zu RTL Deutschland, wo sie zunächst die Abteilung Arbeitsrecht aufbaute und maßgeblich den Betriebsübergang des \"Stern\" von Gruner + Jahr auf RTL News mitgestaltete. Seit April 2025 verantwortet sie als stellvertretende Studioleitung rund 200 Journalisten, die für verschiedene RTL-Medienmarken in Berlin arbeiten.",
+          "source": "DWDL",
+          "title": "\"GNTM\": Männer und Frauen treten erneut getrennt an",
+          "link": "https://www.dwdl.de/nachrichten/105063/gntm_maenner_und_frauen_treten_erneut_getrennt_an/",
+          "summary": "ProSieben startet die 21. Staffel von \"Germany's Next Topmodel\" am 11. Februar erstmals nach 20 Jahren wieder mittwochs mit den männlichen Kandidaten, gefolgt von der Frauen-Folge am traditionellen Donnerstagstermin. Der Sender hält damit am 2024 eingeführten Konzept der geschlechtergetrennten Ausstrahlung fest, obwohl die doppelte Wochenfrequenz im Vorjahr zu deutlichen Reichweitenverlusten geführt hatte. Als Gastjuror unterstützt Modeschöpfer Jean Paul Gaultier Heidi Klum bei den Kölner Castings.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "TV-Publikum sucht kurz vor Mitternacht ARD und ZDF",
+          "link": "https://www.dwdl.de/aeos/105062/tvpublikum_sucht_kurz_vor_mitternacht_ard_und_zdf/",
+          "summary": "Florian Silbereisens \"Schlagerbooom\" dominierte erneut die Silvester-Quoten im Ersten mit 4,5 Millionen Zuschauern, während das ZDF erst nach 22:30 Uhr Fahrt aufnahm. Der traditionelle Einschaltschub kurz vor Mitternacht kam beiden öffentlich-rechtlichen Sendern zugute, wobei das ZDF überproportional profitierte, während die Privatsender durch Werbepausen kontinuierlich Publikum verloren.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Mit Kraftwerk endete die Ära der Musikvideos bei MTV",
+          "link": "https://www.dwdl.de/nachrichten/105056/mit_kraftwerk_endete_die_aera_der_musikvideos_bei_mtv/",
+          "summary": "MTV Deutschland hat zum Jahreswechsel 2024/25 endgültig alle Musikvideos aus dem Programm verbannt und damit seine ursprüngliche Identität als Musiksender aufgegeben. Das letzte Musikvideo war Kraftwerks \"Musique non stop\", das am 31. Dezember um 6 Uhr morgens lief, gefolgt von einer symbolisch kuratierten Playlist mit zahlreichen Anspielungen auf das Ende dieser Ära. Parallel wurden auch die Pay-TV-Musiksender von MTV und die MTV-Musikkanäle auf Pluto TV abgeschaltet, während der Hauptsender künftig vollständig auf Reality-Formate und Dokusoaps setzt.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Castingshow: GNTM 2026 startet im Februar - Männer-Castings zum Auftakt",
+          "link": "https://www.horizont.net/medien/nachrichten/castingshow-gntm-2026-startet-im-februar---maenner-castings-zum-auftakt-232600?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "ProSieben hat den Starttermin für die 21. Staffel von \"Germany's Next Topmodel\" auf Mittwoch, den 11. Februar 2026 festgelegt. Die neue Staffel beginnt mit Männer-Castings, bevor die reguläre Show mit Heidi Klum startet.",
           "score": 9
         },
         {
           "source": "kress",
-          "title": "Madsack sucht Wirtschaftsreporter für Sachsen Die Madsack Mediengruppe baut ihre...",
-          "link": "https://kress.de/news/beitrag/151576-madsack-sucht-wirtschaftsreporter-fuer-sachsen.html",
-          "summary": "Die Madsack Mediengruppe sucht für ihre sächsischen Titel (Sächsische Zeitung, Leipziger Volkszeitung) einen Wirtschaftsreporter mit Fokus auf multimediale Berichterstattung, der neben klassischen News auch Newsletter, Podcasts und Events betreuen soll. Die befristete Elternzeitvertretung (1 Jahr, Start März 2026) erfordert Redaktionserfahrung und journalistische Ausbildung, wobei eigenständige Recherche und belastbare Netzwerke in der sächsischen Wirtschafts- und Politiklandschaft im Vordergrund stehen.",
+          "title": "kicker-Manager Martin Schumacher kündigt Abschied an",
+          "link": "https://kress.de/news/beitrag/151583-kicker-manager-martin-schumacher-kuendigt-abschied-an.html",
+          "summary": "Martin Schumacher, Geschäftsführer der B2B-Tochter kicker business solutions, verlässt nach fast zwölf Jahren den Olympia-Verlag zum Jahreswechsel. Der 48-Jährige verantwortete als Vermarktungsleiter die kommerzielle Ausrichtung der Marke kicker und seit 2021 die Geschäftsführung von kicker business solutions, die als zentraler Baustein für die Monetarisierung jenseits klassischer Anzeigenvermarktung gilt. Unter seiner Leitung entstanden zahlreiche Partnerschaften, Live-Formate und Markenkonzepte während der digitalen Transformation des kicker zur reichweitenstärksten Sportmedienmarke Deutschlands.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "de und GMX besteht künftig aus drei Personen.",
-          "link": "https://kress.de/news/beitrag/151572-anita-klingler-und-fabian-busch-steigen-in-chefredaktion-von-web-de-und-gmx-auf.html",
-          "summary": "Die Chefredaktion von Web.de und GMX wird von bisher einer auf drei Personen erweitert: Anita Klingler (seit 2012 in der Redaktion, zuletzt CvD und Newsdesk-Leiterin) übernimmt die Stärkung der aktuellen Berichterstattung am Münchner Newsdesk. Fabian Busch (seit 2021 Hauptstadt-Korrespondent, zuvor u.a. für SZ und taz tätig) leitet das Berliner Büro und baut die Parlamentsberichterstattung aus. Beide arbeiten künftig gemeinsam mit Thomas Rebbe (Head of Editorial Content) an der redaktionellen Strategieentwicklung von 1&1 Mail & Media.",
+          "title": "„Wen in dieser Branche kannst du echt nicht leiden?“ Markus Wiegand fragt sich selbst Zum 10. Geburtstag von kress pro unternimmt Chefredakteur Markus Wiegand eine schonungslose Selbsterkundung",
+          "link": "https://kress.de/news/beitrag/151577-wen-in-dieser-branche-kannst-du-echt-nicht-leiden-markus-wiegand-fragt-sich-selbst.html",
+          "summary": "Markus Wiegand, Chefredakteur von kress pro, reflektiert zum 10-jährigen Jubiläum des Medienmagazins in einem selbstkritischen Interview über gescheiterte Recherchen und verpasste Gelegenheiten. Er gesteht ein, dass er trotz des erfolgreichen Neustarts nach dem schwächelnden \"kress report\" anfangs Zweifel hatte und bedauert unter anderem, nie die Hintergründe zu Gabor Steingart's Weggang bei Holtzbrinck aufgeklärt zu haben. Der Artikel bricht jedoch mitten in der Schilderung des \"größten Flops\" ab, sodass diese Einschätzung unvollständig bleibt.",
           "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Sina Burmeister gehört zu den Young Leadern des Jahres 2025 kress präsentiert in einer Serie junge...",
+          "link": "https://kress.de/news/beitrag/151579-sina-burmeister-gehoert-zu-den-young-leadern-des-jahres-2025.html",
+          "summary": "Sina Burmeister (34), stellvertretende Leiterin des RTL-Hauptstudios, wurde von kress zu den \"Young Leaders 2025\" gewählt. Die Juristin wechselte 2022 von der Wirtschaftskanzlei Freshfields zu RTL Deutschland, wo sie zunächst die Arbeitsrechtsabteilung aufbaute und den komplexen Betriebsübergang des \"Stern\" von Gruner + Jahr zu RTL News erfolgreich managte. Seit April 2025 verantwortet sie als stellvertretende Studioleitung rund 200 Journalisten, die für verschiedene RTL-Medienmarken arbeiten.",
+          "score": 9
         },
         {
           "source": "kress",
           "title": "Persönlicher Jahresabschluss: Was Medienprofis ins neue Jahr mitnehmen sollten Der Jahreswechsel ist die Gelegenheit, auf die vergangenen zwölf Monate zurückzublicken und Bilanz zu ziehen: Was hatte man sich vorgenommen und erhofft",
           "link": "https://kress.de/news/beitrag/151574-persoenlicher-jahresabschluss-was-medienprofis-ins-neue-jahr-mitnehmen-sollten.html",
-          "summary": "Karrierecoach Attila Albert empfiehlt Medienprofis, den Jahreswechsel für eine ehrliche berufliche Standortbestimmung zu nutzen und überzogene Ansprüche sowie Schuldgefühle im alten Jahr zu lassen. Stattdessen sollten sie dankbar für das Erreichte sein und nicht hilfreiche Überzeugungen und Gewohnheiten hinter sich lassen. Der Fokus liegt darauf, das Möglichste versucht zu haben und aus den Erfahrungen zu lernen, anstatt perfekte Umsetzung aller Vorhaben zu erwarten.",
-          "score": 8
+          "summary": "Karrierecoach Attila Albert empfiehlt Medienprofis, den Jahreswechsel für eine ehrliche berufliche Bilanz zu nutzen und dabei überzogene Ansprüche sowie Schuldgefühle im alten Jahr zu lassen. Stattdessen sollten sie dankbar für das Erreichte sein und hinderliche Überzeugungen oder Gewohnheiten ablegen. Der Fokus liegt darauf, aus den Erfahrungen zu lernen und sich selbst zu verzeihen, anstatt perfektionistische Erwartungen zu verfolgen.",
+          "score": 9
         },
         {
           "source": "kress",
           "title": "Christian Mihr wird Geschäftsführer von Reporter ohne Grenzen Er ist eine der wichtigsten Stimmen...",
           "link": "https://kress.de/news/beitrag/151573-christian-mihr-wird-geschaeftsfuehrer-von-reporter-ohne-grenzen.html",
-          "summary": "Christian Mihr kehrt als Geschäftsführer zu Reporter ohne Grenzen zurück, nachdem er die Organisation bereits von 2012 bis 2023 geleitet hatte und zwischenzeitlich zu Amnesty International Deutschland wechselte. Er übernimmt die Position in einer Zeit zunehmender Bedrohungen der Pressefreiheit nicht nur in autoritären Regimen, sondern auch in westlichen Demokratien durch staatliche Eingriffe und Plattform-Algorithmen. Mihr bringt umfassende Expertise im Bereich Menschenrechte und Pressefreiheit mit und ist in verschiedenen relevanten Gremien wie der UNESCO-Kommission und Transparency International aktiv.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Kritik an US-Einreiseverbot für HateAid-Gründerinnen DJV-Chef Beuster spricht von \"Zensur in...",
-          "link": "https://meedia.de/news/beitrag/20833-djv-chef-beuster-spricht-von-quot-zensur-in-reinform-quot.html",
-          "summary": "Das US-Außenministerium verhängte Einreiseverbote gegen die HateAid-Gründerinnen Josephine Ballon und Anna-Lena von Hodenberg sowie Ex-EU-Kommissar Thierry Breton wegen deren Rolle bei EU-Regulierungsmaßnahmen wie dem Digital Services Act. Der Deutsche Journalisten-Verband kritisiert dies als \"Zensur in Reinform\", während Politiker von CDU und FDP die US-Kritik an HateAid unterstützen. Hintergrund ist der eskalierende transatlantische Konflikt um die Regulierung großer Online-Plattformen, bei dem die EU bereits hohe Strafen gegen Unternehmen wie Elon Musks X verhängt hat.",
+          "summary": "Christian Mihr kehrt als Geschäftsführer zu Reporter ohne Grenzen zurück, nachdem er die Organisation bereits von 2012 bis 2023 geleitet hatte und anschließend zu Amnesty International Deutschland wechselte. Mihr sieht die Pressefreiheit nicht nur in Diktaturen, sondern zunehmend auch in westlichen Demokratien bedroht, wobei neben staatlichen Eingriffen auch die Algorithmen großer Plattformen den unabhängigen Journalismus gefährden. Der ausgewiesene Experte für Pressefreiheit ist in verschiedenen Gremien wie dem Leibniz-Institut für Medienforschung und der UNESCO-Kommission aktiv.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "ITV agrees to invest £3m in fitness app created by Joe Wicks",
-          "link": "https://www.theguardian.com/media/2025/dec/31/itv-joe-wicks-body-coach-app-investment-health-fitness",
-          "summary": "ITV investiert bis zu £3 Millionen über seinen Media-for-Equity-Fonds ITV AdVentures Invest in Joe Wicks' Fitness-App \"The Body Coach\", die während der Pandemie 2020 gelauncht wurde. Im Gegenzug erhält die App Werbeplätze auf ITVs TV-Kanälen und der Streaming-Plattform ITVX, wobei die erste TV-Kampagne am 1. Januar während einer von Wicks moderierten Sendung startet. Der Deal erfolgt zu einem herausfordernden Zeitpunkt für ITV, da sich der Sender gleichzeitig in Übernahmegesprächen mit dem US-Medienkonzern Comcast befindet.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Ofcom urged to investigate GB News Trump interview over inaccuracy claims",
-          "link": "https://www.theguardian.com/media/2025/dec/31/ofcom-urged-investigate-gb-news-interview-donald-trump-inaccuracy-claims",
-          "summary": "Ofcom steht unter Druck, ein GB News-Interview mit Donald Trump vom November zu untersuchen, nachdem Beschwerden eingereicht wurden, dass irreführende Behauptungen des US-Präsidenten über Klimawandel als \"Schwindel\" und angebliche No-Go-Zonen in London von der Moderatorin Bev Turner unwidersprochen blieben. Kritiker, darunter Ofcoms Gründungsdirektor für Standards, werfen dem Sender vor, gegen Regeln zur Vermeidung von Publikumstäuschung und zur redaktionellen Unparteilichkeit verstoßen zu haben. Ofcom prüft derzeit mehrere detaillierte Beschwerden, die von Zehntausenden mitunterzeichnet wurden, hat aber noch keine formelle Untersuchung eingeleitet.",
+          "title": "New Traitors contestants include detective, crime writer and psychologist",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/jan/01/new-traitors-contestants-include-detective-writer-psychologist",
+          "summary": "Die neue Staffel der BBC-Show \"The Traitors\" startet am Neujahrstag mit 22 Kandidaten, darunter ein pensionierter Polizeidetektiv, eine Krimiautorin, ein Psychologe und ein Cybersicherheitsexperte. Moderatorin Claudia Winkleman kündigt eine \"brutale\" Staffel mit neuen Wendungen an, während die Teilnehmer um ein Prize Money von £120.000 kämpfen. Die Casting-Entscheidung für beruflich qualifizierte Kandidaten wie die Thriller-Autorin Harriet Tyce verspricht strategisch anspruchsvollere Gameplay-Dynamiken.",
           "score": 7
         },
         {
-          "source": "Guardian Media",
-          "title": "Elon Musk’s 2025 recap: how the world’s richest person became its most chaotic",
-          "link": "https://www.theguardian.com/technology/2025/dec/31/elon-musk-doge-tesla-ai-trump",
-          "summary": "Elon Musk erlebte 2025 ein Jahr extremer Höhen und Tiefen, geprägt von kontroversen öffentlichen Auftritten (einschließlich einer vermeintlichen Nazi-Geste bei Trumps Amtseinführung) und seiner Rolle als Trump-Berater. Geschäftlich sicherte er sich milliardenschwere Regierungsaufträge für SpaceX und erhielt trotz sinkender Tesla-Verkaufszahlen ein Vergütungspaket, das ihn zum ersten Billionär machen könnte, während seine Unternehmen gleichzeitig mit Protesten, Klagen und dem Abgang von Führungskräften konfrontiert waren. Musk beendete das Jahr mit einem Vermögen von etwa 600 Milliarden Dollar, nachdem er sich als eine der chaotischsten, aber einflussreichsten Figuren des Jahres etabliert hatte.",
-          "score": 8
+          "source": "Deadline",
+          "title": "Kennedy Center Defends Trump-Hosted Telecast After All-Time Low Nielsen Viewership, Points To $23 Million Raised",
+          "link": "https://deadline.com/2026/01/trump-kennedy-center-ratings-1236660014/",
+          "summary": "Die von Donald Trump moderierte Kennedy Center Honors-Sendung erreichte mit 3,01 Millionen Zuschauern auf CBS einen historischen Tiefstand, verglichen mit 4,1 Millionen Zuschauern im Vorjahr. Das Kennedy Center verteidigte die niedrigen Quoten mit Verweis auf den ungünstigen Sendetermin (Dienstag vor Weihnachten), behauptete eine führende Position in der Zielgruppe 25-54 Jahre und verwies auf 1,5 Milliarden Social-Media-Impressionen. Die von der Organisation angegebenen Social-Media-Zahlen und TV-Nutzungsrückgänge konnten nicht unabhängig verifiziert werden.",
+          "score": 7
         },
         {
-          "source": "Guardian Media",
-          "title": "Dazn ordered to honour €84m Belgian football TV deal after terminating contract",
-          "link": "https://www.theguardian.com/football/2025/dec/31/dazn-ordered-to-honour-belgian-football-tv-deal-after-terminating-contract",
-          "summary": "Ein belgisches Schiedsgericht hat Dazn verpflichtet, den gekündigten €84,2m TV-Vertrag mit der belgischen Pro League bis Juni 2025 zu erfüllen, nachdem der Streaming-Dienst im November die monatlichen €6,6m-Zahlungen eingestellt hatte. Dazn begründete die Vertragskündigung mit fehlgeschlagenen Verhandlungen über Vertriebsdeals mit den belgischen TV-Betreibern Proximus und Telenet, wodurch die Spiele nur über die eigene Plattform verfügbar waren. Das Schiedsgericht droht bei Nichteinhaltung mit täglich €50.000 Strafzahlungen.",
-          "score": 10
+          "source": "Deadline",
+          "title": "Michael Weatherly Thanks ‘NCIS’ Fans For “Save Tony And Ziva” Times Square Stunt",
+          "link": "https://deadline.com/2026/01/michael-weatherly-thanks-tony-and-ziva-fans-1236659793/",
+          "summary": "Fans der nach einer Staffel abgesetzten Paramount+ Serie \"NCIS: Tony & Ziva\" organisierten eine 24-stündige Billboard-Kampagne am Times Square, um für die Rettung der Show zu werben. Michael Weatherly dankte den Fans emotional über Social Media für ihre Unterstützung der \"Save Tony and Ziva\"-Aktion. Die im September gestartete Spinoff-Serie hatte trotz starker Streaming-Zahlen (6,8M Stunden in der ersten Woche) ihre Einstellung im Dezember erfahren.",
+          "score": 7
         },
         {
-          "source": "Guardian Media",
-          "title": "France fears ‘era of Trumpism’ as public broadcaster comes under fire from right",
-          "link": "https://www.theguardian.com/world/2025/dec/31/french-public-broadcaster-under-parliamentary-inquiry-into-neutrality-workings-and-financing-udr",
-          "summary": "Eine von der rechtspopulistischen UDR-Partei initiierte parlamentarische Untersuchung prüft bis März die \"Neutralität, Arbeitsweise und Finanzierung\" des französischen öffentlich-rechtlichen Rundfunks, nachdem rechte Parteien diesem politische Voreingenommenheit vorwerfen. Marine Le Pen fordert eine Privatisierung des öffentlichen Rundfunks, während gleichzeitig der konservative Medienunternehmer Vincent Bolloré mit seinem privaten Medienimperium an Einfluss gewinnt. Die Entwicklung fügt sich in einen europäischen Trend der politischen Spannungen um öffentlich-rechtliche Medien ein, vor dem Hintergrund der französischen Präsidentschaftswahl 2027.",
+          "source": "Deadline",
+          "title": "2026 Awards Season Calendar: Dates For Oscars, Guilds, Grammys, Tonys & More",
+          "link": "https://deadline.com/feature/awards-season-calendar-oscars-emmys-golden-globes-list-1234814076/",
+          "summary": "Der Artikel präsentiert den umfassenden Kalender der Awards Season 2026 mit allen wichtigen Terminen von Januar bis März, beginnend mit den Palm Springs Film Awards am 3. Januar und den Critics Choice Awards am 4. Januar. Die Oscar-Nominierungen sind für den 22. Januar angesetzt, gefolgt von den Grammy Awards am 1. Februar und weiteren bedeutenden Branchenauszeichnungen wie SAG Awards, DGA Awards und BAFTA Film Awards. Der Kalender umfasst sowohl die Nominierungstermine als auch die Verleihungszeremonien aller relevanten Guild- und Industrie-Awards der Unterhaltungsbranche.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "George Clooney Responds To Donald Trump’s New Year’s Eve Insults, Says He Agrees “We Have To Make America Great Again. We’ll Start In November”",
+          "link": "https://deadline.com/2026/01/trump-george-clooney-french-citizenship-1236659392/",
+          "summary": "Donald Trump kritisierte George Clooney und dessen neue französische Staatsbürgerschaft auf Truth Social und bezeichnete ihn als schlechten politischen Prognostiker und mittelmäßigen Schauspieler. Clooney antwortete diplomatisch, er stimme zu, dass Amerika wieder großartig werden müsse und man damit im November beginnen werde - ein Verweis auf die nächsten Wahlen. Der Schlagabtausch entstand nach Clooneys Interview-Äußerungen, in denen er Trump als \"großen Trottel\" vor dessen politischer Laufbahn bezeichnete.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "Media Stocks Winners & Losers In 2025: WBD Rides M&A Wave, EchoStar Jumps On SpaceX Speculation",
-          "link": "https://deadline.com/2025/12/2025-media-stocks-winners-losers-1236658705/",
-          "summary": "Warner Bros Discovery führte 2025 die Medienaktien-Gewinner mit einem Plus von 170% an, getrieben von M&A-Spekulationen über eine mögliche Übernahme durch Netflix oder Paramount, während EchoStar um 370% zulegte aufgrund seiner erhöhten SpaceX-Beteiligung nach der Dish Network-Fusion. Zu den Verlierern zählten Comcast (-20%) wegen schwächelndem Breitband-Geschäft sowie Angel Studios (-53%), Trump Media, AMC und BuzzFeed mit deutlichen Rückgängen. Der Sektor war geprägt von strukturellen Veränderungen wie Lionsgates Aufspaltung in Studio- und Starz-Einheiten sowie Paramounts Neuausrichtung nach der Skydance-Fusion.",
-          "score": 10
+          "title": "Tony Dokoupil Asserts ‘CBS Evening News’ Will Be Independent From Its Corporate Owner: “I Report For You”",
+          "link": "https://deadline.com/2026/01/tony-dokoupil-cbs-news-independent-corporate-owner-1236659739/",
+          "summary": "Tony Dokoupil übernimmt am 5. Januar die Moderation der CBS Evening News und verspricht in einer Videobotschaft redaktionelle Unabhängigkeit von Werbetreibenden, Politikern und dem Mutterkonzern Paramount Skydance. Der Wechsel erfolgt vor dem Hintergrund anhaltender Kritik an CBS News wegen angeblicher Unternehmenseinmischung, insbesondere nach der kurzfristigen Absage eines 60 Minutes-Beitrags über Migrantendeportationen durch die Trump-Administration. Dokoupil arbeitet unter der neuen Chefredakteurin Bari Weiss und folgt auf John Dickerson und Maurice DuBois, die nach weniger als einem Jahr ihre Abgänge angekündigt hatten.",
+          "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Netflix’s Lions-Vikings Leads NFL Christmas Day Audiences; Prime Video Trails With Chiefs-Broncos But Sets ‘Thursday Night Football’ Record",
-          "link": "https://deadline.com/2025/12/christmas-2025-nfl-viewership-netflix-amazon-lions-vikings-1236659307/",
-          "summary": "Netflix dominierte die NFL-Übertragungen am Weihnachtstag mit 27,5 Millionen Zuschauern für Lions-Vikings, was leicht über den Vorjahreswerten lag und von Snoop Doggs Halbzeitshow mit 29 Millionen Zuschauern unterstützt wurde. Amazon Prime Video erzielte mit Chiefs-Broncos 21,06 Millionen Zuschauer und stellte damit einen neuen Rekord für Thursday Night Football auf, blieb aber hinter Netflix zurück. Die drei Weihnachtsspiele zeigten die wachsende Dominanz der Streaming-Plattformen bei Premium-Sportinhalten, wobei Netflix seine Position als führender NFL-Streaming-Partner festigte.",
+          "title": "‘Avatar: Fire And Ash’ U.S. Cume Rises To $250M+ After Slow New Year’s Eve; 2025 B.O. At $8.87B, +2% From Last Year – Box Office",
+          "link": "https://deadline.com/2026/01/box-office-avatar-fire-and-ash-marty-supreme-new-year-1236659703/",
+          "summary": "\"Avatar: Fire and Ash\" erzielte am Silvesterabend $8,1 Millionen und erreichte damit eine US-Gesamtsumme von $250,2 Millionen. Die US-Kinokassen 2025 schlossen bei $8,87 Milliarden (+1,5% vs. 2024), blieben aber unter den prognostizierten $9 Milliarden und dem Post-Covid-Rekord von 2023 ($9,04 Milliarden). PG-bewertete Filme übertrafen erneut PG-13-Titel, während Horror-Filme mit über $1,4 Milliarden ein Rekordjahr verzeichneten.",
           "score": 9
         },
         {
           "source": "Hollywood Reporter",
-          "title": "The Best Horror Movies of 2025",
-          "link": "https://www.hollywoodreporter.com/lists/best-horror-movies-of-2025-streaming/",
-          "summary": "The Hollywood Reporter identifiziert \"Ownership\" als zentrales Thema der Horror-Filme 2025, wobei Motive wie Zugehörigkeit, Besessenheit und Kontrolle die Genre-Landschaft prägten. Der Artikel analysiert, wie sich gesellschaftliche Spannungen bezüglich Gemeinschaft, Tribalismus und Machtstrukturen in Horror-Produktionen wie \"Companion\", \"Weapons\" und \"Opus\" widerspiegeln. Dabei wird Horror als Spiegel realer gesellschaftlicher Ängste vor Vereinnahmung und Kontrollverlust interpretiert.",
+          "title": "George Clooney Punches Back After Trump Attacks Him: “We Have to Make America Great Again. We’ll Start in November”",
+          "link": "https://www.hollywoodreporter.com/news/politics-news/george-clooney-pushes-back-trump-attacks-french-citizen-1236462527/",
+          "summary": "George Clooney reagierte auf Donald Trumps Neujahrsangriff, in dem der Präsident den Schauspieler für seine französische Staatsbürgerschaft und politischen Ansichten kritisierte, mit einer knappen Erwiderung: \"Wir müssen Amerika wieder großartig machen. Wir fangen im November an.\" Trump hatte Clooney als \"schlechten politischen Prognostiker\" bezeichnet und seine Filme als \"mittelmäßig\" abgetan, während er dessen Wechsel der Unterstützung von Biden zu Harris während des Wahlkampfs kritisierte.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "TV Premiere Dates 2026: The Complete Guide",
+          "link": "https://www.hollywoodreporter.com/lists/2026-tv-premiere-dates-calendar/",
+          "summary": "Der Hollywood Reporter veröffentlicht einen umfassenden Kalender mit TV-Premierenterminen für 2026, der trotz des abflauenden Peak-TV-Trends weiterhin hunderte Scripted- und Unscripted-Shows sowie Specials über alle Plattformen hinweg umfasst. Der Kalender wird kontinuierlich aktualisiert und zeigt für Anfang Januar bereits eine hohe Programmdichte mit Starts auf Netflix, HBO Max, NBC, ABC, CBS, Fox und Streaming-Diensten. Zu den herausragenden Neustarts gehören \"The Pitt\" Staffel 2 (HBO Max), \"Beast Games\" (Prime Video) und die Rückkehr etablierter Formate wie \"RuPaul's Drag Race\" und \"The Traitors\".",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "New CBS Evening News Anchor Tony Dokoupil Says News Has ‘Put Too Much Weight’ on Academics and Elites: ‘The Press Has Missed the Story’",
+          "link": "https://variety.com/2026/tv/news/tony-dokoupil-cbs-news-press-has-missed-story-1236622164/",
+          "summary": "Tony Dokoupil, der neue Anchor der \"CBS Evening News\", kritisiert in einer öffentlichen Stellungnahme die etablierten Medien dafür, zu stark auf Akademiker und Eliten zu fokussieren statt auf durchschnittliche Amerikaner zu hören. Er behauptet, dass Journalisten dadurch wichtige Geschichten verpassen und das Vertrauen der Öffentlichkeit verloren haben, und verspricht eine Neuausrichtung der Berichterstattung ab seinem Amtsantritt am Montag.",
+          "score": 9
+        },
+        {
+          "source": "Variety",
+          "title": "MTV Didn’t Shut Down on New Year’s Eve, Despite Social Media Posts — but the Music Left a Long Time Ago",
+          "link": "https://variety.com/2026/tv/news/mtv-did-not-shut-down-despite-social-media-posts-1236621840/",
+          "summary": "Entgegen viralen Social-Media-Posts ist MTV nicht an Silvester 2025 eingestellt worden – lediglich spezialisierte MTV-Musikkanäle in Großbritannien wurden geschlossen, während der Hauptsender MTV UK weiterhin sendet. In den USA bleiben alle MTV-Kanäle unverändert in Betrieb, obwohl das Programm längst von Musik auf Reality-TV und Sitcom-Wiederholungen umgestellt wurde. Die Verwirrung entstand durch die Schließung der britischen Spartensender im Zuge von Paramount Skydances Portfolio-Anpassung an veränderte Sehgewohnheiten.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "‘Ne Zha 2,’ ‘Zootopia 2’ Lead China Box Office Past $7.4 Billion in 2025",
-          "link": "https://variety.com/2026/film/box-office/ne-zha-2-zootopia-2-2025-china-box-office-7-4-billion-1236621734/",
-          "summary": "Chinas Kinokassen erholten sich 2025 stark mit einem Gesamtumsatz von 7,4 Milliarden USD (+20% gegenüber Vorjahr), angeführt von Animationsfilmen, die fast die Hälfte des Jahresumsatzes generierten. Die lokale Fortsetzung \"Ne Zha 2\" dominierte mit 2,13 Milliarden USD, gefolgt von Disneys \"Zootopia 2\" mit 558,3 Millionen USD. IP-gestützte Franchise-Titel zeigten überdurchschnittliche Wiederholungsraten und konzentrierten den Markt zunehmend auf wenige Blockbuster-Releases.",
-          "score": 7
+          "title": "George Clooney Hits Back After Trump Slams Him on Social Media: ‘We Have to Make America Great Again. We’ll Start in November’",
+          "link": "https://variety.com/2026/film/news/george-clooney-response-trump-social-media-slam-french-citizenship-1236621790/",
+          "summary": "George Clooney reagierte auf Trumps Social-Media-Angriffe bezüglich seiner französischen Staatsbürgerschaft mit einer scharfen Antwort, in der er Trumps eigenen Slogan \"Make America Great Again\" verwendete und auf die Midterm-Wahlen im November verwies. Trump hatte Clooneys Entscheidung als \"Good News!\" bezeichnet und den Schauspieler für seine 2024er Kritik an Biden sowie dessen Unterstützung von Kamala Harris angegriffen. Der Artikel zeigt die anhaltende politische Fehde zwischen dem Hollywood-Star und dem Präsidenten auf.",
+          "score": 8
         }
       ]
     }
