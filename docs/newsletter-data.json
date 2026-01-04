@@ -1,153 +1,83 @@
 {
   "newsletters": [
     {
-      "date": "2026-01-03",
+      "date": "2026-01-04",
       "articles": [
         {
-          "source": "DWDL",
-          "title": "Ofarim, Ballack & Co.: RTL bestätigt seinen \"IBES\"-Cast",
-          "link": "https://www.dwdl.de/nachrichten/105064/ofarim_ballack__co_rtl_bestaetigt_seinen_ibescast/",
-          "summary": "RTL hat das offizielle Teilnehmerfeld der 19. \"IBES\"-Staffel bestätigt, darunter Gil Ofarim (nach seiner Antisemitismus-Kontroverse), Simone Ballack und verschiedene Schauspieler sowie Reality-Stars. Die Show startet am 23. Januar um 20:15 Uhr und verspricht durch konfliktträchtige Teilnehmer-Konstellationen sowie kontroverse Vergangenheiten einzelner Kandidaten hohe Aufmerksamkeit.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "RTLzwei spendiert den Wollnys zum Jubiläum einen ganzen Tag",
-          "link": "https://www.dwdl.de/nachrichten/105054/rtlzwei_spendiert_den_wollnys_zum_jubilaeum_einen_ganzen_tag/",
-          "summary": "RTLzwei feiert am 17. Januar 2026 das 15-jährige Jubiläum der Dokusoap \"Die Wollnys - Eine schrecklich große Familie\" mit einem zwölfstündigen Programmtag ab 8:10 Uhr, der die \"unvergesslichsten Momente\" der Serie zeigt. Das Format startete exakt am 17. Januar 2011 und wird von Yellowstone Productions produziert. Neue Folgen für 2026 wurden noch nicht offiziell angekündigt.",
+          "source": "kress",
+          "title": "Wie Medienprofis die Herausforderungen 2026 angehen",
+          "link": "https://kress.de/news/beitrag/151584-sicher-durch-das-schwierige-jahr-wie-medienprofis-die-herausforderungen-2026-angehen.html",
+          "summary": "Karrierecoach Attila Albert prognostiziert für 2026 ein besonders schwieriges Jahr für Medienprofis aufgrund geopolitischer Verschiebungen, Wirtschaftskrise und gesellschaftlicher Polarisierung. Er empfiehlt Medienschaffenden, sich trotz berufsbedingter Nachrichtenverfolgung auf beeinflussbare berufliche und private Bereiche zu konzentrieren, um Kraft zu sparen und handlungsfähig zu bleiben. Die Strategie zielt darauf ab, durch Fokussierung auf lösbare Probleme Zuversicht zu gewinnen und letztendlich anderen besser helfen zu können.",
           "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "FIFA Fußball-WM: WM-Anstoßzeiten verärgern TV-Sender und stellen Fans vor Probleme",
-          "link": "https://www.horizont.net/medien/nachrichten/fifa-fussball-wm-wm-anstosszeiten-veraergern-tv-sender-und-stellen-fans-vor-probleme-232605?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die FIFA hat für die WM 2026 mit 104 Spielen Anstoßzeiten festgelegt, die deutsche TV-Übertragungen zwischen 18 Uhr und 6 Uhr morgens erfordern. Besonders die zahlreichen Spiele nach Mitternacht deutscher Zeit sorgen bei Fernsehsendern für programmplanerische Probleme und stellen Fans vor die Herausforderung nächtlicher Spielzeiten.",
-          "score": 9
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "TV-Markt 2025: Sat 1 schafft erstes Wachstum seit zehn Jahren, RTL nur einstellig",
-          "link": "https://www.horizont.net/medien/nachrichten/tv-markt-2025-sat-1-schafft-erstes-wachstum-seit-zehn-jahren-rtl-nur-einstellig-232602?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Sat 1 verzeichnet 2025 erstmals seit einem Jahrzehnt Zuschauerzuwächse, während auch Pro Sieben leichte Gewinne erzielen konnte. RTL hingegen musste Verluste hinnehmen und verpasste in der werberelevanten Zielgruppe 14-49 Jahre einen zweistelligen Marktanteil.",
-          "score": 10
-        },
-        {
-          "source": "kress",
-          "title": "Das sind die besten Digital-Köpfe des Jahres Welche Digital-Köpfe haben 2025 besonders viel bewegt? Aus der Titelgeschichte von kress pro.",
-          "link": "https://kress.de/news/beitrag/151587-kress-awards-2025-das-sind-die-besten-digital-koepfe-des-jahres.html",
-          "summary": "Kress pro vergibt zum zehnten Mal die kress Awards 2025, bei denen Margret Seeger von der Rheinischen Post Mediengruppe als Digital-Kopf des Jahres ausgezeichnet wurde. Die Redaktionsjury ermittelte über das Jahr hinweg Kandidaten in 11 Kategorien und bewertete deren außergewöhnliche Leistungen sowie ihren Beitrag zur Zukunft der Medienbranche. Die Awards würdigen Führungskräfte, die 2025 besonders viel in der Medienlandschaft bewegt haben.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Wird KI in zehn Jahren so gute Texte schreiben können wie ein FAZ-Autor, Carsten Knop?",
-          "link": "https://kress.de/news/beitrag/151585-10-jahre-kress-pro-wird-ki-in-zehn-jahren-so-gute-texte-schreiben-koennen-wie-ein-faz-autor-carsten-knop.html",
-          "summary": "FAZ-Herausgeber Carsten Knop prognostiziert, dass KI in zehn Jahren zwar technisch in der Lage sein könnte, Texte auf FAZ-Niveau zu schreiben, jedoch fundamentale journalistische Qualitäten wie persönliche Recherche, Gespräche mit echten Menschen und subjektiv-kreative Intelligenz fehlen werden. Er vergleicht die Situation mit dem Schachspiel, wo computerbasierte Partien technisch perfekt, aber uninteressant sind, während menschliche Spieler weiterhin das größere Interesse auf sich ziehen. KI-Systeme werden seiner Ansicht nach schneller und zuverlässiger, aber niemals echte menschliche Autoren ersetzen können.",
-          "score": 8
         },
         {
           "source": "kress",
           "title": "kicker-Manager Martin Schumacher kündigt Abschied an Martin Schumacher verlässt den kicker nach fast zwölf Jahren.",
           "link": "https://kress.de/news/beitrag/151583-kicker-manager-martin-schumacher-kuendigt-abschied-an.html",
-          "summary": "Martin Schumacher verlässt nach fast zwölf Jahren den Olympia-Verlag und seine Position als Geschäftsführer der B2B-Tochter kicker business solutions zum Jahreswechsel. Schumacher verantwortete seit 2014 zunächst als Vermarktungsleiter die kommerzielle Ausrichtung der Marke kicker und ab 2021 die Geschäftsführung von kicker business solutions, die Sponsoring-, Event- und Aktivierungsprojekte bündelt. Unter seiner Führung entwickelte sich kicker von einem printgeprägten Titel zur reichweitenstärksten Sportmedienmarke Deutschlands mit zahlreichen erfolgreichen Partnerschaften und Live-Formaten.",
+          "summary": "Martin Schumacher verlässt nach fast zwölf Jahren den kicker und Olympia-Verlag zum Jahreswechsel, wo er zuletzt als Geschäftsführer der B2B-Tochter kicker business solutions tätig war. In seiner Zeit verantwortete er maßgeblich den digitalen Umbau der Marke zur reichweitenstärksten Sportmedienmarke Deutschlands und entwickelte zahlreiche Partnerschaften, Live-Formate sowie Event-Konzepte zur Monetarisierung jenseits klassischer Anzeigenvermarktung. Über seine nächsten Karriereschritte machte der 48-Jährige zunächst keine Angaben.",
           "score": 8
         },
         {
           "source": "kress",
           "title": "Max Buder gehört zu den Young Leadern des Jahres 2025 kress präsentiert in einer Serie junge...",
           "link": "https://kress.de/news/beitrag/151581-max-buder-gehoert-zu-den-young-leadern-des-jahres-2025.html",
-          "summary": "Max Buder (34), Chief Commercial Officer von Ringier Medien Schweiz, wurde von kress zu den \"25 Young Leaders des Jahres 2025\" gekürt. Er verantwortet die kommerzielle Steuerung, Marketing-Aktivitäten und strategischen Partnerschaften des Schweizer Medienkonzerns und trieb zuvor erfolgreich die Expansion der \"Blick\"-Gruppe in die Westschweiz voran. Sein strategisches Ziel ist es, die Medienbranche durch Win-win-Partnerschaften und innovative Kooperationsmodelle weiterzuentwickeln.",
-          "score": 8
+          "summary": "Max Buder (34), Chief Commercial Officer von Ringier Medien Schweiz, wurde von kress pro als einer der 25 Young Leaders des Jahres 2025 ausgezeichnet. Er verantwortet die kommerzielle Steuerung, Marketing-Aktivitäten und strategischen Partnerschaften des Schweizer Medienkonzerns und hatte zuvor die \"Blick\"-Expansion in die Westschweiz vorangetrieben. Buder setzt auf Win-win-Konstellationen und möchte die Branchenentwicklung durch echte Partnerschaften und Kooperationen voranbringen.",
+          "score": 9
         },
         {
           "source": "kress",
           "title": "Sina Burmeister gehört zu den Young Leadern des Jahres 2025 kress präsentiert in einer Serie junge...",
           "link": "https://kress.de/news/beitrag/151579-sina-burmeister-gehoert-zu-den-young-leadern-des-jahres-2025.html",
-          "summary": "Sina Burmeister (34), stellvertretende Leiterin des RTL-Hauptstadtstudios, wurde von kress zu den Young Leaders 2025 gewählt. Die Juristin wechselte 2022 von der Wirtschaftskanzlei Freshfields zu RTL Deutschland, wo sie zunächst die Arbeitsrechtsabteilung aufbaute und maßgeblich den Betriebsübergang des \"Stern\" von Gruner + Jahr zu RTL News gestaltete. Seit April 2025 verantwortet sie als stellvertretende Leiterin das Berliner Hauptstadtstudio mit rund 200 Journalisten für verschiedene RTL-Medienmarken.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Die besten MEEDIA-Interviews 2025 MEEDIA-Gespräche die auch 2026 noch nachwirken MEEDIA durfte das...",
-          "link": "https://meedia.de/news/beitrag/20849-meedia-gespraeche-die-auch-2026-noch-nachwirken.html",
-          "summary": "MEEDIA präsentiert eine Übersicht ihrer 12 wichtigsten Interviews aus 2025, die aus insgesamt 60 geführten Gesprächen mit Führungskräften der Medien- und Marketingbranche ausgewählt wurden. Die vorgestellten Interviews behandeln zukunftsweisende Themen wie die Übernahme des RadioAdMakers durch amy zur Automatisierung von Audio-Kampagnen und die strategische Neuausrichtung der Eigenvermarktung beim OV-Verlag. Viele der diskutierten Strategien und Thesen werden ihre Wirkung erst 2026 entfalten und haben daher langfristige Relevanz für die Branche.",
+          "summary": "Sina Burmeister (34), stellvertretende Leiterin des RTL-Hauptstadtstudios, wurde von kress zu den \"25 Young Leaders des Jahres 2025\" gekürt. Die Juristin wechselte Ende 2022 von der Wirtschaftskanzlei Freshfields zu RTL Deutschland, wo sie zunächst die Abteilung Arbeitsrecht aufbaute und seit April die stellvertretende Leitung des Berliner Studios mit rund 200 Journalisten für verschiedene RTL-Medienmarken übernommen hat. Zu ihren größten Herausforderungen zählte die Verhandlungsführung beim Betriebsübergang des \"Stern\" von Gruner + Jahr zur RTL News.",
           "score": 9
         },
         {
-          "source": "meedia",
-          "title": "\"Kreativer Impulsgeber\" Dominik Hackl leitet \"Creative Core\" von OBI in Wien Die Baumarktkette OBI macht Wien zu ihrem Marketing-Kreativ-Zentrum.",
-          "link": "https://meedia.de/news/beitrag/20848-dominik-hackl-leitet-quot-creative-core-quot-von-obi-in-wien.html",
-          "summary": "Die Baumarktkette OBI Group gründet mit dem \"Creative Core\" in Wien einen zentralen kreativen Hub für alle europäischen Märkte, der cross-channel Kampagnen aus einer einheitlichen kreativen Idee entwickeln soll. Die Leitung übernimmt Dominik Hackl, bisher Marketingleiter von OBI Österreich, der mit seinem interdisziplinären Team als \"kreativer Impulsgeber\" für die internationale Marketingstruktur fungiert. Ziel ist es, Marke, Kreation und Aktivierungslogik enger zu verzahnen und mutige Kampagnen zu entwickeln, die international funktionieren, aber lokale Anpassungen ermöglichen.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Jahresauftakt-Kampagne Palina Rojinski, alias Sparlina, bewirbt Edeka-Schnäppchen Humorvoll und selbstironisch startet Edeka ins neue Jahr: Mit dem „Spar-Januar bei Edeka“ präsentiert die neue Kampagne attraktive Wochenangebote und Payback-Aktionen",
-          "link": "https://meedia.de/news/beitrag/20847-palina-rojinski-alias-sparlina-bewirbt-edeka-schnaeppchen.html",
-          "summary": "Edeka startet mit der \"Spar-Januar\"-Kampagne ins neue Jahr, bei der Palina Rojinski als \"Sparlina\" humorvoll für Wochenangebote und 10fach Payback-Punkte wirbt. Der 15-sekündige TV-Spot \"Miss Verständnis\" zeigt die Entertainerin selbstironisch beim Einkaufen und läuft seit 1. Januar crossmedial auf TV, Social Media und YouTube. Die bis Ende Januar laufende Kampagne bündelt wechselnde Angebote aus allen Sortimentsbereichen und eine spezielle Obst-Gemüse-Aktion \"Bunter wird's nicht\".",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Die großen Mediendeals in den USA Rückblick: Wie Larry und David Ellison ein Trump-nahes Medienimperium aufbauen Paramount haben sie schon geschluckt, jetzt haben sie Warner Bros. im Visier: Vater und Sohn Larry und David Ellison schmieden in den USA gerade ein gewaltiges Medienimperium",
-          "link": "https://meedia.de/news/beitrag/20846-rueckblick-wie-larry-und-david-ellison-ein-trump-nahes-medienimperium-aufbauen.html",
-          "summary": "Die Ellisons (Vater Larry, Oracle-Gründer mit 336 Mrd. Dollar Vermögen, und Sohn David) haben 2025 Paramount für 8 Milliarden Dollar übernommen und befinden sich nun in einem Bieterkampf mit Netflix um Warner Bros. Discovery, wobei ihr 108,4-Milliarden-Angebot bislang abgelehnt wurde. Das Trump-nahe Vater-Sohn-Gespann baut systematisch ein gewaltiges Medienimperium in den USA auf, nachdem sie bereits seit 15 Jahren im US-Mediengeschäft aktiv sind.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "Martin Schumacher verlässt den Olympia-Verlag Zum Jahresende hat der Manager Martin Schumacher das Spielfeld des Olympia-Verlags verlassen.",
-          "link": "https://meedia.de/news/beitrag/20844-abpfiff-martin-schumacher-verlaesst-den-olympia-verlag.html",
-          "summary": "Martin Schumacher hat nach fast zwölf Jahren den Olympia-Verlag zum Jahresende verlassen, wo er zunächst als Vermarktungschef des \"kicker\" tätig war und zuletzt die B2B-Tochter kicker business solutions als Geschäftsführer leitete. Seine künftigen Pläne hat der 48-jährige Manager noch nicht bekanntgegeben, eine Nachfolgeregelung für seine Position steht ebenfalls noch aus. Schumacher gehörte dem Führungskreis des Verlags an und war maßgeblich an der Entwicklung von Sponsoring- und Event-Projekten jenseits der klassischen Anzeigenvermarktung beteiligt.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Greens’ Polanski prepared to work with Burnham but not Starmer ‘to stop Reform’",
-          "link": "https://www.theguardian.com/politics/2025/dec/31/uk-green-party-zack-polanski-labour-andy-burnham-keir-starmer-gary-lineker-bbc",
-          "summary": "Zack Polanski, Vorsitzender der Green Party, signalisiert Bereitschaft zur politischen Zusammenarbeit mit Andy Burnham (Bürgermeister von Greater Manchester) zur Verhinderung einer Reform-Regierung, schließt jedoch eine Koalition mit dem aktuellen Labour-Premier Keir Starmer kategorisch aus. Polanski kritisiert Labours Wirtschaftspolitik und fordert eine Vermögenssteuer sowie höhere Kapitalertragssteuern. Eine solche Koalition würde voraussetzen, dass die Grünen bei der nächsten Parlamentswahl ausreichend Sitze gewinnen und Burnham wieder ins Unterhaus einzieht.",
+          "source": "kress",
+          "title": "de und GMX besteht künftig aus drei Personen.",
+          "link": "https://kress.de/news/beitrag/151572-anita-klingler-und-fabian-busch-steigen-in-chefredaktion-von-web-de-und-gmx-auf.html",
+          "summary": "Die Chefredaktion von Web.de und GMX wird um Anita Klingler und Fabian Busch erweitert, die künftig gemeinsam mit Thomas Rebbe die redaktionelle Strategie weiterentwickeln. Klingler, seit 2012 in der Redaktion und zuletzt CvD sowie Newsdesk-Leiterin, soll die aktuelle Berichterstattung am Münchner Standort stärken, während Busch das Berliner Büro leitet und die Parlamentsberichterstattung ausbaut. Zusätzlich verstärkt Elena Stein als neue Teamlead Video die Videostrategie des Portals.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘Dick Clark’s New Year’s Rockin’ Eve’ Up 35% With 30M Viewers Tuned In At Midnight",
-          "link": "https://deadline.com/2026/01/dick-clarks-new-years-rockin-eve-2026-ratings-viewership-1236660657/",
-          "summary": "\"Dick Clark's New Year's Rockin' Eve\" verzeichnete 2026 einen deutlichen Ratings-Erfolg mit 30 Millionen Zuschauern zur Mitternachtsstunde auf ABC, was einem Anstieg von 35,1% gegenüber dem Vorjahr entspricht und den höchsten Wert seit vier Jahren darstellt. Die Sendung dominierte das Broadcast-TV während des gesamten Abends, wobei auch die Primetime-Ausgabe um 12% zulegte und die Late-Night-Fortsetzung nach Mitternacht sogar ein Achtjahreshoch mit 8,25 Millionen Zuschauern erreichte.",
+          "title": "‘Top Gun: Maverick’ Copyright Suit Gets Its Wings Clipped By Appeals Court In Win For Paramount",
+          "link": "https://deadline.com/2026/01/top-gun-maverick-copyright-appeal-decison-1236661010/",
+          "summary": "Das US-Berufungsgericht des 9. Bezirks hat eine Urheberrechtsklage gegen Paramount wegen \"Top Gun: Maverick\" abgewiesen und bestätigte damit eine erstinstanzliche Entscheidung von April 2024. Die Klage wurde von den Erben des Journalisten Ehud Yonay eingereicht, dessen 1983er Artikel \"Top Guns\" als Grundlage für den ursprünglichen Film diente. Das Gericht stellte fest, dass der neue Film keine wesentlichen Ähnlichkeiten mit dem ursprünglichen journalistischen Werk in schützbaren Elementen aufweist und somit keine Urheberrechtsverletzung vorliegt.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Global Box Office Estimated At $33.5B; Anime Explodes In Up-And-Down Year: Studio Report Cards",
-          "link": "https://deadline.com/2026/01/global-box-office-2025-report-hollywood-studio-rankings-1236660512/",
-          "summary": "Die globale Kinokasse erreichte 2025 schätzungsweise 33,5 Milliarden US-Dollar (+12% gegenüber 2024), wobei ein chinesischer Lokalfilm allein über 2 Milliarden einspielte und das Wachstum ohne China bei etwa 8% lag. Anime-Produktionen verzeichneten deutliche Erfolge in einem von Unsicherheiten geprägten Jahr, das noch unter den Nachwirkungen der Streiks von 2023 litt. Branchenexperten blicken trotz gemischter Ergebnisse optimistisch auf 2026, während Diskussionen über Verwertungsfenster und mögliche Studio-Übernahmen durch Streaming-Anbieter die Zukunft des Kinos prägen.",
-          "score": 7
+          "title": "The 10 Big Stories For 2026: It Ain’t Just Who Ends Up Owning Warner Bros.",
+          "link": "https://deadline.com/2026/01/biggest-stories-2026-predictions-1236659377/",
+          "summary": "Der Artikel prognostiziert die wichtigsten Medien- und Entertainment-Geschichten für 2026, wobei die Nachfolge von Bob Iger als Disney-CEO mit Kandidaten wie Dana Walden und Josh D'Amaro zu den zentralen Themen gehört. Weitere bedeutende Entwicklungen umfassen potenzielle Milliarden-Übernahmen von Warner Bros Discovery durch Netflix oder Paramount sowie anstehende Vertragsverhandlungen zwischen Studios/Streamern und den Hollywood-Gewerkschaften vor dem Hintergrund anhaltender Produktionsprobleme. Zusätzlich werden kulturelle Ereignisse wie Bad Bunnys Super Bowl-Auftritt und mögliche gesundheitsbedingte Veränderungen bei den Rolling Stones als prägende Geschichten identifiziert.",
+          "score": 8
         },
         {
           "source": "Deadline",
-          "title": "‘CBS Evening News’ Unveils “Five Simple Principles” In Advance Of Tony Dokoupil’s Debut As New Anchor",
-          "link": "https://deadline.com/2026/01/cbs-evening-news-principles-tony-dokoupil-1236660566/",
-          "summary": "CBS Evening News hat fünf Leitprinzipien für die Sendung unter dem neuen Anchor Tony Dokoupil vorgestellt, der am Montag die Moderation übernimmt und bereits der sechste Anchor in zehn Jahren sein wird. Die von Bari Weiss (The Free Press) geleitete Neuausrichtung der CBS-Nachrichtenabteilung betont Zuschauerfokus, direkte Berichterstattung ohne Corporate-Einflüsse, Respekt vor der Urteilsfähigkeit des Publikums und ein offenes Bekenntnis zu Amerika und dessen Grundwerten. Die Prinzipien zielen auf eine ehrliche, traditionsbewusste aber zukunftsorientierte Nachrichtenvermittlung ab, die sowohl linear als auch über Social Media erreicht werden soll.",
+          "title": "Mike Flanagan On Why He Broke His “No Sequels” Or Remakes Rule For ‘Carrie’ Series",
+          "link": "https://deadline.com/2026/01/mike-flanagan-broke-no-sequels-remakes-rule-carrie-series-1236660912/",
+          "summary": "Horror-Regisseur Mike Flanagan hat seine selbst auferlegte \"Keine Sequels oder Remakes\"-Regel für eine achtteilige Amazon-Serie zu Stephen Kings \"Carrie\" gebrochen, weil er einen neuen, zeitgemäßen Ansatz für die bereits mehrfach verfilmte Geschichte gefunden hat. Flanagan brach diese Regel bereits 2019 für \"Doctor Sleep\", da er das Sequel zu \"The Shining\" als Vervollständigung der ursprünglichen Alkoholismus-Geschichte durch eine Erzählung über Genesung sah. Die Serie, deren Produktion im Oktober abgeschlossen wurde, soll eine Neuinterpretation der Geschichte der Außenseiterin Carrie White und ihrer telekinetischen Kräfte darstellen.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "TV Ratings: ABC Hits Four-Year High for ‘New Year’s Rockin’ Eve’",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/abc-new-years-eve-2025-tv-ratings-1236462921/",
-          "summary": "ABCs \"Dick Clark's New Year's Rockin' Eve\" erreichte mit 18,8 Millionen Zuschauern in der Stunde um Mitternacht (23:30-00:30 Uhr ET) einen Vier-Jahres-Höchststand und lag damit 5% über dem Vorjahr. Die Sendung dominierte deutlich die Konkurrenz, während CBS 5,3 Millionen, CNN 2,6 Millionen und NBC 2,13 Millionen Zuschauer in vergleichbaren Zeiträumen verzeichneten. ABC schätzt, dass insgesamt 34 Millionen Zuschauer zumindest zeitweise die Neujahrsübertragung verfolgten.",
-          "score": 7
+          "title": "Box Office: ‘Avatar 3’ Flies Past $1B, Sleeper Hit ‘The Housemaid’ Delivers Sydney Sweeney a Win",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/box-office-avatar-3-billion-the-housemaid-win-1236463156/",
+          "summary": "\"Avatar: Fire and Ash\" überschritt am Wochenende die globale Milliarden-Dollar-Marke und führt mit erwarteten $36-38 Millionen die nordamerikanischen Kinocharts an. Der Film erreichte damit $280 Millionen domestic und $720+ Millionen international, womit James Cameron seinen vierten Milliarden-Dollar-Erfolg verzeichnet. Parallel etabliert sich \"The Housemaid\" mit Sydney Sweeney als überraschender Sleeper Hit der Feiertags-Kinosaison.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Tony Dokoupil to Start at ‘CBS Evening News’ Early to Cover Shocking Venezuela Raid",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/tony-dokoupil-start-cbs-evening-news-early-maduro-capture-1236463146/",
+          "summary": "Tony Dokoupil wird seine geplante Übernahme der CBS Evening News um einige Tage vorziehen und bereits am Samstag erstmals als Anchor fungieren, um über eine angebliche US-Militäraktion in Venezuela mit der Festnahme von Präsident Nicolás Maduro zu berichten. Auch andere prominente Nachrichtenmoderatoren wie Rachel Maddow, Wolf Blitzer und Tom Llamas kehren für die Berichterstattung über dieses unerwartete Ereignis vorzeitig aus der Pause zurück. Dokoupil hatte zuvor angekündigt, das Vertrauen in die Medien wiederherstellen und die Zuschauer über alle anderen Interessen stellen zu wollen.",
+          "score": 8
         },
         {
           "source": "Variety",
-          "title": "CBS Evening News Says ‘We Love America’ Is Now One of Its Guiding Principles",
-          "link": "https://variety.com/2026/tv/news/cbs-evening-news-we-love-america-guiding-principles-1236622708/",
-          "summary": "CBS News hat unter der neuen Chefredakteurin Bari Weiss fünf vereinfachte Grundprinzipien für die \"CBS Evening News\" eingeführt, darunter \"We Love America\" als explizit pro-amerikanische redaktionelle Haltung. Die von Tony Dokoupil moderierte überarbeitete Sendung startet am 5. Januar als Teil der Bemühungen des neuen Paramount-Skydance-CEOs David Ellison, das Vertrauen der Zuschauer in CBS News wiederherzustellen. Diese Neuausrichtung folgt Ellisons 150-Millionen-Dollar-Übernahme von Bari Weiss' Medienunternehmen The Free Press und ihrer anschließenden Installation als Chefin der CBS News-Redaktion.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "‘Stranger Things’ and Prince: The Complicated Road to Bringing ‘When Doves Cry’ and ‘Purple Rain’ to the Show’s Finale",
-          "link": "https://variety.com/2026/film/news/stranger-things-finale-prince-when-doves-cry-purple-rain-1236622700/",
-          "summary": "Die Netflix-Serie \"Stranger Things\" sicherte sich erfolgreich die Rechte für Prince' ikonische Songs \"When Doves Cry\" und \"Purple Rain\" im Serienfinale, was aufgrund der notorierigen Schwierigkeit bei Verhandlungen mit dem Prince Estate besonders bemerkenswert ist. Die Musiksupervisorin stand vor der zusätzlichen Herausforderung, dass die Handlung spezifisch den ersten und letzten Song einer Vinylalbum-Seite erforderte, was die Songauswahl erheblich einschränkte. Der Einsatz war erfolgreich: \"Purple Rain\" verzeichnete seit der Ausstrahlung am Silvesterabend einen Anstieg der Spotify-Streams um 243% global und 577% bei Gen-Z-Hörern.",
+          "title": "Tony Dokoupil Starts ‘CBS Evening News’ Run With Long Pete Hegseth Interview",
+          "link": "https://variety.com/2026/tv/news/tony-dokoupil-starts-cbs-evening-news-pete-hegseth-1236623011/",
+          "summary": "Tony Dokoupil begann seinen Lauf als Anchor der \"CBS Evening News\" früher als geplant aufgrund einer fiktiven US-Militäraktion in Venezuela und der Extraktion von Präsident Nicolás Maduro. Seine Premierensendung am Samstag beinhaltete ein dreisegmentiges Interview mit Verteidigungsminister Pete Hegseth, während andere Netzwerk-Anchors ebenfalls Wochenenddienst übernahmen. Dies stand im Kontrast zu Dokoupils beworbener Vision, mehr auf die Perspektive durchschnittlicher Amerikaner statt auf Eliten und Experten zu fokussieren.",
           "score": 8
         }
       ]
