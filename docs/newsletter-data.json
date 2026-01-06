@@ -1,104 +1,293 @@
 {
   "newsletters": [
     {
-      "date": "2026-01-05",
+      "date": "2026-01-06",
       "articles": [
         {
           "source": "DWDL",
-          "title": "ZDF setzt nächste Intendantenwahl für Mitte März an",
-          "link": "https://www.dwdl.de/nachrichten/105086/zdf_setzt_naechste_intendantenwahl_fuer_mitte_maerz_an/",
-          "summary": "Der ZDF-Fernsehrat hat das Bewerbungsverfahren für die Intendantenwahl (Amtszeit 2027-2032) gestartet, mit Bewerbungsfrist bis 30. Januar 2026 und Wahltermin am 13. März 2026. Bewerber müssen neben formalen Voraussetzungen auch umfangreiche Medien- und Managementerfahrung sowie strategische Kompetenz nachweisen und benötigen eine Nominierung durch ein Fernsehrratsmitglied. Amtsinhaber Norbert Himmler kann sich erneut bewerben, hat sich dazu aber noch nicht geäußert.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "ARD-aktuell holt Verstärkung von RTL News für die Video-Unit",
-          "link": "https://www.dwdl.de/nachrichten/105074/ardaktuell_holt_verstaerkung_von_rtl_news_fuer_die_videounit/",
-          "summary": "ARD-aktuell verstärkt seine crossmediale Video-Unit ab März mit Malte Baumberger, der nach zwölf Jahren als Head of Social Media bei RTL News wechselt. Die unter Sara Maria Manzo geleitete Unit entwickelt Video-Inhalte der Tagesschau für digitale Plattformen wie YouTube und die ARD-Mediathek, um journalistische Kompetenz mit plattformgerechtem Storytelling zu verbinden. Der Personalwechsel ist Teil der strategischen Neuausrichtung von ARD-aktuell im Bewegtbild-Bereich für crossmediale Zielgruppen.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Shift 2026\": Am Mittwoch wird es ernst bei RTL Deutschland",
-          "link": "https://www.dwdl.de/nachrichten/105082/shift_2026_am_mittwoch_wird_es_ernst_bei_rtl_deutschland/",
-          "summary": "RTL Deutschland gibt am 7. Januar 2025 Details zum Restrukturierungsprogramm \"Shift 2026\" bekannt, das einen Abbau von rund 600 Arbeitsplätzen vorsieht. Die betroffenen Mitarbeiter sollen zeitgleich per E-Mail über ihre Optionen informiert werden, während die neue organisatorische Struktur dezentral in den einzelnen Abteilungen kommuniziert wird. Das Programm zielt auf eine Neuausrichtung für ein verstärkt streaming-geprägtes Geschäft ab.",
+          "title": "Wachstum hält an: RTL+ knackt die Marke von 7 Millionen Abos",
+          "link": "https://www.dwdl.de/nachrichten/105087/wachstum_haelt_an_rtl_knackt_die_marke_von_7_millionen_abos/",
+          "summary": "RTL+ hat zum Jahreswechsel die 7-Millionen-Abo-Marke durchbrochen und damit sein kontinuierliches Wachstum fortgesetzt (Ende 2023: unter 5 Mio., Ende 2024: 6,061 Mio.). Der Streaming-Dienst erreichte 2025 monatlich durchschnittlich 10,24 Millionen Personen und strebt durch Preiserhöhungen, verstärkte Werbung sowie die geplante Sky-Deutschland-Übernahme erstmals 2026 die Profitabilität an.",
           "score": 10
         },
         {
           "source": "Horizont Medien",
-          "title": "Kult-Boyband: Netflix zeigt Doku über Take That",
-          "link": "https://www.horizont.net/medien/nachrichten/kult-boyband-netflix-zeigt-doku-ueber-take-that-232596?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Netflix startet am 27. Januar 2026 eine dreiteilige Dokumentarserie über die britische Kult-Boyband Take That. Die Doku beleuchtet 35 Jahre Bandgeschichte mit unveröffentlichtem Archivmaterial und persönlichen Einblicken, wobei sie ein Porträt von Ruhm und dem Werdegang der Gruppe zeichnet.",
+          "title": "TV- und Streaming-Vorschau: Worauf sich Serien-Fans 2026 freuen können",
+          "link": "https://www.horizont.net/medien/nachrichten/tv-und-streaming-vorschau-worauf-sich-serien-fans-2026-freuen-koennen-232614?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Streaming- und TV-Landschaft 2026 wird von mehreren hochkarätigen Serien-Fortsetzungen geprägt, darunter die vierte Staffel von \"Bridgerton\" im Herbst sowie die zweite Staffel der Idris-Elba-Serie \"Hijack\", die in Berlin gedreht wird. Zudem kommen neue Formate wie eine Sherlock Holmes-Origin-Story und die Männerromanze \"Heated Rivalry\" nach Deutschland.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "State of the Media Report: Vor diesen Herausforderungen steht der Journalismus in Deutschland",
+          "link": "https://www.horizont.net/medien/nachrichten/state-of-the-media-report-vor-diesen-herausforderungen-steht-der-journalismus-in-deutschland-232617?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Deutsche Journalisten identifizieren laut dem aktuellen State of the Media Report von Cision die Bewahrung von Glaubwürdigkeit und Relevanz in Zeiten von Algorithmen und Fake News als größte Branchenherausforderungen. Der Report beleuchtet zudem die Erwartungen der Medienschaffenden an PR-Professionals in diesem schwierigen Umfeld.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Télé 7 Jours: Warum Bauer den französischen Programmzeitschrift-Riesen kauft",
+          "link": "https://www.horizont.net/medien/nachrichten/tl-7-jours-warum-bauer-den-franzoesischen-programmzeitschrift-riesen-kauft-232618?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Bauer Media Group erweitert ihre Konsolidierungsstrategie ins Ausland und übernimmt mit Télé 7 Jours einen großen französischen Programmzeitschrift-Titel. Da in Deutschland kaum noch größere Magazine-Akquisitionen möglich sind, weicht Bauer auf internationale Märkte aus, um im schrumpfenden Printmarkt zu wachsen.",
           "score": 7
         },
         {
-          "source": "Horizont Medien",
-          "title": "Australisches Vorbild: Digitalminister Karsten Wildberger für Social-Media-Verbot für Kinder",
-          "link": "https://www.horizont.net/medien/nachrichten/australisches-vorbild-bundesdigitalminister-karsten-wildberger-fuer-social-media-verbot-fuer-kinder-232581?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Bundesdigitalminister Karsten Wildberger (CDU) befürwortet ein Social-Media-Verbot für Kinder nach australischem Vorbild und heizt damit die entsprechende Debatte in Deutschland an. Der Minister zeigt sich offen für entsprechende Regulierungsmaßnahmen und äußert explizit Zustimmung zu diesem Ansatz.",
-          "score": 8
+          "source": "kress",
+          "title": "Drei Ausgaben statt sechs: Mediahuis verschlankt Printmodell der Aachener Zeitung Weniger Lokalausgaben, kompakteres Format, einheitliche Marke: Mediahuis Aachen baut die Aachener Zeitung strukturell um",
+          "link": "https://kress.de/news/beitrag/151589-drei-ausgaben-statt-sechs-mediahuis-verschlankt-printmodell-der-aachener-zeitung.html",
+          "summary": "Mediahuis Aachen reduziert die Lokalausgaben der Aachener Zeitung von sechs auf drei und führt ein kompakteres Tabloid-Format mit 48 statt 24 Seiten ein. Die Strukturreform zielt auf Kostensenkung und Effizienzgewinne in Produktion und Logistik ab, während die lokale Berichterstattung und das Reporternetzwerk in den Regionen erhalten bleiben. Gleichzeitig wird die Markenführung vereinheitlicht – alle gedruckten Ausgaben erscheinen künftig unter dem einheitlichen Titel \"Aachener Zeitung\".",
+          "score": 9
         },
         {
           "source": "kress",
-          "title": "Helena von Hardenberg wird Chefredakteurin des Niedersächsischen Jägers",
+          "title": "Allgäuer Zeitung sucht eine Redaktionsleitung (m/w/d) in Memmingen",
+          "link": "https://kress.de/news/beitrag/151593-allgaeuer-zeitung-sucht-eine-redaktionsleitung-m-w-d-in-memmingen.html",
+          "summary": "Die Allgäuer Zeitung sucht eine Redaktionsleitung für ihre zweitgrößte Lokalredaktion in Memmingen zur Führung eines sechsköpfigen Reporterteams. Die Position erfordert kanalübergreifendes Denken, datengetriebenes Arbeiten und die Fähigkeit, das Team durch den digitalen Transformationsprozess zu führen. Gesucht werden Kandidaten mit journalistischer Expertise und Führungsstärke, die als Ansprechpartner für Leser und lokale Multiplikatoren fungieren.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Die besten Vertriebsmanager des Medienbranche",
+          "link": "https://kress.de/news/beitrag/151591-kress-awards-2025-die-besten-vertriebsmanager-des-medienbranche.html",
+          "summary": "Die kress Awards 2025 zeichneten zum zehnten Mal die besten Führungskräfte der Medienbranche aus, wobei Tobias Fredebeul-Krein als Vertriebsmanager des Jahres ausgezeichnet wurde. Eine zwölfköpfige Redaktionsjury ermittelte aus Shortlists in 11 Kategorien die Gewinner, die durch außergewöhnliche Leistungen der Branche Zukunftsperspektiven aufzeigen. Der Auswahlprozess basierte auf ganzjährigen Recherchen mit Quellen, Unternehmen und Experten.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Gabriel Rinaldi steigt bei Süddeutsche Zeitung Dossier zum Teamleiter auf",
+          "link": "https://kress.de/news/beitrag/151588-gabriel-rinaldi-steigt-bei-sueddeutsche-zeitung-dossier-zum-teamleiter-auf.html",
+          "summary": "Gabriel Rinaldi übernimmt bei SZ Dossier die operative Teamleitung für das Fachbriefing \"Digitalwende\" und verantwortet gemeinsam mit Matthias Punz die inhaltliche Ausrichtung zu Digitalpolitik und Staatsmodernisierung. Der bisherige stellvertretende Teamleiter war bereits Gründungsmitglied von SZ Dossier und wechselte 2022 von Politico in den Hauptstadtjournalismus. Punz, der seit Herbst die Gesamtleitung von SZ Dossier innehat, wird weiterhin parallel für die Digitalwende schreiben und das Briefing strategisch mitgestalten.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Celina de Cuveland gehört zu den Young Leadern des Jahres 2025 kress präsentiert in einer Serie...",
+          "link": "https://kress.de/news/beitrag/151590-celina-de-cuveland-gehoert-zu-den-young-leadern-des-jahres-2025.html",
+          "summary": "Celina de Cuveland (34) wurde von kress zu den \"25 Young Leaders des Jahres 2025\" gekürt und arbeitet seit 2022 als Nachrichtenchefin für den Kreis Ahrweiler bei der \"Rhein-Zeitung\". Sie gilt als führungsstarke, digital denkende Lokaljournalistin, die nach ihrer WDR-Tätigkeit und einer Nominierung für den Deutschen Reporterpreis nun Redakteure, freie Mitarbeiter und Producer koordiniert.",
+          "score": 9
+        },
+        {
+          "source": "kress",
+          "title": "10 Jahre kress pro: Wird KI in zehn Jahren so gute Texte schreiben können wie ein FAZ-Autor, Carsten Knop? Zum zehnten Geburtstag von kress pro",
+          "link": "https://kress.de/news/beitrag/151585-10-jahre-kress-pro-wird-ki-in-zehn-jahren-so-gute-texte-schreiben-koennen-wie-ein-faz-autor-carsten-knop.html",
+          "summary": "FAZ-Herausgeber Carsten Knop sieht trotz des rasanten KI-Entwicklungstempos fundamentale Grenzen für künstliche Intelligenz im Journalismus: KI fehlen echte Recherche, persönliche Gespräche und die subjektiv-kreative Intelligenz menschlicher Autoren. Er vergleicht die Situation mit dem Schachspiel, wo Computer-Partien zwar technisch überlegen, aber uninteressant sind, während menschliche Weltmeisterschaften weiterhin großes Interesse wecken - ein Prinzip, das seiner Ansicht nach auch für den Journalismus gilt.",
+          "score": 9
+        },
+        {
+          "source": "kress",
+          "title": "Wie Medienprofis die Herausforderungen 2026 angehen Die Fundamentaldaten und Trends deuten darauf...",
+          "link": "https://kress.de/news/beitrag/151584-sicher-durch-das-schwierige-jahr-wie-medienprofis-die-herausforderungen-2026-angehen.html",
+          "summary": "Karrierecoach Attila Albert prognostiziert 2026 als besonders herausforderndes Jahr für Medienprofis aufgrund geopolitischer Verschiebungen, Wirtschaftskrisen und gesellschaftlicher Polarisierung. Er empfiehlt eine pragmatische Strategie der Fokussierung auf beeinflussbare berufliche und private Aspekte, anstatt sich von der negativen Nachrichtenlage überwältigen zu lassen. Durch Konzentration auf lösbare Probleme im eigenen Wirkungsbereich können Medienprofis Zuversicht gewinnen und gleichzeitig ihre berufliche Zukunftsfähigkeit sichern.",
+          "score": 9
+        },
+        {
+          "source": "kress",
+          "title": "Helena von Hardenberg wird Chefredakteurin des Niedersächsischen Jägers Änderung an der Spitze der...",
           "link": "https://kress.de/news/beitrag/151586-helena-von-hardenberg-wird-chefredakteurin-des-niedersaechsischen-jaegers.html",
-          "summary": "Helena von Hardenberg übernimmt zum Jahresbeginn 2026 die Chefredaktion des \"Niedersächsischen Jägers\" beim Deutschen Landwirtschaftsverlag (dlv), nachdem sie seit Juni 2022 als Redaktionsleiterin fungierte. Die studierte Agrarwissenschaftlerin arbeitet seit 2019 für die Jagdmedien des dlv und ist als leidenschaftliche Jägerin tief in der niedersächsischen Jägerschaft verwurzelt. Sie will den praxisnahen Jagdjournalismus durch enge Zusammenarbeit mit der Jägerschaft vor Ort und unabhängige jagdpolitische Berichterstattung weiter ausbauen.",
+          "summary": "Helena von Hardenberg übernimmt zum Jahresbeginn 2026 die Chefredaktion des „Niedersächsischen Jägers\" vom Deutschen Landwirtschaftsverlag, nachdem sie seit Juni 2022 als Redaktionsleiterin tätig war. Die studierte Agrarwissenschaftlerin arbeitet seit 2019 für die dlv-Jagdmedien und ist als leidenschaftliche Jägerin tief in der niedersächsischen Jägerschaft verwurzelt. Sie will den praxisnahen Jagdjournalismus durch enge Zusammenarbeit mit der örtlichen Jägerschaft und unabhängige jagdpolitische Berichterstattung weiter stärken.",
           "score": 7
         },
         {
           "source": "kress",
           "title": "kicker-Manager Martin Schumacher kündigt Abschied an Martin Schumacher verlässt den kicker nach fast zwölf Jahren.",
           "link": "https://kress.de/news/beitrag/151583-kicker-manager-martin-schumacher-kuendigt-abschied-an.html",
-          "summary": "Martin Schumacher verlässt nach fast zwölf Jahren den kicker und Olympia-Verlag zum Jahreswechsel, wo er zuletzt als Geschäftsführer der B2B-Tochter kicker business solutions tätig war. In seiner Zeit verantwortete er maßgeblich den digitalen Umbau der Marke kicker zur reichweitenstärksten Sportmedienmarke Deutschlands und entwickelte alternative Monetarisierungsstrategien jenseits klassischer Anzeigenvermarktung. Über seine nächsten Karriereschritte machte der 48-Jährige zunächst keine Angaben.",
+          "summary": "Martin Schumacher verlässt nach fast zwölf Jahren den kicker und Olympia-Verlag zum Jahreswechsel, wo er zuletzt als Geschäftsführer der B2B-Tochter kicker business solutions tätig war. In seiner Zeit prägte er maßgeblich den digitalen Umbau des kicker von einem printgeprägten Titel zur reichweitenstärksten deutschen Sportmedienmarke mit und verantwortete zahlreiche Partnerschaften, Live-Formate und Markenkonzepte. Angaben zu seinem nächsten Karriereschritt machte der 48-jährige Manager zunächst nicht.",
           "score": 9
         },
         {
           "source": "kress",
           "title": "Max Buder gehört zu den Young Leadern des Jahres 2025 kress präsentiert in einer Serie junge...",
           "link": "https://kress.de/news/beitrag/151581-max-buder-gehoert-zu-den-young-leadern-des-jahres-2025.html",
-          "summary": "Max Buder, 34-jähriger Chief Commercial Officer von Ringier Medien Schweiz, wurde von kress pro zu einem der 25 Young Leaders 2025 gekürt. Als CCO verantwortet er die kommerzielle Steuerung des Schweizer Medienkonzerns, Marketing-Aktivitäten und strategische Partnerschaften, nachdem er zuvor erfolgreich die \"Blick\"-Expansion in die französischsprachige Schweiz vorangetrieben hatte. Buder setzt auf Win-win-Konstellationen und will die Medienbranche durch echte Partnerschaften und branchenübergreifende Kooperationen weiterentwickeln.",
+          "summary": "Max Buder, 34-jähriger Chief Commercial Officer von Ringier Medien Schweiz, wurde von kress zu einem der 25 Young Leaders 2025 gekürt. Er verantwortet die kommerzielle Steuerung des Schweizer Medienkonzerns und trieb zuvor erfolgreich die Expansion der \"Blick\"-Gruppe voran. Buder setzt auf strategische Partnerschaften und Win-win-Konstellationen, um nachhaltiges Wachstum und innovative Modelle in der Medienbranche zu schaffen.",
           "score": 9
         },
         {
           "source": "kress",
-          "title": "Sina Burmeister gehört zu den Young Leadern des Jahres 2025 kress präsentiert in einer Serie junge...",
-          "link": "https://kress.de/news/beitrag/151579-sina-burmeister-gehoert-zu-den-young-leadern-des-jahres-2025.html",
-          "summary": "Sina Burmeister (34), stellvertretende Leiterin des RTL-Hauptstadtstudios, wurde von kress zu den \"Young Leaders 2025\" gekürt. Die Juristin wechselte Ende 2022 von der Wirtschaftskanzlei Freshfields zu RTL Deutschland, wo sie zunächst die Abteilung Arbeitsrecht aufbaute und unter anderem den komplexen Betriebsübergang des \"Stern\" von Gruner + Jahr managte. Seit April 2025 verantwortet sie als stellvertretende Studioleiterin rund 200 Journalisten, die für verschiedene RTL-Medienmarken wie RTL, ntv, \"Stern\" und \"Capital\" arbeiten.",
-          "score": 9
-        },
-        {
-          "source": "kress",
-          "title": "de und GMX besteht künftig aus drei Personen.",
-          "link": "https://kress.de/news/beitrag/151572-anita-klingler-und-fabian-busch-steigen-in-chefredaktion-von-web-de-und-gmx-auf.html",
-          "summary": "Die Chefredaktion von Web.de und GMX wird um Anita Klingler und Fabian Busch erweitert, die künftig gemeinsam mit Thomas Rebbe die redaktionelle Strategie entwickeln. Klingler übernimmt am Münchner Newsdesk die Stärkung der aktuellen Berichterstattung, während Busch das Berliner Büro leitet und den Ausbau der Parlaments- und Hauptstadtberichterstattung verantwortet. Zusätzlich verstärkt Elena Stein als neue Teamlead Video die Videostrategie des Portals.",
+          "title": "Protina Pharmazeutische sucht Data Activation Manager in Ismaning Der OTC- und FMCG-Hersteller...",
+          "link": "https://kress.de/news/beitrag/151582-protina-pharmazeutische-sucht-data-activation-manager-in-ismaning.html",
+          "summary": "Protina Pharmazeutische GmbH sucht einen Data Activation Manager (m/w/d) in Ismaning, der die strategische Datenstrategie für Paid Media, Digital Marketing und E-Commerce verantwortet – von First-Party-Daten-Nutzung über Programmatic Advertising bis zur KI-gestützten Performance-Optimierung. Die Position fungiert als zentrale Schnittstelle zwischen Marketing, IT und externen Dienstleistern und erfordert mehrjährige Data-Analytics-Erfahrung idealerweise im FMCG/OTC-Umfeld. Das mittelständische Familienunternehmen bietet Chemie-Tarifvertrag, flexible Arbeitszeiten mit Homeoffice-Option sowie umfassende Benefits.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Ein Weckruf aus dem Maschinenraum Die meisten Menschen, die ich in Marketing, Werbung, Medien und Media kenne, müssen nicht geweckt werden.",
-          "link": "https://meedia.de/news/beitrag/20845-2026-ein-weckruf-aus-dem-maschinenraum.html",
-          "summary": "Der Artikel ist ein \"Weckruf\" von MEEDIA-Kolumnist Thomas Koch, der konstatiert, dass Marketing 2025 einen historischen Tiefpunkt in der Unternehmenswahrnehmung erreicht hat und viele Firmen komplett auf Marketingpersonal verzichten. Koch fordert die Branche auf, 2026 endlich CEOs und Vorstände systematisch vom Wert des Marketings zu überzeugen, indem Marketingverantwortliche und Agenturen ihre Kommunikation grundlegend verbessern und tausende Erfolgsfälle sammeln. Der Artikel scheint unvollständig zu sein und bricht mitten im Satz ab.",
+          "title": "Tag-für-Tag-Analyse Die wichtigsten TV-Quoten von Weihnachten bis ins neue Jahr Bevor unsere werktägliche TV-Quoten- und Streaming-Charts-Analyse \"Video Daily\" am Dienstag aus der kleinen Winterpause zurückkehrt, liefern wir Ihnen, die sie womöglich auch im Urlaub waren und keine täglichen Zahlen verfolgt haben, alles, was Sie über die TV-Quoten der vergangenen zwei Wochen wissen müssen: von Erfolgen für die Darts-WM und \"Kevin",
+          "link": "https://meedia.de/news/beitrag/20858-die-wichtigsten-tv-quoten-von-weihnachten-bis-ins-neue-jahr.html",
+          "summary": "Der Artikel analysiert die TV-Quoten der Feiertage von Weihnachten bis Neujahr und zeigt klassische Erfolge wie \"Der kleine Lord\" (4,22 Mio. Zuschauer, 18,3% Marktanteil im Ersten) sowie die Darts-WM und \"Kevin - Allein zu Haus\" als Quotenhits. Gleichzeitig werden \"Tatort\"-Enttäuschungen und die Performance traditioneller Formate wie \"Dinner for One\" in einer detaillierten Tag-für-Tag-Aufschlüsselung behandelt.",
+          "score": 10
+        },
+        {
+          "source": "meedia",
+          "title": "Audiomarkt tonies-Marketingchefin Claudia Lührs wird zur General Manager Zum 1.",
+          "link": "https://meedia.de/news/beitrag/20857-tonies-marketingchefin-claudia-luehrs-wird-zur-general-manager.html",
+          "summary": "Claudia Lührs ist zum 1. Januar von der Marketing-Direktorin zur General Manager DACH bei tonies aufgestiegen und tritt damit die Nachfolge des in den Ruhestand gehenden Lutz Möller an. Die seit Mai 2023 bei dem Audio-Plattform-Anbieter für Kinder tätige Managerin hatte zuvor Führungspositionen bei Fressnapf, Vorwerk und Teekanne inne und soll maßgeblich zur über 80-prozentigen Markenbekanntheit von tonies in Deutschland beigetragen haben. Das Unternehmen sucht nun eine Nachfolge für ihre bisherige Marketing-Position.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Umfang geschrumpft, Seitenzahl erhöht \"Aachener Zeitung\" verkleinert Format auf die Hälfte Der Titel von Mediahuis Aachen erscheint seit dem 2.",
+          "link": "https://meedia.de/news/beitrag/20855-quot-aachener-zeitung-quot-verkleinert-format-auf-die-haelfte.html",
+          "summary": "Die Aachener Zeitung hat zum 2. Januar ihr Format von 24 hochformatigen Seiten auf 48 Tabloid-Seiten umgestellt und gleichzeitig die Anzahl der Lokalausgaben von sechs auf drei reduziert. Die Maßnahme dient primär der Kostensenkung im Druckprozess und ermöglicht eine Bündelung der Produktion, während die Leser eine handlichere Zeitung mit breiterer regionaler Berichterstattung erhalten sollen.",
+          "score": 9
+        },
+        {
+          "source": "meedia",
+          "title": "Marketing mit Leitungsfunktion Abteilungsleiter*in Marketing (w/m/d) MIETHKE Potsdam",
+          "link": "https://meedia.de/jobs/job-details/16549-abteilungsleiter-in-marketing-w-m-d.html",
+          "summary": "Das Unternehmen MIETHKE sucht für den Standort Potsdam eine/n Abteilungsleiter*in Marketing in Vollzeit, der/die sowohl fachliche als auch disziplinarische Führung des Marketing-Teams übernimmt. Die Position umfasst die strategische und operative Personalentwicklung sowie die (Weiter-)Entwicklung einer starken Unternehmensmarke in allen Bereichen von Corporate Design über Corporate Communications bis hin zu CSR und Corporate Culture. Das Stellenangebot wurde am 30.12.2025 auf der MEEDIA-Jobplattform veröffentlicht.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Auf diese Agenturen setzt Aida Nachdem Alexander Ewig als Marketingchef bei Aida Cruises angetreten...",
+          "link": "https://meedia.de/news/beitrag/20854-nach-diversen-pitches-auf-diese-agenturen-setzt-aida.html",
+          "summary": "Nach dem Antritt von Marketingchef Alexander Ewig bei Aida Cruises hat sich nach mehreren Pitches eine neue Agentur-Dreierkonstellation etabliert: Serviceplan übernahm 2024 die Werbung von Zum goldenen Hirschen, während Initiative den Mediaetat erfolgreich verteidigen konnte. Initiative setzte sich durch eine innovative Search-Strategie durch, die SEO/SEA mit Social Media-Plattformen verknüpft und Search als inspirierenden Kanal vom ersten Interesse bis zur Buchung positioniert.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Warum Weitsicht die neue Währung der Werbewirkung ist Christian Zimmer: \"Marketing darf nicht naiv...",
+          "link": "https://meedia.de/news/beitrag/20850-christian-zimmer-quot-marketing-darf-nicht-naiv-bleiben-quot.html",
+          "summary": "Christian Zimmer fordert in seinem Weckruf, dass Werbungtreibende und Agenturen strategischer vorgehen und genauer kontrollieren müssen, wo ihre Werbung ausgespielt wird, um nicht ungewollt Fake-News-Portale zu finanzieren. Er kritisiert die Fokussierung auf kurzfristige KPIs wie Klicks und Conversion Rates, die zu einer naiven Herangehensweise geführt hat, bei der Reichweite ohne Kontrolle über das Werbeumfeld im Vordergrund steht. Seine Kernthese: Werbung muss ein Garant für gesellschaftliche Stabilität werden, wobei Weitsicht wichtiger ist als kurzfristige Wirkungsmessung.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "FIFA verärgert TV-Sender Bei der Fußball-WM im Juni/Juli 2026 wird es anders als erwartet nicht nur...",
+          "link": "https://meedia.de/news/beitrag/20852-zu-viele-anstosszeiten-fifa-veraergert-tv-sender.html",
+          "summary": "Die FIFA überraschte TV-Sender bei der WM 2026 mit 15 statt der vertraglich vereinbarten vier Anstoßzeiten zwischen 18 und 6 Uhr MESZ, wobei über die Hälfte der Spiele erst nach Mitternacht beginnt. Die Deutsche Telekom als Rechteinhaber führt Gespräche mit der FIFA über den Vertrag, während ARD und ZDF wegen ihrer Werbebeschränkung bis 20 Uhr mit dem Spielplan hadern. Besonders problematisch: Die deutsche Nationalmannschaft spielt in der Vorrunde nur einmal um 19 Uhr, zwei weitere Spiele starten erst um 22 Uhr.",
+          "score": 9
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Corporation For Public Broadcasting formally dissolves after federal funding cuts",
+          "link": "https://www.theguardian.com/us-news/2026/jan/05/corporation-for-public-broadcasting-board-dissolves",
+          "summary": "Die Corporation for Public Broadcasting (CPB) hat sich nach fast 60 Jahren Betrieb formal aufgelöst, nachdem die Trump-Administration massive Kürzungen der Bundesfinanzierung durchsetzte. Der Vorstand stimmte für die Auflösung der Organisation, die jährlich 500 Millionen Dollar an NPR, PBS und 1.500 lokale öffentliche Medienstationen verteilte. CEO Patricia Harrison begründete die Entscheidung damit, die Integrität des öffentlichen Mediensystems zu schützen, anstatt eine entfinanzierte und angreifbare Organisation bestehen zu lassen.",
           "score": 8
         },
         {
           "source": "Guardian Media",
-          "title": "Reddit overtakes TikTok in UK thanks to search algorithms and gen Z",
-          "link": "https://www.theguardian.com/technology/2026/jan/03/reddit-overtakes-tiktok-uk-search-algorithms-gen-z",
-          "summary": "Reddit hat TikTok als viertgrößte Social-Media-Plattform in Großbritannien überholt, mit einem Wachstum von 88% bei UK-Internetnutzern in zwei Jahren. Der Erfolg wird hauptsächlich auf Googles Algorithmus-Änderungen zurückgeführt, die Diskussionsforen bevorzugen, sowie auf Partnerschaften mit Google und OpenAI für KI-Training. Besonders Gen Z nutzt Reddit verstärkt als Quelle für authentische, menschlich generierte Inhalte und Bewertungen.",
-          "score": 7
+          "title": "‘Blood in the water’: Bari Weiss’s chaotic first three months in charge of CBS News",
+          "link": "https://www.theguardian.com/media/2026/jan/05/bari-weiss-cbs-news",
+          "summary": "Bari Weiss, die im Oktober ohne TV-Erfahrung als Chefredakteurin von CBS News antrat, sorgt bereits nach drei Monaten für erhebliche interne Turbulenzen. Der Höhepunkt der Kontroverse ist ihre Entscheidung, einen fertigen 60 Minutes-Beitrag über Gefängnismissstände in El Salvador kurz vor der Ausstrahlung zu streichen, was zu einem Protestbrief ehemaliger CBS-Journalisten an den Eigentümer führte. Die Situation wird von internen Quellen als chaotisch beschrieben, wobei Weiss' redaktionelle Eingriffe die journalistische Integrität des Senders gefährden könnten.",
+          "score": 8
         },
         {
           "source": "Guardian Media",
-          "title": "‘Social listening’: Unilever seeks to capitalise on Vaseline’s TikTok moment",
-          "link": "https://www.theguardian.com/media/2026/jan/02/unilever-ad-strategy-vaseline-tiktok-social-media",
-          "summary": "Unilever nutzt \"Social Listening\", um den viralen TikTok-Trend um Vaseline-Lifehacks strategisch zu kapitalisieren, indem das Unternehmen eigene Wissenschaftler die user-generierten Anwendungstipps testen lässt und die Ergebnisse an Content Creator zurückspielt. Dies exemplifiziert den Wandel in der Werbebranche, bei dem Konzerne verstärkt auf Creator-Content setzen und weniger Ressourcen in traditionelle Medien investieren. Der Ansatz zeigt, wie etablierte Marken durch authentische, nutzergetriebene Inhalte neue Relevanz in sozialen Medien erlangen können.",
+          "title": "Trump cuts have fueled ‘rage-giving’ to US rural public radio. Will it be enough?",
+          "link": "https://www.theguardian.com/media/2026/jan/03/trump-public-radio-cuts-donations",
+          "summary": "Trumps Kürzungen der staatlichen Finanzierung für öffentliche Medien haben eine Welle des \"Rage-Giving\" ausgelöst, bei der Gemeinden verstärkt ihre lokalen Radiosender unterstützen. Der Radiosender WYSO in Ohio steht beispielhaft für die Herausforderungen: Nach der Schließung der Corporation for Public Broadcasting im Juli entstand ein 600.000-Dollar-Defizit, woraufhin die Station den höchsten Einzeltags-Spendenwert ihrer Geschichte verzeichnete. Trotz der spontanen Solidarität bleibt fraglich, ob die privaten Spenden langfristig die wegfallende Bundesfinanzierung für über 1.500 öffentliche Medienanstalten kompensieren können.",
           "score": 7
         },
         {
-          "source": "Guardian Media",
-          "title": "France targets Australia-style social media ban for children next year",
-          "link": "https://www.theguardian.com/world/2025/dec/31/france-plans-social-media-ban-for-under-15s-from-september-2026",
-          "summary": "Frankreich plant ein Social-Media-Verbot für unter 15-Jährige ab September 2026 und folgt damit dem Vorbild Australiens, das bereits ein entsprechendes Verbot für unter 16-Jährige eingeführt hat. Der Gesetzentwurf, der von Präsident Macron vorangetrieben wird, umfasst neben dem Social-Media-Verbot auch ein Handyverbot an weiterführenden Schulen und wird derzeit rechtlich geprüft. Als Begründung führt die Regierung Risiken exzessiver Bildschirmnutzung an, darunter unangemessene Inhalte, Cybermobbing und Schlafstörungen.",
+          "source": "Deadline",
+          "title": "First UK Microdrama App Launches With MMA Drama, ‘Dog Dates’ Reality Show & Desire To Repurpose British Classics For Vertical Video",
+          "link": "https://deadline.com/2026/01/tattle-tv-uk-microdrama-app-launches-dog-dates-tramp-1236664245/",
+          "summary": "Tattle TV ist die erste britische App für vertikale Mikrodramen und startete Ende 2023 mit Originalinhalten wie der Reality-Serie \"Dog Dates\" und dem MMA-Drama \"Tramp\". Die Plattform plant, klassische britische Shows mithilfe KI-gestützter Systeme vom Querformat ins Hochformat zu konvertieren und positioniert sich als Premium-Alternative zu US- und chinesisch dominierten Mikrodrama-Märkten. EMC Productions entwickelt sowohl eigene Inhalte als auch Lizenzierungspartnerschaften, um eine vielfältige britische Content-Bibliothek aufzubauen.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Idris Elba Talks ‘Hijack’ Season 2, Apple TV Partnership & Future For Unlikely Hero Sam Nelson",
+          "link": "https://deadline.com/2026/01/idris-elba-hijack-season-2-apple-tv-video-1236661891/",
+          "summary": "Idris Elba kehrt am 14. Januar in der zweiten Staffel von \"Hijack\" auf Apple TV+ als Sam Nelson zurück, diesmal in einem Geiselnahme-Szenario in der Berliner U-Bahn. Elba charakterisiert seinen Protagonisten als \"gebrochenen Mann\", der nach den Traumata der ersten Staffel psychologisch verändert ist und nach Antworten sucht. Die neue Staffel erweitert das Cast um Toby Jones, Christian Näthe und Christiane Paul, während Stamm-Darsteller wie Christine Adams und Max Beesley zurückkehren.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Peacock To Integrate Dolby Picture And Sound Technology, Calling It A Streaming First",
+          "link": "https://deadline.com/2026/01/peacock-dolby-picture-sound-technology-ces-streaming-1236660576/",
+          "summary": "NBCUniversals Peacock integriert als erster Streaming-Dienst das vollständige Dolby-Portfolio (Vision, Atmos, Vision 2, AC-4) für Live-Sport und Pay-1-Filme, beginnend 2025 mit Rollout bis 2026. Die Technologie soll häufige Streaming-Probleme wie zu dunkle Bilder und unklaren Dialog addressieren und wird zunächst bei Großereignissen wie Olympia, Super Bowl und NBA All-Star Game eingesetzt. Mit 41 Millionen Abonnenten positioniert sich Peacock damit technologisch gegen die größere Streaming-Konkurrenz.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Tony Dokoupil’s Official ‘CBS Evening News’ Debut Features Brisk Headlines, A Momentary Glitch And A New Sign-Off – With Plenty Of Scrutiny To Come: Analysis",
+          "link": "https://deadline.com/2026/01/tony-dokoupil-cbs-evening-news-debut-2-1236664862/",
+          "summary": "Tony Dokoupil debütierte offiziell als neuer Anker der \"CBS Evening News\" mit einem lockeren Ton und der Wiedereinführung von Headline-Previews, ähnlich dem erfolgreichen Format von ABC's \"World News Tonight\". Als jüngster der drei großen Netzwerk-Nachrichtenanker (45 Jahre) setzt Dokoupil stark auf Social Media, um neue Zielgruppen zu erreichen, steht aber bereits unter Beobachtung bezüglich der neuen redaktionellen Ausrichtung von CBS News. Die Personalwahl folgt auf sinkende Einschaltquoten unter den vorherigen Anchors und macht Dokoupil zum Gesicht der Nachrichtenabteilung für Abendnachrichten und Sondersendungen.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Jimmy Kimmel Live!’ To Reduce Volume Of Musical Artists Each Week",
+          "link": "https://deadline.com/2026/01/jimmy-kimmel-live-cut-number-musical-artists-1236664929/",
+          "summary": "\"Jimmy Kimmel Live!\" wird 2026 die Anzahl der wöchentlichen Musikauftritte auf etwa zwei reduzieren, nachdem Musikproduzent Jim Pitt entsprechende Mitteilungen an Manager und Labels verschickt hat. Diese Entwicklung fügt sich in den branchenweiten Trend ein, bei dem die Musikperformances in Late-Night-Shows von rund 800 (2011-2013) auf nur noch 200 im Jahr 2023 gesunken sind. Trotz neuer Formate wie Netflix's \"Everybody's Live with John Mulaney\" schrumpft damit das verfügbare Promotion-Ökosystem für Künstler im Late-Night-Fernsehen weiter.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Starz Sets Season 2 Premiere Of ‘BMF’ Doc & Drops Trailer; Curtis ‘50 Cent’ Jackson Addresses ‘BMF’ Cancellation",
+          "link": "https://deadline.com/2026/01/bmf-doc-season-2-premiere-date-trailer-50-cent-cancellation-1236664659/",
+          "summary": "Starz bringt am 16. Januar die zweite Staffel der Dokumentarserie \"The BMF Documentary: Blowing Money Fast\" mit sechs Episoden, die sich auf ein exklusives Interview mit BMF-Mitgründer Terry Lee \"Southwest Tee\" Flenory konzentriert. Die Doku fungiert als Begleitprojekt zur im Oktober beendeten Scripted-Serie \"BMF\", die nach vier Staffeln mit einem Cliffhanger abgesetzt wurde. Die neue Staffel beleuchtet die Beziehung zwischen den Flenory-Brüdern und den Zerfall ihres Drogenimperiums Black Mafia Family.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Versant Shares Dip On Day One As Comcast Spinoff Settles Into NYC Headquarters, Looks To Future",
+          "link": "https://deadline.com/2026/01/versant-shares-dip-comcast-spinoff-nasdaq-trading-1236664581/",
+          "summary": "Versant Media, Comcasts ausgegliederte Kabelsparte mit CNBC, USA Network und digitalen Plattformen wie Fandango, fiel am ersten Handelstag um 13% auf 40,57 USD, was aufgrund des erwarteten Aktionärswechsels nach dem Spinoff antizipiert wurde. Das Unternehmen startet mit prognostizierten 6,7 Milliarden USD Umsatz (62% aus linearer Distribution, 23% aus Werbung), 2,3 Milliarden USD EBITDA und plant eine Expansion über das traditionelle Kabelgeschäft hinaus. Der Spinoff wird als wichtiger Indikator für die Zukunft der Kabelbranche beobachtet, die trotz hoher Cashflows durch die Streaming-Migration unter Druck steht.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Study: Asia-Pacific Video Revenue to Reach $196 Billion by 2030, Driven by Streaming and Social",
+          "link": "https://www.hollywoodreporter.com/business/business-news/asia-pacific-screen-revenues-196-billion-2030-1236465312/",
+          "summary": "Laut einer neuen Studie von Media Partners Asia wird der Videomarkt im asiatisch-pazifischen Raum von 171 Milliarden Dollar (2025) auf 196 Milliarden Dollar (2030) wachsen, wobei das gesamte Nettowachstum auf Online-Video entfällt. Premium-Video-on-Demand soll um 12,5 Milliarden auf 52 Milliarden Dollar und nutzergenerierte/soziale Videos um 11,4 Milliarden auf 44,5 Milliarden Dollar steigen, während traditionelles Fernsehen um 8 Milliarden Dollar schrumpft. Die Studie prognostiziert eine fundamentale Wertverlagerung hin zu Streaming, sozialen Plattformen und Connected TV, während die traditionelle TV-Ökonomie strukturell erodiert.",
+          "score": 9
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "‘Mayor of Kingstown’ Ending: Five Questions About Season 5 and the Future of the Sheridan-Verse",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/why-paramount-plus-ending-mayor-of-kingstown-season-5-1236464555/",
+          "summary": "Die Paramount+-Serie \"Mayor of Kingstown\" mit Jeremy Renner wird nach fünf Staffeln beendet, wobei die finale Staffel nur acht statt der üblichen zehn Episoden haben wird. Der Artikel spekuliert über die Gründe für das Serienende und die verkürzte Episode-Anzahl, einschließlich möglicher budgetärer Beschränkungen und Taylor Sheridans Wechsel zu NBCUniversal. Weder Paramount+ noch die Produktionsstudios haben auf Anfragen um Stellungnahme reagiert.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "‘Jimmy Kimmel Live!’ to Cut Back Music Bookings to Twice a Week (Exclusive)",
+          "link": "https://www.hollywoodreporter.com/music/film-tv-music-news/jimmy-kimmel-live-music-bookings-cut-twice-a-week-1236464872/",
+          "summary": "\"Jimmy Kimmel Live!\" reduziert seine musikalischen Gastauftritte von täglich auf zweimal pro Woche, was den anhaltenden Trend zur Kürzung von Musiksegmenten in Late-Night-TV-Shows fortsetzt. Die Entscheidung reiht sich in branchenweite Budgetkürzungen ein, nachdem bereits \"Late Night With Seth Meyers\" seine Hausband verlor und \"The Late Show With Stephen Colbert\" weniger Musikgäste buchte. Damit bleiben nur noch Kimmel und Fallon als regelmäßige Plattformen für Musikauftritte im Late-Night-Fernsehen übrig.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "‘Stranger Things’ Director Shawn Levy on How the Duffers Stuck the Landing, and Bringing the “Epic and Intimate” to ‘Star Wars: Starfighter’",
+          "link": "https://www.hollywoodreporter.com/tv/tv-features/stranger-things-ending-tales-from-85-starfighter-shawn-levy-1236464799/",
+          "summary": "Regisseur Shawn Levy, der seit Beginn von \"Stranger Things\" als Executive Producer und Episoden-Regisseur fungiert, führte bei zwei Episoden der finalen fünften Staffel Regie, darunter Episode 6 \"Escape From Camazotz\" und gemeinsam mit den Duffer Brothers bei Episode 7 \"The Bridge\". Levy musste seine Arbeiten an der Netflix-Serie mit seinem Marvel-Projekt \"Deadpool & Wolverine\" koordinieren und lobte die Duffer Brothers für das gelungene Serienfinale.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Korea Box Office: ‘Avatar: Fire and Ash’ Rings in 2026 at No. 1",
+          "link": "https://variety.com/2026/film/box-office/korea-box-office-avatar-fire-and-ash-2-1236624226/",
+          "summary": "\"Avatar: Fire and Ash\" behauptete seine Spitzenposition an den südkoreanischen Kinokassen mit 5,2 Millionen Dollar am Wochenende und erreichte seit dem 17. Dezember kumulativ 44,4 Millionen Dollar. Das südkoreanische Romantikdrama \"Once We Were Us\" debütierte auf Platz zwei mit 1,8 Millionen Dollar, während \"Zootopia 2\" auf Rang drei mit 53,9 Millionen Dollar Gesamteinspielergebnis seine Position als einer der erfolgreichsten Animationsfilme in Korea festigte.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Asia-Pacific Video Revenue to Reach $196 Billion by 2030, With India Overtaking China in SVOD Subscriptions, Report Forecasts",
+          "link": "https://variety.com/2026/tv/news/india-asia-streaming-subs-196-billion-revenue-1236624224/",
+          "summary": "Der asiatisch-pazifische Videomarkt wird laut Media Partners Asia bis 2030 auf 196 Milliarden US-Dollar anwachsen, wobei das gesamte Nettowachstum von 7% CAGR aus Online-Video stammt, während traditionelles Fernsehen strukturell zurückgeht. Indien wird China bis 2030 bei SVOD-Abonnements mit 358 Millionen Einzelabonnements überholen, obwohl Chinas Premium-VOD-Umsätze 4,5-mal höher bleiben werden. Premium-VOD (Streaming und werbefinanzierte Modelle) wird zwischen 2025-2030 zusätzliche 12,5 Milliarden US-Dollar generieren und bis 2030 52 Milliarden US-Dollar erreichen.",
+          "score": 9
+        },
+        {
+          "source": "Variety",
+          "title": "New Documentary ‘Disneyland Handcrafter’ To Premiere on Disney+ (TV News Roundup)",
+          "link": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-january-5-1236623951/",
+          "summary": "Disney+ veröffentlicht am 22. Januar die Dokumentation \"Disneyland Handcrafted\" von Regisseurin Leslie Iwerks, die mit seltenen Archivaufnahmen und Audio-Materialien die Entstehung von Disneyland vor der Eröffnung 1955 beleuchtet. Der Film basiert auf neu entdeckten 16mm-Filmrollen aus den Disney-Archiven und Interviews mit beteiligten Künstlern und Imagineers. Iwerks, Enkelin von Mickey Mouse-Mitschöpfer Ub Iwerks, hat bereits erfolgreiche Disney-Dokumentationen wie \"The Imagineering Story\" produziert.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Final Actor Awards Predictions: ‘One Battle After Another’ Poised to Break the All-Time SAG Nomination Record With 7",
+          "link": "https://variety.com/2026/film/awards/sag-awards-predictions-one-battle-after-another-record-1236624131/",
+          "summary": "Der Kriegsfilm \"One Battle After Another\" von Warner Bros. könnte mit sieben Nominierungen einen neuen Rekord bei den SAG Awards (jetzt \"Actor Awards\") aufstellen, deren Bekanntgabe für den 7. Januar ansteht. Die SAG-Ensemble-Kategorie gilt als zuverlässiger Oscar-Indikator, da seit 2009 76% der nominierten Filme auch eine Best-Picture-Nominierung erhielten. Mit über 122.000 stimmberechtigten SAG-AFTRA-Mitgliedern repräsentiert die Auszeichnung die größte Wählerschaft aller großen Award-Shows und spiegelt oft den Mainstream-Geschmack wider.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Tony Dokoupil’s ‘CBS Evening News’ Debut Is an Inauspicious Sign of Where CBS News Is Headed",
+          "link": "https://variety.com/2026/tv/columns/tony-dokoupil-cbs-evening-news-1236624122/",
+          "summary": "Tony Dokoupil debütierte als Anchor der \"CBS Evening News\" mit einer selbstbewussten Haltung, in der er behauptete, \"verantwortlicher und transparenter\" als legendäre Vorgänger wie Walter Cronkite zu sein. Sein Ansatz spiegelt die Philosophie seiner neuen Chefin Bari Weiss wider, die als CBS News Editor-in-Chief eine Fokussierung auf die \"durchschnittlichen Amerikaner\" propagiert. Der Autor sieht Dokoupils Debüt als bedenkliches Zeichen für die künftige Ausrichtung von CBS News.",
           "score": 8
         }
       ]
