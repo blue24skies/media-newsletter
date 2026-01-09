@@ -1,217 +1,133 @@
 {
   "newsletters": [
     {
-      "date": "2026-01-08",
+      "date": "2026-01-09",
       "articles": [
         {
           "source": "DWDL",
-          "title": "RTL nimmt die \"Beet-Brüder\" großflächig ins Programm",
-          "link": "https://www.dwdl.de/nachrichten/105111/rtl_nimmt_die_beetbrueder_grossflaechig_ins_programm/",
-          "summary": "RTL übernimmt ab 25. Januar die erfolgreiche Vox-Dokusoap \"Die Beet-Brüder\" als Wiederholungen ins Sonntagsprogramm (11:45-17:45 Uhr), nachdem das Format zuletzt Rekordquoten von fast 11% Marktanteil in der Zielgruppe erzielte. Parallel stellt RTL im Zuge von Sparmaßnahmen das Promi-Magazin \"Gala\" ein und erweitert \"Exclusiv - Weekend\" auf sieben Sendetage. Die Programmänderungen zeigen RTLs Strategie, bewährte Formate mediengruppen-intern zu verwerten und gleichzeitig Kosten zu reduzieren.",
+          "title": "Auch waipu.tv bietet zum Start ein Bundle mit HBO Max an",
+          "link": "https://www.dwdl.de/nachrichten/105128/auch_waiputv_bietet_zum_start_ein_bundle_mit_hbo_max_an/",
+          "summary": "Der IPTV-Anbieter waipu.tv integriert HBO Max zum Launch am 13. Januar als weiteren Streaming-Partner in sein Angebot und bietet das Bundle aus waipu.tv Perfect Plus und HBO Max (mit Werbung) für 17,99 Euro monatlich an. Dies entspricht einem Aufpreis von nur 3 Euro für HBO Max gegenüber dem Einzelpreis von 5,99 Euro, womit waipu.tv neben RTL+ als zweiter bestätigter Launch-Partner für HBO Max fungiert.",
           "score": 9
         },
         {
           "source": "DWDL",
-          "title": "Tele 5 bringt \"Star Trek: Strange New Worlds\" ins Free-TV",
-          "link": "https://www.dwdl.de/nachrichten/105109/tele_5_bringt_star_trek_strange_new_worlds_ins_freetv/",
-          "summary": "Tele 5 zeigt ab dem 23. Februar 2025 montags um 20:15 Uhr \"Star Trek: Strange New Worlds\" als Free-TV-Premiere, dreieinhalb Jahre nach dem ursprünglichen Start bei Paramount+. Die Serie löst \"Star Trek: Discovery\" auf dem Sci-Fi-Sendeplatz ab und wird in Doppelfolgen ausgestrahlt, wobei zunächst die ersten beiden Staffeln gezeigt werden, während die dritte Staffel vorerst exklusiv bei Paramount+ bleibt.",
+          "title": "Sixx holt \"Dr. House\" schon bald ins Free-TV zurück",
+          "link": "https://www.dwdl.de/nachrichten/105123/sixx_holt_dr_house_schon_bald_ins_freetv_zurueck/",
+          "summary": "Sixx bringt ab dem 28. Januar 2026 die Arztserie \"Dr. House\" mit Hugh Laurie erstmals bei der ProSiebenSat.1-Gruppe ins Free-TV zurück und zeigt sie mittwochs um 22:10 Uhr in Doppelfolgen ab Staffel eins. Die Serie hatte ihre letzten Primetime-Auftritte vor über vier Jahren bei Super RTL und war zuletzt nur im Nachtprogramm bei Vox Up zu sehen. Gleichzeitig nimmt Sixx weitere Programmänderungen vor, indem \"Charmed\" ab 27. Januar \"Ghost Whisperer\" im Vorabendprogramm ersetzt.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Rückkehr: Lochthofen soll neue MDR-Programmdirektion führen",
+          "link": "https://www.dwdl.de/nachrichten/105121/rueckkehr_lochthofen_soll_neue_mdrprogrammdirektion_fuehren/",
+          "summary": "MDR-Intendant Ralf Ludwig wird dem Rundfunkrat am 26. Januar Boris Lochthofen als neuen Programmdirektor für die zusammengeführten Programmdirektionen Halle und Leipzig vorschlagen. Die Wahl ist überraschend, da Lochthofen den MDR vor wenigen Jahren nach seiner gescheiterten Intendanten-Bewerbung verlassen hatte. Nach dem Scheitern der ursprünglich favorisierten Jana Brandt vor dem Rundfunkrat im vergangenen Jahr soll nun endlich Klarheit in der seit langem offenen Führungsposition geschaffen werden.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "DMAX startet weiteres Doku-Format über die Bundespolizei",
+          "link": "https://www.dwdl.de/nachrichten/105118/dmax_startet_weiteres_dokuformat_ueber_die_bundespolizei/",
+          "summary": "DMAX startet am 26. Januar die neue Dokuserie \"Bundespolizei 24/7 - Auftrag Sicherheit\" (BluePrint Media) montags um 21:15 Uhr, die Bundespolizei-Einsätze zu Land, Wasser und Luft dokumentiert. Das Format ergänzt die bereits laufende Reihe \"Die Grenzschützer\" (magisTV) und zeigt den kompletten Einsatzablauf von Bahnstreifen über Flughafenkontrollen bis zur internationalen Zusammenarbeit. Die erste von zunächst vier geplanten Folgen thematisiert unter anderem die Begleitung eines russischen Marineschiffs auf der Ostsee und deutsch-französische Grenzkooperation.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "\"Tagesthemen\"-Chef Helge Fuhst will die ARD verlassen",
-          "link": "https://www.dwdl.de/nachrichten/105104/tagesthemenchef_helge_fuhst_will_die_ard_verlassen/",
-          "summary": "Helge Fuhst, Zweiter Chefredakteur von ARD-aktuell und \"Tagesthemen\"-Chef, verlässt die ARD trotz kürzlich verlängertem Vertrag für einen Wechsel zu einem noch unbekannten privaten Medienunternehmen. Der 41-Jährige soll dort sowohl Management-Aufgaben übernehmen als auch vor der Kamera tätig sein. Fuhst, der 2024 erfolglos für die WDR-Intendanz kandidierte, ist seit 2019 bei ARD-aktuell und war zuvor bei Phoenix sowie als persönlicher Referent von Tom Buhrow tätig.",
+          "title": "RTL nimmt kurzfristig zwei Bundesliga-Spiele ins Programm",
+          "link": "https://www.dwdl.de/nachrichten/105120/rtl_nimmt_kurzfristig_zwei_bundesligaspiele_ins_programm/",
+          "summary": "RTL überträgt kurzfristig zwei zusätzliche Bundesliga-Spiele in Kooperation mit Sky Sport: Köln gegen Bayern München am 14. Januar und Borussia Dortmund gegen Mainz 05 am 13. Februar. Diese Vereinbarung erweitert den bereits bestehenden Sport-Deal zwischen RTL und Sky, während die Formel-1-Übertragungsrechte für RTL nach Auslauf des bisherigen Vertrags noch ungeklärt sind. Die Kooperation erfolgt parallel zu den laufenden Übernahmeverhandlungen von RTL Deutschland bezüglich Sky Deutschland, die noch auf EU-Genehmigung warten.",
           "score": 9
         },
         {
           "source": "DWDL",
-          "title": "RTL News: Neue Struktur, mehrere Sendungen gestrichen",
-          "link": "https://www.dwdl.de/nachrichten/105101/rtl_news_neue_struktur_mehrere_sendungen_gestrichen/",
-          "summary": "RTL News reorganisiert sich im Rahmen von \"Shift 2026\" grundlegend: Ab sofort wird das bisherige Ressort-System durch einen zentralen Newsroom ersetzt, wobei Magazine wie \"Gala\" und \"Prominent\" bereits dieses Wochenende eingestellt werden. Ab Frühjahr ersetzen RTL und ntv ihre morgendlichen Einzelformate durch die gemeinsame Sendung \"Deutschland am Morgen\", während sich RTL News in der Primetime auf investigative Programme wie \"Team Wallraff\" konzentriert und gleichzeitig Online-Portale wie Wetter.de aufgibt.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "Petersen geht: Küttner wird Unterhaltungschef für RTL & Vox",
-          "link": "https://www.dwdl.de/nachrichten/105100/petersen_geht_kuettner_wird_unterhaltungschef_fuer_rtl__vox/",
-          "summary": "RTL Deutschland führt im Rahmen des Restrukturierungsprogramms „Shift 2026\" eine Zusammenlegung der Unterhaltungsteams von RTL und Vox durch, wodurch Vox nach 33 Jahren seine Eigenständigkeit verliert. Die bisherige Vox-Chefin Kirsten Petersen verlässt das Unternehmen, während Markus Küttner als neuer Unterhaltungschef für beide Sender fungieren wird. Die Maßnahme ist Teil eines größeren Stellenabbaus und soll zu effizienterer Programmplanung führen.",
-          "score": 10
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Jetzt auch bei Verticals: Wie Handelsblatt und Tagesspiegel weiter zusammenrücken",
-          "link": "https://www.horizont.net/medien/nachrichten/jetzt-auch-bei-verticals-wie-handelsblatt-und-tagesspiegel-weiter-zusammenruecken-232651?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Handelsblatt und Tagesspiegel kooperieren bei der Entwicklung von Verticals – spezialisierten Newslettern für Entscheider und Fachpublikum. Diese kostenpflichtigen Briefings gelten als wichtige Zukunftsstrategie für Publisher, wobei das ursprünglich von Politico entwickelte Format inzwischen branchenweite Verbreitung findet. Die Zusammenarbeit der beiden Medienhäuser zeigt den anhaltenden Trend zur strategischen Partnerschaft bei innovativen Produktformaten.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "RTL Deutschland: Konzernumbau: RTL News streicht 230 Stellen und mehrere Sendungen",
-          "link": "https://www.horizont.net/medien/nachrichten/rtl-deutschland-konzernumbau-rtl-news-streicht-230-stellen-und-mehrere-sendungen-232645?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "RTL Deutschland konkretisiert seinen Konzernumbau mit einer umfassenden Neuaufstellung von RTL News, bei der rund 230 Stellen abgebaut werden. Im Zuge der Restrukturierung werden Teams und Inhalte zusammengeführt sowie mehrere Sendungsformate eingestellt. Der Umbau sorgt für einen angespannten Jahresstart am RTL-Standort Köln.",
-          "score": 10
-        },
-        {
-          "source": "kress",
-          "title": "RTL News baut Redaktionen um und zentralisiert Newsrooms Der Umbau von RTL Deutschland trifft die...",
-          "link": "https://kress.de/news/beitrag/151599-230-jobs-betroffen-rtl-news-baut-redaktionen-um-und-zentralisiert-newsrooms.html",
-          "summary": "RTL News baut im Rahmen der angekündigten 600 Stellenstreichungen bei RTL Deutschland rund 230 Arbeitsplätze ab und zentralisiert dabei die Newsrooms für eine stärkere Digitalisierung. Die Transformation soll Qualitätsjournalismus durch KI-gestützte Prozesse und digitale Strukturen zukunftsfähig machen, wobei ntv sowie die Marken stern, GEO und Capital nicht direkt betroffen sind. Betriebsbedingte Kündigungen sollen nach Angaben des Unternehmens vermieden werden.",
-          "score": 9
-        },
-        {
-          "source": "kress",
-          "title": "Helge Fuhst kehrt der ARD den Rücken Helge Fuhst verlässt die ARD: Der „Tagesthemen“-Moderator und...",
-          "link": "https://kress.de/news/beitrag/151598-naechstes-bekanntes-gesicht-geht-helge-fuhst-kehrt-der-ard-den-ruecken.html",
-          "summary": "Helge Fuhst, \"Tagesthemen\"-Moderator und Zweiter Chefredakteur von ARD-aktuell, verlässt die ARD für ein privates Medienunternehmen, das im Februar 2026 kommuniziert werden soll. Der 41-Jährige, der seit 2019 die \"Tagesthemen\" leitet und 2024 erfolglos für das WDR-Intendantenamt kandidierte, gehört zu den wenigen hochrangigen öffentlich-rechtlichen Führungskräften, die zu Privatsendern wechseln. Sein Vertrag bei ARD-aktuell war erst kürzlich um drei Jahre verlängert worden.",
-          "score": 9
-        },
-        {
-          "source": "kress",
-          "title": "Felix Gayer gehört zu den Young Leadern des Jahres 2025 kress präsentiert in einer Serie junge...",
-          "link": "https://kress.de/news/beitrag/151601-felix-gayer-gehoert-zu-den-young-leadern-des-jahres-2025.html",
-          "summary": "Felix Gayer (30) wurde von kress pro zu einem der 25 Young Leaders 2025 gekürt und ist seit Juni Head of AI & Automation bei der Medienholding Süd Digital, wo er erfolgreich eine KI-Infrastruktur für Verlage wie \"Stuttgarter Zeitung\" aufgebaut hat. Der ehemalige Data Analyst mit Master in Data Science sieht seine Rolle darin, eine \"Symphonie von Mensch und Maschine\" zu schaffen, bei der Technologie den Journalismus stärkt und Journalisten mehr Raum für Kreativität erhalten.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "10 Jahre kress pro: Wie kommt der Traffic in zehn Jahren zu den Medien, Markus Knall? Zum zehnten Geburtstag von kress pro",
-          "link": "https://kress.de/news/beitrag/151596-10-jahre-kress-pro-wie-kommt-der-traffic-in-zehn-jahren-zu-den-medien-markus-knall.html",
-          "summary": "Markus Knall, Chefredakteur von Ippen Media, prognostiziert für die kommenden zehn Jahre eine fundamentale Transformation der Medien-Traffic-Generierung: Einzelne Webseiten werden zu integrierten Ökosystemen mit KI-individualisiertem Content und starkem Video-Fokus, während Traffic zunehmend über eigene Netzwerke statt externe Plattformen generiert wird. Medienmarken müssen künftig omnipräsent auf verschiedenen Kanälen agieren, wobei die Webseite als \"Flagship-Store\" nur noch eine von vielen Touchpoints darstellt und Redaktionen eine deutlich breitere Palette an zielgruppenspezifischen Produkten bedienen müssen.",
+          "title": "Das Erste holt \"Die Notärztin\" nach zwei Jahren zurück",
+          "link": "https://www.dwdl.de/nachrichten/105117/das_erste_holt_die_notaerztin_nach_zwei_jahren_zurueck/",
+          "summary": "Das Erste setzt die erfolgreiche Serie \"Die Notärztin\" mit einer zweiten Staffel fort, die am 24. Februar 2026 startet - nach dem Erfolg der ersten Staffel mit durchschnittlich 4 Millionen Zuschauern wurde die Folgenanzahl von sechs auf 13 Episoden mehr als verdoppelt. Die neue Staffel mit Sabrina Amali in der Hauptrolle fokussiert verstärkt auf die Geschichten des gesamten Feuerwache-Teams und steht bereits eine Woche vor TV-Ausstrahlung in der ARD-Mediathek zur Verfügung.",
           "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "HBO Max setzt zum Start auf ein Bundling mit RTL+",
+          "link": "https://www.dwdl.de/nachrichten/105114/hbo_max_setzt_zum_start_auf_ein_bundling_mit_rtl/",
+          "summary": "Warner Bros. Discovery startet HBO Max in Deutschland ab kommender Woche nicht mit dem bisherigen HBO-Partner Sky, sondern in einem Bundle mit RTL+. Verfügbar sind zwei Pakete: RTL+ Premium plus HBO Max Basis (mit Werbung) für 11,99 Euro statt 15,98 Euro einzeln, sowie die werbefreie Variante für 17,99 Euro statt 24,98 Euro. Ein Upgrade bestehender RTL+-Abos ist nur für Direktkunden möglich, nicht für die rund 50% der RTL+-Nutzer, die über das Magenta TV-Bundle kommen.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Kacken an der Havel\" wird im Februar veröffentlicht",
+          "link": "https://www.dwdl.de/nachrichten/105115/kacken_an_der_havel_wird_im_februar_veroeffentlicht/",
+          "summary": "Netflix veröffentlicht am 26. Februar die deutsche Comedy-Serie \"Kacken an der Havel\", produziert von Warner Bros. International Television Productions und entwickelt von den Schaad-Brüdern. Die Serie folgt dem gescheiterten Rapper Toni (Fatoni), der nach dem Tod seiner Mutter in sein Heimatdorf zurückkehren muss und dort unerwartete Karrierechancen sowie familiäre Überraschungen erlebt. Das hochkarätige Cast umfasst u.a. Jella Haase, Jördis Triebel, Matthias Brandt und Veronica Ferres.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Bewegtbild  : RTL+ und HBO Max schließen Streamingbündnis zum Marktstart",
+          "link": "https://www.horizont.net/medien/nachrichten/bewegtbild-rtl-und-hbo-max-schliessen-streamingbuendnis-zum-marktstart-232658?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "HBO Max startet in Deutschland nicht als Solo-Anbieter, sondern geht eine exklusive Bundle-Partnerschaft mit RTL+ ein. Diese Kooperation soll HBO Max helfen, sich im umkämpften Streaming-Markt zu etablieren, während RTL+ von der kriselnden RTL Deutschland weiteres Wachstum benötigt.",
+          "score": 9
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Nach nur einem Jahr: Burda-Verwaltungsratschef Olaf Koch tritt ab / Erneut Vorstandsumbau",
+          "link": "https://www.horizont.net/medien/nachrichten/nach-nur-einem-jahr-burda-verwaltungsratschef-olaf-koch-tritt-ab--erneut-vorstandsumbau-232657?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Olaf Koch tritt nach nur einem Jahr als Verwaltungsratschef bei Burda zurück, was auf Missverständnisse mit den Burda-Jungverlegern hindeutet. Gleichzeitig findet ein erneuter Vorstandsumbau statt, den das Münchner Medienhaus als \"Fortsetzung des Generationswechsels\" bezeichnet. Die schnelle Führungswechsel erwecken den Eindruck von Instabilität an der Spitze des Familienunternehmens.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Ilona Renner und Claudia Zilz übernehmen Chefredaktionen von foodservice und gvpraxis...",
+          "link": "https://kress.de/news/beitrag/151602-ilona-renner-und-claudia-zilz-uebernehmen-chefredaktionen-von-foodservice-und-gvpraxis.html",
+          "summary": "Die dfv Mediengruppe hat zum 1. Januar 2026 zwei neue Chefredakteurinnen ernannt: Ilona Renner übernimmt die Chefredaktion von foodservice, nachdem sie seit 2010 bei dfv tätig war und zuletzt als leitende Redakteurin fungierte. Claudia Zilz wird neue Chefredakteurin von gvpraxis, wo sie bereits seit 18 Jahren als Redakteurin arbeitet und seit 2022 zur Chefredaktion der dfv Hotel- und Gastromedien gehört.",
+          "score": 7
         },
         {
           "source": "kress",
           "title": "Malte Baumberger kommt von RTL News Der bisherige Head of Social Media bei RTL News, Malte...",
           "link": "https://kress.de/news/beitrag/151594-video-offensive-bei-ard-aktuell-malte-baumberger-kommt-von-rtl-news.html",
-          "summary": "Malte Baumberger wechselt im März von RTL News, wo er als Head of Social Media tätig war, zur crossmedialen Video-Unit von ARD-aktuell. Er bringt umfangreiche Erfahrung in der digitalen Transformation von Nachrichtenformaten mit, unter anderem von RTL aktuell und ntv, sowie internationale Expertise durch ein Digital Fellowship bei CNN und Weiterbildungen an der Harvard Business School. Die von Sara Maria Manzo geleitete Video-Unit soll die Bewegtbildkompetenz der tagesschau im digitalen Bereich stärken und klassische Nachrichtenwelt mit digitalen Plattform-Anforderungen verknüpfen.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "\"Strategische Kooperation\" Handelsblatt Media Group und \"Tagesspiegel\" starten...",
-          "link": "https://meedia.de/news/beitrag/20875-handelsblatt-media-group-und-quot-tagesspiegel-quot-starten-verteidigungs-briefing.html",
-          "summary": "Die Handelsblatt Media Group und der \"Tagesspiegel\" intensivieren ihre strategische Kooperation und launchen im Frühjahr ein gemeinsames werktägliches \"Professional Briefing\" zu Sicherheit und Verteidigung für Fach- und Führungskräfte. Charlotte Morré vom \"Handelsblatt\" leitet die neue Partnerschaft und baut ein gemeinsames Redaktionsteam auf, zudem werden die Gesundheits-Briefings beider Häuser zusammengeführt. Die Kooperation soll durch ergänzende Formate wie Analysen und Veranstaltungen ausgebaut werden.",
-          "score": 10
-        },
-        {
-          "source": "meedia",
-          "title": "\"Rolle von Kino im Bewegtbild-Mix fest verankern“ Dimitri Herber ist neuer Geschäftsführer...",
-          "link": "https://meedia.de/news/beitrag/20877-dimitri-herber-ist-neuer-geschaeftsfuehrer-marketing-bei-weischer-cinema.html",
-          "summary": "Dimitri Herber wechselt von seiner Position als Head of Media and Digital bei Warsteiner zu Weischer Cinema, wo er als neuer Geschäftsführer Marketing das strategische Marketing und die Produktentwicklung im Kinogeschäft verantwortet. Mit seiner Expertise aus Agentursicht und Unternehmensperspektive soll er die Positionierung von Kino als wirksamstes Medium für Markenführung im Bewegtbild-Mix stärken. Herber bringt Erfahrungen von Warsteiner, Bahlsen Group, Ikea und Mindshare mit und startete bereits Anfang Januar bei dem Hamburger Werbe- und Medienhaus.",
+          "summary": "Malte Baumberger wechselt ab März von seiner Position als Head of Social Media bei RTL News zur crossmedialen Video-Unit von ARD-aktuell, wo er seine langjährige Erfahrung in der digitalen Transformation von Nachrichtenformaten einbringen wird. Die von Sara Maria Manzo geleitete Unit soll die Bewegtbildkompetenz der tagesschau im digitalen Bereich stärken und den Wissenstransfer zwischen verschiedenen journalistischen Formaten fördern. Ziel ist es, klassische Nachrichtenkompetenz mit den Anforderungen digitaler Plattformen zu verbinden.",
           "score": 8
         },
         {
           "source": "meedia",
-          "title": "Nach dem Omnicom-IPG-Deal Geschäftsführerin Petra Gnauert hat Omnicom Media bzw.",
-          "link": "https://meedia.de/news/beitrag/20873-geschaeftsfuehrerin-petra-gnauert-hat-omnicom-media-bzw-ipg-mediabrands-verlassen.html",
-          "summary": "Petra Gnauert, CEO von IPG Mediabrands DACH, hat nach der Übernahme von IPG durch Omnicom zum Jahresende das Unternehmen verlassen – der erste prominente Personalabgang in Folge der Fusion. Die Entscheidung erfolgte im gegenseitigen Einvernehmen nach Gesprächen mit Omnicom Media CEO Paul Remitz über die Zusammenführung der Mediaagentur-Portfolios beider Konzerne. Gnauert hatte in ihrer fünfjährigen Amtszeit IPG Mediabrands von einer föderierten zu einer integrierten Organisation transformiert.",
-          "score": 7
+          "title": "Weitere Abgänge nach dem Philipp-Welte-Beben Burda stellt Vorstand neu auf",
+          "link": "https://meedia.de/news/beitrag/20884-burda-stellt-vorstand-neu-auf-marc-al-hames-loest-olaf-koch-im-verwaltungsrat-ab.html",
+          "summary": "Hubert Burda Media setzt den Generationswechsel mit einer umfassenden Vorstandsneubeset­zung zum Jahreswechsel fort, nachdem bereits Jacob Burda und Elisabeth Burda Furtwängler die Unternehmensverantwortung von ihrem Vater übernommen hatten. Marc Al-Hames übernimmt den Verwaltungsratsvorsitz von Olaf Koch, der nach nur einem Jahr ausscheidet, während Lydia Rullkötter 2026 neue CFO wird. Die Umstrukturierung folgt auf den angekündigten Abgang des langjährigen Vorstands Philipp Welte, wobei Spannungen zwischen Welte und Koch als Grund genannt werden.",
+          "score": 8
         },
         {
           "source": "meedia",
-          "title": "Wertvolle Bezahldaten PayPal greift bei Retail Media an Ein zu erwartender Paukenschlag zum Jahresbeginn.",
-          "link": "https://meedia.de/news/beitrag/20876-paypal-greift-bei-retail-media-an.html",
-          "summary": "PayPal steigt mit seinem neuen \"Transaction Graph Insights & Measurement\"-Programm in den Retail Media Markt ein und nutzt dabei echte Bezahldaten für Werbetargeting, womit das Unternehmen etablierte Platzhirsche herausfordert. Besonders brisant: PayPal sammelt zunehmend auch Transaktionsdaten am analogen Point-of-Sale, etwa bei Veranstaltungen, was die Datenverwertungsmöglichkeiten der Einzelhändler untergraben könnte. Dies markiert einen Paradigmenwechsel im digitalen Marketing weg von reinen Surf- und Interaktionsdaten hin zu präzisen Kaufverhaltensdaten.",
-          "score": 10
+          "title": "Neuauflage des Partner Programms Spotify setzt verstärkt auf Podcasts, aber bitte mit Video Während Podcasts zunehmend aus der Nische in den kulturellen Mainstream rücken",
+          "link": "https://meedia.de/news/beitrag/20885-spotify-setzt-verstaerkt-auf-podcasts-aber-bitte-mit-video.html",
+          "summary": "Spotify erweitert sein Partner Program erheblich und fokussiert dabei verstärkt auf Video-Podcasts, um Creatorn nachhaltige Monetarisierungsmöglichkeiten zu bieten. Das Unternehmen hat nach eigenen Angaben in den letzten fünf Jahren über zehn Milliarden US-Dollar in die globale Podcast-Industrie investiert. Das im Januar 2025 gestartete Programm ermöglicht es Publishern und unabhängigen Creatorn, verschiedene Einnahmequellen zu kombinieren, wobei Videoformate im Zentrum der Strategie stehen.",
+          "score": 9
         },
         {
           "source": "meedia",
-          "title": "Informationssicherheit dank ISO 27001 ISO-Zertifizierung: So will Havas Media sein Vertrauen bei...",
-          "link": "https://meedia.de/news/beitrag/20870-iso-zertifizierung-so-will-havas-media-sein-vertrauen-bei-kunden-erhoehen.html",
-          "summary": "Havas Media Germany hat als erste Mediaagentur in Deutschland die ISO/IEC 27001:2022-Zertifizierung für Informationssicherheit erhalten und positioniert sich damit als Vorreiter in einem Markt, wo externe Zertifizierungen noch die Ausnahme sind. Die Zertifizierung deckt die gesamte Wertschöpfungskette von Beratung über Planung und Mediaeinkauf bis zur Erfolgsmessung ab und soll Kunden einen überprüfbaren Vertrauensbeweis für den Schutz sensibler Daten bieten. Während ISO 27001 in IT und Beratung bereits Standard ist, arbeiten Mediaagenturen bislang meist nur mit internen Sicherheitsrichtlinien ohne externe Validierung.",
-          "score": 7
+          "title": "Kölner Starthilfe für US-Mitbewerber RTL+ und HBO Max bündeln die Streaming-Angebote HBO Max, der...",
+          "link": "https://meedia.de/news/beitrag/20883-rtl-und-hbo-max-buendeln-die-streaming-angebote.html",
+          "summary": "RTL+ und HBO Max starten ab 13. Januar ein gemeinsames Bundle-Angebot, das Zugang zu beiden Streaming-Plattformen in einem Abonnement ermöglicht. Die Kooperation zielt darauf ab, durch die Kombination von RTL+s nationalen Inhalten und HBO Max' internationalem Premium-Portfolio die Reichweite und Attraktivität beider Services zu steigern. Das Kombi-Angebot wird zunächst zeitlich befristet zu einem Sonderpreis angeboten, um HBO Max beim Deutschland-Launch zu unterstützen und RTL+ weiteres Wachstum zu verschaffen.",
+          "score": 9
         },
         {
-          "source": "Guardian Media",
-          "title": "Warner Bros Discovery tells investors to reject ‘inadequate’ $108bn Paramount bid",
-          "link": "https://www.theguardian.com/film/2026/jan/07/warner-bros-shareholders-paramount-takeover-bid",
-          "summary": "Warner Bros Discovery (WBD) lehnt das feindliche Übernahmeangebot von Paramount Skydance in Höhe von 108,4 Mrd. USD als \"unzureichend\" ab, obwohl Oracle-Mitgründer Larry Ellison eine persönliche Garantie über 40 Mrd. USD bereitgestellt hat. Das WBD-Board bevorzugt weiterhin den bereits vereinbarten 82,7 Mrd. USD Deal mit Netflix, der nur die Filmstudios und Streaming-Assets umfasst, während Paramount das gesamte Unternehmen inklusive CNN und Discovery Channel übernehmen will. WBD wirft Paramount vor, Investoren \"konstant in die Irre geführt\" zu haben und sieht erhebliche Risiken bei der Finanzierungssicherheit des Angebots.",
+          "source": "meedia",
+          "title": "CES 2026 Disney setzt auf KI - auch bei der Messung und Mediaplanung Auf der CES 2026 in Las Vegas hat Disney einen Einblick gegeben, wie sich der Konzern technologisch und datenstrategisch neu positioniert, um Werbungtreibenden messbar bessere Ergebnisse zu liefern. Im Mittelpunkt standen dabei Künstliche Intelligenz, Automatisierung und vernetzte Messmethoden",
+          "link": "https://meedia.de/news/beitrag/20881-disney-setzt-auf-ki-auch-bei-der-messung-und-mediaplanung.html",
+          "summary": "Disney präsentierte auf der CES 2026 seine strategische Neuausrichtung in der Werbetechnologie, die KI, Automatisierung und vernetzte Messmethoden in den Mittelpunkt stellt, um Werbungtreibenden messbar bessere Ergebnisse zu liefern. Der Konzern positioniert Werbung nicht mehr als isolierte Mediaausspielung, sondern als integriertes System aus Kreation, Planung, Ausspielung und kontinuierlichem Lernen innerhalb seines reichweitenstarken Portfolios aus Live-Sport, Streaming und Premium-Entertainment. Ziel ist die Verbindung von kreativer Exzellenz mit datengetriebener Steuerung, um Werbung enger an Nutzungssituationen und Abonnentenverhalten anzupassen.",
           "score": 9
         },
         {
           "source": "Guardian Media",
-          "title": "Maga media stars back Trump on Venezuela … mostly: ‘It doesn’t make any sense’",
-          "link": "https://www.theguardian.com/us-news/2026/jan/07/maga-stars-trump-venezuela",
-          "summary": "MAGA-Medien unterstützen größtenteils Trumps militärische Intervention in Venezuela, obwohl dies seinen früheren Wahlversprechen widerspricht, keine Kriege zu beginnen und \"Amerika zuerst\" zu stellen. Trotz der gewaltsamen Entführung von Präsident Maduro und seiner Frau sowie Dutzenden Toten bei der nächtlichen Operation erhalten Trump starke Rückendeckung von seinen Medienverbündeten. Nur wenige konservative Stimmen äußern Vorbehalte gegen diese Abkehr von der ursprünglich isolationistischen \"America First\"-Haltung.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "HBO Max & RTL+ Partner Up In Germany Ahead Of Jan 13 Launch",
-          "link": "https://deadline.com/2026/01/hbo-max-rtl-partner-germany-content-bundle-1236675942/",
-          "summary": "HBO Max startet am 13. Januar in Deutschland mit einer Bundle-Partnerschaft mit RTL+, die beide Services zu einem reduzierten Preis von €11.99 (Basic mit Werbung) bzw. €17.99 (Standard werbefrei) kombiniert. Der verspätete Launch in Deutschland, UK und Italien wurde durch langfristige Sky-Verträge verzögert, weshalb Distributionspartnerschaften für HBO Max' Erfolg in diesen Märkten entscheidend sind. Das Angebot umfasst HBO-Flaggschiff-Serien wie \"The Last of Us\" und \"House of the Dragon\" sowie lokale deutsche Produktionen und RTL-Content.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "UFA Fiction Ignites ‘Who’s Burning Now,’ A Supernatural Folklore Drama Inspired By Witchcraft Legends",
-          "link": "https://deadline.com/2026/01/ufa-developing-whos-burning-now-folklore-witchcraft-series-1236666346/",
-          "summary": "UFA Fiction hat die Rechte an \"Who's Burning Now\" erworben, einem übernatürlichen Folklore-Drama über eine deutsch-schweizerische Teenagerin, die entdeckt, dass sie sowohl Hexen- als auch Hexenjäger-Wurzeln hat und in einen jahrhundertealten Krieg aus Magie und verbotener Liebe hineingezogen wird. Das Projekt, inspiriert von europäischen Hexenlegenden, wurde ursprünglich beim Writer's Pitch des deutschen Branchenevents Seriesly präsentiert und wird nun von der Fremantle-Tochter für eine größere Produktion entwickelt. Die Serie wird von Marshall Maihofer Demirovic, Maria Neheimer und Wero Rodowicz kreiert, mit Mariama Djité als Head Writer.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Keshet International Kicks Off London TV Screenings Prep By Picking Up ‘Pirates Of Antiquities’ & ‘Day Trip: Escaping the Taliban’",
-          "link": "https://deadline.com/2026/01/keshet-pirates-of-antiquities-day-trip-escaping-taliban-1236671579/",
-          "summary": "Keshet International hat zwei Faktual-Formate von Paramount's Ananey Studios für die London TV Screenings im Februar akquiriert: die Doku-Serie \"Pirates of Antiquities\" über Antiquitätenschmuggel (bereits für Staffel 2 verlängert) und die Feature-Dokumentation \"Day Trip: Escaping the Taliban\" über vier afghanische Frauen im Untergrund. KI übernimmt die weltweite Distribution beider Titel sowie die Formatrechte für \"Pirates of Antiquities\".",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "‘The Pitt’ Renewed For Season 3 At HBO Max Ahead Of Season 2",
-          "link": "https://deadline.com/2026/01/the-pitt-renewed-season-3-hbo-max-1236675873/",
-          "summary": "HBO Max hat die Medizin-Serie \"The Pitt\" mit Noah Wyle bereits für eine dritte Staffel verlängert, noch vor dem Start der zweiten Staffel am 8. Januar 2025. Die von R. Scott Gemmill entwickelte Serie folgt Krankenhauspersonal in Pittsburgh und wird von John Wells Productions und Warner Bros. Television produziert. Staffel 2 spielt zehn Monate nach den Ereignissen der ersten Staffel und umfasst eine Schicht am Unabhängigkeitstag-Wochenende.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Chris Redd Opens Up About “Pill Issues” He Had During ‘SNL’, Admits He Sold To Castmates",
-          "link": "https://deadline.com/2026/01/chris-redd-pill-issues-snl-sold-castmates-1236675809/",
-          "summary": "Chris Redd hat in einem Instagram-Video öffentlich gemacht, dass er während seiner Zeit bei Saturday Night Live (2017-2022) unter einer Pillensucht litt und sogar Medikamente an Castmates verkaufte. Der Comedian kritisierte das Verhalten seiner Kollegen, die zwar bei ihm kauften und über ihn lästerten, ihm aber bei Panikattacken nicht halfen. Redd enthüllte außerdem, dass er eine Beziehung mit der Ex-Frau seines Castmates Kenan Thompson einging, was zu weiteren Spannungen am Set führte.",
+          "title": "Tim Davie says BBC will stay on X to try to stem ‘flood’ of global misinformation",
+          "link": "https://www.theguardian.com/media/2026/jan/08/tom-davie-says-bbc-will-stay-on-x-to-try-to-stem-flood-of-global-misinformation",
+          "summary": "BBC-Generaldirektor Tim Davie kündigte an, dass der öffentlich-rechtliche Sender trotz Kritik an Elon Musks politischer Ausrichtung und KI-generierten problematischen Inhalten auf der Plattform X verbleiben wird. Er begründete dies vor dem Parlamentsausschuss damit, dass die BBC junge Zielgruppen erreichen und der systematischen Desinformation durch Staaten wie China und Iran entgegenwirken müsse, die \"Milliarden für Medien ausgeben, um ihre geopolitischen Ziele zu fördern\".",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘Abbott Elementary’ Showrunners On Ambitious Season 5 Locations From An Abandoned Mall To A Ballpark, ABC Sitcom’s Future & PA Unionization Efforts",
-          "link": "https://deadline.com/2026/01/abbott-elementary-mid-season-5-mall-episode-interview-1236660759/",
-          "summary": "Die fünfte Staffel von \"Abbott Elementary\" verlagert die Handlung temporär aus der Schule in eine verlassene Mall, nachdem das Schulgebäude beschädigt wurde - eine Storyline, die von realen Ereignissen der Palisades High School inspiriert wurde, die nach Waldbränden in einen leeren Sears-Store umziehen musste. Showrunnerin Quinta Brunson wollte damit die Realitäten von Pädagogen darstellen und die Charaktere durch ähnliche Herausforderungen führen. Die Episode zeigt, wie die Lehrer ihre Ferienzeit opfern, um das marode Einkaufszentrum für den Schulbetrieb vorzubereiten.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Fox Advertising Launches Creators@Fox As Company Looks To Develop Talent And Broaden Revenue Horizons",
-          "link": "https://deadline.com/2026/01/fox-advertising-creators-gordon-ramsay-rosanna-pansino-1236665222/",
-          "summary": "Fox Advertising hat auf der CES in Las Vegas \"Creators@Fox\" gelauncht, eine Initiative zur Expansion von Markenkampagnen über lineare und digitale Plattformen durch Creator-Content aus allen vier Fox-Bereichen (Entertainment, Sport, News, Tubi). Die Initiative umfasst prominente Creator wie Gordon Ramsay und YouTube-Star Rosanna Pansino sowie eine Partnerschaft mit Barstool Sports für Gen Z/Millennial-Zielgruppen. Tubi's bereits etabliertes \"Creatorverse\"-Programm mit 150 Creatorn und 100 Millionen monatlichen Nutzern soll als \"Weg nach Hollywood\" für Content-Creator dienen.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "‘The Pitt’ Renewed for Season 3 at HBO Max",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/the-pitt-renewed-season-3-hbo-max-1236467217/",
-          "summary": "HBO Max hat \"The Pitt\" für eine dritte Staffel verlängert, noch bevor die zweite Staffel der erfolgreichen Medizinserie mit Noah Wyle am Donnerstag Premiere feiert. Die zweite Staffel spielt zehn Monate nach der ersten Staffel und thematisiert die Traumabewältigung der Charaktere nach einem Amoklauf sowie reale Herausforderungen des Gesundheitswesens wie Entlassungen und Finanzierungskürzungen. Die von ER-Veteran R. Scott Gemmill entwickelte Serie wird für ihre authentische Darstellung medizinischer Praxis und der Belastungen von Gesundheitspersonal gelobt.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Disney+ Plans New Features for “AI Native Generation”",
-          "link": "https://www.hollywoodreporter.com/business/digital/vertical-video-coming-disney-plus-ai-1236467099/",
-          "summary": "Disney plant die Einführung von Vertical Video auf Disney+ innerhalb des nächsten Jahres, um kurze Inhalte aus dem gesamten Unternehmensportfolio (ESPN, ABC News, Hulu) in einer einheitlichen, mobil-optimierten Umgebung zu bündeln. Die Initiative zielt darauf ab, Disney+ zu einer täglichen Anlaufstelle zu entwickeln und folgt dem Trend zu KI-gesteuerten, personalisierten Content-Feeds für die \"AI Native Generation\". Das Unternehmen setzt dabei auf dynamische, echtzeitbasierte Inhalte-Aktualisierung basierend auf Nutzerverhalten und erweitert seine mobile Video-Strategie nach dem erfolgreichen Start von ESPN \"Verts\".",
+          "title": "BBC Director General Race Heats Up As Frontrunners Emerge For Biggest Job In British Media",
+          "link": "https://deadline.com/2026/01/bbc-director-general-race-frontrunners-1236676034/",
+          "summary": "Die BBC-Suche nach einem neuen Generaldirektor als Nachfolger für Tim Davie, der im November nach einem redaktionellen Skandal zurücktrat, geht in die entscheidende Phase. Als aussichtsreichste Kandidatinnen gelten Apple TV Europe-Chefin Jay Hunt, Ex-BBC-Contentchefin Charlotte Moore und ehemalige Channel 4-CEO Alex Mahon, während formelle Interviews in den kommenden Wochen stattfinden sollen. Der neue Generaldirektor wird eine BBC übernehmen, die sowohl mit der Konkurrenz durch Tech-Giganten als auch mit politischem Druck während der Charter-Erneuerung und einem drohenden Rechtsstreit mit der US-Regierung konfrontiert ist.",
           "score": 9
-        },
-        {
-          "source": "Variety",
-          "title": "‘The Pitt’ Renewed for Season 3",
-          "link": "https://variety.com/2026/tv/news/pitt-renewed-for-season-3-hbo-1236625764/",
-          "summary": "HBO Max hat die Emmy-prämierte Medizin-Drama-Serie \"The Pitt\" mit Noah Wyle für eine dritte Staffel verlängert, wie CEO Casey Bloys bei der Premiere der zweiten Staffel bekannt gab. Die von R. Scott Gemmill kreierte Serie, die in einem Pittsburgher Notaufnahme spielt und jede Staffel über eine 15-stündige Schicht erzählt, gewann fünf Emmys aus 13 Nominierungen in der ersten Staffel. Bloys betonte, dass das Konzept mit einem hauptsächlichen Set budgetfreundlich sei und die jährliche Produktion ermögliche, was in der heutigen TV-Landschaft selten geworden ist.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Disney+ Prepares to Embrace Microcontent in 2026",
-          "link": "https://variety.com/2026/tv/news/disney-embraces-microcontent-short-form-streaming-1236625030/",
-          "summary": "Disney+ plant für 2026 die Einführung von \"Microcontent\" - kurzen Videoformaten ähnlich TikTok und Instagram Reels - um jüngere Zielgruppen anzusprechen, die an schnelle, swipe-bare Inhalte gewöhnt sind. Das Unternehmen testet bereits erfolgreich solche \"Verts\" in seiner ESPN-Streaming-App mit personalisierten Sport-Highlights und plant nun die Ausweitung auf News- und Entertainment-Bereiche. Disney+ soll dadurch zu einer täglichen Anlaufstelle für nutzerindividualisierte Updates werden, womit Disney dem Trend traditioneller Medienunternehmen folgt, ihre Plattformen an veränderte Konsumgewohnheiten anzupassen.",
-          "score": 10
         }
       ]
     }
