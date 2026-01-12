@@ -1,42 +1,84 @@
 {
   "newsletters": [
     {
-      "date": "2026-01-11",
+      "date": "2026-01-12",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Deutlich weniger Kommentare in den ARD-\"Tagesthemen\"",
-          "link": "https://www.dwdl.de/nachrichten/105130/deutlich_weniger_kommentare_in_den_ardtagesthemen/",
-          "summary": "Die ARD-\"Tagesthemen\" sendeten 2025 nur noch 112 Kommentare gegenüber 156 im Jahr 2024 und 265 im Rekordjahr 2021, was einem Rückgang von 58 Prozent entspricht. Die Meinungsbeiträge wurden von 71 verschiedenen Personen (31 Frauen, 40 Männer) vorgetragen, wobei Julie Kurz (NDR) und Daniel Hechler (SWR) mit jeweils fünf Kommentaren am häufigsten vertreten waren. Der Bayerische Rundfunk stellte aufgrund seiner Zuständigkeit für internationale Studios die meisten Kommentare mit Auslandsbezug.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Banerjee und Jung lösen Pieper im \"Auslandsjournal\" ab",
-          "link": "https://www.dwdl.de/nachrichten/105107/banerjee_und_jung_loesen_pieper_im_auslandsjournal_ab/",
-          "summary": "Shakuntala Banerjee und Alica Jung übernehmen ab Januar 2026 die Moderation des ZDF-\"Auslandsjournals\" und lösen damit Antje Pieper ab, die nach über zehn Jahren das ZDF-Auslandsstudio in Rom leitet. Banerjee, Leiterin der ZDF-Hauptredaktion Politik und Zeitgeschehen, startet am 14. Januar, gefolgt von Jung, die bisher \"ZDFheute live\" moderierte, eine Woche später. Beide Journalistinnen verfügen über umfassende Auslandserfahrung und Moderationskompetenz in der politischen Berichterstattung.",
-          "score": 7
+          "title": "Mainstream Media verlängert Fiction-Vertrag mit ZDF Studios",
+          "link": "https://www.dwdl.de/nachrichten/105150/mainstream_media_verlaengert_fictionvertrag_mit_zdf_studios/",
+          "summary": "Mainstream Media hat seinen Fiction-Vertrag mit ZDF Studios für die kommenden Jahre verlängert und sichert sich damit weiterhin bekannte Serien und Filme wie \"Inga Lindström\", \"Das Traumschiff\" und \"Der Bergdoktor\" für die Pay-TV-Sender Romance TV und Heimatkanal. Die Partnerschaft bildet laut CEO Tim Werner das programmliche Fundament beider Sender und gewährleistet langfristige Planungssicherheit. ZDF Studios-CCO Tim Gerhartz sieht in der Verlängerung ein Signal für Kontinuität in der seit Jahren bestehenden vertrauensvollen Zusammenarbeit.",
+          "score": 10
         },
         {
           "source": "Horizont Medien",
-          "title": "&quot;Ich bin ein Star - Holt mich hier raus!&quot;: Diese 12 Promis treten im RTL-Dschungelcamp 2026 an",
-          "link": "https://www.horizont.net/medien/nachrichten/ich-bin-ein-star---holt-mich-hier-raus-diese-12-promis-treten-im-rtl-dschungelcamp-2026-an-232615?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "RTL hat das Cast für die 2026er Staffel von \"Ich bin ein Star - Holt mich hier raus!\" bekanntgegeben, mit zwölf Prominenten darunter Gil Ofarim, Simone Ballack und Hardy Krüger. Die Show startet Ende Januar mit dem bewährten Moderatoren-Duo Jan Köppen und Sonja Zietlow und folgt dem etablierten Format mit Dschungelprüfungen um Sterne für die Verpflegung.",
-          "score": 7
+          "title": "Fakten, Fraud, Fehlsteuerung: AGF-Zahlen 2025: Wenn Transparenz zum Nachteil im Werbemarkt wird",
+          "link": "https://www.horizont.net/medien/kommentare/fakten-fraud-fehlsteuerung-agf-zahlen-2025-wenn-transparenz-zum-nachteil-im-werbemarkt-wird-232687?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die AGF-Zahlen 2025 zur TV- und Videonutzung demonstrieren den fortgeschrittenen Stand des deutschen Marktes in Bezug auf Transparenz, Vergleichbarkeit und Messlogik. Gleichzeitig offenbaren sie ein grundlegendes Problem: Der Werbemarkt erkennt und nutzt diese methodischen Errungenschaften noch nicht ausreichend. Die Daten werden somit zu einem Paradoxon, bei dem hohe Transparenz im Werbemarkt eher zum Nachteil als zum Vorteil wird.",
+          "score": 8
         },
         {
-          "source": "Guardian Media",
-          "title": "Premier League rights may end up at Netflix despite reluctant football romance",
-          "link": "https://www.theguardian.com/football/2026/jan/10/premier-league-netflix-paramount-skydance-wbd-media",
-          "summary": "Netflix könnte Premier League-Rechte durch die Übernahme von Warner Bros Discovery erhalten, obwohl der Streaming-Riese jahrelang Angebote der Premier League und UEFA ablehnte. Der 82,7 Milliarden Dollar schwere Netflix-Deal für WBDs Studio- und Streaming-Geschäfte würde TNT Sports UK einschließen, das Premier League-Rechte bis 2029 und Champions League-Rechte bis 2027 hält. Paramount Skydance hat jedoch ein konkurrierendes 108,4 Milliarden Dollar Übernahmeangebot vorgelegt, das ebenfalls TNT Sports UK umfasst.",
+          "source": "Horizont Medien",
+          "title": "Open Web &amp; Identifier: Jetzt schalten sich Seven-One Media und Ströer in die ID-Debatte ein",
+          "link": "https://www.horizont.net/medien/nachrichten/open-web--identifier-jetzt-schalten-sich-seven-one-media-und-stroeer-in-die-id-debatte-ein-232685?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Seven-One Media und Ströer positionieren sich in der aktuellen Branchendebatte um ID-Systeme zur Stärkung des Open Web. Die Diskussion dreht sich um die Frage, ob primär Advertiser oder Publisher für die Implementierung von Identifier-Systemen verantwortlich sind. Publisher und ihre Vermarkter sehen sich bereits gut für die anstehenden Veränderungen gerüstet.",
           "score": 9
         },
         {
-          "source": "Guardian Media",
-          "title": "Huw Edwards’s downfall to be dramatised in two-part Channel 5 series",
-          "link": "https://www.theguardian.com/media/2026/jan/07/huw-edwards-channel-5-series-martin-clunes",
-          "summary": "Channel 5 produziert eine zweiteilige Dramaserie über den Sturz des ehemaligen BBC-Moderators Huw Edwards, in der Martin Clunes die Hauptrolle übernimmt. Die Serie behandelt Edwards' Verurteilung wegen des Besitzes von Kinderpornografie im September 2024 und soll seine angebliche Manipulation eines 17-Jährigen thematisieren. Die kontroverse Produktion basiert teilweise auf Recherchen der Sun-Zeitung und befindet sich seit einem Jahr in Entwicklung.",
+          "source": "Horizont Medien",
+          "title": "Subtile Verschiebungen und stabile Muster: Was die aktuelle TV-Nutzung für dieses Jahr signalisiert",
+          "link": "https://www.horizont.net/medien/kommentare/subtile-verschiebungen-und-stabile-muster-was-die-aktuelle-tv-nutzung-fuer-dieses-jahr-signalisiert-232672?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die TV-Nutzung in Deutschland 2025 war von subtilen Verschiebungen bei gleichzeitig stabilen Grundmustern geprägt. Samsung Ads analysiert in ihrem \"Behind the Screens\"-Report diese Entwicklungen und leitet daraus Trends für 2026 ab. Die Erkenntnisse sollen Fachleuten Orientierung für strategische Entscheidungen im kommenden Jahr geben.",
+          "score": 10
+        },
+        {
+          "source": "meedia",
+          "title": "Ein Kommentar von Florian Hanke, Hybrid GEO frisst SEO: Warum KI das Suchmaschinen-Zeitalter...",
+          "link": "https://meedia.de/news/beitrag/20891-geo-frisst-seo-warum-ki-das-suchmaschinen-zeitalter-beendet-zumindest-im-b2b.html",
+          "summary": "Eine Forrester-Studie zeigt, dass fast zwei Drittel der B2B-Käufer aus den Generationen Y und Z bereits zu 90% KI-Tools wie ChatGPT in Kaufprozessen nutzen, wodurch Google seinen Status als erste Anlaufstelle im B2B verliert. KI wird zum primären Touchpoint im B2B-Commerce, da sie komplexe gewerbliche Suchanfragen durch Kontextverständnis und Musteranalyse besser bewältigt als traditionelle keyword-basierte Suchmaschinen. Dies erfordert von Unternehmen eine strategische Neuausrichtung, da klassische SEO-Methoden nicht mehr ausreichen.",
           "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Publishers fear AI search summaries and chatbots mean ‘end of traffic era’",
+          "link": "https://www.theguardian.com/media/2026/jan/12/publishers-fear-ai-search-summaries-and-chatbots-mean-end-of-traffic-era",
+          "summary": "Medienunternehmen erwarten einen dramatischen Rückgang der Suchmaschinenverweise um 43% in den nächsten drei Jahren, da KI-Zusammenfassungen und Chatbots das Nutzerverhalten im Internet grundlegend verändern. Der Suchverkehr zu Nachrichtenseiten ist bereits um ein Drittel innerhalb eines Jahres eingebrochen, wobei Lifestyle-, Prominenten- und Reiseinhalte stärker betroffen sind als aktuelle Nachrichten. Als Reaktion planen Medienunternehmen, ihre Journalisten zu ermutigen, sich mehr wie Content-Ersteller auf Plattformen wie YouTube und TikTok zu verhalten.",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Netflix and Paramount deals are both wrong for Warner Bros Discovery – and democracy | Courtney C Radsch",
+          "link": "https://www.theguardian.com/commentisfree/2026/jan/11/netflix-paramount-warner-bros-discovery-democracy",
+          "summary": "Netflix ($82,7 Mrd.) und Paramount Skydance ($108 Mrd.) konkurrieren um die Übernahme von Warner Bros Discovery, was laut der Autorin beide Male eine gefährliche Machtkonzentration im Medienbereich darstellen würde. Die Deals erfolgen in einem politischen Umfeld, in dem Trump öffentlich den Verkauf von CNN fordert und die neue Regierung Fusionsverfahren zur Durchsetzung redaktioneller Zugeständnisse instrumentalisiert. Beide Übernahmen bedrohen nach Einschätzung der Autorin die Meinungsfreiheit und demokratische Medienvielfalt durch beispiellose Konzentration der Kontrolle über amerikanische Medieninhalte.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "X UK revenues drop nearly 60% in a year as content concerns spook advertisers",
+          "link": "https://www.theguardian.com/technology/2026/jan/09/x-uk-revenues-drop-nearly-60-in-a-year-as-advertisers-pull-out-over-content-concerns",
+          "summary": "X verzeichnete 2024 im UK einen drastischen Umsatzrückgang von 58,3% auf £28,9m, da Großwerbetreibende aufgrund von Bedenken zur Markensicherheit und Inhaltsmoderation ihre Ausgaben reduzierten. Der Gewinn vor Steuern fiel von £2,2m auf £767,000, während gleichzeitig die Belegschaft um ein Drittel auf 76 Mitarbeiter reduziert wurde. Die jüngste Kontroverse um das KI-Tool Grok, das zur Erstellung sexuell expliziter Inhalte genutzt wurde, verschärfte die Advertiser-Flucht zusätzlich.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Golden Globes’ TV Awards Were Another Emmys Redux",
+          "link": "https://deadline.com/2026/01/golden-globes-tv-emmys-redux-the-pitt-studio-adolescence-1236680116/",
+          "summary": "Die Golden Globes 2026 wiederholten fast vollständig die Emmy-Gewinner vom September, mit nur zwei Ausnahmen in 11 TV-Kategorien. \"The Pitt\", \"The Studio\" und \"Adolescence\" dominierten erneut beide Award-Shows, wobei die meisten Hauptdarsteller-Preise identisch vergeben wurden. Diese Redundanz zwischen den beiden prestigeträchtigen TV-Awards setzt einen Trend fort, der bereits im Vorjahr zu beobachten war.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "‘The Studio’ Season 2 Starts Filming Next Week, Seth Rogen Confirms",
+          "link": "https://variety.com/2026/tv/news/the-studio-season-2-filming-next-week-seth-rogen-1236629116/",
+          "summary": "Seth Rogen bestätigte, dass die Dreharbeiten zur zweiten Staffel von Apple TV's \"The Studio\" nächste Woche beginnen, nachdem die Serie bei den Golden Globes als beste Comedy-/Musical-TV-Serie ausgezeichnet wurde. Die Produzenten planen, reale Ereignisse von den Golden Globes direkt in die neuen Episoden einzuarbeiten, einschließlich möglicher Cameo-Auftritte von Branchenpersönlichkeiten, die während der Veranstaltung auf das Team zugekommen sind. Die von Lionsgate produzierte Serie wird somit die Grenze zwischen Fiktion und Realität der Unterhaltungsindustrie weiter verwischen.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Golden Globes 2026 Winners: ‘One Battle After Another’ Earns 4 Awards, ‘Adolescence’ Leads TV",
+          "link": "https://variety.com/lists/golden-globes-2026-winners-one-battle-after-another/",
+          "summary": "Bei den 83rd Golden Globe Awards 2026 gewann die politische Satire \"One Battle After Another\" vier Auszeichnungen einschließlich bester Film (Musical/Comedy), während \"Hamnet\" über Shakespeares Familienleben als bestes Drama ausgezeichnet wurde. Die Netflix-Serie \"Adolescence\" führte im TV-Bereich mit vier Preisen, darunter beste Limited Series, wobei der 16-jährige Owen Cooper als jüngster Gewinner in seiner Kategorie Geschichte schrieb.",
+          "score": 10
         }
       ]
     }
