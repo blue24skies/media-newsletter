@@ -1,84 +1,315 @@
 {
   "newsletters": [
     {
-      "date": "2026-01-12",
+      "date": "2026-01-13",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Mainstream Media verlängert Fiction-Vertrag mit ZDF Studios",
-          "link": "https://www.dwdl.de/nachrichten/105150/mainstream_media_verlaengert_fictionvertrag_mit_zdf_studios/",
-          "summary": "Mainstream Media hat seinen Fiction-Vertrag mit ZDF Studios für die kommenden Jahre verlängert und sichert sich damit weiterhin bekannte Serien und Filme wie \"Inga Lindström\", \"Das Traumschiff\" und \"Der Bergdoktor\" für die Pay-TV-Sender Romance TV und Heimatkanal. Die Partnerschaft bildet laut CEO Tim Werner das programmliche Fundament beider Sender und gewährleistet langfristige Planungssicherheit. ZDF Studios-CCO Tim Gerhartz sieht in der Verlängerung ein Signal für Kontinuität in der seit Jahren bestehenden vertrauensvollen Zusammenarbeit.",
+          "title": "Paramount will WBD verklagen und Hauptversammlung torpedieren",
+          "link": "https://www.dwdl.de/nachrichten/105161/paramount_will_wbd_verklagen_und_hauptversammlung_torpedieren/",
+          "summary": "Paramount Skydance verklagt Warner Bros. Discovery wegen angeblich vorenthaltener Informationen im laufenden Übernahmekampf und wirft dem WBD-Management einen unfairen Verkaufsprozess zugunsten des konkurrierenden Netflix-Angebots vor. Während Netflix nur das Studio- und Streaminggeschäft übernehmen will, bietet Paramount 108 Milliarden Dollar für den gesamten WBD-Konzern. Die Entscheidung liegt nun bei den WBD-Aktionären, die bis zum 21. Januar Zeit haben, das Paramount-Angebot anzunehmen und damit den bereits geschlossenen Netflix-Deal zu torpedieren.",
           "score": 10
         },
         {
-          "source": "Horizont Medien",
-          "title": "Fakten, Fraud, Fehlsteuerung: AGF-Zahlen 2025: Wenn Transparenz zum Nachteil im Werbemarkt wird",
-          "link": "https://www.horizont.net/medien/kommentare/fakten-fraud-fehlsteuerung-agf-zahlen-2025-wenn-transparenz-zum-nachteil-im-werbemarkt-wird-232687?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die AGF-Zahlen 2025 zur TV- und Videonutzung demonstrieren den fortgeschrittenen Stand des deutschen Marktes in Bezug auf Transparenz, Vergleichbarkeit und Messlogik. Gleichzeitig offenbaren sie ein grundlegendes Problem: Der Werbemarkt erkennt und nutzt diese methodischen Errungenschaften noch nicht ausreichend. Die Daten werden somit zu einem Paradoxon, bei dem hohe Transparenz im Werbemarkt eher zum Nachteil als zum Vorteil wird.",
+          "source": "DWDL",
+          "title": "Vergünstigte Abos: Lidl startet Zusammenarbeit mit Dyn",
+          "link": "https://www.dwdl.de/nachrichten/105159/verguenstigte_abos_lidl_startet_zusammenarbeit_mit_dyn/",
+          "summary": "Lidl bietet seit dieser Woche über seine Lidl-Plus-App den Sport-Streamingdienst Dyn zu vergünstigten Konditionen für 9,99 Euro monatlich an (regulär ca. 20 Euro), wobei der Preis durch Lidl-Einkäufe auf bis zu 4,99 Euro reduziert werden kann. Die Kooperation zwischen dem Discounter und dem Sport-Streaming-Anbieter erfolgt nach dem Einstieg der Schwarz Gruppe bei Dyn Media und startet passend zur Handball-EM, die Dyn vollständig überträgt. Das Angebot zielt darauf ab, Dyn's Sportprogramm (Handball, Basketball, Volleyball, Tischtennis, Hockey) einem breiteren Publikum zugänglich zu machen und Lidl-Kunden für ihre Treue zu belohnen.",
           "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "Open Web &amp; Identifier: Jetzt schalten sich Seven-One Media und Ströer in die ID-Debatte ein",
-          "link": "https://www.horizont.net/medien/nachrichten/open-web--identifier-jetzt-schalten-sich-seven-one-media-und-stroeer-in-die-id-debatte-ein-232685?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Seven-One Media und Ströer positionieren sich in der aktuellen Branchendebatte um ID-Systeme zur Stärkung des Open Web. Die Diskussion dreht sich um die Frage, ob primär Advertiser oder Publisher für die Implementierung von Identifier-Systemen verantwortlich sind. Publisher und ihre Vermarkter sehen sich bereits gut für die anstehenden Veränderungen gerüstet.",
+          "source": "DWDL",
+          "title": "Tele 5 holt \"The Expanse\" erstmals ins deutsche Free-TV",
+          "link": "https://www.dwdl.de/nachrichten/105158/tele_5_holt_the_expanse_erstmals_ins_deutsche_freetv/",
+          "summary": "Tele 5 bringt ab 2. Februar die Science-Fiction-Serie \"The Expanse\" erstmals ins deutsche Free-TV und zeigt montags ab 22:30 Uhr jeweils zwei Folgen der ersten drei Staffeln (36 Episoden), die ursprünglich von Syfy produziert wurden. Die Serie, die nach Syfy-Absetzung 2018 von Prime Video fortgeführt wurde, spielt 200 Jahre in der Zukunft in einem besiedelten Sonnensystem voller politischer Spannungen zwischen Erde, Mars und den Beltern. Dies ergänzt Tele 5s Sci-Fi-Programm nach der kürzlich angekündigten Free-TV-Premiere von \"Star Trek: Strange New Worlds\".",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Sportsender profitieren stark von \"Wir kaufen dein Auto\"-Werbung",
+          "link": "https://www.dwdl.de/aeos/105154/sportsender_profitieren_stark_von_wir_kaufen_dein_autowerbung/",
+          "summary": "\"Wir kaufen dein Auto\" erreichte in der ersten Januarwoche 2026 mit 1.458 TV-Spots eine Bruttoreichweite von 463 XRP und Rang 6 der Werbecharts, wobei die Kampagne seit Jahresbeginn deutlich intensiviert wurde. Die Werbeoffensive konzentrierte sich hauptsächlich auf kleinere Sportsender wie Sport1 (9,2% aller Spots) und Eurosport (9,1%), während der Bruttowerbewert bei 1,9 Millionen Euro lag. Reichweitenstärkste Marke war MetaFlow mit 672 XRP vor Rewe und Wick.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Mischke macht Dokuserie über NS-Familiengeschichten im ZDF",
+          "link": "https://www.dwdl.de/nachrichten/105153/mischke_macht_dokuserie_ueber_nsfamiliengeschichten_im_zdf/",
+          "summary": "Das ZDF strahlt am 21. Januar die dreiteilige Dokuserie \"German Guilt\" aus, in der Thilo Mischke zusammen mit Katja Riemann und Ronja von Rönne ihre NS-Familiengeschichten aufarbeitet. Die Serie kombiniert persönliche Spurensuche mit historischen Recherchen und KI-unterstützten Animationen alter Dokumente und Fotos. Für Mischke bedeutet das Projekt eine berufliche Neuorientierung nach dem gescheiterten ARD-Engagement bei \"ttt\".",
           "score": 9
         },
         {
+          "source": "DWDL",
+          "title": "Beetz Brothers stellen sich mit sechs Labels neu auf",
+          "link": "https://www.dwdl.de/nachrichten/105152/beetz_brothers_stellen_sich_mit_sechs_labels_neu_auf/",
+          "summary": "Die Beetz Brothers film production GmbH (Leonine-Tochter) strukturiert sich 2026 mit sechs spezialisierten Labels neu: beetz:Music, beetz:Factual, beetz:Investigativ, beetz:Sports, beetz:Queer und beetz:Originals, die jeweils von eigenen Teams betreut werden. Zum Launch starten bereits drei Produktionen: \"Trumps Amerika\" (Arte, 13.1.), \"My Make or Break\" (ZDF, 19.1.) und \"Powerplay – Das beste Eishockey-Team für Olympia\" (ARD, 24.1.). Das Unternehmen tritt künftig unter dem Slogan \"Entertainment that resonates\" auf.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "Golden Globes: Gleich vier Auszeichnungen für \"Adolescence\"",
+          "link": "https://www.dwdl.de/nachrichten/105146/golden_globes_gleich_vier_auszeichnungen_fuer_adolescence/",
+          "summary": "Bei den Golden Globes 2026 dominierte die Netflix-Miniserie \"Adolescence\" mit vier Auszeichnungen, darunter beste Miniserie sowie Preise für Stephen Graham (Hauptdarsteller), den 16-jährigen Owen Cooper (jüngster Nebendarsteller-Preisträger aller Zeiten) und Erin Doherty (Nebendarstellerin). In den anderen TV-Kategorien gewannen \"The Pitt\" (HBO) als beste Dramaserie und \"The Studio\" (Apple TV+) als beste Comedyserie, wobei letztere sogar die Golden-Globe-Verleihung in einer Folge thematisiert hatte.",
+          "score": 8
+        },
+        {
           "source": "Horizont Medien",
-          "title": "Subtile Verschiebungen und stabile Muster: Was die aktuelle TV-Nutzung für dieses Jahr signalisiert",
-          "link": "https://www.horizont.net/medien/kommentare/subtile-verschiebungen-und-stabile-muster-was-die-aktuelle-tv-nutzung-fuer-dieses-jahr-signalisiert-232672?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die TV-Nutzung in Deutschland 2025 war von subtilen Verschiebungen bei gleichzeitig stabilen Grundmustern geprägt. Samsung Ads analysiert in ihrem \"Behind the Screens\"-Report diese Entwicklungen und leitet daraus Trends für 2026 ab. Die Erkenntnisse sollen Fachleuten Orientierung für strategische Entscheidungen im kommenden Jahr geben.",
+          "title": "Kampf gegen Streaming-Riese: Paramount klagt gegen Übernahme von Warner durch Netflix",
+          "link": "https://www.horizont.net/medien/nachrichten/kampf-gegen-streaming-riese-paramount-klagt-gegen-uebernahme-von-warner-durch-netflix-232706?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Paramount hat eine Klage gegen Warner Bros. eingereicht und fordert detaillierte Informationen zur Management-Entscheidung, das Netflix-Übernahmeangebot zu bevorzugen. Das Unternehmen hofft, durch rechtliche Schritte die geplante Akquisition von Warner Bros. durch den Streaming-Riesen noch zu verhindern. Die Klage ist Teil einer intensiven Bieterschlacht um die Zukunft der Hollywood-Landschaft.",
           "score": 10
         },
         {
-          "source": "meedia",
-          "title": "Ein Kommentar von Florian Hanke, Hybrid GEO frisst SEO: Warum KI das Suchmaschinen-Zeitalter...",
-          "link": "https://meedia.de/news/beitrag/20891-geo-frisst-seo-warum-ki-das-suchmaschinen-zeitalter-beendet-zumindest-im-b2b.html",
-          "summary": "Eine Forrester-Studie zeigt, dass fast zwei Drittel der B2B-Käufer aus den Generationen Y und Z bereits zu 90% KI-Tools wie ChatGPT in Kaufprozessen nutzen, wodurch Google seinen Status als erste Anlaufstelle im B2B verliert. KI wird zum primären Touchpoint im B2B-Commerce, da sie komplexe gewerbliche Suchanfragen durch Kontextverständnis und Musteranalyse besser bewältigt als traditionelle keyword-basierte Suchmaschinen. Dies erfordert von Unternehmen eine strategische Neuausrichtung, da klassische SEO-Methoden nicht mehr ausreichen.",
+          "source": "Horizont Medien",
+          "title": "&quot;That feed is dead&quot;: Die 10 Creator-Tipps für 2026 von Instagram-Chef Adam Mosseri",
+          "link": "https://www.horizont.net/medien/nachrichten/that-feed-is-dead-adam-mosseris-10-creator-tipps-fuer-instagram-2026-232698?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Instagram-Chef Adam Mosseri erklärt den perfekt kuratierten Feed für tot, da KI-generierte Bilder die visuelle Perfektion jederzeit künstlich erzeugen können. Statt auf das Entlarven falscher Inhalte zu setzen, favorisiert er langfristig die technische Signierung echter Inhalte durch kryptografische Verfahren. In der neuen Plattformlogik werden Vertrauen, Kontext und die Glaubwürdigkeit der Absender wichtiger als die bisherige visuelle Perfektion.",
           "score": 7
         },
         {
-          "source": "Guardian Media",
-          "title": "Publishers fear AI search summaries and chatbots mean ‘end of traffic era’",
-          "link": "https://www.theguardian.com/media/2026/jan/12/publishers-fear-ai-search-summaries-and-chatbots-mean-end-of-traffic-era",
-          "summary": "Medienunternehmen erwarten einen dramatischen Rückgang der Suchmaschinenverweise um 43% in den nächsten drei Jahren, da KI-Zusammenfassungen und Chatbots das Nutzerverhalten im Internet grundlegend verändern. Der Suchverkehr zu Nachrichtenseiten ist bereits um ein Drittel innerhalb eines Jahres eingebrochen, wobei Lifestyle-, Prominenten- und Reiseinhalte stärker betroffen sind als aktuelle Nachrichten. Als Reaktion planen Medienunternehmen, ihre Journalisten zu ermutigen, sich mehr wie Content-Ersteller auf Plattformen wie YouTube und TikTok zu verhalten.",
+          "source": "Horizont Medien",
+          "title": "Abopreise, Top-Serien und Co: HBO Max: Was Sie zum Start des US-Streamingdienstes wissen müssen",
+          "link": "https://www.horizont.net/medien/nachrichten/abopreise-top-serien-und-co-hbo-max-was-sie-zum-start-des-us-streamingdienstes-wissen-muessen-232690?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "HBO Max startet am Dienstag offiziell in Deutschland mit einem Portfolio aus HBO-Serien, Blockbustern, DC-Content und Live-Sport. Der Streamingdienst bietet verschiedene Abo-Modelle und setzt neben internationalen Hits auch auf deutsche Original-Inhalte. Der Launch erweitert die deutsche Streaming-Landschaft um einen weiteren Premium-Anbieter mit exklusiven Inhalten.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Social Media killed the Video Star: Welche Rolle Musikvideos heute noch spielen",
+          "link": "https://www.horizont.net/medien/nachrichten/social-media-killed-the-video-star-welche-rolle-musikvideos-heute-noch-spielen-232661?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "MTV hat zum Jahreswechsel Musikvideos vollständig aus dem Programm entfernt, da der Sender gegen Streaming-Plattformen wie YouTube, TikTok und Spotify nicht mehr konkurrenzfähig war. Dies wirft grundsätzliche Fragen zur Zukunft von Musikvideos als Medienformat auf, während sich der Konsum zunehmend auf digitale Plattformen verlagert.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "US-Filmjournalisten-Preis: Vier Golden Globes für &quot;One Battle After Another&quot;",
+          "link": "https://www.horizont.net/medien/nachrichten/us-filmjournalisten-preis-vier-golden-globes-fuer-one-battle-after-another-232689?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Paul Thomas Andersons schwarzhumoriger Politthriller \"One Battle After Another\" dominierte die Golden Globes mit vier Auszeichnungen, darunter beste Komödie, Regie und bestes Drehbuch. Der Film mit Leonardo DiCaprio, Sean Penn und der prämierten Nebendarstellerin Teyana Taylor behandelt die Geschichte militanter linker Aktivisten und ging als Favorit mit neun Nominierungen ins Rennen.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Nach 13 Jahren bei WallDecaux: Das plant Jicky von Bechtolsheim im &quot;Schlaraffenland&quot; von Ströer",
+          "link": "https://www.horizont.net/medien/nachrichten/nach-13-jahren-bei-walldecaux-das-plant-jicky-von-bechtolsheim-im-schlaraffenland-von-stroeer-232671?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Jicky von Bechtolsheim wechselt nach über 13 Jahren von WallDecaux zum Konkurrenten Ströer, was in der Out-of-Home-Branche große Aufmerksamkeit erregt hat. Die Kreativstrategin sieht den Wechsel als bewussten Neuanfang mit einer klaren Mission bei ihrem neuen Arbeitgeber.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Die meistzitierten Medien 2025: Bild bleibt Taktgeber - Tagesspiegel zieht bei den Regionalzeitungen davon Roland Schatz und sein Media Tenor-Team haben zwischen Januar und Dezember 24.293 Zitate ausgewertet. Wer 2025 gewinnt, wer verliert, wie sich Regionalmedien schlagen",
+          "link": "https://kress.de/news/beitrag/151615-die-meistzitierten-medien-2025-bild-bleibt-taktgeber-tagesspiegel-zieht-bei-den-regionalzeitungen-davon.html",
+          "summary": "Die Bild-Gruppe dominiert laut Media Tenor-Analyse 2025 weiterhin als meistzitierte Medienmarke und baut ihre Führungsposition gegenüber Konkurrenten wie Spiegel, Handelsblatt und Süddeutsche Zeitung aus. Ein Großteil der Zitate resultiert aus der Horse-Race-Berichterstattung mit INSA-Umfragen, wobei die Überbetonung von AfD-Erfolgen kritisch bewertet wird. Bei den Regionalzeitungen setzt sich der Tagesspiegel als neue Spitzenmarke durch und wird häufiger im Politikteil zitiert als etablierte Konkurrenten.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Handelsblatt und Tagesspiegel starten strategische Partnerschaft",
+          "link": "https://kress.de/news/beitrag/151613-handelsblatt-und-tagesspiegel-starten-strategische-partnerschaft-morre-baut-gemeinsames-redaktionsteam-auf.html",
+          "summary": "Handelsblatt Media Group und Tagesspiegel starten im Frühjahr 2026 eine strategische Partnerschaft mit dem gemeinsamen \"Background Sicherheit und Verteidigung\" - dem ersten sicherheitspolitischen Briefing mit Wirtschafts- und Politikfokus im deutschsprachigen Raum. Charlotte Morré (Handelsblatt) verantwortet die Partnerschaft und baut ein gemeinsames Redaktionsteam auf, zudem werden die Gesundheits-Briefings beider Häuser im \"Tagesspiegel Background Gesundheit & E-Health\" vereint. Das Format richtet sich an Fach- und Führungskräfte in Ministerien, Behörden, Industrie und Forschung und soll die Komplexität der Branche im Transformationsprozess fundiert abbilden.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Börsen-Zeitung wechselt auf Montag-bis-Freitag-Rhythmus",
+          "link": "https://kress.de/news/beitrag/151614-neue-taktung-fuer-die-finanz-community-boersen-zeitung-wechselt-auf-montag-bis-freitag-rhythmus.html",
+          "summary": "Die Börsen-Zeitung stellt ihre Erscheinungsweise von Dienstag-Samstag auf Montag-Freitag um, um relevante Kapitalmarkt-Entwicklungen vom Wochenende bereits montagsfrüh einordnen zu können. Chefredakteur Sebastian Schmid plant weitere Reformen wie eine Newsletter-Überarbeitung und Website-Relaunch, um das Angebot stärker auf die beruflichen Informationsbedürfnisse der deutschen Finanzmarkt-Community auszurichten. Zusätzlich werden Kommentare und Meinungsbeiträge künftig farblich hervorgehoben, um eine klarere Trennung zwischen Berichterstattung und Meinung zu schaffen.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Leo Ginsburg gehört zu den Young Leadern des Jahres 2025",
+          "link": "https://kress.de/news/beitrag/151616-leo-ginsburg-gehoert-zu-den-young-leadern-des-jahres-2025.html",
+          "summary": "Leo Ginsburg (29) wurde von kress pro als einer der 25 Young Leaders des Jahres 2025 ausgezeichnet und leitet seit Juni das Start-up-Magazin „Gründerszene\" bei Axel Springer. Der Wirtschaftsjournalist durchlief eine klassische Springer-Laufbahn über die Axel Springer Akademie, „Bild\" und „Business Insider\" und hostet zusätzlich den Podcast „Business Class\". Die Auszeichnung würdigt Führungskräfte unter 35 Jahren mit Personalverantwortung in der Medienbranche.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Madsack sucht Volontär für RedaktionsNeztwerk Deutschland in Hannover Das RedaktionsNetzwerk Deutschland (RND) sucht Nachwuchs für den überregionalen Journalismus: Zum 1. Oktober 2026 startet ein zweijähriges Volontariat (d/m/w) am Standort Hannover. Bewerbungen sind bis zum 31. März 2026 möglich. Träger ist Madsack",
+          "link": "https://kress.de/news/beitrag/151612-madsack-sucht-volontaer-fuer-redaktionsneztwerk-deutschland-in-hannover.html",
+          "summary": "Das RedaktionsNetzwerk Deutschland (RND) von Madsack schreibt ein zweijähriges Volontariat für überregionalen Journalismus aus, das am 1. Oktober 2026 in Hannover startet. Die Ausbildung umfasst Volokurse am Madsack Mediencampus sowie praktische Redaktionsarbeit mit Fokus auf nationale und internationale Themen, Recherche und Mobile Reporting. Bewerbungen sind bis zum 31. März 2026 möglich, wobei auch Quereinsteiger ohne klassischen Medien-Lebenslauf ausdrücklich erwünscht sind.",
+          "score": 9
+        },
+        {
+          "source": "kress",
+          "title": "5 Anzeichen, dass Sie bereit sind für den Aufstieg Mit dem Jahresanfang verbindet sich immer auch...",
+          "link": "https://kress.de/news/beitrag/151608-karrierepotenzial-5-anzeichen-dass-sie-bereit-sind-fuer-den-aufstieg.html",
+          "summary": "Der Artikel von Karrierecoach Attila Albert identifiziert fünf Anzeichen dafür, dass Medienberufstätige für eine Beförderung bereit sind, wobei konstante Spitzenleistungen und das Gefühl, in einer \"zu niedrigen Liga zu spielen\" zentrale Indikatoren darstellen. Laut einer Studie wurde jeder dritte Arbeitnehmer noch nie befördert, oft nicht aufgrund mangelnder Qualifikation, sondern fehlender Erkennung des Potenzials durch Vorgesetzte. Als Kriterien für Beförderungsreife nennt Albert unter anderem überdurchschnittliche Ergebnisse bei Themenideen, exklusiver Recherche und Content-Performance sowie die routinierte Beherrschung aktueller Aufgaben.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Friederike Marie Föll gehört zu den Young Leadern des Jahres 2025 kress präsentiert in einer Serie...",
+          "link": "https://kress.de/news/beitrag/151610-friederike-marie-foell-gehoert-zu-den-young-leadern-des-jahres-2025.html",
+          "summary": "Friederike Marie Föll (34) wurde von kress zu den \"25 Young Leaders des Jahres 2025\" gekürt und leitet als Head of Business Transformation & Strategy beim BurdaVerlag die strategische Unternehmensentwicklung und digitale Transformation. Nach ihrem Wechsel aus der Anwaltschaft über die Funke Mediengruppe zu Burda gestaltet sie dort neue Geschäftsmodelle und Organisationsentwicklung mit. Sie rät Nachwuchskräften, früh Verantwortung zu übernehmen und Veränderungen als Chance zu begreifen.",
+          "score": 9
+        },
+        {
+          "source": "kress",
+          "title": "Funke baut M&A-Team mit Florian Kroll aus Die Funke Mediengruppe verstärkt ihr M&A-Engagement:...",
+          "link": "https://kress.de/news/beitrag/151609-nach-neun-uebernahmen-in-2025-funke-baut-m-amp-a-team-mit-florian-kroll-aus.html",
+          "summary": "Die Funke Mediengruppe verstärkt ihr M&A-Team durch die Beförderung von Florian Kroll zum Principal Manager M&A, der zuvor als Senior Projektmanager in der Konzerngeschäftsführung für Post-Merger-Integration zuständig war. Das Unternehmen hat 2025 bereits neun Übernahmen abgeschlossen, darunter zuletzt wetter.com, und positioniert sich aktiv als Käufer zur Portfolio-Diversifikation. Das M&A-Team wird von Eva Heneweer geleitet und ist direkt der Konzerngeschäftsführerin Simone Kasik unterstellt.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Madsack Medien Campus sucht Volontär für Lokalredaktion in Hannover Der Madsack Medien Campus sucht Nachwuchs für den Lokaljournalismus: Zum 1.",
+          "link": "https://kress.de/news/beitrag/151607-madsack-medien-campus-sucht-volontaer-fuer-lokalredaktion-in-hannover.html",
+          "summary": "Der Madsack Medien Campus sucht zum 1. Oktober 2026 Volontäre für die Lokalredaktionen der Mediengruppe mit einer zweijährigen Ausbildung, die Volokurse, Praxiseinsätze in lokalen Teams und eine Station beim RedaktionsNetzwerk Deutschland umfasst. Die kanalübergreifende Ausbildung (Print, Online, Social, Mobile) richtet sich explizit auch an Quereinsteiger ohne klassischen Medien-Lebenslauf und bietet Einsätze bei verschiedenen Regionaltiteln wie HAZ, LVZ oder Kieler Nachrichten. Bewerbungsschluss ist der 31. März 2026.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Neuer Streamingdienst HBO Max feiert Deutschlandpremiere mit einem Ritterlager à la Westeros Große...",
+          "link": "https://meedia.de/news/beitrag/20902-hbo-max-feiert-deutschlandpremiere-mit-einem-ritterlager-a-la-westeros.html",
+          "summary": "HBO Max startet seinen Deutschlandmarkt-Launch mit einer Fan-Aktivierung in Form eines Game of Thrones-Ritterlagers im Atrium der Mall of Berlin, um für das neue Prequel \"A Knight of the Seven Kingdoms\" zu werben. Die Kampagne wurde von der Berliner Agentur XY konzipiert und soll Aufmerksamkeit für den Serienstart am 19. Januar generieren. Das interaktive Event ermöglicht es Besuchern, selbst in die Westeros-Welt einzutauchen und markiert einen unkonventionellen Ansatz für den Streaming-Dienst-Launch in Deutschland.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Vertriebspartnerschaft Günstiges Dyn-Monatsabo für Plus-Kunden von Lidl Der Discounter Lidl kooperiert mit Dyn.",
+          "link": "https://meedia.de/news/beitrag/20901-guenstiges-dyn-monatsabo-fuer-plus-kunden-von-lidl.html",
+          "summary": "Lidl bietet seinen Plus-App-Nutzern ab dem 12. Januar das Dyn-Monatsabo für maximal 9,99 Euro statt regulär 19,50 Euro an, wobei bei höherem Einkaufsvolumen weitere Rabatte bis auf 4,99 Euro möglich sind. Die Vertriebskooperation zielt auf die Handball-Europameisterschaft ab, die Dyn vollständig übertragen wird. Der 2022 von Ex-DFL-Chef Christian Seifert gegründete Sport-Streamer, an dem die Schwarz Gruppe (Lidl) mit 42,5% beteiligt ist, spezialisiert sich auf Sportarten jenseits des Fußballs.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Digitales Bewegtbild Internationale Social-Media-Agentur Little Dot stärkt Content und digitales...",
+          "link": "https://meedia.de/news/beitrag/20900-internationale-social-media-agentur-little-dot-staerkt-content-und-digitales-mediennetzwerk.html",
+          "summary": "Little Dot Studios Deutschland befördert Marco Wagner zum Head of Distribution & Content Strategy und Thomas Konnerth zum Head of Network Germany. Wagner verantwortet künftig die Content-Strategie für Marken- und Medienpartner sowie datengetriebene Inhalte, während Konnerth das deutsche digitale Mediennetzwerk mit rund 30 Kanälen auf YouTube und anderen Plattformen ausbauen soll. Die Personalentscheidungen zielen darauf ab, die Marktposition der Social-Media-Agentur im deutschsprachigen Raum zu stärken.",
           "score": 8
         },
         {
           "source": "Guardian Media",
-          "title": "Netflix and Paramount deals are both wrong for Warner Bros Discovery – and democracy | Courtney C Radsch",
-          "link": "https://www.theguardian.com/commentisfree/2026/jan/11/netflix-paramount-warner-bros-discovery-democracy",
-          "summary": "Netflix ($82,7 Mrd.) und Paramount Skydance ($108 Mrd.) konkurrieren um die Übernahme von Warner Bros Discovery, was laut der Autorin beide Male eine gefährliche Machtkonzentration im Medienbereich darstellen würde. Die Deals erfolgen in einem politischen Umfeld, in dem Trump öffentlich den Verkauf von CNN fordert und die neue Regierung Fusionsverfahren zur Durchsetzung redaktioneller Zugeständnisse instrumentalisiert. Beide Übernahmen bedrohen nach Einschätzung der Autorin die Meinungsfreiheit und demokratische Medienvielfalt durch beispiellose Konzentration der Kontrolle über amerikanische Medieninhalte.",
+          "title": "After the Bondi attack, a deepfaked Guardian video went viral. It won't be the last – video",
+          "link": "https://www.theguardian.com/australia-news/video/2026/jan/13/bondi-attack-deepfake-guardian-ai-viral-video-ntwnfb",
+          "summary": "Nach dem Bondi-Anschlag verbreitete sich ein Deepfake-Video viral, das die australische Bundespolizei-Kommissarin Krissy Barrett bei der falschen Behauptung zeigte, vier indische Staatsangehörige seien verhaftet worden – das Video nutzte Guardian-Branding und basierte auf echtem Presskonferenz-Material vom Dezember. Obwohl Faktenchecker das Video als Fälschung kennzeichneten, wurde es bereits hunderttausende Male angesehen und verdeutlicht die zunehmende Einfachheit der Deepfake-Erstellung. Der Vorfall illustriert die wachsende Bedrohung durch KI-generierte Desinformation in Krisensituationen.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "X UK revenues drop nearly 60% in a year as content concerns spook advertisers",
-          "link": "https://www.theguardian.com/technology/2026/jan/09/x-uk-revenues-drop-nearly-60-in-a-year-as-advertisers-pull-out-over-content-concerns",
-          "summary": "X verzeichnete 2024 im UK einen drastischen Umsatzrückgang von 58,3% auf £28,9m, da Großwerbetreibende aufgrund von Bedenken zur Markensicherheit und Inhaltsmoderation ihre Ausgaben reduzierten. Der Gewinn vor Steuern fiel von £2,2m auf £767,000, während gleichzeitig die Belegschaft um ein Drittel auf 76 Mitarbeiter reduziert wurde. Die jüngste Kontroverse um das KI-Tool Grok, das zur Erstellung sexuell expliziter Inhalte genutzt wurde, verschärfte die Advertiser-Flucht zusätzlich.",
+          "title": "David Letterman calls CBS News a ‘wreck’ under newly installed leadership",
+          "link": "https://www.theguardian.com/media/2026/jan/12/david-letterman-cbs-news-bari-weiss",
+          "summary": "David Letterman hat CBS News unter der neuen Führung scharf kritisiert und die Nachrichtenabteilung als \"Wrack\" bezeichnet, das die jahrzehntelange Integrität des Senders zerstört habe. Seine Äußerungen fallen in eine Zeit umfassender Veränderungen bei CBS News im Zuge der finalisierten Fusion der Muttergesellschaft Paramount mit Skydance Media. Zuvor hatte Paramount bereits eine 16-Millionen-Dollar-Einigung mit Donald Trump über ein umstrittenes 60 Minutes-Interview erreicht.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "UK media regulator investigating Elon Musk’s X after outcry over sexualised AI images",
+          "link": "https://www.theguardian.com/technology/2026/jan/12/ofcom-investigating-x-outcry-sexualised-ai-images-grok-elon-musk",
+          "summary": "Die britische Medienaufsichtsbehörde Ofcom hat eine formelle Untersuchung gegen Elon Musks X-Plattform eingeleitet, nachdem Musks KI-Tool Grok zur Erstellung sexualisierter Bilder von Frauen und Kindern durch digitales Entfernen von Kleidung missbraucht wurde. Die Untersuchung erfolgt unter dem Online Safety Act von 2023 mit höchster Priorität und könnte zu Sanktionen bis hin zu einem UK-weiten Verbot der Plattform führen. Technologie-Ministerin Liz Kendall bezeichnete die Inhalte als \"abscheulich und illegal\" und sicherte Ofcom die volle Regierungsunterstützung zu.",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Paramount to nominate directors to Warner Bros board to vote against Netflix deal",
+          "link": "https://www.theguardian.com/business/2026/jan/12/paramount-to-nominate-directors-to-warner-bros-board-to-vote-against-netflix-deal",
+          "summary": "Paramount nomminiert Direktoren für den Warner Bros Discovery-Vorstand, um gegen das 82,7-Milliarden-Dollar-Netflix-Übernahmegeschäft zu stimmen, das WBDs Vermögenswerte wie Warner Bros Studios und HBO umfasst. Das Unternehmen startet einen Proxy-Kampf und reicht eine Klage zur Offenlegung von Finanzinformationen ein, während es gleichzeitig ein eigenes 108,4-Milliarden-Dollar-Übernahmeangebot für WBD verfolgt, das durch Larry Ellisons 40-Milliarden-Dollar-Garantie abgesichert ist. Die Entscheidung wird voraussichtlich bei WBDs Jahresversammlung im Juni fallen.",
+          "score": 10
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Influencers and OnlyFans models are dominating O-1 visa requests: ‘This is the American dream now’",
+          "link": "https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa",
+          "summary": "Influencer und OnlyFans-Models nutzen zunehmend ihre hohen Followerzahlen, um O-1 Visa für \"außergewöhnliche Fähigkeiten\" zu beantragen, wobei die Anzahl der gewährten O-1 Visa zwischen 2014 und 2024 um 50% gestiegen ist. Content Creator wie die 25-jährige Julia Ain mit 1,3 Millionen Followern sehen dies als zeitkritische Chance, schnell Geld zu verdienen und den \"amerikanischen Traum\" zu verwirklichen. Diese Entwicklung zeigt, wie sich die Definition von \"außergewöhnlichen Fähigkeiten\" im digitalen Zeitalter gewandelt hat und Social Media Erfolg als Qualifikationskriterium für US-Arbeitsvisa anerkannt wird.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Ban social media for under-16s, top teaching union urges UK government",
+          "link": "https://www.theguardian.com/media/2026/jan/11/ban-social-media-for-under-16s-top-teaching-union-urges-uk-government",
+          "summary": "Die NASUWT, eine der größten Lehrergewerkschaften Großbritanniens, fordert die Regierung auf, Social Media für unter 16-Jährige zu verbieten und Big-Tech-Unternehmen bei Verstößen zu sanktionieren. Die Gewerkschaft begründet dies mit wachsenden Belegen für negative Auswirkungen auf Verhalten, Konzentrationsfähigkeit und psychische Gesundheit von Schülern sowie der Exposition gegenüber gewalttätigen und sexuell expliziten Inhalten. Der Vorstoß folgt Australiens Vorreiterrolle mit einem entsprechenden Verbot im vergangenen Monat, dessen Wirksamkeit jedoch noch nicht etabliert ist.",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Elon Musk’s X threatened with UK ban over wave of indecent AI images",
+          "link": "https://www.theguardian.com/technology/2026/jan/09/musks-x-ordered-by-uk-government-to-tackle-wave-of-indecent-imagery-or-face-ban",
+          "summary": "Die britische Medienaufsicht Ofcom droht X mit einem Verbot, nachdem die Plattform von KI-generierten indezenten Bildern von Frauen und Kindern überflutet wurde. X beschränkte daraufhin die Bildgenerierung seines Grok-AI-Tools auf zahlende Abonnenten, doch Regierungsvertreter und Experten kritisieren diese Maßnahme als unzureichend. Ofcom fordert binnen \"Tagen, nicht Wochen\" weitergehende Schritte von der Plattform.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "Golden Globes’ TV Awards Were Another Emmys Redux",
-          "link": "https://deadline.com/2026/01/golden-globes-tv-emmys-redux-the-pitt-studio-adolescence-1236680116/",
-          "summary": "Die Golden Globes 2026 wiederholten fast vollständig die Emmy-Gewinner vom September, mit nur zwei Ausnahmen in 11 TV-Kategorien. \"The Pitt\", \"The Studio\" und \"Adolescence\" dominierten erneut beide Award-Shows, wobei die meisten Hauptdarsteller-Preise identisch vergeben wurden. Diese Redundanz zwischen den beiden prestigeträchtigen TV-Awards setzt einen Trend fort, der bereits im Vorjahr zu beobachten war.",
+          "title": "BBC Will Attempt To Throw Out Donald Trump’s $10BN Lawsuit",
+          "link": "https://deadline.com/2026/01/bbc-throw-out-donald-trump-lawsuit-panorama-edit-1236681413/",
+          "summary": "Die BBC versucht Donald Trumps 10-Milliarden-Dollar-Klage wegen einer fehlerhaften Panorama-Dokumentation abweisen zu lassen, mit der Begründung, dass das Gericht in Florida keine Zuständigkeit habe und Trump keinen gültigen Anspruch dargelegt habe. Trump verklagt den Sender wegen einer umstrittenen Bearbeitung seiner Rede vom 6. Januar, die den Eindruck erweckte, er würde zu Aufruhr anstiften - ein Vorfall, der zum Rücktritt von BBC-Generaldirektor Tim Davie und Nachrichtenchefin Deborah Turness führte. Die BBC bestreitet böswillige Absicht und will alle weiteren Beweisverfahren vorerst aussetzen lassen.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "HBO Max Nears Complete Euro Rollout With Prime Video Deal In Place For Germany, Italy & Austria",
+          "link": "https://deadline.com/2026/01/hbo-max-europe-launches-prime-video-deal-1236680546/",
+          "summary": "HBO Max startet heute in acht weiteren europäischen Ländern (Deutschland, Österreich, Italien, Schweiz, Luxemburg, Liechtenstein, Israel, Griechenland) und erreicht damit über 100 Territorien weltweit. In Deutschland, Österreich und Italien wird der Service durch eine mehrjährige Partnerschaft als Add-on über Amazon Prime Video vertrieben, ergänzend zu lokalen Bundling-Deals mit RTL+ und anderen regionalen Anbietern. Nach den noch ausstehenden Launches in UK und Irland Ende März wird HBO Max vollständig in Europa verfügbar sein.",
+          "score": 10
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Tell Me Lies’: Grace Van Patten, Jackson White & Showrunner Meaghan Oppenheimer Reveal Why “All Their Demons Come Out” In Season 3 Plus Diana’s Surprise",
+          "link": "https://deadline.com/2026/01/tell-me-lies-season-3-grace-van-patten-interview-1236681132/",
+          "summary": "Die dritte Staffel von Hulus \"Tell Me Lies\" startet mit einem überraschenden dritten Episoden-Drop und zeigt die toxische Beziehung zwischen Stephen (Jackson White) und Lucy (Grace Van Patten) in ihrer destruktivsten Form. Laut den Hauptdarstellern versuchen beide Charaktere ihre Beziehung zum Funktionieren zu bringen, sind aber so beschädigt, dass ihre \"Dämonen\" hervorkommen - Stephen kann nur durch Verletzen eine Verbindung herstellen, während Lucy in Verleugnung gefangen ist. Die Staffel wird als dunkler und verdrehter als die vorherigen beschrieben, wobei ein gemeinsames Geheimnis beide Charaktere und ihr Umfeld in anhaltende Panik versetzt.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "NFL Playoffs Schedule: How To Watch All Divisional Round Games Live Online & On TV",
+          "link": "https://deadline.com/2026/01/nfl-playoffs-schedule-watch-divisional-roungames-online-tv-1236681378/",
+          "summary": "Die NFL Divisional Round 2025 findet am 17. und 18. Januar mit acht verbleibenden Teams statt, darunter die Top-Seeded Teams Seattle Seahawks (NFC) und Denver Broncos (AFC). Die Spiele werden auf CBS/Paramount+, Fox/Fox One, ESPN/ABC/ESPN+ und NBC/Peacock übertragen. Die vier Gewinner ziehen in die Championship Games ein, bevor Super Bowl LX am 8. Februar im Levi's Stadium in Santa Clara stattfindet.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Duffer Brothers Started Filming ‘Stranger Things’ Final Episode Without A Finished Script: “We Don’t Even Fully Know What’s Going On”",
+          "link": "https://deadline.com/2026/01/duffer-brothers-started-filming-stranger-things-final-episode-script-1236681369/",
+          "summary": "Die Duffer Brothers begannen die Dreharbeiten zur finalen Episode der 5. Staffel von \"Stranger Things\" ohne fertiges Drehbuch, obwohl die Handlung bereits geplant war. Laut der Netflix-Dokumentation \"One Last Adventure: The Making of Stranger Things 5\" führten Zeitdruck und der Druck von Produktion und Netflix zu den schwierigsten Schreibbedingungen ihrer Karriere. Die finale Episode \"The Rightside Up\" erforderte die längste Schreibzeit aller bisherigen Episoden der Serie.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Kokuho’ Director Lee Sang-il & Star Ken Watanabe On How Japan’s Oscar Entry Revived Moviegoing In The Country – Deadline Screening Series",
+          "link": "https://deadline.com/2026/01/kokuho-ken-watanabe-interview-1236681100/",
+          "summary": "Regisseur Lee Sang-il's Kabuki-Drama \"Kokuho\" wurde überraschend zum kommerziellen Blockbuster in Japan und spielte über 120 Millionen Dollar ein, womit es zum erfolgreichsten lokalen Film der letzten 22 Jahre wurde. Der dreistündige Film mit Ken Watanabe folgt einem ehrgeizigen jungen Kabuki-Schauspieler, der nach dem Mord an seinem Yakuza-Vater von einem strengen Kabuki-Meister aufgenommen wird und besessen davon ist, ein \"Nationalschatz\" zu werden. Trotz des Nischensujets Kabuki-Theater resonierte der Film durch seine komplexen Charaktere, die an Oscar-prämierte Filme wie \"Der Pate\" erinnern, sowohl bei japanischen als auch internationalen Zuschauern.",
+          "score": 10
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "HBO Max Inks Prime Video Deals for Germany, Italy Rollout",
+          "link": "https://www.hollywoodreporter.com/business/business-news/hbo-max-prime-video-germany-italy-1236471864/",
+          "summary": "HBO Max expandiert mit dem Launch in Deutschland, Italien und weiteren europäischen Märkten, nachdem langfristige Verträge mit Sky dies zuvor verhindert hatten. Warner Bros. Discovery hat mehrjährige Vertriebsdeals mit Amazon Prime Video abgeschlossen, wodurch HBO Max als Add-on-Abonnement in den neuen Märkten sowie bestehenden europäischen Territorien verfügbar wird. Die Expansion markiert einen wichtigen Schritt für HBO Max, das als Nachzügler im europäischen Streaming-Markt nun Zugang zu einigen der größten Volkswirtschaften der Region erhält.",
+          "score": 10
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Connor Storrie Says He Was “Already Planning on Getting A New Job” Before ‘Heated Rivalry’ Blew Up on ’Late Night’ Debut",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-star-connor-storrie-late-night-seth-meyers-1236472000/",
+          "summary": "Connor Storrie, Hauptdarsteller der kanadischen queeren Hockey-Serie \"Heated Rivalry\", gab sein Late-Night-TV-Debüt bei Seth Meyers nach seinem Auftritt bei den Golden Globes 2026. Der 25-jährige Schauspieler erlebt derzeit einen kometenhaften Aufstieg und sprach über die breite Zielgruppe der Serie, die entgegen Erwartungen vor allem weibliche Zuschauer anzieht. Storrie betonte, dass die sportliche \"Jock\"-Rolle für ihn die größte Herausforderung der Serie darstellt.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Brittany Snow Teases “Wild” Death and “More Steamy” Scenes in ‘The Hunting Wives’ Season 2",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/brittany-snow-wild-death-the-hunting-wives-season-2-1236471979/",
+          "summary": "Brittany Snow kündigt für die zweite Staffel von Netflixs \"The Hunting Wives\" einen \"wilden\" Todesfall und intensivere erotische Szenen an, wobei sie betont, dass die neue Staffel die erste übertreffen wird. Die Schauspielerin warnt vor schockierenden Wendungen, die Fans gleichzeitig überraschen und verärgern könnten. Die Dreharbeiten zur zweiten Staffel der auf May Cobbs Roman basierenden Serie mit Snow und Malin Akerman sind derzeit im Gange.",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "‘The Studio’ Season 2 Starts Filming Next Week, Seth Rogen Confirms",
-          "link": "https://variety.com/2026/tv/news/the-studio-season-2-filming-next-week-seth-rogen-1236629116/",
-          "summary": "Seth Rogen bestätigte, dass die Dreharbeiten zur zweiten Staffel von Apple TV's \"The Studio\" nächste Woche beginnen, nachdem die Serie bei den Golden Globes als beste Comedy-/Musical-TV-Serie ausgezeichnet wurde. Die Produzenten planen, reale Ereignisse von den Golden Globes direkt in die neuen Episoden einzuarbeiten, einschließlich möglicher Cameo-Auftritte von Branchenpersönlichkeiten, die während der Veranstaltung auf das Team zugekommen sind. Die von Lionsgate produzierte Serie wird somit die Grenze zwischen Fiktion und Realität der Unterhaltungsindustrie weiter verwischen.",
-          "score": 7
+          "title": "HBO Max Rolls Out in 8 European Territories, Announces New Prime Video Bundling Deal",
+          "link": "https://variety.com/2026/tv/global/hbo-max-european-territories-prime-video-bundle-1236630025/",
+          "summary": "HBO Max expandiert heute in acht neue europäische Märkte (u.a. Deutschland, Italien, Österreich) und erweitert dabei seine bestehende Bundling-Partnerschaft mit Prime Video auf diese Territorien. Der Warner Bros. Discovery-Streamingdienst hat zusätzliche Distributionsdeals mit lokalen Anbietern wie RTL+, Waipu.tv, TIM und Swisscom abgeschlossen und plant den Launch in UK/Irland für Ende März 2026.",
+          "score": 10
         },
         {
           "source": "Variety",
-          "title": "Golden Globes 2026 Winners: ‘One Battle After Another’ Earns 4 Awards, ‘Adolescence’ Leads TV",
-          "link": "https://variety.com/lists/golden-globes-2026-winners-one-battle-after-another/",
-          "summary": "Bei den 83rd Golden Globe Awards 2026 gewann die politische Satire \"One Battle After Another\" vier Auszeichnungen einschließlich bester Film (Musical/Comedy), während \"Hamnet\" über Shakespeares Familienleben als bestes Drama ausgezeichnet wurde. Die Netflix-Serie \"Adolescence\" führte im TV-Bereich mit vier Preisen, darunter beste Limited Series, wobei der 16-jährige Owen Cooper als jüngster Gewinner in seiner Kategorie Geschichte schrieb.",
+          "title": "HBO Max Drops Trailer for First Italian Original, Marco Bellocchio’s ‘Portobello,’ as It Launches in Italy and Other Key European Markets (EXCLUSIVE)",
+          "link": "https://variety.com/2026/streaming/global/hbo-max-italian-original-marco-bellocchio-portobello-1236629303/",
+          "summary": "HBO Max startet heute in Italien und weiteren europäischen Märkten mit Marco Bellocchios Miniserie \"Portobello\" als italienischem Original-Content. Die sechsteilige Serie rekonstruiert den wahren Fall des TV-Moderators Enzo Tortora, der 1985 fälschlicherweise wegen Verbindungen zur Camorra verurteilt wurde. Hauptdarsteller Fabrizio Gifuni arbeitete bereits in Bellocchios vorheriger Serie \"Exterior Night\" über die Entführung Aldo Moros mit dem Regisseur zusammen.",
           "score": 10
+        },
+        {
+          "source": "Variety",
+          "title": "BBC to File Motion Seeking Dismissal of Trump’s $10 Billion Defamation Suit Over ‘Panorama’ Edit",
+          "link": "https://variety.com/2026/tv/news/bbc-trump-lawsuit-dismissal-motion-panorama-1236630008/",
+          "summary": "Die BBC wird einen Antrag auf Abweisung von Donald Trumps 10-Milliarden-Dollar-Verleumdungsklage stellen, die sich auf die kontroverse Bearbeitung seiner Rede vom 6. Januar 2021 in einer \"Panorama\"-Dokumentation bezieht. Die BBC argumentiert, dass das Gericht in Florida keine Zuständigkeit hat und Trump weder tatsächliche Schäden noch \"actual malice\" beweisen kann - beides zentrale Voraussetzungen im US-Verleumdungsrecht. Der Fall führte bereits zu den Rücktritten von BBC-Generaldirektor Tim Davie und Nachrichtenchefin Deborah Turness im November nach einem geleakten internen Memo.",
+          "score": 8
         }
       ]
     }
