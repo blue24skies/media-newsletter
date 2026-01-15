@@ -1,112 +1,308 @@
 {
   "newsletters": [
     {
-      "date": "2026-01-14",
+      "date": "2026-01-15",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Gespräche bestätigt: Fusionieren All3Media und Banijay?",
-          "link": "https://www.dwdl.de/nachrichten/105174/gespraeche_bestaetigt_fusionieren_all3media_und_banijay/",
-          "summary": "Banijay und All3Media befinden sich laut Reuters in fortgeschrittenen Fusionsgesprächen, wobei Banijay die Verhandlungen mit All3Media-Eigentümer RedBird IMI bestätigt hat. Eine Fusion würde einen der größten europäischen Produktionskonzerne mit einem kombinierten Umsatz von rund 5,7 Milliarden Euro schaffen und erhebliche Auswirkungen auf den deutschen Markt haben, wo beide Unternehmen über bedeutende Tochtergesellschaften verfügen. Trotz der bestätigten Gespräche ist noch keine finale Entscheidung getroffen worden.",
-          "score": 7
+          "title": "\"Stefan Raab Show\" geht trotz schwacher Quoten weiter",
+          "link": "https://www.dwdl.de/nachrichten/105185/stefan_raab_show_geht_trotz_schwacher_quoten_weiter/",
+          "summary": "RTL setzt die \"Stefan Raab Show\" trotz alarmierender Quotenentwicklung fort – die zwölf bisherigen Ausgaben erreichten im Schnitt weniger als acht Prozent Marktanteil (14-49 Jahre), mit einem Tiefstand von fünf Prozent vor Weihnachten. Neue Folgen starten ab 11. Februar mittwochs um 20:15 Uhr, wobei der Sender offenbar noch auf eine Trendwende hofft. Produktionsfirma-Chef Rosemann betont weiterhin den zentralen Stellenwert der Weekly-Show und verweist auf die kontinuierliche Arbeit am Format.",
+          "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Arno Müller hört nach 35 Jahren bei 104.6 RTL auf",
-          "link": "https://www.dwdl.de/nachrichten/105167/arno_mueller_hoert_nach_35_jahren_bei_1046_rtl_auf/",
-          "summary": "Arno Müller beendet nach 35 Jahren seine Tätigkeit als Moderator der Morningshow und Programmdirektor bei 104.6 RTL - ein rekordverdächtiger Zeitraum für eine deutsche Radio-Morningshow. Der 63-Jährige gibt die Moderation im Sommer ab und konzentriert sich bis Jahresende auf die Übergabe seiner Programmdirektor-Position, um sich mehr Raum für private Wünsche zu schaffen. RTL Audio Center Berlin startet eine offene Ausschreibung zur Nachfolge-Suche in der Medienbranche, um eine erfahrene Persönlichkeit für die strategische Neuprägung des Morgenprogramms zu finden.",
+          "title": "Langjähriger Studio-Hamburg-Chef Martin Willich gestorben",
+          "link": "https://www.dwdl.de/nachrichten/105183/langjaehriger_studiohamburgchef_martin_willich_gestorben/",
+          "summary": "Martin Willich, langjähriger Geschäftsführer von Studio Hamburg (1984-2011), ist am 14. Januar 2026 im Alter von 80 Jahren verstorben. Unter seiner Führung entwickelte sich das Unternehmen zu einem der größten deutschen Fernsehdienstleister, insbesondere durch die strategische Öffnung für private Sender. Willich war zudem von 1974 bis 1995 Mitglied der Hamburgischen Bürgerschaft und zweimaliger Bürgerschaftspräsident.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "\"The Voice Kids\" wechselt in Sat.1 auf neuen Sendeplatz",
+          "link": "https://www.dwdl.de/nachrichten/105181/the_voice_kids_wechselt_in_sat1_auf_neuen_sendeplatz/",
+          "summary": "Sat.1 verlegt \"The Voice Kids\" ab der 14. Staffel (Start: 14. Februar) vom Freitagabend auf den Samstagabend um 20:15 Uhr und setzt dabei auf eine komplett neue Coach-Besetzung mit HE/RO (Lochmann-Zwillinge), Leony, Michael Patrick Kelly und dem zurückkehrenden Alvaro Soler. Die Show erreichte zuletzt 1,2 Millionen Zuschauer und bis zu 11% Marktanteil (14-49 Jahre), wobei nun Melissa Khalaj als alleinige Moderatorin fungiert.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "\"The Game\": Hoesch-Doku zur NFL kommt noch im Januar",
+          "link": "https://www.dwdl.de/nachrichten/105172/the_game_hoeschdoku_zur_nfl_kommt_noch_im_januar/",
+          "summary": "RTL zeigt ab 25. Januar die NFL-Dokumentation \"The Game - Die NFL erobert Deutschland\" von Leopold Hoesch (Broadview), zunächst bei RTL+ und am 8. Februar in gekürzter Fassung im Free-TV vor dem Super Bowl. Die Doku verbindet das Germany Game in Berlin mit historischen Rückblicken und bietet exklusive Zugänge zu Spielern, Teambesitzern und NFL-Offiziellen wie Commissioner Roger Goodell. Mitwirkende sind u.a. deutschsprachige NFL-Profis Bernhard Raimann, Markus Kuhn und Björn Werner sowie Experten wie Patrick Esume.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "Helge Fuhst wechselt von ARD-aktuell zu Axel Springer",
+          "link": "https://www.dwdl.de/nachrichten/105179/helge_fuhst_wechselt_von_ardaktuell_zu_axel_springer/",
+          "summary": "Helge Fuhst, bisher Zweiter Chefredakteur von ARD-aktuell und verantwortlich für die \"Tagesthemen\", wechselt zu Axel Springer und übernimmt dort den neu geschaffenen Vorsitz der Chefredaktionen der Premium-Gruppe (Welt, Politico Deutschland, Business Insider Deutschland). Der bisherige Welt-Gruppen-Chefredakteur Jan Philipp Burgard legt seine Funktion aus gesundheitlichen Gründen mit sofortiger Wirkung nieder, nachdem er während eines Fluges einen schweren körperlichen Zwischenfall erlitten hatte.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Prominenter Sendeplatz für Klum-Doku bei ProSieben",
+          "link": "https://www.dwdl.de/nachrichten/105178/prominenter_sendeplatz_fuer_klumdoku_bei_prosieben/",
+          "summary": "ProSieben strahlt die zweiteilige Primetime-Dokumentation \"On & Off the Catwalk - by Heidi Klum\" am 22. Februar und 1. März zur besten Sendezeit aus und gewährt der Klum-Familie damit einen reichweitenstarken Sendeplatz. Die Doku begleitet Heidi Klum und ihre Kinder Leni und Henry bei ihren Jobs im Modelbusiness weltweit und verspricht exklusive Einblicke in Arbeits- und Familienleben. Der Start erfolgt nach dem Launch der neuen \"Germany's Next Topmodel\"-Staffel am 11. Februar.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Großstadtrevier\": Neue Folgen und ein Neuer ab März",
+          "link": "https://www.dwdl.de/nachrichten/105171/grossstadtrevier_neue_folgen_und_ein_neuer_ab_maerz/",
+          "summary": "Das Erste startet am 2. März zehn neue Folgen des \"Großstadtreviers\" und löst damit \"Morden im Norden\" im 18:50 Uhr-Slot ab. Neu im Team ist Tarkan Yildiz (Özgür Karadeniz), während das bewährte Ensemble um Maria Ketikidou und Enrique Fiß weiterhin ermittelt. Nach über einem Jahr Pause soll die Serie an ihre zuletzt starken 13 Prozent Marktanteil anknüpfen.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "HBO Max ab sofort auch via Amazon Prime Video verfügbar",
+          "link": "https://www.dwdl.de/nachrichten/105166/hbo_max_ab_sofort_auch_via_amazon_prime_video_verfuegbar/",
+          "summary": "HBO Max startet heute in Deutschland und ist ab sofort als Zusatz-Abonnement über Amazon Prime Video verfügbar, basierend auf einer mehrjährigen Distributionsvereinbarung zwischen Warner Bros. Discovery und Amazon. Die Kooperation umfasst neben Deutschland auch Österreich und Italien, während bestehende europäische Partnerschaften in fünf weiteren Ländern verlängert werden. Deutsche Nutzer können zwischen drei Abomodellen wählen und optional ein Sports Add-On für Live-Sport-Events wie die Olympischen Winterspiele hinzubuchen.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "ZDF plant \"Giovanni Zarrella Show\" vom Lerchenberg",
+          "link": "https://www.dwdl.de/nachrichten/105160/zdf_plant_giovanni_zarrella_show_vom_lerchenberg/",
+          "summary": "Das ZDF plant erstmals ein Open-Air-Special der \"Giovanni Zarrella Show\" im Sommer 2026 auf dem Lerchenberg-Gelände des \"ZDF-Fernsehgartens\", wobei laut Branchenberichten eine Aufzeichnung am 8. August und Ausstrahlung am 29. August vorgesehen ist. Die Verlegung auf das eigene Gelände dürfte dem Sender Produktionskosten sparen, nachdem 2025 noch aus der Dortmunder Westfalenhalle gesendet wurde. Damit folgt das ZDF dem Trend zu sommerlichen Open-Air-Ausgaben von Musikshows, wie sie bereits Florian Silbereisen mit seinen \"Feste\"-Shows etabliert hat.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Reichweitenriese Apotheken Umschau und Co: Media-Chef Marco Bergmann ist beim Wort &amp; Bild Verlag raus",
-          "link": "https://www.horizont.net/medien/nachrichten/reichweitenriese-apotheken-umschau-und-co-media-chef-marco-bergmann-ist-beim-wort--bild-verlag-raus-232726?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Marco Bergmann, Media-Chef des Wort & Bild Verlags (Apotheken Umschau), hat das Unternehmen verlassen. Der ehemalige Manager von GroupM, Aegis und Weischer Media war seit Sommer 2018 für Media-Management und Vermarktung zuständig. Im Verlag kursiert bereits eine interne Erklärung für den Abgang.",
+          "title": "Blick nach vorn: Warum Zuversicht unsere Zukunft ist – und die unserer Medien",
+          "link": "https://www.horizont.net/medien/kommentare/blick-nach-vorn-warum-zuversicht-unsere-zukunft-ist--und-die-unserer-medien-232728?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der scheidende CEO der Zeit Verlagsgruppe, Rainer Esser, setzt zu Jahresbeginn 2026 einen bewussten Kontrapunkt zu den dominierenden Negativschlagzeilen und plädiert für Zuversicht als zentrale Haltung. Er beschreibt Zuversicht als \"unsichtbare Kraft, die Berge versetzt\" und betont deren Bedeutung als innere Haltung in einer von Unsicherheit, Wandel und Informationsflut geprägten Medienwelt.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Digital- und KI-Experte: Ex-Xing- und Bild-Manager Thomas Schmidt-Broer heuert bei Upscore an",
+          "link": "https://www.horizont.net/medien/nachrichten/digital--und-ki-experte-ex-xing--und-bild-manager-thomas-schmidt-broer-heuert-bei-upscorean-232750?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Thomas Schmidt-Broer, ehemaliger Manager bei Xing und Bild, wechselt als Head of Sales zum Hamburger SaaS-Anbieter Upscore. Das Unternehmen bietet Medienhäusern seit zehn Jahren Real-time-Analytics, dynamische Paywalls und Content-Optimierungstools zur Erfolgssteigerung.",
+          "score": 9
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Tagesthemen-Chef geht zu Springer: Helge Fuhst wird Chefredakteur von Welt, Politico und Business Insider",
+          "link": "https://www.horizont.net/medien/nachrichten/tagesthemen-chef-geht-zu-springer-helge-fuhst-wird-chefredakteur-von-welt-politico-und-business-insider-232736?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Helge Fuhst, zweiter Chefredakteur von ARD Aktuell und Tagesthemen-Leiter, wechselt zum nächstmöglichen Zeitpunkt als Chefredakteur zur Premium-Gruppe von Axel Springer (Welt, Politico, Business Insider). Er übernimmt die Position von Jan Philipp Burgard, der sich aus gesundheitlichen Gründen zurückzieht. Der Wechsel stellt einen weiteren prominenten Abgang aus dem öffentlich-rechtlichen Rundfunk zum Springer-Verlag dar.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "BigFM NRW: Steffen Müller wird Geschäftsführer von NRW Audio",
+          "link": "https://www.horizont.net/medien/nachrichten/bigfm-nrw-steffen-mueller-wird-geschaeftsfuehrer-von-nrw-audio-232735?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Steffen Müller, bisheriger Mitgesellschafter von NRW Audio, übernimmt seit Jahresbeginn zusätzlich die Geschäftsführung der Betreibergesellschaft von BigFM NRW. In seiner neuen Rolle plant er, die Marktposition des Radiosenders im konkurrierten nordrhein-westfälischen Radiomarkt zu stärken.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Neuer Bereich &quot;Client Partner&quot;: Spiegel Gruppe gründet Bereich für direkte Kundenansprache",
+          "link": "https://www.horizont.net/medien/nachrichten/neuer-bereich-client-partner-spiegel-gruppe-gruendet-bereich-fuer-direkte-kundenansprache-232715?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Spiegel Gruppe hat einen neuen Geschäftsbereich \"Client Partner\" mit vier Mitarbeitern gegründet, der sich auf die direkte Ansprache von Werbekunden konzentriert. Das Team soll langfristige Kooperationen und Partnerschaften zwischen Unternehmen und den Verlagsmarken entwickeln und ausbauen.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Streamingdienst: HBO Max kooperiert beim Vertrieb mit Amazon",
+          "link": "https://www.horizont.net/medien/nachrichten/streamingdienst-hbo-max-kooperiert-beim-vertrieb-mit-amazon-232712?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "HBO Max hat eine mehrjährige Distributionsvereinbarung mit Amazon Prime Video für Deutschland, Österreich und Italien abgeschlossen, wodurch Prime-Kunden den Streamingdienst als Zusatzangebot hinzubuchen können. Diese Kooperationsstrategie wird bereits erfolgreich in acht anderen Märkten wie den USA, Frankreich und Spanien umgesetzt. Die Partnerschaft ermöglicht HBO Max den Zugang zu Amazons etablierter Kundenbasis in den deutschsprachigen Märkten.",
+          "score": 10
+        },
+        {
+          "source": "kress",
+          "title": "Jan Philipp Burgard nicht mehr Chef der Welt-Gruppe",
+          "link": "https://kress.de/news/beitrag/151622-jan-philipp-burgard-nicht-mehr-chef-der-welt-gruppe-helge-fuhst-fuehrt-springers-super-redaktion.html",
+          "summary": "Jan Philipp Burgard legt seine Funktion als Chefredakteur der Welt-Gruppe aus gesundheitlichen Gründen mit sofortiger Wirkung nieder, nachdem er einen schweren körperlichen Zwischenfall hatte und sich auf ärztlichen Rat hin mehr auf seine Gesundheit konzentrieren muss. Helge Fuhst übernimmt sowohl die Chefredaktion der Welt-Gruppe als auch den neuen Posten als Vorsitzender der Chefredaktionen der Premium Gruppe, die Welt, Politico Deutschland und Business Insider Deutschland umfasst. In dieser erweiterten Rolle wird Fuhst markenübergreifend die gesamte Berichterstattung von Springers \"Super-Redaktion\" steuern.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Journalistischer Paid Content knackt 1,6-Milliarden-Marke",
+          "link": "https://kress.de/news/beitrag/151628-journalistischer-paid-content-knackt-1-6-milliarden-marke-wachstum-verlangsamt-sich.html",
+          "summary": "Der deutsche Paid-Content-Markt für journalistische Inhalte erreichte 1,66 Milliarden Euro Jahresumsatz (+15% gegenüber 2025), wobei sich das Wachstum verlangsamte und erstmals primär durch steigende Abonnentenzahlen statt Preiserhöhungen getrieben wurde. Während regionale Tageszeitungen weiterhin hauptsächlich auf E-Paper setzen (nur 19% Plus-Abos), erzielen überregionale Titel erstmals über die Hälfte ihrer digitalen Lesererlöse durch Paywall-Produkte. Zwei Drittel der Gesamterlöse stammen nach wie vor aus dem Zeitungsgeschäft, womit Paid Content ein zentraler Wachstumspfeiler der Branche bleibt.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Solveig Gode gehört zu den Young Leadern des Jahres 2025 kress präsentiert in einer Serie junge...",
+          "link": "https://kress.de/news/beitrag/151625-solveig-gode-gehoert-zu-den-young-leadern-des-jahres-2025.html",
+          "summary": "Solveig Gode (32) wurde von kress pro zu den \"25 Young Leaders des Jahres 2025\" gekürt und arbeitet als Ressortleiterin für Podcasts, Video & Live beim Handelsblatt. Die ehemalige Business Insider-Podcasterin (\"Macht & Millionen\") moderiert dort Events wie die Tech-Konferenz und hostet Podcasts wie \"Today\" und \"Crime\". Ihr Ziel ist es, Audio, Video und Events als Teil der digitalen Transformation des Journalismus neu zu denken und investigative Recherchen einem breiteren Publikum zugänglich zu machen.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Netflix erhöht Angebot für Warner",
+          "link": "https://kress.de/news/beitrag/151624-netflix-erhoeht-angebot-fuer-warner-all-cash-offerte-soll-paramount-ausstechen.html",
+          "summary": "Netflix erhöht sein Übernahmeangebot für Warner Bros. Discovery auf 83 Milliarden Dollar und wandelt es in ein reines Barangebot um, um das höhere Gegenangebot von Paramount (108,4 Mrd. Dollar) abzuwehren. Der Bieterkampf hat politische Dimensionen, da Paramount-Kontrolleur Larry Ellison Trump nahesteht, der eine Netflix-Übernahme kartellrechtlich scharf prüfen lassen will. Netflix' Angebot umfasst nur Studios und Streaming-Dienste, während Paramount die komplette WBD inklusive CNN und anderen TV-Sendern übernehmen möchte.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Wie viel Geld werden regionale Zeitungen in zehn Jahren noch mit Printvermarktung verdienen, Carsten Dorn?",
+          "title": "Wie viel Geld werden regionale Zeitungen in zehn Jahren noch mit Printvermarktung verdienen, Carsten Dorn? Zum zehnten Geburtstag von kress pro antworten Führungskräfte auf Fragen zur Zukunft und zur Vergangenheit der Medien. Carsten Dorn Geschäftsführer, Score Media Group, Carsten Dorn über die Zukunft von Print, den wachsenden Digitalanteil",
           "link": "https://kress.de/news/beitrag/151621-wie-viel-geld-werden-regionale-zeitungen-in-zehn-jahren-noch-mit-printvermarktung-verdienen-carsten-dorn.html",
-          "summary": "Carsten Dorn von der Score Media Group prognostiziert, dass Print-Vermarktung bei regionalen Zeitungen in zehn Jahren zwar weniger Umsatz generieren wird, aber weiterhin relevant bleibt. Der Printanteil am Umsatz sank von 98% (2016) auf aktuell 80%, wurde aber durch digitale Innovationen wie E-Paper-Vermarktung und programmatische Werbung kompensiert. Mittelfristig strebt die Gruppe einen Digitalanteil von einem Drittel an, langfristig über 50%, wobei Print 2035 als wertvoller, aufmerksamkeitsstarker Teil des Mediamixes bestehen bleiben soll.",
-          "score": 7
+          "summary": "Carsten Dorn von der Score Media Group prognostiziert, dass der Printanteil bei regionalen Zeitungen von aktuell 80% auf unter 50% bis 2035 sinken wird, während der Digitalanteil mittelfristig auf ein Drittel steigen soll. Trotz rückläufiger Print-Erlöse konnte die Score Media Group durch digitale Innovationen wie E-Paper-Vermarktung und programmatische Werbeplatzierung den Gesamtumsatz stabilisieren. Print wird laut Dorn 2035 zwar kleiner, aber weiterhin als wertvoller, aufmerksamkeitsstarker und glaubwürdiger Teil des Mediamixes bestehen bleiben.",
+          "score": 10
+        },
+        {
+          "source": "kress",
+          "title": "Drei Personalleiterinnen unter Kathrin Heckner Die Neue Pressegesellschaft strukturiert ihren Personalbereich neu.",
+          "link": "https://kress.de/news/beitrag/151619-neue-pressegesellschaft-baut-hr-neu-auf-drei-personalleiterinnen-unter-kathrin-heckner.html",
+          "summary": "Die Neue Pressegesellschaft (NPG) strukturiert ihren Personalbereich unter Geschäftsführungsmitglied Kathrin Heckner neu und setzt dabei auf interne Führungskräfte: Sandra Melcher übernimmt die Personalleitung für die Zeitungsgruppe Stuttgart, Anne Kerkin verantwortet HR für Brandenburg (Lausitzer Rundschau, Märkische Oderzeitung) und Katharina Schäfer leitet den Personalbereich für Südwest Presse und Schwarzwälder Bote. Alle drei Personalleiterinnen sind langjährige NPG-Mitarbeiterinnen mit umfassender Unternehmenserfahrung und wurden aus den eigenen Reihen befördert.",
+          "score": 8
         },
         {
           "source": "kress",
           "title": "Börsen-Zeitung wechselt auf Montag-bis-Freitag-Rhythmus Nach mehr als 70 Jahren stellt die Börsen-Zeitung ihre reguläre Erscheinungsweise um.",
           "link": "https://kress.de/news/beitrag/151614-neue-taktung-fuer-die-finanz-community-boersen-zeitung-wechselt-auf-montag-bis-freitag-rhythmus.html",
-          "summary": "Die Börsen-Zeitung stellt nach über 70 Jahren ihre Erscheinungsweise von Dienstag-Samstag auf Montag-Freitag um, um besser auf kapitalmarktrelevante Wochenend-Entwicklungen reagieren zu können. Chefredakteur Sebastian Schmid plant weitere Veränderungen wie eine optische Überarbeitung zur besseren Trennung von Berichterstattung und Meinung sowie die Erneuerung des Newsletter-Angebots und Online-Auftritts. Die Umstellung ist Teil einer umfassenderen redaktionellen Neuausrichtung auf die Informationsbedürfnisse der deutschen Finanzmarkt-Community.",
-          "score": 7
+          "summary": "Die Börsen-Zeitung stellt nach über 70 Jahren ihre Erscheinungsweise von Dienstag-Samstag auf Montag-Freitag um, um der gestiegenen Schlagzahl kapitalmarkt-relevanter Themen am Wochenende Rechnung zu tragen. Chefredakteur Sebastian Schmid plant weitere Reformen zur stärkeren Ausrichtung auf die Informationsbedürfnisse der deutschen Finanzmarkt-Community, darunter ein erneuertes Newsletter-Angebot und überarbeiteter Online-Auftritt. Optisch werden Kommentare künftig farblich hervorgehoben, um in der medialen Aufmerksamkeitsökonomie eine klare Trennung zwischen Bericht und Meinung zu gewährleisten.",
+          "score": 10
         },
         {
           "source": "kress",
           "title": "Leo Ginsburg gehört zu den Young Leadern des Jahres 2025 kress präsentiert in einer Serie junge...",
           "link": "https://kress.de/news/beitrag/151616-leo-ginsburg-gehoert-zu-den-young-leadern-des-jahres-2025.html",
-          "summary": "Leo Ginsburg, 29, wurde von kress pro zu einem der \"25 Young Leaders des Jahres 2025\" gekürt und leitet seit Juni das Start-up-Magazin \"Gründerszene\" bei Axel Springer. Der Wirtschaftsjournalist, der seine Laufbahn bei \"Bild\" und \"Business Insider\" begann, hostet zusätzlich den Podcast \"Business Class\" mit führenden Unternehmern und Managern. Die Auszeichnung würdigt junge Führungskräfte unter 35 Jahren in der Medienbranche, die bereits Personalverantwortung tragen und erste berufliche Erfolge vorweisen können.",
-          "score": 7
+          "summary": "Leo Ginsburg (29) wurde von kress zu einem der 25 Young Leaders 2025 gekürt und leitet seit Juni 2025 das Start-up-Magazin „Gründerszene\" bei Axel Springer. Der Wirtschaftsjournalist durchlief zuvor Stationen bei „Bild\" und „Business Insider\" und hostet den Podcast „Business Class\" mit führenden Unternehmern. Die Auszeichnung würdigt junge Führungskräfte unter 35 Jahren in der Medienbranche mit Personalverantwortung und ersten beruflichen Erfolgen.",
+          "score": 8
         },
         {
-          "source": "kress",
-          "title": "Friederike Marie Föll gehört zu den Young Leadern des Jahres 2025 kress präsentiert in einer Serie...",
-          "link": "https://kress.de/news/beitrag/151610-friederike-marie-foell-gehoert-zu-den-young-leadern-des-jahres-2025.html",
-          "summary": "Friederike Marie Föll (34) wurde von kress pro als eine der 25 Young Leaders 2025 der Medienbranche ausgezeichnet und leitet als Head of Business Transformation & Strategy beim BurdaVerlag die strategische Unternehmensentwicklung und digitale Transformation. Nach ihrem Quereinstieg aus der Anwaltschaft über die Funke Mediengruppe gestaltet sie nun maßgeblich die Zukunft des Medienhauses mit und entwickelt neue Geschäftsmodelle. Ihr Karriere-Tipp lautet, früh Verantwortung zu übernehmen und Veränderungen als Chancen zu begreifen.",
+          "source": "meedia",
+          "title": "TV-Quoten & Streaming-Charts RTL und Sky holen starke Bundesliga-Quoten, \"Ku'damm 77\" endet als...",
+          "link": "https://meedia.de/news/beitrag/20926-rtl-und-sky-holen-starke-bundesliga-quoten-quot-ku-039-damm-77-quot-endet-als-linearer-flop.html",
+          "summary": "RTL erzielte mit der Bundesliga-Übertragung Köln vs. Bayern München starke Marktanteile von 20,5% und 25,2% in der werberelevanten Zielgruppe 14-49 Jahre, musste sich aber im Gesamtpublikum dem ARD-Krimi \"Die Verteidigerin\" (20,5%) geschlagen geben. Die ZDF-Serie \"Ku'damm 77\" beendete ihre Staffel mit schwachen 10,7% Marktanteil, während das ZDF am Nachmittag mit Biathlon-Übertragungen herausragende 28,4% erzielte.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Übernahme-Krimi Netflix will Angebot für Warner-Bros-Deal nachbessern Netflix will die Übernahme von Warner Bros.",
+          "link": "https://meedia.de/news/beitrag/20924-netflix-will-angebot-fuer-warner-bros-deal-nachbessern.html",
+          "summary": "Netflix verbessert sein 83-Milliarden-Dollar-Angebot für Warner Bros. Discovery zu einer reinen Barzahlung, um gegen Paramounts höheres 108,4-Milliarden-Dollar-Gegenangebot für eine Komplettübernahme zu konkurrieren. Der Bieterkampf um die Medienkonglomerate mit Assets wie HBO und CNN hat auch politische Dimensionen, da Paramount-Kontrolleuer Larry Ellison Trump nahesteht, der eine Komplettveräußerung von WBD fordert. Die Entscheidung wird für Juni erwartet.",
+          "score": 10
+        },
+        {
+          "source": "meedia",
+          "title": "Tochterunternehmen von Burda Stefan Christinger steigt bei Blue Ocean zum COO auf Zum Jahresanfang...",
+          "link": "https://meedia.de/news/beitrag/20921-stefan-christinger-steigt-bei-blue-ocean-zum-coo-auf.html",
+          "summary": "Stefan Christinger wurde zum Jahresbeginn zum Chief Operating Officer (COO) beim Kinderzeitschriftenverlag Blue Ocean Entertainment (Burda-Tochter) befördert, nachdem er seit 2024 als Head of Program Management & Logistic tätig war. In seiner neuen Position verantwortet der Betriebswirt die Bereiche Beschaffung, Logistik und Transport und soll die Unternehmensabläufe aufgrund des gewachsenen Collectibles- und Loyalty-Geschäfts sowie der Internationalisierung optimieren. Die Beförderung erfolgt parallel zur neuen Vorstandsführung durch Max Müller und Katrin Krauß, die Mitgründerin Sigrun Kaiser ablösten.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Neue Zahlen von digital i \"Babo",
+          "link": "https://meedia.de/news/beitrag/20922-quot-babo-die-haftbefehl-story-quot-und-quot-stranger-things-quot-waren-die-streaming-hits-des-monats.html",
+          "summary": "Laut neuen digital i-Messungen war \"Babo - Die Haftbefehl-Story\" mit 2,05 Millionen Haushalten der erfolgreichste Streaming-Film im November, während die finale \"Stranger Things\"-Staffel trotz nur vier Veröffentlichungstagen bereits 1,454 Millionen Haushalte erreichte. Bei den Serien dominierte \"Stranger Things\" das Ranking mit mehreren Staffeln in den Top 15, gefolgt von \"The Witcher\" Staffel 4 (935.000 Haushalte) und \"Maxton Hall\" Staffel 2 (932.000 Haushalte).",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Omnicom-Mediaagentur Pion3ers löst sich aus seiner Rewe-Exklusivität Die neue Retro-Kampagne von...",
-          "link": "https://meedia.de/news/beitrag/20915-pion3ers-loest-sich-aus-seiner-rewe-exklusivitaet.html",
-          "summary": "Die Omnicom-Mediaagentur Pion3ers, die Anfang 2024 als exklusive Customized Agency für Rewe gegründet wurde, hat in Abstimmung mit dem Stammkunden ihr Portfolio erweitert und betreut seit Januar auch die Rügenwalder Mühle. Die Agentur mit 100 Mitarbeitenden an fünf Standorten übernimmt dabei vollumfänglich die Mediastrategie des Wurst- und Veggie-Herstellers und verdrängt damit die bisherige Agentur Mediaplus. Unklar bleibt, ob weitere Kundengewinne außerhalb der Rewe-Exklusivität folgen werden.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Sonstige Praktikant  Public Relations / Social Media- & Content-Management (m/w/d) TOC Agentur für Kommunikation GmbH & Co.KG Gmund am Tegernsee",
-          "link": "https://meedia.de/jobs/job-details/16882-praktikant-public-relations-social-media-content-management-m-w-d.html",
-          "summary": "Die TOC Agentur für Kommunikation GmbH & Co.KG in Gmund am Tegernsee sucht einen Praktikanten (m/w/d) für Public Relations sowie Social Media- & Content-Management in Vollzeit. Das Aufgabenspektrum umfasst die Unterstützung bei PR-Aktivitäten, Erstellung von Presseinformationen, Umsetzung von Kommunikationsmaßnahmen, Betreuung von Social Media Kanälen und Organisation von B2B-Events. Die Stellenausschreibung wurde am 14.01.2026 veröffentlicht.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "zufolge wachsen die Netto-Werbeumsätze der drei großen US-Giganten Google, Amazon und Meta hierzulande im Jahr 2026 auf 16,3 Milliarden Euro.",
-          "link": "https://meedia.de/news/beitrag/20912-google-amazon-und-meta-greifen-sich-51-6-prozent-der-gesamten-deutschen-werbeinvestitionen.html",
-          "summary": "Laut Prognose des Branchenverbandes Die Mediaagenturen e.V. werden Google, Amazon und Meta 2026 erstmals über 50% der deutschen Werbeinvestitionen (16,3 Mrd. Euro von insgesamt 31,6 Mrd. Euro) auf sich vereinen. Während die US-Tech-Giganten deutliche Zuwächse verzeichnen (Google +4,7%, Meta +9,1%, Amazon +10%), gehören lineares Fernsehen und Printmedien zu den Verlierern. Diese Entwicklung verdeutlicht die fortschreitende Dominanz ausländischer Digital-Plattformen im deutschen Werbemarkt zu Lasten traditioneller deutscher Medienhäuser.",
+          "title": "True Effect meldet erste Kunden Acer und Lexware und neue Führung Nach ihrem Start im vergangenen...",
+          "link": "https://meedia.de/news/beitrag/20923-neue-mediaagentur-true-effect-meldet-erste-kunden-acer-und-lexware-und-neue-fuehrung.html",
+          "summary": "Die Hamburger Mediaagentur True Effect vermeldet nach ihrem Start im Vorjahr erste Erfolge mit den Neukunden Acer und Lexware sowie eine Erweiterung der Geschäftsführung. Für Acer Deutschland realisierte die Agentur eine crossmediale Kampagne für neue Notebook-Modelle, die Digital-Out-of-Home mit KI-generierten Video-Creatives kombinierte und über 100 Millionen Kontakte erzielte. True Effect positioniert sich dabei als transparente Alternative mit fixer Vergütung ohne Provisions- und Margengeschäfte.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "Maker of Peaky Blinders ‘in advanced talks’ to merge with The Traitors producer",
-          "link": "https://www.theguardian.com/media/2026/jan/13/peaky-blinders-makers-banijay-merger-talks-traitors-producers-all3media",
-          "summary": "Die Banijay Group (Peaky Blinders, Big Brother, MasterChef) führt fortgeschrittene Gespräche über eine Fusion mit All3Media (The Traitors, Midsomer Murders, Call the Midwife), die einen europäischen TV-Produktionsriesen schaffen würde. All3Media gehört zu RedBird IMI, dem Abu Dhabi-gestützten Unternehmen, das auch die Telegraph-Titel verkaufen will. Laut Quellen würde All3Media als kleineres Unternehmen Kapital in die fusionierte Einheit einbringen, wobei noch keine finale Entscheidung getroffen wurde.",
-          "score": 7
+          "title": "Netflix ‘plans to switch to all-cash offer to seal $83bn Warner Bros deal’",
+          "link": "https://www.theguardian.com/film/2026/jan/14/netflix-plans-to-switch-to-all-cash-offer-to-seal-warner-bros-deal",
+          "summary": "Netflix plant sein 83 Milliarden Dollar Übernahmeangebot für Warner Bros Discovery (WBD) auf eine reine Bargeldzahlung umzustellen, um die Akquisition zu beschleunigen und ein konkurrierendes 108,4 Milliarden Dollar Angebot von Paramount abzuwehren. Die Übernahme würde Netflix Kontrolle über wichtige Assets wie Warner Bros Studios (Harry Potter, Superman, Batman) und HBO geben, stößt jedoch auf politischen Widerstand aufgrund von Befürchtungen einer Marktkonzentration von fast 50% im Streaming-Bereich. WBD hat das Paramount-Angebot bereits als \"unzureichend\" zurückgewiesen und kritisiert dessen hohe Fremdfinanzierungsabhängigkeit.",
+          "score": 10
         },
         {
-          "source": "Guardian Media",
-          "title": "Keir Starmer tells MPs he is open to social media ban for young people",
-          "link": "https://www.theguardian.com/politics/2026/jan/13/keir-starmer-tells-mps-he-is-open-to-australian-style-social-media-ban",
-          "summary": "UK-Premierminister Keir Starmer hat gegenüber Labour-Abgeordneten angekündigt, er sei nun offen für ein australisches Modell eines Social-Media-Verbots für unter 16-Jährige, nachdem er zuvor solche Maßnahmen ablehnte. Die Positionsänderung begründet Starmer mit alarmierenden Berichten über exzessive Bildschirmzeiten von Kindern und den schädlichen Auswirkungen sozialer Medien auf Jugendliche. Die Regierung prüft nun verschiedene Durchsetzungsmöglichkeiten und betrachtet \"alle Optionen als verfügbar\", nachdem zuvor entsprechende Gesetzesinitiativen noch abgelehnt wurden.",
+          "source": "Deadline",
+          "title": "BBC Studios Sales Boss Exiting",
+          "link": "https://deadline.com/2026/01/bbc-studios-sales-boss-janet-brown-to-exit-1236683850/",
+          "summary": "Janet Brown, Global Sales-Chefin von BBC Studios, verlässt das Unternehmen, nachdem sie die Verlagerung ihrer Position von den USA nach London ablehnte. Dies ist der zweite hochrangige Abgang bei BBC Studios USA nach CEO Rebecca Glashow und Teil einer strategischen Neuausrichtung unter Produktionschef Zai Bennett. Die neue UK-basierte Rolle soll eine engere Zusammenarbeit zwischen globalen Verkäufen und der Produktion ermöglichen.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Golden Globes 2026 Audience Down 7% To 8.66M Viewers On CBS",
-          "link": "https://deadline.com/2026/01/2026-golden-globes-ratings-cbs-1236680917/",
-          "summary": "Die Golden Globes 2026 verzeichneten mit 8,66 Millionen Zuschauern einen Rückgang von 7% gegenüber dem Vorjahr (9,27 Mio.), was hauptsächlich auf das Fehlen einer direkten NFL-Überleitung zurückgeführt wird. Die Einschaltquoten lagen über den Emmy Awards 2025 (7,42 Mio.), aber deutlich unter den Oscars 2025 (19,69 Mio.) und zeigen den langfristigen Abwärtstrend seit 2020 (18,3 Mio.). Der Rückgang war aufgrund der ungünstigen Programmierung ohne Football-Lead-in erwartet worden.",
-          "score": 7
+          "title": "Agatha Christie For The Netflix Generation? Chris Chibnall & Mia McKenna-Bruce Say ‘Seven Dials’ Evokes Sean Connery’s Bond & ‘The Crown’",
+          "link": "https://deadline.com/2026/01/agatha-christie-seven-dials-netflix-generation-chibnall-mckenna-bruce-1236681499/",
+          "summary": "Chris Chibnall und Suzanne Mackie haben Agatha Christies \"The Seven Dials Mystery\" für Netflix adaptiert, mit dem Ziel, Christie für die Streaming-Generation neu zu interpretieren. Die Serie mit Helena Bonham Carter, Martin Freeman und Mia McKenna-Bruce setzt auf eine cineastische Ästhetik im Stil der Sean Connery Bond-Filme und \"The Crown\", um die internationale Verschwörungsgeschichte um Amateur-Detektivin Lady Eileen \"Bundle\" Brent visuell opulent zu inszenieren. Das gewählte Christie-Material verzichtet auf Poirot oder Marple und bietet stattdessen globale Relevanz und spektakuläre Schauplätze, die für das Streaming-Format optimiert wurden.",
+          "score": 8
         },
         {
           "source": "Deadline",
-          "title": "WeBros’ ‘Young Blood’ Sets Six In Vampire Island Thriller From Ari Schlossberg",
-          "link": "https://deadline.com/2026/01/young-blood-myles-truitt-madison-wolfe-ari-schlossberg-1236682163/",
-          "summary": "WeBros Entertainment startet in zwei Wochen die Dreharbeiten zum Vampir-Thriller \"Young Blood\" in Key Largo, Florida, unter der Regie von Ari Schlossberg (\"Hide and Seek\", \"Harper's Island\"). Der Film mit Myles Truitt, Madison Wolfe und vier weiteren Hauptdarstellern folgt drei College-Freunden, die während ihres Spring Break auf einer einsamen Insel von ausgehungerten Vampiren gejagt werden. Produziert wird das Projekt von WeBros Entertainment mit Michael Weiss, Andy Weiss und Greg Barbagallo als Produzenten.",
-          "score": 7
+          "title": "German Talents From ‘Babystar’, ‘Silent Friend’ & ‘Elaha’ Among Those Selected For German Films’ Face To Face Campaign 2026",
+          "link": "https://deadline.com/2026/01/german-films-face-to-face-2026-1236682564/",
+          "summary": "German Films hat die sieben Teilnehmer der 11. Edition seiner jährlichen Face to Face Kampagne 2026 bekanntgegeben, darunter die Schauspieler Bayan Layla und Enzo Brumm sowie Regisseure Anna Roller und Joscha Bongard. Die Initiative zielt darauf ab, einflussreiche kreative Stimmen des zeitgenössischen deutschen Kinos international zu fördern und folgt auf vorherige Kampagnen mit renommierten Talenten wie Sandra Hüller und Tom Schilling. Geschäftsführerin Simone Baumann betonte die lebendige und diverse deutsche Filmlandschaft sowie die Verantwortung von German Films, kreative Talente auf ihrem Weg zum internationalen Erfolg zu begleiten.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Eddie Peng & Sean Lau Lead Chinese-language Adaptation Of ‘The Night Manager’",
+          "link": "https://deadline.com/2026/01/eddie-peng-sean-lau-chinese-language-the-night-manager-1236683830/",
+          "summary": "The Ink Factory hat die Dreharbeiten zu einer chinesischsprachigen Adaption der Erfolgsserie \"The Night Manager\" abgeschlossen, die John le Carrés Roman als Spionage-Thriller in asiatischem Setting mit Eddie Peng und Sean Lau in den Hauptrollen neu interpretiert. Die Serie wurde an Standorten in Hongkong, Macau, Bangkok, Kanchanaburi und Phuket gedreht und soll Ende 2026 auf Youku in Festlandchina Premiere haben, während Fifth Season den globalen Vertrieb übernimmt. Regie führt Kelvin KinLong Chan, die Produktion erfolgte in Zusammenarbeit mit 127 Wall Productions, Character 7 und Demarest Films.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Keshet Picks Up Channel 5’s ‘Number One Fan’ Drama Series About The Cutthroat World Of Daytime TV To Headline London Screenings Slate",
+          "link": "https://deadline.com/2026/01/keshet-number-one-fan-channel-5-london-tv-screenings-1236682777/",
+          "summary": "Keshet International hat die Vertriebsrechte für Channel 5's neue Thriller-Serie \"Number One Fan\" erworben, die von Paul Wilmshurst inszeniert wird und Jill Halfpenny als TV-Moderatorin sowie Sally Lindsay als obsessiven Fan zeigt. Die von Clapperboard produzierte Serie wird KI's Programm bei den London TV Screenings im Februar anführen und markiert die erste Zusammenarbeit zwischen dem israelischen Vertrieb und dem britischen Sender. Die psychologische Thriller-Serie thematisiert die toxische Beziehung zwischen einer Fernsehpräsentatorin und ihrer vermeintlichen Retterin, die sich als bedrohliche Stalkerin entpuppt.",
+          "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "How to Stream the 2026 European Figure Skating Championships Online in the U.S.",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-european-figure-skating-championships-2026-free-in-us-1236472845/",
-          "summary": "Die ISU Eiskunstlauf-Europameisterschaft 2026 findet vom 14.-18. Januar statt und wird in den USA live auf E! übertragen sowie über Streaming-Dienste wie Peacock, DirecTV, Sling und Hulu + Live TV verfügbar sein. Die Wettkämpfe umfassen vier Disziplinen (Herren-, Damen-Einzel, Paarlauf und Eistanz) mit Kommentatoren Bill Spaulding, Tara Lipinski und Johnny Weir. Cord-Cutter können die Meisterschaft kostenlos über verschiedene TV-Streaming-Dienste verfolgen, einige bieten Testversionen an.",
+          "title": "The Ink Factory Wraps Production on Chinese-Language Remake of ‘The Night Manager’",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/the-ink-factory-chinese-language-remake-the-night-manager-1236474690/",
+          "summary": "The Ink Factory hat die Dreharbeiten für eine chinesischsprachige Adaption von \"The Night Manager\" mit Eddie Peng und Sean Lau in den Hauptrollen abgeschlossen, die John le Carrés Spionage-Klassiker als pan-asiatischen Thriller für Alibabas Streamer Youku neu interpretiert. Die 12-teilige Serie wurde in Hong Kong, Macau, Bangkok und Thailand gedreht und versetzt die Geschichte nach Asien, wo ein Hotelmanager rekrutiert wird, um das Waffenhändler-Imperium eines Tycoons zu infiltrieren. Dies ist bereits die zweite internationale Adaption des Stoffes durch The Ink Factory nach einer Hindi-Version für Disney+ Hotstar.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "‘Agatha Christie’s Seven Dials’ Review: Netflix’s Breezy Whodunit Is a Breakout for Mia McKenna-Bruce",
+          "link": "https://www.hollywoodreporter.com/tv/tv-reviews/agatha-christies-seven-dials-review-netflix-1236474052/",
+          "summary": "Netflix's \"Agatha Christie's Seven Dials\" ist eine dreiteilige Adaption von Chris Chibnall, die auf zwei Christie-Romanen basiert und die Figur Lady Eileen \"Bundle\" Brent in den Mittelpunkt stellt. Die Serie fungiert als Breakout-Rolle für Mia McKenna-Bruce, die laut Kritiker mit \"Witz, Charme und Schneid\" überzeugt und die leichten Schwächen des ansonsten angenehmen, aber etwas oberflächlichen Whodunits ausgleicht. Das hochkarätige Ensemble umfasst Helena Bonham Carter und Martin Freeman in Nebenrollen.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "‘Fargo,’ ‘Alien: Earth’ Showrunner Noah Hawley Guest of Honor at 2026 Canneseries (Exclusive)",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/canneseries-honor-for-fargo-showrunner-noah-hawley-1236473752/",
+          "summary": "Emmy-Gewinner Noah Hawley, bekannt als Showrunner von \"Fargo\", \"Legion\" und der kommenden Serie \"Alien: Earth\", wird Ehrengast bei der Canneseries Industry 2026 (23.-25. April in Cannes) sein. Der vielfach ausgezeichnete Produzent wird in einem \"Meet with\"-Event über seinen einzigartigen Storytelling-Ansatz sprechen und die Bedeutung kulturübergreifender TV-Formate diskutieren. Hawley, dessen \"Fargo\"-Serie 70 Emmy-Nominierungen erhielt, gilt als einer der respektiertesten modernen Showrunner der Branche.",
+          "score": 9
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "‘Star Trek: Starfleet Academy’ Review: Holly Hunter Headlines Paramount+’s Uneven but Charming Franchise Expansion",
+          "link": "https://www.hollywoodreporter.com/tv/tv-reviews/star-trek-starfleet-academy-review-holly-hunter-paramount-1236473724/",
+          "summary": "\"Star Trek: Starfleet Academy\" ist eine neue Paramount+-Serie von Gaia Violo, die im 32. Jahrhundert spielt und Holly Hunter als Kanzlerin der wiedereröffneten Sternenflotten-Akademie zeigt. Die Serie kombiniert Sci-Fi-Spektakel mit Teen-Drama und wird als charmant aber unausgewogen beschrieben, mit vielversprechendem Cast aber wackeliger Umsetzung in den ersten sechs Episoden. Der Kritiker sieht Potenzial, hofft aber auf bessere Ausschöpfung der Möglichkeiten in zukünftigen Folgen.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Eddie Peng, Sean Lau Star in Chinese-Language Pan-Asian ‘The Night Manager’ Adaptation for Youku",
+          "link": "https://variety.com/2026/tv/news/eddie-peng-sean-lau-night-manager-chinese-adaptation-1236630955/",
+          "summary": "The Ink Factory und 127 Wall Productions haben eine 12-teilige chinesischsprachige Adaption von John le Carrés \"The Night Manager\" für Youku abgeschlossen, mit Eddie Peng und Sean Lau in den Hauptrollen. Die pan-asiatische Neuinterpretation des Spionage-Thrillers wurde unter der Regie von Kelvin KinLong Chan in Hong Kong, Macau, Bangkok, Kanchanaburi und Phuket gedreht. Die Serie soll Ende 2026 auf Youku in Festlandchina Premiere feiern, wobei Fifth Season den weltweiten Vertrieb übernimmt.",
+          "score": 9
+        },
+        {
+          "source": "Variety",
+          "title": "Ranveer Singh’s ‘Dhurandhar’ Propels India Box Office to Record $1.48 billion in 2025",
+          "link": "https://variety.com/2026/film/box-office/ranveer-singh-dhurandhar-india-box-office-2025-1236631963/",
+          "summary": "Der indische Kinomarkt erreichte 2025 mit 1,48 Milliarden US-Dollar Bruttoumsatz ein Rekordhoch, angeführt von Ranveer Singhs \"Dhurandhar\", das mit 105,1 Millionen Dollar zum erfolgreichsten Hindi-Film aller Zeiten wurde. Hindi-Produktionen erholten sich stark mit 609 Millionen Dollar (+18%) und reduzierten ihre Abhängigkeit von synchronisierten südindischen Filmen drastisch von 31% auf 7%. 37 Filme überschritten die 100-Crore-Marke (11,06 Millionen Dollar) im Vergleich zu nur 22 im Vorjahr.",
           "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Netflix’s Agatha Christie Adaptation ‘Seven Dials’ Has Charm but Little Intrigue: TV Review",
+          "link": "https://variety.com/2026/tv/reviews/agatha-christies-seven-dials-review-netflix-1236629852/",
+          "summary": "Netflix's neue Agatha Christie-Adaption \"Seven Dials\", basierend auf dem 1929er Roman und von \"Broadchurch\"-Autor Chris Chibnall entwickelt, bietet solide Unterhaltung mit überzeugenden Darstellungen, erreicht aber nicht das erhoffte Spannungsniveau. Die Serie folgt Lady Bundle Brent (Mia McKenna-Bruce) und ihrer Mutter (Helena Bonham Carter) in den 1920ern, als ein Mord auf ihrem Anwesen mit mysteriösen sieben Weckern als Hinweis geschieht. Trotz einiger gelungener Plot-Wendungen bleibt die Produktion hinter dem Thriller-Potenzial des Christie-Stoffes zurück.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "‘Avatar’ Oscar Winner Mark Sagar, Graphic India’s Sharad Devarajan Launch AI Storytelling Studio FaiBLE (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/news/avatar-mark-sagar-graphic-india-sharad-devarajan-ai-studio-faible-1236631957/",
+          "summary": "Avatar-Oscarpreisträger Mark Sagar und Graphic India's Sharad Devarajan haben FaiBLE Media Inc. gegründet, ein Silicon Valley-Startup, das KI mit Storytelling kombiniert, um neue narrative Technologien zu entwickeln. Das Palo Alto-basierte Unternehmen will die fundamentalen Strukturen entschlüsseln, die narrative Resonanz beim Publikum erzeugen - ein Ansatz, den sie als \"Das AlphaFold des Storytellings\" bezeichnen. Die offizielle Vorstellung erfolgt am 16. Januar beim AETHER Summit in Singapur.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Shah Rukh Khan’s ‘King’ Tops IMDb’s Most Anticipated Indian Films of 2026 List (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/news/shah-rukh-khan-king-imdb-most-anticipated-indian-films-2026-1236630785/",
+          "summary": "Shah Rukh Khans Action-Thriller \"King\" führt IMDbs Liste der meisterwarteten indischen Filme 2026 an, basierend auf den Seitenaufrufen von über 250 Millionen monatlichen Nutzern weltweit. Die Top-20-Liste umfasst Produktionen in fünf Sprachen, wobei zehn Hindi-Filme dominieren, gefolgt von fünf Telugu-, drei Tamil- sowie je einem Malayalam- und Kannada-Film. \"King\" markiert Khans erste Kinoveröffentlichung seit fast drei Jahren und seine erneute Zusammenarbeit mit \"Pathaan\"-Regisseur Siddharth Anand.",
+          "score": 9
         }
       ]
     }
