@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 AUTOMATISCH GENERIERTE LERN-REGELN (CONTENT-BASIERT)
-Erstellt: 2026-01-04 21:19:38
-Anzahl Regeln: 17
+Erstellt: 2026-01-18 21:19:38
+Anzahl Regeln: 24
 
 WICHTIG: Nur Inhalte werden bewertet, NICHT Quellen!
 Keywords und Themen bekommen Boosts basierend auf Team-Feedback.
@@ -18,20 +18,27 @@ LEARNING_RULES = {
         # Wir bewerten Inhalte (Keywords/Themen), nicht Dienstleister
     },
     'keyword_boosts': {
-        'jahres': 2,
-        'jahr': 2,
-        '2026': 2,
-        'gehört': 2,
-        'young': 2,
-        'leadern': 2,
-        'more': 2,
-        'media': 2,
-        'last': -1,
-        'handelsblatt': -1,
-        'gehört young': 2,
-        'young leadern': 2,
-        'leadern jahres': 2,
-        'jahres 2025': 2,
+        'netflix': 1,
+        'warner': 2,
+        'doku': 1,
+        'helge': 2,
+        'fuhst': 2,
+        'wechselt': 1,
+        'springer': 2,
+        'quoten': 2,
+        'sendeplatz': 2,
+        'amazon': 1,
+        'welt': 2,
+        'gruppe': 2,
+        'angebot': 2,
+        'bros': 2,
+        'neue': -1,
+        'zukunft': -1,
+        'carsten': -1,
+        'dorn': -1,
+        'helge fuhst': 2,
+        'angebot warner': 2,
+        'warner bros': 2,
         'format': 1,
         'show': 1,
         'serie': 1,
@@ -39,14 +46,12 @@ LEARNING_RULES = {
         'programm': 1,
         'quiz': 1,
         'game': 1,
-        'promi': 1,
-        'celebrity': 1,
-        'star': 1,
-        'skandal': 1,
-        'klatsch': 1,
-        'privatleben': 1,
-        'netflix': 1,
-        'amazon': 1,
+        'produktion': -1,
+        'dreh': -1,
+        'produktionsfirma': -1,
+        'studio': -1,
+        'dreht': -1,
+        'gedreht': -1,
         'disney': 1,
         'apple tv': 1,
         'paramount': 1,
@@ -58,5 +63,5 @@ LEARNING_RULES = {
 
 # Statistik
 ANZAHL_QUELLEN = 0  # Quellen werden nicht mehr bewertet
-ANZAHL_KEYWORDS = 35
-ANZAHL_REGELN_GESAMT = 17
+ANZAHL_KEYWORDS = 40
+ANZAHL_REGELN_GESAMT = 24
