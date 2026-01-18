@@ -1,181 +1,111 @@
 {
   "newsletters": [
     {
-      "date": "2026-01-17",
+      "date": "2026-01-18",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Werbemarkt: Versöhnlicher Jahresabschluss - außer für TV",
-          "link": "https://www.dwdl.de/nachrichten/105215/werbemarkt_versoehnlicher_jahresabschluss__ausser_fuer_tv/",
-          "summary": "Der deutsche Werbemarkt schloss 2025 mit einem leichten Rückgang von 0,5% ab, wobei das Fernsehen mit -4,2% weiterhin stark unter Druck steht und bei RTL Deutschland zu 600 Stellenabbau führte. Gewinner waren Außenwerbung (+9,9%) und Zeitungen (+3,8%), während Radio stabil blieb (+0,3%) und Publikumszeitschriften verloren (-3,7%). Im Dezember 2025 stiegen die Brutto-Werbeeinnahmen um 1,8% auf 3,56 Milliarden Euro, was den versöhnlichen Jahresabschluss nach vier Rückgängen in Folge markierte.",
+          "title": "\"Let’s Dance\"-Starterfeld für 2026 ist fast komplett",
+          "link": "https://www.dwdl.de/nachrichten/105195/lets_dancestarterfeld_fuer_2026_ist_fast_komplett/",
+          "summary": "RTL hat das Starterfeld für \"Let's Dance\" 2026 nahezu komplett bekanntgegeben, darunter Esther Schweins, Gustav Schäfer (Tokio Hotel), Simon Gosejohann und Ross Antony - lediglich eine weibliche Teilnehmerin steht noch aus. Die erfolgreiche Tanzshow, die zuletzt über 3 Millionen Zuschauer pro Folge erreichte, startet voraussichtlich im Februar mit unveränderter Jury (Mabuse, Llambi, González) und den gewohnten Moderatoren Hartwich/Swarovski.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Warner Bros.-Übernahme: Netflix beruhigt Filmtheater-Branche: keine Änderung an Kino-Zeitfenster",
+          "link": "https://www.horizont.net/medien/nachrichten/warner-bros.-uebernahme-netflix-beruhigt-filmtheater-branche-keine-aenderung-an-kino-zeitfenster-232791?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Netflix-Co-Chef Ted Sarandos beruhigt die Kinobetreiber bezüglich der Warner Bros.-Übernahme und versichert, dass das traditionelle 45-Tage-Zeitfenster für die exklusive Kinoauswertung beibehalten wird. Der Streaming-Konzern will das etablierte Kino-Geschäft von Warner nicht gefährden und zeigt sich kompromissbereit gegenüber der Filmtheater-Branche.",
           "score": 10
         },
         {
-          "source": "DWDL",
-          "title": "ZDFneo hat Sendetermin für \"How to Kill Your Sister\" gefunden",
-          "link": "https://www.dwdl.de/nachrichten/105211/zdfneo_hat_sendetermin_fuer_how_to_kill_your_sister_gefunden/",
-          "summary": "ZDFneo strahlt die belgisch-deutsche Dramedy \"How to Kill Your Sister\" ab 8. März 2026 sonntags um 20:15 Uhr in wöchentlichen Doppelfolgen aus, während alle sechs Episoden bereits ab 27. Februar in der ZDF-Mediathek verfügbar sind. Die Serie von Pedro Elias und Evelien Broekaert (Produktion: FBO/MadeFor Film) erzählt von zwei entfremdeten Schwestern auf einem tragikomischen Roadtrip nach Spanien, bei dem familiäre Geheimnisse aufgedeckt werden. Das ZDF ist bereits seit eineinhalb Jahren als Koproduktionspartner an dem Projekt beteiligt.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "RTL+ rückt mit den \"Reality Queens\" an \"IBES\" heran",
-          "link": "https://www.dwdl.de/nachrichten/105210/rtl_rueckt_mit_den_reality_queens_an_ibes_heran/",
-          "summary": "RTL+ startet am 9. Februar die zweite Staffel von \"Reality Queens - Auf High Heels durch den Dschungel\" und positioniert das Format strategisch direkt nach dem Ende der 19. IBES-Staffel, um Reality-Fans nahtlos zu übernehmen. Mit Twenty4Tim als neuem Moderator und Reality-Star Ariel, die parallel auch bei IBES teilnimmt, setzt der Streamingdienst auf personelle Synergien zwischen den Dschungel-Formaten. Die von Warner Bros. produzierte Show schickt zwölf Kandidatinnen nach Kolumbien, wo sie um ein Preisgeld von bis zu 50.000 Euro kämpfen.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Disney+ nennt Termin für \"Malcolm mittendrin\"-Revival",
-          "link": "https://www.dwdl.de/nachrichten/105196/disney_nennt_termin_fuer_malcolm_mittendrinrevival/",
-          "summary": "Disney+ startet am 10. April das vierteilige Revival \"Malcolm Mittendrin: Unfair wie immer\" unter dem Hulu-Label, 20 Jahre nach Ende der Originalserie. Die Hauptdarsteller Frankie Muniz, Bryan Cranston und Jane Kaczmarek kehren zurück, während die Handlung Malcolm zeigt, der nach über einem Jahrzehnt für die 40. Hochzeitsfeier seiner Eltern zur Familie zurückkehrt. Serienschöpfer Linwood Boomer fungiert erneut als Autor und Executive Producer.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "MagentaTV verpflichtet Laura Wontorra für die Fußball-WM",
-          "link": "https://www.dwdl.de/nachrichten/105188/magentatv_verpflichtet_laura_wontorra_fuer_die_fussballwm/",
-          "summary": "MagentaTV verstärkt sein WM-Team um Laura Wontorra, die neben Johannes B. Kerner als Moderatorin fungieren und primär mit Experte Mats Hummels aus dem New Yorker Studio sowie aus den Stadien berichten wird. Die Telekom-Plattform überträgt alle 104 WM-Spiele live, davon 44 Partien (inklusive zwei Viertel- und drei Achtelfinale) exklusiv. Das hochkarätige Team komplettieren Kommentator Wolff Fuss sowie die Experten Thomas Müller und Jürgen Klopp.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Kampf der Realitystars\": RTLzwei hat seine Allstars zusammen",
-          "link": "https://www.dwdl.de/nachrichten/105182/kampf_der_realitystars_rtlzwei_hat_seine_allstars_zusammen/",
-          "summary": "RTLzwei dreht aktuell in Thailand die erste Allstars-Staffel von \"Kampf der Realitystars\" (umbenannt in \"Kampf der RealityAllstars\") mit 24 ehemaligen Teilnehmern, darunter drei frühere Gewinner und Reality-Veteranen wie Kader Loth und Prinz Frédéric von Anhalt (82). Trotz sinkender linearer TV-Quoten bleibt das Format bei RTL+ erfolgreich, weshalb der Sender mit neuen Regeln und überraschenden Wendungen plant.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Unter-16-Jährige: Australien: Social-Media-Aus für Kinder zeigt Wirkung",
-          "link": "https://www.horizont.net/medien/nachrichten/unter-16-jaehrige-australien-social-media-aus-fuer-kinder-zeigt-wirkung-232786?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Australien hat vor gut einem Monat ein Gesetz eingeführt, das Social-Media-Konten für unter 16-Jährige verbietet, woraufhin Millionen von Accounts auf sozialen Plattformen gelöscht wurden. Die Regierung bewertet das Verbot als Erfolg und berichtet, dass junge Menschen die Schulferien verstärkt für Aktivitäten außerhalb digitaler Geräte genutzt haben. Kommunikationsministerin Wells bezeichnet dies als \"unglaubliche australische Erfolgsgeschichte\", die der Welt zeige, wie Kindern ihre Kindheit zurückgegeben werden könne.",
+          "source": "kress",
+          "title": "Nach dem Polit-Sturm: Süddeutsche gewinnt Brosius-Gersdorf Frauke Brosius-Gersdorf schreibt künftig regelmäßig für die Süddeutsche Zeitung. SZ-Chefredakteurin Judith Wittwer betont: Nach den vielen Debatten über ihre Person sei es „nun an der Zeit, dass sie selbst zu Wort kommt“",
+          "link": "https://kress.de/news/beitrag/151636-nach-dem-polit-sturm-sueddeutsche-gewinnt-brosius-gersdorf.html",
+          "summary": "Die Süddeutsche Zeitung hat die Verfassungsrechtlerin Frauke Brosius-Gersdorf als neue Kolumnistin gewonnen, die ab 28. Februar jeden vierten Samstag im Meinungsteil schreiben wird. Brosius-Gersdorf hatte im Juli 2025 ihre Kandidatur für das Bundesverfassungsgericht nach kontroversen Diskussionen zurückgezogen. SZ-Chefredakteurin Judith Wittwer betont, nach den vielen Debatten über ihre Person sei es \"nun an der Zeit, dass sie selbst zu Wort kommt\".",
           "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "Handball-EM: Deutsche Handballer holen zum EM-Auftakt starke Einschaltquoten",
-          "link": "https://www.horizont.net/medien/nachrichten/handball-em-deutsche-handballer-holen-zum-em-auftakt-starke-einschaltquoten-232775?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Das Auftaktspiel der deutschen Handball-Nationalmannschaft gegen Österreich bei der EM erzielte als meistgesehene Sendung des Donnerstags starke Einschaltquoten im Ersten. Der sportliche Erfolg der deutschen Mannschaft in den letzten Jahren hat das Zuschauerinteresse deutlich gesteigert.",
+          "source": "kress",
+          "title": "Die besten Radio/Audio-Manager der Branche",
+          "link": "https://kress.de/news/beitrag/151637-kress-awards-2025-die-besten-radio-audio-manager-der-branche.html",
+          "summary": "Rainer Poelmann von Regiocast wurde bei den kress Awards 2025 als Radio-Manager des Jahres ausgezeichnet. Die Branchenauszeichnungen werden bereits zum zehnten Mal vergeben und ehren Führungskräfte in insgesamt 11 Medienkategorien, die außergewöhnliche Leistungen erbracht und der Branche Zukunftsperspektiven gegeben haben. Die Auswahl erfolgte durch eine Redaktionsjury aus kress-Mitarbeitern nach einem mehrstufigen Nominierungsverfahren.",
           "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "Vertrag verlängert: Bastian Schweinsteiger bleibt ARD-Experte bis 2028",
-          "link": "https://www.horizont.net/medien/nachrichten/vertrag-verlaengert-bastian-schweinsteiger-bleibt-ard-experte-bis-2028-232773?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die ARD hat den Vertrag mit TV-Experte Bastian Schweinsteiger bis 2028 verlängert. Der 41-jährige frühere Fußball-Weltmeister und Ex-Bayern-Profi bleibt damit dem öffentlich-rechtlichen Sender als Fußballexperte erhalten.",
-          "score": 7
+          "source": "kress",
+          "title": "VDE Verlag kauft Huss-Medien",
+          "link": "https://kress.de/news/beitrag/151635-vde-verlag-kauft-huss-medien-elektropraktiker-wechselt-den-eigentuemer.html",
+          "summary": "Der VDE Verlag hat am 7. Januar 2026 die Berliner Huss-Medien GmbH übernommen, um sein Angebot für das Elektrotechniker-Handwerk strategisch zu stärken. Kern der Transaktion ist die auflagenstarke Fachzeitschrift \"elektropraktiker\" sowie weitere Titel wie \"Moderne Gebäudetechnik\" und das Softwaretool epINSTROM. Huss-Medien wird als eigenständige Einheit weitergeführt, während der VDE Verlag plant, Normen, Fachbücher und digitale Inhalte für Elektroprofis enger zu verzahnen.",
+          "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "Social Media: Trotz Kritik an X: EU-Spitzenvertreter nicht bei Mastodon",
-          "link": "https://www.horizont.net/medien/nachrichten/social-media-trotz-kritik-an-x-eu-spitzenvertreter-nicht-bei-mastodon-232743?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Trotz öffentlicher Kritik an Elon Musks Plattform X nutzen fast alle EU-Spitzenvertreter, einschließlich Kommissionspräsidentin Ursula von der Leyen, weiterhin diese Plattform für ihre Kommunikation anstatt auf europäische Alternativen wie Mastodon zu wechseln. Lediglich eine Kommissarin hat ihre Strategie geändert und nutzt nun alternative Kanäle.",
-          "score": 7
+          "source": "kress",
+          "title": "Blue Ocean Entertainment befördert Stefan Christinger zum Chief Operating Officer Blue Ocean Entertainment bündelt Beschaffung, Logistik und Transport",
+          "link": "https://kress.de/news/beitrag/151634-blue-ocean-entertainment-befoerdert-stefan-christinger-zum-chief-operating-officer.html",
+          "summary": "Stefan Christinger wurde zum Chief Operating Officer (COO) bei Blue Ocean Entertainment, der Burda-Tochter für Kindermedien, befördert und übernimmt die operative Gesamtverantwortung für Beschaffung, Logistik, Transport und Produktion. Der Betriebswirt war bereits seit 2024 als Head of Program Management & Logistic bei dem Stuttgarter Unternehmen tätig und soll nun aufgrund des stark gewachsenen Geschäfts mit Collectibles und Loyalty-Programmen sowie der Internationalisierung die Unternehmensprozesse optimieren und verzahnen.",
+          "score": 8
         },
         {
           "source": "kress",
           "title": "Wird True Crime in zehn Jahren immer noch so beliebt sein, Anne Kunze? Zum zehnten Geburtstag von kress pro antworten Führungskräfte auf Fragen zur Zukunft der Medien. Anne Kunze, Chefredakteurin von Zeit Verbrechen, erklärt, warum sich True Crime vom Voyeurismus verabschieden wird",
           "link": "https://kress.de/news/beitrag/151631-wird-true-crime-in-zehn-jahren-immer-noch-so-beliebt-sein-anne-kunze.html",
-          "summary": "Anne Kunze, Chefredakteurin von Zeit Verbrechen, prognostiziert eine Entwicklung des True-Crime-Genres weg vom Voyeurismus hin zu verantwortungsvollerem, kontextreicherem Journalismus mit verstärktem Opferschutz und strengeren Standards. Sie erwartet mehr faktenbasierte, multimediale Formate mit KI-Visualisierungen und \"Slow Crime\"-Ansätzen, die gesellschaftliche Ursachen von Gewalt thematisieren. Das Publikum werde mündiger und verlange nach fundierten, gut kuratierten Inhalten statt reiner Sensationslust.",
-          "score": 8
+          "summary": "Anne Kunze, Chefredakteurin von Zeit Verbrechen, prognostiziert eine Entwicklung des True-Crime-Genres weg vom Voyeurismus hin zu verantwortungsvollerem, kontextualisierten Journalismus mit verstärktem Fokus auf Recherche, Opferschutz und gesellschaftliche Einordnung. Sie erwartet für die kommenden zehn Jahre eine Verschiebung zu \"Slow Crime\" mit grundsätzlichen Fragen zu Gewaltprävention sowie neue multimediale, KI-gestützte Erzählformate bei gleichbleibend hoher Publikumsnachfrage.",
+          "score": 9
         },
         {
           "source": "kress",
           "title": "Jan Hasse ist neuer KI-Verantwortlicher der Dieter von Holtzbrinck Medien Jan Hasse hat die neu...",
           "link": "https://kress.de/news/beitrag/151629-jan-hasse-ist-neuer-ki-verantwortlicher-der-dieter-von-holtzbrinck-medien.html",
-          "summary": "Jan Hasse übernimmt bei der Dieter von Holtzbrinck Medien die neue Position als Group Executive Director AI & Innovation und soll gruppenweite KI-Initiativen vorantreiben sowie als strategischer Berater für die Medienhäuser fungieren. Der ehemalige Hy-Manager bringt über zehn Jahre Erfahrung in Medien und Tech mit und hatte zuvor ein KI-Unternehmen bis zum Exit geführt. Sein Fokus liegt darauf, daten- und KI-getriebene Innovationen von der Konzeption bis zur Skalierung zu entwickeln und den Qualitätsjournalismus wirtschaftlich zu stärken.",
+          "summary": "Jan Hasse übernimmt bei der Dieter von Holtzbrinck Medien die neue Position als Group Executive Director AI & Innovation und soll gruppenweite KI-Initiativen vorantreiben sowie als strategischer Partner für die Medienhäuser fungieren. Der erfahrene KI-Stratege und Unternehmer war zuletzt bei Hy (Axel Springer) tätig und hatte zuvor ein KI-Unternehmen bis zum Exit geführt. Die Holtzbrinck-Gruppe vereint Handelsblatt Media Group, Tagesspiegel Verlagsgruppe und 50% der Zeit Verlagsgruppe unter ihrem Dach.",
           "score": 8
         },
         {
-          "source": "meedia",
-          "title": "\"Babylon Berlin\" geht zu Ende ARD setzt 2026 auf starke Serien, den \"ESC\" und das Super-Sportjahr...",
-          "link": "https://meedia.de/news/beitrag/20938-ard-setzt-2026-auf-starke-serien-den-quot-esc-quot-und-das-super-sportjahr.html",
-          "summary": "Die ARD richtet ihr Programm 2026 strategisch auf fiktionale Inhalte, große Live-Events wie Fußball-WM, Handball-EM, Olympische Winterspiele und den Eurovision Song Contest mit seinem 70-jährigen Jubiläum aus. Programmhöhepunkt wird das große Finale der international erfolgreichen Serie \"Babylon Berlin\", ergänzt durch weitere hochwertige Serienproduktionen und neue Comedy-Formate der \"Die Discounter\"-Macher. ARD-Programmdirektorin Christine Strobl betont dabei die Strategie, \"große Lagerfeuermomente mit starken Streaming-Serien\" zu verbinden und sowohl im linearen Fernsehen als auch in der ARD Mediathek präsent zu sein.",
-          "score": 10
-        },
-        {
-          "source": "meedia",
-          "title": "Bislang Digitalexperte bei Springer Holtzbrinck macht Jan Hasse zum KI-Chef der Gruppe Das Unternehmen Dieter von Holtzbrinck Medien bündeln seine Aktivitäten im Bereich Künstliche Intelligenz künftig unter einer zentralen Verantwortung. Jan Hasse übernimmt die neu geschaffene Rolle des gruppenweiten KI-Verantwortlichen. Er soll den Ausbau Daten- und KI-getriebener Initiativen in den Medienhäusern der Gruppe (unter anderem „Tagesspiegel“&nbsp;und „Handelsblatt“) vorantreiben. Woher man Hasse kennt",
-          "link": "https://meedia.de/news/beitrag/20940-holtzbrinck-macht-jan-hasse-zum-ki-chef-der-gruppe.html",
-          "summary": "Die Dieter von Holtzbrinck Medien Gruppe hat Jan Hasse zum neuen gruppenweiten KI-Verantwortlichen ernannt, um ihre Aktivitäten im Bereich Künstliche Intelligenz zentral zu bündeln. Hasse, der zuvor als Digitalexperte bei Springer tätig war, soll KI-getriebene Initiativen in den Medienhäusern der Gruppe wie \"Tagesspiegel\" und \"Handelsblatt\" vorantreiben. Als zentraler Sparringspartner für die Geschäftsführungen wird er KI-Anwendungen in Redaktion, Produktentwicklung und Geschäftsmodellen entwickeln, um Qualitätsjournalismus technologisch und wirtschaftlich zu stärken.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "ProSiebenSat.1-Tochter Virtual-Minds-Geschäftsführer Tom Peruzzi geht von Bord In der Chefetage des Adtech-Spezialisten Virtual Minds kommt es zu einer personellen Veränderung. Tom Peruzzi, seit 2021 Sprecher der Geschäftsführung, scheidet „auf eigenen Wunsch“, wie es in Freiburg heißt, zum 31. Januar aus dem Management des Unternehmens aus. Seine Nachfolge ist bereits geregelt",
-          "link": "https://meedia.de/news/beitrag/20939-virtual-minds-geschaeftsfuehrer-tom-peruzzi-geht-von-bord.html",
-          "summary": "Tom Peruzzi, seit 2021 Geschäftsführer der ProSiebenSat.1-Tochter Virtual Minds, verlässt das Adtech-Unternehmen zum 31. Januar auf eigenen Wunsch nach insgesamt acht Jahren im Top-Management. Die operative Führung übernehmen die bisherigen Mitgeschäftsführer Dirk von Borstel und Ricarda Jebsen gemeinsam. Unter Peruzzis Leitung trieb Virtual Minds die technologische Integration des Programmatic-Stacks voran und expandierte über den DACH-Raum hinaus in weitere europäische Märkte.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts \"Der Bergdoktor\" hält sich extrem gut gegen den Auftakt der...",
-          "link": "https://meedia.de/news/beitrag/20937-quot-der-bergdoktor-quot-haelt-sich-extrem-gut-gegen-den-auftakt-der-handball-em.html",
-          "summary": "Das erste deutsche Handball-EM-Spiel führte am Donnerstag mit 5,53 Millionen Zuschauern (23,7%) die TV-Charts an, während \"Der Bergdoktor\" im ZDF mit 4,95 Millionen (21,2%) überraschend stark dagegenhielt und seine Vorwochenwerte nahezu halten konnte. Bei den Privatsendern dominierte Sat.1 mit dem \"1% Quiz\" (1,44 Mio./6,3%), während RTL und Vox knapp über der Million-Marke lagen.",
+          "source": "kress",
+          "title": "Tanja Brandes wird Vize-Leiterin des Kulturressorts Philipp Holstein übernimmt, wie bereits von...",
+          "link": "https://kress.de/news/beitrag/151627-rheinische-post-tanja-brandes-wird-vize-leiterin-des-kulturressorts.html",
+          "summary": "Tanja Brandes wird zum 1. Februar 2026 zur stellvertretenden Leiterin des Kulturressorts der Rheinischen Post befördert, nachdem sie seit November 2021 als Newsmanagerin in der Zentralredaktion tätig war. Die studierte Dramaturgin bringt umfassende Medienexperience mit, unter anderem vom Kölner Stadt-Anzeiger, General-Anzeiger Bonn und der Berliner Zeitung. Chefredakteur Moritz Döbler hebt ihre Kulturexpertise und digitales Organisationsgeschick als ausschlaggebende Qualifikationen hervor.",
           "score": 8
         },
         {
-          "source": "meedia",
-          "title": "Ein Branding-Plädoyer von Alicia Wittig Warum starke Marken in der Performance-Marketing-Falle...",
-          "link": "https://meedia.de/news/beitrag/20886-warum-starke-marken-in-der-performance-marketing-falle-verschwinden.html",
-          "summary": "Laut Alicia Wittig (DEPT) haben weltweit führende Marken seit Einführung des Interbrand-Rankings Billionenwerte verloren, da sie sich zu stark auf Performance Marketing fokussieren und den langfristigen Markenaufbau vernachlässigen. Google- und WARC-Daten zeigen, dass die Hälfte des Marketing-ROI unsichtbar ist: Die langfristigen Effekte der ersten vier Monate Media Investment entsprechen den Returns der folgenden 20 Monate, werden aber in den meisten Dashboards nicht erfasst. Während CMOs kämpfen, ROI als primäre Metrik nachzuweisen, und die C-Suite-Unterstützung für Brand-Building zurückgeht, verändert KI bereits fundamental die Art, wie Marken entdeckt werden.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Mit Marken wie Bavaria blu, Almzeit und Bergbauern Käse Bergader Privatkäserei vergibt den...",
-          "link": "https://meedia.de/news/beitrag/20932-bergader-privatkaeserei-vergibt-den-media-etat-an-jom.html",
-          "summary": "Die Bergader Privatkäserei (Marken wie Bavaria blu, Almzeit) hat ihren Media-Etat ab 1. Januar 2025 an die JOM Group vergeben, die nun Mediaberatung, -planung und -einkauf für alle klassischen Mediagattungen übernimmt. Die Zusammenarbeit erfolgte ohne Pitch von den JOM-Standorten München und Hamburg aus, wobei die bisherige Digitalagentur NetzwerkReklame weiterhin eingebunden bleibt. Ausschlaggebend für die Entscheidung war JOMs TV-Planungsansatz, da Television für Bergader ein wichtiger Marken-Touchpoint zur Zielgruppenansprache bleibt.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "BBC could soon make programmes for release first on YouTube under deal",
-          "link": "https://www.theguardian.com/media/2026/jan/16/bbc-programmes-youtube-deal",
-          "summary": "Die BBC plant, unter politischem und regulatorischem Druck stehend, erstmals Programme primär für YouTube zu produzieren, um jüngere Zielgruppen zu erreichen, wobei die Inhalte später auf BBC iPlayer verfügbar werden sollen. Die für nächste Woche erwartete Ankündigung wirft kritische Fragen zur Finanzierung durch Rundfunkgebühren auf, da die YouTube-exklusiven Inhalte möglicherweise ohne Lizenzgebühr konsumiert werden können. Unklar bleibt, ob YouTube im Gegenzug der BBC garantierte Prominenz auf der Plattform zusichert.",
-          "score": 9
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Grok AI: what do limits on tool mean for X, its users and UK media watchdog?",
-          "link": "https://www.theguardian.com/technology/2026/jan/15/grok-ai-images-uk-limits-x-app-ofcom",
-          "summary": "X hat technische Maßnahmen implementiert, um zu verhindern, dass Nutzer über das Grok AI-Tool Bilder realer Personen in enthüllender Kleidung manipulieren können, nachdem dies zu einer öffentlichen Kontroverse und einer Ofcom-Untersuchung geführt hatte. Die Bildbearbeitung wird künftig auf zahlende Abonnenten beschränkt, um eine bessere Rückverfolgbarkeit zu gewährleisten, während spezifische Länder zusätzliche Einschränkungen bei der Generierung von Bildern realer Personen erhalten. Diese Änderungen betreffen sowohl den @Grok-Account auf X als auch die separate Grok-App von Musks xAI-Unternehmen.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "More than 100,000 people urge MPs to ban social media for under-16s in UK",
-          "link": "https://www.theguardian.com/media/2026/jan/15/people-urge-mps-ban-social-media-under-16s-uk-starmer",
-          "summary": "Über 100.000 Menschen haben britische Abgeordnete mittels einer Kampagne der Organisation \"Smartphone Free Childhood\" aufgefordert, Social Media für unter 16-Jährige nach australischem Vorbild zu verbieten. Premierminister Keir Starmer signalisierte Interesse an solchen Maßnahmen und äußerte Besorgnis über exzessive Bildschirmzeit bereits bei Kleinkindern, während Gesundheitsminister Wes Streeting sowohl die Vorteile als auch die Risiken von Social Media für die Entwicklung Jugendlicher betonte.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Amol Rajan to leave Radio 4’s Today programme to start own company",
-          "link": "https://www.theguardian.com/media/2026/jan/15/amol-rajan-leave-bbc-radio-4-today-start-own-company",
-          "summary": "Amol Rajan verlässt die BBC Radio 4 Today-Sendung, um ein eigenes Unternehmen im Bereich der Creator Economy zu gründen, bleibt aber als Moderator für University Challenge und seinen Radical Podcast bei der BBC. Die Entscheidung folgt auf den Abgang von Mishal Husain Ende 2024 und hinterlässt eine weitere Lücke im Moderatorenteam der politisch einflussreichen Morgensendung. Rajan begründet den Schritt mit seinem unternehmerischen Ehrgeiz und dem Wunsch, in die digitale Medienwelt einzusteigen, während die Today-Sendung bereits mit sinkenden Hörerzahlen kämpft.",
+          "source": "Deadline",
+          "title": "White House Threatened Trump Would Sue CBS If Tony Dokoupil’s POTUS Interview Didn’t Air In Full On ‘Evening News’",
+          "link": "https://deadline.com/2026/01/trump-threatens-to-sue-cbs-tony-dokoupil-interview-1236686119/",
+          "summary": "Das Weiße Haus drohte CBS mit einer Klage durch Präsident Trump, falls ein 13-minütiges Interview mit Anchor Tony Dokoupil nicht vollständig in den Evening News ausgestrahlt würde. CBS sendete das Interview ungekürzt und erklärte, diese Entscheidung bereits vor der Drohung getroffen zu haben. Der Vorfall ist besonders brisant, da Paramount (CBS' Mutterkonzern) erst kürzlich eine Trump-Klage wegen der Bearbeitung eines Kamala Harris-Interviews für 16 Millionen Dollar beigelegt hatte.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘Fire Country’ Showrunner Tia Napolitano To Depart At End Of Season 4",
-          "link": "https://deadline.com/2026/01/fire-country-showrunner-tia-napolitano-leaving-season-4-1236685718/",
-          "summary": "Tia Napolitano verlässt nach vier Saisons ihre Position als Showrunnerin der erfolgreichen CBS-Serie \"Fire Country\" und wird sich auf eigene Entwicklungsprojekte unter ihrem Gesamtvertrag mit CBS Studios konzentrieren. Die Serie, die seit ihrem Start 2022 konstant hohe Zuschauerzahlen erreicht und bereits den Spin-off \"Sheriff Country\" hervorbrachte, wird nun einen neuen Showrunner suchen. Napolitano war seit der Pilotfolge maßgeblich für den Erfolg der Feuerwehr-Drama-Serie verantwortlich, die regelmäßig ihren Freitagabend-Sendeplatz gewinnt.",
-          "score": 9
+          "title": "Matt Damon Explains How Audiences’ Low Attention Spans Influenced Netflix’s Rule For “How You Make Movies”",
+          "link": "https://deadline.com/2026/01/matt-damon-audiences-low-attention-spans-netflix-rule-1236686082/",
+          "summary": "Matt Damon erklärt, dass Netflix aufgrund der geringen Aufmerksamkeitsspanne der Zuschauer beim Streaming seine Filmproduktionsregeln angepasst hat: Action-Sequenzen sollen bereits in den ersten fünf Minuten stattfinden, um die Zuschauer zu halten. Zusätzlich werden Drehbuchautoren angewiesen, Handlungselemente mehrfach im Dialog zu wiederholen, da davon ausgegangen wird, dass Zuschauer parallel auf ihren Handys sind. Diese Streaming-spezifischen Produktionsanpassungen beeinflussen zunehmend die traditionelle Drei-Akt-Struktur von Action-Filmen.",
+          "score": 7
         },
         {
-          "source": "Deadline",
-          "title": "Mediawan In Talks To Buy Peter Chernin’s The North Road Company",
-          "link": "https://deadline.com/2026/01/mediawan-peter-chernin-the-north-road-company-talks-1236685747/",
-          "summary": "Der französische Medienkonzern Mediawan befindet sich in Verhandlungen zum Erwerb von Peter Chernins The North Road Company, die hinter erfolgreichen Produktionen wie \"Love Is Blind\", \"The Madness\" und \"Ford vs. Ferrari\" steht. Die Übernahme würde Mediewans aggressive Expansionsstrategie fortsetzen, nachdem das Unternehmen bereits See-Saw Films und Brad Pitts Plan B akquiriert hat. Der Deal soll voraussichtlich in den kommenden Wochen abgeschlossen werden und stärkt Mediewans Position als internationaler Content-Player mit einem Jahresumsatz von €1 Milliarde.",
-          "score": 10
+          "source": "Hollywood Reporter",
+          "title": "White House Threatened to Sue CBS if Trump ‘Evening News’ Interview Wasn’t Aired in Full",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/white-house-threaten-sue-cbs-trump-evening-news-interview-1236477227/",
+          "summary": "Das Weiße Haus drohte CBS mit einer Klage, falls ein Interview von Präsident Trump mit CBS Evening News-Moderator Tony Dokoupil nicht vollständig ausgestrahlt würde, wobei Pressesprecherin Karoline Leavitt die Botschaft überbrachte: \"Wenn es nicht vollständig gesendet wird, verklagen wir euch.\" CBS erklärte, sie hätten bereits vor der Drohung geplant, das Interview ungekürzt zu senden. Der Vorfall erfolgte vor dem Hintergrund einer kürzlich beilegten 16-Millionen-Dollar-Klage Trumps gegen CBS wegen der Bearbeitung eines 60 Minutes-Interviews mit Kamala Harris.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Matt Damon Says Netflix Wants Plots Reiterated “Three or Four Times in the Dialogue” for Phone-Distracted Viewers",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/matt-damon-netflix-plots-reiterated-distracted-viewers-1236477116/",
+          "summary": "Matt Damon erklärt, dass Netflix aufgrund abgelenkter Zuschauer, die zu Hause mit Smartphones schauen, verlangt, dass Handlungsstränge \"drei oder vier Mal im Dialog\" wiederholt werden. Dies unterscheidet sich grundlegend von der traditionellen Kinoerfahrung, wo Zuschauer konzentrierter sind. Der Streaming-Gigant passt seine Filmproduktionsstandards entsprechend an die veränderten Sehgewohnheiten an.",
+          "score": 7
         },
         {
           "source": "Variety",
-          "title": "NBC Orders Two More Drama Pilots: ‘What the Dead Know’ From Dick Wolf and a ‘Puzzle Master’ Adaptation",
-          "link": "https://variety.com/2026/tv/news/nbc-dick-wolf-pilot-what-the-dead-know-puzzle-master-1236633725/",
-          "summary": "NBC hat zwei weitere Drama-Piloten für die Saison 2026 bestellt: \"Puzzled\" basiert auf den \"Puzzle Master\"-Büchern und folgt einem ehemaligen Athleten mit Hirnverletzung, der dadurch die Fähigkeit erhält, Verbrechen zu lösen. \"What the Dead Know\" stammt von Dick Wolf und basiert auf den Memoiren einer New Yorker Gerichtsmedizinerin, wobei eine Todesermittlerin im Mittelpunkt steht, die besser mit Toten als mit Lebenden umgehen kann.",
+          "title": "White House Threatened to Sue CBS Over ‘Evening News’ Interview With Trump",
+          "link": "https://variety.com/2026/tv/news/white-house-threatened-cbs-evening-news-trump-interview-1236634058/",
+          "summary": "Das Weiße Haus drohte CBS mit einer Klage, falls ein Interview zwischen Präsident Trump und Anchor Tony Dokoupil für die \"Evening News\" bearbeitet würde, wobei Pressesprecherin Karoline Leavitt forderte, das Interview ungekürzt auszustrahlen. Dies folgt einem Muster von Trumps rechtlichen Auseinandersetzungen mit Medienunternehmen, nachdem er bereits 16 Millionen Dollar von CBS' Mutterkonzern Paramount wegen der Bearbeitung eines \"60 Minutes\"-Interviews mit Kamala Harris erhalten hatte. Trump hat systematisch mehrere Medienunternehmen in rechtliche Streitigkeiten verwickelt, darunter Disney, das Wall Street Journal und die BBC.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Matt Damon Says Netflix Wants Movies to Restate the ‘Plot Three or Four Times in the Dialogue’ Because Viewers are on ‘Their Phones While They’re Watching’",
+          "link": "https://variety.com/2026/film/news/matt-damon-netflix-movies-restate-plot-viewers-on-phones-1236633939/",
+          "summary": "Matt Damon erklärt, dass Netflix aufgrund der geteilten Aufmerksamkeit von Zuschauern, die während des Streamings ihre Smartphones nutzen, eine veränderte Filmstruktur fordert. Der Streaming-Dienst bevorzugt große Action-Sequenzen bereits zu Filmbeginn statt im Finale und verlangt eine drei- bis vierfache Wiederholung zentraler Handlungselemente im Dialog. Diese Anpassungen spiegeln die veränderten Sehgewohnheiten beim Home-Entertainment im Vergleich zum traditionellen Kinoerlebnis wider.",
           "score": 7
         }
       ]
