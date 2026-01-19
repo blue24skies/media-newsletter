@@ -1,111 +1,125 @@
 {
   "newsletters": [
     {
-      "date": "2026-01-18",
+      "date": "2026-01-19",
       "articles": [
         {
           "source": "DWDL",
-          "title": "\"Let’s Dance\"-Starterfeld für 2026 ist fast komplett",
-          "link": "https://www.dwdl.de/nachrichten/105195/lets_dancestarterfeld_fuer_2026_ist_fast_komplett/",
-          "summary": "RTL hat das Starterfeld für \"Let's Dance\" 2026 nahezu komplett bekanntgegeben, darunter Esther Schweins, Gustav Schäfer (Tokio Hotel), Simon Gosejohann und Ross Antony - lediglich eine weibliche Teilnehmerin steht noch aus. Die erfolgreiche Tanzshow, die zuletzt über 3 Millionen Zuschauer pro Folge erreichte, startet voraussichtlich im Februar mit unveränderter Jury (Mabuse, Llambi, González) und den gewohnten Moderatoren Hartwich/Swarovski.",
+          "title": "Leonine Studios übernimmt DVD- und Blu-ray-Vertrieb für Paramount",
+          "link": "https://www.dwdl.de/nachrichten/105228/leonine_studios_uebernimmt_dvd_und_blurayvertrieb_fuer_paramount/",
+          "summary": "Leonine Studios hat zu Jahresbeginn 2026 den kompletten physischen Home-Entertainment-Vertrieb (DVD, Blu-ray, 4K UHD) für Paramount Pictures im deutschsprachigen Raum (DACH) übernommen. Die Partnerschaft umfasst sowohl neue Paramount-Releases als auch das bestehende Programmkatalog von CBS, Showtime, Nickelodeon, Comedy Central und MTV mit Premium-IPs wie \"Mission Impossible\", \"Star Trek\" und \"Paw Patrol\". Die Vereinbarung stärkt Leonines Position als zentraler Anbieter im physischen Home-Entertainment-Markt und sichert die Versorgung mit hochwertigen Paramount-Inhalten für Sammler und Fans.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Zwei Jahre verspätet: Raab ist raus bei Banijay",
+          "link": "https://www.dwdl.de/nachrichten/105224/zwei_jahre_verspaetet_raab_ist_raus_bei_banijay/",
+          "summary": "Stefan Raab hat seine 10-Prozent-Beteiligung an Banijay Germany Ende 2025 an den französischen Mutterkonzern verkauft, womit eine bereits 2023 geplante Trennung zwei Jahre verspätet abgeschlossen wurde. Die Verzögerung resultierte aus Differenzen über den Kaufpreis, während Raab parallel seine eigene Produktionsfirma Raab Entertainment aufbaute und paradoxerweise Mitgesellschafter seines Konkurrenten blieb. Banijay Entertainment hält nun 90,22 Prozent an der deutschen Tochter, die Details der finalen Einigung bleiben vertraulich.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "CDU in Sachsen und Sachsen-Anhalt will Fusion von ARD und ZDF",
+          "link": "https://www.dwdl.de/nachrichten/105223/cdu_in_sachsen_und_sachsenanhalt_will_fusion_von_ard_und_zdf/",
+          "summary": "Die CDU in Sachsen und Sachsen-Anhalt fordert in einem neuen Positionspapier die Fusion der Hauptprogramme von ARD und ZDF, da parallele Inhalte unnötige Doppelstrukturen und -kosten verursachen würden. Die Partei argumentiert, dass die ursprüngliche Doppelstruktur zur Sicherung der Meinungsvielfalt angesichts privater und non-linearer Angebote nicht mehr zeitgemäß sei, während die Dritten Programme der ARD weiterhin als wichtiger Garant für Meinungsvielfalt gelten sollen. Diese Forderung reiht sich in die kontinuierliche Blockadehaltung beider Länder gegen medienpolitische Reformen ein, nachdem sie bereits das neue Beitrags-Festsetzungsverfahren verhindert hatten.",
+          "score": 9
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Beständiges Wachstum: YouTube bietet &quot;Business Channels&quot; und &quot;neue Erlösströme&quot;",
+          "link": "https://www.horizont.net/medien/nachrichten/bestaendiges-wachstum-youtube-bietet-business-channels-und-neue-erloesstroeme-232794?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "RTL baut seit einem Jahr gezielt \"Business Channels\" auf YouTube als neuen Erlösstrom auf und setzt dabei auf professionelle, regelmäßige Content-Strategien. YouTube wird für Unternehmen zunehmend relevant, wobei durchdachte Kanal-Konzepte und kontinuierliche Investitionen in Content-Erstellung entscheidend für optimale Werbewirkung und Reichweitensteigerung sind. Erfolg auf der Plattform hängt maßgeblich von Beständigkeit und einem verlässlichen Veröffentlichungsrhythmus ab, da das Publikum Professionalität und Regelmäßigkeit schätzt.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Media: Beim Ringen um die Reichweiten kann es keinen Ruhestand geben",
+          "link": "https://www.horizont.net/medien/nachrichten/media-warum-es-beim-ringen-um-die-reichweiten-keinen-ruhestand-gibt-232730?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die etablierten Mediastandards und Joint Industry Committees erodieren durch zunehmende Fliehkräfte im Medienwandel der letzten drei Jahrzehnte. Medienforscher Michael Hallemann diagnostiziert diese Entwicklung als deutliches Problem, das neue Lösungsansätze im Ringen um Reichweitenmessung erfordert. Der kontinuierliche Medienwandel macht einen \"Ruhestand\" bei der Reichweitenmessung unmöglich.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Warner Bros.-Übernahme: Netflix beruhigt Filmtheater-Branche: keine Änderung an Kino-Zeitfenster",
-          "link": "https://www.horizont.net/medien/nachrichten/warner-bros.-uebernahme-netflix-beruhigt-filmtheater-branche-keine-aenderung-an-kino-zeitfenster-232791?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Netflix-Co-Chef Ted Sarandos beruhigt die Kinobetreiber bezüglich der Warner Bros.-Übernahme und versichert, dass das traditionelle 45-Tage-Zeitfenster für die exklusive Kinoauswertung beibehalten wird. Der Streaming-Konzern will das etablierte Kino-Geschäft von Warner nicht gefährden und zeigt sich kompromissbereit gegenüber der Filmtheater-Branche.",
-          "score": 10
-        },
-        {
-          "source": "kress",
-          "title": "Nach dem Polit-Sturm: Süddeutsche gewinnt Brosius-Gersdorf Frauke Brosius-Gersdorf schreibt künftig regelmäßig für die Süddeutsche Zeitung. SZ-Chefredakteurin Judith Wittwer betont: Nach den vielen Debatten über ihre Person sei es „nun an der Zeit, dass sie selbst zu Wort kommt“",
-          "link": "https://kress.de/news/beitrag/151636-nach-dem-polit-sturm-sueddeutsche-gewinnt-brosius-gersdorf.html",
-          "summary": "Die Süddeutsche Zeitung hat die Verfassungsrechtlerin Frauke Brosius-Gersdorf als neue Kolumnistin gewonnen, die ab 28. Februar jeden vierten Samstag im Meinungsteil schreiben wird. Brosius-Gersdorf hatte im Juli 2025 ihre Kandidatur für das Bundesverfassungsgericht nach kontroversen Diskussionen zurückgezogen. SZ-Chefredakteurin Judith Wittwer betont, nach den vielen Debatten über ihre Person sei es \"nun an der Zeit, dass sie selbst zu Wort kommt\".",
+          "title": "Umfrage zum Jahresauftakt: Sinnhaftigkeit und Level Playing Field: Die Wünsche der Vermarkter für 2026",
+          "link": "https://www.horizont.net/medien/nachrichten/umfrage-zum-jahresauftakt-sinnhaftigkeit-und-level-playing-field-die-wuensche-der-vermarkter-fuer-2026-232747?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Eine HORIZONT-Umfrage zeigt, dass Vermarkter trotz Wirtschaftskrise, politischen Konflikten und technologischer Disruption mit grundsätzlich konstruktiver Haltung ins Jahr 2026 starten. Dabei fordern sie verstärkt Sinnhaftigkeit in der Branche und faire Wettbewerbsbedingungen (Level Playing Field) ein. Gleichzeitig nehmen die Befragten andere Marktteilnehmer stärker in die Verantwortung für positive Branchenentwicklungen.",
           "score": 8
         },
         {
+          "source": "Horizont Medien",
+          "title": "Europas Adtech-Vordenker geht: Was Tom Peruzzis Abschied für Virtual Minds bedeutet",
+          "link": "https://www.horizont.net/medien/nachrichten/europas-adtech-vordenker-geht-was-tom-peruzzis-abschied-fuer-virtual-minds-bedeutet-232770?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Tom Peruzzi, eine Schlüsselfigur in der strategischen Entwicklung der europäischen Adtech-Branche, verlässt Virtual Minds nach Jahren prägender Arbeit. Sein Abschied stellt das Unternehmen vor die Herausforderung, die strategische Kontinuität ohne den einflussreichen Vordenker zu gewährleisten. Die Nachfolger müssen nun beweisen, dass sie Virtual Minds' Position im Adtech-Markt ohne Peruzzis expertise aufrechterhalten können.",
+          "score": 7
+        },
+        {
           "source": "kress",
-          "title": "Die besten Radio/Audio-Manager der Branche",
+          "title": "Machtkampf in Frankfurt: Wie Ulrich Wilhelm die FAZ umkrempelt Ex-BR-Intendant Ulrich Wilhelm schwingt sich zum starken Mann bei der FAZ auf.",
+          "link": "https://kress.de/news/beitrag/151638-machtkampf-in-frankfurt-wie-ulrich-wilhelm-die-faz-umkrempelt.html",
+          "summary": "Ex-BR-Intendant Ulrich Wilhelm etabliert sich als einflussreiche Führungsfigur bei der FAZ und krempelt die Machtverhältnisse um, was bereits zu Querelen und dem Ausscheiden von vier Aufsichtsratsmitgliedern geführt hat. Trotz wirtschaftlicher Stabilität mit 21 Millionen Euro Gewinn vor Steuern resultiert der Erfolg primär aus Finanz- und Beteiligungserträgen, nicht aus dem publizistischen Kerngeschäft. Die internen Spannungen um Wilhelms wachsenden Einfluss als Kuratoriums-Vorsitzender der Fazit-Stiftung werden von der FAZ selbst diskret verschwiegen.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Die besten Radio/Audio-Manager der Branche Wer hat das Radio/Audio-Geschäft 2025 entscheidend...",
           "link": "https://kress.de/news/beitrag/151637-kress-awards-2025-die-besten-radio-audio-manager-der-branche.html",
-          "summary": "Rainer Poelmann von Regiocast wurde bei den kress Awards 2025 als Radio-Manager des Jahres ausgezeichnet. Die Branchenauszeichnungen werden bereits zum zehnten Mal vergeben und ehren Führungskräfte in insgesamt 11 Medienkategorien, die außergewöhnliche Leistungen erbracht und der Branche Zukunftsperspektiven gegeben haben. Die Auswahl erfolgte durch eine Redaktionsjury aus kress-Mitarbeitern nach einem mehrstufigen Nominierungsverfahren.",
-          "score": 8
+          "summary": "Rainer Poelmann von Regiocast wurde bei den kress Awards 2025 als Radio-Manager des Jahres ausgezeichnet. Die Fachzeitschrift \"kress pro\" vergab zum zehnten Mal ihre Awards für die besten Medien-Führungskräfte in insgesamt 11 Kategorien, wobei die Redaktion als Jury fungierte und Kandidaten nach außergewöhnlichen Leistungen und Zukunftsbeitrag zur Branche bewertete. Die Auswahl erfolgte über Shortlists mit bis zu zehn Kandidaten pro Kategorie, wobei Vorjahressieger ausgeschlossen waren.",
+          "score": 7
         },
         {
           "source": "kress",
-          "title": "VDE Verlag kauft Huss-Medien",
-          "link": "https://kress.de/news/beitrag/151635-vde-verlag-kauft-huss-medien-elektropraktiker-wechselt-den-eigentuemer.html",
-          "summary": "Der VDE Verlag hat am 7. Januar 2026 die Berliner Huss-Medien GmbH übernommen, um sein Angebot für das Elektrotechniker-Handwerk strategisch zu stärken. Kern der Transaktion ist die auflagenstarke Fachzeitschrift \"elektropraktiker\" sowie weitere Titel wie \"Moderne Gebäudetechnik\" und das Softwaretool epINSTROM. Huss-Medien wird als eigenständige Einheit weitergeführt, während der VDE Verlag plant, Normen, Fachbücher und digitale Inhalte für Elektroprofis enger zu verzahnen.",
+          "title": "Erfolgreich, auch wenn die Zeiten härter werden 84 Prozent blicken inzwischen beunruhigt in die...",
+          "link": "https://kress.de/news/beitrag/151633-krisen-kompetenzen-erfolgreich-auch-wenn-die-zeiten-haerter-werden.html",
+          "summary": "Karrierecoach Attila Albert gibt Ratschläge für Medienprofis angesichts der Tatsache, dass 84 Prozent der Menschen beunruhigt in die Zukunft blicken und sich fundamentale wirtschaftliche Probleme aufgetürmt haben. Er empfiehlt weder blinden Optimismus noch Pessimismus, sondern \"Zuversicht\" - einen realistischen Blick auf die Situation bei gleichzeitigem Vertrauen in die eigene Problemlösungsfähigkeit. Statt die Realität durch \"positives Denken\" auszublenden, sollten Medienprofis echte Krisenkompetenzen entwickeln, um vorhandene Chancen zu erkennen und zu nutzen.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Er kommt von Utiq Norman Wagner wird Geschäftsführer der Omnicom-Mediaagentur Pion3ers Norman Wagner, bisher Managing Director DACH bei der Ad-Tech-Firma Utiq, wechselt zum 1. März zur Mediaagentur Pion3ers, die seit 2024 als exklusive Mediaagentur für die Rewe Group arbeitet",
+          "link": "https://meedia.de/news/beitrag/20941-norman-wagner-wird-geschaeftsfuehrer-der-omnicom-mediaagentur-pion3ers.html",
+          "summary": "Norman Wagner wechselt zum 1. März von seiner Position als Managing Director DACH bei der Ad-Tech-Firma Utiq zur Omnicom-Mediaagentur Pion3ers, wo er gemeinsam mit Jana Eckhardt die Geschäftsführung übernimmt. Die Agentur arbeitet seit 2024 primär für die Rewe Group und Wagner folgt auf Joel Koch, der das Unternehmen auf eigenen Wunsch verlässt. Wagner bringt umfassende Media-Expertise mit, unter anderem aus seiner Zeit bei Mediacom, als Mediachef der Deutschen Telekom und zuletzt bei dem europäischen Ad-Tech-Unternehmen Utiq.",
           "score": 8
         },
         {
-          "source": "kress",
-          "title": "Blue Ocean Entertainment befördert Stefan Christinger zum Chief Operating Officer Blue Ocean Entertainment bündelt Beschaffung, Logistik und Transport",
-          "link": "https://kress.de/news/beitrag/151634-blue-ocean-entertainment-befoerdert-stefan-christinger-zum-chief-operating-officer.html",
-          "summary": "Stefan Christinger wurde zum Chief Operating Officer (COO) bei Blue Ocean Entertainment, der Burda-Tochter für Kindermedien, befördert und übernimmt die operative Gesamtverantwortung für Beschaffung, Logistik, Transport und Produktion. Der Betriebswirt war bereits seit 2024 als Head of Program Management & Logistic bei dem Stuttgarter Unternehmen tätig und soll nun aufgrund des stark gewachsenen Geschäfts mit Collectibles und Loyalty-Programmen sowie der Internationalisierung die Unternehmensprozesse optimieren und verzahnen.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Wird True Crime in zehn Jahren immer noch so beliebt sein, Anne Kunze? Zum zehnten Geburtstag von kress pro antworten Führungskräfte auf Fragen zur Zukunft der Medien. Anne Kunze, Chefredakteurin von Zeit Verbrechen, erklärt, warum sich True Crime vom Voyeurismus verabschieden wird",
-          "link": "https://kress.de/news/beitrag/151631-wird-true-crime-in-zehn-jahren-immer-noch-so-beliebt-sein-anne-kunze.html",
-          "summary": "Anne Kunze, Chefredakteurin von Zeit Verbrechen, prognostiziert eine Entwicklung des True-Crime-Genres weg vom Voyeurismus hin zu verantwortungsvollerem, kontextualisierten Journalismus mit verstärktem Fokus auf Recherche, Opferschutz und gesellschaftliche Einordnung. Sie erwartet für die kommenden zehn Jahre eine Verschiebung zu \"Slow Crime\" mit grundsätzlichen Fragen zu Gewaltprävention sowie neue multimediale, KI-gestützte Erzählformate bei gleichbleibend hoher Publikumsnachfrage.",
+          "source": "Guardian Media",
+          "title": "Tech companies’ access to UK ministers dwarfs that of child safety groups",
+          "link": "https://www.theguardian.com/politics/2026/jan/17/tech-companies-access-to-uk-ministers-dwarfs-that-of-child-safety-groups",
+          "summary": "Eine Guardian-Untersuchung zeigt, dass Tech-Konzerne wie Google, Amazon, Meta und X über einen Zeitraum von zwei Jahren mehr als 100 ministerielle Meetings abhielten – eine Frequenz von über einem Treffen pro Arbeitstag. Diese privilegierte politische Zugänglichkeit übersteigt die Kontakte von Kinderschutz- und Urheberrechtsorganisationen erheblich, wobei selbst X trotz Kontroversen um sexualisierte KI-Bilder mehr Ministertermine hatte als etablierte Kinderschutzgruppen wie die NSPCC. Kritiker bezeichnen dieses Muster als \"shocking\" und warnen vor einer \"Vereinnahmung\" der Regierung durch die Tech-Industrie.",
           "score": 9
         },
         {
-          "source": "kress",
-          "title": "Jan Hasse ist neuer KI-Verantwortlicher der Dieter von Holtzbrinck Medien Jan Hasse hat die neu...",
-          "link": "https://kress.de/news/beitrag/151629-jan-hasse-ist-neuer-ki-verantwortlicher-der-dieter-von-holtzbrinck-medien.html",
-          "summary": "Jan Hasse übernimmt bei der Dieter von Holtzbrinck Medien die neue Position als Group Executive Director AI & Innovation und soll gruppenweite KI-Initiativen vorantreiben sowie als strategischer Partner für die Medienhäuser fungieren. Der erfahrene KI-Stratege und Unternehmer war zuletzt bei Hy (Axel Springer) tätig und hatte zuvor ein KI-Unternehmen bis zum Exit geführt. Die Holtzbrinck-Gruppe vereint Handelsblatt Media Group, Tagesspiegel Verlagsgruppe und 50% der Zeit Verlagsgruppe unter ihrem Dach.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Tanja Brandes wird Vize-Leiterin des Kulturressorts Philipp Holstein übernimmt, wie bereits von...",
-          "link": "https://kress.de/news/beitrag/151627-rheinische-post-tanja-brandes-wird-vize-leiterin-des-kulturressorts.html",
-          "summary": "Tanja Brandes wird zum 1. Februar 2026 zur stellvertretenden Leiterin des Kulturressorts der Rheinischen Post befördert, nachdem sie seit November 2021 als Newsmanagerin in der Zentralredaktion tätig war. Die studierte Dramaturgin bringt umfassende Medienexperience mit, unter anderem vom Kölner Stadt-Anzeiger, General-Anzeiger Bonn und der Berliner Zeitung. Chefredakteur Moritz Döbler hebt ihre Kulturexpertise und digitales Organisationsgeschick als ausschlaggebende Qualifikationen hervor.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "White House Threatened Trump Would Sue CBS If Tony Dokoupil’s POTUS Interview Didn’t Air In Full On ‘Evening News’",
-          "link": "https://deadline.com/2026/01/trump-threatens-to-sue-cbs-tony-dokoupil-interview-1236686119/",
-          "summary": "Das Weiße Haus drohte CBS mit einer Klage durch Präsident Trump, falls ein 13-minütiges Interview mit Anchor Tony Dokoupil nicht vollständig in den Evening News ausgestrahlt würde. CBS sendete das Interview ungekürzt und erklärte, diese Entscheidung bereits vor der Drohung getroffen zu haben. Der Vorfall ist besonders brisant, da Paramount (CBS' Mutterkonzern) erst kürzlich eine Trump-Klage wegen der Bearbeitung eines Kamala Harris-Interviews für 16 Millionen Dollar beigelegt hatte.",
+          "source": "Guardian Media",
+          "title": "TikTok to strengthen age-verification technology across EU",
+          "link": "https://www.theguardian.com/technology/2026/jan/16/tiktok-to-strengthen-age-verification-technology-across-eu",
+          "summary": "TikTok führt EU-weit eine neue Altersverifikationstechnologie ein, die Profilinformationen, Videos und Nutzungsverhalten analysiert, um Accounts von unter 13-Jährigen zu identifizieren. Das System wurde bereits ein Jahr lang pilotiert und führte zur Entfernung tausender Accounts, wobei markierte Profile von spezialisierten Moderatoren überprüft und Nutzern Berufungsmöglichkeiten mit verschiedenen Identitätsnachweisen angeboten werden. Die Maßnahme erfolgt vor dem Hintergrund wachsender politischer Forderungen nach Social-Media-Verboten für Minderjährige nach australischem Vorbild.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Matt Damon Explains How Audiences’ Low Attention Spans Influenced Netflix’s Rule For “How You Make Movies”",
-          "link": "https://deadline.com/2026/01/matt-damon-audiences-low-attention-spans-netflix-rule-1236686082/",
-          "summary": "Matt Damon erklärt, dass Netflix aufgrund der geringen Aufmerksamkeitsspanne der Zuschauer beim Streaming seine Filmproduktionsregeln angepasst hat: Action-Sequenzen sollen bereits in den ersten fünf Minuten stattfinden, um die Zuschauer zu halten. Zusätzlich werden Drehbuchautoren angewiesen, Handlungselemente mehrfach im Dialog zu wiederholen, da davon ausgegangen wird, dass Zuschauer parallel auf ihren Handys sind. Diese Streaming-spezifischen Produktionsanpassungen beeinflussen zunehmend die traditionelle Drei-Akt-Struktur von Action-Filmen.",
+          "title": "‘Blake’s 7’ Reboot In The Works From ‘The Last Of Us’ Director Peter Hoar & ‘A Good Girl’s Guide To Murder’ Exec Matthew Bouch",
+          "link": "https://deadline.com/2026/01/blakes-7-reboot-peter-hoar-matthew-bouch-multitude-productions-1236682580/",
+          "summary": "Emmy-nominierter \"The Last of Us\"-Regisseur Peter Hoar hat die genre-fokussierte Produktionsfirma Multitude Productions gegründet und arbeitet an einem Reboot der britischen Sci-Fi-Kultserie \"Blake's 7\", die zuletzt vor 45 Jahren auf der BBC lief. Hoar wird bei dem Projekt Regie führen, während Co-Gründer Matthew Bouch eine Rückkehr zur BBC anstrebt und Koproduktionsfinanzierung von amerikanischen Streamern und europäischen Partnern wie RTL sucht. Das Original von Daleks-Erfinder Terry Nation lief von 1978-1981 und folgte dem politischen Dissidenten Roj Blake im Kampf gegen die totalitäre Terranische Föderation.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Picturehouse Creative Director Clare Binns To Receive BAFTA For Outstanding British Contribution To Cinema",
+          "link": "https://deadline.com/2026/01/clare-binns-picturehouse-bafta-award-2026-1236689436/",
+          "summary": "Clare Binns, Creative Director von Picturehouse Cinemas und Picturehouse Entertainment, erhält bei den BAFTAs 2026 die Auszeichnung für \"Outstanding British Contribution To Cinema\". Binns startete ihre Karriere in den 1980ern als Kinoplatzanweiserin und arbeitete sich über Projektionistin und Managerin bis zur Leitung eines Kinobetreibernetzwerks hoch, bevor sie 2003 zu Picturehouse wechselte. Die BAFTA-Zeremonie findet am 22. Februar statt und wird von Alan Cumming moderiert, wobei Paul Thomas Andersons \"One Battle After Another\" mit 16 Nominierungen die Longlist anführt.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Netflix’s ‘Skyscraper Live’ Subject Alex Honnold Says “The Whole Point” Of The Event Is That It’s “Fundamentally Not Safe”",
+          "link": "https://deadline.com/2026/01/netflix-skyscraper-live-alex-honnold-fundamentally-not-safe-1236689393/",
+          "summary": "Netflix produziert mit \"Skyscraper Live\" eine Live-Übertragung, in der Extremkletterer Alex Honnold den Wolkenkratzer Taipei 101 ohne Seile und Sicherheitsnetze erklimmt. Honnold betont, dass die inhärente Gefahr des \"Free Solo\"-Kletterns den Kern der Veranstaltung ausmacht und sich nicht durch externe Sicherheitsmaßnahmen eliminieren lassen darf, da dies dem Konzept widersprechen würde. Der Kletterer, bekannt durch die Oscar-prämierte Dokumentation \"Free Solo\", vergleicht das Event mit Live-Sport und sieht die Sicherheit allein in seiner 30-jährigen Erfahrung und intensiven Vorbereitung begründet.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "White House Threatened to Sue CBS if Trump ‘Evening News’ Interview Wasn’t Aired in Full",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/white-house-threaten-sue-cbs-trump-evening-news-interview-1236477227/",
-          "summary": "Das Weiße Haus drohte CBS mit einer Klage, falls ein Interview von Präsident Trump mit CBS Evening News-Moderator Tony Dokoupil nicht vollständig ausgestrahlt würde, wobei Pressesprecherin Karoline Leavitt die Botschaft überbrachte: \"Wenn es nicht vollständig gesendet wird, verklagen wir euch.\" CBS erklärte, sie hätten bereits vor der Drohung geplant, das Interview ungekürzt zu senden. Der Vorfall erfolgte vor dem Hintergrund einer kürzlich beilegten 16-Millionen-Dollar-Klage Trumps gegen CBS wegen der Bearbeitung eines 60 Minutes-Interviews mit Kamala Harris.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Matt Damon Says Netflix Wants Plots Reiterated “Three or Four Times in the Dialogue” for Phone-Distracted Viewers",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/matt-damon-netflix-plots-reiterated-distracted-viewers-1236477116/",
-          "summary": "Matt Damon erklärt, dass Netflix aufgrund abgelenkter Zuschauer, die zu Hause mit Smartphones schauen, verlangt, dass Handlungsstränge \"drei oder vier Mal im Dialog\" wiederholt werden. Dies unterscheidet sich grundlegend von der traditionellen Kinoerfahrung, wo Zuschauer konzentrierter sind. Der Streaming-Gigant passt seine Filmproduktionsstandards entsprechend an die veränderten Sehgewohnheiten an.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "White House Threatened to Sue CBS Over ‘Evening News’ Interview With Trump",
-          "link": "https://variety.com/2026/tv/news/white-house-threatened-cbs-evening-news-trump-interview-1236634058/",
-          "summary": "Das Weiße Haus drohte CBS mit einer Klage, falls ein Interview zwischen Präsident Trump und Anchor Tony Dokoupil für die \"Evening News\" bearbeitet würde, wobei Pressesprecherin Karoline Leavitt forderte, das Interview ungekürzt auszustrahlen. Dies folgt einem Muster von Trumps rechtlichen Auseinandersetzungen mit Medienunternehmen, nachdem er bereits 16 Millionen Dollar von CBS' Mutterkonzern Paramount wegen der Bearbeitung eines \"60 Minutes\"-Interviews mit Kamala Harris erhalten hatte. Trump hat systematisch mehrere Medienunternehmen in rechtliche Streitigkeiten verwickelt, darunter Disney, das Wall Street Journal und die BBC.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Matt Damon Says Netflix Wants Movies to Restate the ‘Plot Three or Four Times in the Dialogue’ Because Viewers are on ‘Their Phones While They’re Watching’",
-          "link": "https://variety.com/2026/film/news/matt-damon-netflix-movies-restate-plot-viewers-on-phones-1236633939/",
-          "summary": "Matt Damon erklärt, dass Netflix aufgrund der geteilten Aufmerksamkeit von Zuschauern, die während des Streamings ihre Smartphones nutzen, eine veränderte Filmstruktur fordert. Der Streaming-Dienst bevorzugt große Action-Sequenzen bereits zu Filmbeginn statt im Finale und verlangt eine drei- bis vierfache Wiederholung zentraler Handlungselemente im Dialog. Diese Anpassungen spiegeln die veränderten Sehgewohnheiten beim Home-Entertainment im Vergleich zum traditionellen Kinoerlebnis wider.",
+          "title": "BAFTA to Honor Picturehouse Cinemas Creative Director Clare Binns",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/bafta-award-2026-picturehouse-cinemas-clare-binns-1236477095/",
+          "summary": "Clare Binns, Creative Director von Picturehouse Cinemas und Picturehouse Entertainment, wird 2026 mit dem Outstanding British Contribution to Cinema Award der BAFTA ausgezeichnet. Die Ehrung würdigt ihre vier Jahrzehnte währende Arbeit bei der Förderung diverser und unabhängiger Filme in britischen Kinos, einschließlich Werken von Danny Boyle, Steve McQueen und Francis Lee. Binns hat zudem innovative Kinoprogramme wie entspannte Vorführungen und Baby-freundliche Screenings entwickelt sowie soziale Outreach-Programme in lokalen Gemeinden initiiert.",
           "score": 7
         }
       ]
