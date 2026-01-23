@@ -1,189 +1,140 @@
 {
   "newsletters": [
     {
-      "date": "2026-01-22",
+      "date": "2026-01-23",
       "articles": [
         {
           "source": "DWDL",
-          "title": "ARD, ZDF, Deutschlandradio und DW mit gemeinsamen KI-Kodex",
-          "link": "https://www.dwdl.de/nachrichten/105266/ard_zdf_deutschlandradio_und_dw_mit_gemeinsamen_kikodex/",
-          "summary": "ARD, ZDF, Deutschlandradio und Deutsche Welle haben einen gemeinsamen KI-Kodex mit sechs Grundsätzen verabschiedet, der den Einsatz künstlicher Intelligenz im öffentlich-rechtlichen Rundfunk regelt. Kern des Papiers ist der \"Human in the Loop\"-Ansatz, wonach die publizistische Verantwortung beim Menschen verbleibt und KI-generierte Inhalte transparent gekennzeichnet werden müssen. KI soll nur bei erkennbarem Mehrwert für den öffentlich-rechtlichen Auftrag eingesetzt werden, etwa zur Effizienzsteigerung journalistischer Prozesse oder für barrierefreie Zugänge.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Kabel Eins adaptiert Podcast \"Sisters in Crime\" fürs TV",
-          "link": "https://www.dwdl.de/nachrichten/105265/kabel_eins_adaptiert_podcast_sisters_in_crime_fuers_tv/",
-          "summary": "Kabel Eins startet ab 13. Februar die TV-Adaption des erfolgreichen True-Crime-Podcasts \"Sisters in Crime\" als \"Weiblich. Tödlich. Sisters in Crime\" und erweitert damit seine Freitagabend-True-Crime-Schiene. Die beiden Podcast-Moderatorinnen Karolin Kandler und Jule Gölsdorf analysieren mit Experten Kapitalverbrechen von Frauen und untersuchen deren spezifische Motive und psychologische Hintergründe. Der zugrundeliegende Podcast erreichte zuletzt über 200.000 Downloads pro Episode und rangiert aktuell auf Platz 91 der Podcast-Charts.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "2025 war ein herausragendes Jahr für deutsche Netflix-Filme",
-          "link": "https://www.dwdl.de/zahlenzentrale/105262/2025_war_ein_herausragendes_jahr_fuer_deutsche_netflixfilme/",
-          "summary": "Netflix veröffentlichte seinen \"What we watched\"-Report für das zweite Halbjahr 2025, der die Nutzungszahlen in Views (durchschnittliche komplette Sichtungen pro Haushalt) ausweist. Das Serien-Ranking wird von \"Wednesday\" Staffel 2 (123,9 Mio. Views) vor \"Stranger Things 5\" (93,5 Mio.) und \"Untamed\" (92,8 Mio.) angeführt. Die starren Halbjahres-Zeitgrenzen führten zu Verzerrungen bei Serien wie \"Squid Game\" Staffel 3 und \"Stranger Things 5\", deren Veröffentlichung sich über Halbjahresgrenzen erstreckte.",
+          "title": "Kampf um Warner: Paramount hat bislang wenige Aktionäre überzeugt",
+          "link": "https://www.dwdl.de/nachrichten/105284/kampf_um_warner_paramount_hat_bislang_wenige_aktionaere_ueberzeugt/",
+          "summary": "Paramount hat die Frist für sein feindliches Übernahme-Angebot für Warner Bros. Discovery bis zum 20. Februar verlängert, nachdem bislang nur etwa 7% der Aktionäre das 30-Dollar-je-Aktie-Angebot (Gesamtwert: 108,4 Mrd. USD) angenommen haben. Der WBD-Aufsichtsrat empfiehlt weiterhin die Ablehnung zugunsten der als überlegen bewerteten Fusionsvereinbarung mit Netflix, während über 93% der Aktionäre das Paramount-Angebot bereits zurückgewiesen haben.",
           "score": 10
         },
         {
           "source": "DWDL",
-          "title": "\"Hartz und herzlich\" kommt erstmals aus Hamburg-Mitte",
-          "link": "https://www.dwdl.de/nachrichten/105263/hartz_und_herzlich_kommt_erstmals_aus_hamburgmitte/",
-          "summary": "RTLzwei startet am 10. Februar die neue Staffel von \"Hartz und herzlich\" mit sechs Folgen aus Hamburg-Mitte, wobei drei Episoden neue Protagonisten vorstellen und drei weitere deren Entwicklung nach einem Jahr zeigen. Die Jubiläumsausgabe zum 10-jährigen Bestehen erzielte kürzlich mit unter 500.000 Zuschauern und 4,1% Marktanteil in der Zielgruppe schwache Quoten. Parallel kehrt am 11. Februar das Camping-Format \"krass und crazy: Camper 2\" zurück, nachdem bereits 2022 drei Ausgaben mit mäßigem linearem Erfolg liefen.",
+          "title": "DF1 ab sofort auch via Sky Stream zu empfangen",
+          "link": "https://www.dwdl.de/nachrichten/105276/df1_ab_sofort_auch_via_sky_stream_zu_empfangen/",
+          "summary": "Der Sportsender DF1 ist ab sofort über Sky Stream verfügbar und erweitert damit seine Reichweite auf der IPTV-Plattform von Sky. Die Kooperation ermöglicht Sky Stream-Nutzern kostenlosen Zugang zu DF1s Programm aus Live-Sport, Dokumentationen und Reportagen in HD-Qualität. Sky baut damit sein Free-TV-Angebot weiter aus, während DF1 seinen bereits vollständig im deutschen Markt verfügbaren Sender zusätzlich distribuiert.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "\"Ein Ritterschlag\": Kaulitz-Brüder bestätigen \"Wetten, dass..?\"-Job",
-          "link": "https://www.dwdl.de/nachrichten/105254/ein_ritterschlag_kaulitzbrueder_bestaetigen_wetten_dassjob/",
-          "summary": "Die Kaulitz-Brüder Bill und Tom haben in ihrem Podcast offiziell bestätigt, dass sie die Moderation von \"Wetten, dass..?\" im ZDF übernehmen werden. Der Job begann als \"dummer Witz\" bei der 1Live Krone vor zwei Jahren, führte aber zu ernsthaften Gesprächen mit dem ZDF. Die Zwillinge bezeichnen die Übernahme von Europas größter TV-Show als \"Ritterschlag\" und \"großen Traum\".",
+          "title": "ProSieben holt \"Dr. Rick & Dr. Nick\" zurück, \"Miss Germany\" bei Sixx",
+          "link": "https://www.dwdl.de/nachrichten/105275/prosieben_holt_dr_rick__dr_nick_zurueck_miss_germany_bei_sixx/",
+          "summary": "ProSieben startet am 11. Februar die zweite Staffel von \"Dr. Rick & Dr. Nick - Die Schönheits-Docs\" mit zwölf neuen Folgen im Anschluss an \"Germany's Next Topmodel\", diesmal mittwochs statt donnerstags. Sixx übernimmt die GNTM-Wiederholungen freitags und zeigt zusätzlich ab 31. Januar die Dokuserie \"Road to Miss Germany\" sowie am 7. März das Live-Finale der Miss Germany Awards. Der Schönheitswettbewerb wurde konzeptionell neu ausgerichtet und fokussiert sich auf weibliche Vorbilder und Talentförderung statt klassischer Schönheitsideale.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "\"Promis unter Palmen\" geht Dschungel-Wiedersehen aus dem Weg",
-          "link": "https://www.dwdl.de/nachrichten/105253/promis_unter_palmen_geht_dschungelwiedersehen_aus_dem_weg/",
-          "summary": "Sat.1 verschiebt den Start der neuen \"Promis unter Palmen\"-Staffel um eine Woche vom 9. auf den 16. Februar 2026, um eine direkte Konkurrenz mit der RTL-Wiedersehens-Folge von \"Ich bin ein Star - Holt mich hier raus!\" zu vermeiden. Die Reality-Show mit Prominenten wie Claude-Oliver Rudolph, Anouschka Renzi und Sylvia Wollny wird erneut von EndemolShine Germany produziert, nachdem die vorherige Staffel trotz schwächerer linearer Quoten im Streaming-Bereich erfolgreich war.",
+          "title": "71 Mal Hoffen: Die Nominierungen für den Grimme-Preis 2026",
+          "link": "https://www.dwdl.de/nachrichten/105269/71_mal_hoffen_die_nominierungen_fuer_den_grimmepreis_2026/",
+          "summary": "71 Produktionen und Einzelleistungen wurden aus über 750 Einreichungen für den Grimme-Preis 2026 nominiert, wobei öffentlich-rechtliche Sender dominieren, aber auch elf Nominierungen an Privatsender und Streamingdienste gehen. Zu den nominierten Fiction-Produktionen zählen \"Call My Agent Berlin\" (Disney+), \"Frier und Fünfzig\" (Joyn/Sat.1) sowie mehrere ZDF-Produktionen, während im Informationsbereich u.a. die RTLzwei-Doku \"Hass.Hetze.Hoffnung.\" und Netflix' \"Babo - Die Haftbefehl-Story\" durchbrachen. Die 16 Auszeichnungen werden im März bekanntgegeben, nachdem die Jurys ab dem 31. Januar ihre Arbeit aufnehmen.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Rekorde für \"heute\" und \"WWM\", \"Fallout\" weit vor \"Miss Sophie\"",
-          "link": "https://www.dwdl.de/zahlenzentrale/105249/rekorde_fuer_heute_und_wwm_fallout_weit_vor_miss_sophie/",
-          "summary": "In der zweiten Kalenderwoche 2026 dominierten Nachrichten-Formate das Streaming-Ranking, wobei ZDFheute mit 1,837 Millionen Personen knapp hinter der Tagesschau (1,982 Millionen) lag und damit einen Rekordwert erreichte. Bei den fiktionalen Formaten führte der \"Bergdoktor\" (1,421 Millionen) vor dem \"Tatort\", während Amazon Prime Videos \"Fallout\" (1,301 Millionen) als stärkste Streaming-Serie auf Platz 7 landete. Das \"Dinner for One\"-Sequel \"Miss Sophie\" konnte hingegen nur 393.000 Personen erreichen und blieb damit deutlich unter den Erwartungen.",
+          "title": "Schwarzseher werden nach und nach abgeklemmt",
+          "link": "https://www.dwdl.de/nachrichten/105264/schwarzseher_werden_nach_und_nach_abgeklemmt/",
+          "summary": "Die Zahl der Schwarzseher nach Ende des Nebenkostenprivilegs ist laut AGF-Plattformstudie 2025 II deutlich von 45,9% auf 33,4% der betroffenen Haushalte ohne neuen Kabelvertrag zurückgegangen. 74,4% der betroffenen Haushalte haben inzwischen einen neuen Kabelvertrag abgeschlossen, während 15,9% auf alternative Empfangsarten gewechselt sind. TV-Sender hatten kein Interesse am Abklemmen der Schwarzseher, da dies zu niedrigeren Reichweiten und geringeren Werbeeinnahmen geführt hätte.",
           "score": 8
         },
         {
           "source": "Horizont Medien",
-          "title": "Bild Jobs: Bild und HeyJobs starten neue Jobplattform",
-          "link": "https://www.horizont.net/medien/nachrichten/bild-jobs-bild-und-heyjobs-starten-neue-jobplattform-232836?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Bild erweitert sein Zusatzgeschäft durch eine Kooperation mit der Recruiting-Plattform HeyJobs zur Marke \"Bild Jobs\" mit über 20.000 Stellenanzeigen. Die Plattform nutzt Performance-Marketing, selbstlernende Budget-Algorithmen und KI-Screening zur Optimierung des Recruitingprozesses. Ziel ist es, die Kosten pro Einstellung zu senken und den gesamten Vermittlungsprozess zu beschleunigen.",
+          "title": "Chinesische Videoplattform: Neue US-Firma für Tiktok offiziell gegründet",
+          "link": "https://www.horizont.net/medien/nachrichten/eilmeldung-neue-us-firma-fuer-tiktok-offiziell-gegruendet-232869?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Das US-Geschäft von TikTok wurde offiziell in ein neues Gemeinschaftsunternehmen \"TikTok USDS\" ausgegliedert, bei dem der chinesische Mutterkonzern ByteDance nur noch knapp 20 Prozent der Anteile hält. Diese Umstrukturierung erfolgte aufgrund monatelanger Bedenken der US-Regierung bezüglich chinesischer Einflussnahme und betrifft ausschließlich den amerikanischen Markt. Der TikTok-Betrieb in anderen Märkten wie Deutschland bleibt von dieser Änderung unberührt.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "&quot;ntv Wirtschaft&quot;: NTV startet KI-generierten Wirtschafts-Podcast",
+          "link": "https://www.horizont.net/medien/nachrichten/ntv-wirtschaft-ntv-startet-ki-generierten-wirtschafts-podcast-232853?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "NTV launcht ab kommender Woche einen KI-generierten Wirtschafts-Podcast namens \"ntv Wirtschaft\", der einen kompakten Überblick über die wichtigsten Wirtschaftsnachrichten bietet. Das Format wird vollständig mithilfe von Künstlicher Intelligenz aus dem vorhandenen redaktionellen Content der NTV-Redaktion erstellt.",
           "score": 8
         },
         {
-          "source": "kress",
-          "title": "Matthias Schmeing steigt bei der Haas Mediengruppe zum AI-Chef auf Der Verlag des \"Mannheimer Morgen\" hat zum 1.",
-          "link": "https://kress.de/news/beitrag/151648-matthias-schmeing-steigt-bei-der-haas-mediengruppe-zum-ai-chef-auf.html",
-          "summary": "Die Haas Mediengruppe (Verlag des \"Mannheimer Morgen\") hat Matthias Schmeing zum Head of AI ernannt, der bereits seit 2022 die digitale Transformation in der Redaktion verantwortet und eine bereichsübergreifende KI-Taskforce leitete. Die neue Position soll gruppenweite KI-Initiativen koordinieren und adäquate Technologien auswählen, da die Geschäftsführung KI als \"entscheidenden strategischen Baustein\" für die digitale Transformation des Medienhauses betrachtet.",
+          "source": "Horizont Medien",
+          "title": "TV-Preis: Grimme-Institut vermisst Innovationen und Beiträge zu Krieg und Klima",
+          "link": "https://www.horizont.net/medien/nachrichten/tv-preis-grimme-institut-vermisst-innovationen-und-beitraege-zu-krieg-und-klima-232851?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Das Grimme-Institut kritisiert bei der Bekanntgabe der diesjährigen Nominierungen eine mangelnde thematische Tiefe im deutschen Fernsehen, insbesondere bei der Auseinandersetzung mit den Themen Krieg und Klima. Geschäftsführerin Çiğdem Uzunoğlu bemängelt explizit fehlende \"hochkarätige Auseinandersetzungen\" mit dem Kriegsthema, während Preis-Chefin Lucia Eskes generell zu wenig Raum für wichtige gesellschaftliche Themen in den TV-Medien sieht.",
           "score": 8
         },
         {
-          "source": "kress",
-          "title": "dfv Mediengruppe kauft und verkauft Die dfv Mediengruppe hat sich von ihrem...",
-          "link": "https://kress.de/news/beitrag/151652-dfv-mediengruppe-kauft-und-verkauft.html",
-          "summary": "Die dfv Mediengruppe strukturiert sich um und konzentriert sich auf Kernmärkte: Das Unternehmen verkaufte sein Corporate-Media-Geschäft sowie die Marken \"Der Handel\" und \"etailment\" an die Digitalagentur bitfuel und stellte Aktivitäten in Italien sowie drei technische Fachzeitschriften ein. Gleichzeitig investiert dfv in neue Geschäftsbereiche durch eine Minderheitsbeteiligung am Smart News Fachverlag, die Integration ihrer Marktforschungsmarke \"planung&analyse\" in \"marktforschung.de\" und eine Beteiligung ihrer Energiesparte \"energate\" an der Wiener Datenplattform \"power2market\".",
-          "score": 8
+          "source": "Horizont Medien",
+          "title": "TikTok, Instagram &amp; Co: Britisches Oberhaus stimmt für Social-Media-Aus für Kinder",
+          "link": "https://www.horizont.net/medien/nachrichten/tiktok-instagram--co-britisches-oberhaus-stimmt-fuer-social-media-aus-fuer-kinder-232849?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Das britische Oberhaus hat für ein Social-Media-Verbot für Jugendliche unter 16 Jahren gestimmt und folgt damit dem australischen Vorbild. Die Abstimmung erhöht den politischen Druck auf die britische Regierung, entsprechende Regulierungsmaßnahmen für Plattformen wie TikTok und Instagram einzuführen. Das Votum des House of Lords zeigt die wachsende internationale Tendenz zur strikteren Kontrolle des Zugangs Minderjähriger zu sozialen Medien.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "IVW 4/2025: Zeit holt Spiegel im Gesamtverkauf fast ein",
+          "link": "https://www.horizont.net/medien/nachrichten/ivw-42025-zeit-holt-spiegel-im-gesamtverkauf-fast-ein-232841?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der Rückgang der Print-Auflagen hat sich im 4. Quartal 2024 bei den meisten Titeln beschleunigt und konnte nur teilweise durch steigende E-Paper-Auflagen kompensiert werden. Die Zeit holt im Gesamtverkauf deutlich zum Spiegel auf und könnte diesen bald überholen. Die Entwicklung zeigt die anhaltende Transformation der Medienlandschaft von Print zu Digital.",
+          "score": 7
         },
         {
           "source": "kress",
-          "title": "Franziska Happe gehört zu den Young Leadern des Jahres 2025 kress präsentiert in einer Serie junge...",
-          "link": "https://kress.de/news/beitrag/151643-franziska-happe-gehoert-zu-den-young-leadern-des-jahres-2025.html",
-          "summary": "Franziska Happe (33), Co-Director Content bei der Bauer Media Group, wurde als eine der \"25 Young Leaders des Jahres 2025\" von kress ausgezeichnet. Sie verantwortet seit 2022 das gesamte deutsche digitale Markenportfolio mit rund 100 Mitarbeitenden und baute zuvor als Head of Content Commerce erfolgreich ein siebenstelliges E-Commerce-Geschäftsfeld auf. Ihre Karriere bei Bauer begann 2016 als Online-Redakteurin, bevor sie über Audience Development und datenbasierte Redaktionsarbeit in Führungspositionen aufstieg.",
+          "title": "\"Wetten, dass..?\": Comeback mit Bill und Tom Kaulitz Jetzt ist es offiziell: Das ZDF bringt nach drei Jahren Pause seinen Show-Klassiker \"Wetten, dass..?\" zurück auf den Bildschirm",
+          "link": "https://kress.de/news/beitrag/151650-quot-wetten-dass-quot-comeback-mit-bill-und-tom-kaulitz.html",
+          "summary": "Das ZDF bringt nach drei Jahren Pause den Show-Klassiker \"Wetten, dass..?\" mit den Kaulitz-Zwillingen Bill und Tom als Moderatoren zurück. Die Programmverantwortlichen setzen auf die Hollywood-erfahrenen Brüder, um die traditionsreiche Samstagabendshow für jüngere Zielgruppen zu revitalisieren und in der digitalen Medienlandschaft neu zu positionieren. Zunächst ist nur eine Ausgabe geplant, eine regelmäßige Fortsetzung lässt der Sender offen.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Video Daily: TV-Quoten & Streaming-Charts Handball besiegt Fußball, \"Bergdoktor\" besiegt \"Nord bei Nordwest\" Trotz einer arbeitnehmerunfreundlichen Startzeit um 15.30 Uhr hat das Handball-EM-Spiel zwischen Deutschland und Portugal dem Ersten am Donnerstag grandiose Zahlen beschert: 4,02 Millionen sorgten für einen Marktanteil von 34,5 Prozent. In der Prime Time setzte sich \"Der Bergdoktor\" mit 4,82 Millionen Zuschauenden gegen die \"Nord bei Nordwest\"-Wiederholung des Ersten durch, RTL hatte mit dem VfB Stuttgart in der UEFA Europa League keine Chance, gewann dafür bei den 14- bis 49-Jährigen den Abend",
+          "link": "https://meedia.de/news/beitrag/20976-handball-besiegt-fussball-quot-bergdoktor-quot-besiegt-quot-nord-bei-nordwest-quot.html",
+          "summary": "Das Handball-EM-Spiel Deutschland vs. Portugal erzielte trotz ungünstiger Startzeit um 15:30 Uhr herausragende 4,02 Millionen Zuschauer (34,5% Marktanteil) im Ersten. In der Prime Time dominierte \"Der Bergdoktor\" (ZDF) mit 4,82 Millionen Zuschauern (21,3%) vor \"Nord bei Nordwest\" (ARD, 3,83 Mio./16,9%), während RTLs Europa League-Übertragung nur in der werberelevanten Zielgruppe punkten konnte.",
+          "score": 9
+        },
+        {
+          "source": "meedia",
+          "title": "Von Montag bis Freitag ntv startet KI-Podcast \"ntv Wirtschaft\" Der Nachrichtensender ntv hat ein...",
+          "link": "https://meedia.de/news/beitrag/20977-ntv-startet-ki-podcast-quot-ntv-wirtschaft-quot.html",
+          "summary": "Der Nachrichtensender ntv startet ab dem 26. Januar den täglichen KI-Podcast \"ntv Wirtschaft\", der werktags in zehn Minuten die wichtigsten Wirtschaftsnachrichten zusammenfasst. Während die Themenauswahl und redaktionelle Verantwortung bei ntv-Journalisten liegt, übernimmt die KI die Textgenerierung aus vorhandenen ntv.de-Artikeln sowie die Sprachausgabe. Das Projekt ist Teil der KI-Strategie von RTL Deutschland, die 2025 verschiedene KI-Leuchtturmprojekte in skalierbare Workflows überführt.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts Mit Gelsenkirchener Sparkassenraub: \"Aktenzeichen XY\" macht die...",
-          "link": "https://meedia.de/news/beitrag/20967-mit-gelsenkirchener-sparkassenraub-quot-aktenzeichen-xy-quot-macht-die-tv-konkurrenz-platt.html",
-          "summary": "\"Aktenzeichen XY... ungelöst\" dominierte am Mittwochabend das lineare Fernsehen mit 5,20 Millionen Zuschauern und herausragenden Marktanteilen von 23,1% gesamt bzw. 23,0% bei den 14- bis 49-Jährigen, wobei die Berichterstattung über den spektakulären Gelsenkirchener Sparkassenraub als Quotentreiber fungierte. Die Konkurrenz konnte nur der 15-minütige ARD-Brennpunkt zu Trump/Davos mit 4,89 Millionen Zuschauern (21,2%) mithalten, während die Privatsender deutlich abfielen - RTL erreichte mit der \"stern TV Reportage\" nur schwache 4,7% Marktanteil.",
-          "score": 10
-        },
-        {
-          "source": "meedia",
-          "title": "Umbau bei WPP Media geht weiter Dirk Fromm übernimmt von Thorsten Ebbing die Wavemaker-Leitung WPP Media setzt seinen Umbau fort.",
-          "link": "https://meedia.de/news/beitrag/20965-dirk-fromm-uebernimmt-von-thorsten-ebbing-die-wavemaker-leitung.html",
-          "summary": "Dirk Fromm übernimmt als neuer President von Thorsten Ebbing die Leitung von Wavemaker Deutschland, während Ebbing zum Chief Investment Officer für die gesamte DACH-Region bei WPP Media aufsteigt. Der Führungswechsel ist Teil des fortlaufenden Umbaus bei WPP Media, der bereits im Januar mit der neuen Leitung von Essence Mediacom begonnen hatte. WPP Media vereinheitlicht zudem die Positionsbezeichnungen und führt den Titel \"President\" für alle Agenturmarken-Chefs in Deutschland ein.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Elefantenhochzeit beim Influencer-Marketing Kolsquare übernimmt den Konkurrenten Storyclash Die...",
-          "link": "https://meedia.de/news/beitrag/20964-kolsquare-uebernimmt-den-konkurrenten-storyclash.html",
-          "summary": "Die Influencer-Marketing-Plattform Kolsquare hat das österreichische SaaS-Unternehmen Storyclash übernommen, um seine Marktposition im deutschsprachigen Raum zu stärken und die KI-Technologie im Influencer Marketing auszubauen. Der Deal macht Kolsquare zum größten europäischen Anbieter für Influencer-Tech mit rund 2.000 Kunden in über 30 Ländern und markiert einen weiteren Konsolidierungsschritt im europäischen Markt. Die Übernahme ist Teil einer Expansionsstrategie von Kolsquare, das bereits zuvor Woomio und Inflead akquiriert hatte und seit 2024 zur Team.blue-Gruppe gehört.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Pitch um Mediaetat Westlotto geht mit neuer Agentur Unbound Media wieder ins Werbefernsehen Unbound Media gewinnt im Pitch den Neukunden Westlotto.",
-          "link": "https://meedia.de/news/beitrag/20963-westlotto-geht-mit-neuer-agentur-unbound-media-wieder-ins-werbefernsehen.html",
-          "summary": "Unbound Media gewinnt in einer Bietergemeinschaft mit Accenture Song den Mediaetat für Westlotto's Eurojackpot ab 2026 und startet mit der 360-Grad-Kampagne \"Verrückt viel Geld\". Die neue Mediastrategie setzt erstmals seit 2023 wieder auf lineares TV in Kombination mit digitalem Bewegtbild und Social Media, um schnellen Reichweitenaufbau und höhere Werbeerinnerung zu erzielen. Zusätzlich wird der Werbedruck in der Jackpot-Kommunikation entsprechend der Jackpothöhe optimiert, um die Always-On-Strategie effizienter zu gestalten.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "KMU-Werbeindex 2025 Mittelstand investiert bei der Media-Strategie gezielter: Connected TV legt deutlich zu Der deutsche Mittelstand setzte 2025 auf weniger, dafür deutlich größere Werbekampagnen. Das zeigt der aktuelle „KMU-Werbeindex“ des Mediaspezialisten Crossvertise. Demnach sank die Zahl der Kampagnen im Vergleich zum Vorjahr um zehn Prozent, während das gesamte Media-Investitionsvolumen um 17 Prozent zulegte. Damit entwickelten sich die Werbeausgaben kleiner und mittlerer Unternehmen (KMU) deutlich dynamischer als der Gesamtmarkt, der laut Nielsen ein Minus von 0,5 Prozent verzeichnete. Warum welche Gattungen boomen",
-          "link": "https://meedia.de/news/beitrag/20962-mittelstand-investiert-bei-der-media-strategie-gezielter-connected-tv-legt-deutlich-zu.html",
-          "summary": "Deutsche KMUs änderten 2025 ihre Werbestrategie fundamental: Trotz 10% weniger Kampagnen stiegen die Media-Investitionen um 17% (vs. -0,5% Gesamtmarkt), da das durchschnittliche Budget pro Kampagne um 31% zunahm. Online-Kanäle dominieren mit 50% der Budgets, gefolgt von TV (29%, hälftig linear/CTV) und Außenwerbung (16%), wobei besonders Online-Bewegtbild und Connected TV deutlich zulegen konnten.",
+          "title": "Die IVW-Quartalsauflagen IV/2025 Die 100 meistverkauften Zeitschriften Deutschlands Elf der 13 per Abo und im Einzelhandel meistverkauften Publikumszeitschriften waren im vierten Quartal TV-Programm-Magazine. Das hat nichts mit einer eventuell wachsenden Popularität des linearen Fernsehens zu tun",
+          "link": "https://meedia.de/news/beitrag/20974-die-100-meistverkauften-zeitschriften-deutschlands.html",
+          "summary": "Die IVW-Quartalsauflagen IV/2025 zeigen eine dramatische Krise der deutschen Print-Branche: Elf der 13 meistverkauften Publikumszeitschriften sind TV-Magazine, nicht aufgrund steigender Popularität des linearen Fernsehens, sondern weil alle anderen Segmente noch stärker einbrechen. Unter den Top-100-Titeln gibt es nur 14 Gewinner, während selbst Marktführer \"TV 14\" mit 1,2 Millionen Exemplaren 8,4 Prozent verliert und bei gleichbleibendem Trend in zwei Jahren unter die Millionengrenze fallen wird. Alle zehn Top-Titel verzeichnen Rückgänge, wobei \"TV Digital\" mit minus 13,9 Prozent besonders stark betroffen ist.",
           "score": 8
         },
         {
           "source": "Guardian Media",
-          "title": "BBC announces landmark deal to make bespoke content for YouTube",
-          "link": "https://www.theguardian.com/media/2026/jan/21/bbc-announces-landmark-deal-to-make-bespoke-content-for-youtube",
-          "summary": "Die BBC schließt einen wegweisenden Deal mit YouTube ab, um erstmals maßgeschneiderte Inhalte (Entertainment, News, Sport) direkt für die Plattform zu produzieren, beginnend mit den Winterolympiaden im Februar. Diese strategische Partnerschaft erfolgt, nachdem YouTube die BBC erstmals bei der Zuschauerreichweite überholt hat (52 vs. 50,9 Millionen Zuschauer im Dezember). Die Inhalte werden parallel auch auf iPlayer und BBC Sounds verfügbar sein.",
-          "score": 9
+          "title": "Lords put pressure on Starmer with vote to ban social media for under-16s",
+          "link": "https://www.theguardian.com/uk-news/2026/jan/21/kemi-badenoch-keir-starmer-under-16s-social-media-ban-uk",
+          "summary": "Das House of Lords stimmte mit 261 zu 150 Stimmen für einen konservativen Änderungsantrag, der Social Media für unter 16-Jährige nach australischem Vorbild verbieten würde, was nun das Unterhaus unter Druck setzt. Während die Regierung bereits eine entsprechende Konsultation bis zum Sommer durchführt und zunächst die Erfahrungen mit dem australischen Verbot (seit Dezember in Kraft) abwarten möchte, drängt Oppositionsführerin Kemi Badenoch auf sofortige Umsetzung. Der Änderungsantrag wird voraussichtlich im Unterhaus scheitern, obwohl auch Labour-Abgeordnete Unterstützung signalisieren.",
+          "score": 7
         },
         {
-          "source": "Deadline",
-          "title": "Netflix Making Documentary Series About Tragedy Of Vanishing Cyclist Tony Parsons, Who Went Missing Without Trace On A Charity Bike Ride",
-          "link": "https://deadline.com/2026/01/netflix-making-documentary-vanishing-cyclist-tony-parsons-1236691505/",
-          "summary": "Netflix entwickelt eine Dokumentarserie über den schottischen Krebsüberlebenden Tony Parsons, der 2017 während einer Wohltätigkeits-Radtour von einem betrunkenen Fahrer getötet wurde, dessen Leiche versteckt und dessen Verschwinden erst Jahre später aufgeklärt werden konnte. Die Täter Alexander und Robert McKellar wurden 2023 zu 12 bzw. 5 Jahren Haft verurteilt, nachdem Alexander seiner Freundin gestanden und das Grab gezeigt hatte. Netflix folgt damit der BBC, die bereits im August 2024 eine zweiteilige Dokumentation \"The Vanishing Cyclist\" über den Fall ausgestrahlt hatte.",
-          "score": 9
+          "source": "Guardian Media",
+          "title": "Snapchat’s parent company settles social media addiction lawsuit before trial",
+          "link": "https://www.theguardian.com/media/2026/jan/21/snapchat-parent-company-snap-settles-social-media-addiction-lawsuit-before-trial",
+          "summary": "Snap hat eine Klage wegen Social-Media-Sucht kurz vor Prozessbeginn außergerichtlich beigelegt, während Meta, TikTok und YouTube weiterhin als Beklagte in dem Verfahren verbleiben. Die Klage einer 19-Jährigen, die behauptet, durch die Nutzung sozialer Medien psychische Probleme entwickelt zu haben, ist der erste von drei \"Bellwether\"-Prozessen, die Tausende ähnliche Klagen konsolidieren. Ein Richter entschied bereits, dass die Plattform-Designfunktionen selbst – nicht nur Nutzerinhalte – für Schäden verantwortlich sein könnten, was die traditionelle Section-230-Verteidigung der Tech-Unternehmen untergraben könnte.",
+          "score": 7
         },
         {
-          "source": "Deadline",
-          "title": "Netflix Unveils Turkey Slate Including Yavuz Turgul’s ‘To Love, To Lose’",
-          "link": "https://deadline.com/2026/01/netflix-turkey-slate-to-love-to-lose-museum-of-innocence-1236692507/",
-          "summary": "Netflix erweitert sein türkisches Content-Portfolio mit drei neuen Serien, darunter \"To Love, To Lose\" von Yavuz Turgul mit İbrahim Çelikkol. Höhepunkt des Slates ist die hochkarätige Adaption von Orhan Pamuks \"The Museum of Innocence\", die am 13. Februar startet. Zusätzlich werden mehrere bestehende türkische Serien wie \"Ethos\" (Staffel 2) und \"Thank You\" (Staffel 3) fortgesetzt.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Sundance Institute Docuseries Set At Hulu From Searchlight TV, Ryan Coogler, Lynette Howell Taylor & Braden King",
-          "link": "https://deadline.com/2026/01/sundance-institute-docuseries-hulu-searchlight-tv-1236692389/",
-          "summary": "Hulu hat eine dreiteilige Dokumentarserie über das Sundance Institute in Auftrag gegeben, die von Searchlight Television produziert und von Braden King inszeniert wird. Die Serie wird die Geschichte des 1981 von Robert Redford gegründeten kreativen Inkubators erzählen und dessen kulturellen Einfluss auf bedeutende Filmemacher wie Quentin Tarantino, Ryan Coogler, Chloé Zhao und Paul Thomas Anderson beleuchten. Als Executive Producers fungieren u.a. Ryan Coogler, Academy-Präsidentin Lynette Howell Taylor und \"Icarus\"-Produzent Mark Monroe.",
+          "source": "Guardian Media",
+          "title": "Hugh Grant and Esther Ghey sign letter backing under-16s social media ban in UK",
+          "link": "https://www.theguardian.com/media/2026/jan/20/hugh-grant-esther-ghey-letter-under-16s-social-media-ban",
+          "summary": "Hugh Grant und Esther Ghey (Mutter der ermordeten Brianna Ghey) haben gemeinsam mit anderen Persönlichkeiten einen Brief an die Parteiführer von Labour, Conservatives und Liberal Democrats unterzeichnet, der ein Social-Media-Verbot für unter 16-Jährige fordert. Der Brief unterstützt Amendment 94a zum Children's Wellbeing and Schools Bill vor der Abstimmung im House of Lords und verweist auf eine Umfrage, wonach 93% der Eltern Social Media als schädlich für Kinder erachten. Die Unterzeichner argumentieren, dass dieses Amendment die klarste und direkteste Lösung für das Problem darstelle und Eltern die dringend benötigte Unterstützung biete.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘Fallout’: Amazon Says Season 2 Is Tracking As One Of Its Top 4 Returning Series, But Won’t Release Viewership Stats, Yet",
-          "link": "https://deadline.com/2026/01/fallout-season-2-viewership-update-explained-amazon-1236692296/",
-          "summary": "Amazon berichtet, dass Fallout Staffel 2 die sechsterfolgreichste TV-Staffel aller Zeiten auf Prime Video ist und unter den wiederkehrenden Serien Platz 4 belegt, hinter Reacher und Rings of Power. Die Serie zeigt starke internationale Performance mit 53% ausländischer Zuschauer, insbesondere in UK, Deutschland und Brasilien, und rangiert in der Top 5 bei der Zielgruppe Männer 18-34.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Everything We Know About Season 2 Of Netflix’s ‘Beef’ So Far",
-          "link": "https://deadline.com/feature/beef-season-2-news-updates-netflix-1236692165/",
-          "summary": "Netflix's Emmy-prämierte Anthologie-Serie \"Beef\" kehrt am 16. April mit einer zweiten Staffel zurück, die Oscar Isaac, Carey Mulligan, Charles Melton und Cailee Spaeny in den Hauptrollen zeigt. Die neue Staffel spielt in einem Country Club und folgt zwei Paaren - einem neu verlobten Personal-Duo und einem Ehepaar in der Führungsebene - die sich in Machtkämpfe um die Gunst der milliardenschweren Club-Besitzerin verstricken, während diese mit ihren eigenen Skandalen zu kämpfen hat.",
-          "score": 9
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "One of the First Big Anti-AI Campaigns From Hollywood Is Launching Now",
-          "link": "https://www.hollywoodreporter.com/business/business-news/celebrities-back-stealing-isnt-innovation-campaign-ai-1236479303/",
-          "summary": "Die \"Human Artistry Campaign\" startet mit über 700 Unterstützern, darunter Scarlett Johansson, Cate Blanchett und Joseph Gordon-Levitt, die Kampagne \"Stealing Isn't Innovation\" gegen Tech-Unternehmen, die generative KI-Tools mit urheberrechtlich geschützten Werken ohne Genehmigung trainieren. Die Kampagne wirft Big Tech vor, amerikanische Kunstwerke zu \"stehlen\", um KI-Geschäfte aufzubauen, ohne die ursprünglichen Kreativen zu autorisieren oder zu bezahlen. Neben Schauspielern unterstützen auch prominente Musiker wie Questlove und Cyndi Lauper sowie Autoren die Initiative, die am Donnerstag mit einer Anzeige in der New York Times startete.",
-          "score": 7
+          "title": "TikTok Seals Deal For Majority U.S.-Owned Joint Venture, Oracle Holds 15%",
+          "link": "https://deadline.com/2026/01/tiktok-sets-deal-for-majority-us-owned-joint-venture-1236694090/",
+          "summary": "TikTok hat ein Joint Venture mit mehrheitlich amerikanischer Beteiligung angekündigt, das unter CEO Adam Presser als unabhängige Einheit operieren und umfassende Datenschutz- und Sicherheitsmaßnahmen für über 200 Millionen US-Nutzer implementieren soll. Oracle, Silver Lake und MGX halten jeweils 15% der Anteile, wobei Oracle-Gründer Larry Ellison durch seine Paramount-Skydance-Beteiligung und WBD-Interesse besondere Relevanz für Hollywood hat. Das Joint Venture wird von einem siebenköpfigen, mehrheitlich amerikanischen Board geleitet und soll neben TikTok auch CapCut und weitere Apps in den USA betreiben.",
+          "score": 8
         },
         {
           "source": "Variety",
-          "title": "Netflix Unveils Turkish Slate, Headlined by Series Adaptation of Nobel Prize-Winning Author Orhan Pamuk’s ‘The Museum of Innocence’",
-          "link": "https://variety.com/2026/tv/global/netflix-turkish-nobel-prize-orhan-pamuk-museum-of-innocence-1236637544/",
-          "summary": "Netflix präsentiert sein türkisches Produktionsprogramm 2026 mit der hochkarätigen Serienadaption \"The Museum of Innocence\" basierend auf dem Roman des Nobelpreisträgers Orhan Pamuk als Hauptattraktion. Die neunteilige Serie startet am 13. Februar auf Netflix und erzählt eine obsessive Liebesgeschichte im Istanbul der 1970er Jahre, produziert von der renommierten türkischen Produktionsfirma Ay Yapım. Das Slate umfasst mehrere weitere internationale High-End-Produktionen und unterstreicht Netflixs verstärktes Engagement im türkischen Markt.",
-          "score": 9
-        },
-        {
-          "source": "Variety",
-          "title": "‘Percy Jackson’ EP and Courtney B. Vance Explain the Big Twist in the Season 2 Finale: ‘Thalia Has Real Beef With Zeus. It’s Not Theoretical’",
-          "link": "https://variety.com/2026/tv/news/percy-jackson-courtney-b-vance-season-2-finale-twist-book-1236635713/",
-          "summary": "Die Disney+ Serie \"Percy Jackson and the Olympians\" weicht im Staffel 2 Finale erheblich von der Buchvorlage ab, indem enthüllt wird, dass Thalia Graces Verwandlung in einen Baum nicht durch einen Angriff der Furien geschah, wie in den Büchern dargestellt. Executive Producer Craig Silverstein erklärt, diese Änderung diene dazu, das zentrale Thema der Serie zu verstärken: Halbgötter, die sich gegen vernachlässigende Eltern-Götter auflehnen, wobei Thalia \"echten Beef\" mit ihrem Vater Zeus hat. Die Änderung soll die emotionalen Konflikte zwischen den jungen Halbgöttern und ihren olympischen Eltern authentischer darstellen.",
-          "score": 9
-        },
-        {
-          "source": "Variety",
-          "title": "FCC Takes Aim at Political Interviews on Late-Night and Daytime Shows",
-          "link": "https://variety.com/2026/tv/news/fcc-late-night-daytime-equal-time-rule-1236637214/",
-          "summary": "Die FCC hat angekündigt, dass Late-Night- und Daytime-Shows wie \"The Tonight Show\" und \"The View\" möglicherweise nicht als \"bona fide\" Nachrichtensendungen gelten und daher bei politischen Interviews gleiche Sendezeit für Gegenkandidaten einräumen müssen. FCC-Chairman Brendan Carr warnte bereits zuvor, dass Late-Night-Shows nicht zu einem \"parteiischen Zirkus\" werden dürfen, nachdem er im September Maßnahmen gegen Jimmy Kimmel androhte. Die einzige demokratische Kommissionsmitglied Anna Gomez kritisierte die Richtlinie als Zensurversuch und forderte Sender auf, sich nicht selbst zu zensieren.",
-          "score": 9
+          "title": "TikTok U.S. Joint Venture Deal Closes, Former Warner Bros. Exec Adam Presser Named CEO",
+          "link": "https://variety.com/2026/digital/news/tiktok-us-joint-venture-deal-closes-adam-presser-ceo-1236638722/",
+          "summary": "ByteDance hat den Verkauf von TikTok U.S. an ein amerikanisch-dominiertes Joint Venture abgeschlossen, womit die App nun den US-Gesetzen zur nationalen Sicherheit entspricht. Der ehemalige Warner Bros.-Manager Adam Presser wurde als CEO der neuen Firma \"TikTok USDS Joint Venture\" ernannt, die von einem Investorenkonsortium mit Silver Lake, Oracle und MGX als Hauptinvestoren (je 15%) geführt wird. Das Joint Venture soll über 200 Millionen US-Nutzer und 7,5 Millionen Unternehmen unter verschärften Datenschutz- und Sicherheitsauflagen bedienen.",
+          "score": 10
         }
       ]
     }

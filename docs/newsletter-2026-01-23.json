@@ -1,0 +1,138 @@
+{
+  "date": "2026-01-23",
+  "articles": [
+    {
+      "source": "DWDL",
+      "title": "Kampf um Warner: Paramount hat bislang wenige Aktionäre überzeugt",
+      "link": "https://www.dwdl.de/nachrichten/105284/kampf_um_warner_paramount_hat_bislang_wenige_aktionaere_ueberzeugt/",
+      "summary": "Paramount hat die Frist für sein feindliches Übernahme-Angebot für Warner Bros. Discovery bis zum 20. Februar verlängert, nachdem bislang nur etwa 7% der Aktionäre das 30-Dollar-je-Aktie-Angebot (Gesamtwert: 108,4 Mrd. USD) angenommen haben. Der WBD-Aufsichtsrat empfiehlt weiterhin die Ablehnung zugunsten der als überlegen bewerteten Fusionsvereinbarung mit Netflix, während über 93% der Aktionäre das Paramount-Angebot bereits zurückgewiesen haben.",
+      "score": 10
+    },
+    {
+      "source": "DWDL",
+      "title": "DF1 ab sofort auch via Sky Stream zu empfangen",
+      "link": "https://www.dwdl.de/nachrichten/105276/df1_ab_sofort_auch_via_sky_stream_zu_empfangen/",
+      "summary": "Der Sportsender DF1 ist ab sofort über Sky Stream verfügbar und erweitert damit seine Reichweite auf der IPTV-Plattform von Sky. Die Kooperation ermöglicht Sky Stream-Nutzern kostenlosen Zugang zu DF1s Programm aus Live-Sport, Dokumentationen und Reportagen in HD-Qualität. Sky baut damit sein Free-TV-Angebot weiter aus, während DF1 seinen bereits vollständig im deutschen Markt verfügbaren Sender zusätzlich distribuiert.",
+      "score": 7
+    },
+    {
+      "source": "DWDL",
+      "title": "ProSieben holt \"Dr. Rick & Dr. Nick\" zurück, \"Miss Germany\" bei Sixx",
+      "link": "https://www.dwdl.de/nachrichten/105275/prosieben_holt_dr_rick__dr_nick_zurueck_miss_germany_bei_sixx/",
+      "summary": "ProSieben startet am 11. Februar die zweite Staffel von \"Dr. Rick & Dr. Nick - Die Schönheits-Docs\" mit zwölf neuen Folgen im Anschluss an \"Germany's Next Topmodel\", diesmal mittwochs statt donnerstags. Sixx übernimmt die GNTM-Wiederholungen freitags und zeigt zusätzlich ab 31. Januar die Dokuserie \"Road to Miss Germany\" sowie am 7. März das Live-Finale der Miss Germany Awards. Der Schönheitswettbewerb wurde konzeptionell neu ausgerichtet und fokussiert sich auf weibliche Vorbilder und Talentförderung statt klassischer Schönheitsideale.",
+      "score": 8
+    },
+    {
+      "source": "DWDL",
+      "title": "71 Mal Hoffen: Die Nominierungen für den Grimme-Preis 2026",
+      "link": "https://www.dwdl.de/nachrichten/105269/71_mal_hoffen_die_nominierungen_fuer_den_grimmepreis_2026/",
+      "summary": "71 Produktionen und Einzelleistungen wurden aus über 750 Einreichungen für den Grimme-Preis 2026 nominiert, wobei öffentlich-rechtliche Sender dominieren, aber auch elf Nominierungen an Privatsender und Streamingdienste gehen. Zu den nominierten Fiction-Produktionen zählen \"Call My Agent Berlin\" (Disney+), \"Frier und Fünfzig\" (Joyn/Sat.1) sowie mehrere ZDF-Produktionen, während im Informationsbereich u.a. die RTLzwei-Doku \"Hass.Hetze.Hoffnung.\" und Netflix' \"Babo - Die Haftbefehl-Story\" durchbrachen. Die 16 Auszeichnungen werden im März bekanntgegeben, nachdem die Jurys ab dem 31. Januar ihre Arbeit aufnehmen.",
+      "score": 7
+    },
+    {
+      "source": "DWDL",
+      "title": "Schwarzseher werden nach und nach abgeklemmt",
+      "link": "https://www.dwdl.de/nachrichten/105264/schwarzseher_werden_nach_und_nach_abgeklemmt/",
+      "summary": "Die Zahl der Schwarzseher nach Ende des Nebenkostenprivilegs ist laut AGF-Plattformstudie 2025 II deutlich von 45,9% auf 33,4% der betroffenen Haushalte ohne neuen Kabelvertrag zurückgegangen. 74,4% der betroffenen Haushalte haben inzwischen einen neuen Kabelvertrag abgeschlossen, während 15,9% auf alternative Empfangsarten gewechselt sind. TV-Sender hatten kein Interesse am Abklemmen der Schwarzseher, da dies zu niedrigeren Reichweiten und geringeren Werbeeinnahmen geführt hätte.",
+      "score": 8
+    },
+    {
+      "source": "Horizont Medien",
+      "title": "Chinesische Videoplattform: Neue US-Firma für Tiktok offiziell gegründet",
+      "link": "https://www.horizont.net/medien/nachrichten/eilmeldung-neue-us-firma-fuer-tiktok-offiziell-gegruendet-232869?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+      "summary": "Das US-Geschäft von TikTok wurde offiziell in ein neues Gemeinschaftsunternehmen \"TikTok USDS\" ausgegliedert, bei dem der chinesische Mutterkonzern ByteDance nur noch knapp 20 Prozent der Anteile hält. Diese Umstrukturierung erfolgte aufgrund monatelanger Bedenken der US-Regierung bezüglich chinesischer Einflussnahme und betrifft ausschließlich den amerikanischen Markt. Der TikTok-Betrieb in anderen Märkten wie Deutschland bleibt von dieser Änderung unberührt.",
+      "score": 7
+    },
+    {
+      "source": "Horizont Medien",
+      "title": "&quot;ntv Wirtschaft&quot;: NTV startet KI-generierten Wirtschafts-Podcast",
+      "link": "https://www.horizont.net/medien/nachrichten/ntv-wirtschaft-ntv-startet-ki-generierten-wirtschafts-podcast-232853?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+      "summary": "NTV launcht ab kommender Woche einen KI-generierten Wirtschafts-Podcast namens \"ntv Wirtschaft\", der einen kompakten Überblick über die wichtigsten Wirtschaftsnachrichten bietet. Das Format wird vollständig mithilfe von Künstlicher Intelligenz aus dem vorhandenen redaktionellen Content der NTV-Redaktion erstellt.",
+      "score": 8
+    },
+    {
+      "source": "Horizont Medien",
+      "title": "TV-Preis: Grimme-Institut vermisst Innovationen und Beiträge zu Krieg und Klima",
+      "link": "https://www.horizont.net/medien/nachrichten/tv-preis-grimme-institut-vermisst-innovationen-und-beitraege-zu-krieg-und-klima-232851?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+      "summary": "Das Grimme-Institut kritisiert bei der Bekanntgabe der diesjährigen Nominierungen eine mangelnde thematische Tiefe im deutschen Fernsehen, insbesondere bei der Auseinandersetzung mit den Themen Krieg und Klima. Geschäftsführerin Çiğdem Uzunoğlu bemängelt explizit fehlende \"hochkarätige Auseinandersetzungen\" mit dem Kriegsthema, während Preis-Chefin Lucia Eskes generell zu wenig Raum für wichtige gesellschaftliche Themen in den TV-Medien sieht.",
+      "score": 8
+    },
+    {
+      "source": "Horizont Medien",
+      "title": "TikTok, Instagram &amp; Co: Britisches Oberhaus stimmt für Social-Media-Aus für Kinder",
+      "link": "https://www.horizont.net/medien/nachrichten/tiktok-instagram--co-britisches-oberhaus-stimmt-fuer-social-media-aus-fuer-kinder-232849?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+      "summary": "Das britische Oberhaus hat für ein Social-Media-Verbot für Jugendliche unter 16 Jahren gestimmt und folgt damit dem australischen Vorbild. Die Abstimmung erhöht den politischen Druck auf die britische Regierung, entsprechende Regulierungsmaßnahmen für Plattformen wie TikTok und Instagram einzuführen. Das Votum des House of Lords zeigt die wachsende internationale Tendenz zur strikteren Kontrolle des Zugangs Minderjähriger zu sozialen Medien.",
+      "score": 7
+    },
+    {
+      "source": "Horizont Medien",
+      "title": "IVW 4/2025: Zeit holt Spiegel im Gesamtverkauf fast ein",
+      "link": "https://www.horizont.net/medien/nachrichten/ivw-42025-zeit-holt-spiegel-im-gesamtverkauf-fast-ein-232841?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+      "summary": "Der Rückgang der Print-Auflagen hat sich im 4. Quartal 2024 bei den meisten Titeln beschleunigt und konnte nur teilweise durch steigende E-Paper-Auflagen kompensiert werden. Die Zeit holt im Gesamtverkauf deutlich zum Spiegel auf und könnte diesen bald überholen. Die Entwicklung zeigt die anhaltende Transformation der Medienlandschaft von Print zu Digital.",
+      "score": 7
+    },
+    {
+      "source": "kress",
+      "title": "\"Wetten, dass..?\": Comeback mit Bill und Tom Kaulitz Jetzt ist es offiziell: Das ZDF bringt nach drei Jahren Pause seinen Show-Klassiker \"Wetten, dass..?\" zurück auf den Bildschirm",
+      "link": "https://kress.de/news/beitrag/151650-quot-wetten-dass-quot-comeback-mit-bill-und-tom-kaulitz.html",
+      "summary": "Das ZDF bringt nach drei Jahren Pause den Show-Klassiker \"Wetten, dass..?\" mit den Kaulitz-Zwillingen Bill und Tom als Moderatoren zurück. Die Programmverantwortlichen setzen auf die Hollywood-erfahrenen Brüder, um die traditionsreiche Samstagabendshow für jüngere Zielgruppen zu revitalisieren und in der digitalen Medienlandschaft neu zu positionieren. Zunächst ist nur eine Ausgabe geplant, eine regelmäßige Fortsetzung lässt der Sender offen.",
+      "score": 8
+    },
+    {
+      "source": "meedia",
+      "title": "Video Daily: TV-Quoten & Streaming-Charts Handball besiegt Fußball, \"Bergdoktor\" besiegt \"Nord bei Nordwest\" Trotz einer arbeitnehmerunfreundlichen Startzeit um 15.30 Uhr hat das Handball-EM-Spiel zwischen Deutschland und Portugal dem Ersten am Donnerstag grandiose Zahlen beschert: 4,02 Millionen sorgten für einen Marktanteil von 34,5 Prozent. In der Prime Time setzte sich \"Der Bergdoktor\" mit 4,82 Millionen Zuschauenden gegen die \"Nord bei Nordwest\"-Wiederholung des Ersten durch, RTL hatte mit dem VfB Stuttgart in der UEFA Europa League keine Chance, gewann dafür bei den 14- bis 49-Jährigen den Abend",
+      "link": "https://meedia.de/news/beitrag/20976-handball-besiegt-fussball-quot-bergdoktor-quot-besiegt-quot-nord-bei-nordwest-quot.html",
+      "summary": "Das Handball-EM-Spiel Deutschland vs. Portugal erzielte trotz ungünstiger Startzeit um 15:30 Uhr herausragende 4,02 Millionen Zuschauer (34,5% Marktanteil) im Ersten. In der Prime Time dominierte \"Der Bergdoktor\" (ZDF) mit 4,82 Millionen Zuschauern (21,3%) vor \"Nord bei Nordwest\" (ARD, 3,83 Mio./16,9%), während RTLs Europa League-Übertragung nur in der werberelevanten Zielgruppe punkten konnte.",
+      "score": 9
+    },
+    {
+      "source": "meedia",
+      "title": "Von Montag bis Freitag ntv startet KI-Podcast \"ntv Wirtschaft\" Der Nachrichtensender ntv hat ein...",
+      "link": "https://meedia.de/news/beitrag/20977-ntv-startet-ki-podcast-quot-ntv-wirtschaft-quot.html",
+      "summary": "Der Nachrichtensender ntv startet ab dem 26. Januar den täglichen KI-Podcast \"ntv Wirtschaft\", der werktags in zehn Minuten die wichtigsten Wirtschaftsnachrichten zusammenfasst. Während die Themenauswahl und redaktionelle Verantwortung bei ntv-Journalisten liegt, übernimmt die KI die Textgenerierung aus vorhandenen ntv.de-Artikeln sowie die Sprachausgabe. Das Projekt ist Teil der KI-Strategie von RTL Deutschland, die 2025 verschiedene KI-Leuchtturmprojekte in skalierbare Workflows überführt.",
+      "score": 7
+    },
+    {
+      "source": "meedia",
+      "title": "Die IVW-Quartalsauflagen IV/2025 Die 100 meistverkauften Zeitschriften Deutschlands Elf der 13 per Abo und im Einzelhandel meistverkauften Publikumszeitschriften waren im vierten Quartal TV-Programm-Magazine. Das hat nichts mit einer eventuell wachsenden Popularität des linearen Fernsehens zu tun",
+      "link": "https://meedia.de/news/beitrag/20974-die-100-meistverkauften-zeitschriften-deutschlands.html",
+      "summary": "Die IVW-Quartalsauflagen IV/2025 zeigen eine dramatische Krise der deutschen Print-Branche: Elf der 13 meistverkauften Publikumszeitschriften sind TV-Magazine, nicht aufgrund steigender Popularität des linearen Fernsehens, sondern weil alle anderen Segmente noch stärker einbrechen. Unter den Top-100-Titeln gibt es nur 14 Gewinner, während selbst Marktführer \"TV 14\" mit 1,2 Millionen Exemplaren 8,4 Prozent verliert und bei gleichbleibendem Trend in zwei Jahren unter die Millionengrenze fallen wird. Alle zehn Top-Titel verzeichnen Rückgänge, wobei \"TV Digital\" mit minus 13,9 Prozent besonders stark betroffen ist.",
+      "score": 8
+    },
+    {
+      "source": "Guardian Media",
+      "title": "Lords put pressure on Starmer with vote to ban social media for under-16s",
+      "link": "https://www.theguardian.com/uk-news/2026/jan/21/kemi-badenoch-keir-starmer-under-16s-social-media-ban-uk",
+      "summary": "Das House of Lords stimmte mit 261 zu 150 Stimmen für einen konservativen Änderungsantrag, der Social Media für unter 16-Jährige nach australischem Vorbild verbieten würde, was nun das Unterhaus unter Druck setzt. Während die Regierung bereits eine entsprechende Konsultation bis zum Sommer durchführt und zunächst die Erfahrungen mit dem australischen Verbot (seit Dezember in Kraft) abwarten möchte, drängt Oppositionsführerin Kemi Badenoch auf sofortige Umsetzung. Der Änderungsantrag wird voraussichtlich im Unterhaus scheitern, obwohl auch Labour-Abgeordnete Unterstützung signalisieren.",
+      "score": 7
+    },
+    {
+      "source": "Guardian Media",
+      "title": "Snapchat’s parent company settles social media addiction lawsuit before trial",
+      "link": "https://www.theguardian.com/media/2026/jan/21/snapchat-parent-company-snap-settles-social-media-addiction-lawsuit-before-trial",
+      "summary": "Snap hat eine Klage wegen Social-Media-Sucht kurz vor Prozessbeginn außergerichtlich beigelegt, während Meta, TikTok und YouTube weiterhin als Beklagte in dem Verfahren verbleiben. Die Klage einer 19-Jährigen, die behauptet, durch die Nutzung sozialer Medien psychische Probleme entwickelt zu haben, ist der erste von drei \"Bellwether\"-Prozessen, die Tausende ähnliche Klagen konsolidieren. Ein Richter entschied bereits, dass die Plattform-Designfunktionen selbst – nicht nur Nutzerinhalte – für Schäden verantwortlich sein könnten, was die traditionelle Section-230-Verteidigung der Tech-Unternehmen untergraben könnte.",
+      "score": 7
+    },
+    {
+      "source": "Guardian Media",
+      "title": "Hugh Grant and Esther Ghey sign letter backing under-16s social media ban in UK",
+      "link": "https://www.theguardian.com/media/2026/jan/20/hugh-grant-esther-ghey-letter-under-16s-social-media-ban",
+      "summary": "Hugh Grant und Esther Ghey (Mutter der ermordeten Brianna Ghey) haben gemeinsam mit anderen Persönlichkeiten einen Brief an die Parteiführer von Labour, Conservatives und Liberal Democrats unterzeichnet, der ein Social-Media-Verbot für unter 16-Jährige fordert. Der Brief unterstützt Amendment 94a zum Children's Wellbeing and Schools Bill vor der Abstimmung im House of Lords und verweist auf eine Umfrage, wonach 93% der Eltern Social Media als schädlich für Kinder erachten. Die Unterzeichner argumentieren, dass dieses Amendment die klarste und direkteste Lösung für das Problem darstelle und Eltern die dringend benötigte Unterstützung biete.",
+      "score": 7
+    },
+    {
+      "source": "Deadline",
+      "title": "TikTok Seals Deal For Majority U.S.-Owned Joint Venture, Oracle Holds 15%",
+      "link": "https://deadline.com/2026/01/tiktok-sets-deal-for-majority-us-owned-joint-venture-1236694090/",
+      "summary": "TikTok hat ein Joint Venture mit mehrheitlich amerikanischer Beteiligung angekündigt, das unter CEO Adam Presser als unabhängige Einheit operieren und umfassende Datenschutz- und Sicherheitsmaßnahmen für über 200 Millionen US-Nutzer implementieren soll. Oracle, Silver Lake und MGX halten jeweils 15% der Anteile, wobei Oracle-Gründer Larry Ellison durch seine Paramount-Skydance-Beteiligung und WBD-Interesse besondere Relevanz für Hollywood hat. Das Joint Venture wird von einem siebenköpfigen, mehrheitlich amerikanischen Board geleitet und soll neben TikTok auch CapCut und weitere Apps in den USA betreiben.",
+      "score": 8
+    },
+    {
+      "source": "Variety",
+      "title": "TikTok U.S. Joint Venture Deal Closes, Former Warner Bros. Exec Adam Presser Named CEO",
+      "link": "https://variety.com/2026/digital/news/tiktok-us-joint-venture-deal-closes-adam-presser-ceo-1236638722/",
+      "summary": "ByteDance hat den Verkauf von TikTok U.S. an ein amerikanisch-dominiertes Joint Venture abgeschlossen, womit die App nun den US-Gesetzen zur nationalen Sicherheit entspricht. Der ehemalige Warner Bros.-Manager Adam Presser wurde als CEO der neuen Firma \"TikTok USDS Joint Venture\" ernannt, die von einem Investorenkonsortium mit Silver Lake, Oracle und MGX als Hauptinvestoren (je 15%) geführt wird. Das Joint Venture soll über 200 Millionen US-Nutzer und 7,5 Millionen Unternehmen unter verschärften Datenschutz- und Sicherheitsauflagen bedienen.",
+      "score": 10
+    }
+  ]
+}
