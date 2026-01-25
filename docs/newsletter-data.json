@@ -1,174 +1,62 @@
 {
   "newsletters": [
     {
-      "date": "2026-01-24",
+      "date": "2026-01-25",
       "articles": [
         {
           "source": "DWDL",
-          "title": "BR: Zwischen \"Tatort\"-Abschied und Sportfreunde-Doku",
-          "link": "https://www.dwdl.de/nachrichten/105289/br_zwischen_tatortabschied_und_sportfreundedoku/",
-          "summary": "Der BR präsentiert 2026 ein umfangreiches Programm mit mehreren Dokumentarfilmen, darunter eine Produktion über die 30-jährige Bandgeschichte der Sportfreunde Stiller sowie Dokus zu David Bowie, Schach im Slum und True Crime. Bei den fiktionalen Formaten stehen die Fortsetzung von \"Himmel, Herrgott, Sakrament\" und \"School of Champions\" an, während zu Ostern das Münchner \"Tatort\"-Duo Batic/Leitmayr nach 35 Jahren und 100 Fällen mit einer Doppelfolge verabschiedet wird.",
-          "score": 9
+          "title": "Streit um Investitionsabgabe: Union und SPD weiter uneins",
+          "link": "https://www.dwdl.de/nachrichten/105298/streit_um_investitionsabgabe_union_und_spd_weiter_uneins/",
+          "summary": "Der Streit zwischen Union und SPD über die geplante Investitionsabgabe für Streaming-Dienste und Medienunternehmen dauert trotz intensiver Verhandlungen an. Während Kulturstaatsminister Weimer (Union) eine freiwillige Verpflichtung mit bereits zugesagten 15 Milliarden Euro Investitionen von Netflix, Amazon, ARD, ZDF, RTL und ProSiebenSat.1 bevorzugt, beharrt die SPD auf einer gesetzlichen Regelung. Das jüngste Treffen zwischen den Koalitionspartnern wurde als \"Eklat\" bezeichnet, der Koalitionsausschuss soll sich kommende Woche erneut mit dem Thema befassen.",
+          "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Warner Bros. dominiert Oscar-Nominierungen, Netflix vor Apple",
-          "link": "https://www.dwdl.de/nachrichten/105278/warner_bros_dominiert_oscarnominierungen_netflix_vor_apple/",
-          "summary": "Warner Bros. führt mit 30 Oscar-Nominierungen das Studio-Ranking an, angetrieben vom Vampir-Horror \"Sinners\" (16 Nominierungen), der den bisherigen Oscar-Rekord von 14 Nominierungen bricht. Netflix folgt auf Platz drei mit 9 Nominierungen für del Toros \"Frankenstein\"-Neuverfilmung als Hauptbeitrag, während Apple mit 6 Nominierungen deutlich dahinter liegt. Der deutsche Beitrag \"In die Sonne schauen\" erhielt keine Nominierung in der Kategorie bester internationaler Film.",
-          "score": 9
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "mds: Immediate schließt Übernahme von Springers Mediaplanungstool ab",
-          "link": "https://www.horizont.net/medien/nachrichten/mds-immediate-schliesst-uebernahme-von-springersmediaplanungstool-ab-232874?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der Softwareanbieter Immediate hat die Übernahme der Mediaplanungstool-Marke mds von Axel Springer abgeschlossen, nachdem der Deal bereits im April 2025 eingefädelt wurde. Das Unternehmen plant nun, mit neuen Features weitere Kunden im Bereich Datenanalyse und Mediaplanung zu gewinnen.",
-          "score": 10
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "&quot;Die halbe Stunde nach der Stunde danach&quot;: Stefan Raab macht eigene Live-Show zum Dschungelcamp",
-          "link": "https://www.horizont.net/medien/nachrichten/die-halbe-stunde-nach-der-stunde-danach-stefan-raab-macht-eigene-live-show-zum-dschungelcamp-232873?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Stefan Raab produziert für RTL sechs Live-Spezialausgaben seiner Show als satirische Begleitkommentierung zum Dschungelcamp. Die 30-minütigen Sendungen mit dem Titel \"Die halbe Stunde nach der Stunde danach\" laufen dienstags, mittwochs und donnerstags um 23:30 Uhr in den kommenden zwei Wochen.",
+          "title": "Ronzheimer meldet sich mit gleich fünf Folgen in Sat.1 zurück",
+          "link": "https://www.dwdl.de/nachrichten/105285/ronzheimer_meldet_sich_mit_gleich_fuenf_folgen_in_sat1_zurueck/",
+          "summary": "Sat.1 bringt ab 24. Februar die Doku-Reihe \"Ronzheimer - Wie geht's Deutschland?\" mit fünf neuen Folgen zurück, nachdem 2024 nur zwei und 2025 nur eine Folge ausgestrahlt wurden. Das von i&u Studios produzierte Format wechselt vom Montag- auf den Dienstagabend um 20:15 Uhr und behandelt kontroverse Themen wie Bürgergeld, Jugendkriminalität und Migration, wobei \"Bild\"-Vize Paul Ronzheimer Bürgerstimmen sammelt und anschließend Spitzenpolitiker mit seinen Recherchen konfrontiert.",
           "score": 7
         },
         {
-          "source": "Horizont Medien",
-          "title": "TV-Quoten: Handballer locken mehr Zuschauer vor die Bildschirme als die Europa League",
-          "link": "https://www.horizont.net/medien/nachrichten/tv-quoten-handballer-locken-mehr-zuschauer-vor-die-bildschirme-als-die-europa-league-232871?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Das erste Hauptrundenspiel der deutschen Handball-Nationalmannschaft erzielte am Donnerstag trotz frühem Anpfiff höhere TV-Quoten als das zeitgleich ausgestrahlte Europa-League-Spiel des VfB Stuttgart zur Primetime. Die anhaltende Begeisterung für das Team von Alfred Gislason zeigt sich in der starken Zuschauerresonanz auch bei ungünstigen Sendezeiten.",
-          "score": 8
+          "source": "DWDL",
+          "title": "Sat.1 lädt zum \"Backbattle der Reality-Stars\"",
+          "link": "https://www.dwdl.de/nachrichten/105279/sat1_laedt_zum_backbattle_der_realitystars/",
+          "summary": "Sat.1 startet ab 11. Februar mittwochs um 23:00 Uhr das neue Back-Format \"Kuchen oder Chaos - Das Backbattle der Reality-Stars\" als Inhouse-Produktion im Anschluss an \"Das große Promibacken\". In jeder Ausgabe treten zwei Reality-Stars gegeneinander an, backen denselben Kuchen an verschiedenen Orten und kommentieren sich gegenseitig, während das Publikum den Gewinner bestimmt.",
+          "score": 7
         },
         {
-          "source": "kress",
-          "title": "kress Awards 2025: Die besten Vermarkter der Branche Welche Entscheidungsträger haben in der Vermarktung 2025 besonders viel bewegt",
-          "link": "https://kress.de/news/beitrag/151659-kress-awards-2025-die-besten-vermarkter-der-branche.html",
-          "summary": "Carsten Dorn, Geschäftsführer von Score Media, wurde bei den kress Awards 2025 als Vermarkter des Jahres ausgezeichnet. Er konnte durch die Vermarktung von 420 regionalen Tageszeitungstiteln von rund 30 Verlagen die Zahlen stabil halten und weitere Partner für die Vermarktungsallianz gewinnen. Zudem baute er mit dem Berliner Video-Vermarkter Red Pineapple Media das Digital- und Bewegtbildgeschäft aus.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Alina Milewicz folgt auf Friederike Trudzinski",
-          "link": "https://kress.de/news/beitrag/152082-chefredakteurswechsel-bei-emotion-alina-milewicz-folgt-auf-friederike-trudzinski.html",
-          "summary": "Alina Milewicz übernimmt die Chefredaktion des Frauen-Netzwerks emotion von Friederike Trudzinski, nachdem das Unternehmen seit Januar 2026 zur neu gegründeten Mediavest AG von Timo Busch gehört. Milewicz, die zuvor u.a. bei Grazia, Jolie und als Chefredakteurin von Maxi tätig war, soll die Neustrukturierung mit zwei Club-Modellen (Business und Lifestyle) vorantreiben. Birte Mußmann und Christine Dohler werden als stellvertretende Chefredakteurinnen berufen.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Kay Ackermann ist jetzt Vertriebschef",
-          "link": "https://kress.de/news/beitrag/152080-bei-funke-tochter-everbay-kay-ackermann-ist-jetzt-vertriebschef.html",
-          "summary": "Kay Ackermann übernimmt ab sofort die Vertriebsleitung und wird Geschäftsführungsmitglied bei everbay, der auf Social Media- und KI-gestütztes Recruiting spezialisierten Funke-Tochter. Er folgt auf Martin Plöckl, der das Unternehmen aus familiären Gründen verlässt, und bringt über 14 Jahre HR-Tech- und SaaS-Erfahrung mit, unter anderem als Gründer der Plattform HRlab und als Sales Director bei CoachHub.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Ohne Bieterverfahren verkauft: Der rätselhafte Deal um Oberfrankens Zeitungen Ohne öffentliche Ausschreibung und ohne Konkurrenzangebote wechselte die Mediengruppe Oberfranken den Besitzer. Warum Simone Tucci-Diekmann den Zuschlag bekam, welche Summen im Raum stehen",
-          "link": "https://kress.de/news/beitrag/151639-ohne-bieterverfahren-verkauft-der-raetselhafte-deal-um-oberfrankens-zeitungen.html",
-          "summary": "Die Mediengruppe Bayern unter Simone Tucci-Diekmann hat im November überraschend die Mediengruppe Oberfranken (mgo) übernommen, ohne dass diese öffentlich zum Verkauf stand oder ein Bieterverfahren stattfand. Konkurrenten wie die Presse-Druck- und Verlags-GmbH Augsburg und der Verlag Nürnberger Presse erhielten keine Gelegenheit zur Abgabe von Angeboten, obwohl die mgo mit Titeln wie \"Fränkischer Tag\" und dem Portal infranken.de als wirtschaftlich agil galt. Die Kartellbehörden müssen dem Deal noch zustimmen, was aufgrund der Übernahme-Erfahrung der Mediengruppe Bayern als Formsache gilt.",
-          "score": 9
-        },
-        {
-          "source": "kress",
-          "title": "„Ich war nicht mehr richtig zufrieden“",
-          "link": "https://kress.de/news/beitrag/151654-ich-war-nicht-mehr-richtig-zufrieden-warum-harald-martenstein-bei-der-zeit-aufhoert.html",
-          "summary": "Harald Martenstein beendet nach 24 Jahren seine Kolumne im ZEITmagazin und wechselt ab Mitte Februar als Nachfolger von Franz Josef Wagner zur Bild-Zeitung. Der 72-Jährige begründet den Schritt mit einem \"Abnutzungseffekt\" - er habe über viele Themen bereits geschrieben und sei mit der Qualität seiner Texte zunehmend unzufrieden gewesen. Bei Bild wird seine neue Kolumne \"Mail von Martenstein\" heißen.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Thomas Knüwer wechselt zur re:publica Die Digital- und Gesellschaftskonferenz re:publica hat einen neuen Führungsposten geschaffen.",
-          "link": "https://kress.de/news/beitrag/151653-er-folgt-seinem-herzen-thomas-knuewer-wechselt-zur-re-publica.html",
-          "summary": "Thomas Knüwer, ehemaliger Handelsblatt-Redakteur und Gründungschefredakteur von Wired Deutschland, übernimmt ab sofort die neu geschaffene Position des Chief Marketing Officers bei der re:publica. In seiner neuen Rolle soll er eine Brücke zwischen der Digital- und Gesellschaftskonferenz und der Wirtschaft schlagen. Knüwer bringt 14 Jahre Erfahrung in Digitalisierungsthemen sowie Expertise aus seiner eigenen Digitalmarketing-Beratung kpunktnull mit.",
-          "score": 9
-        },
-        {
-          "source": "kress",
-          "title": "Maximilian Helm gehört zu den Young Leadern des Jahres 2025 kress präsentiert in einer Serie junge...",
-          "link": "https://kress.de/news/beitrag/151656-maximilian-helm-gehoert-zu-den-young-leadern-des-jahres-2025.html",
-          "summary": "Maximilian Helm (31), Leiter des Digitaldesks von Sächsischer Zeitung und Leipziger Volkszeitung sowie Mitglied der SZ-Chefredaktion, wurde von kress pro zu den \"25 Young Leaders des Jahres 2025\" gewählt. Helm zeichnet sich durch seine erfolgreiche Social-Media-Strategie für lokale Medien auf TikTok und Instagram aus. Als Karrieretipp betont er die Gleichwertigkeit journalistischer Fähigkeiten neben digitalen Kompetenzen.",
-          "score": 9
-        },
-        {
-          "source": "kress",
-          "title": "CEO Christian Schmalzl will Ströer verlassen Im Sommer 2028 läuft der Vertrag von Christian...",
-          "link": "https://kress.de/news/beitrag/151651-ceo-christian-schmalzl-will-stroeer-verlassen.html",
-          "summary": "Ströer-CEO Christian Schmalzl wird das Außenwerbe- und Digitalunternehmen aus persönlichen Gründen verlassen, wenn sein Vertrag im Sommer 2028 ausläuft. Der Such- und Auswahlprozess für seine Nachfolge läuft bereits, während Hauptaktionär Udo Müller weiterhin als Co-CEO fungiert. Schmalzl war seit 2012 bei dem MDAX-notierten Unternehmen tätig und wurde 2017 zum Co-CEO ernannt.",
-          "score": 9
+          "source": "DWDL",
+          "title": "ARD & ZDF teilen Hauptrundenspiele der Handball-EM auf",
+          "link": "https://www.dwdl.de/nachrichten/105270/ard__zdf_teilen_hauptrundenspiele_der_handballem_auf/",
+          "summary": "ARD und ZDF haben sich die vier Hauptrundenspiele der deutschen Handball-Nationalmannschaft bei der EM aufgeteilt, wobei jeder Sender zwei Partien live überträgt. Das Erste zeigt die Spiele gegen Portugal (Donnerstag 15:30 Uhr) und Dänemark (Montag), während das ZDF Deutschland gegen Norwegen (Samstag) und Frankreich (Mittwoch) ausstrahlt. Die Übertragungen versprechen starke Quoten, nachdem bereits das Deutschland-Spanien-Spiel fast sieben Millionen Zuschauer erreichte.",
+          "score": 7
         },
         {
           "source": "kress",
           "title": "Matthias Schmeing steigt bei der Haas Mediengruppe zum AI-Chef auf Der Verlag des \"Mannheimer Morgen\" hat zum 1.",
           "link": "https://kress.de/news/beitrag/151648-matthias-schmeing-steigt-bei-der-haas-mediengruppe-zum-ai-chef-auf.html",
-          "summary": "Die Haas Mediengruppe (Verlag des \"Mannheimer Morgen\") hat Matthias Schmeing zum neuen Head of AI ernannt, der bereits seit 2022 für digitale Transformation und KI-Initiativen im Unternehmen verantwortlich war. Mit der Position will die Mediengruppe KI-Initiativen gruppenweit koordinieren und strategisch vorantreiben, da die Integration von Künstlicher Intelligenz als entscheidender Baustein für die digitale Transformation betrachtet wird. Schmeing sieht das größte Potenzial von KI in der Effizienzsteigerung und Prozessunterstützung.",
-          "score": 10
-        },
-        {
-          "source": "kress",
-          "title": "NPG lockt andere Verlage auf ihre Technik-Plattform Die Neue Pressegesellschaft (NPG) aus Ulm will mit kleineren Zeitungsverlagen ins Geschäft kommen.",
-          "link": "https://kress.de/news/beitrag/151649-npg-lockt-andere-verlage-auf-ihre-technik-plattform.html",
-          "summary": "Die Neue Pressegesellschaft (NPG) öffnet ihre technische Publishing-Plattform für externe Verlage und bietet neben dem CMS-Stack (LivingDocs, Unit B Frontend/Paywall, Retresco AI-Tools) auch überregionale Inhalte der Neuen Berliner Redaktionsgesellschaft (NBR) an. Das modulare System soll kleineren Verlagen kostengünstig Zugang zu skalierbaren Digitalstrukturen ermöglichen, ohne Lock-in-Effekte zu schaffen. Zu den bestehenden NBR-Kunden zählen bereits \"Badische Neueste Nachrichten\", \"Volksstimme\" und \"Mitteldeutsche Zeitung\".",
-          "score": 7
+          "summary": "Die Haas Mediengruppe (\"Mannheimer Morgen\") hat Matthias Schmeing zum Head of AI ernannt, der bereits seit 2022 die digitale Transformation der Redaktion verantwortet und eine konzernweite KI-Taskforce leitete. In seiner neuen Position soll er gruppenweite KI-Initiativen koordinieren und geeignete Technologien strategisch implementieren. Die Geschäftsführung betont, dass KI-Integration ein entscheidender strategischer Baustein für die Transformation zum digitalen Medienhaus darstellt.",
+          "score": 9
         },
         {
           "source": "meedia",
-          "title": "Extras der \"Stefan Raab Show\" Stefan Raab hängt sich an die Dschungelshow Stefan Raab wird in den kommenden zwei Wochen das Geschehen im RTL-Dschungelcamp kommentieren. Der Sender plant sechs Sonderausgaben seiner \"Stefan Raab Show\" zu \"Ich bin ein Star",
-          "link": "https://meedia.de/news/beitrag/20978-stefan-raab-haengt-sich-an-die-dschungelshow.html",
-          "summary": "RTL plant sechs Sonderausgaben der \"Stefan Raab Show\" als späte Nachberichterstattung zum Dschungelcamp, die ab 27. Januar jeweils um 23:30 Uhr ein \"satirisches Resümee\" der IBES-Sendungen liefern sollen. Die Maßnahme kann als Versuch gewertet werden, die zuletzt katastrophal niedrigen Quoten von Raabs Show durch Anbindung an das erfolgreiche Dschungelcamp-Format zu stabilisieren. Für die Sonderausgaben müssen die etablierten Late-Night-Formate \"Extra\" und \"stern TV\" in Kurzversionen weichen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Samsung, Check24 und Aldi Süd werben am erfolgreichsten Welche Marken es 2025 geschafft haben, auf...",
-          "link": "https://meedia.de/news/beitrag/20979-youtube-samsung-check24-und-aldi-sued-werben-am-erfolgreichsten.html",
-          "summary": "Samsung, Check24 und Aldi Süd führen das YouTube Ads Leaderboard 2025 an und demonstrieren einen Strategiewechsel im Video-Marketing weg von reiner Sichtbarkeit hin zu integrierten Inhalten, die Unterhaltung, Information und Performance verbinden. Die erfolgreichen Marken verstehen YouTube als ganzheitliches Ökosystem und nutzen Creator-Partnerschaften sowie KI-Tools für langfristige Kundenkontakte entlang der gesamten Customer Journey. Samsung zeigt exemplarisch mit der Kampagne \"Casa Intelligencia\", wie sich das Spannungsfeld zwischen Markenaufbau und Abverkauf durch durchgängige YouTube-Kommunikation vom ersten Kontakt bis zur Kaufentscheidung auflösen lässt.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Daten-Sicherheit in Mediaagenturen Havas Media hängt die ISO-27001-Zertifizierung hoch",
-          "link": "https://meedia.de/news/beitrag/20925-havas-media-haengt-die-iso-27001-zertifizierung-hoch-was-sagt-der-wettbewerb-dazu.html",
-          "summary": "Havas Media hat sich als Mediaagentur nach dem ISO-27001-Standard für Informationssicherheit zertifizieren lassen und sieht dies als Wettbewerbsvorteil sowie Vertrauenssignal für Kunden mit hohen Compliance-Anforderungen. Die Konkurrenz zeigt geteilte Meinungen: Während Omnicom Media und Mediaplus dem Thema aufgeschlossen gegenüberstehen, verzichtet Unbound Media bewusst auf eine solche Zertifizierung, da die bestehenden Sicherheitsmechanismen ausreichend seien.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Marketing-Trends für 2026 Offsite-Retail-Media, 1st-Party-Optimierung und skalierbare...",
-          "link": "https://meedia.de/news/beitrag/20958-offsite-retail-media-1st-party-optimierung-und-skalierbare-ki-content-produktion.html",
-          "summary": "Die Hamburger Agentur digitl prognostiziert für 2026 drei zentrale Marketing-Trends: die \"Industrialisierung\" durch strukturierte Operationalisierung von Daten und Techniken, die Expansion von Retail Media über die eigenen \"Walled Gardens\" hinaus auf externe Kanäle wie offenes Internet und Connected-TV, sowie die verstärkte Nutzung von 1st-Party-Kaufdaten durch große Händler für gezielte externe Werbeschaltungen. Die Experten betonen, dass nur Unternehmen mit konsolidierter Datenbasis 2026 sinnvoll von KI profitieren können, während sich Händler zunehmend als vollwertige Medienhäuser positionieren.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Eine Prognose von Marlon Giglinger, Netzschreier Die KI ersetzt keine Influencer, aber sie ersetzt...",
-          "link": "https://meedia.de/news/beitrag/20954-die-ki-ersetzt-keine-influencer-aber-sie-ersetzt-agenturen.html",
-          "summary": "Marlon Giglinger von der Influencer-Agentur Netzschreier prognostiziert für 2026 eine weitere Professionalisierung der Creator Economy mit schärferen Performance-Maßstäben bei Marken-Kooperationen. Ein mögliches Social-Media-Verbot für Unter-16-Jährige könnte die disruptivste Veränderung der Branche darstellen, da eine ganze Generation von Trendsettern wegfallen würde. Deutsche Unternehmen geben bereits am meisten Geld für Creator-Kooperationen aus, wobei der Markt trotz härteren Maßstäben weiter wachsen wird.",
+          "title": "Stefanie Polster nach Feierabend \"Work-Life-Balance ist für mich überholt\" Was tun...",
+          "link": "https://meedia.de/news/beitrag/20949-quot-work-life-balance-ist-fuer-mich-ueberholt-quot.html",
+          "summary": "Stefanie Polster, CEO der Agentur Rock&Stars, lehnt das Konzept der Work-Life-Balance ab und setzt stattdessen auf \"Work-Life-Integration\", bei der sie ihren Arbeitsalltag flexibel nach ihrem Chronotyp als Spättyp gestaltet. Sie plädiert für moderne Führung mit Gestaltungsfreiheit für alle Teammitglieder, ohne dabei in eine Always-on-Mentalität zu verfallen. Als persönlichen Ausgleich nutzt sie Natur, Pilates und Zeit mit Familie und Freunden.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "The influencer World Cup: Fifa and the TikTok deal targeting an avalanche of posts",
-          "link": "https://www.theguardian.com/football/2026/jan/24/influencer-world-cup-fifa-tiktok",
-          "summary": "FIFA hat eine Partnerschaft mit TikTok für die Fußball-WM 2026 angekündigt, die ausgewählten Content-Creators exklusiven Zugang zu Spielen, Archivmaterial und Behind-the-Scenes-Inhalten gewährt. Im Gegenzug sollen die Influencer eine große Menge an Posts erstellen, um die WM auf der Plattform omnipräsent zu machen und jüngere Zielgruppen zu erreichen. Die Strategie folgt dem Trend anderer Sportorganisationen wie der NFL, die bereits erfolgreich Creators in ihre Großveranstaltungen integriert haben.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Streaming Brawl! Netflix Vs. Paramount With Delayed ‘Skyscraper Live’ & UFC 324 Now Facing Off Tomorrow",
-          "link": "https://deadline.com/2026/01/netflix-skyscraper-live-ufc-paramount-head-to-head-1236695211/",
-          "summary": "Netflix's \"Skyscraper Live\" featuring Alex Honnold's climb of Taipei 101 wurde wetterbedingt von Freitag auf Samstag verschoben und konkurriert nun direkt mit UFC 324 auf Paramount+ um die Zuschauer. Die Live-Übertragung von Honnolds riskantem Kletterversuch (geplant 5-7 PM PT) wird zeitlich mit den Preliminary Fights und teilweise der Main Card des UFC-Events kollidieren. Dieser ungeplante Streaming-Konflikt intensiviert die Konkurrenz zwischen Netflix und Paramount+ im Live-Sport-Segment erheblich.",
+          "title": "Australian journalism ‘sidelined’ in AI-generated news summaries on Copilot, research shows",
+          "link": "https://www.theguardian.com/media/2026/jan/25/ai-generated-news-summaries-microsoft-copilot-australian-journalism",
+          "summary": "Eine Studie der University of Sydney zeigt, dass Microsoft Copilot australische Medienquellen in seinen KI-generierten Nachrichtenzusammenfassungen systematisch benachteiligt – nur etwa ein Fünftel der Antworten verlinkt auf australische Medien, während US- und europäische Quellen dominieren. Forscher Dr. Timothy Koskie warnt, dass diese Entwicklung zu mehr \"Nachrichtenwüsten\", weniger unabhängigen Stimmen und einer Schwächung der Demokratie führen wird, da Medienunternehmen durch fehlende Webseitenbesuche Werbeeinnahmen verlieren. Die Studie fordert politische Maßnahmen wie den News Media Bargaining Code, um die Zukunftsfähigkeit des australischen Journalismus zu sichern.",
           "score": 7
         },
         {
-          "source": "Deadline",
-          "title": "Netflix’s ‘Skyscraper Live’ Delayed Due To Weather; Alex Honnold’s Climb Of World’s 11th Tallest Building Punted To Saturday",
-          "link": "https://deadline.com/2026/01/skyscraper-live-climb-postponed-netflix-weather-1236694799/",
-          "summary": "Netflix verschob die Live-Übertragung von Alex Honnolds Free-Solo-Kletterversuch am Taipei 101 (dem elfthöchsten Gebäude der Welt) aufgrund schlechter Wetterbedingungen 30 Minuten vor dem geplanten Start auf Samstag, 24. Januar. Das Event ist Teil von Netflix' Strategie für große Live-Unscripted-Events und wurde als Spektakel-Mischung aus Philippe Petits Twin Towers-Walk und Honnolds El Capitan-Besteigung konzipiert. Die Wetterprognose für den neuen Termin zeigt sich deutlich günstiger mit \"teilweise sonnigen und angenehmen\" Bedingungen.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Netflix Postpones Alex Honnold’s ‘Skyscraper Live’ Climb Due to Weather Concerns",
-          "link": "https://variety.com/2026/tv/news/netflix-postpones-alex-honnold-skyscraper-live-weather-1236639657/",
-          "summary": "Netflix hat die Live-Übertragung von Alex Honnolds Free-Solo-Kletterversuch am Taipei 101 Tower aufgrund von Regenwetter von Donnerstag auf Samstag, 24. Januar um 20:00 ET/17:00 PT verschoben. Der Streaming-Dienst betonte, dass Sicherheit oberste Priorität habe, während Honnold aus Taipei mitteilte, dass das Klettern von Wolkenkratzern bei Regen nicht möglich sei.",
+          "source": "Guardian Media",
+          "title": "Second season of With Love, Meghan fails to reach Netflix’s top 1,000",
+          "link": "https://www.theguardian.com/uk-news/2026/jan/22/second-season-of-with-love-meghan-fails-to-reach-netflixs-top-1000",
+          "summary": "Die zweite Staffel von Meghan Markles Netflix-Lifestyle-Show \"With Love, Meghan\" erreichte nur Platz 1.124 der meistgesehenen Programme der Plattform (Juli-Dezember 2025) mit 2 Millionen Views und wird Berichten zufolge nicht für eine dritte Staffel verlängert. Die im August veröffentlichte achtteilige Serie wurde von Kritikern verrissen und als \"schmerzhaft gekünstelt\" bezeichnet. Dies steht im Kontrast zum erfolgreichen Start der Sussex-Netflix-Partnerschaft mit der Harry & Meghan-Dokumentarserie, die den größten Dokumentarfilm-Debut der Plattform erzielte.",
           "score": 7
         }
       ]
