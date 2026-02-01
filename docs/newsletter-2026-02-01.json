@@ -1,0 +1,33 @@
+{
+  "date": "2026-02-01",
+  "articles": [
+    {
+      "source": "DWDL",
+      "title": "Angezogene Handbremse: 2026 startet mit mehr Wiederholungen",
+      "link": "https://www.dwdl.de/nachrichten/105364/angezogene_handbremse_2026_startet_mit_mehr_wiederholungen/",
+      "summary": "Der Frische-Index für Januar 2026 zeigt bei sechs von acht großen TV-Sendern einen höheren Wiederholungsanteil im Abendprogramm als im Vorjahr. Während ZDF (89%), RTL (85%) und Das Erste (82%) weiterhin die Spitzengruppe bilden, sind die Privatsender deutlich zurückhaltender geworden - besonders ProSieben sank von 46% auf 28% und Sat.1 von 52% auf 39% Frische-Anteil. Die Kluft zwischen öffentlich-rechtlichen Sendern plus RTL und den übrigen Privatsendern hat sich damit erheblich vergrößert.",
+      "score": 8
+    },
+    {
+      "source": "DWDL",
+      "title": "RTL ersetzt Stefan Raab im Februar durch Familie Ritter",
+      "link": "https://www.dwdl.de/nachrichten/105373/rtl_ersetzt_stefan_raab_im_februar_durch_familie_ritter/",
+      "summary": "RTL verlegt die \"Stefan Raab Show\" ab Februar von mittwochs 20:15 Uhr in die Late-Night auf donnerstags 23:15 Uhr und ersetzt den Primetime-Sendeplatz mit \"Stern TV Reportage\"-Folgen über die Familie Ritter, die zuletzt über 10% Marktanteil erzielten. Zusätzlich plant RTL eine zweite wöchentliche Raab-Ausgabe dienstags exklusiv bei RTL+, nachdem die bisherigen Late-Night-Tests deutlich bessere Quoten (bis 19,1%) als die schwächelnde Primetime-Show lieferten.",
+      "score": 10
+    },
+    {
+      "source": "kress",
+      "title": "Readly Deutschland macht Katharina Kruse zur Content-Chefin Katharina Kruse übernimmt die Rolle der Head of Content DACH bei Readly Deutschland.",
+      "link": "https://kress.de/news/beitrag/152106-fuer-mehr-verlagsnaehe-readly-deutschland-macht-katharina-kruse-zur-content-chefin.html",
+      "summary": "Readly Deutschland ernennt Katharina Kruse zur neuen Head of Content DACH, die bereits seit 2024 als Content Managerin im Unternehmen tätig war und über 20 Jahre Verlagserfahrung mitbringt. Die Personalentscheidung erfolgt während des geplanten Verkaufs des nicht-nordischen Readly-Geschäfts von Bonnier News an das französische Unternehmen Cafeyn. Readly betont, trotz der Konzernveränderungen Kontinuität für deutsche Verlagspartner und minimale Auswirkungen für Nutzer zu gewährleisten.",
+      "score": 7
+    },
+    {
+      "source": "Hollywood Reporter",
+      "title": "Noah Kahan Documentary Film Set at Netflix Ahead of Album Launch (Exclusive)",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/noah-kahan-documentary-film-netflix-great-divide-1236490490/",
+      "summary": "Netflix wird eine Dokumentation über den Grammy-nominierten Singer-Songwriter Noah Kahan veröffentlichen, die sein Leben nach dem vierfachen Platin-Erfolg seines 2022er Albums \"Stick Season\" dokumentiert. Der von Nick Sweeney inszenierte Film begleitet Kahan bei ausverkauften Tourneen und der Arbeit an neuer Musik, während er zu seinen Vermont-Wurzeln zurückkehrt und persönliche Herausforderungen bewältigt. Die Dokumentation erscheint zeitnah zu seinem neuen Album \"The Great Divide\", das am 24. April veröffentlicht wird.",
+      "score": 8
+    }
+  ]
+}

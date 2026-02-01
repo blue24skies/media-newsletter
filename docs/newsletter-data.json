@@ -1,118 +1,34 @@
 {
   "newsletters": [
     {
-      "date": "2026-01-31",
+      "date": "2026-02-01",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Müntefering und Rohnke drängen auf Kompromiss",
-          "link": "https://www.dwdl.de/nachrichten/105369/muentefering_und_rohnke_draengen_auf_kompromiss/",
-          "summary": "Produktionsallianz und VTFF schlagen als Kompromiss in der festgefahrenen Debatte um Streamer-Investitionsverpflichtungen eine gesetzliche Regelung mit Rechterückbehalt und flexiblen Öffnungsklauseln vor, die marktgerechte Branchenvereinbarungen ermöglicht. Die Verbände unter Michelle Müntefering und Achim Rohnke drängen auf eine politische Entscheidung vor der Berlinale, um die Handlungsfähigkeit der Bundesregierung beim Produktionsstandort Deutschland zu demonstrieren.",
+          "title": "Angezogene Handbremse: 2026 startet mit mehr Wiederholungen",
+          "link": "https://www.dwdl.de/nachrichten/105364/angezogene_handbremse_2026_startet_mit_mehr_wiederholungen/",
+          "summary": "Der Frische-Index für Januar 2026 zeigt bei sechs von acht großen TV-Sendern einen höheren Wiederholungsanteil im Abendprogramm als im Vorjahr. Während ZDF (89%), RTL (85%) und Das Erste (82%) weiterhin die Spitzengruppe bilden, sind die Privatsender deutlich zurückhaltender geworden - besonders ProSieben sank von 46% auf 28% und Sat.1 von 52% auf 39% Frische-Anteil. Die Kluft zwischen öffentlich-rechtlichen Sendern plus RTL und den übrigen Privatsendern hat sich damit erheblich vergrößert.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Synchro-Showdown: Netflix bald ohne deutsche Tonspur?",
-          "link": "https://www.dwdl.de/nachrichten/105365/synchroshowdown_netflix_bald_ohne_deutsche_tonspur/",
-          "summary": "Netflix steht im Konflikt mit deutschen Synchronsprechern wegen neuer Vertragsklauseln, die eine unvergütete Nutzung ihrer Stimmenaufnahmen zum Training von KI-Systemen vorsehen. Während Netflix die strittigen Bestimmungen nicht zurücknehmen will, boykottieren Sprecher teilweise den Streamingdienst und fordern über den Verband Deutscher Sprecher:innen das Recht auf Ablehnung der KI-Nutzung ohne berufliche Nachteile. Der Konflikt könnte zu fehlenden deutschen Tonspuren bei Netflix-Produktionen führen.",
+          "title": "RTL ersetzt Stefan Raab im Februar durch Familie Ritter",
+          "link": "https://www.dwdl.de/nachrichten/105373/rtl_ersetzt_stefan_raab_im_februar_durch_familie_ritter/",
+          "summary": "RTL verlegt die \"Stefan Raab Show\" ab Februar von mittwochs 20:15 Uhr in die Late-Night auf donnerstags 23:15 Uhr und ersetzt den Primetime-Sendeplatz mit \"Stern TV Reportage\"-Folgen über die Familie Ritter, die zuletzt über 10% Marktanteil erzielten. Zusätzlich plant RTL eine zweite wöchentliche Raab-Ausgabe dienstags exklusiv bei RTL+, nachdem die bisherigen Late-Night-Tests deutlich bessere Quoten (bis 19,1%) als die schwächelnde Primetime-Show lieferten.",
           "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Turnaround geschafft\": Rekord-Umsatz für Euronews",
-          "link": "https://www.dwdl.de/nachrichten/105366/turnaround_geschafft_rekordumsatz_fuer_euronews/",
-          "summary": "Euronews verzeichnet 2025 mit 77 Millionen Euro Umsatz, Rekord-EBITDA und bestem Nettoergebnis seit Gründung einen erfolgreichen Turnaround nach Jahren mit Verlusten von 200 Millionen Euro. Der europäische Nachrichtensender erreichte 59,7 Millionen Videoaufrufe auf eigenen Plattformen und 1,77 Milliarden über Partner-Plattformen, während gleichzeitig neue Büros in Baku, Istanbul und Warschau eröffnet wurden. CEO Claus Strunz sieht das Unternehmen nun auf dem Weg zu nachhaltiger Profitabilität und als führenden europäischen internationalen Nachrichtenanbieter positioniert.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Lanz + Precht\" erscheint ab sofort auch als Video-Podcast",
-          "link": "https://www.dwdl.de/nachrichten/105359/lanz__precht_erscheint_ab_sofort_auch_als_videopodcast/",
-          "summary": "Das ZDF erweitert seinen erfolgreichen Podcast \"Lanz + Precht\" um eine Video-Version, die ab sofort parallel zur Audio-Ausgabe auf dem YouTube-Kanal \"ZDFheute\" verfügbar ist. Der seit September 2021 bestehende Podcast mit Markus Lanz und Richard David Precht wurde kürzlich bis Ende 2027 verlängert und zählt zu den erfolgreichsten deutschsprachigen Podcasts. Die erste Video-Episode behandelt unter dem Titel \"Das Ende der Illusionen\" die Entwicklungen der globalen Ordnung.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "&quot;Die Stefan Raab Show&quot;: RTL und das Raab-Dilemma",
-          "link": "https://www.horizont.net/medien/kommentare/die-stefan-raab-show-rtl-und-das-raab-dilemma-232972?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "RTL verschiebt \"Die Stefan Raab Show\" vom Hauptprogramm auf den späten Sendeplatz und ins Netz, während der Sender dies als strategischen \"Ausbau der Zusammenarbeit\" und neue \"Late Night Strategie\" kommuniziert. Die Maßnahmen werden als verzweifelte Versuche interpretiert, die teure Raab-Verpflichtung nachträglich zu rechtfertigen, nachdem die Show offenbar nicht die erwarteten Erfolge erzielt hat.",
-          "score": 10
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Netflix: Zarrellas kriegen Reality-Serie wie die Kaulitz-Brüder",
-          "link": "https://www.horizont.net/medien/nachrichten/netflix-zarrellas-kriegen-reality-serie-wie-die-kaulitz-brueder-232950?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Netflix produziert eine Reality-Serie mit dem Moderator Giovanni Zarrella und seiner Frau Jana Ina, die als \"eines der beliebtesten Promi-Paare Deutschlands\" vermarktet werden. Das Format folgt dem erfolgreichen Konzept der Serie \"Kaulitz & Kaulitz\" und soll Einblicke in das Privatleben des Paares gewähren.",
-          "score": 7
         },
         {
           "source": "kress",
-          "title": "Blaupause für Redaktionen: Die FAZ testet KI-Bot im Lokalen Mit einem KI-Chatbot für das Rhein-Main-Gebiet testet die FAZ (Foto: Marina Sorg), wie sich lokale Inhalte neu vermitteln lassen. Der Assistent beantwortet Fragen, bündelt Wissen",
-          "link": "https://kress.de/news/beitrag/152107-blaupause-fuer-redaktionen-die-faz-testet-ki-bot-im-lokalen.html",
-          "summary": "Die FAZ testet einen KI-Chatbot für ihr Rhein-Main-Ressort, der Nutzerfragen basierend auf publizierten Artikeln beantwortet und dabei auf Quellen von ein bis zwei Jahren Aktualität zugreift. Das Pilotprojekt reagiert auf verändertes Nutzerverhalten - weniger Bereitschaft für lange Texte bei gleichzeitig höherem Orientierungsbedarf - und soll Erfahrungen für eine mögliche Ausweitung auf andere Ressorts sammeln. Die KI-generierten Antworten werden bewusst nicht redaktionell nachgeprüft, Fehler sind möglich und werden transparent kommuniziert.",
+          "title": "Readly Deutschland macht Katharina Kruse zur Content-Chefin Katharina Kruse übernimmt die Rolle der Head of Content DACH bei Readly Deutschland.",
+          "link": "https://kress.de/news/beitrag/152106-fuer-mehr-verlagsnaehe-readly-deutschland-macht-katharina-kruse-zur-content-chefin.html",
+          "summary": "Readly Deutschland ernennt Katharina Kruse zur neuen Head of Content DACH, die bereits seit 2024 als Content Managerin im Unternehmen tätig war und über 20 Jahre Verlagserfahrung mitbringt. Die Personalentscheidung erfolgt während des geplanten Verkaufs des nicht-nordischen Readly-Geschäfts von Bonnier News an das französische Unternehmen Cafeyn. Readly betont, trotz der Konzernveränderungen Kontinuität für deutsche Verlagspartner und minimale Auswirkungen für Nutzer zu gewährleisten.",
           "score": 7
         },
         {
-          "source": "kress",
-          "title": "Wo einst Mutter Beimer wohnte: WDR gibt Riesen-Gelände in Köln auf Der WDR plant, einen seiner größten Produktionsstandorte zu verkaufen.",
-          "link": "https://kress.de/news/beitrag/152104-wo-einst-mutter-beimer-wohnte-wdr-gibt-riesen-gelaende-in-koeln-auf.html",
-          "summary": "Der WDR plant den Verkauf seines größten Produktionsstandorts in Köln-Bocklemünd, dem ehemaligen Drehort der \"Lindenstraße\", da die Flächen aufgrund digitaler Produktionsprozesse nicht mehr ausgelastet sind. Die dort ansässigen Abteilungen wie Veranstaltungstechnik, Multimedia, Archive und Studioproduktionen sollen ab 2028 an alternative Standorte verlagert werden. Der Sender will seine Kräfte strategisch in der Kölner Innenstadt bündeln, da der Erhalt des großen Betriebsgeländes als unwirtschaftlich eingestuft wurde.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Werbeumfeld für die IT- und Tech-Branche iq digital vermarktet Podcasts und Newsletter von heise...",
-          "link": "https://meedia.de/news/beitrag/21034-iq-digital-vermarktet-podcasts-und-newsletter-von-heise-medien.html",
-          "summary": "Der Vermarkter iq digital übernimmt seit Januar die Zweitvermarktung von 18 Podcasts (2,5 Millionen Abrufe/Monat) und 24 Newslettern (350.000 Empfänger) von heise medien. Die Partnerschaft ermöglicht Werbetreibenden den Zugang zur technikaffinen Zielgruppe von heise-Marken wie \"heise online\", \"c't\" und \"iX\" in redaktionell starken Audio- und Newsletter-Formaten. Die vollständige Newsletter-Vermarktung wird sukzessive bis zum ersten Quartal 2026 ausgerollt.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Umstrittene Vertragsklausel Wegen KI-Stimmen: Deutsche Synchronsprecher boykottieren Netflix Seit Anfang 2026 weigern sich zahlreiche deutsche Synchronsprecherinnen und Synchronsprecher, für den Streamingriesen Netflix zu arbeiten",
-          "link": "https://meedia.de/news/beitrag/21033-wegen-ki-stimmen-deutsche-synchronsprecher-boykottieren-netflix.html",
-          "summary": "Deutsche Synchronsprecher boykottieren seit Anfang 2026 Netflix aufgrund einer umstrittenen Vertragsklausel, die dem Streaming-Anbieter erlaubt, Stimmaufnahmen ohne zusätzliche Vergütung für KI-Training und Audio-Deepfakes zu nutzen. Der von Synchronsprecherin Vivien Faber öffentlich gemachte Konflikt könnte dazu führen, dass Netflix-Eigenproduktionen ohne deutsche Synchronisation erscheinen. Die Sprecher kritisieren, dass ihre Stimmen als kreative Leistungen nicht als kostenlose Datenquelle für KI-Modelle missbraucht werden sollten.",
-          "score": 10
-        },
-        {
-          "source": "meedia",
-          "title": "Dosier 1/2026 - Künstliche Intelligenz SharkNinja: Wie KI die Customer Journey im Commerce verändert Ein Blick auf die Auswertung zur Cyber Week 2025 offenbart, wohin die Reise für den Handel geht: Rund 20 Prozent aller Käufe",
-          "link": "https://meedia.de/news/beitrag/21030-sharkninja-wie-ki-die-customer-journey-im-commerce-veraendert.html",
-          "summary": "Laut Cyber Week 2025-Auswertungen wurden bereits 20% aller Käufe (67 Milliarden US-Dollar Umsatz) durch KI-Agenten beeinflusst, wodurch \"Agentic Commerce\" zur messbaren Realität wird. KI-Agenten übernehmen zunehmend zentrale Funktionen der Customer Journey wie Angebotsvergleiche, Bestellplatzierung und Versandauswahl, was die Kundenloyalität von emotionalen Markenbeziehungen hin zu \"agentenfreundlichen\" Schnittstellen verschiebt. Das Beispiel SharkNinja demonstriert, wie Unternehmen diese Transformation erfolgreich nutzen können.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "com (Europa), Lieferando (Deutschland) und SkipTheDishes (Kanada), hat eine weltweite Überprüfung ihres Media-Agenturmodells gestartet.",
-          "link": "https://meedia.de/news/beitrag/21022-lieferando-mutter-just-eat-startet-globalen-media-pitch.html",
-          "summary": "Just Eat Takeaway.com startet eine weltweite Überprüfung ihres Media-Agenturmodells und sucht nach einer \"Auffrischung\" vor dem Hintergrund der Transformation des eigenen Geschäfts und der Mediabranche. Aktueller Etathalter ist UM (Omnicom Media), das Unternehmen brieft nun ein \"global integriertes Modell\" für die Mediasteuerung. Der Pitch umfasst alle großen Marken des Konzerns wie Lieferando, Takeaway.com und SkipTheDishes.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "ai, losgeschickt, um das zu prüfen.",
-          "link": "https://meedia.de/news/beitrag/21021-tesla-gewinnt-das-ki-rennen-vw-landet-im-mittelfeld.html",
-          "summary": "Performance-Marketer Cevahir Ejder analysierte mit seinem KI-Tool publuence.ai die Sichtbarkeit von Automobilmarken in Antworten von ChatGPT, Gemini und Perplexity – dabei führt Tesla das Ranking an, während VW im Mittelfeld landet. Die Studie zeigt erheblichen Optimierungsbedarf bei vielen Herstellern und unterstreicht die Bedeutung von KI-Monitoring und Generative Engine Optimization (GEO) als neuen Erfolgsfaktor. Da KI-Systeme Kaufentscheidungen bereits vor dem Greifen klassischer Kampagnen beeinflussen, wird die Sichtbarkeit im KI-Dialog zum entscheidenden Machtfaktor für Markenpräsenz.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Winken jetzt Millionen-Aufträge für Agenturen? RTL löst Marketingabteilung auf Der Medienkonzern RTL streicht hunderte Stellen in Deutschland",
-          "link": "https://meedia.de/news/beitrag/21028-rtl-loest-marketingabteilung-auf.html",
-          "summary": "RTL Deutschland baut im Rahmen einer umfassenden Restrukturierung 600 Vollzeitstellen ab, wobei die Marketingabteilung besonders hart getroffen wird und fast vollständig wegfällt. Der Stellenabbau erfolgt aufgrund einbrechender Werbeumsätze im linearen Fernsehen, während die bisherigen Marketing-Aufgaben voraussichtlich an externe Agenturen ausgelagert werden. Dies könnte für Werbe- und Marketingagenturen lukrative Millionen-Aufträge bedeuten.",
-          "score": 10
-        },
-        {
-          "source": "Variety",
-          "title": "Bob Iger to Step Down as Disney CEO Before End of 2026: Report",
-          "link": "https://variety.com/2026/biz/news/bob-iger-step-down-disney-ceo-before-end-of-2026-1236646611/",
-          "summary": "Bob Iger plant laut Wall Street Journal-Bericht, vor Ablauf seines Vertrags am 31. Dezember 2026 als Disney-CEO zurückzutreten und sich aus der täglichen Geschäftsführung zurückzuziehen. Disneys Verwaltungsrat will bereits in der kommenden Woche über Igers Nachfolger abstimmen und die Ernennung des neuen CEOs Anfang 2026 bekanntgeben. Als Grund für den vorzeitigen Rückzug werden Igers Frustration über interne Konflikte, unter anderem bei ABC wegen der Jimmy Kimmel-Suspendierung, sowie seine Bereitschaft genannt, die Belastungen des CEO-Postens hinter sich zu lassen.",
-          "score": 9
-        },
-        {
-          "source": "Variety",
-          "title": "Mediawan’s Pierre-Antoine Capton and North Road’s Peter Chernin Break Down Their Merger Deal: ‘This Isn’t Us Cashing Out — It’s Us Investing’",
-          "link": "https://variety.com/2026/film/global/mediawan-pierre-antoine-capton-north-roads-peter-chernin-1236645941/",
-          "summary": "Mediawan hat Peter Chernins North Road Company übernommen, um eine global agierende Content-Gruppe zu schaffen, die der weltweiten Expansion der Streaming-Plattformen wie Netflix, Amazon und Disney entspricht. Die Übernahme lässt North Roads Labels und Management-Teams unverändert bestehen, um deren Autonomie zu bewahren. Beide Unternehmen sehen die Fusion als strategische Investition in globale Skalierung, nicht als Ausstiegsstrategie.",
+          "source": "Hollywood Reporter",
+          "title": "Noah Kahan Documentary Film Set at Netflix Ahead of Album Launch (Exclusive)",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/noah-kahan-documentary-film-netflix-great-divide-1236490490/",
+          "summary": "Netflix wird eine Dokumentation über den Grammy-nominierten Singer-Songwriter Noah Kahan veröffentlichen, die sein Leben nach dem vierfachen Platin-Erfolg seines 2022er Albums \"Stick Season\" dokumentiert. Der von Nick Sweeney inszenierte Film begleitet Kahan bei ausverkauften Tourneen und der Arbeit an neuer Musik, während er zu seinen Vermont-Wurzeln zurückkehrt und persönliche Herausforderungen bewältigt. Die Dokumentation erscheint zeitnah zu seinem neuen Album \"The Great Divide\", das am 24. April veröffentlicht wird.",
           "score": 8
         }
       ]
