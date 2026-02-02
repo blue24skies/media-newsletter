@@ -1,34 +1,27 @@
 {
   "newsletters": [
     {
-      "date": "2026-02-01",
+      "date": "2026-02-02",
       "articles": [
         {
-          "source": "DWDL",
-          "title": "Angezogene Handbremse: 2026 startet mit mehr Wiederholungen",
-          "link": "https://www.dwdl.de/nachrichten/105364/angezogene_handbremse_2026_startet_mit_mehr_wiederholungen/",
-          "summary": "Der Frische-Index für Januar 2026 zeigt bei sechs von acht großen TV-Sendern einen höheren Wiederholungsanteil im Abendprogramm als im Vorjahr. Während ZDF (89%), RTL (85%) und Das Erste (82%) weiterhin die Spitzengruppe bilden, sind die Privatsender deutlich zurückhaltender geworden - besonders ProSieben sank von 46% auf 28% und Sat.1 von 52% auf 39% Frische-Anteil. Die Kluft zwischen öffentlich-rechtlichen Sendern plus RTL und den übrigen Privatsendern hat sich damit erheblich vergrößert.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "RTL ersetzt Stefan Raab im Februar durch Familie Ritter",
-          "link": "https://www.dwdl.de/nachrichten/105373/rtl_ersetzt_stefan_raab_im_februar_durch_familie_ritter/",
-          "summary": "RTL verlegt die \"Stefan Raab Show\" ab Februar von mittwochs 20:15 Uhr in die Late-Night auf donnerstags 23:15 Uhr und ersetzt den Primetime-Sendeplatz mit \"Stern TV Reportage\"-Folgen über die Familie Ritter, die zuletzt über 10% Marktanteil erzielten. Zusätzlich plant RTL eine zweite wöchentliche Raab-Ausgabe dienstags exklusiv bei RTL+, nachdem die bisherigen Late-Night-Tests deutlich bessere Quoten (bis 19,1%) als die schwächelnde Primetime-Show lieferten.",
-          "score": 10
-        },
-        {
           "source": "kress",
-          "title": "Readly Deutschland macht Katharina Kruse zur Content-Chefin Katharina Kruse übernimmt die Rolle der Head of Content DACH bei Readly Deutschland.",
-          "link": "https://kress.de/news/beitrag/152106-fuer-mehr-verlagsnaehe-readly-deutschland-macht-katharina-kruse-zur-content-chefin.html",
-          "summary": "Readly Deutschland ernennt Katharina Kruse zur neuen Head of Content DACH, die bereits seit 2024 als Content Managerin im Unternehmen tätig war und über 20 Jahre Verlagserfahrung mitbringt. Die Personalentscheidung erfolgt während des geplanten Verkaufs des nicht-nordischen Readly-Geschäfts von Bonnier News an das französische Unternehmen Cafeyn. Readly betont, trotz der Konzernveränderungen Kontinuität für deutsche Verlagspartner und minimale Auswirkungen für Nutzer zu gewährleisten.",
+          "title": "Jochen Übler übernimmt Chefredaktion Seit rund einem Jahr verlegt B&M Publishing im fränkischen...",
+          "link": "https://kress.de/news/beitrag/152095-auto-bild-sportscars-jochen-uebler-uebernimmt-chefredaktion.html",
+          "summary": "Jochen Übler (57) übernimmt zum 1. Februar 2026 die Chefredaktion von Auto Bild Sportscars bei B&M Publishing, nachdem er zwölf Jahre lang für die Produkt- und Motorsport-Kommunikation bei Mercedes-AMG verantwortlich war. Zuvor sammelte der gebürtige Franke Erfahrungen bei der Motor Presse Stuttgart in der Testabteilung und als Autor bei auto motor und sport sowie sport auto. Neben der Redaktionsleitung soll Übler seine Expertise auch in den Bereichen Kooperationen und Veranstaltungen einbringen.",
           "score": 7
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "Noah Kahan Documentary Film Set at Netflix Ahead of Album Launch (Exclusive)",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/noah-kahan-documentary-film-netflix-great-divide-1236490490/",
-          "summary": "Netflix wird eine Dokumentation über den Grammy-nominierten Singer-Songwriter Noah Kahan veröffentlichen, die sein Leben nach dem vierfachen Platin-Erfolg seines 2022er Albums \"Stick Season\" dokumentiert. Der von Nick Sweeney inszenierte Film begleitet Kahan bei ausverkauften Tourneen und der Arbeit an neuer Musik, während er zu seinen Vermont-Wurzeln zurückkehrt und persönliche Herausforderungen bewältigt. Die Dokumentation erscheint zeitnah zu seinem neuen Album \"The Great Divide\", das am 24. April veröffentlicht wird.",
+          "source": "meedia",
+          "title": "Head of Business Development Joanna Allmeling steigt bei Funke Digital auf Bei der Digital-Tochter...",
+          "link": "https://meedia.de/news/beitrag/21035-joanna-allmeling-steigt-bei-funke-digital-auf.html",
+          "summary": "Joanna Allmeling (26) wird neue Head of Business Development bei Funke Digital und wechselt aus ihrer bisherigen Position als Referentin des Chief Digital Officers Stephan Thurm in diese Führungsrolle. In ihrer neuen Position verantwortet sie die Weiterentwicklung von Produkten, die Erschließung neuer Geschäftsfelder und Erlösquellen sowie strategische Initiativen wie M&A-Vorhaben. Die Beförderung erfolgt nach erfolgreichen Akquisitionen wie wetter.com und Kitchen Stories, an denen Allmeling bereits maßgeblich beteiligt war.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Older women ‘disappear’ from BBC presenting roles, review finds",
+          "link": "https://www.theguardian.com/media/2026/jan/30/older-women-disappear-from-bbc-presenting-roles-internal-review-finds",
+          "summary": "Eine unabhängige BBC-Überprüfung deckte eine deutliche Geschlechter-Diskrepanz bei Moderatoren über 60 auf: Männer überwiegen in dieser Altersgruppe mit 394 zu 237 Frauen, wobei das Verhältnis bei über 70-Jährigen sogar 57 zu 11 beträgt. Die Analyse von fast 1.500 Moderatoren zeigt, dass ältere Männer als \"weise und autoritär\" wahrgenommen werden, während von älteren Frauen erwartet wird, jünger auszusehen oder \"exzentrische Persönlichkeiten\" zu entwickeln.",
           "score": 8
         }
       ]
