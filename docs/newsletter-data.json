@@ -1,28 +1,112 @@
 {
   "newsletters": [
     {
-      "date": "2026-02-02",
+      "date": "2026-02-03",
       "articles": [
         {
+          "source": "DWDL",
+          "title": "ProSiebenSat.1 verfehlt selbstgesteckte Prognose beim Ergebnis",
+          "link": "https://www.dwdl.de/nachrichten/105396/prosiebensat1_verfehlt_selbstgesteckte_prognose_beim_ergebnis/",
+          "summary": "ProSiebenSat.1 verfehlte 2025 trotz Umsatz innerhalb der prognostizierten Bandbreite (3,68 Mrd. Euro, -6% YoY) das bereinigte EBITDA-Ziel deutlich mit 405 Mio. Euro statt erwarteten 420-450 Mio. Euro. Der Konzern führt die Ergebnisverfehlung auf das herausfordernde Marktumfeld und rückläufige TV-Werbeinvestitionen zurück, während unter neuer MFE-Führung 2026 strategische Veränderungen erwartet werden.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Florian Hager: \"Das müsste Frau Klöckner eigentlich wissen\"",
+          "link": "https://www.dwdl.de/nachrichten/105394/florian_hager_das_muesste_frau_kloeckner_eigentlich_wissen/",
+          "summary": "ARD-Vorsitzender Florian Hager widersprach in der FAZ Bundestagspräsidentin Julia Klöckners Kritik an der mangelnden Neutralität und Ausgewogenheit der öffentlich-rechtlichen Medien. Hager argumentierte, dass im digitalen Zeitalter die Unterscheidung zwischen veröffentlichter und öffentlicher Meinung nicht mehr zutreffe und verwies darauf, dass der Rundfunkauftrag Objektivität und Überparteilichkeit, nicht aber Neutralität fordere. Gleichzeitig räumte er selbstkritisch ein, dass die ARD nicht immer perfekt sei und Fehler mache, betonte aber, dass konkrete statt \"raunende\" Kritik hilfreicher wäre.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "WDR Fernsehen wird nun aus Baden-Baden ausgespielt",
+          "link": "https://www.dwdl.de/nachrichten/105388/wdr_fernsehen_wird_nun_aus_badenbaden_ausgespielt/",
+          "summary": "Der WDR hat seine Fernsehausspielung an die \"ARD-Sendeabwicklung Süd\" in Baden-Baden übertragen und schließt sich damit SWR, BR, HR und SR an. Die ARD konzentriert ihre Dritten Programme nun auf nur zwei zentrale Standorte statt der ursprünglich geplanten vier im Rahmen der Strukturreform. Die Maßnahme soll zwischen 2025 und 2028 Einsparungen von 32 Millionen Euro generieren.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Geplante Kapitalerhöhung bei Highlight ist geplatzt",
+          "link": "https://www.dwdl.de/nachrichten/105387/geplante_kapitalerhoehung_bei_highlight_ist_geplatzt/",
+          "summary": "Die geplante Kapitalerhöhung von 300 Millionen Schweizer Franken bei der Highlight Event and Entertainment AG (Mutterkonzern von Sport1 und Constantin Film) durch den Investor CSL Mindset Ltd. ist gescheitert. Der im August 2025 angekündigte Deal sollte Bernhard Burgeners Highlight-Konzern schuldenfreier machen und CSL zur Mehrheitsgesellschafterin erheben, warf jedoch von Anfang an Fragen bezüglich der Seriosität des auf den British Virgin Islands ansässigen Investors auf. Trotz zunächst positiver Geschäftszahlen für 2025 bedeutet das Platzen der Finanzspritze einen erheblichen Rückschlag für die Sanierungspläne des Medienkonzerns.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Der Tiger\" im Streaming-Ranking vorn, Sigl noch vor dem Dschungel",
+          "link": "https://www.dwdl.de/zahlenzentrale/105384/der_tiger_im_streamingranking_vorn_sigl_noch_vor_dem_dschungel/",
+          "summary": "Prime Video dominierte im Januar 2026 erneut die AGF-Streaming-Rankings mit dem eigenproduziertem Film \"Der Tiger\" an der Spitze, der rund drei Millionen Views erzielte und damit zum erfolgreichsten deutschen Amazon-Film aller Zeiten wurde. Der Streamingdienst platzierte insgesamt zehn Produktionen in den Top-Charts und setzte damit seine Erfolgssträhne nach \"Maxton Hall\" (November) und \"Fallout\" (Dezember) fort. Neben Eigenproduktionen punktete Prime Video auch mit klassischen Kinofilmen wie \"Greenland\" und \"The Wrecking Crew\" in den Top 25.",
+          "score": 9
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Esome-Market-Insights: Hohe Nachfrage, stabile Preise: So reif ist der CTV-Werbemarkt",
+          "link": "https://www.horizont.net/medien/nachrichten/esome-market-insights-hohe-nachfrage-stabile-preise-so-reif-ist-der-ctv-werbemarkt-232991?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Esome-Market-Insights zeigen, dass sich der CTV-Werbemarkt trotz der traditionell angespannten Q4-Situation mit steigenden Budgets und begrenztem Inventar überraschend stabil entwickelt. Anders als erwartet führen die erhöhten Werbeausgaben im vierten Quartal nicht zu den üblichen drastischen Preissteigerungen im Connected TV-Segment. Dies deutet auf eine zunehmende Marktreife und bessere Verfügbarkeit von CTV-Werbeinventar hin.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "AGF Census+-Daten: Das waren die meistgestreamten Formate im Januar",
+          "link": "https://www.horizont.net/medien/nachrichten/agf-census-daten-das-waren-die-meistgestreamten-formate-im-januar-232993?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Amazon Prime Video dominierte im Januar die AGF Census+-Streaming-Charts mit zehn der 25 Top-Plätze. RTL und ZDF folgen gleichauf auf den weiteren Rängen, wobei beide Anbieter unterschiedliche Genre-Schwerpunkte aufweisen.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "50 Prozent Marktanteil: ZDF holt mit Finale der Handball-EM Super-Quote",
+          "link": "https://www.horizont.net/medien/nachrichten/50-prozent-marktanteil-zdf-holt-mit-finale-der-handball-em-super-quote-232988?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Das ZDF erzielte mit der Übertragung des Handball-EM-Finales Deutschland gegen Dänemark eine außergewöhnliche Einschaltquote von 12,82 Millionen Zuschauern und einen Marktanteil von 50,8 Prozent. Damit schaute jeder zweite TV-Zuschauer am Sonntagabend das Handball-Endspiel, obwohl Deutschland das Spiel verlor.",
+          "score": 9
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Dank Dschungelcamp und Handball: Starker Jahresauftakt für ARD, ZDF und RTL",
+          "link": "https://www.horizont.net/medien/nachrichten/dank-dschungelcamp-und-handball-starker-jahresauftakt-fuer-ard-zdf-und-rtl-232983?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Das Dschungelcamp und die Handball-EM führten im Januar zu starken Marktanteilen für ARD, ZDF und RTL, während Sat.1 und ProSieben deutliche Verluste verzeichneten. Die beiden Formate sorgten für die begehrten Lagerfeuermomente im deutschen Fernsehen und dominierten die Einschaltquoten zum Jahresauftakt.",
+          "score": 7
+        },
+        {
           "source": "kress",
-          "title": "Jochen Übler übernimmt Chefredaktion Seit rund einem Jahr verlegt B&M Publishing im fränkischen...",
-          "link": "https://kress.de/news/beitrag/152095-auto-bild-sportscars-jochen-uebler-uebernimmt-chefredaktion.html",
-          "summary": "Jochen Übler (57) übernimmt zum 1. Februar 2026 die Chefredaktion von Auto Bild Sportscars bei B&M Publishing, nachdem er zwölf Jahre lang für die Produkt- und Motorsport-Kommunikation bei Mercedes-AMG verantwortlich war. Zuvor sammelte der gebürtige Franke Erfahrungen bei der Motor Presse Stuttgart in der Testabteilung und als Autor bei auto motor und sport sowie sport auto. Neben der Redaktionsleitung soll Übler seine Expertise auch in den Bereichen Kooperationen und Veranstaltungen einbringen.",
+          "title": "Neue Osnabrücker Zeitung bietet Praktikum in der Lokalredaktion Die Neue Osnabrücker Zeitung sucht...",
+          "link": "https://kress.de/news/beitrag/152112-neue-osnabruecker-zeitung-bietet-praktikum-in-der-lokalredaktion.html",
+          "summary": "Die Neue Osnabrücker Zeitung bietet ein mindestens zwölf Wochen dauerndes Vollzeit-Praktikum in der Lokalredaktion an mehreren Standorten in Osnabrück und dem Landkreis. Praktikanten werden vollständig in den Redaktionsalltag eingebunden, recherchieren und schreiben eigene Texte für Print und Digital und nehmen an Redaktionskonferenzen teil. Das Praktikum richtet sich an Studierende mit journalistischem Interesse und digitalem Verständnis und wird explizit als möglicher Karriereeinstieg in den Lokaljournalismus positioniert.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Head of Business Development Joanna Allmeling steigt bei Funke Digital auf Bei der Digital-Tochter...",
-          "link": "https://meedia.de/news/beitrag/21035-joanna-allmeling-steigt-bei-funke-digital-auf.html",
-          "summary": "Joanna Allmeling (26) wird neue Head of Business Development bei Funke Digital und wechselt aus ihrer bisherigen Position als Referentin des Chief Digital Officers Stephan Thurm in diese Führungsrolle. In ihrer neuen Position verantwortet sie die Weiterentwicklung von Produkten, die Erschließung neuer Geschäftsfelder und Erlösquellen sowie strategische Initiativen wie M&A-Vorhaben. Die Beförderung erfolgt nach erfolgreichen Akquisitionen wie wetter.com und Kitchen Stories, an denen Allmeling bereits maßgeblich beteiligt war.",
+          "title": "Künstliche Intelligenz Ihre KI-Agenda für das Jahr Für die meisten Unternehmen aus Media und...",
+          "link": "https://meedia.de/news/beitrag/21046-ihre-ki-agenda-fuer-das-jahr.html",
+          "summary": "MEEDIA identifiziert vier zentrale KI-Herausforderungen für Media- und Marketing-Unternehmen in 2026: praktische Implementierung von KI-Agenten, Kundenakzeptanz KI-generierter Werbemittel, organisatorische Neuausrichtung auf generative KI und Kontrolle KI-basierter Mediapläne. Als ersten Schritt empfiehlt das Fachmagazin ein KI-Monitoring zur Messung der veränderten Customer Journey, da KI-Antworten teilweise geschäftsschädigend wirken können, wenn sie beispielsweise von Produkten abraten. Rechtlich sind KI-Anbieter bei solchen Fällen nicht als reine \"Plattformen\" zu behandeln, weshalb schnelles rechtliches Vorgehen empfohlen wird.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "1 und ProSieben mies Die Gewinner des ersten Monats des TV-Jahres 2026 heißen ZDF, Das Erste und RTL.",
+          "link": "https://meedia.de/news/beitrag/21044-zdf-das-erste-und-rtl-starten-stark-ins-neue-jahr-sat-1-und-prosieben-mies.html",
+          "summary": "ZDF, Das Erste und RTL dominieren die TV-Landschaft im Januar 2026 mit deutlichen Marktanteilsgewinnen gegenüber Dezember und dem 12-Monats-Durchschnitt und belegen die ersten drei Plätze sowohl im Gesamtpublikum als auch bei den 14- bis 49-Jährigen. Während ZDF insgesamt Marktführer bleibt und RTL seinen Vorsprung bei den jungen Zuschauern massiv ausbaut, verzeichnen die Privatsender ProSieben und Sat.1 deutliche Verluste.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "gegen „AI-Slop“ vorgehen KI-generierte Inhalte fluten soziale Netzwerke in nie dagewesenem Ausmaß.",
+          "link": "https://meedia.de/news/beitrag/21045-so-wollen-youtube-amp-co-gegen-ai-slop-vorgehen.html",
+          "summary": "Soziale Medien-Plattformen wie YouTube, Meta und TikTok kämpfen mit einer beispiellosen Flut minderwertiger KI-generierter Inhalte („AI-Slop\"), die die Auffindbarkeit hochwertiger Inhalte beeinträchtigt und das Vertrauen von Nutzern und Werbekunden gefährdet. Die Plattformen entwickeln technische, wirtschaftliche und regulatorische Gegenmaßnahmen, stehen jedoch vor der Herausforderung, zwischen qualitativ hochwertigem und minderwertigem KI-Content zu unterscheiden. Upload-Filter werden als Lösungsansatz diskutiert, könnten jedoch die Plattform-Performance erheblich belasten.",
           "score": 7
         },
         {
-          "source": "Guardian Media",
-          "title": "Older women ‘disappear’ from BBC presenting roles, review finds",
-          "link": "https://www.theguardian.com/media/2026/jan/30/older-women-disappear-from-bbc-presenting-roles-internal-review-finds",
-          "summary": "Eine unabhängige BBC-Überprüfung deckte eine deutliche Geschlechter-Diskrepanz bei Moderatoren über 60 auf: Männer überwiegen in dieser Altersgruppe mit 394 zu 237 Frauen, wobei das Verhältnis bei über 70-Jährigen sogar 57 zu 11 beträgt. Die Analyse von fast 1.500 Moderatoren zeigt, dass ältere Männer als \"weise und autoritär\" wahrgenommen werden, während von älteren Frauen erwartet wird, jünger auszusehen oder \"exzentrische Persönlichkeiten\" zu entwickeln.",
-          "score": 8
+          "source": "meedia",
+          "title": "Tools, Prompts, Workflows, Politik Die wichtigsten Nachrichten über Künstliche Intelligenz (KI) in Werbung und Medien Update: Ist die Website tot?",
+          "link": "https://meedia.de/news/beitrag/18807-die-wichtigsten-nachrichten-ueber-kuenstliche-intelligenz-ki-in-werbung-und-medien.html",
+          "summary": "MEEDIA sammelt fortlaufend die wichtigsten KI-Nachrichten für die Medien- und Werbebranche, wobei sowohl neue Geschäftsmodelle und Tools als auch Herausforderungen wie Jobverluste und juristische Fragen behandelt werden. Der Fokus liegt auf praktischen Anwendungen von KI in Bereichen wie Prompting, Workflows sowie der Zusammenarbeit zwischen Medien, Agenturen und Marken. Aktuelle Schwerpunkte sind die Diskussion um \"AI-Slop\" auf Plattformen wie YouTube und neue KI-Schnittstellen wie Model Context Protocols, die Hyperpersonalisierung im Marketing ermöglichen.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Neue Werbeformen ProSiebenSat.1 und Dyn Media vertiefen Partnerschaft Der TV-Konzern und der...",
+          "link": "https://meedia.de/news/beitrag/21040-prosiebensat-1-und-dyn-media-vertiefen-partnerschaft.html",
+          "summary": "ProSiebenSat.1 und der Sport-Streamer Dyn Media verlängern ihre Vermarktungspartnerschaft um zwei Jahre und erweitern das Werbeportfolio um Pre-Rolls und exklusive Single Spots. Seven.One Media bleibt zentraler Vermarkter für Reichweitenwerbung auf der Dyn-Plattform, während Studio71 weiterhin die YouTube-Monetarisierung übernimmt. Die 2022 gegründete Streaming-Plattform von Ex-DFL-Chef Christian Seifert gehört zu 42,5% der Schwarz Gruppe und Axel Springer und fokussiert sich auf Handball, Basketball, Volleyball, Tischtennis und Hockey.",
+          "score": 7
         }
       ]
     }
