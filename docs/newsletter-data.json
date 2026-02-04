@@ -1,111 +1,167 @@
 {
   "newsletters": [
     {
-      "date": "2026-02-03",
+      "date": "2026-02-04",
       "articles": [
         {
           "source": "DWDL",
-          "title": "ProSiebenSat.1 verfehlt selbstgesteckte Prognose beim Ergebnis",
-          "link": "https://www.dwdl.de/nachrichten/105396/prosiebensat1_verfehlt_selbstgesteckte_prognose_beim_ergebnis/",
-          "summary": "ProSiebenSat.1 verfehlte 2025 trotz Umsatz innerhalb der prognostizierten Bandbreite (3,68 Mrd. Euro, -6% YoY) das bereinigte EBITDA-Ziel deutlich mit 405 Mio. Euro statt erwarteten 420-450 Mio. Euro. Der Konzern führt die Ergebnisverfehlung auf das herausfordernde Marktumfeld und rückläufige TV-Werbeinvestitionen zurück, während unter neuer MFE-Führung 2026 strategische Veränderungen erwartet werden.",
+          "title": "VAUNET hält nichts vom jüngsten Kompromiss-Vorschlag",
+          "link": "https://www.dwdl.de/nachrichten/105408/vaunet_haelt_nichts_vom_juengsten_kompromissvorschlag/",
+          "summary": "Der Streit um die geplante Investitionsverpflichtung für Streaming-Anbieter blockiert weiterhin die zugesagte Erhöhung der Filmförder-Mittel, wobei Kulturstaatsminister Weimer (CDU) eine Selbstverpflichtung bevorzugt, während die SPD auf eine gesetzliche Regelung drängt. Produktionsallianz und VTFF haben als Kompromiss eine gesetzliche Verpflichtung mit flexiblen Öffnungsklauseln für Branchenvereinbarungen vorgeschlagen. VAUNET lehnt diesen Kompromiss-Vorschlag ab, was die Hängepartie weiter anheizt.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Florian Hager: \"Das müsste Frau Klöckner eigentlich wissen\"",
-          "link": "https://www.dwdl.de/nachrichten/105394/florian_hager_das_muesste_frau_kloeckner_eigentlich_wissen/",
-          "summary": "ARD-Vorsitzender Florian Hager widersprach in der FAZ Bundestagspräsidentin Julia Klöckners Kritik an der mangelnden Neutralität und Ausgewogenheit der öffentlich-rechtlichen Medien. Hager argumentierte, dass im digitalen Zeitalter die Unterscheidung zwischen veröffentlichter und öffentlicher Meinung nicht mehr zutreffe und verwies darauf, dass der Rundfunkauftrag Objektivität und Überparteilichkeit, nicht aber Neutralität fordere. Gleichzeitig räumte er selbstkritisch ein, dass die ARD nicht immer perfekt sei und Fehler mache, betonte aber, dass konkrete statt \"raunende\" Kritik hilfreicher wäre.",
-          "score": 7
+          "title": "Josh D'Amaro löst Bob Iger Mitte März als Disney-Chef ab",
+          "link": "https://www.dwdl.de/nachrichten/105401/josh_damaro_loest_bob_iger_mitte_maerz_als_disneychef_ab/",
+          "summary": "Josh D'Amaro wird am 18. März neuer CEO der Walt Disney Company und löst damit Bob Iger ab, der seit 2022 nach dem gescheiterten Chapek-Intermezzo wieder an der Spitze stand. Der 55-jährige D'Amaro ist seit 1998 bei Disney und leitet seit 2020 erfolgreich den Bereich Disney Experiences (Vergnügungsparks, Resorts, Kreuzfahrten). Dana Walden, die im internen Rennen unterlag, wird neue President und Chief Creative Officer des Konzerns.",
+          "score": 9
         },
         {
           "source": "DWDL",
-          "title": "WDR Fernsehen wird nun aus Baden-Baden ausgespielt",
-          "link": "https://www.dwdl.de/nachrichten/105388/wdr_fernsehen_wird_nun_aus_badenbaden_ausgespielt/",
-          "summary": "Der WDR hat seine Fernsehausspielung an die \"ARD-Sendeabwicklung Süd\" in Baden-Baden übertragen und schließt sich damit SWR, BR, HR und SR an. Die ARD konzentriert ihre Dritten Programme nun auf nur zwei zentrale Standorte statt der ursprünglich geplanten vier im Rahmen der Strukturreform. Die Maßnahme soll zwischen 2025 und 2028 Einsparungen von 32 Millionen Euro generieren.",
+          "title": "HD+ kostenlos dazu: Dyn mit neuem Bundle-Angebot",
+          "link": "https://www.dwdl.de/nachrichten/105399/hd_kostenlos_dazu_dyn_mit_neuem_bundleangebot/",
+          "summary": "Sport-Streaminganbieter Dyn kooperiert mit HD+ und bietet ein Bundle aus beiden Jahresabos für 14,50 Euro monatlich an – entspricht dem regulären Dyn-Preis, wodurch HD+ (normalerweise 6,99 Euro) im ersten Jahr kostenlos enthalten ist. Nach dem ersten Jahr entfällt der Preisvorteil und beide Services gehen in monatlich kündbare Abos über, wobei HD+ Stream mit 17,99 Euro teurer ist als die Satellit-Variante.",
           "score": 7
         },
         {
-          "source": "DWDL",
-          "title": "Geplante Kapitalerhöhung bei Highlight ist geplatzt",
-          "link": "https://www.dwdl.de/nachrichten/105387/geplante_kapitalerhoehung_bei_highlight_ist_geplatzt/",
-          "summary": "Die geplante Kapitalerhöhung von 300 Millionen Schweizer Franken bei der Highlight Event and Entertainment AG (Mutterkonzern von Sport1 und Constantin Film) durch den Investor CSL Mindset Ltd. ist gescheitert. Der im August 2025 angekündigte Deal sollte Bernhard Burgeners Highlight-Konzern schuldenfreier machen und CSL zur Mehrheitsgesellschafterin erheben, warf jedoch von Anfang an Fragen bezüglich der Seriosität des auf den British Virgin Islands ansässigen Investors auf. Trotz zunächst positiver Geschäftszahlen für 2025 bedeutet das Platzen der Finanzspritze einen erheblichen Rückschlag für die Sanierungspläne des Medienkonzerns.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Der Tiger\" im Streaming-Ranking vorn, Sigl noch vor dem Dschungel",
-          "link": "https://www.dwdl.de/zahlenzentrale/105384/der_tiger_im_streamingranking_vorn_sigl_noch_vor_dem_dschungel/",
-          "summary": "Prime Video dominierte im Januar 2026 erneut die AGF-Streaming-Rankings mit dem eigenproduziertem Film \"Der Tiger\" an der Spitze, der rund drei Millionen Views erzielte und damit zum erfolgreichsten deutschen Amazon-Film aller Zeiten wurde. Der Streamingdienst platzierte insgesamt zehn Produktionen in den Top-Charts und setzte damit seine Erfolgssträhne nach \"Maxton Hall\" (November) und \"Fallout\" (Dezember) fort. Neben Eigenproduktionen punktete Prime Video auch mit klassischen Kinofilmen wie \"Greenland\" und \"The Wrecking Crew\" in den Top 25.",
+          "source": "Horizont Medien",
+          "title": "Medienkonzern: Themenpark-Chef D&#039;Amaro übernimmt Konzernruder bei Walt Disney",
+          "link": "https://www.horizont.net/medien/nachrichten/medienkonzern-themenpark-chef-damaro-uebernimmt-konzernruder-bei-waltdisney-233031?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Josh D'Amaro wird neuer CEO von Walt Disney nach einer dreijährigen Nachfolgersuche. Der bisherige Themenpark-Chef leitete bereits den profitabelsten Geschäftsbereich des Medienkonzerns und übernimmt nun die Gesamtverantwortung für den Entertainment-Riesen.",
           "score": 9
         },
         {
           "source": "Horizont Medien",
-          "title": "Esome-Market-Insights: Hohe Nachfrage, stabile Preise: So reif ist der CTV-Werbemarkt",
-          "link": "https://www.horizont.net/medien/nachrichten/esome-market-insights-hohe-nachfrage-stabile-preise-so-reif-ist-der-ctv-werbemarkt-232991?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die Esome-Market-Insights zeigen, dass sich der CTV-Werbemarkt trotz der traditionell angespannten Q4-Situation mit steigenden Budgets und begrenztem Inventar überraschend stabil entwickelt. Anders als erwartet führen die erhöhten Werbeausgaben im vierten Quartal nicht zu den üblichen drastischen Preissteigerungen im Connected TV-Segment. Dies deutet auf eine zunehmende Marktreife und bessere Verfügbarkeit von CTV-Werbeinventar hin.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "AGF Census+-Daten: Das waren die meistgestreamten Formate im Januar",
-          "link": "https://www.horizont.net/medien/nachrichten/agf-census-daten-das-waren-die-meistgestreamten-formate-im-januar-232993?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Amazon Prime Video dominierte im Januar die AGF Census+-Streaming-Charts mit zehn der 25 Top-Plätze. RTL und ZDF folgen gleichauf auf den weiteren Rängen, wobei beide Anbieter unterschiedliche Genre-Schwerpunkte aufweisen.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "50 Prozent Marktanteil: ZDF holt mit Finale der Handball-EM Super-Quote",
-          "link": "https://www.horizont.net/medien/nachrichten/50-prozent-marktanteil-zdf-holt-mit-finale-der-handball-em-super-quote-232988?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Das ZDF erzielte mit der Übertragung des Handball-EM-Finales Deutschland gegen Dänemark eine außergewöhnliche Einschaltquote von 12,82 Millionen Zuschauern und einen Marktanteil von 50,8 Prozent. Damit schaute jeder zweite TV-Zuschauer am Sonntagabend das Handball-Endspiel, obwohl Deutschland das Spiel verlor.",
+          "title": "Schwacher Werbemarkt: Pro Sieben Sat 1 verfehlt Gewinnziel",
+          "link": "https://www.horizont.net/medien/nachrichten/schwacher-werbemarkt-pro-sieben-sat-1-verfehlt-gewinnziel-233021?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "ProSiebenSat.1 hat aufgrund des schwächelnden TV-Werbemarktes sein Gewinnziel für das vergangene Jahr verfehlt. Das bereinigte EBITDA des SDAX-Konzerns liegt nach vorläufigen Zahlen bei 405 Millionen Euro und damit unter den ursprünglichen Erwartungen.",
           "score": 9
         },
         {
           "source": "Horizont Medien",
-          "title": "Dank Dschungelcamp und Handball: Starker Jahresauftakt für ARD, ZDF und RTL",
-          "link": "https://www.horizont.net/medien/nachrichten/dank-dschungelcamp-und-handball-starker-jahresauftakt-fuer-ard-zdf-und-rtl-232983?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Das Dschungelcamp und die Handball-EM führten im Januar zu starken Marktanteilen für ARD, ZDF und RTL, während Sat.1 und ProSieben deutliche Verluste verzeichneten. Die beiden Formate sorgten für die begehrten Lagerfeuermomente im deutschen Fernsehen und dominierten die Einschaltquoten zum Jahresauftakt.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Neue Osnabrücker Zeitung bietet Praktikum in der Lokalredaktion Die Neue Osnabrücker Zeitung sucht...",
-          "link": "https://kress.de/news/beitrag/152112-neue-osnabruecker-zeitung-bietet-praktikum-in-der-lokalredaktion.html",
-          "summary": "Die Neue Osnabrücker Zeitung bietet ein mindestens zwölf Wochen dauerndes Vollzeit-Praktikum in der Lokalredaktion an mehreren Standorten in Osnabrück und dem Landkreis. Praktikanten werden vollständig in den Redaktionsalltag eingebunden, recherchieren und schreiben eigene Texte für Print und Digital und nehmen an Redaktionskonferenzen teil. Das Praktikum richtet sich an Studierende mit journalistischem Interesse und digitalem Verständnis und wird explizit als möglicher Karriereeinstieg in den Lokaljournalismus positioniert.",
+          "title": "Julia Klöckner : Bundestagspräsidentin fordert mehr Selbstreflexion von ARD und ZDF",
+          "link": "https://www.horizont.net/medien/nachrichten/julia-kloeckner-bundestagspraesidentinfordert-mehr-selbstreflexion-von-ard-und-zdf-232986?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Bundestagspräsidentin Julia Klöckner fordert von ARD und ZDF eine Ausweitung der politischen Live-Berichterstattung, insbesondere mehr Übertragungen von Bundestagsdebatten. Gleichzeitig mahnt sie die öffentlich-rechtlichen Sender zu verstärkter Selbstreflexion bezüglich Effizienz, Neutralität und Ausgewogenheit an.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Künstliche Intelligenz Ihre KI-Agenda für das Jahr Für die meisten Unternehmen aus Media und...",
-          "link": "https://meedia.de/news/beitrag/21046-ihre-ki-agenda-fuer-das-jahr.html",
-          "summary": "MEEDIA identifiziert vier zentrale KI-Herausforderungen für Media- und Marketing-Unternehmen in 2026: praktische Implementierung von KI-Agenten, Kundenakzeptanz KI-generierter Werbemittel, organisatorische Neuausrichtung auf generative KI und Kontrolle KI-basierter Mediapläne. Als ersten Schritt empfiehlt das Fachmagazin ein KI-Monitoring zur Messung der veränderten Customer Journey, da KI-Antworten teilweise geschäftsschädigend wirken können, wenn sie beispielsweise von Produkten abraten. Rechtlich sind KI-Anbieter bei solchen Fällen nicht als reine \"Plattformen\" zu behandeln, weshalb schnelles rechtliches Vorgehen empfohlen wird.",
+          "title": "Warum Marken 2026 nicht an Sport vorbeikommen Ab heute trifft sich in Hamburg die...",
+          "link": "https://meedia.de/news/beitrag/21060-spobis-warum-marken-2026-nicht-an-sport-vorbeikommen.html",
+          "summary": "In Hamburg findet die SPOBIS-Konferenz der Sportbusiness-Branche mit über 1500 Unternehmen statt, die sich schwerpunktmäßig mit Sponsoring, Content, Technologie und KI beschäftigt. Im Fokus steht die zentrale Frage, warum Marken sich 2026 und darüber hinaus strategisch mit Sport auseinandersetzen sollten und welche tragfähigen Marketingmodelle jenseits traditioneller Stadionwerbung entstehen. Der Artikel betont dabei neue Sporttrends wie Padel und Hyrox als Wachstumsmärkte für innovative Markenstrategien.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Wie KI-Agenten zur nächsten Kundengeneration werden Der nächste Kunde wird nicht mehr klicken...",
+          "link": "https://meedia.de/news/beitrag/21059-der-naechste-kunde-wird-nicht-mehr-klicken.html",
+          "summary": "KI-Agenten entwickeln sich von reinen Antwortgebern zu autonomen Entscheidungsträgern, die selbstständig Transaktionen ausführen und damit die Grundannahmen des digitalen Handels herausfordern. Der Handel verlagert sich von menschlicher Interaktion zu maschineller Ausführung, wobei digitale Interaktionen zunehmend außerhalb klassischer Websites in KI-Ökosystemen stattfinden. Dies führt zu einer grundlegenden Veränderung von Nachfrage, Wertkommunikation und Messbarkeit im digitalen Marketing.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Mehrere Jahre Entwicklungsarbeit BCN wird (DSGVO-konformer) Datenhändler BCN, das ehemalige Burda...",
+          "link": "https://meedia.de/news/beitrag/21056-bcn-wird-dsgvo-konformer-datenhaendler.html",
+          "summary": "BCN, die gemeinsame Vermarktungsorganisation von Hubert Burda Media, Funke Mediengruppe und Mediengruppe Klambt, erweitert ihr Portfolio um \"BCN Smart Audiences\" - ein DSGVO-konformes Datenangebot für zielgruppenspezifische Werbung. Die Lösung kombiniert eigene First-Party-Daten aus über 50 Medienmarken mit Utiq-Technologie und erreicht mehr als 75 Millionen Online-Nutzerprofile. BCN positioniert sich damit als Datenhändler und erweitert sein Crossmedia-Angebot um skalierbare, datenbasierte Zielgruppenprodukte über Data Marketplaces.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Netflix co-CEO grilled by US senators over Warner Bros Discovery merger",
+          "link": "https://www.theguardian.com/media/2026/feb/03/senate-netflix-warner-bros-discovery-merger",
+          "summary": "Netflix co-CEO Ted Sarandos wurde von US-Senatoren zu Netflixs geplanter Übernahme der Film- und Streaming-Assets von Warner Bros Discovery befragt, wobei Bedenken über Arbeitsplätze, Verbraucherpreise und Wettbewerbsauswirkungen im Mittelpunkt standen. Während sich die meisten Fragen auf kartellrechtliche Aspekte konzentrierten, kritisierte der republikanische Senator Josh Hawley Netflix für angeblich \"woke\" Inhalte und Trans-Content für Kinder. Sarandos versicherte, dass Warner Bros Studio weitgehend unverändert weitergeführt werden soll.",
+          "score": 9
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Disney names parks and cruises boss Josh D’Amaro as next CEO",
+          "link": "https://www.theguardian.com/film/2026/feb/03/disney-new-ceo-justin-damaro",
+          "summary": "Disney hat Josh D'Amaro, den bisherigen Leiter der Themenparks und Kreuzfahrten, als neuen CEO ernannt, der im März die Nachfolge von Bob Iger antritt. Die Ernennung beendet eine schwierige Nachfolgekrise, nachdem Iger 2022 nach der Entlassung seines ersten Nachfolgers Bob Chapek übergangsweise zurückkehren musste. Dana Walden, Co-Leiterin der Entertainment-Division, wird zur Präsidentin und Chief Creative Officer ernannt.",
+          "score": 9
+        },
+        {
+          "source": "Guardian Media",
+          "title": "ITV heads to New York for World Cup coverage while BBC stays in Salford",
+          "link": "https://www.theguardian.com/football/2026/feb/03/itv-new-york-world-cup-coverage-bbc-salford",
+          "summary": "ITV positioniert sich für die WM 2026 mit einem Studio in Brooklyn und prominenten Experten wie Gary Neville, Roy Keane und Ian Wright vor Ort, während die BBC aus Kosten- und Umweltgründen bis mindestens zum Viertelfinale aus Salford sendet. Die Expansion der WM auf 48 Teams und 104 Spiele sowie die Austragung in Nordamerika haben die Logistik- und Kostenkalkulationen beider Sender maßgeblich beeinflusst. ITV plant zusätzliche Produktionen wie Dokumentationen, um die New Yorker Kulisse optimal zu nutzen.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Elon Musk merges SpaceX with xAI at $1.25tn valuation",
+          "link": "https://www.theguardian.com/science/2026/feb/02/elon-musk-spacex-xai-merger",
+          "summary": "Elon Musk fusioniert sein Raumfahrtunternehmen SpaceX mit der KI-Firma xAI zu einem kombinierten Unternehmen im Wert von 1,25 Billionen US-Dollar, wobei SpaceX mit 1 Billion und xAI mit 250 Milliarden bewertet wird. Die Fusion soll eine \"vertikal integrierte Innovationsmaschine\" schaffen, die KI, Raketentechnologie, satellitengestütztes Internet und Kommunikationstechnologie vereint, während sich SpaceX auf einen Börsengang im Frühsommer vorbereitet. Der Deal wird strategisch mit Musks Plänen für weltraumbasierte Rechenzentren und solarbetriebene Satelliten zur KI-Versorgung begründet.",
           "score": 8
         },
         {
-          "source": "meedia",
-          "title": "1 und ProSieben mies Die Gewinner des ersten Monats des TV-Jahres 2026 heißen ZDF, Das Erste und RTL.",
-          "link": "https://meedia.de/news/beitrag/21044-zdf-das-erste-und-rtl-starten-stark-ins-neue-jahr-sat-1-und-prosieben-mies.html",
-          "summary": "ZDF, Das Erste und RTL dominieren die TV-Landschaft im Januar 2026 mit deutlichen Marktanteilsgewinnen gegenüber Dezember und dem 12-Monats-Durchschnitt und belegen die ersten drei Plätze sowohl im Gesamtpublikum als auch bei den 14- bis 49-Jährigen. Während ZDF insgesamt Marktführer bleibt und RTL seinen Vorsprung bei den jungen Zuschauern massiv ausbaut, verzeichnen die Privatsender ProSieben und Sat.1 deutliche Verluste.",
+          "source": "Deadline",
+          "title": "‘F1’ Sequel Teased By Racing Sport’s CEO At Apple TV Press Day",
+          "link": "https://deadline.com/2026/02/f1-sequel-teased-1236708166/",
+          "summary": "Formel 1-CEO Stefano Domenicali deutete bei Apple TVs Press Day eine mögliche Fortsetzung des blockbuster F1-Films mit Brad Pitt an und erklärte \"Stay tuned\" auf entsprechende Nachfragen. Der Film war mit über 631 Millionen US-Dollar weltweit der erfolgreichste Sportfilm aller Zeiten und erhielt vier Oscar-Nominierungen. Parallel kündigten Apple und die Formel 1 eine neue Streaming-Partnerschaft an, die F1-Inhalte in 4K und Dolby-Qualität ohne Zusatzkosten für Apple TV-Abonnenten anbietet.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Hollywood Guilds Raise Concerns With Senate Antitrust Subcommittee Over Warner Bros. Sale Amid Netflix Congressional Hearings",
+          "link": "https://deadline.com/2026/02/hollywood-guild-concerns-warner-bros-sale-senate-antitrust-1236708111/",
+          "summary": "Mehrere Hollywood-Gilden (DGA, PGA, WGA) haben dem US-Senats-Kartellausschuss ihre Bedenken gegen Netflixs geplante Übernahme von Warner Bros. mitgeteilt, während Co-CEO Ted Sarandos vor dem Ausschuss aussagte. Die Gewerkschaften warnen vor Stellenabbau und verringertem Wettbewerb durch die Medienkonsolidierung, wobei weniger Unternehmen über Inhalte und deren Verbreitung entscheiden würden. Keiner der Verbände unterstützt den Deal, der als typisches Beispiel für die von Kartellgesetzen zu verhindernden Praktiken bezeichnet wird.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Ryan Reynolds Buddy Comedy ‘Mayday’ From Apple Sets September Release Date",
+          "link": "https://deadline.com/2026/02/ryan-reynolds-mayday-apple-1236706884/",
+          "summary": "Apple Original Films veröffentlicht am 4. September die Action-Buddy-Comedy \"Mayday\" mit Ryan Reynolds als US-Navy-Pilot und Kenneth Branagh als Ex-KGB-Agent, die während des Kalten Krieges eine unwahrscheinliche Allianz eingehen. Der Film wird von John Francis Daley und Jonathan Goldstein geschrieben und produziert, mit Skydance Media und Maximum Effort als Produktionsfirmen. Das Projekt kombiniert Spionage-Thriller-Elemente mit Comedy und zielt auf die wachsende Streaming-Zielgruppe von Apple TV+ ab.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Josh D’Amaro On Balancing Legacy And Innovation As Disney CEO Spotlight Lands On Parks Chief: “I’m Ready For The Challenge”",
+          "link": "https://deadline.com/2026/02/josh-damaro-disney-ceo-abc-interview-1236706429/",
+          "summary": "Josh D'Amaro, der am Dienstag zum neuen Disney-CEO ernannt wurde, gab sein erstes Interview bei ABC News und betonte seine Bereitschaft, das Gleichgewicht zwischen Disneys historischem Erbe und Innovation zu meistern. Er hob seine langjährige Erfahrung in den Disney-Parks hervor, wo er direkten Kontakt zu Millionen von Gästen hatte und die Bedeutung der Marke für Familien weltweit erlebte. D'Amaro positionierte sich als Befürworter von Risikobereitschaft und sieht KI als wichtiges Werkzeug, das jedoch niemals die menschliche Kreativität ersetzen sollte.",
+          "score": 9
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Is ‘F1’ Sequel Revving Up? Apple’s Eddy Cue and Formula 1’s Stefano Domenicali Tease Film Plans",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/f1-the-movie-sequel-apple-tv-formula-1-brad-pitt-1236494475/",
+          "summary": "Apple TV und Formula 1 deuten bei einer Presseveranstaltung eine mögliche Fortsetzung des erfolgreichen Films \"F1: The Movie\" an, nachdem dieser vier Oscar-Nominierungen erhielt und mit über 600 Millionen Dollar zum erfolgreichsten Sportfilm aller Zeiten wurde. Apple's Eddy Cue und F1-CEO Stefano Domenicali reagierten auf entsprechende Fragen mit \"Stay tuned\" und \"Never say never\", ohne konkrete Pläne zu bestätigen. Die Ankündigungen erfolgen zeitgleich mit Apple TVs Start als exklusiver US-Broadcaster für Formel-1-Rennen.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Disney’s New CEO Josh D’Amaro on His Vision for Company: “I’m a Big Risk Taker”",
+          "link": "https://www.hollywoodreporter.com/business/business-news/disney-new-ceo-josh-damaro-vision-company-david-muir-1236494407/",
+          "summary": "Josh D'Amaro, der neue Disney-CEO ab 18. März, betont in seinem ersten Interview seine 27-jährige Erfahrung im Konzern und seine Bereitschaft, kalkulierte Risiken einzugehen, um Innovation und das Disney-Erbe zu balancieren. Dana Walden wird gleichzeitig zur President und Chief Creative Officer befördert, während D'Amaro seine enge Verbindung zu den Parks und Gästen als Grundlage für seine Führungsphilosophie hervorhebt.",
+          "score": 9
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Ryan Reynolds and Kenneth Branagh Team Up for Action Buddy Comedy ‘Mayday’",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/ryan-reynolds-kenneth-branagh-buddy-comedy-mayday-apple-tv-1236493393/",
+          "summary": "Ryan Reynolds und Kenneth Branagh spielen die Hauptrollen in der Apple TV+ Action-Buddy-Komödie \"Mayday\", die am 4. September Premiere feiert und von John Francis Daley und Jonathan Goldstein (Dungeons & Dragons: Honor Among Thieves) geschrieben und inszeniert wurde. Der Film erzählt die Geschichte eines US-Navy-Piloten (Reynolds), der während des Kalten Krieges in russischem Territorium gestrandet ist und eine unwahrscheinliche Allianz mit einem ehemaligen KGB-Agenten (Branagh) eingeht. Die Skydance Media-Produktion ist Teil des First-Look-Deals zwischen Skydance und Apple, aus dem bereits Filme wie \"Ghosted\" und \"The Family Plan\" hervorgingen.",
           "score": 8
         },
         {
-          "source": "meedia",
-          "title": "gegen „AI-Slop“ vorgehen KI-generierte Inhalte fluten soziale Netzwerke in nie dagewesenem Ausmaß.",
-          "link": "https://meedia.de/news/beitrag/21045-so-wollen-youtube-amp-co-gegen-ai-slop-vorgehen.html",
-          "summary": "Soziale Medien-Plattformen wie YouTube, Meta und TikTok kämpfen mit einer beispiellosen Flut minderwertiger KI-generierter Inhalte („AI-Slop\"), die die Auffindbarkeit hochwertiger Inhalte beeinträchtigt und das Vertrauen von Nutzern und Werbekunden gefährdet. Die Plattformen entwickeln technische, wirtschaftliche und regulatorische Gegenmaßnahmen, stehen jedoch vor der Herausforderung, zwischen qualitativ hochwertigem und minderwertigem KI-Content zu unterscheiden. Upload-Filter werden als Lösungsansatz diskutiert, könnten jedoch die Plattform-Performance erheblich belasten.",
+          "source": "Variety",
+          "title": "Crunchyroll Rolls Out Thai-Language Interface, Expands Localized Content Library (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/news/crunchyroll-thai-interface-local-content-library-1236650549/",
+          "summary": "Crunchyroll hat eine thailändischsprachige Benutzeroberfläche eingeführt und sein lokalisiertes Content-Angebot auf über 500 Titel erweitert, darunter 70+ mit thailändischer Synchronisation und 300 mit Untertiteln. Die Expansion erfolgt vor dem Hintergrund eines 50%igen Anstiegs der Zuschauerzahlen aus Thailand im Jahresvergleich, womit das Land den vierten Platz weltweit bei der Anime-Nutzung belegt. Das Abo-Angebot startet bei 99 THB (3,15 USD) monatlich und umfasst aktuelle Winter-Season-Simulcasts beliebter Serien wie \"Jujutsu Kaisen\" Season 3.",
           "score": 7
         },
         {
-          "source": "meedia",
-          "title": "Tools, Prompts, Workflows, Politik Die wichtigsten Nachrichten über Künstliche Intelligenz (KI) in Werbung und Medien Update: Ist die Website tot?",
-          "link": "https://meedia.de/news/beitrag/18807-die-wichtigsten-nachrichten-ueber-kuenstliche-intelligenz-ki-in-werbung-und-medien.html",
-          "summary": "MEEDIA sammelt fortlaufend die wichtigsten KI-Nachrichten für die Medien- und Werbebranche, wobei sowohl neue Geschäftsmodelle und Tools als auch Herausforderungen wie Jobverluste und juristische Fragen behandelt werden. Der Fokus liegt auf praktischen Anwendungen von KI in Bereichen wie Prompting, Workflows sowie der Zusammenarbeit zwischen Medien, Agenturen und Marken. Aktuelle Schwerpunkte sind die Diskussion um \"AI-Slop\" auf Plattformen wie YouTube und neue KI-Schnittstellen wie Model Context Protocols, die Hyperpersonalisierung im Marketing ermöglichen.",
-          "score": 7
+          "source": "Variety",
+          "title": "Apple Unveils 2026 Film Slate: Ryan Reynolds Fights a New War, Jonah Hill Gives Keanu Reeves the ‘Jay Kelly’ Treatment and ‘Matchbox’ Revs Up",
+          "link": "https://variety.com/2026/film/news/apple-original-movies-ryan-reynolds-matchbox-warrior-kid-1236651475/",
+          "summary": "Apple Studios präsentierte seine Filmpalette für 2026 bei einer Medienveranstaltung in Los Angeles, wobei fünf Spielfilme vorgestellt wurden, darunter Jonah Hills drittes Regiewerk \"Outcome\" mit Keanu Reeves, Cameron Diaz und Matt Bomer in einer Geschichte über Sucht und Rehabilitation in Hollywood. Weitere angekündigte Projekte umfassen einen neuen Kriegsfilm mit Ryan Reynolds und das \"Matchbox\"-Franchise, während A-List-Stars wie Chris Pratt, Amy Adams und Colin Farrell für zusätzliche Aufmerksamkeit sorgten. Die Veranstaltung fand statt, während Apple noch immer Awards-Season-Erfolge mit \"F1\" feiert.",
+          "score": 9
         },
         {
-          "source": "meedia",
-          "title": "Neue Werbeformen ProSiebenSat.1 und Dyn Media vertiefen Partnerschaft Der TV-Konzern und der...",
-          "link": "https://meedia.de/news/beitrag/21040-prosiebensat-1-und-dyn-media-vertiefen-partnerschaft.html",
-          "summary": "ProSiebenSat.1 und der Sport-Streamer Dyn Media verlängern ihre Vermarktungspartnerschaft um zwei Jahre und erweitern das Werbeportfolio um Pre-Rolls und exklusive Single Spots. Seven.One Media bleibt zentraler Vermarkter für Reichweitenwerbung auf der Dyn-Plattform, während Studio71 weiterhin die YouTube-Monetarisierung übernimmt. Die 2022 gegründete Streaming-Plattform von Ex-DFL-Chef Christian Seifert gehört zu 42,5% der Schwarz Gruppe und Axel Springer und fokussiert sich auf Handball, Basketball, Volleyball, Tischtennis und Hockey.",
+          "source": "Variety",
+          "title": "‘Cape Fear’ First Look Shows Javier Bardem as Vengeful Max Cady as Apple TV Series Sets Premiere Date",
+          "link": "https://variety.com/2026/tv/news/cape-fear-first-look-javier-bardem-release-date-1236650510/",
+          "summary": "Apple TV+ hat den Premierentermin für die Thriller-Serie \"Cape Fear\" mit Javier Bardem, Amy Adams und Patrick Wilson auf den 5. Juni festgelegt. Die 10-teilige Serie basiert auf John D. MacDonalds Roman \"The Executioners\" und Martin Scorseses 1991er Film, wurde jedoch für das 21. Jahrhundert \"neu interpretiert\" und thematisiert Amerikas Obsession mit True Crime. Showrunner Nick Antosca führt Regie, während Martin Scorsese und Steven Spielberg als ausführende Produzenten fungieren.",
           "score": 7
         }
       ]
