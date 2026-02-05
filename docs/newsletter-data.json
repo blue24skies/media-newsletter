@@ -1,168 +1,245 @@
 {
   "newsletters": [
     {
-      "date": "2026-02-04",
+      "date": "2026-02-05",
       "articles": [
         {
           "source": "DWDL",
-          "title": "VAUNET hält nichts vom jüngsten Kompromiss-Vorschlag",
-          "link": "https://www.dwdl.de/nachrichten/105408/vaunet_haelt_nichts_vom_juengsten_kompromissvorschlag/",
-          "summary": "Der Streit um die geplante Investitionsverpflichtung für Streaming-Anbieter blockiert weiterhin die zugesagte Erhöhung der Filmförder-Mittel, wobei Kulturstaatsminister Weimer (CDU) eine Selbstverpflichtung bevorzugt, während die SPD auf eine gesetzliche Regelung drängt. Produktionsallianz und VTFF haben als Kompromiss eine gesetzliche Verpflichtung mit flexiblen Öffnungsklauseln für Branchenvereinbarungen vorgeschlagen. VAUNET lehnt diesen Kompromiss-Vorschlag ab, was die Hängepartie weiter anheizt.",
+          "title": "Eyes & Ears of Europe setzt an der Spitze auf Kontinuität",
+          "link": "https://www.dwdl.de/nachrichten/105412/eyes__ears_of_europe_setzt_an_der_spitze_auf_kontinuitaet/",
+          "summary": "Eyes & Ears of Europe strukturiert sich nach dem Weggang von CEO Corinna Kamphausen neu und verzichtet künftig auf den CEO-Posten. Ina Braun übernimmt als Director Operations die Geschäftsstellenleitung, unterstützt von Miriam Sommer (Head of Communications) und Anna Schiffer (Head of Member & Participant Administration). Der Verband plant für sein 30-jähriges Jubiläum 2026 den Ausbau der Eyes & Ears Academy sowie der \"New Talents\"-Förderung mit Fokus auf das europäische Netzwerk.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "ProSiebenSat.1 und Telekom bauen Kooperation aus",
+          "link": "https://www.dwdl.de/nachrichten/105413/prosiebensat1_und_telekom_bauen_kooperation_aus/",
+          "summary": "ProSiebenSat.1 und die Deutsche Telekom haben ihre Partnerschaft um fünf Jahre verlängert und dabei die Zusammenarbeit beim Streamingdienst Joyn sowie im Vermarktungsbereich deutlich ausgebaut. Neben der weiterhin gewährleisteten Verbreitung aller linearen Sender in SD und HD können Telekom-Kunden nun Joyn Plus+ direkt mit Preisvorteil über den Provider buchen. Zusätzlich vermarktet Seven.One Media weiterhin Addressable TV-Werbung innerhalb des ProSiebenSat.1-Portfolios auf der MagentaTV-Plattform.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "Durchbruch: Entscheidung um Investitionsverpflichtung gefallen",
+          "link": "https://www.dwdl.de/nachrichten/105416/durchbruch_entscheidung_um_investitionsverpflichtung_gefallen/",
+          "summary": "Die Regierungsparteien SPD und Union haben am Mittwoch nach langwierigen Verhandlungen eine Einigung zur umstrittenen Investitionsverpflichtung für Streamingdienste erzielt, federführend verhandelt von Finanzminister Lars Kingbeil (SPD) und CSU-Chef Markus Söder. Details des Kompromisses sollen am Donnerstag um 11:30 Uhr bekannt gegeben werden, nachdem die Produktionsbranche zuletzt vor einem erneuten Aufschub des wichtigen Themas gewarnt hatte. Die Einigung ist entscheidend für die deutsche Produktionslandschaft, da auch die bereits zugesagte Erhöhung der Filmförder-Mittel davon abhängt.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "TV Plus bekommt nach Übernahme zweiten Geschäftsführer",
+          "link": "https://www.dwdl.de/nachrichten/105411/tv_plus_bekommt_nach_uebernahme_zweiten_geschaeftsfuehrer/",
+          "summary": "TV Plus, seit Januar 100-prozentige Tochter der TVN Group, führt eine Doppelspitze ein: Neben dem bisherigen Geschäftsführer Thomas Schäffer übernimmt Jan Weber-Verlinden als Co-Geschäftsführer, der zuvor langjähriger Herstellungsleiter und Prokurist bei TVN war. Die Produktionsfirma, bekannt für die NDR-Show \"Bingo! - Die Umweltlotterie\", will unter der neuen Führungsstruktur ihre Bereiche Shows sowie Reportagen/Dokus ausbauen.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "ProSiebenSat.1 sichert sich Rechte an Handball-Länderspielen",
+          "link": "https://www.dwdl.de/nachrichten/105410/prosiebensat1_sichert_sich_rechte_an_handballlaenderspielen/",
+          "summary": "ProSiebenSat.1 hat eine langfristige Partnerschaft mit dem Deutschen Handballbund geschlossen und wird in den kommenden sechs Jahren rund 60 Länderspiele der deutschen Handball-Nationalteams (Frauen und Männer) exklusiv im Free-TV übertragen. Der Deal ergänzt die bereits erworbenen Rechte an den Handball-Weltmeisterschaften 2027-2031 und macht ProSiebenSat.1 zum neuen \"Home of Handball\" im deutschen Fernsehen. Die ersten Übertragungen starten bereits im März mit den EM-Qualifikationsspielen der Frauen auf ProSieben Maxx und den Länderspielen der Männer gegen Ägypten auf ProSieben.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "DJV warnt vor vorauseilendem Gehorsam gegenüber Trump",
+          "link": "https://www.dwdl.de/nachrichten/105409/djv_warnt_vor_vorauseilendem_gehorsam_gegenueber_trump/",
+          "summary": "Der Deutsche Journalisten-Verband (DJV) kritisiert die Zurückhaltung bei medienpolitischen Maßnahmen aus Sorge vor möglichen Handelskonflikten mit den USA unter Trump. Konkret wendet sich der DJV gegen die Befürchtungen von Kulturstaatsminister Wolfram Weimer, dass sowohl eine gesetzliche Investitionsverpflichtung für US-Streamer als auch eine geplante Digitalsteuer für Tech-Konzerne zu Vergeltungsmaßnahmen führen könnten. DJV-Vorsitzender Mika Beuster warnt vor \"vorauseilendem Gehorsam\" und fordert, dass medienpolitische Entscheidungen nicht vom \"vermuteten Gemütszustand von Donald Trump\" abhängig gemacht werden dürfen.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Josh D'Amaro löst Bob Iger Mitte März als Disney-Chef ab",
-          "link": "https://www.dwdl.de/nachrichten/105401/josh_damaro_loest_bob_iger_mitte_maerz_als_disneychef_ab/",
-          "summary": "Josh D'Amaro wird am 18. März neuer CEO der Walt Disney Company und löst damit Bob Iger ab, der seit 2022 nach dem gescheiterten Chapek-Intermezzo wieder an der Spitze stand. Der 55-jährige D'Amaro ist seit 1998 bei Disney und leitet seit 2020 erfolgreich den Bereich Disney Experiences (Vergnügungsparks, Resorts, Kreuzfahrten). Dana Walden, die im internen Rennen unterlag, wird neue President und Chief Creative Officer des Konzerns.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "HD+ kostenlos dazu: Dyn mit neuem Bundle-Angebot",
-          "link": "https://www.dwdl.de/nachrichten/105399/hd_kostenlos_dazu_dyn_mit_neuem_bundleangebot/",
-          "summary": "Sport-Streaminganbieter Dyn kooperiert mit HD+ und bietet ein Bundle aus beiden Jahresabos für 14,50 Euro monatlich an – entspricht dem regulären Dyn-Preis, wodurch HD+ (normalerweise 6,99 Euro) im ersten Jahr kostenlos enthalten ist. Nach dem ersten Jahr entfällt der Preisvorteil und beide Services gehen in monatlich kündbare Abos über, wobei HD+ Stream mit 17,99 Euro teurer ist als die Satellit-Variante.",
+          "title": "Antisemitismus-Vorwurf: Einspieler aus \"Stefan Raab Show\" entfernt",
+          "link": "https://www.dwdl.de/nachrichten/105404/antisemitismusvorwurf_einspieler_aus_stefan_raab_show_entfernt/",
+          "summary": "RTL entfernte einen Einspieler aus Stefan Raabs Show \"Die halbe Stunde nach der Stunde danach\" nach Antisemitismus-Vorwürfen. Der satirische Beitrag über Dschungelcamp-Teilnehmer Gil Ofarim verwendete das Stereotyp eines \"Betrüger-Gens\" und zeigte problematische Bilder, die antisemitische Klischees bedienten. RTL rechtfertigte den Beitrag zunächst als satirische Aufarbeitung von Ofarims Betrugsvorwürfen, sah aber schließlich ein, dass der Einspieler zu Missverständnissen führen könne.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Medienkonzern: Themenpark-Chef D&#039;Amaro übernimmt Konzernruder bei Walt Disney",
-          "link": "https://www.horizont.net/medien/nachrichten/medienkonzern-themenpark-chef-damaro-uebernimmt-konzernruder-bei-waltdisney-233031?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Josh D'Amaro wird neuer CEO von Walt Disney nach einer dreijährigen Nachfolgersuche. Der bisherige Themenpark-Chef leitete bereits den profitabelsten Geschäftsbereich des Medienkonzerns und übernimmt nun die Gesamtverantwortung für den Entertainment-Riesen.",
+          "title": "Update zu Sidekicks: Wie RTL und Smartclip die KI-Zukunft selbst in die Hand nehmen wollen",
+          "link": "https://www.horizont.net/medien/nachrichten/update-zu-sidekicks-wie-rtl-und-smartclip-die-ki-zukunft-selbst-in-die-hand-nehmen-wollen-233041?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "RTL Group und ihre Adtech-Tochter Smartclip entwickeln eigene KI-Lösungen, um die breite Implementierung von Künstlicher Intelligenz in Medienunternehmen voranzutreiben, ohne dabei in neue Abhängigkeiten von globalen Tech-Plattformen zu geraten. Diese strategische Initiative zielt darauf ab, der Medienbranche eigenständige Alternativen zu bieten und könnte weitreichende Auswirkungen auf die zukünftige Marktstruktur haben.",
           "score": 9
         },
         {
           "source": "Horizont Medien",
-          "title": "Schwacher Werbemarkt: Pro Sieben Sat 1 verfehlt Gewinnziel",
-          "link": "https://www.horizont.net/medien/nachrichten/schwacher-werbemarkt-pro-sieben-sat-1-verfehlt-gewinnziel-233021?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "ProSiebenSat.1 hat aufgrund des schwächelnden TV-Werbemarktes sein Gewinnziel für das vergangene Jahr verfehlt. Das bereinigte EBITDA des SDAX-Konzerns liegt nach vorläufigen Zahlen bei 405 Millionen Euro und damit unter den ursprünglichen Erwartungen.",
-          "score": 9
+          "title": "Open Web &amp; Zero-Click-Ära: Was der Weltweit-Vermarkter Teads den Publishern fürs KI-Zeitalter rät",
+          "link": "https://www.horizont.net/medien/nachrichten/open-web--zero-click-aera-was-der-weltweit-vermarkter-teads-den-publishern-fuers-ki-zeitalter-raet-232992?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Teads-Manager Omar Piras warnt vor den Herausforderungen der Zero-Click-Ära für Publisher im Open Web und kritisiert, dass bereits wertvolle Zeit bei der Lösungssuche verloren gegangen ist. Der Werbekundenverband OWM hat bereits zum Schutz des Open Web außerhalb der großen Plattform-Ökosysteme aufgerufen, während sich die Geschäfte von Vermarktern wie Teads eng mit dem Erfolg der Content-Anbieter verknüpfen.",
+          "score": 8
         },
         {
           "source": "Horizont Medien",
-          "title": "Julia Klöckner : Bundestagspräsidentin fordert mehr Selbstreflexion von ARD und ZDF",
-          "link": "https://www.horizont.net/medien/nachrichten/julia-kloeckner-bundestagspraesidentinfordert-mehr-selbstreflexion-von-ard-und-zdf-232986?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Bundestagspräsidentin Julia Klöckner fordert von ARD und ZDF eine Ausweitung der politischen Live-Berichterstattung, insbesondere mehr Übertragungen von Bundestagsdebatten. Gleichzeitig mahnt sie die öffentlich-rechtlichen Sender zu verstärkter Selbstreflexion bezüglich Effizienz, Neutralität und Ausgewogenheit an.",
+          "title": "Nächster TV-Coup: Pro Sieben Sat 1 kauft Handball-Länderspiele",
+          "link": "https://www.horizont.net/medien/nachrichten/naechster-tv-coup-pro-sieben-sat-1-kauft-handball-laenderspiele-233043?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "ProSiebenSat.1 hat nach dem Erwerb der Rechte für die wichtigsten Spiele der kommenden drei Handball-Weltmeisterschaften nun auch die TV-Lizenzen für rund 60 Länderspiele der deutschen Handball-Nationalteams (Männer und Frauen) vom DHB erworben. Die Bekanntgabe erfolgte durch Sportchef Gernot Bauer und DHB-Vorstandsvorsitzenden Mark Schober auf dem SpoBis-Kongress in Hamburg.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Nach &quot;Stefan Raab Show&quot;: RTL wehrt sich gegen Antisemitismus-Vorwurf",
+          "link": "https://www.horizont.net/medien/nachrichten/nach-stefan-raab-show-rtl-wehrt-sich-gegen-antisemitismus-vorwurf-233035?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "RTL verteidigt einen umstrittenen Einspieler über Gil Ofarim in der \"Stefan Raab Show\" vom 27. Januar gegen Antisemitismus-Vorwürfe. Der Sender erklärt, der Beitrag habe sich mit Ofarims öffentlichem Auftreten im Kontext der Betrugsvorwürfe auseinandergesetzt, insbesondere mit seiner später widerlegten Behauptung eines antisemitischen Vorfalls.",
           "score": 7
         },
         {
-          "source": "meedia",
-          "title": "Warum Marken 2026 nicht an Sport vorbeikommen Ab heute trifft sich in Hamburg die...",
-          "link": "https://meedia.de/news/beitrag/21060-spobis-warum-marken-2026-nicht-an-sport-vorbeikommen.html",
-          "summary": "In Hamburg findet die SPOBIS-Konferenz der Sportbusiness-Branche mit über 1500 Unternehmen statt, die sich schwerpunktmäßig mit Sponsoring, Content, Technologie und KI beschäftigt. Im Fokus steht die zentrale Frage, warum Marken sich 2026 und darüber hinaus strategisch mit Sport auseinandersetzen sollten und welche tragfähigen Marketingmodelle jenseits traditioneller Stadionwerbung entstehen. Der Artikel betont dabei neue Sporttrends wie Padel und Hyrox als Wachstumsmärkte für innovative Markenstrategien.",
+          "source": "Horizont Medien",
+          "title": "Personalie: Das ist der neue Chief Technology Officer der Zeit Verlagsgruppe",
+          "link": "https://www.horizont.net/medien/nachrichten/personalie-das-ist-der-neue-chief-technology-officer-der-zeit-verlagsgruppe-233002?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Zeit Verlagsgruppe hat neben dem neuen CEO Nils von der Kall, der Anfang der Woche die Nachfolge von Rainer Esser antrat, auch eine neue Führungskraft im Technologiebereich ernannt. Der neue Chief Technology Officer komplettiert die Umstrukturierung in der Chefetage des Hamburger Medienhauses.",
           "score": 7
         },
         {
-          "source": "meedia",
-          "title": "Wie KI-Agenten zur nächsten Kundengeneration werden Der nächste Kunde wird nicht mehr klicken...",
-          "link": "https://meedia.de/news/beitrag/21059-der-naechste-kunde-wird-nicht-mehr-klicken.html",
-          "summary": "KI-Agenten entwickeln sich von reinen Antwortgebern zu autonomen Entscheidungsträgern, die selbstständig Transaktionen ausführen und damit die Grundannahmen des digitalen Handels herausfordern. Der Handel verlagert sich von menschlicher Interaktion zu maschineller Ausführung, wobei digitale Interaktionen zunehmend außerhalb klassischer Websites in KI-Ökosystemen stattfinden. Dies führt zu einer grundlegenden Veränderung von Nachfrage, Wertkommunikation und Messbarkeit im digitalen Marketing.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Mehrere Jahre Entwicklungsarbeit BCN wird (DSGVO-konformer) Datenhändler BCN, das ehemalige Burda...",
-          "link": "https://meedia.de/news/beitrag/21056-bcn-wird-dsgvo-konformer-datenhaendler.html",
-          "summary": "BCN, die gemeinsame Vermarktungsorganisation von Hubert Burda Media, Funke Mediengruppe und Mediengruppe Klambt, erweitert ihr Portfolio um \"BCN Smart Audiences\" - ein DSGVO-konformes Datenangebot für zielgruppenspezifische Werbung. Die Lösung kombiniert eigene First-Party-Daten aus über 50 Medienmarken mit Utiq-Technologie und erreicht mehr als 75 Millionen Online-Nutzerprofile. BCN positioniert sich damit als Datenhändler und erweitert sein Crossmedia-Angebot um skalierbare, datenbasierte Zielgruppenprodukte über Data Marketplaces.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Netflix co-CEO grilled by US senators over Warner Bros Discovery merger",
-          "link": "https://www.theguardian.com/media/2026/feb/03/senate-netflix-warner-bros-discovery-merger",
-          "summary": "Netflix co-CEO Ted Sarandos wurde von US-Senatoren zu Netflixs geplanter Übernahme der Film- und Streaming-Assets von Warner Bros Discovery befragt, wobei Bedenken über Arbeitsplätze, Verbraucherpreise und Wettbewerbsauswirkungen im Mittelpunkt standen. Während sich die meisten Fragen auf kartellrechtliche Aspekte konzentrierten, kritisierte der republikanische Senator Josh Hawley Netflix für angeblich \"woke\" Inhalte und Trans-Content für Kinder. Sarandos versicherte, dass Warner Bros Studio weitgehend unverändert weitergeführt werden soll.",
+          "source": "kress",
+          "title": "Kernmarke stabil, Manager Magazin unter Druck: Wie es wirtschaftlich beim Spiegel aussieht Während die Kernmarke Spiegel vergleichsweise stabil bleibt, bereiten andere Teile der Gruppe Sorgen. Interne Zahlen, die kress vorliegen, geben Einblick in die wirtschaftliche Lage",
+          "link": "https://kress.de/news/beitrag/152130-kernmarke-stabil-manager-magazin-unter-druck-wie-es-wirtschaftlich-beim-spiegel-aussieht.html",
+          "summary": "Die Spiegel-Gruppe zeigt gemischte wirtschaftliche Entwicklungen: Während die Kernmarke mit 263.300 digitalen Abos (+1.100) und trotz rückläufiger Printauflage (190.100, -19.300) stabil bleibt, kämpft das Manager Magazin mit eingebrochenem Anzeigengeschäft und drohenden hohen Verlusten. Das Management der Gruppe steuert bereits mit bilanzpolitischen Maßnahmen gegen die schwächere Entwicklung, wobei fraglich ist, ob die Vorjahreszahlen (255,2 Mio. Euro Umsatz, 26,5 Mio. Euro Gewinn) erreicht werden können.",
           "score": 9
         },
         {
-          "source": "Guardian Media",
-          "title": "Disney names parks and cruises boss Josh D’Amaro as next CEO",
-          "link": "https://www.theguardian.com/film/2026/feb/03/disney-new-ceo-justin-damaro",
-          "summary": "Disney hat Josh D'Amaro, den bisherigen Leiter der Themenparks und Kreuzfahrten, als neuen CEO ernannt, der im März die Nachfolge von Bob Iger antritt. Die Ernennung beendet eine schwierige Nachfolgekrise, nachdem Iger 2022 nach der Entlassung seines ersten Nachfolgers Bob Chapek übergangsweise zurückkehren musste. Dana Walden, Co-Leiterin der Entertainment-Division, wird zur Präsidentin und Chief Creative Officer ernannt.",
-          "score": 9
+          "source": "kress",
+          "title": "Julia Lorenz unter den Young Leadern 2025 kress präsentiert in einer Serie junge Führungskräfte von...",
+          "link": "https://kress.de/news/beitrag/152120-julia-lorenz-unter-den-young-leadern-2025.html",
+          "summary": "Julia Lorenz, 34-jährige Co-Leiterin des Politischen Feuilletons bei der \"Zeit\", wurde von kress zu den \"25 Young Leaders 2025\" gekürt. Sie baute seit 2022 das neue Ressort mit auf, nachdem sie zuvor bei Berliner Stadtmagazinen und als Kulturredakteurin bei \"Zeit Online\" tätig war. Ihr Ziel ist es, ein politisches Feuilleton zu schaffen, das so geistreich und überraschend ist, dass es der KI-Konkurrenz standhalten kann.",
+          "score": 8
         },
         {
-          "source": "Guardian Media",
-          "title": "ITV heads to New York for World Cup coverage while BBC stays in Salford",
-          "link": "https://www.theguardian.com/football/2026/feb/03/itv-new-york-world-cup-coverage-bbc-salford",
-          "summary": "ITV positioniert sich für die WM 2026 mit einem Studio in Brooklyn und prominenten Experten wie Gary Neville, Roy Keane und Ian Wright vor Ort, während die BBC aus Kosten- und Umweltgründen bis mindestens zum Viertelfinale aus Salford sendet. Die Expansion der WM auf 48 Teams und 104 Spiele sowie die Austragung in Nordamerika haben die Logistik- und Kostenkalkulationen beider Sender maßgeblich beeinflusst. ITV plant zusätzliche Produktionen wie Dokumentationen, um die New Yorker Kulisse optimal zu nutzen.",
+          "source": "kress",
+          "title": "Marco Kaiser zum Chief Technology Officer befördert Die Hamburger Zeit Verlagsgruppe hat eine neue...",
+          "link": "https://kress.de/news/beitrag/152117-zeit-verlagsgruppe-marco-kaiser-zum-chief-technology-officer-befoerdert.html",
+          "summary": "Marco Kaiser wurde zum Chief Technology Officer der ZEIT Verlagsgruppe befördert und verantwortet in dieser neu geschaffenen Position die strategische Ausrichtung der gesamten IT- und Technologieorganisation einschließlich Engineering, Data und AI-Infrastruktur. Kaiser, der seit 2013 CTO von Zeit Online war und seit 2019 der Geschäftsleitung angehört, berichtet an COO Christian Röpke. Die Beförderung zielt darauf ab, technologisches Know-how über alle Geschäftsbereiche der Verlagsgruppe besser zu verknüpfen und eine zukunftsgerichtete technische Ausrichtung zu schaffen.",
           "score": 7
         },
         {
-          "source": "Guardian Media",
-          "title": "Elon Musk merges SpaceX with xAI at $1.25tn valuation",
-          "link": "https://www.theguardian.com/science/2026/feb/02/elon-musk-spacex-xai-merger",
-          "summary": "Elon Musk fusioniert sein Raumfahrtunternehmen SpaceX mit der KI-Firma xAI zu einem kombinierten Unternehmen im Wert von 1,25 Billionen US-Dollar, wobei SpaceX mit 1 Billion und xAI mit 250 Milliarden bewertet wird. Die Fusion soll eine \"vertikal integrierte Innovationsmaschine\" schaffen, die KI, Raketentechnologie, satellitengestütztes Internet und Kommunikationstechnologie vereint, während sich SpaceX auf einen Börsengang im Frühsommer vorbereitet. Der Deal wird strategisch mit Musks Plänen für weltraumbasierte Rechenzentren und solarbetriebene Satelliten zur KI-Versorgung begründet.",
+          "source": "kress",
+          "title": "Tourismusprofi Jürgen Salzer steuert Falstaff Travel Jürgen Salzer übernimmt die Geschäftsführung...",
+          "link": "https://kress.de/news/beitrag/152119-tourismusprofi-juergen-salzer-steuert-falstaff-travel.html",
+          "summary": "Jürgen Salzer (49) übernimmt die Geschäftsführung von Falstaff Travel und soll die Reisemarke im Premium- und Luxussegment international ausbauen. Der neue Geschäftsführer bringt sieben Jahre Erfahrung als Leiter der Münchener Niederlassung von Aviareps mit und verantwortet künftig die strategische Weiterentwicklung sowie Positionierung als globale Premium-Travel-Brand. Die Personalentscheidung ist Teil der europäischen Expansion des österreichischen Gourmet- und Lifestyle-Verlags Falstaff, der bereits in 12 Ländern vertreten ist und 2025 einen Umsatz von etwa 45 Millionen Euro erzielte.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Fünf-Jahre-Kooperation mit ProSiebenSat.1 Wie die Telekom-Vertragsverlängerung die Vermarktung von Joyn stärken soll ProSiebenSat.1 und die Deutsche Telekom bauen ihre Zusammenarbeit aus und schließen eine neue, langfristige Kooperationsvereinbarung mit einer Laufzeit von fünf Jahren. Kern der erweiterten Partnerschaft ist eine deutlich engere Verzahnung rund um die Streamingplattform Joyn, die ProSiebenSat.1 zusätzliche Reichweite und neue Vermarktungspotenziale sichern soll. Gleichzeitig setzen beide Unternehmen ihre Zusammenarbeit bei der Verbreitung linearer Sender sowie im Bereich Addressable TV fort. Was der erneuerte Deal genau vorsieht",
+          "link": "https://meedia.de/news/beitrag/21072-wie-die-telekom-vertragsverlaengerung-die-vermarktung-von-joyn-staerken-soll.html",
+          "summary": "ProSiebenSat.1 und die Deutsche Telekom haben ihre Kooperation um fünf Jahre verlängert, wobei der Fokus auf der verstärkten Integration der Streamingplattform Joyn in das MagentaTV-Ökosystem liegt. Telekom-Kunden können seit dem Jahreswechsel 2025/2026 Joyn Plus+ direkt über die Telekom buchen und erhalten dabei Preisnachlässe im Jahresabo. Die Partnerschaft soll ProSiebenSat.1 zusätzliche Reichweite und neue Vermarktungsmöglichkeiten für Joyn verschaffen, während die bestehende Zusammenarbeit bei linearen Sendern und Addressable TV fortgeführt wird.",
+          "score": 10
+        },
+        {
+          "source": "meedia",
+          "title": "TV-Quoten & Streaming-Charts \"Tage, die es nicht gab\" stemmt sich erfolgreich gegen Dschungel und...",
+          "link": "https://meedia.de/news/beitrag/21071-quot-tage-die-es-nicht-gab-quot-stemmt-sich-erfolgreich-gegen-dschungel-und-fussball.html",
+          "summary": "Die ARD-Serie \"Tage, die es nicht gab\" startete erfolgreich in die zweite Staffel mit starken Marktanteilen von 16,2% und 15,0% trotz direkter Konkurrenz durch RTL-Dschungelcamp (18,5%) und DFB-Pokal im ZDF (14,1-18,9%). Während RTL die Prime-Time-Siege holte, bewies die ARD-Serie ihre lineare TV-Tauglichkeit, wobei die Programmstrategie der ARD kritisch hinterfragt wird, da die restlichen sechs Folgen bereits um 0:15 Uhr ausgestrahlt wurden.",
+          "score": 9
+        },
+        {
+          "source": "meedia",
+          "title": "Mieses Werbegeschäft im vierten Quartal ProSiebenSat.1 verfehlt Ergebnisziel für 2025 Der...",
+          "link": "https://meedia.de/news/beitrag/21063-prosiebensat-1-verfehlt-ergebnisziel-fuer-2025.html",
+          "summary": "ProSiebenSat.1 verfehlt mit einem bereinigten EBITDA von 405 Millionen Euro das zuletzt auf 420-450 Millionen Euro gesenkte Ergebnisziel für 2025 um 15 Millionen Euro. Hauptursache ist das schwache TV-Werbegeschäft aufgrund branchenweiter Rückgänge der Werbeinvestitionen, besonders im entscheidenden vierten Quartal. Der Konzernumsatz sank von 3,92 auf 3,68 Milliarden Euro, blieb aber im prognostizierten Zielkorridor.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Peaky Blinders’ Maker Kudos Invests In ‘Sex Education’ Producer’s Indie",
+          "link": "https://deadline.com/2026/02/kudos-invests-senti-films-rem-conway-peaky-blinders-1236709822/",
+          "summary": "Kudos, die Produktionsfirma hinter \"Peaky Blinders\", hat eine nicht genannte Summe in Senti Films investiert, das Independent-Label des \"Sex Education\"-Produzenten Rem Conway. Conway wird weiterhin als Development Producer für Kudos Knight in Birmingham tätig sein und gleichzeitig Senti Films leiten, das sich auf die Förderung unterrepräsentierter Stimmen in den West Midlands konzentriert. Senti Films hat bereits ein finanziertes Entwicklungsprojekt mit einem großen Broadcaster und weitere Projekte in der Pipeline.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "‘F1’ Sequel Teased By Racing Sport’s CEO At Apple TV Press Day",
-          "link": "https://deadline.com/2026/02/f1-sequel-teased-1236708166/",
-          "summary": "Formel 1-CEO Stefano Domenicali deutete bei Apple TVs Press Day eine mögliche Fortsetzung des blockbuster F1-Films mit Brad Pitt an und erklärte \"Stay tuned\" auf entsprechende Nachfragen. Der Film war mit über 631 Millionen US-Dollar weltweit der erfolgreichste Sportfilm aller Zeiten und erhielt vier Oscar-Nominierungen. Parallel kündigten Apple und die Formel 1 eine neue Streaming-Partnerschaft an, die F1-Inhalte in 4K und Dolby-Qualität ohne Zusatzkosten für Apple TV-Abonnenten anbietet.",
+          "title": "Budget Cuts, Technological Disruption & Streamer Dominance Are Creating A Risk-Averse Industry Environment, Says ARTEF Report",
+          "link": "https://deadline.com/2026/02/artef-report-goteborg-film-festival-europe-2026-1236709810/",
+          "summary": "Ein neuer ARTEF-Bericht zeigt, dass die europäische Film- und TV-Industrie durch Budget-Kürzungen, technologische Disruption und Streaming-Dominanz in einem Klima der Risikoaversion operiert, das Kreativität hemmt und bewährte Formeln gegenüber neuen Stimmen bevorzugt. Besonders Filmfestivals stehen unter enormem Überlebensdruck und weichen auf sicherere Programmauswahlen aus, was dem Ziel widerspricht, neue Talente zu entdecken. Der Bericht empfiehlt separate Finanzierungsströme für Newcomer und fordert eine Evolution der Festivalstrukturen angesichts sich wandelnder Verwertungsfenster.",
           "score": 9
         },
         {
           "source": "Deadline",
-          "title": "Hollywood Guilds Raise Concerns With Senate Antitrust Subcommittee Over Warner Bros. Sale Amid Netflix Congressional Hearings",
-          "link": "https://deadline.com/2026/02/hollywood-guild-concerns-warner-bros-sale-senate-antitrust-1236708111/",
-          "summary": "Mehrere Hollywood-Gilden (DGA, PGA, WGA) haben dem US-Senats-Kartellausschuss ihre Bedenken gegen Netflixs geplante Übernahme von Warner Bros. mitgeteilt, während Co-CEO Ted Sarandos vor dem Ausschuss aussagte. Die Gewerkschaften warnen vor Stellenabbau und verringertem Wettbewerb durch die Medienkonsolidierung, wobei weniger Unternehmen über Inhalte und deren Verbreitung entscheiden würden. Keiner der Verbände unterstützt den Deal, der als typisches Beispiel für die von Kartellgesetzen zu verhindernden Praktiken bezeichnet wird.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Ryan Reynolds Buddy Comedy ‘Mayday’ From Apple Sets September Release Date",
-          "link": "https://deadline.com/2026/02/ryan-reynolds-mayday-apple-1236706884/",
-          "summary": "Apple Original Films veröffentlicht am 4. September die Action-Buddy-Comedy \"Mayday\" mit Ryan Reynolds als US-Navy-Pilot und Kenneth Branagh als Ex-KGB-Agent, die während des Kalten Krieges eine unwahrscheinliche Allianz eingehen. Der Film wird von John Francis Daley und Jonathan Goldstein geschrieben und produziert, mit Skydance Media und Maximum Effort als Produktionsfirmen. Das Projekt kombiniert Spionage-Thriller-Elemente mit Comedy und zielt auf die wachsende Streaming-Zielgruppe von Apple TV+ ab.",
+          "title": "Amazon Turns To Content Creators Including Viral Trainspotter Francis Bourgeois For Next Trio Of ‘Grand Tour’ Presenters",
+          "link": "https://deadline.com/2026/02/the-grand-tour-francis-bourgeois-hosting-amazon-series-1236709805/",
+          "summary": "Amazon Prime Video hat für die 7. Staffel von \"The Grand Tour\" drei deutlich jüngere Content Creator als neue Moderatoren verpflichtet: den viral erfolgreichen Trainspotter Francis Bourgeois sowie James Engelsman und Thomas Holland vom YouTube-Kanal Throttle House. Diese Entscheidung markiert einen strategischen Wechsel weg von etablierten TV-Persönlichkeiten hin zu Social Media-Stars mit Millionen von Online-Followern, was dem aktuellen Trend in der britischen TV-Industrie entspricht. Die neue Staffel wird später im Jahr ausgestrahlt und Studio Lambert hat die Produktion von Expectation übernommen.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Josh D’Amaro On Balancing Legacy And Innovation As Disney CEO Spotlight Lands On Parks Chief: “I’m Ready For The Challenge”",
-          "link": "https://deadline.com/2026/02/josh-damaro-disney-ceo-abc-interview-1236706429/",
-          "summary": "Josh D'Amaro, der am Dienstag zum neuen Disney-CEO ernannt wurde, gab sein erstes Interview bei ABC News und betonte seine Bereitschaft, das Gleichgewicht zwischen Disneys historischem Erbe und Innovation zu meistern. Er hob seine langjährige Erfahrung in den Disney-Parks hervor, wo er direkten Kontakt zu Millionen von Gästen hatte und die Bedeutung der Marke für Familien weltweit erlebte. D'Amaro positionierte sich als Befürworter von Risikobereitschaft und sieht KI als wichtiges Werkzeug, das jedoch niemals die menschliche Kreativität ersetzen sollte.",
+          "title": "BBC Studios & UKTV Find Global Acquisitions Chief In Former Starz Buyer Karin Marelle",
+          "link": "https://deadline.com/2026/02/bbc-studios-uktv-find-global-acquisitions-chief-hire-1236708605/",
+          "summary": "BBC Studios und UKTV haben Karin Marelle als neue Global Head of Acquisitions ernannt, wo sie die weltweiten Einkaufsteams beider Unternehmen für Content-Akquisitionen leiten wird. Marelle, die zuvor als Vice President of Acquisitions bei Starz/Lionsgate tätig war und dort erfolgreiche Deals für Serien wie \"Gangs of London\" und \"Normal People\" abschloss, tritt am 17. Februar die Nachfolge der im Juni 2025 verstorbenen Melanie Rumani an. In ihrer neuen Position wird sie für den Content-Einkauf für UKTVs britische Kanäle sowie BBC Studios' globale Kanäle und SVOD-Services in UK, EMEA und APAC verantwortlich sein.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Paramount CEO David Ellison Takes Dig At “Monopolistic” Netflix In Open Letter To UK Creatives About Warner Deal",
+          "link": "https://deadline.com/2026/02/paramount-david-ellison-netflix-warner-open-letter-1236709783/",
+          "summary": "Paramount CEO David Ellison hat in einem offenen Brief an die britische Kreativbranche Netflix als \"monopolistisch\" kritisiert und behauptet, dass Netflixs 83 Milliarden Dollar schwere Übernahme von Warner Bros. Discovery eine marktbeherrschende Stellung schaffen würde. Ellison bewirbt gleichzeitig Paramounts eigenen Übernahmeversuch von WBD mit Zusagen für Kinoinvestitionen und 45-tägige Kinoauswertungsfenster, während seine Erfolgschancen zunehmend schwinden. Netflix zeigt sich hingegen \"hochgradig zuversichtlich\", die regulatorischen Hürden in Großbritannien und anderen Ländern zu überwinden.",
+          "score": 10
+        },
+        {
+          "source": "Deadline",
+          "title": "Sony Pictures Revenue Dips 12% In Fiscal Q3 Amid Sony Group Gains",
+          "link": "https://deadline.com/2026/02/sony-pictures-thrid-quarter-earnings-1236709622/",
+          "summary": "Sony Pictures Entertainment verzeichnete im dritten Geschäftsquartal einen Umsatzrückgang von 12% auf 2,3 Milliarden Dollar, während das operative Ergebnis um 11% auf 197 Millionen Dollar sank. Der Rückgang ist auf schwächere Kinoerfolge zurückzuführen – der erfolgreichste Film war \"Chainsaw Man – The Movie: Reze Arc\" mit 117 Millionen Dollar weltweit, verglichen mit \"Venom: The Last Dance\" (478 Millionen Dollar) im Vorjahresquartal. Trotz der Verluste bei Sony Pictures konnte der Mutterkonzern Sony Group dank starker Leistungen in den Bereichen Musik, Gaming und Imaging einen Gewinnzuwachs von 22% verzeichnen.",
           "score": 9
         },
         {
+          "source": "Deadline",
+          "title": "‘Marty Supreme’ Heading To China; Timothée Chalamet Pic Bound To Become A24’s Highest Grossing Ever At Global B.O.",
+          "link": "https://deadline.com/2026/02/marty-supreme-china-box-office-record-1236709663/",
+          "summary": "A24's \"Marty Supreme\" mit Timothée Chalamet erhält einen China-Release über China Film Group und wird mit einem weltweiten Einspielergebnis von über 133 Millionen Dollar zum erfolgreichsten A24-Film aller Zeiten, womit der bisherige Rekordhalter \"Everything Everywhere All at Once\" (142,8 Millionen Dollar) übertroffen wird. Der für neun Oscars nominierte Film, darunter Best Picture und Best Actor für Chalamet, hat bereits 91,1 Millionen Dollar am US-Markt eingespielt und markiert Chalamets erfolgreichsten A24-Release.",
+          "score": 8
+        },
+        {
           "source": "Hollywood Reporter",
-          "title": "Is ‘F1’ Sequel Revving Up? Apple’s Eddy Cue and Formula 1’s Stefano Domenicali Tease Film Plans",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/f1-the-movie-sequel-apple-tv-formula-1-brad-pitt-1236494475/",
-          "summary": "Apple TV und Formula 1 deuten bei einer Presseveranstaltung eine mögliche Fortsetzung des erfolgreichen Films \"F1: The Movie\" an, nachdem dieser vier Oscar-Nominierungen erhielt und mit über 600 Millionen Dollar zum erfolgreichsten Sportfilm aller Zeiten wurde. Apple's Eddy Cue und F1-CEO Stefano Domenicali reagierten auf entsprechende Fragen mit \"Stay tuned\" und \"Never say never\", ohne konkrete Pläne zu bestätigen. Die Ankündigungen erfolgen zeitgleich mit Apple TVs Start als exklusiver US-Broadcaster für Formel-1-Rennen.",
+          "title": "Team USA Women’s Ice Hockey: How to Watch the 2026 Winter Olympics Event Live Online for Free",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-winter-olympics-womens-ice-hockey-2026-live-online-free-1236494947/",
+          "summary": "Die Olympischen Winterspiele 2026 in Milano Cortina beginnen am 6. Februar mit der Eröffnungsfeier, wobei das Frauen-Eishockey bereits am 4. Februar mit Vorrunden startet. Erstmals nehmen professionelle Spielerinnen der PWHL (Professional Women's Hockey League) an den Olympischen Winterspielen teil. Die Übertragung erfolgt über NBC, USA Network und CNBC sowie per Livestream auf Peacock, mit Spielbeginn um 3:10 Uhr PT/6:10 Uhr ET.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Disney’s New CEO Josh D’Amaro on His Vision for Company: “I’m a Big Risk Taker”",
-          "link": "https://www.hollywoodreporter.com/business/business-news/disney-new-ceo-josh-damaro-vision-company-david-muir-1236494407/",
-          "summary": "Josh D'Amaro, der neue Disney-CEO ab 18. März, betont in seinem ersten Interview seine 27-jährige Erfahrung im Konzern und seine Bereitschaft, kalkulierte Risiken einzugehen, um Innovation und das Disney-Erbe zu balancieren. Dana Walden wird gleichzeitig zur President und Chief Creative Officer befördert, während D'Amaro seine enge Verbindung zu den Parks und Gästen als Grundlage für seine Führungsphilosophie hervorhebt.",
-          "score": 9
+          "title": "David Ellison Commits to HBO, Theatrical Windows in U.K. Open Letter if Paramount Wins WBD, Warns of “Monopolistic” Netflix",
+          "link": "https://www.hollywoodreporter.com/business/business-news/david-ellison-hbo-theatrical-windo-wbd-netflix-uk-letter-1236495679/",
+          "summary": "David Ellison, CEO von Paramount/Skydance, veröffentlichte einen offenen Brief an die britische Kreativbranche bezüglich der geplanten Übernahme von Warner Bros. Discovery, nachdem WBD einen Deal zum Verkauf seiner Studios und Streaming-Geschäfte an Netflix abgeschlossen hat. Ellison verpflichtet sich zur Erhaltung von HBO, Kinoauswertungsfenstern und gesteigerter kreativer Produktion, während er vor einer \"monopolistischen\" Marktposition von Netflix warnt. Der Brief betont die Bedeutung von Wahlmöglichkeiten im Markt und dem Schutz verschiedener Formen der Filmproduktion und Kinoauswertung.",
+          "score": 10
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Ryan Reynolds and Kenneth Branagh Team Up for Action Buddy Comedy ‘Mayday’",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/ryan-reynolds-kenneth-branagh-buddy-comedy-mayday-apple-tv-1236493393/",
-          "summary": "Ryan Reynolds und Kenneth Branagh spielen die Hauptrollen in der Apple TV+ Action-Buddy-Komödie \"Mayday\", die am 4. September Premiere feiert und von John Francis Daley und Jonathan Goldstein (Dungeons & Dragons: Honor Among Thieves) geschrieben und inszeniert wurde. Der Film erzählt die Geschichte eines US-Navy-Piloten (Reynolds), der während des Kalten Krieges in russischem Territorium gestrandet ist und eine unwahrscheinliche Allianz mit einem ehemaligen KGB-Agenten (Branagh) eingeht. Die Skydance Media-Produktion ist Teil des First-Look-Deals zwischen Skydance und Apple, aus dem bereits Filme wie \"Ghosted\" und \"The Family Plan\" hervorgingen.",
+          "title": "Sony Pictures Fiscal Q3 Revenue Down 12 Percent; Music and Games Divisions See Gains",
+          "link": "https://www.hollywoodreporter.com/business/business-news/sony-pictures-q3-2025-results-1236495649/",
+          "summary": "Sony Pictures Entertainment verzeichnete im Q3 2025 einen Umsatzrückgang von 12% auf 2,295 Milliarden Dollar und einen Gewinnrückgang von 11% auf 197 Millionen Dollar. Der Filmbereich brach um 7% auf 792 Millionen Dollar ein, da starke Vergleichstitel wie \"Venom: The Last Dance\" aus dem Vorjahr fehlten, während das TV-Geschäft um 10% auf 718 Millionen Dollar schrumpfte. Lediglich die Media Networks-Sparte konnte mit einem Plus von 10% auf 775 Millionen Dollar wachsen.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Sony Outlines Expansion Plans for Peanuts Brand Following $457 Million Acquisition",
+          "link": "https://variety.com/2026/film/news/sony-peanuts-brand-expansion-plans-1236653249/",
+          "summary": "Sony hat eine 80%-Beteiligung an Peanuts Worldwide für 457 Millionen Dollar erworben und plant eine konzernweite Expansion der Marke über Musik-, Film- und Distributionsplattformen. CFO Lin Tao bezeichnete Peanuts als „eines der weltweit führenden zeitlosen IPs\" und kündigte eine integrierte Strategie an, die Sony Music Entertainment Japan einbezieht. Die Strategie umfasst die Integration von Peanuts-Charakteren in Musik-, Video- und Live-Event-Angebote sowie Kollaborationen mit Künstlern des Sony-Labels.",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "Crunchyroll Rolls Out Thai-Language Interface, Expands Localized Content Library (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/news/crunchyroll-thai-interface-local-content-library-1236650549/",
-          "summary": "Crunchyroll hat eine thailändischsprachige Benutzeroberfläche eingeführt und sein lokalisiertes Content-Angebot auf über 500 Titel erweitert, darunter 70+ mit thailändischer Synchronisation und 300 mit Untertiteln. Die Expansion erfolgt vor dem Hintergrund eines 50%igen Anstiegs der Zuschauerzahlen aus Thailand im Jahresvergleich, womit das Land den vierten Platz weltweit bei der Anime-Nutzung belegt. Das Abo-Angebot startet bei 99 THB (3,15 USD) monatlich und umfasst aktuelle Winter-Season-Simulcasts beliebter Serien wie \"Jujutsu Kaisen\" Season 3.",
-          "score": 7
+          "title": "‘The Grand Tour’ Revs Up With New Hosts Francis Bourgeois, Thomas Holland and James Engelsman: ‘In No Way Cardboard Cutouts of the Old Three’",
+          "link": "https://variety.com/2026/tv/news/the-grand-tour-new-hosts-1236653214/",
+          "summary": "Prime Video hat Francis Bourgeois, Thomas Holland und James Engelsman als neue Moderatoren für \"The Grand Tour\" verpflichtet, nachdem Jeremy Clarkson, Richard Hammond und James May 2024 ihre Ära beendeten. Die sechsteilige Staffel wird später 2026 ausgestrahlt und führt das Trio durch globale Automobilabenteuer in Angola, Malaysia und Kalifornien. Studio Lambert produziert die Serie mit dem Ziel, die DNA der Franchise zu bewahren, während eine neue Generation von Moderatoren das Format übernimmt.",
+          "score": 8
         },
         {
           "source": "Variety",
-          "title": "Apple Unveils 2026 Film Slate: Ryan Reynolds Fights a New War, Jonah Hill Gives Keanu Reeves the ‘Jay Kelly’ Treatment and ‘Matchbox’ Revs Up",
-          "link": "https://variety.com/2026/film/news/apple-original-movies-ryan-reynolds-matchbox-warrior-kid-1236651475/",
-          "summary": "Apple Studios präsentierte seine Filmpalette für 2026 bei einer Medienveranstaltung in Los Angeles, wobei fünf Spielfilme vorgestellt wurden, darunter Jonah Hills drittes Regiewerk \"Outcome\" mit Keanu Reeves, Cameron Diaz und Matt Bomer in einer Geschichte über Sucht und Rehabilitation in Hollywood. Weitere angekündigte Projekte umfassen einen neuen Kriegsfilm mit Ryan Reynolds und das \"Matchbox\"-Franchise, während A-List-Stars wie Chris Pratt, Amy Adams und Colin Farrell für zusätzliche Aufmerksamkeit sorgten. Die Veranstaltung fand statt, während Apple noch immer Awards-Season-Erfolge mit \"F1\" feiert.",
+          "title": "‘Oni Hunter X’ Lands at enGEN3 in Partnership With Oni Force, GK Labs Investment (EXCLUSIVE)",
+          "link": "https://variety.com/2026/digital/news/oni-hunter-x-engen3-oni-force-gk-labs-1236653225/",
+          "summary": "enGEN3, eine partizipative Storytelling-Plattform, hat eine strategische Partnerschaft mit der Web3-Anime-Marke Oni Force zur Entwicklung von \"Oni Hunter X\" geschlossen, einem der ersten Story-Welten auf enGEN3s Infrastruktur für lizenzierte Fan-Ko-Kreation und Revenue-Sharing. Das Projekt wird von Eisner Award-Gewinner Paul Jenkins (\"Inhumans\", \"Wolverine: Origin\") geleitet und erhält durch GK Labs' ungenannte Seed-Investition in enGEN3 finanzielle Unterstützung. Die Serie um Anti-Helden Joji wurde bereits 2023 auf der Comic-Con vorgestellt und soll 2026 als Teil einer größeren Multimedia-Initiative vollständig veröffentlicht werden.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Paramount’s David Ellison Vows Anti-Monopoly Approach in Warner Bros. Discovery Bid, Pledges 30 Films Annually In Open Letter to Creative Community",
+          "link": "https://variety.com/2026/film/news/paramount-david-ellison-anti-monopoly-approach-warner-bros-discovery-bid-1236653219/",
+          "summary": "Paramount-CEO David Ellison intensiviert seinen Kampf um Warner Bros. Discovery mit einem offenen Brief an die Kreativbranche, in dem er bei einer erfolgreichen Übernahme mindestens 30 Kinofilme jährlich und eine wettbewerbsfreundliche Marktstruktur zusagt. Ellison positioniert sein 108,4 Milliarden Dollar Übernahmeangebot als Anti-Monopol-Alternative zu Netflixs 83 Milliarden Dollar Deal mit Warner Bros. Discovery und hofft auf regulatorische Unterstützung in den USA und der EU. Der Brief ist Teil einer internationalen Lobbying-Kampagne, mit der Ellison Branchenteilnehmer und Politiker für sein Gegenangebot mobilisieren will.",
+          "score": 10
+        },
+        {
+          "source": "Variety",
+          "title": "Sony Pictures Revenue Drops 12%, Music Posts Strong Results as Overall Company Operating Income Jumps Up 22% in December Quarter",
+          "link": "https://variety.com/2026/film/news/sony-pictures-revenue-sony-group-earnings-q3-2025-1236652653/",
+          "summary": "Sony Group verzeichnete im Dezemberquartal 2025 einen Betriebsgewinn-Anstieg von 22% auf 515 Milliarden Yen (3,3 Mrd. USD), wobei das Musikgeschäft stark performte, während Sony Pictures Entertainment einen Umsatzrückgang von 12% auf 353,3 Milliarden Yen hinnehmen musste. Der Technologie- und Entertainmentkonzern hob daraufhin seine Prognose für das Geschäftsjahr 2025 an und erwartet nun einen Betriebsgewinn von 1,54 Billionen Yen sowie einen Jahresumsatz von 12,3 Billionen Yen.",
           "score": 9
-        },
-        {
-          "source": "Variety",
-          "title": "‘Cape Fear’ First Look Shows Javier Bardem as Vengeful Max Cady as Apple TV Series Sets Premiere Date",
-          "link": "https://variety.com/2026/tv/news/cape-fear-first-look-javier-bardem-release-date-1236650510/",
-          "summary": "Apple TV+ hat den Premierentermin für die Thriller-Serie \"Cape Fear\" mit Javier Bardem, Amy Adams und Patrick Wilson auf den 5. Juni festgelegt. Die 10-teilige Serie basiert auf John D. MacDonalds Roman \"The Executioners\" und Martin Scorseses 1991er Film, wurde jedoch für das 21. Jahrhundert \"neu interpretiert\" und thematisiert Amerikas Obsession mit True Crime. Showrunner Nick Antosca führt Regie, während Martin Scorsese und Steven Spielberg als ausführende Produzenten fungieren.",
-          "score": 7
         }
       ]
     }
