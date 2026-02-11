@@ -1,154 +1,175 @@
 {
   "newsletters": [
     {
-      "date": "2026-02-10",
+      "date": "2026-02-11",
       "articles": [
         {
           "source": "DWDL",
-          "title": "waipu.tv und Sony Pictures schließen Content-Partnerschaft",
-          "link": "https://www.dwdl.de/nachrichten/105466/waiputv_und_sony_pictures_schliessen_contentpartnerschaft/",
-          "summary": "waipu.tv hat eine Content-Partnerschaft mit Sony Pictures Entertainment Deutschland geschlossen und erweitert sein Angebot um die drei Sender Series Universe, Retro Serien und Movie Universe. Damit stehen der Streaming-Plattform über 250 Filme und 30 Serien mit mehr als 100 Staffeln zur Verfügung, die auch über die \"waiputhek\" abrufbar sind. Das Portfolio umfasst Crime-, Action- und Dramaserien wie \"Justified\" und \"The Shield\" sowie Klassiker wie \"Dawson's Creek\" und zahlreiche Kinofilme aus der Sony Pictures-Bibliothek.",
+          "title": "Notfalleinsätze bei RTL nach Entlassungen? Burkard rudert zurück",
+          "link": "https://www.dwdl.de/nachrichten/105482/notfalleinsaetze_bei_rtl_nach_entlassungen_burkard_rudert_zurueck/",
+          "summary": "RTL-Moderatorin Katja Burkard hat ihre Aussagen über angebliche Notfalleinsätze und Krankenwagen-Einsätze bei der Bekanntgabe der RTL-Umstrukturierungen zurückgenommen und sich öffentlich entschuldigt. Sie räumte ein, Gerüchte weitergegeben zu haben, die sie nicht selbst verifiziert hatte, was intern bei RTL für erhebliche Unruhe sorgte. Der Vorfall ereignete sich im Kontext des geplanten Stellenabbaus von 600 Arbeitsplätzen bei RTL Deutschland aufgrund rückläufiger TV-Werbeeinnahmen.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Solmaz Azizi wechselt von Studio Zentral zu Zentropa",
-          "link": "https://www.dwdl.de/nachrichten/105465/solmaz_azizi_wechselt_von_studio_zentral_zu_zentropa/",
-          "summary": "Solmaz Azizi übernimmt zum 1. September die Geschäftsführung der deutschen Zentropa-Dependance und folgt damit auf Fabian Gasmia, der die Position seit 2015 innehatte. Die bisherige Studio Zentral-Produzentin und ehemalige Berlinale-Programmmanagerin soll die lokalen Produktionen der skandinavischen Produktionsfirma verantworten und internationale Koproduktionen ausbauen. Zentropa, mitgegründet von Lars von Trier, will damit seine Aktivitäten in Deutschland verstärken.",
+          "title": "Zweite Staffel von \"Die Zweiflers\" erhält hohe Förderung aus NRW",
+          "link": "https://www.dwdl.de/nachrichten/105474/zweite_staffel_von_die_zweiflers_erhaelt_hohe_foerderung_aus_nrw/",
+          "summary": "Die zweite Staffel von \"Die Zweiflers\" (ARD Degeto/Turbokultur) erhält 1,5 Millionen Euro Förderung von der Film- und Medienstiftung NRW und hat damit bereits insgesamt über 4,5 Millionen Euro an Fördermitteln gesichert. In der ersten Förderrunde 2026 wurden insgesamt 30 Projekte mit 11,5 Millionen Euro bedacht, darunter auch die neue ARD-Serie \"Siebzehn\" (1,4 Mio. Euro) und die ZDF-Dokuserie \"Pötte in den Pott\" über BVB und Schalke (300.000 Euro).",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "ZDF holt die \"Küchenschlacht\" erneut in die Primetime",
+          "link": "https://www.dwdl.de/nachrichten/105476/zdf_holt_die_kuechenschlacht_erneut_in_die_primetime/",
+          "summary": "Das ZDF programmiert am 15. April und 27. Mai zwei weitere Primetime-Ausgaben der \"Küchenschlacht XXL\" um 20:15 Uhr mit Moderatorin Zora Klipp. Die erste Primetime-Premiere im Herbst erzielte mit 2,44 Millionen Zuschauern und 11,7% Marktanteil solide, aber deutlich schwächere Quoten als der Daytime-Sendeplatz (über 18% MA). Das Format bleibt damit ein Experiment zwischen erfolgreichem Daytime-Slot und noch ausbaufähiger Primetime-Performance.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "ProSieben holt Mischke, Wilmsdorff und Zervakis zurück",
+          "link": "https://www.dwdl.de/nachrichten/105473/prosieben_holt_mischke_wilmsdorff_und_zervakis_zurueck/",
+          "summary": "ProSieben programmiert im März 2026 verstärkt auf Reportagen und holt dafür die bewährten Gesichter Thilo Mischke, Jenke von Wilmsdorff und Linda Zervakis zurück - mit Themen von Trump-Analyse über chinesische Triaden bis hin zur deutschen Wirtschaft. Parallel startet auf Joyn am 8. März die dritte Staffel von \"The Race\" als Team-Staffel, nun produziert von studio flitz.",
           "score": 9
         },
         {
           "source": "DWDL",
-          "title": "Giordanis Reset: Analyse statt Anarchie bei ProSiebenSat.1",
-          "link": "https://www.dwdl.de/nachrichten/105462/giordanis_reset_analyse_statt_anarchie_bei_prosiebensat1/",
-          "summary": "Der neue ProSiebenSat.1-CEO Marco Giordani und sein Vorstand präsentierten sich erstmals öffentlich und hinterlassen den Eindruck einer neuen Sachlichkeit nach den dysfunktionalen Strukturen der Vergangenheit. Die Übernahme durch MediaForEurope (MFE) wird ernst genommen, da das Schicksal des Berlusconi-Konzerns nun maßgeblich an der Performance von ProSiebenSat.1 hängt. Giordanis erste öffentliche Auftritte signalisieren einen strategischen Neuanfang mit analytischem Ansatz statt der befürchteten \"Zirkus\"-Mentalität.",
+          "title": "ARD und ZDF sollen 152 Millionen für WM-Rechte zahlen",
+          "link": "https://www.dwdl.de/nachrichten/105471/ard_und_zdf_sollen_152_millionen_fuer_wmrechte_zahlen/",
+          "summary": "ARD und ZDF zahlen nach Medienberichten gemeinsam rund 152 Millionen Euro an die Deutsche Telekom für Sublizenzen zur Übertragung von 60 Spielen der Fußball-WM 2026 in Nordamerika. Während MagentaTV alle 104 Spiele des erweiterten Turniers zeigt, sichern sich die Öffentlich-Rechtlichen damit die wichtigsten Partien inklusive aller deutschen Spiele, Eröffnung, Halbfinals und Finale. Die hohen Kosten dürften erneut Diskussionen über die Sportausgaben der öffentlich-rechtlichen Sender befeuern.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Überraschender Rückzug: Frömsdorf verlässt ProSiebenSat.1",
+          "link": "https://www.dwdl.de/nachrichten/105468/ueberraschender_rueckzug_froemsdorf_verlaesst_prosiebensat1/",
+          "summary": "Katharina Frömsdorf, seit 20 Jahren bei ProSiebenSat.1 und zuletzt Chief Transformation Officer sowie Geschäftsführerin der Seven.One Entertainment Group, verlässt das Unternehmen \"im besten gegenseitigen Einvernehmen\". In ihrer Rolle verantwortete sie u.a. Content Operations, New Business, Studio71 und den HR-Bereich, wobei letzterer künftig von Marc Elbers übernommen wird. Der Abgang erfolgt zeitgleich mit der strategischen Neuausrichtung unter CEO Marco Giordani, der lineare Sender wieder zur \"klaren Priorität\" erklärt hat.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "ITV Studios Germany stellt den Fiction-Bereich ein",
+          "link": "https://www.dwdl.de/nachrichten/105458/itv_studios_germany_stellt_den_fictionbereich_ein/",
+          "summary": "ITV Studios Germany stellt aufgrund der schwierigen Marktbedingungen im deutschen Fiction-Bereich die gesamte Sparte ein, womit vier Mitarbeitende um Head of Fiction Jana Kaun betroffen sind. Als Hauptgründe nennt Geschäftsführerin Christiane Ruff hohe Entwicklungskosten in Kombination mit langwierigen Entscheidungsprozessen. Das Unternehmen konzentriert sich künftig ausschließlich auf non-fiktionale Unterhaltung wie \"Ich bin ein Star - holt mich hier raus\".",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Konkurrenz mit Netflix: Paramount zu weiteren Zahlungen für Warner-Deal bereit",
+          "link": "https://www.horizont.net/medien/nachrichten/konkurrenz-mit-netflix-paramount-zu-weiteren-zahlungen-fuer-warner-deal-bereit-233127?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Paramount intensiviert seine Bemühungen um die Übernahme von Warner Brothers und bietet an, eine Ausstiegsklausel in Höhe von 2,8 Milliarden Dollar zu übernehmen, die Warner an Netflix zahlen müsste, sollte der bereits vereinbarte Deal mit dem Streaming-Dienst aufgelöst werden. Das Angebot unterstreicht Paramounts Entschlossenheit im Bieterwettstreit um das traditionsreiche Hollywood-Studio gegen die starke Konkurrenz durch Netflix.",
           "score": 9
         },
         {
-          "source": "DWDL",
-          "title": "Werbeturbo gezündet: Ferrero feuert aus allen Rohren",
-          "link": "https://www.dwdl.de/aeos/105460/werbeturbo_gezuendet_ferrero_feuert_aus_allen_rohren/",
-          "summary": "Ferrero hat mit seiner Marke Kinder in der Woche vom 26. Januar bis 1. Februar 2026 erneut das TV-Werberanking angeführt und dabei die Kampagnenintensität massiv gesteigert: Mit 1.730 Spots erreichte das Unternehmen eine Bruttoreichweite von 1.200 XRP bei einem Bruttowerbewert von 8,5 Millionen Euro. Die Spots für die gesamte Kinder-Produktpalette wurden primär auf den großen Sendern von Seven.One Media und Ad Alliance (fast 80% der Ausstrahlungen) platziert, wobei ProSieben (16,1%), Sat.1 (12,6%) und RTL (10,1%) die höchsten Anteile erhielten.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Mona Zorob steigt bei Magic Connection zur CCO auf",
-          "link": "https://www.dwdl.de/nachrichten/105459/mona_zorob_steigt_bei_magic_connection_zur_cco_auf/",
-          "summary": "Die All3Media-Tochter Magic Connection hat Mona Zorob zur Chief Creative Officer (CCO) ernannt, wo sie die kreative Ausrichtung der Agentur mit Fokus auf Social Media & PR verantwortet. Zorob, die zuvor als Head of Social Media & Online tätig war und unter anderem den Social-Media-Auftritt von \"Berlin - Tag & Nacht\" betreute, hat bereits erfolgreich Kampagnen für Kunden wie Mangal x Lukas Podolski und RTL umgesetzt. Die Beförderung würdigt ihre Erfolge beim Aufbau der Social Media Unit und soll ihr mehr Raum für die übergreifende Entwicklung verschiedener Geschäftsbereiche geben.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Neuaufstellung: Saxonia Media setzt auf drei Säulen",
-          "link": "https://www.dwdl.de/nachrichten/105457/neuaufstellung_saxonia_media_setzt_auf_drei_saeulen/",
-          "summary": "Die Bavaria-Tochter Saxonia Media strukturiert sich in drei strategische Säulen um: lineare Erfolgsformate wie \"In aller Freundschaft\", New Development für Streaming/Linear unter Anette Kraska und das neu ausgerichtete Label \"Red Pony\" für innovative Formate im Emerging Content-Bereich. Ziel ist die Stärkung bestehender linearer Formate bei gleichzeitiger Entwicklung zukunftsweisender Streaming-Inhalte und Creator-getriebenen Contents. Das Drei-Säulen-Modell soll Saxonia Media für die digitale Transformation der Medienlandschaft positionieren.",
-          "score": 8
-        },
-        {
           "source": "Horizont Medien",
-          "title": "Studie von Seven.One Audio: Wieso News-Podcasts hierzulande am beliebtesten sind",
-          "link": "https://www.horizont.net/medien/nachrichten/studie-von-seven.one-audio-wieso-news-podcasts-hierzulande-am-beliebtesten-sind-233098?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Eine aktuelle Studie von Seven.One Audio zeigt, dass News-Podcasts 2025 das beliebteste Podcast-Genre in Deutschland sind. Der Erfolg wird darauf zurückgeführt, dass Menschen in unsicheren Zeiten nach verlässlicher Einordnung und Orientierung bei komplexen Nachrichtenlagen suchen.",
+          "title": "Pro Sieben Sat 1: &quot;Germany&#039;s Next Topmodel&quot;: Diese Marken laufen mit Heidis Models über den Laufsteg",
+          "link": "https://www.horizont.net/medien/nachrichten/pro-sieben-sat-1-germanys-next-topmodel-diese-marken-laufen-mit-heidis-models-ueber-den-laufsteg-233120?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Pro Sieben Sat.1 startet die 21. Staffel von \"Germany's Next Topmodel\" mit einem außergewöhnlich starken Sponsoren-Portfolio, das von Seven.One Media vermarktet wird. Vier neue Marken kommen als Sponsoren hinzu und erweitern damit das bereits etablierte Werbekunden-Lineup der erfolgreichen Castingshow.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "TV-Quoten: RTL räumt mit &quot;IBES&quot; und dem Super Bowl ab, das ZDF mit Olympia",
-          "link": "https://www.horizont.net/medien/nachrichten/tv-quoten-rtl-raeumt-mit-ibes-und-dem-super-bowl-ab-das-zdf-mit-olympia-233095?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "RTL dominierte am Sonntag die junge Zielgruppe durch das IBES-Finale (bis zu 5,75 Mio. Zuschauer) und den Super Bowl, während das ZDF dank der Olympischen Winterspiele den höchsten Tagesmarktanteil erzielte. Der ARD-\"Tatort\" führte zur Primetime beim Gesamtpublikum mit 7,31 Millionen Zuschauern (26,3 Prozent), musste sich bei den Jüngeren aber hinter IBES und Olympia einordnen.",
+          "title": "Chief Transformation Officer: Katharina Frömsdorf verlässt Pro Sieben Sat 1",
+          "link": "https://www.horizont.net/medien/nachrichten/medienkonzern-katharina-froemsdorf-verlaesst-pro-sieben-sat-1-233114?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Katharina Frömsdorf, Chief Transformation Officer bei ProSiebenSat.1, verlässt nach rund 20 Jahren den Medienkonzern, um sich neuen beruflichen Herausforderungen zu widmen. Als zentrale Strategin war sie maßgeblich am Aufbau der Streaming-Plattform Joyn beteiligt und prägte damit ein wichtiges digitales Kapitel des Unternehmens.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Connected TV: Teads gewinnt Google TV als Partner",
+          "link": "https://www.horizont.net/medien/nachrichten/connected-tv-teads-gewinnt-google-tv-als-partner-233100?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Teads hat eine Partnerschaft mit Google TV geschlossen und erhält dadurch Zugriff auf Werbeinventar der Homescreens von Google-TV-Geräten. Durch diese Kooperation steigt die technische Reichweite des Homescreen-Inventars von Teads auf 500 Millionen Geräte. Die Partnerschaft erweitert Teads' Connected TV-Angebot im Open-Web-Bereich erheblich.",
           "score": 8
         },
         {
           "source": "kress",
-          "title": "Hass, Hoyer, Lachman, Zimmer: Was kann die neue Spiegel-Führung? Mit dem Weggang des strategischen Vordenkers Stefan Ottlitz steht der Spiegel vor einem Neuanfang an der Spitze. Was kann die neue Führungsriege leisten",
-          "link": "https://kress.de/news/beitrag/152142-hass-hoyer-lachman-zimmer-was-kann-die-neue-spiegel-fuehrung.html",
-          "summary": "Nach dem Weggang des strategischen Vordenkers Stefan Ottlitz steht der Spiegel vor einem Führungsvakuum, obwohl unter dessen Ägide 67 Millionen Euro an digitalen Vertriebserlösen erzielt wurden. Die neue Führungsriege um Thomas Hass wird kritisch beäugt - insbesondere Hass fehle es an strategischer Vision für die digitale Transformation, trotz seiner langjährigen Erfahrung im Vertrieb und seiner Verankerung in der Mitarbeiter-KG. Der Verlag droht nun in ein \"strategisches Loch\" zu fallen, da die verbliebene Führung möglicherweise nicht über die nötige digitale Kompetenz verfügt.",
-          "score": 8
+          "title": "kress Awards: Die besten TV-Manager der Branche Welche Führungskräfte haben 2025 besonders überzeugt",
+          "link": "https://kress.de/news/beitrag/152146-kress-awards-die-besten-tv-manager-der-branche.html",
+          "summary": "Christian Seifert von Dyn Media wurde bei den kress Awards 2025 als TV-Manager des Jahres ausgezeichnet. Der Ex-Chef der Deutschen Fußball Liga baute innerhalb von drei Jahren erfolgreich einen zeitgemäßen Sport-Streaming-Dienst auf, nachdem er anfänglich in der Branche belächelt wurde. Die kress Awards würdigen zum zehnten Mal Führungskräfte, die der Medienbranche durch außergewöhnliche Leistungen Zukunftsperspektiven geben.",
+          "score": 7
         },
         {
           "source": "kress",
-          "title": "Schlütersche Mediengruppe trauert um junge Chefredakteurin Sarah Schulz Die Schlütersche Mediengruppe trauert um Sarah Schulz.",
-          "link": "https://kress.de/news/beitrag/152135-schluetersche-mediengruppe-trauert-um-junge-chefredakteurin-sarah-schulz.html",
-          "summary": "Sarah Schulz, 34-jährige Chefredakteurin der Schlüterschen Mediengruppe, ist am 1. Februar 2026 überraschend verstorben. Sie war seit knapp vier Jahren im Unternehmen tätig und verantwortete mehrere Fachmedien im Industriesegment, darunter Protector und International Aluminium Journal. Das Unternehmen würdigt sie als prägende Persönlichkeit und starke Treiberin der Transformation, die auch das Volontärsprogramm entwickelte und betreute.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Ann-Kathrin Metzler gehört zu den Young Leadern 2025 kress präsentiert in einer Serie junge...",
-          "link": "https://kress.de/news/beitrag/152128-ann-kathrin-metzler-gehoert-zu-den-young-leadern-2025.html",
-          "summary": "Ann-Kathrin Metzler (28) wurde von kress zu den \"Young Leaders 2025\" gekürt und arbeitet als Chefin vom Dienst des SWR-Formats \"Mix Talk\" sowie als Redakteurin für ARD-Inhalte auf Twitch. Die Nachwuchsführungskraft entwickelt neue Wege für den direkten Austausch zwischen ARD und Community, nachdem sie zuvor bei RPR1, Podever und der \"Rheinpfalz\" Erfahrungen sammelte. Ihr Ziel ist es, in den nächsten zehn Jahren Strukturen mitzugestalten, die echten Austausch zwischen Medien und Rezipierenden auf Augenhöhe ermöglichen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "tv aus München stärkt ihr Content-Angebot durch eine neue Partnerschaft mit Sony Pictures Entertainment Deutschland.",
-          "link": "https://meedia.de/news/beitrag/21099-sony-startet-drei-neue-sender-auf-waipu-tv.html",
-          "summary": "Die Münchner IPTV-Plattform waipu.tv erweitert durch eine Exklusiv-Partnerschaft mit Sony Pictures Entertainment Deutschland ihr Content-Angebot um drei neue Sender: Series Universe (moderne US-Serien), Retro Serien (TV-Klassiker) und Movie Universe (breites Filmspektrum). Zusätzlich wird die Abrufbibliothek waiputhek um über 250 Filme und 30 Serien mit mehr als 100 Staffeln aus dem Sony-Pictures-Katalog erweitert. Die Kooperation zielt darauf ab, waipu.tv als führende HD-Fernsehen-Plattform zu positionieren.",
+          "title": "ProSiebenSat.1 und Topmanagerin Katharina Frömsdorf trennen sich",
+          "link": "https://kress.de/news/beitrag/152144-prosiebensat-1-und-topmanagerin-katharina-froemsdorf-trennen-sich-ist-eine-kursaenderung-der-grund.html",
+          "summary": "ProSiebenSat.1 und Topmanagerin Katharina Frömsdorf trennen sich nach weniger als einem Jahr in ihrer Rolle als Chief Transformation Officer \"im besten gegenseitigen Einvernehmen\". Der Abgang erfolgt zeitgleich mit einem strategischen Kurswechsel des neuen CEO Marco Giordani, der die linearen Sender wieder zur \"klaren Priorität\" erklärt und damit von der bisherigen Streaming-fokussierten Strategie abrückt. Frömsdorf hatte 20 Jahre bei dem Medienkonzern gearbeitet und maßgeblich neue Geschäftsfelder wie Podcasts, Influencer-Business und die Streaming-Plattform Joyn aufgebaut.",
           "score": 8
         },
         {
           "source": "meedia",
-          "title": "Video Daily: TV-Quoten & Streaming-Charts 6 Millionen sehen Philipp Raimunds Olympiasieg im Skispringen Das zweite Gold für das deutsche Team bei den Olympischen Winterspielen hat dem Ersten am Montagabend grandiose Quoten beschert. 6,02 Millionen Fans sahen ab 20.15 Uhr den zweiten Durchgang im Skispringen von der Normalschanze mit Philipp Raimund als Sieger. Damit gewann der Wettbewerb die 20.15-Uhr-Wertung vor dem ZDF-Krimi \"Die Frau ohne Gesicht\". RTL holte nochmal gute Zahlen mit dem \"großen Wiedersehen\" zu \"Ich bin ein Star",
-          "link": "https://meedia.de/news/beitrag/21098-6-millionen-sehen-philipp-raimunds-olympiasieg-im-skispringen.html",
-          "summary": "Das Erste erzielte am Montagabend mit Philipp Raimunds Olympiasieg im Skispringen herausragende Quoten: 6,02 Millionen Zuschauer verfolgten ab 20.15 Uhr den entscheidenden zweiten Durchgang (23,2% Marktanteil), womit die Übertragung sowohl gegen das ZDF-Programm als auch RTL die Prime Time gewann. Bereits der erste Durchgang ab 19 Uhr erreichte 5,38 Millionen Zuschauer (25,7% Marktanteil), während die gesamte Olympia-Berichterstattung des Tages durchgehend starke Quoten zwischen 18% und 30,4% Marktanteil erzielte.",
-          "score": 7
+          "title": "Zusätzliche Zahlungen für Aktionäre Paramount bessert Kaufangebot für Warner nach Im Ringen um den Medienkonzern Warner Bros.",
+          "link": "https://meedia.de/news/beitrag/21108-paramount-bessert-kaufangebot-fuer-warner-nach.html",
+          "summary": "Paramount Skydance hat sein Übernahmeangebot für Warner Bros. Discovery auf 108,4 Milliarden Dollar nachgebessert und bietet den Aktionären zusätzliche Kompensationszahlungen, falls die Transaktion bis Ende 2026 nicht abgeschlossen wird. Netflix führt derzeit mit einem bereits vom Warner-Verwaltungsrat akzeptierten 82,7-Milliarden-Dollar-Angebot für die Studios und HBO Max, während Paramount den gesamten Konzern inklusive TV-Sender wie CNN übernehmen will. Die Übernahmeschlacht hat auch politische Dimensionen, da Trump-Unterstützer Larry Ellison hinter Paramount steht und der künftige Präsident einen Besitzerwechsel bei CNN fordert.",
+          "score": 9
         },
         {
           "source": "meedia",
-          "title": "Haben sich Google und Amazon verzockt? Im globalen Wettlauf um die Vorherrschaft in der künstlichen...",
-          "link": "https://meedia.de/news/beitrag/21096-ki-investitionen-haben-sich-google-und-amazon-verzockt.html",
-          "summary": "Amazon und Google führen das KI-Wettrennen mit Rekordinvestitionen an - Amazon plant 200 Milliarden US-Dollar für 2026, Google 175-185 Milliarden für Rechenzentren und KI-Infrastruktur. Die Kapitalmärkte reagieren jedoch skeptisch auf diese massiven Ausgaben: Alphabet-Aktien fielen um 10%, Amazon um 16%, während Anleger Sorgen über dauerhaft hohe Kosten und eine mögliche KI-Blase äußern. Alle BigTech-Aktien notieren aktuell im Minus, was eine grundlegende Neubewertung der KI-Investitionsstrategien signalisiert.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Studie von Seven.One Audio News-Podcasts sind das meistgehörte Genre Die politisch bewegten Zeiten...",
-          "link": "https://meedia.de/news/beitrag/21094-news-podcasts-sind-das-meistgehoerte-genre.html",
-          "summary": "Laut der Podcast-News-Studie 2026 von Seven.One Audio sind News-Podcasts mit 28% Anteil an den monatlichen Plays das meistgehörte Genre und verzeichneten einen Anstieg um 12% auf 191 Millionen Plays. Die Hörerschaft unterscheidet sich demografisch deutlich: Sie ist überdurchschnittlich männlich (58%), älter (25% der 60-69-Jährigen vs. 13% der 18-29-Jährigen), gebildeter und einkommensstärker als bei anderen Podcast-Genres. Inhaltlich dominierten politische und gesellschaftlich relevante Themen die wöchentliche Berichterstattung im News-Segment.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Clare Mackintosh’s Crime Thriller ‘It’s Not What You Think’ Coming To TV After ‘Death In Paradise’ Producer Red Planet Wins Rights Auction",
-          "link": "https://deadline.com/2026/02/its-not-what-you-think-tv-drama-clare-mackintosh-red-planet-1236713038/",
-          "summary": "Red Planet Pictures hat sich die TV-Rechte an Clare Mackintoshs kommendem Roman \"It's Not What You Think\" in einer umkämpften Auktion gesichert, wobei Kam Odedra (Hijack, Lupin) die Adaption übernehmen wird. Der im März erscheinende Thriller der ehemaligen Polizistin und Sunday Times-Bestsellerautorin folgt zwei Frauen bei parallelen Ermittlungen nach einem Mord. Red Planet, bekannt für Produktionen wie \"Death In Paradise\", setzte sich gegen mehrere Konkurrenten durch, was die hohe Nachfrage nach Mackintoshs Werken widerspiegelt.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Love Island’ Producer Lifted Restructures, Promotes Richard Cowles & Hires BBC Entertainment Exec",
-          "link": "https://deadline.com/2026/02/love-island-lifted-restructures-promotes-richard-cowles-1236714047/",
-          "summary": "Lifted Entertainment, der ITV Studios-Produzent von \"Love Island\" und \"I'm a Celebrity\", hat eine umfassende Umstrukturierung vorgenommen und Richard Cowles zum CEO ernannt. Das Unternehmen hat BBC-Kommissionierungseditorin Chantal Boyle als Creative Director verpflichtet und mehrere interne Beförderungen durchgeführt, darunter Tom Gould als Chief Content Officer. Die neue Struktur teilt sich in zwei Einheiten auf - eine für aktuelle Shows und eine für neue Geschäftsentwicklung und Kundenerweiterung.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Ex-Beta Cinema Exec Thorsten Ritter Moves Into Production With Weydemann Bros.",
-          "link": "https://deadline.com/2026/02/ex-beta-thorsten-ritter-production-weydemann-bros-1236713540/",
-          "summary": "Thorsten Ritter, langjähriger Executive Vice President bei Beta Cinema (2012-2025), wechselt zu Weydemann Bros. und wird dort das neue Münchner Büro leiten, um die internationalen Produktions- und Koproduktionsaktivitäten der deutschen Produktionsfirma zu stärken. Der Wechsel erfolgt zeitgleich mit Deutschlands verstärkten Bemühungen, sich als internationaler Drehort zu etablieren, unterstützt durch neue Streamer-Verpflichtungen und zusätzliche Fördermittel. Ritter bringt umfangreiche Erfahrung im internationalen Filmvertrieb mit und hatte bereits bei \"System Crasher\" (2019) mit Weydemann Bros. zusammengearbeitet.",
+          "title": "1, der zuletzt unter dem neuen Mehrheitsgesellschafter MFE die Vorstandsetage und weitere Führungsbereiche ausgetauscht hat.",
+          "link": "https://meedia.de/news/beitrag/21105-fruehere-joyn-chefin-katharina-froemsdorf-kehrt-prosiebensat-1-den-ruecken.html",
+          "summary": "Katharina Frömsdorf, langjährige Führungskraft und zuletzt Chief Transformation Officer bei ProSiebenSat.1, verlässt das Unternehmen im gegenseitigen Einvernehmen. Die 47-Jährige prägte maßgeblich die Entwicklung des Streamers Joyn und war zuvor in verschiedenen Führungspositionen tätig, bevor sie 2023 an die Spitze von Joyn wechselte. Ihr Abgang reiht sich in eine Serie von Führungswechseln bei ProSiebenSat.1 unter dem neuen Mehrheitsgesellschafter MFE ein.",
           "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Deregulierung mit Folgen EU will Meta zwingen, WhatsApp für fremde KI-Chatbots zu öffnen Die Europäische Kommission hat dem US-Konzern Meta offiziell mitgeteilt, dass sein Verhalten, nur den eigenen KI-Chatbot in WhatsApp zuzulassen, gegen EU-Wettbewerbsregeln verstoßen könnte. Brüssel drängt darauf, dass Drittanbieter ihre KI-Assistenten ebenfalls über den Messenger anbieten dürfen",
+          "link": "https://meedia.de/news/beitrag/21104-eu-will-meta-zwingen-whatsapp-fuer-fremde-ki-chatbots-zu-oeffnen.html",
+          "summary": "Die EU-Kommission hat Meta offiziell mitgeteilt, dass die Exklusivschaltung des eigenen KI-Chatbots \"Meta AI\" in WhatsApp gegen EU-Wettbewerbsregeln und den Digital Markets Act verstoßen könnte. Brüssel fordert, dass Drittanbieter wie ChatGPT ebenfalls Zugang zur Plattform erhalten, und droht bei Verweigerung mit Zwangsmaßnahmen und Geldstrafen. Der Fall wirft grundlegende Fragen zur Öffnung von Plattformökosystemen und fairen Wettbewerbsbedingungen im KI-Bereich auf.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Der Kampf um den Homescreen ist in vollem Gange Teads erweitert sein Connected-TV-Angebot durch...",
+          "link": "https://meedia.de/news/beitrag/21102-teads-vermarktet-google-tv-der-kampf-um-den-homescreen-ist-in-vollem-gange.html",
+          "summary": "Teads erweitert sein Connected-TV-Angebot durch eine Partnerschaft mit Google TV und erreicht damit über 500 Millionen TV-Geräte weltweit, wodurch Marken Zugang zur hochfrequentierten Homescreen-Werbefläche \"TV Masthead\" erhalten. Der Homescreen wird zum zentralen Dreh- und Angelpunkt der Customer Journey, da Nutzer dort ihre TV-Erfahrung starten und zur Navigation zurückkehren. Diese Platzierung bietet Werbungtreibenden eine aufmerksamkeitsstarke Alternative zum linearen Werbeblock ohne Ad Clutter.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Sky Lands Disney+ & New Disney Cinema Channel After Striking Multi-Year Deal With Mouse House",
+          "link": "https://deadline.com/2026/02/disney-sky-deal-disney-cinema-channel-integration-1236714218/",
+          "summary": "Disney und Sky haben einen mehrjährigen Vertrag geschlossen, der Disney+ Standard mit Ads (£5.99/Monat) ab März 2026 in ausgewählte Sky TV-Pakete integriert und einen neuen linearen Disney Cinema-Kanal für Sky Cinema-Abonnenten einführt. Der Deal erweitert Disneys Reichweite in Großbritannien um etwa 40% der Haushalte und ergänzt Sky's Streaming-Portfolio um Disney+ neben bereits verfügbaren Diensten wie HBO Max und Netflix. Disney Cinema startet mit rund 50 Pay-2-Filmen, die typischerweise 12 Monate nach Disney+-Debüt verfügbar werden, mit wöchentlichen Updates von mindestens zwei neuen Titeln.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Louis Theroux Confirms Netflix Manosphere Documentary & Opens Mindhouse Podcast Division, As He Addresses Bob Vylan Pod Criticism: “I’m Willing To Have Difficult Conversations & Long May It Continue”",
+          "link": "https://deadline.com/2026/02/louis-theroux-inside-manosphere-adolescence-doc-bob-vylan-1236711225/",
+          "summary": "Louis Theroux veröffentlicht am 11. März eine 90-minütige Netflix-Dokumentation \"Inside the Manosphere\", in der er Figuren wie Andrew Tate und andere einflussreiche Persönlichkeiten der Männerrechtsbewegung untersucht. Seine Produktionsfirma Mindhouse Productions startet zudem eine Podcast-Sparte, um den TV-Kommissionierungsprozess zu umgehen. Theroux beschreibt die ungewöhnliche Erfahrung, während der Dreharbeiten selbst zum Content seiner Protagonisten auf Social Media zu werden.",
+          "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Casey Wasserman Faces Artist Rebellion Amid Epstein Fallout",
-          "link": "https://www.hollywoodreporter.com/business/business-news/casey-wasserman-epstein-fallout-1236500784/",
-          "summary": "Casey Wasserman, Gründer und Chef der gleichnamigen Musik- und Sport-Agentur, sieht sich einer Künstler-Revolte gegenüber, nachdem er in kürzlich veröffentlichten Justizministerium-Dokumenten im Zusammenhang mit dem verurteilten Sexualstraftäter Jeffrey Epstein genannt wurde. Mehrere prominente Künstler, darunter Best Coast, Beach Bunny, Wednesday und Chappell Roan, haben öffentlich seinen Rücktritt gefordert und ihre Verträge mit der Agentur gekündigt. Die Künstler begründen ihre Entscheidungen damit, dass eine weitere Zusammenarbeit mit Wasserman ihren moralischen Werten widerspreche.",
-          "score": 8
+          "title": "Disney+ and Sky Ink Multi-Year Deal in U.K. and Ireland",
+          "link": "https://www.hollywoodreporter.com/business/business-news/sky-and-disney-ink-multi-year-deal-in-uk-ireland-1236500397/",
+          "summary": "Disney+ und Sky haben einen mehrjährigen Vertrag für Großbritannien und Irland abgeschlossen, der ab März 2026 Disney+ Standard mit Werbung in ausgewählte Sky TV-Pakete integriert. Sky Cinema-Abonnenten erhalten zusätzlich exklusiven Zugang zu einem neuen linearen Disney+ Cinema-Kanal. Die Partnerschaft ermöglicht Sky-Kunden direkten Zugriff auf Disney-Inhalte einschließlich Marvel- und Lucasfilm-Produktionen über eine einheitliche Plattform.",
+          "score": 9
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Netflix Exec Predicts “$6 Billion in Job Cuts” if Paramount Buys Warner Bros. Discovery",
-          "link": "https://www.hollywoodreporter.com/business/business-news/massive-layoffs-if-paramount-buys-warner-bros-says-netflix-1236500848/",
-          "summary": "Netflix' Chief Global Affairs Officer Clete Williams warnt vor massiven Arbeitsplatzverlusten im Wert von 6 Milliarden Dollar, sollte Paramount-Skydance Warner Bros. Discovery übernehmen, da dies zu enormen Redundanzen (\"Noah's Ark Problem\") führen würde. Williams argumentiert, dass Netflix' eigener Deal für Warner Bros.' Streaming- und Studio-Geschäft mit nur 2-3 Milliarden Dollar Synergien deutlich weniger Entlassungen zur Folge hätte. Beide Transaktionen stehen derzeit unter behördlicher Prüfung durch das Justizministerium und Generalstaatsanwälte.",
+          "title": "TV Ratings: Super Bowl LX Falls Just Shy of All-Time Record",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/super-bowl-lx-tv-ratings-nbc-bad-bunny-1236500505/",
+          "summary": "Super Bowl LX erreichte 124,93 Millionen Zuschauer und verfehlte damit knapp den Rekord des Vorjahres (127,71 Mio., -2%). NBC erzielte mit 137,8 Millionen Zuschauern einen neuen Peak-Rekord, während Bad Bunnys Halftime Show 128,2 Millionen Zuschauer anzog und in sozialen Medien 4 Milliarden Views in 24 Stunden generierte – doppelt so viele wie im Vorjahr.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Sky Inks Multi-Year Disney+ Distribution Deal, Offers Streaming Bundle With Netflix, HBO Max and Hayu",
+          "link": "https://variety.com/2026/tv/global/sky-disney-plus-deal-uk-bundle-netflix-1236658229/",
+          "summary": "Sky und Disney haben einen mehrjährigen Vertriebsvertrag für Großbritannien und Irland abgeschlossen, der Disney+ (Standard mit Werbung) ab März 2026 kostenlos in verschiedene Sky TV-Abonnements integriert und Sky-Kunden monatlich £5,99 spart. Das Angebot umfasst ein Streaming-Bundle mit Disney+, HBO Max, Netflix und Hayu ab £24 monatlich sowie einen neuen linearen Disney+ Cinema-Kanal. Die Partnerschaft beinhaltet eine tiefere Integration in Sky's Betriebssystem mit gemeinsamen Empfehlungen und \"Weiter schauen\"-Funktionen.",
           "score": 9
         },
         {
           "source": "Variety",
-          "title": "As Chappell Roan and Other Artists Exit, Wasserman Music Agency’s Fate to Be Decided This Week Following Epstein Revelations",
-          "link": "https://variety.com/2026/music/news/wasserman-music-agency-fate-to-be-decided-epstein-revelations-1236657485/",
-          "summary": "Mehrere prominente Künstler, darunter Chappell Roan, verlassen die Wasserman Music Agency, nachdem Details über CEO Casey Wassermans Verbindungen zu Jeffrey Epsteins Umfeld bekannt wurden. Agenten haben Wasserman ein Ultimatum gestellt, zurückzutreten oder das Unternehmen zu verkaufen, was er bisher ablehnte. Diese Woche sollen entscheidende Gespräche mit Führungskräften über das weitere Vorgehen der großen Musikagentur stattfinden.",
-          "score": 8
+          "title": "Southeast Asia Streaming Surges With 19% Growth, Indonesian Content Rivals K-Dramas, Report Finds",
+          "link": "https://variety.com/2026/tv/news/southeast-asia-streaming-growth-indonesian-content-kdramas-1236658051/",
+          "summary": "Der Southeast Asia Streaming-Markt verzeichnete 2025 ein starkes Wachstum von 19% auf über 61 Millionen bezahlte Accounts, angeführt von Indonesien mit 26.9 Millionen Abonnenten. Indonesische Inhalte etablieren sich zunehmend als Konkurrenz zu koreanischen K-Dramas, während lokaler Service Vidio mit 24% Zuwachs das stärkste Wachstum vor Netflix (14%) und iQIYI (10%) erzielte. In gesättigten Märkten wie Malaysia und Singapur fokussieren sich Anbieter auf Nutzeraktivität und Umsatzsteigerung statt Subscriber-Akquise.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "‘Lunchbox,’ ‘Manto’ Producers Back Anshuman Jha, Devashish Makhija EFM Thriller ‘But First, The Burning’ (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/news/lunchbox-producers-anshuman-jha-thriller-1236658436/",
+          "summary": "Roh Films Germany kehrt nach \"The Lunchbox\" (2013) für eine erste lokale Produktion nach Indien zurück und produziert gemeinsam mit First Ray Films India den Noir-Thriller \"But First, The Burning\" unter der Regie von Devashish Makhija mit Anshuman Jha in der Hauptrolle. Der Film folgt zwei Brüdern, die sich eine Identität teilen, wobei ein kleiner Betrug in ein tödliches Spiel der Geheimnisse eskaliert. Produktionsstart ist für Oktober geplant, wobei Frankreichs En Compagnie des Lamas als französischer Co-Produzent bestätigt wurde.",
+          "score": 7
         }
       ]
     }
