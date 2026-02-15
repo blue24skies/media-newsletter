@@ -1,118 +1,76 @@
 {
   "newsletters": [
     {
-      "date": "2026-02-14",
+      "date": "2026-02-15",
       "articles": [
         {
-          "source": "Horizont Medien",
-          "title": "Castingshow startet: Heidi Klum sucht wieder &quot;Germany&#039;s Next Topmodel&quot;",
-          "link": "https://www.horizont.net/medien/nachrichten/castingshow-startet-heidi-klum-sucht-wieder-germanys-next-topmodel-233110?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die 21. Staffel von Heidi Klums Castingshow \"Germany's Next Topmodel\" startet diese Woche mit den offenen Castings. Am Mittwoch beginnt die Ausstrahlung mit den Männer-Castings in Köln, gefolgt von den Frauen-Castings am Donnerstag.",
+          "source": "DWDL",
+          "title": "Kirsten Wiebke Otte erhält Impuls Preis der ARD Degeto",
+          "link": "https://www.dwdl.de/nachrichten/105516/kirsten_wiebke_otte_erhaelt_impuls_preis_der_ard_degeto/",
+          "summary": "Kirsten Wiebke Otte von der HFF München gewann den elften Impuls Preis der ARD Degeto für ihr Exposé \"Friendsmas\", eine romantische Komödie über zwei Endzwanziger, die Weihnachten ohne Familie feiern wollen und sich über eine App finden. Der mit 7.500 Euro dotierte Treatmentauftrag wurde im Rahmen der Berlinale vergeben, wobei das Projekt nun zur Drehbuchentwicklung für den ARD-Sendeplatz \"Endlich Freitag im Ersten\" weitergeführt wird. Die Jury lobte die \"frische, moderne\" Geschichte als warmherzigen generationsübergreifenden Feel-Good-Movie für die Vorweihnachtszeit.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Hager glaubt nicht an Rückkehr zu geregeltem KEF-Verfahren",
+          "link": "https://www.dwdl.de/nachrichten/105515/hager_glaubt_nicht_an_rueckkehr_zu_geregeltem_kefverfahren_/",
+          "summary": "ARD-Vorsitzender Florian Hager zeigt sich skeptisch bezüglich einer Rückkehr zum geregelten KEF-Verfahren, obwohl die Kommission in der kommenden Woche eine reduzierte Beitragsempfehlung von 18,64 Euro (statt ursprünglich 18,94 Euro) für 2027 vorlegen wird. Trotz dieser Kompromisslösung sprechen sich mehrere Länder gegen jede Erhöhung aus, wobei CDU-Politiker in Sachsen und Sachsen-Anhalt sogar eine Fusion von ARD und ZDF fordern. Hager kritisiert die mangelnde politische Unterstützung für den öffentlich-rechtlichen Rundfunk und fordert parteiübergreifenden Schutz des deutschen Mediensystems.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "\"The Kollective\" bei ZDFneo: Bellingcat für Arme",
+          "link": "https://www.dwdl.de/nachrichten/105506/the_kollective_bei_zdfneo_bellingcat_fuer_arme/",
+          "summary": "Die ZDF-Koproduktion \"The Kollective\" bei ZDFneo scheitert als Journalismus-Serie trotz des Anspruchs, an das investigative Recherche-Netzwerk Bellingcat angelehnt zu sein. Die Serie über ein europäisches Rechercheteam, das internationalen Verschwörungen nachgeht, verzettelt sich zwischen verschiedenen Handlungsorten und lieblos verbundenen Geschichten. Der Autor kritisiert das Werk als unrealistische Darstellung investigativen Journalismus, die wenig mit ihrem realen Vorbild gemein hat.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Neues \"Tatort\"-Duo ermittelt auf Münchner Sicherheitskonferenz",
+          "link": "https://www.dwdl.de/nachrichten/105502/neues_tatortduo_ermittelt_auf_muenchner_sicherheitskonferenz/",
+          "summary": "Das neue Münchner \"Tatort\"-Duo Ferdinand Hofer und Carlo Ljubek dreht derzeit seinen zweiten Fall mit dem Arbeitstitel \"Der sichere Tod\", der teilweise auf der echten Münchner Sicherheitskonferenz (13.-15. Februar) produziert wird. In dem für 2027 geplanten Film ermitteln die Kommissare Hammermann und Buvak im Mordfall einer Dolmetscherin und stoßen dabei auf diplomatische Widerstände und abgeschottete Machtzirkel im Konferenzumfeld. Die ungewöhnliche Location der realen Sicherheitskonferenz macht diese Produktion zu einem besonderen \"Tatort\"-Projekt der Tellux Film für den Bayerischen Rundfunk.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Wer stiehlt mir die Show?\" meldet sich im März zurück",
+          "link": "https://www.dwdl.de/nachrichten/105501/wer_stiehlt_mir_die_show_meldet_sich_im_maerz_zurueck/",
+          "summary": "ProSieben bringt \"Wer stiehlt mir die Show?\" ab 8. März 2026 sonntags um 20:15 Uhr mit sechs neuen Folgen zurück, in denen Andrea Petković, Till Reiners und Nico Santos gegen Moderator Joko Winterscheidt antreten. Die vorherige Herbststaffel erreichte knapp über 1 Million Zuschauer bei starken 15+ Prozent Marktanteil in der Zielgruppe 14-49, womit die Show trotz leicht rückläufiger Reichweiten weiterhin erfolgreich für den Sender performt.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "„Die Buchstaben sind nicht das Battlefield der Zukunft“",
-          "link": "https://kress.de/news/beitrag/152166-ard-chef-florian-hager-die-buchstaben-sind-nicht-das-battlefield-der-zukunft.html",
-          "summary": "ARD-Vorsitzender Florian Hager treibt zusammen mit ZDF und Deutschlandradio den Aufbau einer gemeinsamen Open-Source-Infrastruktur für Player, Empfehlungsalgorithmen und KI-Anwendungen voran, um die technologische Abhängigkeit von US-Plattformkonzernen zu reduzieren. Das modulare System basiert auf offenen Standards und Multi-Cloud-Strategien, um digitale Souveränität und kontinuierliche Publikationsfähigkeit zu gewährleisten. Hager kritisiert brancheninterne Abgrenzungsdebatten als \"Sandkastenspielchen\" und betont, dass \"die Buchstaben nicht das Battlefield der Zukunft\" seien.",
+          "title": "Marion Horns beste und schlechteste Entscheidung",
+          "link": "https://kress.de/news/beitrag/152153-marion-horns-beste-und-schlechteste-entscheidung-und-was-sie-ueber-fuehrung-verraet.html",
+          "summary": "Marion Horn, Vorsitzende der Bild-Chefredaktionen, bezeichnet ihre beste Entscheidung als den Umgang mit Kritik an der Bild-Zeitung - diese nicht als Angriff, sondern als Einladung zu sehen und mit Erklärungen statt Rechtfertigungen zu reagieren. Als schlechteste Entscheidung bereut sie, zu lange geglaubt zu haben, dass sich Gerechtigkeit von selbst durchsetzt, und betont die Notwendigkeit, unbequeme Kurse konsequent zu halten.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Ein Grosso für alle? Kartellamt billigt Reformpläne Aus 13 regionalen Monopolisten soll ein zentraler Großhändler werden. Das Bundeskartellamt um Andreas Mundt billigt das Reformmodell",
-          "link": "https://kress.de/news/beitrag/152149-ein-grosso-fuer-alle-kartellamt-billigt-reformplaene.html",
-          "summary": "Das Bundeskartellamt hat die Reform des deutschen Presse-Grosso-Systems genehmigt, bei der die bisherigen 13 regionalen Vertriebsmonopolisten durch einen zentralen Großhändler (Presse-Grosso-Allianz) ersetzt werden sollen. Die Behörde stellte das Verwaltungsverfahren nach wesentlichen Verbesserungen des ursprünglichen Modells ein, nachdem sichergestellt wurde, dass der diskriminierungsfreie Vertrieb für alle Verlage gewährleistet und die bundesweite Verfügbarkeit von Presseprodukten erhalten bleibt. Die Vertriebskonditionen bleiben bis Ende 2030 stabil.",
+          "title": "Sophie-Theres Guggenberger wechselt von Axel Springer zur Falling Walls Foundation Bis vergangenes...",
+          "link": "https://kress.de/news/beitrag/152154-exklusiv-sophie-theres-guggenberger-wechselt-von-axel-springer-zur-falling-walls-foundation.html",
+          "summary": "Sophie-Theres Guggenberger wechselt seit Januar 2026 von Axel Springer zur Falling Walls Foundation, wo sie als Director Communications die strategische Kommunikation mit Fokus auf Wissenschaftskommunikation und internationale Sichtbarkeit verantwortet. Die Stelle wurde neu geschaffen, um die globale Reichweite der renommierten Wissenschafts- und Innovationsplattform zu stärken. Guggenberger bringt umfangreiche Erfahrungen aus Journalismus und strategischer Kommunikation bei Unternehmen wie Axel Springer, ProSiebenSat.1 und Rocket Internet mit.",
           "score": 7
         },
         {
-          "source": "meedia",
-          "title": "ARD-Chef Florian Hager über Reformen, Angriffe und Big Tech \"Was wir betreiben, sind...",
-          "link": "https://meedia.de/news/beitrag/21127-quot-was-wir-betreiben-sind-sandkastenspielchen-bei-denen-wir-uns-immer-noch-gegenseitig-die-foermchen-klauen-und-hinten-kommt-der-bulldozer-und-raeumt-den-ganzen-sandkasten-weg-quot.html",
-          "summary": "ARD-Vorsitzender Florian Hager sieht sich mit anhaltenden politischen Angriffen, der laufenden Rundfunkreform und der Dominanz großer Tech-Konzerne in der digitalen Medienlandschaft konfrontiert. Der seit 2025 amtierende Verbundschef wünscht sich mehr politische Unterstützung für den öffentlich-rechtlichen Rundfunk. Hager führt die ARD mit einem zurückhaltenderen Kommunikationsstil als seine Vorgänger und bringt Erfahrungen aus seiner Zeit bei Arte, als ARD-Programmdirektor und als Gründungsgeschäftsführer von Funk mit.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "\"Kosmisch komisch\" BR startet Comedy-Frühjahrsoffensive mit fünf Reihen Das Bayerischer Rundfunk...",
-          "link": "https://meedia.de/news/beitrag/21130-br-startet-comedy-fruehjahrsoffensive-mit-fuenf-reihen.html",
-          "summary": "Der Bayerische Rundfunk startet im März eine Comedy-Offensive mit fünf Formaten unter dem Titel „Kosmisch komisch: Das neue BR Comedy-Versum\", darunter neue Staffeln bestehender Shows und zwei neue Formate. Prominente Comedians wie Michael Mittermeier, Maxi Gstettenbauer, Christine Eixenberger, Michael Altinger und Eva Karl Faltermeier sind beteiligt. Den Auftakt macht am 5. März die zweite Staffel von „Find the Liar, Mittermeier\" mit prominenten Gästen wie Lucki Maurer und Ralf Schmitz.",
+          "source": "kress",
+          "title": "Gentner Verlag übernimmt Fachzeitschrift vom Dr.",
+          "link": "https://kress.de/news/beitrag/152151-gentner-verlag-uebernimmt-fachzeitschrift-vom-dr-curt-haefner-verlag.html",
+          "summary": "Der Stuttgarter Gentner Verlag hat die Fachzeitschrift ErgoMed/Praktische Arbeitsmedizin vom Dr. Curt Haefner-Verlag übernommen, um das Angebot rund um das Flaggschiff ASU zu ergänzen und die Kompetenz in angewandter Arbeitsmedizin und betrieblichem Gesundheitsmanagement zu erweitern. Die sechsmal jährlich erscheinende Zeitschrift (Auflage: 1.300 Exemplare) richtet sich an Betriebsärzte, Gesundheitsmanager und Fachkräfte für Arbeitssicherheit und soll ihre praxisorientierte Ausrichtung beibehalten. Perspektivisch sind Synergien mit bestehenden Fachmedien und eine digitale Erweiterung des Angebots geplant.",
           "score": 7
         },
         {
-          "source": "meedia",
-          "title": "Nach dem geplatzten International-Verkauf Dentsu ernennt neuen globalen CEO",
-          "link": "https://meedia.de/news/beitrag/21129-dentsu-ernennt-neuen-globalen-ceo-hiroshi-igarashi-tritt-zurueck.html",
-          "summary": "Dentsu Group ernennt Takeshi Sano zum neuen globalen CEO als Nachfolger von Hiroshi Igarashi, der nach vier Jahrzehnten im Unternehmen nächsten Monat zurücktritt. Der Führungswechsel erfolgt nach dem gescheiterten Verkauf der internationalen Sparte Anfang des Jahres, der zu einem Aktienkurseinbruch führte. Sano, bisher CEO von Dentsu Japan, soll die digitale Transformation und Wettbewerbsfähigkeit des Konzerns vorantreiben.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Kantar-Studie warnt vor \"Klima-Burnout\" Was Werbungtreibende bei der Markenführung in Krisenzeiten beachten müssen Krieg, wirtschaftliche Unsicherheit und Kriminalität verdrängen das weiterhin brennende Klima-Thema aus den Schlagzeilen, aber aus dem Bewusstsein der Konsumenten trotzdem nicht vollständig. Zu diesem Ergebnis kommt der aktuelle Sustainability Sector Index 2026 von Kantar. Für Marken bedeutet das: Das Thema Nachhaltigkeit",
-          "link": "https://meedia.de/news/beitrag/21128-was-werbungtreibende-bei-der-markenfuehrung-in-krisenzeiten-beachten-muessen.html",
-          "summary": "Kantars Sustainability Sector Index 2026 zeigt, dass trotz eines \"Klima-Burnouts\" bei Konsumenten - verursacht durch die Verdrängung von Umweltthemen durch Krieg, wirtschaftliche Unsicherheit und Kriminalität - die Nachfrage nach nachhaltigen Angeboten stabil bleibt (59% der deutschen Befragten sind offen für umweltfreundliche Marken). Für Werbungtreibende bedeutet dies, dass Nachhaltigkeitskommunikation weiterhin relevant ist, aber sensibler und glaubwürdiger erfolgen muss, um dem anhaltenden Misstrauen gegenüber Greenwashing zu begegnen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Anzeigen bei der Suche EU verdächtigt Google, die Online-Werbepreise künstlich hochzutreiben Der...",
-          "link": "https://meedia.de/news/beitrag/21126-eu-verdaechtigt-google-die-online-werbepreise-kuenstlich-hochzutreiben.html",
-          "summary": "Die EU-Kommission prüft den Verdacht, dass Google die Preise für Online-Werbeanzeigen in Suchauktionen künstlich manipuliert und zu Lasten der Werbetreibenden erhöht hat. Bis Anfang März sammeln die Wettbewerbshüter Einschätzungen von betroffenen Unternehmen, eine formelle Untersuchung läuft jedoch noch nicht. Google weist die Vorwürfe zurück und verweist auf faire Echtzeit-Auktionen, die auf Relevanz und Qualität der Anzeigen basieren.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Die Meinung von Kathleen Mußbach, Ogilvy Social Lab Warum Cross-Posting schnell nach hinten losgehen kann Die Versuchung ist groß: Man hat einen erfolgreichen Inhalt für einen Social-Media-Kanal erstellt und möchte ihn auf anderen Plattformen testen. Das ist ein oft sinnvoller Schritt, um die Reichweite zu maximieren und neue Zielgruppen zu erschließen. Doch nach dem ersten Test ist es entscheidend, ehrlich zur eigenen Strategie zu sein. Die Zeit des blinden Kopierens ist vorbei",
-          "link": "https://meedia.de/news/beitrag/21097-warum-cross-posting-schnell-nach-hinten-losgehen-kann.html",
-          "summary": "Kathleen Mußbach von Ogilvy Social Lab warnt vor blindem Cross-Posting von Social-Media-Inhalten ohne strategische Anpassung an die jeweilige Plattform. Während das Testen erfolgreicher Inhalte auf neuen Kanälen durchaus sinnvoll sein kann, liegt die entscheidende Falle in der mangelnden Analyse der plattformspezifischen Performance und Resonanz. Gedankenlose Duplizierung ohne Berücksichtigung der unterschiedlichen Anforderungen verschiedener Plattformen riskiert nicht nur Reichweitenverluste, sondern kann auch die eigene Community verärgern.",
+          "source": "kress",
+          "title": "Correctiv holt AfD- und Osteuropa-Expertinnen in die Redaktion Mit Silvia Stöber und Lena Köpsell...",
+          "link": "https://kress.de/news/beitrag/152148-correctiv-holt-afd-und-osteuropa-expertinnen-in-die-redaktion.html",
+          "summary": "Correctiv verstärkt seine Redaktion mit zwei Expertinnen: Silvia Stöber wechselt von tagesschau.de als Senior-Reporterin für Osteuropa und Sicherheitspolitik und bringt umfangreiche Erfahrung in der Berichterstattung über Russland und die Ukraine mit. Lena Köpsell ergänzt als Innenpolitik-Reporterin das Team mit Fokus auf AfD-Berichterstattung, insbesondere ein mögliches Verbotsverfahren.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "UK ad agencies undergo their biggest exodus of staff as AI threatens industry",
-          "link": "https://www.theguardian.com/media/2026/feb/13/uk-ad-agencies-biggest-annual-exodus-of-staff-ai-threatens-industry",
-          "summary": "UK-Werbeagenturen verzeichneten 2025 den größten Personalrückgang seit Beginn der Aufzeichnungen mit einem Minus von 14% auf 24.963 Mitarbeiter, wobei kreative Agenturen besonders stark betroffen waren (Rückgang von 14.775 auf 12.659). Der Stellenabbau konzentrierte sich auf jüngere Arbeitnehmer unter 25 Jahren (-19,2%), da KI-Tools zunehmend traditionelle Agentur-Tätigkeiten ersetzen und die Branche zu Kostensenkungen zwingen. WPP, das aus dem FTSE 100 gefallen ist, plant noch in diesem Monat weitreichende Umstrukturierungen seiner Kreativ-Sparten.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Boom time for anti-racist TV: how an £84 bottle of wine triggered an explosion in British broadcasting",
-          "link": "https://www.theguardian.com/tv-and-radio/2026/feb/11/boom-time-anti-racist-tv-constructed-told-spoken-bfi",
-          "summary": "Das British Film Institute präsentiert die Season \"Constructed, Told, Spoken\", die eine vergessene Ära des britischen Fernsehens der 1980er Jahre beleuchtet, als Channel 4 unter Jeremy Isaacs erstmals systematisch ethnischen Minderheiten eine eigene Stimme in der TV-Landschaft gab. Diese radikale Programmwelle, zu der Farrukh Dhondy als Commissioning Editor maßgeblich beitrug, markierte einen Paradigmenwechsel von Assimilations-Narrativen hin zu authentischer multiethnischer Programmgestaltung mit Shows wie \"No Problem!\" und \"Tandoori Nights\". Die Retrospektive wirft die Frage auf, ob die britische Fernsehlandschaft seither in puncto Diversität und anti-rassistische Repräsentation wieder Rückschritte gemacht hat.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Sony Pictures Television To Offer Targeted Buyouts",
-          "link": "https://deadline.com/2026/02/sony-pictures-television-buyouts-1236724697/",
-          "summary": "Sony Pictures Television plant gezielte Abfindungsangebote für Führungskräfte in Bereichen mit geringem Wachstumspotenzial, nachdem zunächst Verwirrung über eine breitere Umstrukturierung entstanden war. Die freiwilligen Buyouts sind Teil der Strategie von CEO Ravi Ahuja, Investitionen auf wachstumsstarke Geschäftsbereiche zu konzentrieren. Dies ist die erste größere Personalmaßnahme seit der Umstrukturierung 2022 unter Katherine Pope.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Tèa Leoni To Star In ‘Newlyweds’ NBC Pilot, Lifting Contingency Off Multi-Camera Comedy From Gail Lerner & Jamie Lee Curtis",
-          "link": "https://deadline.com/2026/02/tea-leoni-newlyweds-nbc-comedy-pilot-jamie-lee-curtis-1236719544/",
-          "summary": "Téa Leoni wird die Hauptrolle in der NBC-Pilot-Sendung \"Newlyweds\" übernehmen, einer Multi-Camera-Comedy von Gail Lerner und Jamie Lee Curtis über eine impulsive Spätheirat zwischen einer freigeistigen Frau und einem konservativen Professor. Leonis Zusage führte zur endgültigen Grünlichterteilung des zuvor cast-abhängigen Projekts, das von Universal Television produziert wird. Dies markiert Leonis Rückkehr zur Multi-Camera-Comedy seit \"The Naked Truth\" in den 1990ern, nachdem sie zuletzt in \"Madam Secretary\" und \"Only Murders in the Building\" zu sehen war.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Jerry Bruckheimer Gives ‘Pirates of the Caribbean’, ‘Top Gun’ Updates: “It’s A Horse Race”",
-          "link": "https://deadline.com/2026/02/jerry-bruckheimer-pirates-of-the-caribbean-top-gun-updates-1236721676/",
-          "summary": "Produzent Jerry Bruckheimer bestätigt die parallele Entwicklung neuer \"Pirates of the Caribbean\"- und \"Top Gun\"-Filme, wobei \"Top Gun\" aktuell leicht im Vorsprung liegt und ein Drehbuch in Kürze erwartet wird. Margot Robbie bleibt für das \"Pirates\"-Franchise im Gespräch, während die nächste \"Pirates\"-Produktion als Reboot konzipiert ist. Tom Cruise arbeitet bereits an Ideen für \"Top Gun 3\" sowie einem \"Days of Thunder\"-Sequel.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Casey Wasserman Will Sell Agency After Epstein Files Controversy: “I Have Become a Distraction”",
-          "link": "https://www.hollywoodreporter.com/music/music-industry-news/casey-wasserman-selling-agency-epstein-files-scandal-1236502827/",
-          "summary": "Casey Wasserman verkauft seine Agentur nach intensiver Kritik von Künstlern wegen seiner Verbindungen zu Jeffrey Epstein, nachdem suggestive E-Mails an Ghislaine Maxwell in den Epstein Files aufgetaucht waren. Hochkarätige Kunden wie Chappell Roan, Orville Peck und Abby Wambach kündigten diese Woche oder drohten mit Kündigung, sollte Wasserman nicht zurücktreten. Wasserman erklärte in einem internen Memo, er sei \"zu einer Ablenkung\" geworden und wolle sich auf die Olympischen Spiele 2028 in Los Angeles konzentrieren, während Präsident Mike Watts den Verkaufsprozess überwacht.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "AI Adoption Rises Among Indian Screenwriters as Pay, Credit Gaps Persist, Tulsea–Ormax Report Finds (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/news/ai-indian-screenwriters-pay-credit-gaps-1236663159/",
-          "summary": "Eine neue Branchenstudie von Tulsea und Ormax Media zeigt, dass 41% der indischen Drehbuchautoren bereits KI-Tools in ihrem Schreibprozess nutzen, wobei die Hälfte KI nicht als Bedrohung für ihre Karriere sieht. Gleichzeitig befürchten 70% der Befragten, dass KI den wahrgenommenen Wert menschlicher Kreativität bei Produzenten mindert, und die Hälfte berichtet von erhöhtem Zeitdruck durch die Erwartung schnellerer Lieferzeiten. Drei Viertel der Autoren sehen KI als hilfreich in frühen Entwicklungsphasen wie Pitches und ersten Entwürfen, während strukturelle Probleme bei Bezahlung und Anerkennung weiterhin bestehen.",
+          "title": "Here’s a key task for the new boss at the BBC: solve the mystery of all the disappearing women | Anne McElvoy",
+          "link": "https://www.theguardian.com/commentisfree/2026/feb/12/bbc-women-female-presenters",
+          "summary": "Ein BBC-eigener Bericht dokumentiert systematische Benachteiligung von Frauen über 60 Jahren im Sender, die deutlich häufiger als gleichaltrige männliche Kollegen ihre Präsentatorenrollen verlieren. Während erfahrene männliche Journalisten wie Trevor Phillips (72) weiterhin prominent senden, gibt es eine \"merkliche Diskrepanz\" in der Behandlung älterer Frauen in News, Content und regionaler Berichterstattung. Die Autorin sieht die Lösung dieser strukturellen Problematik als prioritäre Aufgabe für die neue Geschäftsführung, unabhängig davon ob diese männlich oder weiblich besetzt wird.",
           "score": 7
         }
       ]
