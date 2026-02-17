@@ -1,160 +1,195 @@
 {
   "newsletters": [
     {
-      "date": "2026-02-16",
+      "date": "2026-02-17",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Geschäftsführerin Ulrike Leibfried verlässt UFA Fiction",
-          "link": "https://www.dwdl.de/nachrichten/105530/geschaeftsfuehrerin_ulrike_leibfried_verlaesst_ufa_fiction/",
-          "summary": "Ulrike Leibfried verlässt zum Monatsende nach sechs Jahren die Geschäftsführung von UFA Fiction, um sich wieder ihrer eigenen Produktionsfirma Area 46 zu widmen. Die UFA und Leibfried werden über einen First-Look-Deal weiterhin zusammenarbeiten, wobei sie bereits laufende Projekte wie die Prime Video-Serie \"Game of Keys\" produzentisch begleitet. Laut UFA-CEO Sascha Schwingel hat Leibfried maßgeblich zur strategischen Neuausrichtung und Modernisierung des Unternehmens beigetragen.",
-          "score": 9
+          "title": "Seven.One Studios gründet zentrale KI-Einheit brAInbox",
+          "link": "https://www.dwdl.de/nachrichten/105544/sevenone_studios_gruendet_zentrale_kieinheit_brainbox_/",
+          "summary": "Seven.One Studios hat mit \"brAInbox\" eine zentrale KI-Einheit gegründet, die KI-Technologien konzernweit in den Produktionsalltag aller Tochtergesellschaften implementieren soll. Unter Leitung von Christian Leitz von Ferrari und Markus Untch verfolgt die Einheit ein 4-Säulen-Prinzip aus Trend-Scouting, Workshops, Prozessimplementierung und Workflow-Optimierung. Ziel ist die Positionierung der Seven.One Studios-Produktionsfirmen als Technologieführer durch maßgeschneiderte KI-Anwendungen.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Paypal zahlt Kunden einen Monat lang das HBO Max-Abo",
+          "link": "https://www.dwdl.de/nachrichten/105542/paypal_zahlt_kunden_einen_monat_lang_das_hbo_maxabo/",
+          "summary": "PayPal übernimmt für Neukunden einen Monat lang die Kosten des HBO Max Basic-Abos (5,99 Euro) über ein Cashback-System, wobei das Angebot bis zum 31. März oder für maximal 300.000 Kunden gilt. Die Marketing-Kooperation soll HBO Max beim Deutschland-Launch unterstützen und Premium-Content über den vertrauensvollen Bezahldienst zugänglicher machen.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "WBD erwägt offenbar neue Gespräche mit Paramount",
+          "link": "https://www.dwdl.de/nachrichten/105536/wbd_erwaegt_offenbar_neue_gespraeche_mit_paramount/",
+          "summary": "Warner Bros. Discovery erwägt laut Bloomberg-Bericht eine Wiederaufnahme der Übernahmegespräche mit Paramount, nachdem das Unternehmen sein 108-Milliarden-Dollar-Angebot mit zusätzlichen Verzögerungsprämien (650 Mio. Dollar pro Quartal ab 2027), der Übernahme einer möglichen Netflix-Strafzahlung (2,8 Mrd. Dollar) und Schuldenumschichtungskosten (1,5 Mrd. Dollar) nachgebessert hat. Die Entwicklung würde eine Sensation im laufenden Übernahmepoker zwischen Netflix und Paramount um WBD darstellen, wobei eine finale Entscheidung noch aussteht.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Land der kulturellen Vielfalt\": NRW feiert sich bei der Berlinale",
+          "link": "https://www.dwdl.de/nachrichten/105535/land_der_kulturellen_vielfalt_nrw_feiert_sich_bei_der_berlinale_/",
+          "summary": "NRW feierte bei der Berlinale mit über 1000 Gästen aus Film, Medien, Politik und Kultur das 35-jährige Jubiläum der Film- und Medienstiftung NRW, die am 27. Februar 1991 gegründet wurde. Ministerpräsident Hendrik Wüst betonte dabei die führende Rolle NRWs als größter deutscher Produktionsstandort für Film und Fernsehen. Die Veranstaltung würdigte sowohl NRW-geförderte Produktionen mit Berlinale-Weltpremieren als auch die politische Bedeutung der Filmbranche für Demokratie und gesellschaftlichen Zusammenhalt.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "ZDFneo holt Serie ins Free-TV, die Disney nicht mehr wollte",
+          "link": "https://www.dwdl.de/nachrichten/105532/zdfneo_holt_serie_ins_freetv_die_disney_nicht_mehr_wollte/",
+          "summary": "ZDFneo übernimmt die britisch-australische Abenteuerserie \"Nautilus\" für die Free-TV-Ausstrahlung, nachdem Disney+ das Projekt 2023 aus Kostengründen gestrichen hatte. Die zehn Folgen starten am 27. März in der ZDF-Mediathek und werden am 3./4. April zur Primetime bei ZDFneo ausgestrahlt, nachdem die Serie bereits bei Prime Video UK und AMC USA lief. Die Serie erzählt eine Neuinterpretation der Captain Nemo-Geschichte mit einem U-Boot-Abenteuer im kolonialen Indien der 1850er Jahre.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "ZDF Studios verkauft \"Derrick\" & Co. an ungarischen TV-Sender",
+          "link": "https://www.dwdl.de/nachrichten/105531/zdf_studios_verkauft_derrick__co_an_ungarischen_tvsender/",
+          "summary": "ZDF Studios hat einen mehrjährigen Content-Deal mit dem größten ungarischen Privatsender TV2 über mehr als 1.200 Stunden Drama-Programm abgeschlossen, der Free-TV-, Pay-TV- und VOD-Rechte für Ungarn umfasst. Das Programmpaket beinhaltet Klassiker wie \"Derrick\" und \"Die Schwarzwaldklinik\", romantische TV-Movie-Reihen (\"Rosamunde Pilcher\", \"Inga Lindström\"), Familienserien (\"Unser Charly\") sowie Krimi- und Medical-Dramas (\"SOKO Wien\", \"Der Bergdoktor\"). Der Deal stärkt die bestehende Partnerschaft zwischen den beiden Unternehmen und erweitert TV2s Content-Angebot auf allen Plattformen erheblich.",
+          "score": 8
         },
         {
           "source": "Horizont Medien",
-          "title": "Joint Industry Committees: Weckruf der Agma: Warum Media-JICs unverzichtbar sind",
-          "link": "https://www.horizont.net/medien/kommentare/joint-industry-committees-weckruf-der-agma-wir-muessen-alle-aufstehen-233149?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "HORIZONT prognostizierte das \"Ende der Media-JICs\" für 2026, worauf Agma-Chef Olaf Lassalle mit einem eindringlichen Appell reagiert. Er fordert Medien, Agenturen und Werbungtreibende auf, die Joint Industry Committees zu unterstützen und warnt vor den Konsequenzen einer Welt ohne unabhängige Medienreichweitenmessung.",
+          "title": "Verbände schlagen Alarm: Wie das Privatradio noch zu retten ist",
+          "link": "https://www.horizont.net/medien/nachrichten/verbaende-schlagen-alarm-wie-das-privatradio-noch-zu-retten-ist-233187?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Acht Privatradioverbände aus Deutschland, Österreich und der Schweiz haben in der „Linzer Erklärung\" eine Lockerung der regulatorischen Auflagen gefordert, um dem wachsenden Wettbewerbsdruck durch Big-Tech-Konzerne und rückläufige Werbeerlöse entgegenzuwirken. Das werbefinanzierte Radio kämpft um seine Marktposition gegen die digitale Konkurrenz. Die Politik signalisiert bereits Unterstützung für entsprechende Deregulierungsmaßnahmen.",
           "score": 8
         },
         {
           "source": "kress",
-          "title": "Vier Monate nach Print-Aus: taz verliert weniger Leser als erwartet Nur acht Prozent Auflagenminus laut IVW: Vier Monate nach dem Print-Aus unter der Woche zieht taz-Geschäftsführer Andreas Marggraf eine positive Bilanz",
-          "link": "https://kress.de/news/beitrag/152156-vier-monate-nach-print-aus-taz-verliert-weniger-leser-als-erwartet.html",
-          "summary": "Die taz verzeichnet vier Monate nach der Einstellung der gedruckten Wochentagsausgabe laut IVW nur acht Prozent Auflagenverlust - ein deutlich besseres Ergebnis als erwartet. Die digitale Ausgabe erreicht unter der Woche 33.000 tägliche Verkäufe (davon 31.000 Abos), während die weiterhin gedruckte \"wochentaz\" 45.600 Print- und 33.100 E-Paper-Verkäufe erzielt. Geschäftsführer Andreas Marggraf zieht eine positive Bilanz des als \"Seitenwende\" beworbenen Strategiewechsels der ersten überregionalen deutschen Tageszeitung, die werktags komplett auf Print verzichtet.",
+          "title": "KI-Strategien für Publisher im Praxistest",
+          "link": "https://kress.de/news/beitrag/152143-kress-innovation-day-am-4-maerz-ki-strategien-fuer-publisher-im-praxistest.html",
+          "summary": "Der kress Innovation Day am 4. März 2026 präsentiert praxisorientierte KI-Strategien für Publisher, darunter internationale KI-Trends 2026, \"Agentic Advertising\" im Mediaeinkauf und messbaren KI-Mehrwert in Redaktionen. Die Rheinische Post zeigt konkrete Implementierungsbeispiele von automatisierter Seitenproduktion bis KI-gestütztem Kundendialog, während ein strategischer Impuls die digitale Neuordnung redaktioneller Strukturen statt bloßer Tool-Ergänzung fordert.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Spiegel verliert, Welt bleibt Schlusslicht",
-          "link": "https://kress.de/news/beitrag/152161-spiegel-verliert-welt-bleibt-schlusslicht-frauenanteil-sinkt-auf-37-5-prozent.html",
-          "summary": "Der Frauenanteil in journalistischen Führungspositionen großer deutscher Medien ist erneut auf 37,5 Prozent gesunken (-0,3 Prozentpunkte). Während die taz trotz Rückgangs Spitzenreiterin bleibt (61,3%) und die Süddeutsche Zeitung auf über 50 Prozent zulegt, verliert Der Spiegel deutlich und fällt im Ranking zurück. Besonders problematisch entwickelt sich die Welt mit nur noch 16,7 Prozent Frauenanteil als Schlusslicht.",
+          "title": "Maximilian Schmeckel-Nardozza zählt zu den Young Leaders 2025",
+          "link": "https://kress.de/news/beitrag/152183-maximilian-schmeckel-nardozza-zaehlt-zu-den-young-leaders-2025.html",
+          "summary": "Maximilian Schmeckel-Nardozza (31) wurde von kress pro als einer der \"25 Young Leaders 2025\" ausgezeichnet und ist seit Anfang 2025 als Director Digital beim \"Kicker\" (Olympia-Verlag) für Digital Product und Business-Development verantwortlich. Er baute das Audience-Team auf, lancierte das Paid-Content-Angebot Kicker+ und entwickelte innovative Vertriebskooperationen. Schmeckel-Nardozza fordert mehr Mut in der Medientransformation und stärkere Fokussierung auf begeisternde Inhalte auf den präferierten Nutzerplattformen.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "ARD-Chef Florian Hager: „Die Buchstaben sind nicht das Battlefield der Zukunft“ Florian Hager verschiebt das Spielfeld: Nicht Text, sondern Plattformen, Algorithmen und KI entscheiden künftig über publizistische Relevanz. Die ARD baut deshalb gemeinsam mit ZDF und Deutschlandradio eine Open-Source-Infrastruktur auf",
+          "link": "https://kress.de/news/beitrag/152166-ard-chef-florian-hager-die-buchstaben-sind-nicht-das-battlefield-der-zukunft.html",
+          "summary": "ARD-Vorsitzender Florian Hager treibt gemeinsam mit ZDF und Deutschlandradio den Aufbau einer Open-Source-Infrastruktur für Player, Algorithmen und KI-Anwendungen voran, um technologische Abhängigkeiten von US-Plattformkonzernen zu reduzieren. Die modulare Infrastruktur soll digitale Souveränität durch Multi-Cloud-Strategien und offene Standards gewährleisten, wobei das System grundsätzlich auch für andere Marktteilnehmer anschlussfähig konzipiert wird. Hager betont, dass nicht Inhalte, sondern Plattformen und Algorithmen künftig über publizistische Relevanz entscheiden werden.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "TV-Quoten & Streaming-Charts Eiskunstlauf und Skispringen bescheren dem ZDF Top-Olympia-Quoten Die...",
+          "link": "https://meedia.de/news/beitrag/21138-eiskunstlauf-und-skispringen-bescheren-dem-zdf-top-olympia-quoten.html",
+          "summary": "Das ZDF erzielte am Montag mit den Olympia-Übertragungen von Eiskunstlauf und Skispringen herausragende Prime-Time-Quoten zwischen 5,33 und 6,17 Millionen Zuschauern bei Marktanteilen von 24,2 bis 28,6 Prozent. Die Konkurrenzprogramme \"Karneval in Köln\" (ARD) mit 2,72 Millionen (13,0%) und \"Wer wird Millionär?\" (RTL) mit 2,14 Millionen (9,8%) konnten den Olympia-Übertragungen nicht gefährlich werden.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Nach dem Vorbild von Microsoft Amazon erwägt KI-Marktplatz für Verlagsinhalte Amazon denkt darüber...",
+          "link": "https://meedia.de/news/beitrag/21135-amazon-erwaegt-ki-marktplatz-fuer-verlagsinhalte.html",
+          "summary": "Amazon erwägt nach dem Vorbild von Microsoft die Entwicklung eines Marktplatzes, über den Verlage ihre Inhalte direkt an KI-Unternehmen zum Training von Modellen lizenzieren können. Microsoft hat bereits einen \"Publisher Content Marketplace\" im Pilotstadium gestartet, an dem US-Verlage wie Associated Press, Business Insider und Condé Nast teilnehmen. Diese Initiative soll Verlagen neue Einnahmequellen erschließen und KI-Unternehmen rechtssicheren Zugang zu Premium-Inhalten ermöglichen.",
+          "score": 9
+        },
+        {
+          "source": "meedia",
+          "title": "Target testet das neue ChatGPT-Format Sind KI-Anzeigen die neue Handelswerbung?",
+          "link": "https://meedia.de/news/beitrag/21136-sind-ki-anzeigen-die-neue-handelswerbung.html",
+          "summary": "Target testet gemeinsam mit OpenAI kontextuelle Anzeigenformate direkt im ChatGPT-Chatverlauf, die als \"Sponsored\" gekennzeichnet passend zu Nutzeranfragen nach Einkaufs- oder Produktempfehlungen erscheinen. OpenAI und Google haben beide Werbemöglichkeiten in ihren KI-Chatbots eingeführt, wobei mehrere große Marken bereits erste Tests durchführen. Diese Entwicklung wird als potenziell disruptiv für die Kaufvorbereitung und digitale Werbeökonomie betrachtet.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts Grandioser letzter \"Polizeiruf\" aus Halle gewinnt gegen Olympia Die...",
-          "link": "https://meedia.de/news/beitrag/21131-grandioser-letzter-quot-polizeiruf-quot-aus-halle-gewinnt-gegen-olympia.html",
-          "summary": "Der finale \"Polizeiruf 110\" aus Halle dominierte am Wochenende mit 7,36 Millionen Zuschauern (28,9% MA) das lineare Fernsehen und schlug damit alle Olympia-Übertragungen. Trotz dieser starken Quote beendet der MDR die Krimi-Reihe mit den Ermittlern Koitzsch und Lehmann nach nur drei Filmen. Das ZDF belegte mit Olympia-Inhalten dennoch 21 der Top-25-Plätze, wobei Skeleton und Skispringen-Zusammenfassung die stärksten Übertragungen waren.",
+          "title": "Tools, Prompts, Workflows, Politik Die wichtigsten Nachrichten über Künstliche Intelligenz (KI) in Werbung und Medien Update: Wikipedia sperrt KI aus",
+          "link": "https://meedia.de/news/beitrag/18807-die-wichtigsten-nachrichten-ueber-kuenstliche-intelligenz-ki-in-werbung-und-medien.html",
+          "summary": "MEEDIA sammelt kontinuierlich KI-Nachrichten mit Fokus auf Medien-, Werbe- und Vermarktungsbranche, da künstliche Intelligenz diese Bereiche grundlegend transformiert und neue Geschäftsmodelle sowie Erlösquellen schafft, aber auch Arbeitsplätze gefährdet und juristische Fragen aufwirft. Aktuelle Entwicklungen umfassen Wikipedias KI-Ausschluss und Target's Test von ChatGPT-Anzeigenformaten für den Einzelhandel. Die Berichterstattung deckt Tools, Prompts, Workflows, rechtliche Aspekte und neue Monetarisierungsmöglichkeiten ab.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Gesellschaftliche Aufgabe von Medien und Unternehmen Edelman Trust Barometer: Medien müssen Vertrauen aufbauen, schaffen dies aber kaum Laut dem Edelman Trust Barometer 2026 erwarten die Deutschen von gesellschaftlichen Institutionen, Gräben in der Bevölkerung zu überbrücken",
+          "link": "https://meedia.de/news/beitrag/21134-edelman-trust-barometer-medien-muessen-vertrauen-aufbauen-schaffen-dies-aber-kaum.html",
+          "summary": "Das Edelman Trust Barometer 2026 zeigt eine erhebliche Kluft zwischen gesellschaftlichen Erwartungen an Medien und deren tatsächlicher Erfüllung: Während 73 Prozent der Deutschen erwarten, dass Medien gesellschaftliche Gräben überbrücken, sehen nur 39 Prozent diese Aufgabe als erfüllt an. Das Barometer dokumentiert ein schwindendes Vertrauen in gesellschaftliche Institutionen bei gleichzeitig steigender Erwartungshaltung, dass diese aktiv als \"Trust Broker\" zwischen verschiedenen gesellschaftlichen Gruppen fungieren sollen.",
           "score": 8
         },
         {
           "source": "Guardian Media",
-          "title": "The Guardian view on AI: safety staff departures raise worries about industry pursuing profit at all costs | Editorial",
-          "link": "https://www.theguardian.com/commentisfree/2026/feb/15/the-guardian-view-on-ai-safety-staff-departures-raise-worries-about-industry-pursuing-profit-at-all-costs",
-          "summary": "The Guardian warnt vor einer besorgniserregenden Entwicklung in der KI-Industrie, da führende Sicherheitsforscher ihre Positionen verlassen und kritisieren, dass Unternehmen die Sicherheit zugunsten kurzfristiger Profite vernachlässigen. Besonders problematisch ist die kommerzielle Ausrichtung von KI-Chatbots als Verbraucher-Interface, die durch geplante Werbeintegration und personalisierte Manipulation ähnliche Risiken wie Social Media birgt. Der Artikel fordert dringende Regulierung, bevor die Technologie \"too big to fail\" wird, da selbst ursprünglich zurückhaltende Unternehmen dem Profitdruck nachgeben.",
-          "score": 7
+          "title": "Warner Bros Discovery weighs new sale talks after fresh Paramount offer",
+          "link": "https://www.theguardian.com/film/2026/feb/16/warner-bros-discovery-sale-talks-paramount-offer-netflix",
+          "summary": "Warner Bros Discovery erwägt, Verkaufsgespräche mit Paramount zu erneuern, nachdem Paramount sein feindliches Übernahmeangebot auf 108,4 Milliarden Dollar erhöht und eine \"Ticking Fee\" von 650 Millionen Dollar pro Quartal bei Nichtvollendung bis Jahresende hinzugefügt hat. Dies könnte einen erneuten Bieterwettstreit mit Netflix auslösen, das bereits eine vereinbarte Übernahme von WBD verfolgt. Paramount bietet zusätzlich an, die 2,8 Milliarden Dollar Ausstiegsgebühr an Netflix zu übernehmen und eine milliardenschwere Refinanzierung zu unterstützen.",
+          "score": 10
         },
         {
-          "source": "Guardian Media",
-          "title": "Washington Post editor acknowledges ‘genuine trauma’ over mass layoffs",
-          "link": "https://www.theguardian.com/media/2026/feb/11/washington-post-layoffs-matt-murray",
-          "summary": "Washington Post Chefredakteur Matt Murray räumte bei einer internen Versammlung \"echte Traumata\" nach Massenentlassungen von einem Drittel der Belegschaft ein, verteidigte jedoch die datenbasierte Kürzungsstrategie in besonders betroffenen Bereichen wie Sport, International und Lokales. Murray, der 2024 zur Post kam, bezeichnete das Ausmaß der finanziellen Probleme als \"schockierende Entdeckung\" für das Management, äußerte sich aber zuversichtlich über die zukünftige Ausrichtung des Medienunternehmens.",
+          "source": "Deadline",
+          "title": "Universal International Studios Shutting ‘The Survivors’ Producer Matchbox Pictures After 18 Years",
+          "link": "https://deadline.com/2026/02/universal-international-studios-closes-matchbox-pictures-1236726651/",
+          "summary": "Universal International Studios schließt nach 18 Jahren das australische Produktionshaus Matchbox Pictures, bekannt für Netflix-Serien wie \"The Survivors\" und Emmy-Gewinner \"Safe Harbour\", trotz der Übernahme vor 12 Jahren. Die Entscheidung erfolgt im Kontext neuer australischer Gesetze, die Streaming-Dienste zur Investition in lokale Inhalte verpflichten, sowie strategischer Neuausrichtungen von UIS nach kürzlichen Stellenkürzungen. Auch Tony Ayres Productions, das Unternehmen des Matchbox-Mitgründers, wird infolge der Schließung eingestellt.",
+          "score": 10
+        },
+        {
+          "source": "Deadline",
+          "title": "Scale, Squeezed Middle & Producer Angst: How A Banijay-All3Media Merger Would Impact The TV Distribution Landscape",
+          "link": "https://deadline.com/2026/02/how-banijay-all3media-merger-impact-distribution-landscape-1236717379/",
+          "summary": "Die geplante Fusion zwischen dem französischen Medienriesen Banijay und dem RedBird-eigenen All3Media würde zwei der größten TV-Distributoren zusammenführen und einen Konzern mit mehreren Milliarden Dollar Jahresumsatz schaffen. Die Kombination der Vertriebsarme Banijay Rights und All3Media International würde die Marktlandschaft erheblich verändern und die bereits fortschreitende Polarisierung im Distributionsmarkt weiter verstärken. Branchenexperten sehen die Fusion als unvermeidlich an und betonen, dass sie Teil eines größeren Konsolidierungstrends in der Unterhaltungsindustrie 2026 ist.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Pig & Horse Productions Team Launch Social & AI-Focused Naru Force Studios",
+          "link": "https://deadline.com/2026/02/naru-force-studios-launches-ai-social-media-formats-1236725961/",
+          "summary": "Das Team von Pig & Horse Productions gründet mit Naru Force Studios ein neues Monaco-basiertes Medien- und Tech-Unternehmen, das sich auf \"social-first formats\", eigene Plattformen und KI-gestützte Content-Ökosysteme spezialisiert. Das Unternehmen entwickelt unscripted Formate für Streaming-Apps und Social Media mit integrierten KI-Tools zur Workflow-Optimierung, während Pig & Horse weiterhin traditionelle High-End-Dokumentationen für lineare Sender produziert. 2026 dient als Proof-of-Concept-Jahr für die Plattform-Infrastruktur, bevor eine Finanzierungsrunde folgt.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "Tom Burke & Eve Hewson To Lead Lenny Abrahamson’s Next Feature",
-          "link": "https://deadline.com/2026/02/tom-burke-eve-hewson-lenny-abrahamsons-film-element-1236725797/",
-          "summary": "Tom Burke und Eve Hewson werden in Lenny Abrahamsons nächstem noch unbetitelten Film die Hauptrollen übernehmen, der ab 2. März in Dublin für Element Pictures gedreht wird. Das Projekt wird von Film4, High Frequency Entertainment, Screen Ireland und RTÉ finanziert, während A24 den US-Vertrieb übernimmt. Abrahamson arbeitet erneut mit seinem bewährten Team zusammen, darunter die Produzenten Ed Guiney und Andrew Lowe sowie Komponist Stephen Rennicks.",
+          "title": "Film & TV Charity Boss Says Industry Faces “Serious Risk” Without “Meaningful Action” After Report Reveals Thousands Are Considering Leaving",
+          "link": "https://deadline.com/2026/02/film-tv-charity-money-matters-report-thousands-considering-leaving-1236726284/",
+          "summary": "Ein neuer Bericht der Film & TV Charity zeigt, dass 74% der britischen Film- und TV-Beschäftigten aufgrund finanzieller Belastungen einen Branchenwechsel erwägen, während 43% bereits konkrete Schritte unternommen haben. Die Studie mit 2.000 Teilnehmern offenbart eine strukturelle Krise mit 22% anhaltend Arbeitslosen und besonders betroffenen Freelancern, die deutlich häufiger finanzielle Schwierigkeiten haben als Festangestellte. Der Charity-Chef warnt vor einem \"ernsthaften Risiko\" für die Branche ohne koordinierte Gegenmaßnahmen, da selbst eine plötzliche Zunahme verfügbarer Arbeit die Finanzkrise nicht lösen würde.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "Japan’s Premium Streaming Sector Revenue Hit $7.2B In 2025, With Netflix Leading The Way – Media Partners Asia",
-          "link": "https://deadline.com/2026/02/japan-premium-streaming-sector-growing-mpa-report-1236725783/",
-          "summary": "Japans Premium-Streaming-Markt wuchs 2025 um 15% auf 7,2 Milliarden US-Dollar Umsatz, getrieben durch werbeunterstützte Tarife, lokale Inhalte und Live-Events. Netflix führt mit 22% Marktanteil vor dem lokalen Player U-Next (12%), während Prime Video mit 19,3 Millionen die größte Abonnentenbasis hat. Der Sektor erreichte insgesamt 67,3 Millionen Abonnenten bei 8,1 Milliarden geschauten Stunden, wobei japanische Dramen mit 73% Zuschauerreichweite das beliebteste Genre darstellen.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "ByteDance To Halt Seedance 2.0’s AI Rip-Offs After Legal Threats From Disney & Paramount",
-          "link": "https://deadline.com/2026/02/bytedance-halt-seedance-legal-threats-disney-paramount-1236725770/",
-          "summary": "ByteDance hat nach rechtlichen Drohungen von Disney und Paramount zugesagt, die Schutzmaßnahmen seines KI-Modells Seedance 2.0 zu verschärfen, nachdem das System massenhaft urheberrechtlich geschützte Hollywood-Inhalte für die Generierung von Deepfake-Videos verwendet hatte. Die Studios warfen dem chinesischen Tech-Konzern vor, eine \"Raubkopien-Bibliothek\" ihrer geschützten Charaktere und Franchises zu nutzen, was zu Unterlassungserklärungen führte. ByteDance erklärte, Schritte zur Verhinderung der unbefugten Nutzung von geistigem Eigentum durch Nutzer einzuleiten.",
+          "title": "Sky News Puts Handful Of Senior Jobs At Risk Amid Digital Transformation Plan",
+          "link": "https://deadline.com/2026/02/sky-news-senior-jobs-at-risk-digital-transformation-1236725964/",
+          "summary": "Sky News streicht im Rahmen seines digitalen Transformationsplans \"Sky News 2030\" eine kleine Anzahl von Führungspositionen ab, darunter mehrere Abteilungsleiterposten, um sich stärker auf digitale Inhalte zu fokussieren. Der von Executive Chairman David Rhodes geleitete Plan zielt darauf ab, Sky News bis 2030 als premium video-orientiertes Nachrichtenstudio zu positionieren. Parallel dazu wachsen Spekulationen über eine mögliche 1,6 Milliarden Pfund schwere Übernahme der ITV-Netzwerkoperationen durch Sky, was Befürchtungen über die Zukunft beider Nachrichtenredaktionen anheizt.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Salma Hayek Joins Mexican President Claudia Sheinbaum For Launch Of 30% Cinema Incentive",
-          "link": "https://deadline.com/2026/02/salma-hayek-mexican-president-sheinbaum-cinema-incentive-1236725762/",
-          "summary": "Mexikos Präsidentin Claudia Sheinbaum hat mit Unterstützung der Schauspielerin Salma Hayek ein neues Förderprogramm für die heimische Filmindustrie vorgestellt, das eine 30%ige Einkommensteuer-Incentivierung für Produktionen auf mexikanischem Territorium vorsieht. Das Programm, das von heute an in Kraft tritt, gewährt bis zu 30% der Einkommensteuer auf projektbezogene Ausgaben zurück, mit einer Obergrenze von 40 Millionen Pesos (2,3 Mio. USD) pro Projekt. Die Initiative zielt darauf ab, die Film- und audiovisuelle Produktion in Mexiko zu stärken und umfasst auch Bereiche wie Ausbildung, Produktion, Verleih und Erhaltung.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "John Oliver Roasts Netflix-WBD Deal In ‘Last Week Tonight’ Season 13 Premiere: “Loved The Ending Of ‘Stranger Things,’ By The Way — Very Brown”",
-          "link": "https://deadline.com/2026/02/john-oliver-season-13-premiere-netflix-wb-last-week-tonight-1236725733/",
-          "summary": "In der Staffel-13-Premiere von \"Last Week Tonight\" behandelte John Oliver nach der Winterpause verschiedene politische Themen, wobei der Hauptfocus auf ICE-Razzien in Minneapolis und den Auswirkungen der Homeland Security-Gründung nach 9/11 lag. Oliver machte sich über die häufigen Führungswechsel bei Warner Bros. Discovery lustig und spielte auf die laufenden Streaming-Deals an, indem er scherzhaft bemerkte, er wisse nicht, welches Unternehmen seine Show künftig ausstrahlen werde. Zusätzlich kritisierte er Comedians, die am saudi-arabischen Riyadh Comedy Festival teilnahmen, das als Sportswashing-Initiative gesehen wird.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "WBD May Engage With Paramount After Ellisons’ Latest Offer As State Of Play Shifts",
-          "link": "https://deadline.com/2026/02/warner-bros-discovery-may-engage-paramount-after-latest-offer-1236725705/",
-          "summary": "Warner Bros. Discovery erwägt nach Paramounts verbessertem Übernahmeangebot von 30$ pro Aktie (plus vierteljährliche \"Ticking Fee\" von 0,25$ ab Ende 2026) eine Verhandlungsaufnahme, obwohl bereits ein Netflix-Deal für 27,75$ pro Aktie existiert. Aktivistische Investoren wie Ancora Capital drängen das WBD-Board, Paramounts höheres Angebot zu prüfen, das auch eine 2,8 Milliarden Dollar Abfindung für Netflix beinhaltet. Eine Entscheidung könnte bereits am Dienstag bekannt gegeben werden, während Paramounts öffentliches Übernahmeangebot am 20. Februar ausläuft.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Sinners’ Star Wunmi Mosaku On Not Being Able To Celebrate Oscar Nom Amid U.S. Political Turmoil: “One Feels Beautiful And One Is … Truly Dystopian”",
-          "link": "https://deadline.com/2026/02/sinners-wunmi-mosaku-oscar-nomination-us-politics-ice-1236725702/",
-          "summary": "Wunmi Mosaku, die für ihre Rolle in \"Sinners\" ihre erste Oscar-Nominierung als beste Nebendarstellerin erhielt, äußerte sich konfliktiert über die Feier ihres Erfolgs angesichts der aktuellen politischen Krise in den USA. Die nigerianisch-britische Schauspielerin bezeichnete es als \"schwierig\", die persönliche Auszeichnung zu würdigen, während gleichzeitig ICE-Operationen zu Todesfällen führen, was sie als \"wahrhaft dystopisch\" beschreibt. Mosaku hebt den kulturellen Unterschied zwischen ihrer Reaktion auf gesellschaftliche Krisen und der ihrer amerikanischen Umgebung hervor.",
+          "title": "Disney First Studio To Pass $1B WW YTD In Frame Led By ‘Wuthering Heights’; ‘Goat’ Scores $51M, ‘Crime 101’ $28M+, ‘Housemaid’ Still Strong – Global Box Office",
+          "link": "https://deadline.com/2026/02/box-office-global-disney-goat-crime-101-wuthering-heights-1236725345/",
+          "summary": "Disney wurde als erstes großes Studio 2026 das erste, das weltweit die 1-Milliarde-Dollar-Marke an den Kinokassen durchbrach, nur sieben Wochen nach Jahresbeginn. Warner Bros' \"Wuthering Heights\" führte das Wochenende mit 83 Millionen Dollar weltweit an, gefolgt von Sonys \"Goat\" mit 50,6 Millionen und Amazon MGMs \"Crime 101\" mit 28,2 Millionen Dollar. \"Goat\" übertrifft in vergleichbaren Märkten andere Animationsfilme wie \"The Bad Guys\" um 9% und \"Space Jam: A New Legacy\" um 11%.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Eve Hewson, Tom Burke to Star in Film From ‘Normal People’ Director Set in Dublin’s Jewish Community; A24 to Distribute in U.S.",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/eve-hewson-tom-burke-film-dublin-jewish-community-a24-1236506701/",
-          "summary": "Lenny Abrahamson (\"Normal People\", \"Room\") führt Regie bei einem neuen Film mit Tom Burke und Eve Hewson, der im jüdischen Milieu Dublins der späten 1970er Jahre spielt und ab März 2025 gedreht wird. A24 übernimmt den US-Vertrieb der Element Pictures-Produktion, die das bewährte Crew-Team aus Abrahamsons erfolgreichen TV-Serien \"Normal People\" und \"Conversations With Friends\" wieder vereint. Die Finanzierung erfolgt durch Film4, High Frequency Entertainment, Screen Ireland und RTÉ.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "ByteDance Pledges to Curb AI Video Generator Tool Seedance After Legal Threats From Hollywood",
-          "link": "https://www.hollywoodreporter.com/business/business-news/bytedance-seedance-legal-threats-hollywood-1236506693/",
-          "summary": "ByteDance hat angekündigt, die Schutzmaßnahmen für sein KI-Video-Generator-Tool Seedance zu verstärken, nachdem Disney, andere Hollywood-Studios und die Schauspielergewerkschaft SAG-AFTRA rechtliche Schritte wegen der unautorisierten Verwendung von Markenrechten und Persönlichkeitsrechten angedroht haben. Seedance 2.0 ermöglicht die Erstellung hyperrealistischer Videos mit bekannten Stars und Charakteren aus Franchises wie Marvel und Star Wars, was zu massiver Kritik der Filmindustrie geführt hat. Die Motion Picture Association forderte die sofortige Einstellung der rechtsverletzenden Aktivitäten, während SAG-AFTRA warnte, dass dies die Erwerbsmöglichkeiten menschlicher Talente untergrabe.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "BFI Boosts U.K. Documentary Filmmaking Funding Support by 20 Percent",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/bfi-uk-documentary-filmmaking-funding-boost-20-percent-1236506686/",
-          "summary": "Das British Film Institute (BFI) erhöht seine Förderung für britische Dokumentarfilme um 20 Prozent und stellt über drei Jahre £7,2 Millionen zur Verfügung. Die Mittel fließen über den Partner Doc Society in Spielfilme, immersive Formate, Kurzfilme sowie Talentförderung, wobei neue Förderlinien für Nachwuchs- und etablierte Regisseure eingerichtet werden. Zusätzlich wird ein dedizierter Entwicklungsfonds für abendfüllende Dokumentarfilme und ein Immersive-Fund geschaffen.",
+          "title": "Netflix Reveals 2026 Australia, New Zealand Originals Slate",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-australia-new-zealand-film-tv-slate-2026-1236506895/",
+          "summary": "Netflix hat sein australisches und neuseeländisches Originals-Programm für 2026 bekannt gegeben, angeführt von der dritten und finalen Staffel der Emmy-prämierten Gen Z-Serie \"Heartbreak High\", die am 25. März erscheint. Zusätzlich wird die sechsteilige Perioden-Serie \"My Brilliant Career\" produziert, basierend auf Miles Franklins Roman über eine aufstrebende Schriftstellerin im Australien des Jahres 1901. Das Programm unterstreicht Netflixs kontinuierliches Engagement für lokale Inhalte in der APAC-Region.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Branded Entertainment Executives Anthony Damianakis, Pete Fergusson Launch Dubai-Based Startup IPX to Connect Brands With Content (EXCLUSIVE)",
-          "link": "https://variety.com/2026/biz/global/branded-anthony-damianakis-pete-fergusson-dubai-ipx-1236664396/",
-          "summary": "Die Branded Entertainment-Executives Anthony Damianakis und Pete Fergusson haben das Dubai-basierte Startup IPX gegründet, das als weltweit erste globale Plattform für Branded Entertainment fungiert und Marken mit Content-Produzenten, Broadcastern und Streamern zur gemeinsamen Entwicklung von Premium-Inhalten verbindet. Das Unternehmen hat Büros in London und Sydney und wird von prominenten Branchenfiguren wie dem ehemaligen Omnicom-Manager Toby Hack und der Medienunternehmerin Juliette Otterburn-Hall unterstützt.",
+          "title": "Banijay Entertainment to Hit London TV Screenings With ‘A Woman of Substance’ and ‘Falling,’ Plus an Expansive Format Slate Led by ‘Football Island’ (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/global/banijay-entertainment-2026-london-tv-screenings-1236665148/",
+          "summary": "Banijay Entertainment präsentiert auf den London TV Screenings 2026 ein umfangreiches Portfolio mit den beiden britischen Drama-Highlights \"A Woman of Substance\" (mit Brenda Blethyn) und \"Falling\" (Jack Thornes erste Liebesgeschichte) sowie der Fußball-Reality-Show \"Football Island\". Das Showcase findet am 25. Februar bei BAFTA 195 Piccadilly in zwei Sessions statt und umfasst weitere Formate wie \"Wallander\", \"Half Man\" sowie neue Additions \"Staying Alive\" und \"How Old Is Your Brain?\".",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Tom Burke and Eve Hewson Join Lenny Abrahamson’s Next Film for Element Pictures as A24 Boards Project",
-          "link": "https://variety.com/2026/film/global/tom-burke-eve-hewson-lenny-abrahamson-next-film-element-1236664409/",
-          "summary": "Lenny Abrahamson (\"Room\", \"Normal People\") dreht ab März 2026 seinen neuen Film mit Tom Burke und Eve Hewson für Element Pictures, wobei A24 als Verleih einsteigt. Das noch unbenannte Projekt spielt in Dublins jüdischer Gemeinde der späten 1970er Jahre und folgt dem 12-jährigen Davey beim Erwachsenwerden inmitten familiärer Spannungen. Abrahamson arbeitet erneut mit seinem bewährten Team aus \"Normal People\" zusammen, darunter DoP Suzie Lavelle und Editor Nathan Nugent.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "ByteDance Pledges Safeguards for Seedance 2.0 After Disney Legal Threat Over IP Violations",
-          "link": "https://variety.com/2026/film/news/bytedance-safeguards-seedance-disney-legal-threat-ip-violations-1236664395/",
-          "summary": "ByteDance hat nach rechtlichen Drohungen von Disney und Paramount zugesagt, die Schutzmaßnahmen für sein KI-Video-Tool Seedance 2.0 zu verstärken. Disney wirft dem Unternehmen vor, eine \"Piratenbibliothek\" mit urheberrechtlich geschützten Charakteren aus Marvel, Star Wars und anderen Franchises in die Plattform eingebaut zu haben. Der TikTok-Mutterkonzern erklärt, die Bedenken der Industrie ernst zu nehmen und Maßnahmen gegen die unbefugte Nutzung von geistigem Eigentum durch Nutzer zu ergreifen.",
-          "score": 9
-        },
-        {
-          "source": "Variety",
-          "title": "ZDF Studios Seals 1,200-Hour Drama Deal With Hungary’s TV2 Group (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/global/zdf-studios-tv2-group-1200-hour-drama-deal-1236664373/",
-          "summary": "ZDF Studios hat einen mehrjährigen Vertrag mit der ungarischen TV2 Group über mehr als 1.200 Stunden deutschsprachiger Drama-Inhalte abgeschlossen, der Free-TV-, Pay-TV- und VOD-Rechte für Ungarn umfasst. Das Paket enthält bewährte deutsche Marken wie \"Schwarzwaldklinik\", \"Derrick\" und verschiedene TV-Film-Reihen (\"Rosamunde Pilcher\", \"Inga Lindström\") sowie Krimi- und Arztserien, die für Programmstrategien wie Stripping und Themenprogrammierung geeignet sind. Der Deal stärkt die langjährige Partnerschaft zwischen den Unternehmen und folgt einer Volumen-Strategie mit etablierten Titeln zur Programmfüllung.",
+          "title": "Keshet to Launch ‘Reset,’ Dark Comedy About Mistaken Terminal Diagnoses, at London Screenings (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/global/keshet-reset-adir-miller-london-screenings-1236664481/",
+          "summary": "Keshet International launcht bei den London Screenings die achtteilige Dark Comedy \"Reset\" von Emmy-Gewinner Adir Miller, die von einem 50-Jährigen handelt, der nach einer fälschlichen Todeskrankheits-Diagnose sein Leben zerstört und dann mit den Konsequenzen leben muss. Die Serie wurde als exportierbares Format konzipiert und war in Israel die bestbewertete Drama-Premiere seit fünf Jahren. Keshet International übernimmt den weltweiten Vertrieb der von Artza Productions für Keshet 12 produzierten Serie.",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "Berlinale Series Market Amps Up",
-          "link": "https://variety.com/2026/tv/global/berlinale-series-market-burns-meirelles-ostlund-chaves-1236663877/",
-          "summary": "Der Berlinale Series Market 2026 präsentiert sich mit hochkarätigen Projekten von Regisseuren wie Ken Burns, Ruben Östlund, Fernando Meirelles und İlker Çatak als bisher stärkste Ausgabe. Das TV-Forum erweitert sein Angebot um den neuen Studio Babelsberg Production Excellence Award für herausragende Serien und die neue \"Series Match\"-Sektion für lateinamerikanische, spanische und deutsche Produzenten. Die Veranstaltung läuft bis zum 18. Februar und unterstreicht Berlins wachsende Bedeutung als internationaler TV-Marktplatz.",
+          "title": "ZDF Studios, Talpa Network Seal Free-TV Deal for 250 ‘SOKO’ Episodes (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/global/zdf-studios-talpa-network-soko-kijk-1236665109/",
+          "summary": "ZDF Studios hat einen Free-TV-Deal mit der niederländischen Talpa Network für rund 250 Episoden der deutschen Krimi-Franchise \"SOKO\" abgeschlossen, die verschiedene Ableger wie \"SOKO Potsdam\", \"SOKO Hamburg\", \"SOKO Köln\" und \"SOKO Wismar\" umfasst. Es handelt sich um die dritte Vereinbarung zwischen den beiden Unternehmen, wobei Talpa Network Kanäle wie SBS6, NET5 und Veronica sowie die Streaming-Plattform KIJK betreibt. Die \"SOKO\"-Franchise mit ihrer modularen Struktur aus regional verankerten Procedurals hat bereits internationale Verbreitung in über einem Dutzend Ländern gefunden.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Nippon TV Launches Viral Pocket Division to Expand Into Microdrama Market – Global Bulletin",
+          "link": "https://variety.com/2026/tv/news/nippon-tv-viral-pocket-microdramas-1236665094/",
+          "summary": "Nippon TV hat eine neue Division namens \"Viral Pocket\" für vertikale Video-Inhalte und Microdramas gegründet, die auf dem Erfolg ihrer Kurzdrama-Serie \"We are Coy Every Day\" mit über 2,6 Milliarden organischen Views aufbaut. Die Division fokussiert sich auf drei Bereiche: Entwicklung originaler IP, End-to-End-Produktion vertikaler Inhalte und KPI-gesteuerte Marketing-Unterstützung für Marken. Bereits erste Erfolge zeigen sich durch eine Partnerschaft mit dem japanischen Lebensmittelunternehmen Nissui, die in zwei Wochen über 10 Millionen organische Views generierte.",
           "score": 7
         }
       ]
