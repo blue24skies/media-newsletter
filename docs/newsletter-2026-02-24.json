@@ -3,157 +3,59 @@
   "articles": [
     {
       "source": "DWDL",
-      "title": "Showdown um Warner: Bringt Paramount den Netflix-Deal zu Fall?",
-      "link": "https://www.dwdl.de/nachrichten/105626/showdown_um_warner_bringt_paramount_den_netflixdeal_zu_fall/",
-      "summary": "Warner Bros. Discovery steht vor der finalen Entscheidung zwischen dem bereits angekündigten Netflix-Übernahmedeal vom Dezember 2025 und einem feindlichen Übernahmeangebot von Paramount Skydance um David Ellison, wobei das 7-tägige Verhandlungsfenster um Mitternacht US-Ostküstenzeit endet. Paramount hatte ursprünglich 30 Dollar je Aktie geboten und signalisiert, den Preis um mehr als 1 Dollar anzuheben, während Netflix bei einem höheren Paramount-Angebot vier Tage Zeit hätte, mit einem \"Matching Offer\" gleichzuziehen. Das WBD-Board empfiehlt bislang weiterhin den Netflix-Deal gegenüber dem feindlichen Paramount-Angebot.",
-      "score": 10
-    },
-    {
-      "source": "DWDL",
-      "title": "Constantin Entertainment investiert in Vertical Dramas",
-      "link": "https://www.dwdl.de/nachrichten/105621/constantin_entertainment_investiert_in_vertical_dramas_/",
-      "summary": "Constantin Entertainment hat einen strategischen Fokus auf Vertical Dramas angekündigt und bereits zwei Staffeln mit jeweils 60 Folgen für die internationale Plattform Crisp Momentum produziert, die im April 2026 veröffentlicht werden sollen. Die im Hochformat produzierten fiktionalen Stoffe sind von Beginn an auf globale Auswertung ausgelegt und sollen das Unternehmen in dem wachstumsstarken Segment für Social-Media-Plattformen positionieren. Zukünftig plant Constantin Entertainment verstärkt auch Vertical Drama-Produktionen für den europäischen Markt.",
-      "score": 9
-    },
-    {
-      "source": "DWDL",
-      "title": "Kleber mahnt das ZDF: \"Es gilt, den Rücken breit zu machen\"",
-      "link": "https://www.dwdl.de/nachrichten/105615/kleber_mahnt_das_zdf_es_gilt_den_ruecken_breit_zu_machen/",
-      "summary": "Das ZDF verwendete im \"heute-journal\" offensichtlich KI-generiertes und kontextfremdes Videomaterial über ICE-Einsätze, woraufhin der Sender nach anfänglichem Zögern eine Entschuldigung veröffentlichte und die verantwortliche New Yorker Korrespondentin Nicola Albrecht abberieft. Ex-\"heute-journal\"-Moderator Claus Kleber kritisiert die prominente Personalmaßnahme und fordert vom ZDF mehr Rückendeckung für die eigenen Journalisten, um ein \"Gift der Angst\" in den Redaktionen zu verhindern. Kleber betont, dass solche Fehler auch den besten Journalisten passieren können und professionelle Berichterstattung furchtlose Arbeit erfordere.",
-      "score": 7
-    },
-    {
-      "source": "Horizont Medien",
-      "title": "Tim Klüssendorf: So stellt sich der SPD-Generalsekretär das Social-Media-Verbot für Kids vor",
-      "link": "https://www.horizont.net/medien/nachrichten/tim-kluessendorf-so-stellt-sich-der-spd-generalsekretaer-das-social-media-verbot-fuer-kids-vor-233292?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-      "summary": "Die SPD unter Generalsekretär Tim Klüssendorf fordert ein vollständiges Social-Media-Verbot für unter 14-Jährige als Teil einer dreistufigen, altersbasierten Regulierung. Klüssendorf drängt auf eine schnelle Umsetzung durch die Koalition und betont, dass auch technische Umgehungsversuche wie VPN-Verbindungen unterbunden werden müssen.",
-      "score": 7
-    },
-    {
-      "source": "Horizont Medien",
-      "title": "Social Media: Wolfram Weimer will Tiktok in europäische Hände legen",
-      "link": "https://www.horizont.net/medien/nachrichten/social-media-weimer-will-tiktok-in-europaeische-haende-legen-233293?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-      "summary": "Kultur- und Medienstaatsminister Wolfram Weimer fordert eine europäische Lösung für die Eigentumsfrage bei TikTok, analog zum amerikanischen Vorgehen gegen die chinesische Plattform. Er plädiert dafür, TikTok im Einvernehmen mit dem Mutterkonzern Bytedance in europäische Hände zu überführen, um die Kontrolle über die einflussreiche Social-Media-Plattform zu erlangen.",
-      "score": 7
-    },
-    {
-      "source": "Horizont Medien",
-      "title": "Bilanz: ARD und ZDF erreichen mit Olympia 40 Millionen Zuschauer",
-      "link": "https://www.horizont.net/medien/nachrichten/bilanz-ard-und-zdf-erreichen-mit-olympia-40-millionen-zuschauer-233286?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-      "summary": "ARD und ZDF verzeichnen eine erfolgreiche Bilanz ihrer Olympia-Berichterstattung aus Mailand und Cortina mit insgesamt 40 Millionen erreichten Zuschauern. Zusätzlich zur starken TV-Reichweite konnten die öffentlich-rechtlichen Sender auch auf ihren digitalen Plattformen neue Rekordwerte erzielen.",
-      "score": 8
-    },
-    {
-      "source": "Horizont Medien",
-      "title": "TikTok, Instagram &amp; Co: Grüne stützen CDU bei für Social-Media-Verbot für Kinder",
-      "link": "https://www.horizont.net/medien/nachrichten/tiktok-instagram--co-gruene-stuetzen-cdu-bei-fuer-social-media-verbot-fuer-kinder-233287?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-      "summary": "Die Grünen unterstützen die CDU-Initiative für ein Social-Media-Verbot für Kinder bei Plattformen wie TikTok und Instagram, während die CSU ein Mindestalter für die Nutzung sozialer Netzwerke ablehnt. Der politische Konflikt um Altersbeschränkungen für Social-Media-Plattformen spaltet damit die Unionsparteien, wobei noch offen ist, welche Position sich durchsetzen wird.",
-      "score": 7
-    },
-    {
-      "source": "Horizont Medien",
-      "title": "Paradigmenwechsel: Warum Retail Media der neue Wachstumsmotor im Werbemarkt ist",
-      "link": "https://www.horizont.net/medien/kommentare/paradigmenwechsel-warum-retail-media-der-neue-wachstumsmotor-im-werbemarkt-ist-233238?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-      "summary": "Retail Media entwickelt sich zum neuen Wachstumsmotor im Werbemarkt, während klassische Werbekanäle stagnieren. Torsten Ahlers von MediaMarktSaturn Retail Media sieht besonders in der Kombination von Retail Media mit Connected TV großes Wachstumspotenzial für die Werbebranche.",
-      "score": 9
-    },
-    {
-      "source": "kress",
-      "title": "Neue BDZV-Studie: Digitalwachstum treibt die Verlage",
-      "link": "https://kress.de/news/beitrag/152209-neue-bdzv-studie-digitalwachstum-treibt-die-verlage-print-wird-zum-auslaufmodell.html",
-      "summary": "Laut der BDZV-Trendumfrage 2026 blicken zwei Drittel der deutschen Zeitungsverlage optimistisch in die Zukunft, wobei sich 56 Prozent gut auf die digitale Transformation vorbereitet sehen. 60 Prozent der befragten Verlage prognostizieren das Ende der gedruckten Zeitung innerhalb der nächsten 15 Jahre, setzen jedoch auf ein \"soft landing\" statt abrupte Einstellung, da Print-Erlöse weiterhin den digitalen Umbau finanzieren. Die steigenden Produktions- und Vertriebskosten verstärken den Konsolidierungsdruck in der Branche, wodurch weitere Zusammenschlüsse und Übernahmen durch große Zeitungsgruppen erwartet werden.",
-      "score": 9
-    },
-    {
-      "source": "meedia",
-      "title": "ARD und ZDF melden 135 Millionen Livestream- und Video-Abrufe Die Olympischen Winterspiele in...",
-      "link": "https://meedia.de/news/beitrag/21191-olympia-ard-und-zdf-melden-135-millionen-livestream-und-video-abrufe.html",
-      "summary": "ARD und ZDF verzeichneten bei den Olympischen Winterspielen in Norditalien einen Rekorderfolg in ihren digitalen Angeboten mit insgesamt 135 Millionen Livestream- und Video-Abrufen. Die ARD-Mediathek erreichte mit über 65 Millionen Livestream-Abrufen und mehr als 20 Millionen Views für weitere Inhalte die höchste Nutzung ihrer Geschichte, während das ZDF über 50 Millionen Views meldete. Ergänzend erzielten die Sender starke Social-Media-Reichweiten von über 350 Millionen Views sowie Rekordwerte im linearen Fernsehen.",
-      "score": 8
-    },
-    {
-      "source": "meedia",
-      "title": "Parteitag in Stuttgart Auch CDU fordert Social-Media-Verbot für Kinder und Jugendliche In der...",
-      "link": "https://meedia.de/news/beitrag/21186-auch-cdu-fordert-social-media-verbot-fuer-kinder-und-jugendliche.html",
-      "summary": "Die CDU fordert auf ihrem Stuttgarter Parteitag ein Social-Media-Verbot für unter 14-Jährige und Einschränkungen für 14- bis 15-Jährige, wobei Plattformbetreiber zur Implementierung effektiver Altersverifikationssysteme verpflichtet werden sollen. Die Pläne entsprechen weitgehend Vorschlägen der SPD-Bundestagsfraktion, stoßen jedoch auf Kritik der Schwesterpartei CSU. Bei Verstößen gegen die Altersprüfung sollen den Betreibern empfindliche Bußgelder drohen.",
+      "title": "Auseinanderschaltung: RBB verlängert wohl News am Abend",
+      "link": "https://www.dwdl.de/nachrichten/105611/auseinanderschaltung_rbb_verlaengert_wohl_news_am_abend/",
+      "summary": "Der RBB muss laut Staatsvertrag seine regionalen Auseinanderschaltungen von derzeit 30 auf mindestens 60 Minuten täglich ausweiten, nachdem eine Verfassungsbeschwerde dagegen gescheitert ist. Als Lösung favorisiert der Sender eine Verlängerung der Nachrichtensendung \"RBB24\" um 21:45 Uhr von 15 auf 30 Minuten mit separaten Ausgaben für Berlin und Brandenburg, während die etablierten Vorabendprogramme \"Brandenburg Aktuell\" und \"Abendschau\" unverändert bleiben sollen. Die Entscheidung über das finale Modell soll im März fallen, wobei Brandenburg als Initiator der Regelung zusätzlich einen eigenen Landesprogrammleiter fordert.",
       "score": 7
     },
     {
       "source": "meedia",
-      "title": "KI-Fail im \"heute journal\" ZDF beruft US-Korrespondentin ab",
-      "link": "https://meedia.de/news/beitrag/21183-zdf-beruft-us-korrespondentin-ab-claus-kleber-protestiert.html",
-      "summary": "Das ZDF hat seine New-York-Korrespondentin Nicola Albrecht abberufen, nachdem sie einen Beitrag über US-Migrationsbehörden mit KI-generierten Videos der OpenAI-Software Sora und veraltetem Archivmaterial illustriert hatte, ohne dies entsprechend zu kennzeichnen. Der Sender entschuldigte sich für die Verstöße gegen journalistische Standards, während Ex-Moderator Claus Kleber die Personalentscheidung kritisiert und Albrecht als \"tadellose Kollegin\" verteidigt.",
+      "title": "Video Daily: TV-Quoten & Streaming-Charts \"Hirschhausen und der Zucker\" holt starke Zahlen im jungen Publikum Am ersten Tag nach dem Olympischen Winterspielen ging das Siegertreppchen bei den 14- bis 49-Jährigen dennoch an Das Erste: Die 20-Uhr-\"Tagesschau\", der \"Brennpunkt\" zum Jahrestag des Ukraine-Kriegs und der 45-Minüter \"Hirschhausen und der Zucker\" besiegten die komplette Konkurrenz",
+      "link": "https://meedia.de/news/beitrag/21193-quot-hirschhausen-und-der-zucker-quot-holt-starke-zahlen-im-jungen-publikum.html",
+      "summary": "Am Tag nach den Olympischen Winterspielen dominierte Das Erste bei den 14- bis 49-Jährigen mit \"Tagesschau\", Ukraine-Brennpunkt und \"Hirschhausen und der Zucker\" (2,92 Mio./12,0%) die Konkurrenz, während im Gesamtpublikum der ZDF-Krimi \"Unter anderen Umständen\" mit 6,37 Millionen Zuschauern und 26,3% Marktanteil gewann. Trotz Rückgangs gegenüber dem Vorjahr war dies die erfolgreichste Folge der seit 2006 laufenden ZDF-Krimireihe.",
       "score": 7
     },
     {
-      "source": "Guardian Media",
-      "title": "Paramount Skydance reportedly increases bid for Warner Bros Discovery",
-      "link": "https://www.theguardian.com/media/2026/feb/23/paramount-skydance-bid-warner-bros-discovery",
-      "summary": "Paramount Skydance hat sein Übernahmeangebot für Warner Bros Discovery erhöht und übertrifft damit das vorherige Angebot von 30 Dollar je Aktie, um Netflix im Bieterwettstreit um das Medienunternehmen zu schlagen. Netflix-CEO Ted Sarandos betonte, dass Netflix bereits einen unterzeichneten Deal mit Warner Bros Discovery habe und eine \"reiche Geschichte\" besitze, bei Überbietungen \"wegzugehen und andere überzahlen zu lassen\". Die Übernahmeschlacht wird zunehmend politisch, nachdem Präsident Trump Netflix aufforderte, die Demokratin Susan Rice aus dem Vorstand zu entfernen.",
-      "score": 10
+      "source": "meedia",
+      "title": "Dossier Handel: Meinung Warum FMCG-Unternehmen zu oft neue Marken erfinden",
+      "link": "https://meedia.de/news/beitrag/21170-warum-fmcg-unternehmen-zu-oft-neue-marken-erfinden-und-teuer-dafuer-bezahlen.html",
+      "summary": "FMCG-Unternehmen neigen dazu, für neue Produkte reflexartig neue Marken zu entwickeln, anstatt bestehende starke Marken zu erweitern - eine Entscheidung, die eher von Angst und Eitelkeit als von ökonomischer Vernunft getrieben wird. Laut Strategieberater Peter Kiefer liegt das größere Risiko darin, vorhandene Markenstärke nicht zu nutzen, da Markenerweiterungen marktorientierter sind als interne Absicherungsstrategien. Unternehmen sollten ihre etablierten Marken strategisch ausbauen, statt kostspielige Neumarkenentwicklungen zu betreiben.",
+      "score": 7
     },
     {
-      "source": "Guardian Media",
-      "title": "Netflix boss says $83bn Warner Bros takeover will benefit industry",
-      "link": "https://www.theguardian.com/media/2026/feb/23/netflix-warner-bros-takeover-ted-sarandos-donald-trump-susan-rice",
-      "summary": "Netflix-CEO Ted Sarandos verteidigt die geplante 83 Milliarden Dollar schwere Übernahme von Warner Bros Discovery und argumentiert, dass diese im Gegensatz zu Paramount Skydances Gegenangebot Wachstum für die Unterhaltungsindustrie bringe. Parallel dazu forderte Donald Trump Netflix auf, die demokratische Außenpolitikexpertin Susan Rice aus dem Vorstand zu entfernen, andernfalls drohen \"Konsequenzen\". Sarandos wies politische Einmischung zurück und betonte, es handle sich um ein Geschäft, nicht um Politik.",
-      "score": 10
+      "source": "meedia",
+      "title": "Nach Pitch Wechsel zu neuer Digitalagentur Jägermeister erwartet von neuer Digitalagentur...",
+      "link": "https://meedia.de/news/beitrag/21188-jaegermeister-erwartet-von-neuer-digitalagentur-serviceplan-mehr-verknuepfung-zwischen-disziplinen.html",
+      "summary": "Jägermeister wechselt nach einem Pitch von der langjährigen Digitalagentur la red zu Serviceplan, die bereits den Mediaetat der Spirituosenmarke seit 2023 betreut. Das neue Digital-Mandat umfasst Social Media, digitale Owned Channels und Hero-Kampagnen und wird im House of Communication Hamburg bearbeitet. Ziel ist eine engere Verzahnung von Content, Kreation und Media-Strategie unter dem integrierten Serviceplan-Ansatz.",
+      "score": 7
     },
     {
-      "source": "Deadline",
-      "title": "HBO Max Continues Rollout With 12 Asia Pacific Launches",
-      "link": "https://deadline.com/2026/02/hbo-max-continues-rollout-12-asia-pacific-launches-1236734224/",
-      "summary": "HBO Max expandiert am 26. März in 12 weitere asiatisch-pazifische Märkte, darunter Bhutan, Fiji, Maldiven und weitere kleinere Inselstaaten. Die Expansion erfolgt parallel zu den jüngsten Launches in Italien und Deutschland sowie vor dem geplanten Start in UK und Irland im März. Gleichzeitig befindet sich Mutterkonzern Warner Bros. Discovery in einem Übernahmekampf zwischen Paramount (32$/Aktie) und Netflix (27,75$/Aktie plus Discovery Global-Geschäft).",
-      "score": 9
+      "source": "meedia",
+      "title": "Mit neuer Social-Agentur Jack Wolfskin: „konsequente“ Öffnung für junge Zielgruppe Das ungezügelte Werbewachstum auf Social-Media-Plattformen wird allenthalben hinterfragt. Auch Werbungtreibende stehen dieser Entwicklung kritisch gegenüber",
+      "link": "https://meedia.de/news/beitrag/21190-jack-wolfskin-konsequente-oeffnung-fuer-junge-zielgruppe.html",
+      "summary": "Jack Wolfskin hat die Münchner Agentur Mawave als neue Social-Lead-Agentur mit Fokus auf TikTok beauftragt, um die strategische Öffnung zur jungen Zielgruppe \"konsequent\" voranzutreiben. Die Partnerschaft ab März umfasst ein ganzheitliches Social-Setup auf Meta und TikTok mit dem Ziel, die bereits über 500.000 Follower starke TikTok-Community weiter zu aktivieren und die Markenrelevanz auszubauen.",
+      "score": 7
     },
     {
-      "source": "Deadline",
-      "title": "Goalhanger Boss Tony Pastor Says “Millions” Of Young People Tuning Into Podcasts: “No TV Commissioner Would Dream Of This”",
-      "link": "https://deadline.com/2026/02/goalhanger-podcasts-rest-is-history-myths-1236733392/",
-      "summary": "Goalhanger-Mitgründer Tony Pastor berichtet, dass Millionen von Zuhörern im Alter von durchschnittlich 33 Jahren (etwa die Hälfte in den 20ern und frühen 30ern) mehrstündige Podcast-Inhalte zu komplexen Themen wie der Geschichte Karthagos konsumieren. Pastor argumentiert, dass diese erfolgreichen Formate von keinem britischen TV-Kommissar in Auftrag gegeben worden wären, was das Potenzial des Podcast-first-Modells gegenüber traditionellen Medienansätzen demonstriert. Das von Pastor und Gary Lineker gegründete Unternehmen hat eine Minderheitsbeteiligung an The Chernin Group verkauft und entwickelt seine Podcasts zunehmend zu TV-ähnlichen Videoformaten mit Archivmaterial und Medienrechten.",
-      "score": 8
-    },
-    {
-      "source": "Deadline",
-      "title": "Maksim Chmerkovskiy To Lead Vertical Series ‘Wild Silence’ For Holywater Microdrama Platform My Drama",
-      "link": "https://deadline.com/2026/02/maksim-chmerkovskiy-vertical-series-wild-silence-my-drama-1236733868/",
-      "summary": "Maksim Chmerkovskiy, ehemaliger Dancing with the Stars-Profi, übernimmt die Hauptrolle in der vertikalen Drama-Serie \"Wild Silence\" auf Holywater Techs My Drama-Plattform und wird damit der erste Reality-TV-Star in einer führenden Rolle einer US-amerikanischen Vertical Series. Die Serie handelt von zwei traumatisierten Menschen, die in einer abgelegenen Wildnis-Hütte eine vorsichtige Bindung eingehen, während sie ihre Vergangenheit aufarbeiten. Das Projekt wird in Zusammenarbeit mit Skyframe Films produziert und von Mila Pohrebynska inszeniert.",
+      "source": "Hollywood Reporter",
+      "title": "Why UMG U.K.’s Globe Is Pushing Deeper Into Scripted Content With Globe Originals and Multi-Hyphenates",
+      "link": "https://www.hollywoodreporter.com/music/music-features/globe-originals-scripted-content-push-music-film-interview-1236509485/",
+      "summary": "Universal Music Group U.K.'s Globe expandiert über das traditionelle Musik-Sync-Geschäft hinaus mit Globe Originals, einer Einheit die musikzentrierte Filme und TV-Produktionen entwickelt, darunter erfolgreiche Projekte wie \"Amy\", \"Hamnet\" und \"This Town\". Das Unternehmen unter Präsident Marc Robinson dehnt seine Aktivitäten in die USA aus und hat eine Partnerschaft mit Hollywood-Produzentin Shannon McIntosh für eine Reihe musikgetriebener Spielfilme angekündigt. Ziel ist es, neue Karrierewege für Multi-Talente und Künstler zu schaffen, die über ihre traditionellen Bereiche hinaus expandieren möchten.",
       "score": 7
     },
     {
       "source": "Variety",
-      "title": "Banijay Rights Boards BBC Docuseries ‘The Clickbait Clinic With Stacey Dooley’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/global/banijay-rights-bbc-the-clickbait-clinic-with-stacey-dooley-1236671006/",
-      "summary": "Banijay Rights hat die globalen Vertriebsrechte für die sechsteilige BBC-Dokuserie \"The Clickbait Clinic With Stacey Dooley\" erworben, die während der London TV Screenings vermarktet wird. Die Serie untersucht mit Moderatorin Stacey Dooley und Experten die Wahrheit hinter viralen Gesundheitstrends in sozialen Medien, da ein Drittel der Briten dort nach Gesundheitsratschlägen sucht. Der Deal markiert zudem Banijajs erste Partnerschaft mit dem Premium-Dokumentarfilmproduzenten Nutopia.",
-      "score": 7
-    },
-    {
-      "source": "Variety",
-      "title": "Fremantle Seals Production, Distribution on Wacky Comedy Competition ‘Special Delivery’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/global/fremantle-special-delivery-tokyo-broadcasting-system-1236670995/",
-      "summary": "Fremantle hat sich weltweit die Produktions-, Entwicklungs- und Vertriebsrechte (außerhalb Japans) für die Comedy-Gameshow \"Special Delivery\" gesichert, die von der Fremantle-Tochter Blue Circle und dem japanischen Sender TBS co-entwickelt wurde. Das Format zeigt Comedians, die \"absurde\" Pakete unter \"lächerlichen\" Bedingungen an \"unmögliche\" Zielorte liefern müssen. Fremantle wird das Format bei den London TV Screenings am 27. Februar vermarkten.",
+      "title": "Anthony Chen’s Berlin Competition Film ‘We Are All Strangers’ Scores Major Worldwide Deals for Paradise City Sales (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/anthony-chen-we-are-all-strangers-global-deals-1236670221/",
+      "summary": "Anthony Chens Berlinale-Wettbewerbsfilm \"We Are All Strangers\" hat als erste singapurische Produktion in der Hauptsektion des Festivals weltweite Vertriebsdeals über Paradise City Sales abgeschlossen, darunter mit ARP Selection (Frankreich), Curzon (UK/Irland) und Golden Scene (Hong Kong). Der Film komplettiert Chens \"Growing Up\"-Trilogie nach \"Ilo Ilo\" (Cannes Caméra d'Or) und \"Wet Season\" mit den wiederkehrenden Hauptdarstellern Yeo Yann Yann und Koh Jia Ler. Die Produktion wurde von Giraffe Pictures realisiert mit Finanzierung durch 127 Wall Productions, den Singapore Film Commission und weitere internationale Fonds.",
       "score": 8
     },
     {
       "source": "Variety",
-      "title": "ZDF Studios Snags ‘Ancient Superstructures’ Season 4 Rights, Featuring the Completion of Iconic Barcelona Landmark, the Sagrada Familia (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/global/zdf-studios-ancient-superstructures-sagrada-familia-1236670982/",
-      "summary": "ZDF Studios hat die internationalen Vertriebsrechte für Staffel 4 der Premium-Dokumentarserie \"Ancient Superstructures\" erworben, die prominent Barcelonas Sagrada Familia kurz vor ihrer Fertigstellung im Juni zeigen wird. Die von Pernel Media produzierte Staffel kombiniert hochwertige CGI mit wissenschaftlicher Untersuchung und behandelt neben der Sagrada Familia auch die Akropolis von Athen, Schloss Neuschwanstein und französische Monumente. ZDF Studios hat die Rechte für alle Märkte außer französischsprachigen Gebieten und Australien gesichert.",
+      "title": "Australia’s Filmbarr Formally Launches With Pair of SXSW Titles, Unveils Slate Including FrightFest Horror and Venice-Linked True Crime Drama (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/australia-filmbarr-launch-sxsw-titles-1236670986/",
+      "summary": "Die neu gegründete australische Produktionsfirma Filmbarr debütiert auf der SXSW 2026 mit zwei Filmen, darunter der Weltpremiere des Psychothrillers \"And Her Body Was Never Found\" in der Visions-Sektion. Das von Tristan Barr, Josh Doke und Erin Crittenden gegründete Unternehmen fokussiert sich auf formal innovative, regisseurgetriebene Genrefilme mit internationalen Besetzungen für sowohl Festival- als auch kommerzielle Zielgruppen. Filmbarr präsentiert zudem eine vierteilige Slate mit elevated Horror, True Crime und Prestige-Drama-Projekten.",
       "score": 7
-    },
-    {
-      "source": "Variety",
-      "title": "How Reality Shows Like ‘Fear Factor’ Are Embracing Story Arcs to Encourage Binge Viewing",
-      "link": "https://variety.com/2026/tv/global/reality-show-fear-factor-story-arcs-binge-viewing-1236670708/",
-      "summary": "Reality-Shows wie \"Fear Factor: House of Fear\" implementieren zunehmend durchgehende Story-Arcs anstelle episodischer Einzelchallenges, um Binge-Watching zu fördern und die Streaming-Performance zu optimieren. Die von Johnny Knoxville moderierte Neuauflage wurde durch diese Formatanpassung zu Hulus meistgestreamter Show mit bereits 1,5 Milliarden gestreamten Minuten nach nur fünf Episoden. Banijay Entertainment sieht diesen Ansatz als erfolgreiche Strategie, die sowohl Zuschauer- als auch Kundenbedürfnisse im Streaming-Zeitalter erfüllt.",
-      "score": 7
-    },
-    {
-      "source": "Variety",
-      "title": "Warner Bros. Discovery Likely to Take New Paramount Skydance Offer Under Review While Still Recommending Netflix Pact to Shareholders",
-      "link": "https://variety.com/2026/film/news/warner-bros-discovery-review-paramount-offer-network-1236670592/",
-      "summary": "Warner Bros. Discovery wird voraussichtlich das neue Übernahmeangebot von Paramount Skydance prüfen, während das Board weiterhin die bestehende Netflix-Transaktion im Wert von 83 Milliarden Dollar zur Abstimmung am 20. März empfiehlt. Paramount hat ein 108-Milliarden-Dollar-Angebot für die gesamte WBD vorgelegt, während Netflix nur Warner Bros. und HBO Max übernehmen würde. Netflix hat nun vier Tage Zeit, das höhere Angebot von Paramount zu matchen oder aus dem Bieterprozess auszusteigen.",
-      "score": 10
     }
   ]
 }
