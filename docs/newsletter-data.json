@@ -1,63 +1,175 @@
 {
   "newsletters": [
     {
-      "date": "2026-02-24",
+      "date": "2026-02-25",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Auseinanderschaltung: RBB verlängert wohl News am Abend",
-          "link": "https://www.dwdl.de/nachrichten/105611/auseinanderschaltung_rbb_verlaengert_wohl_news_am_abend/",
-          "summary": "Der RBB muss laut Staatsvertrag seine regionalen Auseinanderschaltungen von derzeit 30 auf mindestens 60 Minuten täglich ausweiten, nachdem eine Verfassungsbeschwerde dagegen gescheitert ist. Als Lösung favorisiert der Sender eine Verlängerung der Nachrichtensendung \"RBB24\" um 21:45 Uhr von 15 auf 30 Minuten mit separaten Ausgaben für Berlin und Brandenburg, während die etablierten Vorabendprogramme \"Brandenburg Aktuell\" und \"Abendschau\" unverändert bleiben sollen. Die Entscheidung über das finale Modell soll im März fallen, wobei Brandenburg als Initiator der Regelung zusätzlich einen eigenen Landesprogrammleiter fordert.",
+          "title": "\"Realitystar Academy\": Joyn sucht den Reality-Nachwuchs",
+          "link": "https://www.dwdl.de/nachrichten/105650/realitystar_academy_joyn_sucht_den_realitynachwuchs/",
+          "summary": "Joyn startet am 16. April das neue Reality-Format \"Die Realitystar Academy\" mit Désirée Nick als Präsentatorin, bei dem 18 Teilnehmer in verschiedenen \"Fächern\" von bekannten Reality-Gesichtern unterrichtet werden, um den Reality-TV-Nachwuchs zu finden. Das von Madame Zheng produzierte Format erscheint wöchentlich mit zwei Folgen auf der Plattform, der Gewinner erhält eine Teilnahme an \"Forsthaus Rampensau Germany\".",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "WBD prüft neues Paramount-Angebot, nennt aber keine Details",
+          "link": "https://www.dwdl.de/nachrichten/105640/wbd_prueft_neues_paramountangebot_nennt_aber_keine_details/",
+          "summary": "Paramount hat nach Ablauf des 7-tägigen Verhandlungsfensters ein überarbeitetes Übernahmeangebot für Warner Bros. Discovery vorgelegt, dessen Details jedoch nicht bekannt gegeben wurden - zuvor lag das Angebot bei 30 Dollar je Aktie. WBD prüft das neue Angebot mit Beratern, empfiehlt aber weiterhin den bestehenden Netflix-Deal, wobei Netflix bei einer möglichen WBD-Zustimmung zu Paramount vier Tage Zeit für ein Gegenangebot hätte.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "VAUNET fordert von Politik mehr Grenzen für Öffentlich-Rechtliche",
+          "link": "https://www.dwdl.de/nachrichten/105639/vaunet_fordert_von_politik_mehr_grenzen_fuer_oeffentlichrechtliche/",
+          "summary": "VAUNET kritisiert die geplante Erhöhung des Rundfunkbeitrags auf über 10,5 Milliarden Euro jährlich als unfairen Wettbewerbsvorteil für ARD und ZDF gegenüber Privatsendern. Der Privatsenderverband fordert die Politik auf, staatsvertragliche Vorgaben zu lockern, die Effizienzpotenziale in dreistelliger Millionenhöhe blockieren, und warnt vor einer Aufweichung der Reformmaßnahmen durch Kürzungen nur bei \"kommerziell nicht relevanten Programmen\". Eine nachhaltige Beitragsstabilität sei nur durch einen fokussierten öffentlich-rechtlichen Auftrag erreichbar.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Olympia sorgt für Streaming-Rekorde bei ARD und ZDF",
+          "link": "https://www.dwdl.de/zahlenzentrale/105635/olympia_sorgt_fuer_streamingrekorde_bei_ard_und_zdf/",
+          "summary": "ARD und ZDF verzeichneten während der Olympischen Winterspiele 2026 ihre höchsten Streaming-Nettoreichweiten seit Einführung der AGF-Programmmarken-Ausweisung 2024, mit 7,024 Millionen (ARD) bzw. 4,764 Millionen Zuschauern (ZDF) in der ersten vollen Olympia-Woche. Die crossmedialen Reichweiten stiegen sogar auf über 42 Millionen (ARD) und 38 Millionen (ZDF), was die dominierende Stellung von Live-Sport-Events im deutschen Streaming-Markt unterstreicht. Deutlich dahinter folgte das Dschungelcamp mit 1,879 Millionen Streaming-Zuschauern unter der IBES-Programmmarke.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Robert Mietusch wird neuer CEO bei Beans Entertainment",
+          "link": "https://www.dwdl.de/nachrichten/105638/robert_mietusch_wird_neuer_ceo_bei_beans_entertainment/",
+          "summary": "Robert Mietusch, langjähriger Mitarbeiter und bisheriger COO, übernimmt ab sofort als neuer CEO von Beans Entertainment und bildet eine Doppelspitze mit Gründer Arno Heinisch, der sich auf strategische Partnerschaften fokussiert. Der Führungswechsel erfolgt nach herausfordernden Jahren mit Personalabbau und Neuaufstellung des Unternehmens 2025. Mietusch soll das Unternehmen wirtschaftlich stabilisieren und die inhaltliche Entwicklung vorantreiben.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Bora Dagtekin verlängert Exklusiv-Vertrag bei Constantin Film",
+          "link": "https://www.dwdl.de/nachrichten/105637/bora_dagtekin_verlaengert_exklusivvertrag_bei_constantin_film/",
+          "summary": "Bora Dagtekin, Deutschlands kommerziell erfolgreichster Filmemacher (\"Fack Ju Göhte\", \"Das perfekte Geheimnis\"), verlängert seinen Exklusivvertrag mit Constantin Film. Aktuell arbeitet er an \"Der perfekte Urlaub\" (Kinostart Oktober), danach sollen zwei weitere Kinofilme im Rahmen der seit 2011 bestehenden Partnerschaft entstehen. Die Zusammenarbeit umfasste bisher Produktionen mit insgesamt 35,5 Millionen Zuschauern.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Scrubs\"-Neuauflage kommt noch im März nach Deutschland",
+          "link": "https://www.dwdl.de/nachrichten/105628/scrubsneuauflage_kommt_noch_im_maerz_nach_deutschland/",
+          "summary": "Die \"Scrubs\"-Neuauflage startet am 26. Februar bei ABC in den USA und kommt ab 25. März zu Disney+ Deutschland, mit Hauptdarstellern Zach Braff, Donald Faison und Sarah Chalke in ihren ursprünglichen Rollen sowie weiteren Original-Cast-Mitgliedern in Gastrollen. Die Serie spielt in der Gegenwart und zeigt die gealterten Ärzte, die auf eine neue Generation von Praktikanten treffen, wobei Original-Schöpfer Bill Lawrence erneut als ausführender Produzent fungiert.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Übernahme von Warner Bros.: Paramount versucht mit höherem Gebot Netflix auszustechen",
+          "link": "https://www.horizont.net/medien/nachrichten/uebernahme-von-warner-bros.-paramount-versucht-mit-hoeherem-gebot-netflix-auszustechen-233315?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Paramount hat im Übernahmekampf um Warner Bros. Discovery ein erhöhtes Gebot abgegeben, um den bereits favorisierten Netflix-Vorschlag zu überbieten. Der Verwaltungsrat von Warner Bros. Discovery prüft nun das überarbeitete Paramount-Angebot gegen das bereits angenommene Netflix-Gebot. Die Entscheidung über den finalen Käufer des Hollywood-Studios steht damit noch aus.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "AGF-Streaming-Daten: ARD und ZDF holen mit Olympia auch im Netz Top-Reichweiten",
+          "link": "https://www.horizont.net/medien/nachrichten/agf-streaming-daten-ard-und-zdf-holen-mit-olympia-auch-im-netz-top-reichweiten-233308?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "ARD und ZDF erzielten während der Olympischen Winterspiele nicht nur im linearen TV, sondern auch mit ihren Streaming-Angeboten Millionen-Reichweiten. Die aktuellen AGF-Streaming-Daten belegen die erfolgreiche digitale Vermarktung der olympischen Inhalte durch die öffentlich-rechtlichen Sender.",
+          "score": 9
+        },
+        {
+          "source": "kress",
+          "title": "Julia Becker drängt auf Digitalsteuer für Tech-Plattformen",
+          "link": "https://kress.de/news/beitrag/152212-julia-becker-draengt-auf-digitalsteuer-fuer-tech-plattformen.html",
+          "summary": "Funke-Aufsichtsratsvorsitzende Julia Becker fordert auf der DPA-Chefredaktionstagung die Umsetzung einer Digitalsteuer auf Tech-Plattformen, um deren marktbeherrschende Stellung zu begrenzen und das strukturelle Machtungleichgewicht zur deutschen Medienbranche auszugleichen. Medienstaatsminister Wolfram Weimer bekräftigt seine Pläne für einen \"Plattform-Soli\" als zweckgebundene Abgabe und zeigt sich zuversichtlich, diese noch 2026 durchsetzen zu können, trotz Widerständen der CSU.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Video Daily: TV-Quoten & Streaming-Charts \"Hirschhausen und der Zucker\" holt starke Zahlen im jungen Publikum Am ersten Tag nach dem Olympischen Winterspielen ging das Siegertreppchen bei den 14- bis 49-Jährigen dennoch an Das Erste: Die 20-Uhr-\"Tagesschau\", der \"Brennpunkt\" zum Jahrestag des Ukraine-Kriegs und der 45-Minüter \"Hirschhausen und der Zucker\" besiegten die komplette Konkurrenz",
-          "link": "https://meedia.de/news/beitrag/21193-quot-hirschhausen-und-der-zucker-quot-holt-starke-zahlen-im-jungen-publikum.html",
-          "summary": "Am Tag nach den Olympischen Winterspielen dominierte Das Erste bei den 14- bis 49-Jährigen mit \"Tagesschau\", Ukraine-Brennpunkt und \"Hirschhausen und der Zucker\" (2,92 Mio./12,0%) die Konkurrenz, während im Gesamtpublikum der ZDF-Krimi \"Unter anderen Umständen\" mit 6,37 Millionen Zuschauern und 26,3% Marktanteil gewann. Trotz Rückgangs gegenüber dem Vorjahr war dies die erfolgreichste Folge der seit 2006 laufenden ZDF-Krimireihe.",
-          "score": 7
+          "title": "Bieterstreit um Warner Bros. Discovery Paramount erhöht Gebot Paramount Skydance will nicht...",
+          "link": "https://meedia.de/news/beitrag/21204-paramount-erhoeht-gebot.html",
+          "summary": "Paramount Skydance hat sein Übernahmeangebot für Warner Bros. Discovery auf 31 Dollar pro Aktie erhöht, um die geplante Fusion mit Netflix zu verhindern, die nur an Teilen des Konzerns interessiert ist. Während Netflix 83 Milliarden Dollar für das Studio- und Streaminggeschäft bietet, will Paramount den gesamten Konzern inklusive CNN für über 108 Milliarden Dollar übernehmen. Der Warner-Verwaltungsrat prüft das verbesserte Paramount-Angebot und gibt Netflix vier Tage Zeit für eine Gegenofferte.",
+          "score": 10
         },
         {
           "source": "meedia",
-          "title": "Dossier Handel: Meinung Warum FMCG-Unternehmen zu oft neue Marken erfinden",
-          "link": "https://meedia.de/news/beitrag/21170-warum-fmcg-unternehmen-zu-oft-neue-marken-erfinden-und-teuer-dafuer-bezahlen.html",
-          "summary": "FMCG-Unternehmen neigen dazu, für neue Produkte reflexartig neue Marken zu entwickeln, anstatt bestehende starke Marken zu erweitern - eine Entscheidung, die eher von Angst und Eitelkeit als von ökonomischer Vernunft getrieben wird. Laut Strategieberater Peter Kiefer liegt das größere Risiko darin, vorhandene Markenstärke nicht zu nutzen, da Markenerweiterungen marktorientierter sind als interne Absicherungsstrategien. Unternehmen sollten ihre etablierten Marken strategisch ausbauen, statt kostspielige Neumarkenentwicklungen zu betreiben.",
+          "title": "Automatisierung Das steckt hinter Amazons Creative Agent Schon im letzten Jahr zeigte Amazon, in...",
+          "link": "https://meedia.de/news/beitrag/21202-das-steckt-hinter-amazons-creative-agent.html",
+          "summary": "Amazons Creative Agent ist ein KI-gestützter Chatbot, der den kompletten Werbeerstellungsprozess von der Konzeptentwicklung bis zur finalen Video-Anzeige automatisiert und dabei aus einfachen Produktbildern hochwertige Videos generiert. Das Tool eignet sich besonders für Unternehmen ohne bisherige Video-Werbung und kann dank DSP-Integration auch außerhalb von Amazon eingesetzt werden. Erste Tests zeigen beeindruckende Videoqualität, jedoch Limitierungen bei CI-konformen Inhalten und komplexen, erklärungsbedürftigen Produkten.",
           "score": 7
         },
         {
-          "source": "meedia",
-          "title": "Nach Pitch Wechsel zu neuer Digitalagentur Jägermeister erwartet von neuer Digitalagentur...",
-          "link": "https://meedia.de/news/beitrag/21188-jaegermeister-erwartet-von-neuer-digitalagentur-serviceplan-mehr-verknuepfung-zwischen-disziplinen.html",
-          "summary": "Jägermeister wechselt nach einem Pitch von der langjährigen Digitalagentur la red zu Serviceplan, die bereits den Mediaetat der Spirituosenmarke seit 2023 betreut. Das neue Digital-Mandat umfasst Social Media, digitale Owned Channels und Hero-Kampagnen und wird im House of Communication Hamburg bearbeitet. Ziel ist eine engere Verzahnung von Content, Kreation und Media-Strategie unter dem integrierten Serviceplan-Ansatz.",
+          "source": "Guardian Media",
+          "title": "Netflix, Disney+ and Prime Video to come under stricter regulation in UK",
+          "link": "https://www.theguardian.com/media/2026/feb/24/netflix-disney-prime-video-uk-regulator-ofcom",
+          "summary": "Die britische Medienaufsichtsbehörde Ofcom erhält erweiterte Regulierungsbefugnisse über große Streaming-Dienste wie Netflix, Disney+ und Prime Video, wodurch diese denselben Standards wie traditionelle Rundfunkanbieter unterliegen. Die neuen Vorschriften gelten für Video-on-Demand-Services mit über 500.000 UK-Zuschauern und umfassen Beschwerdeuntersuchungen sowie Geldstrafen bis zu £250.000 oder 5% des UK-Umsatzes pro Verstoß. Bisher unterlag beispielsweise Netflix aufgrund seines europäischen Hauptsitzes in Amsterdam niederländischem Recht und nicht der britischen Rundfunkregulierung.",
+          "score": 10
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Meta agrees $60bn deal with chipmaker AMD despite AI bubble fears",
+          "link": "https://www.theguardian.com/technology/2026/feb/24/meta-amd-deal-chipmaker-ai-bubble-facebook",
+          "summary": "Meta hat einen 60-Milliarden-Dollar-Deal über fünf Jahre mit AMD für AI-Chips abgeschlossen und erwirbt dabei 10% des Unternehmens, was Teil einer Multi-Vendor-Strategie zur Diversifizierung jenseits von Nvidia darstellt. AMD wird ab der zweiten Jahreshälfte mit der Lieferung von 6GW an Chips beginnen, startend mit 1GW der neuen MI450-Hardware. Der Deal spiegelt die Bemühungen großer Tech-Konzerne wider, Supply-Chain-Engpässe bei Nvidia zu umgehen und unterstreicht Metas massive Investitionen in AI-Infrastruktur trotz Bedenken über eine mögliche AI-Blase.",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Paramount Skydance sweetens bid for Warner Bros Discovery",
+          "link": "https://www.theguardian.com/media/2026/feb/23/paramount-skydance-bid-warner-bros-discovery",
+          "summary": "Paramount Skydance hat sein feindliches Übernahmegebot für Warner Bros Discovery (WBD) nachgebessert, um die bestehende 82,7 Mrd. Dollar-Vereinbarung mit Netflix zu durchkreuzen. Das neue Angebot umfasst die Übernahme einer 2,8 Mrd. Dollar Netflix-Ausstiegsgebühr, Refinanzierungsunterstützung zur Kosteneinsparung von 1,5 Mrd. Dollar sowie eine vierteljährliche \"Ticking Fee\" von 650 Mio. Dollar bei Verzögerungen. Der WBD-Vorstand prüft das überarbeitete Angebot, empfiehlt jedoch weiterhin die Netflix-Transaktion und rät Aktionären von voreiligen Handlungen ab.",
+          "score": 10
+        },
+        {
+          "source": "Deadline",
+          "title": "ITV Studios Launches Studio 55 & Opens Up Library To Content Creators; Former Snap Exec To Oversee New Label",
+          "link": "https://deadline.com/2026/02/itv-studios-launch-studio-55-content-creators-love-island-1236735540/",
+          "summary": "ITV Studios hat Studio 55 als neues Label gegründet, um Marken und Content-Creatoren beispiellosen Zugang zu seiner IP-Bibliothek zu gewähren und digitale Formate sowie Lizenzierungsaktivitäten für Shows wie Love Island und The Voice zu entwickeln. Das Label wird von Will Scougal geleitet, dem neuen EVP of Brand & Commercial Partnerships und ehemaligen Snapchat/X-Manager, mit dem Ziel, Marken natürlich in Fan-Communities zu integrieren. Das erste Projekt ist ein LGBTQ+-Dating-Podcast namens \"It Started With a Kiss\".",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Andrew Lincoln Voicing ITV’s ‘Force Of Nature’ & Promises: “The Show Captures What Other Wildlife Series Have Not”",
+          "link": "https://deadline.com/2026/02/andrew-lincoln-voicing-force-of-nature-wildlife-series-itv-1236735531/",
+          "summary": "Andrew Lincoln wird die neue Naturdokumentation \"Force of Nature\" für ITV und ARD sprechen, die von Plimsoll Productions produziert wird und sich auf die Auswirkungen extremer Wetterereignisse und des Klimawandels auf die Tierwelt fokussiert. Die Serie verspricht einen neuen Ansatz im Natural History-Genre durch dramatisches, charaktergetriebenes Storytelling, das die Widerstandsfähigkeit der Natur gegen Hurrikane, Überschwemmungen und andere extreme Wetterphänomene zeigt. ITV Studios vertreibt die Serie international, wobei der Verkauf auf den London TV Screenings diese Woche startet.",
           "score": 7
         },
         {
-          "source": "meedia",
-          "title": "Mit neuer Social-Agentur Jack Wolfskin: „konsequente“ Öffnung für junge Zielgruppe Das ungezügelte Werbewachstum auf Social-Media-Plattformen wird allenthalben hinterfragt. Auch Werbungtreibende stehen dieser Entwicklung kritisch gegenüber",
-          "link": "https://meedia.de/news/beitrag/21190-jack-wolfskin-konsequente-oeffnung-fuer-junge-zielgruppe.html",
-          "summary": "Jack Wolfskin hat die Münchner Agentur Mawave als neue Social-Lead-Agentur mit Fokus auf TikTok beauftragt, um die strategische Öffnung zur jungen Zielgruppe \"konsequent\" voranzutreiben. Die Partnerschaft ab März umfasst ein ganzheitliches Social-Setup auf Meta und TikTok mit dem Ziel, die bereits über 500.000 Follower starke TikTok-Community weiter zu aktivieren und die Markenrelevanz auszubauen.",
+          "source": "Deadline",
+          "title": "Federation Finds More Buyers For ‘A Tale Of Two Cities’ Starring Kit Harington",
+          "link": "https://deadline.com/2026/02/a-tale-of-two-cities-kit-harington-sales-1236734303/",
+          "summary": "Federation Studios hat weitere Verkäufe für die Kit Harington-Serie \"A Tale of Two Cities\" nach Kanada (CBC), Belgien (RTBF) und nordische Sender abgeschlossen, nachdem bereits BBC, MGM+ und Prime Video France an Bord waren. Die vierteilige Dickens-Adaption mit Harington, François Civil und Mirren Mack hat laut Federation-Vertriebschef Guillaume Pommier die Verkaufserwartungen übertroffen, obwohl der Markt für Kostümdramen derzeit schwierig ist. Das begrenzte Format von vier Episoden reduziert das Risiko für lineare Sender, während starke Besetzung und IP den Erfolg unterstützen.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "‘The Late Show’s Stephen Colbert Goes Live For The Last Time After State Of The Union: “These Are Always Kind Of Rough With Trump”",
+          "link": "https://deadline.com/2026/02/the-late-show-stephen-colbert-live-state-of-the-union-1236735511/",
+          "summary": "Stephen Colbert führte seine letzte Live-Episode von The Late Show nach Donald Trumps rekordverdächtig langer State of the Union-Rede durch, die über 105 Minuten dauerte. Colbert kritisierte die Rede als \"dunkel und voller spaltender Lügen\" und verspottete Trumps niedrige Zustimmungswerte von 36% sowie dessen Selbstbeweihräucherung während der Ansprache. Die Show startete mit fast 30 Minuten Verspätung aufgrund der außergewöhnlichen Länge von Trumps zweiter SOTU-Rede seiner zweiten Amtszeit.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Paramount Welcomes WBD Talks, Details New Elements Of Sweetened $31-A-Share Offer",
+          "link": "https://deadline.com/2026/02/paramount-welcomes-wbd-talks-new-elements-sweeter-offer-1236735333/",
+          "summary": "Paramount hat sein Übernahmeangebot für Warner Bros. Discovery auf 31 Dollar je Aktie erhöht und zusätzliche Zugeständnisse gemacht, darunter eine höhere regulatorische Kündigungsgebühr von 7 Milliarden Dollar und beschleunigte \"Ticking Fees\". WBDs Vorstand bewertete das verbesserte Angebot als potenziell überlegen gegenüber der bestehenden Netflix-Fusion und verlängerte die Verhandlungen mit David Ellisons Paramount entsprechend.",
+          "score": 10
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "‘Hijack,’ ‘Lupin’ Creator’s Psychological Thriller ‘Gone’ Going to BritBox for U.S., Canada",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/hijack-lupin-creator-series-gone-britbox-us-canada-1236514466/",
+          "summary": "BritBox hat die Rechte für die USA und Kanada an der psychologischen Thriller-Serie \"Gone\" von George Kay (\"Hijack\", \"Lupin\") erworben, die im Frühjahr 2024 auf ITV UK Premiere hat. Die sechsteilige Serie mit David Morrissey und Eve Myles dreht sich um das Verschwinden einer Frau und den Verdacht gegen ihren Ehemann, einen Schulleiter, der von einer Detektivin in einem intensiven psychologischen Duell konfrontiert wird. Weitere internationale Verkäufe umfassen NRK Norwegen, Stan Australien, Sky Neuseeland und BBC Studios für den asiatischen Markt.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Why UMG U.K.’s Globe Is Pushing Deeper Into Scripted Content With Globe Originals and Multi-Hyphenates",
-          "link": "https://www.hollywoodreporter.com/music/music-features/globe-originals-scripted-content-push-music-film-interview-1236509485/",
-          "summary": "Universal Music Group U.K.'s Globe expandiert über das traditionelle Musik-Sync-Geschäft hinaus mit Globe Originals, einer Einheit die musikzentrierte Filme und TV-Produktionen entwickelt, darunter erfolgreiche Projekte wie \"Amy\", \"Hamnet\" und \"This Town\". Das Unternehmen unter Präsident Marc Robinson dehnt seine Aktivitäten in die USA aus und hat eine Partnerschaft mit Hollywood-Produzentin Shannon McIntosh für eine Reihe musikgetriebener Spielfilme angekündigt. Ziel ist es, neue Karrierewege für Multi-Talente und Künstler zu schaffen, die über ihre traditionellen Bereiche hinaus expandieren möchten.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Anthony Chen’s Berlin Competition Film ‘We Are All Strangers’ Scores Major Worldwide Deals for Paradise City Sales (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/news/anthony-chen-we-are-all-strangers-global-deals-1236670221/",
-          "summary": "Anthony Chens Berlinale-Wettbewerbsfilm \"We Are All Strangers\" hat als erste singapurische Produktion in der Hauptsektion des Festivals weltweite Vertriebsdeals über Paradise City Sales abgeschlossen, darunter mit ARP Selection (Frankreich), Curzon (UK/Irland) und Golden Scene (Hong Kong). Der Film komplettiert Chens \"Growing Up\"-Trilogie nach \"Ilo Ilo\" (Cannes Caméra d'Or) und \"Wet Season\" mit den wiederkehrenden Hauptdarstellern Yeo Yann Yann und Koh Jia Ler. Die Produktion wurde von Giraffe Pictures realisiert mit Finanzierung durch 127 Wall Productions, den Singapore Film Commission und weitere internationale Fonds.",
+          "title": "Whistleblower Claims Paramount President Jeff Shell Leaked Details of $7.7 Billion UFC Deal",
+          "link": "https://www.hollywoodreporter.com/business/business-news/paramount-president-jeff-shell-leaked-details-of-ultimate-fighting-championship-deal-rj-cipriani-1236514207/",
+          "summary": "Ein Whistleblower beschuldigt Paramount-Präsident Jeff Shell, vertrauliche Details über den 7,7 Milliarden Dollar schweren UFC-Medienrechte-Deal fast einen Monat vor dessen offizieller Ankündigung im August 2025 unrechtmäßig preisgegeben zu haben. Die SEC prüft nun eine entsprechende Whistleblower-Beschwerde, während eine externe Anwaltskanzlei die Vorwürfe des Insiderhandels untersucht. Der Vorfall belastet Paramount zu einem kritischen Zeitpunkt, da das Unternehmen gerade sein Übernahmeangebot für Warner Bros. Discovery erhöht hat.",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "Australia’s Filmbarr Formally Launches With Pair of SXSW Titles, Unveils Slate Including FrightFest Horror and Venice-Linked True Crime Drama (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/news/australia-filmbarr-launch-sxsw-titles-1236670986/",
-          "summary": "Die neu gegründete australische Produktionsfirma Filmbarr debütiert auf der SXSW 2026 mit zwei Filmen, darunter der Weltpremiere des Psychothrillers \"And Her Body Was Never Found\" in der Visions-Sektion. Das von Tristan Barr, Josh Doke und Erin Crittenden gegründete Unternehmen fokussiert sich auf formal innovative, regisseurgetriebene Genrefilme mit internationalen Besetzungen für sowohl Festival- als auch kommerzielle Zielgruppen. Filmbarr präsentiert zudem eine vierteilige Slate mit elevated Horror, True Crime und Prestige-Drama-Projekten.",
+          "title": "A Contracorriente Boards Thriller ‘Hour and Twenty’ Ahead of Malaga Bow (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/global/a-contracorriente-hour-and-twenty-macarena-gomez-malaga-1236671726/",
+          "summary": "A Contracorriente Films hat die spanischen Vertriebsrechte sowie den internationalen Vertrieb für M. A. Romeros Thriller \"Hour and Twenty\" übernommen, der am 12. März beim Málaga Festival Weltpremiere feiert. Der von wahren Ereignissen inspirierte Film folgt einer Mutter (Macarena Gómez), deren sechsjähriger Sohn an Heiligabend in einem Einkaufszentrum verschwindet, während Zweifel an ihrer geistigen Verfassung und ihrer kriminellen Vergangenheit aufkommen. Das hochkarätige Cast umfasst die Goya-Preisträger Roberto Álamo und Emma Suárez.",
           "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "‘Gone,’ From ‘Hijack’ and ‘Lupin’ Creator George Kay, Pre-Sold to BritBox for North America by All3Media International (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/global/gone-george-kay-britbox-bbc-stan-all3media-international-1236672242/",
+          "summary": "\"Gone\", eine neue sechsteilige psychologische Thrillerserie von George Kay (\"Hijack\", \"Lupin\") mit David Morrissey und Eve Myles, wurde von All3Media International erfolgreich an mehrere internationale Broadcaster und Streaming-Dienste vorverkauft. Zu den wichtigsten Deals gehören BritBox für Nordamerika, Stan für Australien, Sky Neuseeland und BBC First/BBC Player für Asien sowie NRK Norwegen. Die Serie wird im März auf ITV/ITVX ausgestrahlt und war eines der Highlight-Titel bei den London TV Screenings.",
+          "score": 8
         }
       ]
     }
