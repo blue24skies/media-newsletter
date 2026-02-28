@@ -1,245 +1,175 @@
 {
   "newsletters": [
     {
-      "date": "2026-02-27",
+      "date": "2026-02-28",
       "articles": [
         {
           "source": "DWDL",
-          "title": "\"Ballz\": ZDF dreht \"radikale Comedyserie\" mit Maximilian Mundt",
-          "link": "https://www.dwdl.de/nachrichten/105679/ballz_zdf_dreht_radikale_comedyserie_mit_maximilian_mundt/",
-          "summary": "Das ZDF produziert für ZDFneo die Instant-Fiction-Serie \"Ballz\" mit Maximilian Mundt als Fitnesstrainer, der eine Hodenkrebs-Diagnose vor seiner Freundin verheimlicht und sich dadurch in absurde Lügenkonstrukte verstrickt. Die von Ziegler Film produzierte Comedyserie behandelt Männlichkeitsbilder und läuft unter der Regie von Benjamin Teske noch bis 11. März in den Dreharbeiten in Berlin. Ein Ausstrahlungstermin steht noch nicht fest.",
-          "score": 7
+          "title": "Joyn erleidet erneut juristische Schlappe im Embedding-Streit",
+          "link": "https://www.dwdl.de/nachrichten/105695/joyn_erleidet_erneut_juristische_schlappe_im_embeddingstreit/",
+          "summary": "Das Oberlandesgericht Köln hat Joyn die Integration der ARD-Mediathek ohne Erlaubnis untersagt und das Verhalten als wettbewerbswidrig und als Verstoß gegen den Medienstaatsvertrag eingestuft. Das Gericht verschärfte damit ein vorheriges Landgerichtsurteil und sah auch in der reinen Verlinkung zur vollständigen Mediathek-Übernahme eine unzulässige Täuschung der Nutzer über die Herkunft des Angebots. ProSiebenSat.1 zeigt sich gelassen und verweist auf die zwischenzeitlich geänderte Rechtslage im Medienstaatsvertrag.",
+          "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Barny Mills hat schon einen neuen Job bei der Sky Group",
-          "link": "https://www.dwdl.de/nachrichten/105678/barny_mills_hat_schon_einen_neuen_job_bei_der_sky_group/",
-          "summary": "Barny Mills, aktueller CEO von Sky Deutschland, wechselt ab März in eine Konzernfunktion als Group CFO und CEO New Business der Sky Group, während er bis zum Abschluss der geplanten RTL-Übernahme weiterhin die Geschäfte in Deutschland führt. Die Personalie deutet darauf hin, dass Sky von einem baldigen Vollzug des Deals ausgeht, wobei die künftige Führungsstruktur unter RTL noch ungeklärt ist. Mills, der seit 2023 CEO und zuvor Finanzchef war, soll laut Sky Group-Chefin Dana Strong auf Konzernebene die Wachstumspläne vorantreiben.",
+          "title": "Warner Bros. stimmt Übernahme durch Paramount zu",
+          "link": "https://www.dwdl.de/nachrichten/105692/warner_bros_stimmt_uebernahme_durch_paramount_zu/",
+          "summary": "Paramount Skydance übernimmt Warner Bros. Discovery für 110 Milliarden US-Dollar (31 USD pro Aktie), wobei die Fusion nach behördlicher Genehmigung im dritten Quartal 2026 abgeschlossen werden soll. Der Zusammenschluss verspricht Kostensynergien von über sechs Milliarden Dollar durch Technologieintegration und Effizienzsteigerungen, wird aber voraussichtlich auch massive Entlassungen zur Folge haben. Die Übernahme erfolgt nach Netflix' Ausstieg aus dem Bieterstreit und soll laut den CEOs ein \"Medien- und Unterhaltungsunternehmen der nächsten Generation\" schaffen.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Ab jetzt tickt die Uhr: RTL meldet geplante Sky-Übernahme an",
+          "link": "https://www.dwdl.de/nachrichten/105690/ab_jetzt_tickt_die_uhr_rtl_meldet_geplante_skyuebernahme_an/",
+          "summary": "RTL hat am Freitag die geplante Übernahme der Sky-Aktivitäten in Deutschland, Österreich und der Schweiz offiziell bei der EU-Kommission angemeldet, wodurch die erste kartellrechtliche Prüfungsphase startet. Die EU-Kommission hat bis zum 8. April Zeit zu entscheiden, ob sie den Deal ohne Auflagen genehmigt, Bedingungen stellt oder eine vertiefte Prüfung einleitet. RTL strebt weiterhin eine Abwicklung der Transaktion im ersten Halbjahr 2026 an.",
           "score": 9
         },
         {
           "source": "DWDL",
-          "title": "Netflix steigt aus: Der Weg ist frei für Paramount",
-          "link": "https://www.dwdl.de/nachrichten/105674/netflix_steigt_aus_der_weg_ist_frei_fuer_paramount/",
-          "summary": "Netflix zieht sich aus dem Übernahmekampf um Warner Bros. Discovery zurück, nachdem Paramount sein Angebot um nur 1 Dollar je Aktie auf 31 Dollar erhöht und damit eine \"Company Superior Proposal\"-Einstufung erhalten hatte. Die Netflix-Co-CEOs begründeten den Ausstieg mit mangelnder finanzieller Attraktivität bei dem erforderlichen Preis und betonten, dass die Übernahme lediglich ein \"Nice-to-have\" gewesen sei. Paramount muss nun voraussichtlich eine Vertragsstrafe von 2,8 Milliarden Dollar zahlen, wenn WBD den Netflix-Deal aufkündigt.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "WBD hält Paramount-Angebot für überlegen - zieht Netflix nach?",
-          "link": "https://www.dwdl.de/nachrichten/105673/wbd_haelt_paramountangebot_fuer_ueberlegen__zieht_netflix_nach_/",
-          "summary": "Warner Bros. Discovery hat das verbesserte Übernahmeangebot von Paramount Skydance als dem bestehenden Netflix-Deal überlegen eingestuft, wodurch Netflix nun vier Werktage Zeit hat, sein Angebot nachzubessern oder den Verlust des Deals zu riskieren. Paramount erhöhte den Kaufpreis nur moderat auf 31 US-Dollar je Aktie, bietet aber zusätzlich die Übernahme der 2,8 Milliarden Dollar Vertragsstrafe sowie 7 Milliarden Dollar Entschädigung bei regulatorischen Problemen. Netflix muss bis kommenden Mittwoch entscheiden, ob es in den Bieterwettbewerb um WBD einsteigt.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "PAL Next schielt künftig auch außerhalb des Filmgeschäfts",
-          "link": "https://www.dwdl.de/nachrichten/105671/pal_next_schielt_kuenftig_auch_ausserhalb_des_filmgeschaefts/",
-          "summary": "PAL Next (ehemals Pantaflix) erweitert sein Geschäftsmodell über das bisherige Filmgeschäft hinaus und will künftig auch in anderen Branchen Beteiligungen eingehen. Die Diversifizierung soll den schwankenden Ergebnisbeiträgen des projektbasierten Entertainment-Geschäfts entgegenwirken. Konkrete Zielsektoren befinden sich noch in der Evaluierungsphase.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "RTL+ zeigt weitere \"Pumuckl\"-Folgen ab Ende März",
-          "link": "https://www.dwdl.de/nachrichten/105670/rtl_zeigt_weitere_pumucklfolgen_ab_ende_maerz/",
-          "summary": "RTL+ stellt ab 26. März die sechs ausstehenden Folgen der zweiten \"Pumuckl\"-Staffel zum Abruf bereit, nachdem bereits sieben Episoden zu Weihnachten gezeigt wurden. Eine lineare Ausstrahlung der neuen Folgen ist für Ostern im RTL-Nachmittagsprogramm geplant. Die von NeueSuper produzierte Serie unter der Regie von Marcus H. Rosenmüller setzt auf Florian Brückner als Meister Eder und Maxi Schafroth als KI-unterstützte Pumuckl-Stimme.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Bertram Gugel wird neuer Leiter von ARD Online",
-          "link": "https://www.dwdl.de/nachrichten/105669/bertram_gugel_wird_neuer_leiter_von_ard_online/",
-          "summary": "Bertram Gugel übernimmt ab März die Leitung von ARD Online und des Geschäftsfelds Plattformen der ARD Tech-Unit als Nachfolger von Benjamin Fischer, der zur Arte Deutschland gewechselt ist. Der 44-jährige bisherige Head of Product bei ARD Online verantwortet künftig die digitale Entwicklung von Mediathek, Audiothek und ARD.de sowie die gemeinsame Plattformstrategie von ARD, ZDF und Deutschlandradio. Gugel bringt umfassende Erfahrung in der Produktentwicklung digitaler Medienplattformen mit, unter anderem durch seine Arbeit bei Arte, Axel Springer und der Deutschen Telekom.",
+          "title": "Zwei Direktionen weniger: So stellt sich der SWR neu auf",
+          "link": "https://www.dwdl.de/nachrichten/105684/zwei_direktionen_weniger_so_stellt_sich_der_swr_neu_auf/",
+          "summary": "Der SWR reduziert ab 2027 seine Organisationsstruktur von acht auf sechs Direktionen, wobei die beiden separaten Landessenderdirektionen für Rheinland-Pfalz und Baden-Württemberg wegfallen und deren Aufgaben in die neu strukturierten Programmdirektionen integriert werden. Die Umstrukturierung erfolgt im Rahmen der Kostensenkungsmaßnahmen des Senders und wird durch den neuen SWR-Staatsvertrag von September 2025 rechtlich ermöglicht. Zusätzlich werden die bisherige Verwaltungsdirektion und Teile der Direktion Innovationsmanagement in einer neuen \"Direktion Organisation, Administration und Audience\" zusammengeführt.",
           "score": 8
         },
         {
-          "source": "DWDL",
-          "title": "RTL sichert sich Film-Nachschub von Sony Pictures",
-          "link": "https://www.dwdl.de/nachrichten/105667/rtl_sichert_sich_filmnachschub_von_sony_pictures/",
-          "summary": "RTL Deutschland und Sony Pictures Entertainment Deutschland haben ihre Partnerschaft ausgebaut und einen umfassenden Lizenzvertrag geschlossen, der RTL+ Second-Pay-Window-Rechte für aktuelle Kinofilme wie \"Venom: The Last Dance\" und \"Kraven The Hunter\" sowie für etablierte Franchise-Titel sichert. Die Vereinbarung umfasst sowohl Streaming-Rechte für RTL+ als auch Free-TV-Lizenzen für Titel wie \"Passengers\" und die \"Hotel Transsilvanien\"-Reihe. Über die Vertragslaufzeit wurden keine Details bekannt gegeben.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Paramount weitet Verluste vor angestrebter WBD-Übernahme aus",
-          "link": "https://www.dwdl.de/nachrichten/105666/paramount_weitet_verluste_vor_angestrebter_wbduebernahme_aus/",
-          "summary": "Paramount Skydance verzeichnete im Q4 2025 trotz 2% Umsatzwachstum auf 8,15 Mrd. USD einen operativen Verlust von 339 Mio. USD, wobei das klassische TV-Geschäft (-5%) und Pluto TV (-16%) stark rückläufig waren, während Streaming-Dienst Paramount+ auf 78,9 Mio. Abonnenten wuchs. Die Zahlen erscheinen vor dem Hintergrund der laufenden Übernahmeverhandlungen um Warner Bros. Discovery, wo Paramount mit einem nachgebesserten Angebot gegen Netflix konkurriert.",
+          "source": "Horizont Medien",
+          "title": "Medienkonzern: RTL meldet geplante Sky-Übernahme bei EU-Kommission an",
+          "link": "https://www.horizont.net/medien/nachrichten/medienkonzern-rtl-meldet-geplante-sky-uebernahme-bei-eu-kommission-an-233368?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "RTL hat die geplante Übernahme von Sky Deutschland offiziell bei der EU-Kommission zur wettbewerbsrechtlichen Prüfung angemeldet. Der Medienkonzern zeigt sich zuversichtlich, die erforderliche Genehmigung zu erhalten und die Transaktion im ersten Halbjahr 2026 erfolgreich abzuschließen. Die Übernahmepläne waren bereits im Sommer 2025 öffentlich bekannt gegeben worden.",
           "score": 9
         },
         {
-          "source": "DWDL",
-          "title": "Raab Entertainment arbeitet an Neuauflage der \"Schillerstraße\"",
-          "link": "https://www.dwdl.de/nachrichten/105664/raab_entertainment_arbeitet_an_neuauflage_der_schillerstrasse/",
-          "summary": "Raab Entertainment arbeitet an einer Neuauflage der erfolgreichen Impro-Comedy \"Schillerstraße\", die von 2004 bis 2011 bei Sat.1 lief und mehrfach ausgezeichnet wurde. Das Comeback-Projekt läuft ohne Stefan Raab als Gastgeber und weder für RTL noch für den ursprünglichen Sender Sat.1, wobei sich das Unternehmen bereits entsprechende Wortmarken gesichert hat. Sender und Cast der geplanten Neuauflage stehen noch nicht fest.",
+          "source": "kress",
+          "title": "Netflix steigt beim Poker um Warner Bros.",
+          "link": "https://kress.de/news/beitrag/152231-netflix-steigt-beim-poker-um-warner-bros-discovery-aus.html",
+          "summary": "Netflix hat seine geplante Übernahme von Warner Bros. Discovery abgebrochen, da das neue Gebot des Konkurrenten Paramount mit 131 Milliarden Dollar (31 USD pro Aktie) finanziell nicht mehr attraktiv erschien. Paramount, geführt von den Trump-Unterstützern David und Larry Ellison, will nun das komplette WBD-Geschäft inklusive CNN übernehmen, während Netflix nur an den Filmstudios und Streamingdiensten interessiert war. US-Präsident Trump hatte sich mehrfach in den Übernahmepoker eingeschaltet und betont, dass WBD nur als Ganzes verkauft werden dürfe.",
           "score": 10
         },
         {
-          "source": "DWDL",
-          "title": "Erstmals Wildcard-Staffel von \"7 vs. Wild\" bei Prime Video",
-          "link": "https://www.dwdl.de/nachrichten/105663/erstmals_wildcardstaffel_von_7_vs_wild_bei_prime_video/",
-          "summary": "Prime Video produziert erstmals eine Wildcard-Staffel von \"7 vs. Wild\" mit sieben Community-Teilnehmern, die sich durch Challenges in Schweden und Panama für einen Platz in der regulären sechsten Staffel qualifizieren können. Die siebenteilige Wildcard-Staffel wird exklusiv auf Prime Video ausgestrahlt (auch kostenlos mit Werbung verfügbar), während Bewerbungen ab sofort über YouTube und Social Media mit #7vswildcard möglich sind. Johannes Mickenbecker präsentiert beide Staffeln und reagiert damit auf Community-Kritik mit stärkerer Einbindung der Zuschauer in Format-Entscheidungen.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Vox setzt im März auf Heino und die \"Herbstresidenz\"",
-          "link": "https://www.dwdl.de/nachrichten/105655/vox_setzt_im_maerz_auf_heino_und_die_herbstresidenz/",
-          "summary": "Vox strahlt am 25. März eine neue Folge der preisgekrönten Doku-Reihe \"Herbstresidenz\" aus, die ein Jahr nach dem ursprünglichen Generationenprojekt zeigt, was aus den Bewohnern und Azubis geworden ist. Ende März folgt eine vierteilige Dokumentation über Heino (\"Heino - Karamba, Karacho, Kult!\"), die Karriere und Privatleben des Schlagerstars mit über 100.000 Archivfotos und prominenten Weggefährten beleuchtet. Beide Produktionen sind vorab bei RTL+ verfügbar, ergänzt wird das Programm im April durch die neue Staffel \"Doc Caro - Jedes Leben zählt\".",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Übernahme: Paramount fast am Ziel: Netflix steigt aus Bieterstreit um Warner Bros. aus",
-          "link": "https://www.horizont.net/medien/nachrichten/warner-bros.-discovery-paramount-fast-am-ziel-netflix-steigt-aus-bieterstreit-aus-233359?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Paramount erhöhte sein Übernahmeangebot für Warner Bros. Discovery auf 31 Dollar pro Aktie und setzte sich damit gegen Netflix durch. Der Warner-Verwaltungsrat bewertete Paramounts Offerte als überlegen gegenüber dem zuvor angenommenen Netflix-Angebot. Netflix verzichtete auf ein Gegenangebot, da eine weitere Erhöhung den Deal finanziell unattraktiv gemacht hätte.",
-          "score": 10
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Publishing: Wie sich Pressemarken gegenüber News-Influencern behaupten wollen",
-          "link": "https://www.horizont.net/medien/nachrichten/publishing-wie-sich-pressemarken-gegenueber-news-influencern-behaupten-wollen-233356?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Pressemarken stehen vor der Herausforderung, dass Konsumenten zunehmend News-Influencern und Creator-Persönlichkeiten folgen statt etablierten Medienmarken. Der Artikel behandelt Strategien von Publishern, wie sie in der Creator Economy ihre mediale Relevanz und Reichweite behaupten können. Im Fokus steht die grundlegende Verschiebung von markenbasierter zu personenbasierter Medienrezeption.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Rechtedeal: RTL sichert sich Spielfilmpaket von Sony Pictures",
-          "link": "https://www.horizont.net/medien/nachrichten/rechtedeal-rtl-sichert-sich-spielfilmpaket-von-sony-pictures-233348?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "RTL hat einen umfassenden Rechtedeal mit Sony Pictures abgeschlossen, der sowohl Streaming-Rechte für RTL+ als auch Free-TV-Rechte für das lineare Programm umfasst. Das Paket beinhaltet aktuelle Blockbuster wie \"Venom: The Last Dance\" und \"28 Years Later\" sowie weitere Spielfilme aus dem Sony-Portfolio. Der Deal stärkt RTLs Content-Angebot sowohl im linearen als auch im digitalen Bereich.",
-          "score": 8
-        },
-        {
           "source": "kress",
-          "title": "KI-Strategien und Praxis-Cases für Publisher Wie lassen sich KI-Strategien, redaktionelle Workflows...",
-          "link": "https://kress.de/news/beitrag/152143-kress-innovation-day-am-4-maerz-ki-strategien-und-praxis-cases-fuer-publisher.html",
-          "summary": "Der kress Innovation Day am 4. März 2026 behandelt KI-Strategien für Publisher mit Fokus auf internationale Trends, Agentic Advertising im Mediaeinkauf und messbaren KI-Mehrwert in Redaktionen. Praxisbeispiele der Rheinischen Post zeigen die systematische Integration von KI in redaktionelle Prozesse, während ein strategischer Impuls die digitale Neuordnung redaktioneller Strukturen statt bloßer Tool-Ergänzung fordert. Das kostenlose Online-Event richtet sich an Entscheider aus Medienhäusern und Verlagen.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Julia Becker drängt auf Digitalsteuer für Tech-Plattformen Bei der Chefredaktionstagung der dpa...",
-          "link": "https://kress.de/news/beitrag/152212-julia-becker-draengt-auf-digitalsteuer-fuer-tech-plattformen.html",
-          "summary": "Julia Becker, Aufsichtsratsvorsitzende von Funke, fordert bei der dpa-Chefredaktionstagung die Umsetzung einer Digitalsteuer auf Tech-Plattformen, um deren Marktmacht zu begrenzen und das strukturelle Ungleichgewicht auszugleichen, da diese mit Verlagsinhalten Erlöse erzielen. Medienstaatsminister Wolfram Weimer bekräftigte seine Pläne für einen \"Plattform-Soli\" als zweckgebundene Abgabe noch in diesem Jahr, wobei Widerstand von der CSU erwartet wird. Die Erlöse sollen in Medienvielfalt, lokale Projekte und Medienkompetenz fließen, ohne staatlichen Einfluss auf Redaktionen zu bedeuten.",
+          "title": "Schausten stellt weitere Konsequenzen in Aussicht Nach dem KI-Fehler im „heute journal“ räumt...",
+          "link": "https://kress.de/news/beitrag/152215-nach-ki-fehler-im-heute-journal-schausten-stellt-weitere-konsequenzen-in-aussicht.html",
+          "summary": "ZDF-Chefredakteurin Bettina Schausten erläutert im SZ-Interview die Hintergründe des KI-Fehlers im „heute journal\", bei dem KI-generierte Inhalte und falsch kontextualisierte Bilder verwendet wurden, was zur Entbindung der New York-Korrespondentin Nicola Albrecht von ihrer Leitungsfunktion führte. Schausten identifiziert sowohl unprofessionelle Bildrecherche der Autorin als auch Versagen der redaktionellen Kontrollprozesse als Ursachen und stellt weitere arbeitsrechtliche Konsequenzen in Aussicht. Der Vorfall wird als Systemproblem eingestuft, da mehrere Prüfstationen den Regelverstoß hätten erkennen müssen.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Einer der Köpfe hinter den Mediatheken ARD holt Plattform-Experten Bertram Gugel an die Spitze von...",
-          "link": "https://meedia.de/news/beitrag/21222-ard-holt-plattform-experten-bertram-gugel-an-die-spitze-von-ard-online.html",
-          "summary": "Bertram Gugel (44) übernimmt ab 1. März die Leitung von ARD Online und des Geschäftsfelds Plattformen in der ARD-Tech-Unit, nachdem sein Vorgänger Benjamin Fischer zu arte Deutschland gewechselt war. Der bisherige Head of Product und SWR-Abteilungsleiter soll die Produktentwicklung von ARD Mediathek, ARD Audiothek und ARD.de vorantreiben sowie die übergreifende Plattformarchitektur zwischen ARD, ZDF und Deutschlandradio koordinieren. Gugel gilt als anerkannter Experte für Plattformökonomie mit strategischem Weitblick und fundierter technischer Fachkenntnis.",
+          "title": "100 Millionen Keywords untersucht XXL-Analyse von Sistrix: Websites verlieren in Deutschland 265...",
+          "link": "https://meedia.de/news/beitrag/21228-xxl-analyse-von-sistrix-websites-verlieren-in-deutschland-265-millionen-klicks-pro-monat-durch-googles-ai-overviews.html",
+          "summary": "Eine Sistrix-Analyse von 100 Millionen Keywords zeigt, dass Googles AI-Overviews bereits bei 20% der Suchbegriffe in Deutschland erscheinen und Websites dadurch etwa 265 Millionen Klicks pro Monat verlieren. Die KI-Zusammenfassungen stehen in 78,6% der Fälle ganz oben in den Suchergebnissen und reduzieren den Traffic erheblich, da Nutzer nach dem Lesen der Overviews seltener die ursprünglichen Quellen besuchen.",
           "score": 8
         },
         {
           "source": "meedia",
-          "title": "Regionale Ausspielungsvarianten ARD-Popwellen setzen auf KI",
-          "link": "https://meedia.de/news/beitrag/21220-ard-popwellen-setzen-auf-ki-fuer-wetter-und-verkehrsmeldungen.html",
-          "summary": "Die ARD-Popwellen führen ab 3. März einen KI-gestützten Service ein, der in den gemeinsamen Abend- und Nachtsendungen regionalisierte Wetter- und Verkehrsmeldungen für die acht beteiligten Programme (hr3, rbb 88.8, MDR Jump, NDR 2, Bremen Vier, SR 1, SWR3, WDR 2) ermöglicht. Das vom SWR3 produzierte System ersetzt die bisher bundesweit einheitlichen Durchsagen durch individuell zugeschnittene Informationen je Sendegebiet. Die Einführung erfolgt zeitgleich zur kontroversen Debatte um KI-generierte Bilder im ZDF-„heute-journal\".",
+          "title": "Analyse von Integral Ad Science (IAS) Genysis, das gigantische Made-for-Advertising-Betrugsnetzwerk...",
+          "link": "https://meedia.de/news/beitrag/21229-genysis-das-gigantische-made-for-advertising-betrugsnetzwerk.html",
+          "summary": "Das IAS Threat Lab hat das Betrugsnetzwerk \"Genisys\" aufgedeckt, bei dem über 25 Millionen Smartphones und Tablets durch manipulierte Apps unbemerkt betrügerische Werbeimpressionen generieren. Die Apps laden im Hintergrund KI-erstellte Webseiten und rechnen diese als legitime Werbeeinblendungen ab, ohne dass die Gerätebesitzer davon wissen. Genisys stellt durch den Einsatz von KI eine neue Dimension des Ad Fraud dar und übertrifft frühere Betrugsschemata wie \"Arcade\" erheblich in seinem Umfang.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "\"Elevate28\" WPP-CEO Cindy Rose präsentiert Jahresbilanz und umfassenden Sanierungsplan Die...",
-          "link": "https://meedia.de/news/beitrag/21219-wpp-ceo-cindy-rose-praesentiert-jahresbilanz-und-umfassenden-sanierungsplan.html",
-          "summary": "WPP-CEO Cindy Rose stellte den Restrukturierungsplan \"Elevate28\" vor, der jährliche Kosteneinsparungen von 500 Millionen britischen Pfund durch Effizienzgewinne, Führungskonsolidierung und Verschlankung von Support-Strukturen vorsieht. Die Werbeholding verzeichnete 2025 einen Umsatzrückgang von 8,1 Prozent auf 13,55 Milliarden Pfund. Die Transformation zielt auf strukturelle Optimierungen in Corporate-Bereichen wie Finance, HR und Immobilienportfolio ab.",
+          "title": "Podcast-Studio gegründet Raab Entertainment startet Vodcast \"Knockout Club\" Tausendsassa Stefan Raab macht jetzt auch in Podcasts.",
+          "link": "https://meedia.de/news/beitrag/21230-raab-entertainment-startet-vodcast-quot-knockout-club-quot.html",
+          "summary": "Stefan Raab expandiert ins Podcast-Geschäft und gründet mit seiner Raab Entertainment das neue Podcast-Studio \"Replay\". Die erste Produktion ist der Kampfsport-Vodcast \"Knockout Club\" mit Christopher Posch und Ken Hövermann, der ab 2. März montags aus dem Boxring der Hamburger Kult-Kneipe \"Zur Ritze\" gesendet wird. Das Format soll Kampfsport-Expertise mit Kiez-Talk verbinden und hochkarätige Gäste aus der MMA- und Box-Szene präsentieren.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Neues Monetarisierungsmodell Wavebird: werbefinanzierte Rechenleistung für GenAI Generative KI hat ein strukturelles Finanzierungsproblem. Jede einzelne Anfrage verursacht enorme Rechenkosten. Während die Anbieter mit stetig steigenden Infrastrukturkosten konfrontiert sind, stoßen Nutzerinnen und Nutzer zunehmend auf Bezahlschranken. Werbefinanzierung gilt als naheliegende Lösung",
+          "link": "https://meedia.de/news/beitrag/21231-wavebird-werbefinanzierte-rechenleistung-fuer-genai.html",
+          "summary": "Wavebird entwickelt ein neues Monetarisierungsmodell namens \"Compute Sponsoring\", bei dem Nutzer KI-Services durch das Anschauen von Werbung statt durch Abos oder Credits finanzieren können. Das Startup von Constantin Keller und Mario von Bassen hat sowohl ein entsprechendes Werbeformat als auch die technische Infrastruktur entwickelt, um Werbung direkt an Rechenprozesse zu koppeln und messbar zu machen. Das Modell adressiert das strukturelle Finanzierungsproblem generativer KI mit ihren enormen Rechenkosten pro Anfrage.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "Netflix walks away from Warner Bros deal, paving way for Paramount victory",
+          "title": "Poisoned chalice? The BBC’s struggles to find a successor to Tim Davie",
+          "link": "https://www.theguardian.com/media/2026/feb/28/bbc-struggles-to-find-a-successor-to-tim-davie-director-general",
+          "summary": "Die BBC kämpft mit erheblichen Schwierigkeiten bei der Suche nach einem Nachfolger für den scheidenden Generaldirektor Tim Davie, wobei potenzielle Kandidaten nach einer Serie von Krisen zurückziehen. Der jüngste Vorfall ereignete sich bei der Bafta-Verleihung, als das N-Wort in der BBC-Übertragung zu hören war, was erneut zu politischer Kritik und internen Untersuchungen führte. Die Häufung solcher Krisen in dem weitverzweigten Medienkonzern hat dazu beigetragen, dass Davie seinen Rückzug früher als geplant ankündigte, wobei Branchenkenner die Position als eine der schwierigsten im öffentlichen Leben bezeichnen.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Paramount Skydance wins Warner Bros Discovery bid after Netflix walks away from deal",
           "link": "https://www.theguardian.com/media/2026/feb/26/netflix-paramount-warner-bros",
-          "summary": "Netflix hat seinen geplanten Übernahmeversuch von Warner Bros Discovery zurückgezogen, nachdem das Unternehmen entschied, dass ein verbessertes Angebot von Paramount Skydance in Höhe von 31 US-Dollar pro Aktie (plus zusätzliche Gebühren) finanziell nicht mehr attraktiv zu überbieten sei. Netflix-Co-CEOs Sarandos und Peters betonten, dass die Transaktion immer ein \"nice to have\" zum richtigen Preis war, nicht ein \"must have\" um jeden Preis. Der Rückzug ebnet Paramount den Weg für eine erfolgreiche Übernahme des Medienkonglomerats mit seinen Hollywood-Studios und Streaming-Geschäft.",
+          "summary": "Paramount Skydance hat erfolgreich Warner Bros Discovery für 110 Milliarden Dollar übernommen, nachdem Netflix sich weigerte, sein Gebot zu erhöhen und die Transaktion als \"nicht mehr finanziell attraktiv\" bezeichnete. Netflix hatte vier Geschäftstage Zeit, das überarbeitete Angebot von Paramount zu überbieten, entschied jedoch schnell dagegen. Die Übernahme muss noch regulatorische Hürden überwinden und steht wegen Befürchtungen einer rechtspolitischen Verschiebung in den US-Medien in der Kritik.",
           "score": 10
         },
         {
           "source": "Guardian Media",
-          "title": "‘Premflix’ app to screen all Premier League matches live – but only in Singapore",
-          "link": "https://www.theguardian.com/football/2026/feb/26/premflix-premier-league-matches-app-streaming-singapore-football",
-          "summary": "Die Premier League startet ab der kommenden Saison mit \"Premier League Plus\" erstmals einen eigenen Streaming-Service, der alle 380 Saisonspiele live direkt an Verbraucher verkauft – zunächst jedoch nur in Singapur in Partnerschaft mit dem lokalen Rechteinhaber Starhub. CEO Richard Masters bezeichnet dies als \"Lernmöglichkeit\" für eine potenzielle weltweite Expansion, bei der die Liga erstmals direkte Kundenkontrolle und vollständige Umsatzkontrolle ohne TV-Partner erhält.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Netflix to release four-part series about Rupert Murdoch’s family drama",
-          "link": "https://www.theguardian.com/media/2026/feb/26/rupert-murdoch-dynasty-netflix-series",
-          "summary": "Netflix veröffentlicht am 13. März die vierteilige Dokuserie \"Dynasty: The Murdochs\", die auf tausenden Seiten interner Dokumente basiert und den Aufstieg Rupert Murdochs sowie die jahrzehntelangen Spannungen innerhalb der Familie beleuchtet. Die Serie fokussiert auf den jüngsten Gerichtskampf um die Kontrolle des Medienimperiums, bei dem sich Patriarch Rupert und Sohn Lachlan gegen die anderen drei Geschwister stellten, bevor im September 2024 ein milliardenschwerer Vergleich erreicht wurde, der Lachlan bis mindestens 2050 die Kontrolle sichert. Obwohl keine Familienmitglieder teilnahmen, kommen führende Journalisten zu Wort, die über die Familie berichtet haben, darunter die New York Times-Reporter Jim Rutenberg und Jonathan Mahler.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Guardian joins media coalition to protect original journalism from unpaid use by AI",
-          "link": "https://www.theguardian.com/media/2026/feb/26/guardian-joins-media-coalition-to-protect-original-journalism-from-unpaid-use-by-ai",
-          "summary": "Der Guardian hat sich mit BBC, Financial Times, Sky News und Telegraph Media Group zur Koalition \"Standards for Publisher Usage Rights\" (Spur) zusammengeschlossen, um globale Lizenzierungsrahmen für die KI-Nutzung journalistischer Inhalte zu etablieren. Die Medienunternehmen fordern, dass KI-Firmen für das \"Scraping\" und die Verwendung ihrer Berichterstattung und Archive als Trainingsmaterial zahlen müssen. Ziel ist es, die Kontrolle über eigene Inhalte zu behalten und faire Vergütung zu sichern, da das aktuelle Geschäftsmodell der Medienbranche durch unentgeltliche KI-Nutzung geschwächt wird.",
+          "title": "Departing CBS News producer claims political bias as Paramount poised to buy Warner Bros",
+          "link": "https://www.theguardian.com/media/2026/feb/27/cbs-news-political-bias-paramount-warner-bros",
+          "summary": "Eine langjährige CBS News-Produzentin (46 Jahre) wirft dem Sender in einem Abschiedsmemo politische Voreingenommenheit vor und behauptet, Mitarbeiter seien angewiesen worden, ihre Berichterstattung auf \"einen bestimmten Teil des politischen Spektrums\" auszurichten. Der Vorwurf erfolgt zeitgleich mit der wahrscheinlichen Übernahme von Warner Bros Discovery (CNN) durch CBS-Eigentümer Paramount Skydance, wobei die konservative Kommentatorin Bari Weiss nun CBS leitet. CNN-Mitarbeiter befürchten bereits politische Einflussnahme unter der neuen Eigentümerstruktur.",
           "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "‘Not a done deal’: California vows ‘vigorous’ review of Paramount-Warner Bros takeover",
+          "link": "https://www.theguardian.com/us-news/2026/feb/27/california-paramount-warner-bros",
+          "summary": "Kaliforniens Generalstaatsanwalt Rob Bonta hat eine „energische Überprüfung\" der 111 Milliarden Dollar schweren Übernahme von Warner Bros Discovery durch Paramount angekündigt, nachdem Netflix sich aus dem Bieterwettstreit zurückgezogen hatte. Die Fusion wirft kartellrechtliche Bedenken auf und könnte erhebliche Arbeitsplatzverluste in Kalifornien zur Folge haben, da Paramount Kosteneinsparungen von 6 Milliarden Dollar durch „Synergien\" anstrebt. Der Deal benötigt noch die Genehmigung von US- und europäischen Regulierungsbehörden, einschließlich der Kartellbehörde des US-Justizministeriums.",
+          "score": 9
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Trump has embraced a disturbing strategy to silence free speech | David Bralow",
+          "link": "https://www.theguardian.com/commentisfree/2026/feb/27/trump-free-speech-ftc-media-matters",
+          "summary": "Die Trump-Administration nutzt eine Einschüchterungsstrategie gegen kritische Medien, indem Bundesbehörden wie die Federal Trade Commission vorgeschobene Ermittlungen gegen wahrgenommene Gegner einleiten und diese offenhalten, um Compliance zu erzwingen. Ein zentrales Beispiel ist die Vergeltungsuntersuchung gegen Media Matters for America nach deren kritischer Berichterstattung über antisemitische Inhalte auf X, woraufhin Elon Musk eine Klage einreichte und die FTC Ermittlungen aufnahm. 17 Non-Profit-Organisationen haben eine Amicus-Schrift eingereicht, um eine einstweilige Verfügung zum Schutz der Meinungsfreiheit von Media Matters zu unterstützen.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "CBS News and CNN staffers fear ‘disaster’ as Paramount wins Warner Bros battle",
+          "link": "https://www.theguardian.com/media/2026/feb/27/cbs-news-cnn-paramount-warner-bros-employees",
+          "summary": "Paramount Skydance hat sich als Gewinner im Bieterkampf um Warner Bros Discovery durchgesetzt, nachdem Netflix sein 83-Milliarden-Dollar-Angebot zurückgezogen hat. Mitarbeiter von CBS News und CNN befürchten massive Stellenstreichungen durch eine mögliche Fusion der Nachrichtensender sowie ideologisch motivierte Programmänderungen unter der Trump-freundlichen Führung von Paramount. Besonders umstritten ist die mögliche Einflussnahme der konservativen CBS-Chefredakteurin Bari Weiss auf CNN, die von Kritikern als potenzielle Bedrohung für die journalistische Unabhängigkeit des Senders gesehen wird.",
+          "score": 9
         },
         {
           "source": "Guardian Media",
           "title": "WPP to sell assets and cut jobs in radical shake-up to counter AI threat",
           "link": "https://www.theguardian.com/business/2026/feb/26/wpp-merge-ad-agencies-cut-jobs-ai-threat-advertising",
-          "summary": "WPP kündigt eine radikale Restrukturierung an, um der KI-Bedrohung zu begegnen und bis 2028 jährlich 500 Millionen Pfund einzusparen, wobei Vermögenswerte verkauft und Arbeitsplätze in der 100.000-köpfigen Belegschaft abgebaut werden sollen. Die drei Werbeagenturen Ogilvy, VML und AKQA werden unter dem Dach \"WPP Creative\" zusammengefasst, bleiben aber als separate Agenturen bestehen. CEO Cindy Rose will WPP zu einem \"einfacheren, kostengünstigeren, KI-fähigen Unternehmen\" umbauen, um dem Kundenabgang entgegenzuwirken und mit den KI- und Datenkapazitäten der Konkurrenz mitzuhalten.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Film and TV charity unveils landmark mental health principles for UK industry",
-          "link": "https://www.theguardian.com/tv-and-radio/2026/feb/26/film-tv-charity-unveils-landmark-mental-health-principles-for-uk-industry",
-          "summary": "Die Film and TV Charity hat in Zusammenarbeit mit über 45 Branchenorganisationen neun Grundprinzipien zum Schutz der psychischen Gesundheit in der britischen Film- und TV-Industrie veröffentlicht. Die Initiative erfolgt als Reaktion auf eine Umfrage, die zeigt, dass 35% der Branchenmitarbeiter ihre psychische Gesundheit als \"schlecht\" oder \"sehr schlecht\" bewerten und 30% in den letzten 12 Monaten Suizidgedanken hatten. Die Prinzipien sollen eine unterstützende Arbeitskultur fördern, respektvolle Teambeziehungen schaffen und die Arbeitsbelastung besser managen.",
+          "summary": "WPP kündigt eine radikale Umstrukturierung an, um der KI-Bedrohung zu begegnen, mit dem Ziel, bis 2028 jährlich 500 Millionen Pfund einzusparen durch Vermögensverkäufe und Stellenabbau bei der 100.000-köpfigen Belegschaft. CEO Cindy Rose will das Unternehmen zu einem \"einfacheren, kostengünstigeren, KI-fähigen Geschäft\" umbauen, während die Werbeagenturen Ogilvy, VML und AKQA unter dem WPP Creative-Dach zusammengeführt werden. Die Maßnahmen reagieren auf den anhaltenden Kundenverlust und die Notwendigkeit, mit den KI- und Datenkapazitäten der Konkurrenz mitzuhalten.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘Scream 7’ Heading To $7.5M Franchise Record Previews – Box Office",
-          "link": "https://deadline.com/2026/02/box-office-scream-7-1236738417/",
-          "summary": "\"Scream 7\" erzielte mit 7,5 Millionen Dollar einen neuen Franchise-Rekord bei den Preview-Einnahmen und übertraf damit den bisherigen Rekord von \"Scream VI\" (5,7 Millionen Dollar). Der Film, bei dem erstmals Franchise-Autor Kevin Williamson Regie führt und Neve Campbell als Sidney Prescott zurückkehrt, erhielt jedoch mit 38% deutlich schlechtere Kritikerbewertungen als die vorherigen Radio Silence-Reboots. Erstmals wird ein \"Scream\"-Film in IMAX und ScreenX-Formaten gezeigt, verzichtet aber auf 3D-Vorstellungen.",
+          "title": "Netflix Leaders Reassure Staff At Town Hall After Ceding Warner Bros. To Paramount By Not Raising Bid",
+          "link": "https://deadline.com/2026/02/netflix-town-hall-after-warner-bros-paramount-ted-sarandos-1236739331/",
+          "summary": "Netflix co-CEOs Ted Sarandos und Greg Peters hielten nach dem gescheiterten Warner Bros.-Kauf eine interne Town Hall ab, in der sie ihre Entscheidung verteidigten, das höhere Paramount-Gebot nicht zu überbieten. Sie bezeichneten die Akquisition als \"nice to have\" zum richtigen Preis, nicht als \"must have\" um jeden Preis, und betonten ihre Preisdisziplin sowie das starke Momentum von Netflix bis 2030. Die 15-20-minütige Veranstaltung ohne Q&A-Session sollte die Belegschaft nach dem gescheiterten Deal beruhigen.",
           "score": 9
         },
         {
           "source": "Deadline",
-          "title": "“Not A Done Deal”: California AG Warns Paramount + WBD Merger Far From Certain",
-          "link": "https://deadline.com/2026/02/paramount-warner-merger-california-attorney-general-1236738292/",
-          "summary": "Kaliforniens Generalstaatsanwalt Rob Bonta warnt, dass die geplante Fusion zwischen Paramount und Warner Bros Discovery noch längst nicht sicher ist, da sein Ministerium eine laufende Untersuchung der regulatorischen Aspekte durchführt. Die Behörde kündigte eine \"rigorose Prüfung\" des Deals an, der nach Netflix' Rückzug aus dem Bieterwettbewerb nun an David Ellisons Paramount-Team gehen könnte. Demokratische Senatoren wie Elizabeth Warren und Adam Schiff äußerten bereits Bedenken wegen möglicher kartellrechtlicher Probleme und politischer Einflussnahme.",
-          "score": 10
-        },
-        {
-          "source": "Deadline",
-          "title": "Netflix Walks With A Cool $2.8 Billion Breakup Fee: Who Gets What In New Paramount-WBD Merger Proposal",
-          "link": "https://deadline.com/2026/02/netflix-big-breakup-fee-paramount-wbd-deal-1236738178/",
-          "summary": "Warner Bros. Discovery hat sich für ein überlegenes Angebot von Paramount entschieden und damit den Deal mit Netflix beendet, wodurch Netflix eine Ausstiegsgebühr von 2,8 Milliarden Dollar von Paramount erhält. Paramount wird WBD für 31 Dollar je Aktie in bar übernehmen (Erhöhung von zuvor 30 Dollar) und zusätzlich eine regulatorische Kündigungsgebühr von 7 Milliarden Dollar zahlen. Ab dem 30. September 2026 fallen vierteljährliche \"Ticking Fees\" von 0,25 Dollar an, bis die Transaktion abgeschlossen ist.",
-          "score": 10
-        },
-        {
-          "source": "Deadline",
-          "title": "Adam Schiff Says Paramount-WBD Deal Should Be Subject To “Highest Levels Of Scrutiny” And “Free From White House Political Influence”",
-          "link": "https://deadline.com/2026/02/adam-schiff-paramount-warner-bros-merger-1236738280/",
-          "summary": "Senator Adam Schiff fordert höchste regulatorische Prüfung der geplanten Paramount-Warner Bros. Discovery-Fusion, nachdem Netflix aus dem Bieterwettbewerb ausgestiegen ist. Im Gegensatz zu Netflix plant Paramount die Übernahme des gesamten WBD-Konzerns inklusive Kabelsendern wie CNN und TNT, mit geplanten Kosteneinsparungen von 6 Milliarden Dollar über drei Jahre. Schiff betont die Notwendigkeit, Arbeitsplätze in Hollywood zu schützen und die Filmproduktion in den USA zu stärken.",
+          "title": "Paramount + WBD Vs. Coalition Of The Unwilling: CA AG Pulling Together Blue States Probe Of Mega-Merger",
+          "link": "https://deadline.com/2026/02/paramount-warner-bros-california-blue-states-1236739027/",
+          "summary": "Kaliforniens Generalstaatsanwalt Rob Bonta koordiniert mit anderen demokratisch geführten Bundesstaaten eine kartellrechtliche Prüfung der geplanten Mega-Fusion zwischen Paramount und Warner Bros Discovery, die von den Trump-nahestehenden Ellisons vorangetrieben wird. Die staatlichen Ermittlungen konzentrieren sich auf Bedenken bezüglich des Wettbewerbsschutzes in der Unterhaltungsindustrie, nachdem Netflix aus dem Bieterkampf ausgestiegen ist und ein 110-Milliarden-Dollar-Übernahmeangebot im Raum steht. Der Schauspieler Mark Ruffalo unterstützt öffentlich die Bemühungen und warnt vor negativen Auswirkungen auf Wettbewerb, Löhne und Produktqualität.",
           "score": 9
         },
         {
           "source": "Deadline",
-          "title": "Ted Went All That Way For Nuthin’: Netflix Lost WB While Sarandos Was Pitching Deal At The White House",
-          "link": "https://deadline.com/2026/02/sarandos-netflix-warner-bros-deal-fall-through-1236737892/",
-          "summary": "Netflix co-CEO Ted Sarandos verlor während seines geplanten Besuchs im Weißen Haus die Übernahme von Warner Bros Discovery an Paramount, das mit einem $31-pro-Aktie-Angebot den Zuschlag erhielt. Während Sarandos um 13 Uhr PT mit White House-Mitarbeitern und Justizministerium-Beamten verhandelte, gab WBD bekannt, dass Paramounts Angebot als \"überlegener Unternehmensvorschlag\" eingestuft wurde. Netflix zog sich weniger als 90 Minuten später aus dem Bieterprozess zurück, behielt aber eine Ausstiegsgebühr von $2,8 Milliarden.",
-          "score": 10
-        },
-        {
-          "source": "Variety",
-          "title": "PBS Distribution Acquires U.S. Rights to ‘Trespasses’ and ‘I Fought the Law’ (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/global/pbs-distribution-trespasses-i-fought-the-law-1236673995/",
-          "summary": "PBS Distribution hat die US-Rechte an zwei Produktionen von All3Media International erworben: die Liebesdrama-Serie \"Trespasses\" mit Gillian Anderson über eine verbotene Liebe im Belfast der 1970er Jahre sowie das Faktendrama \"I Fought the Law\". \"Trespasses\" wurde von Wildgaze Films für Channel 4 produziert, basiert auf Louise Kennedys Debütroman und erhielt vier Nominierungen bei den Irish Film and Television Awards.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Vietnamese Hit ‘Fish, Fists and Ambergris’ Gets Global Theatrical Rollout, Netflix Southeast Asia Premiere (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/news/vietnam-fish-fists-and-ambergris-netflix-theatrical-1236674430/",
-          "summary": "Der vietnamesische Film \"Fish, Fists and Ambergris\" wird von Mockingbird Pictures international vermarktet und erhält eine weltweite Kinoauswertung sowie einen regionalen Netflix-Deal für Südostasien. Die 89s Group-Produktion war in Vietnam kommerziell erfolgreich mit über 2,5 Millionen verkauften Tickets und rund 8 Millionen Dollar Einspielergebnis. Der Film startete bereits am 30. Januar in Nordamerika und wird sukzessive in weiteren asiatischen Märkten wie Kambodscha (17. April) und Taiwan ausgerollt.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "‘9-1-1: Nashville’ Star LeAnn Rimes Talks Don-Dixie-Blythe Backstory, Singing as Her 20-Year-Younger Self for Flashback Episode",
-          "link": "https://variety.com/2026/tv/news/911-nashville-don-dixie-blythe-backstory-leann-rimes-song-1236673189/",
-          "summary": "In der aktuellen Episode \"Don Begins\" von \"9-1-1: Nashville\" wird die Ursprungsgeschichte der Hauptfigur Don Hart (Chris O'Donnell) und seiner ehemaligen Flamme Dixie Bennings (LeAnn Rimes) erzählt, beginnend mit ihrer ersten Begegnung als Kinder nach einem traumatischen Brand, der Dons Familie das Leben kostete. Die Rückblenden-Episode zeigt ihre Wiedervereinigung als junge Erwachsene und den Beginn ihrer Liebesgeschichte. Rimes performt dabei als ihre 20 Jahre jüngere Version und liefert sowohl schauspielerische als auch gesangliche Darbietungen für die Backstory-Episode.",
+          "title": "Paramount Purchase Of Warner Bros. Discovery Stirs Angst At CNN – Again",
+          "link": "https://deadline.com/2026/02/cnn-angst-paramount-warner-bros-deal-1236738793/",
+          "summary": "Paramount hat Warner Bros. Discovery übernommen und damit auch CNN, was bei den Mitarbeitern des Nachrichtensenders erhebliche Sorgen über die zukünftige redaktionelle Ausrichtung auslöst. Besonders beunruhigend sind Berichte, wonach Paramount-Chef David Ellison Trump Zusagen für größere Änderungen bei CNN gemacht haben soll, sowie Ellisons Teilnahme an Trumps State of the Union als Gast des republikanischen Senators Lindsey Graham. Trotz CEO Mark Thompsons Beschwichtigungsversuchen herrscht laut Quellen eine \"mehr als düstere\" Stimmung in der Redaktion.",
           "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Longtime CBS News Producer Cites Claims of Aiming Reporting Towards “Particular Part of the Political Spectrum” in Exit Memo",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/cbs-news-producer-political-reporting-paramount-warner-bros-1236518091/",
+          "summary": "Mary Walsh, eine langjährige CBS News-Produzentin mit 46 Jahren Berufserfahrung, verlässt das Unternehmen und behauptet in ihrem Abschiedsmemo, dass die Berichterstattung auf \"einen bestimmten Teil des politischen Spektrums\" ausgerichtet werden soll. CBS Evening News-Chefredakteur Kim Harvey widersprach diesen Vorwürfen öffentlich und betonte die redaktionelle Unabhängigkeit des Senders. Walsh' Abgang erfolgt während struktureller Veränderungen bei CBS News unter neuer Führung, wobei mehrere Mitarbeiter bereits Abfindungsangebote angenommen haben.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "What Sparked Paramount’s Investigation of Jeff Shell",
+          "link": "https://www.hollywoodreporter.com/business/business-news/paramount-investigation-jeff-shell-1236517859/",
+          "summary": "R.J. Cipriani, Co-Creator der Roku-Serie \"Serenata De Las Estrellas\", reichte eine Whistleblower-Beschwerde gegen Paramount-Chef Jeff Shell ein, nachdem Gespräche über die englischsprachige Version seiner Show scheiterten. Shell wird vorgeworfen, vertrauliche Informationen über Paramounts 7,7-Milliarden-Dollar-Medienrechte-Deal mit der UFC unangemessen preisgegeben zu haben, was zu einem 10-prozentigen Kursanstieg der TKO Group Holdings führte. Bemerkenswert ist, dass Anwältin Patty Glaser sowohl Shell als auch Cipriani in verschiedenen Geschäftsangelegenheiten vertrat und die beiden ursprünglich miteinander bekannt machte.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "‘David Ellison Scares the S— Out of Me’: How Paramount Beat Out Netflix, Won Warner Bros. and Will Change Hollywood Forever",
+          "link": "https://variety.com/2026/film/news/paramount-warner-bros-deal-explained-netflix-ellison-1236674841/",
+          "summary": "Paramount hat Warner Bros. Discovery mit einem Gebot von 31$ pro Aktie übernommen, nachdem Netflix mit seinem Angebot von 27,75$ (nur für Studio- und Streaming-Geschäft) nicht mithalten wollte. Netflix-CEO Ted Sarandos verzichtete schnell auf eine Erhöhung des Gebots, da die Transaktion bei dem erforderlichen Preis nicht mehr finanziell attraktiv gewesen wäre. Die Übernahme gibt Paramount Kontrolle über eine bedeutende Medien-Bibliothek mit Franchises wie Harry Potter, Batman und HBO-Inhalten.",
+          "score": 10
         }
       ]
     }
