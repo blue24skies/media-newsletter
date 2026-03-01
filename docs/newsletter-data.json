@@ -1,174 +1,111 @@
 {
   "newsletters": [
     {
-      "date": "2026-02-28",
+      "date": "2026-03-01",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Joyn erleidet erneut juristische Schlappe im Embedding-Streit",
-          "link": "https://www.dwdl.de/nachrichten/105695/joyn_erleidet_erneut_juristische_schlappe_im_embeddingstreit/",
-          "summary": "Das Oberlandesgericht Köln hat Joyn die Integration der ARD-Mediathek ohne Erlaubnis untersagt und das Verhalten als wettbewerbswidrig und als Verstoß gegen den Medienstaatsvertrag eingestuft. Das Gericht verschärfte damit ein vorheriges Landgerichtsurteil und sah auch in der reinen Verlinkung zur vollständigen Mediathek-Übernahme eine unzulässige Täuschung der Nutzer über die Herkunft des Angebots. ProSiebenSat.1 zeigt sich gelassen und verweist auf die zwischenzeitlich geänderte Rechtslage im Medienstaatsvertrag.",
+          "title": "Die meisten Privatsender sparen sich auch durch den Februar",
+          "link": "https://www.dwdl.de/nachrichten/105658/die_meisten_privatsender_sparen_sich_auch_durch_den_februar/",
+          "summary": "Die meisten Privatsender reduzierten im Februar 2026 ihren Anteil an Erstausstrahlungen im Abendprogramm deutlich, um Kosten während der Konkurrenz durch Dschungelcamp und Olympia zu sparen. Während ARD und ZDF dank Olympia-Berichterstattung Frische-Anteile von 93% bzw. 90% erreichten, lag RTL bei 86% und alle anderen Privatsender unter 50% - mit Vox als Schlusslicht bei nur 16% Erstausstrahlungen. ProSieben erreichte trotz des Starts von \"Germany's Next Topmodel\" nur 28% Frische-Anteil, was den allgemeinen Trend zu mehr Wiederholungen bei Privatsendern verdeutlicht.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Warner Bros. stimmt Übernahme durch Paramount zu",
-          "link": "https://www.dwdl.de/nachrichten/105692/warner_bros_stimmt_uebernahme_durch_paramount_zu/",
-          "summary": "Paramount Skydance übernimmt Warner Bros. Discovery für 110 Milliarden US-Dollar (31 USD pro Aktie), wobei die Fusion nach behördlicher Genehmigung im dritten Quartal 2026 abgeschlossen werden soll. Der Zusammenschluss verspricht Kostensynergien von über sechs Milliarden Dollar durch Technologieintegration und Effizienzsteigerungen, wird aber voraussichtlich auch massive Entlassungen zur Folge haben. Die Übernahme erfolgt nach Netflix' Ausstieg aus dem Bieterstreit und soll laut den CEOs ein \"Medien- und Unterhaltungsunternehmen der nächsten Generation\" schaffen.",
-          "score": 10
+          "title": "Heinen-Verlag steigt kurzfristig aus \"Kölnischer Rundschau\" aus",
+          "link": "https://www.dwdl.de/nachrichten/105672/heinenverlag_steigt_kurzfristig_aus_koelnischer_rundschau_aus/",
+          "summary": "Der Heinen-Verlag beendet kurzfristig zum 31. März seine 26-jährige redaktionelle Zusammenarbeit bei der \"Kölnischen Rundschau\" und übergibt die Herausgeberschaft vollständig an DuMont, was zur Auflösung der bisherigen KR-Redaktion und 50 Kündigungen führt. DuMont will die Zeitung als eigenständige Marke in die Struktur der Kölner Stadt-Anzeiger Medien integrieren und verspricht eine eigene journalistische Ausrichtung mit separater Chefredaktion. Gleichzeitig plant DuMont den Ausbau des Digitalgeschäfts mit über 30 neuen Stellen und regionalen Online-Angeboten rund um Köln.",
+          "score": 7
         },
         {
-          "source": "DWDL",
-          "title": "Ab jetzt tickt die Uhr: RTL meldet geplante Sky-Übernahme an",
-          "link": "https://www.dwdl.de/nachrichten/105690/ab_jetzt_tickt_die_uhr_rtl_meldet_geplante_skyuebernahme_an/",
-          "summary": "RTL hat am Freitag die geplante Übernahme der Sky-Aktivitäten in Deutschland, Österreich und der Schweiz offiziell bei der EU-Kommission angemeldet, wodurch die erste kartellrechtliche Prüfungsphase startet. Die EU-Kommission hat bis zum 8. April Zeit zu entscheiden, ob sie den Deal ohne Auflagen genehmigt, Bedingungen stellt oder eine vertiefte Prüfung einleitet. RTL strebt weiterhin eine Abwicklung der Transaktion im ersten Halbjahr 2026 an.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Zwei Direktionen weniger: So stellt sich der SWR neu auf",
-          "link": "https://www.dwdl.de/nachrichten/105684/zwei_direktionen_weniger_so_stellt_sich_der_swr_neu_auf/",
-          "summary": "Der SWR reduziert ab 2027 seine Organisationsstruktur von acht auf sechs Direktionen, wobei die beiden separaten Landessenderdirektionen für Rheinland-Pfalz und Baden-Württemberg wegfallen und deren Aufgaben in die neu strukturierten Programmdirektionen integriert werden. Die Umstrukturierung erfolgt im Rahmen der Kostensenkungsmaßnahmen des Senders und wird durch den neuen SWR-Staatsvertrag von September 2025 rechtlich ermöglicht. Zusätzlich werden die bisherige Verwaltungsdirektion und Teile der Direktion Innovationsmanagement in einer neuen \"Direktion Organisation, Administration und Audience\" zusammengeführt.",
+          "source": "Horizont Medien",
+          "title": "#FilmTok: Wie Tiktok heute schon über den Erfolg von Kinofilmen entscheidet",
+          "link": "https://www.horizont.net/medien/nachrichten/filmtok-wie-tiktok-heute-schon-ueber-den-erfolg-von-kinofilmen-entscheidet-233347?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Filmbranche erkennt zunehmend, dass TikTok bereits vor dem Kinostart maßgeblich über den Erfolg von Filmen entscheidet. Die Aufmerksamkeit des Publikums entsteht nicht mehr primär im Kinosaal, sondern verschiebt sich auf mobile Plattformen wie TikTok (#FilmTok). Das Smartphone wird damit zur entscheidenden Marketingbühne für die Filmindustrie.",
           "score": 8
         },
         {
           "source": "Horizont Medien",
-          "title": "Medienkonzern: RTL meldet geplante Sky-Übernahme bei EU-Kommission an",
-          "link": "https://www.horizont.net/medien/nachrichten/medienkonzern-rtl-meldet-geplante-sky-uebernahme-bei-eu-kommission-an-233368?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "RTL hat die geplante Übernahme von Sky Deutschland offiziell bei der EU-Kommission zur wettbewerbsrechtlichen Prüfung angemeldet. Der Medienkonzern zeigt sich zuversichtlich, die erforderliche Genehmigung zu erhalten und die Transaktion im ersten Halbjahr 2026 erfolgreich abzuschließen. Die Übernahmepläne waren bereits im Sommer 2025 öffentlich bekannt gegeben worden.",
-          "score": 9
-        },
-        {
-          "source": "kress",
-          "title": "Netflix steigt beim Poker um Warner Bros.",
-          "link": "https://kress.de/news/beitrag/152231-netflix-steigt-beim-poker-um-warner-bros-discovery-aus.html",
-          "summary": "Netflix hat seine geplante Übernahme von Warner Bros. Discovery abgebrochen, da das neue Gebot des Konkurrenten Paramount mit 131 Milliarden Dollar (31 USD pro Aktie) finanziell nicht mehr attraktiv erschien. Paramount, geführt von den Trump-Unterstützern David und Larry Ellison, will nun das komplette WBD-Geschäft inklusive CNN übernehmen, während Netflix nur an den Filmstudios und Streamingdiensten interessiert war. US-Präsident Trump hatte sich mehrfach in den Übernahmepoker eingeschaltet und betont, dass WBD nur als Ganzes verkauft werden dürfe.",
-          "score": 10
-        },
-        {
-          "source": "kress",
-          "title": "Schausten stellt weitere Konsequenzen in Aussicht Nach dem KI-Fehler im „heute journal“ räumt...",
-          "link": "https://kress.de/news/beitrag/152215-nach-ki-fehler-im-heute-journal-schausten-stellt-weitere-konsequenzen-in-aussicht.html",
-          "summary": "ZDF-Chefredakteurin Bettina Schausten erläutert im SZ-Interview die Hintergründe des KI-Fehlers im „heute journal\", bei dem KI-generierte Inhalte und falsch kontextualisierte Bilder verwendet wurden, was zur Entbindung der New York-Korrespondentin Nicola Albrecht von ihrer Leitungsfunktion führte. Schausten identifiziert sowohl unprofessionelle Bildrecherche der Autorin als auch Versagen der redaktionellen Kontrollprozesse als Ursachen und stellt weitere arbeitsrechtliche Konsequenzen in Aussicht. Der Vorfall wird als Systemproblem eingestuft, da mehrere Prüfstationen den Regelverstoß hätten erkennen müssen.",
+          "title": "HORIZONT streamt: Diese Serien sollten Sie im März auf dem Schirm haben",
+          "link": "https://www.horizont.net/medien/nachrichten/horizont-streamt-diese-serien-sollten-sie-im-maerz-auf-dem-schirm-haben-233339?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "HORIZONT präsentiert die März-Streaming-Highlights für Medienprofis, darunter eine deutsche Komödie mit Dimitrij Schaad, Guy Ritchies Sherlock-Holmes-Adaption und eine neue Jo-Nesbø-Serie im Nordic-Noir-Genre. Weitere Empfehlungen umfassen die Serienversion von \"Meine teuflischen Nachbarn\" sowie einen neuen \"Yellowstone\"-Spin-off.",
           "score": 7
         },
         {
-          "source": "meedia",
-          "title": "100 Millionen Keywords untersucht XXL-Analyse von Sistrix: Websites verlieren in Deutschland 265...",
-          "link": "https://meedia.de/news/beitrag/21228-xxl-analyse-von-sistrix-websites-verlieren-in-deutschland-265-millionen-klicks-pro-monat-durch-googles-ai-overviews.html",
-          "summary": "Eine Sistrix-Analyse von 100 Millionen Keywords zeigt, dass Googles AI-Overviews bereits bei 20% der Suchbegriffe in Deutschland erscheinen und Websites dadurch etwa 265 Millionen Klicks pro Monat verlieren. Die KI-Zusammenfassungen stehen in 78,6% der Fälle ganz oben in den Suchergebnissen und reduzieren den Traffic erheblich, da Nutzer nach dem Lesen der Overviews seltener die ursprünglichen Quellen besuchen.",
+          "source": "Horizont Medien",
+          "title": "Jugendschutz: Was ein Social-Media-Verbot für die Werbebranche bedeuten würde",
+          "link": "https://www.horizont.net/medien/nachrichten/jugendschutz-was-ein-social-media-verbot-fuer-die-werbebranche-bedeuten-wuerde-233318?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Verbände der Werbe- und Digitalbranche stehen möglichen Social-Media-Verboten für Minderjährige auf Plattformen wie TikTok und Instagram kritisch gegenüber und verweisen auf bereits bestehende Jugendschutzvorschriften. Ein solches Verbot würde erhebliche Auswirkungen auf die Werbebranche haben, da eine wichtige Zielgruppe wegfallen würde. Die Branche sieht ihre Geschäftsmodelle und Reichweiten durch potenzielle Altersbeschränkungen bedroht.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Zeitungs-Konzentration: DuMont übernimmt Kölnische Rundschau vom Heinen-Verlag",
+          "link": "https://www.horizont.net/medien/nachrichten/zeitungs-konzentration-dumont-uebernimmt-koelnische-rundschau-vom-heinen-verlag-233352?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "DuMont übernimmt die Kölnische Rundschau vom Heinen-Verlag und beendet damit die lokale Konkurrenz zum eigenen Kölner Stadt-Anzeiger. Die beiden Verlage kooperieren bereits seit längerer Zeit, weshalb die Übernahme eine logische Konsequenz der bestehenden Zusammenarbeit darstellt. Parallel zur Übernahme kündigt DuMont eine digitale Wachstumsinitiative an.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Studie von IQ Digital, IQ Media und Republic: Wie sich Werbung in renommierten Pressemedien gegenseitig verstärkt",
+          "link": "https://www.horizont.net/medien/nachrichten/studie-von-iq-digital-iq-media-und-republic-wie-sich-werbung-in-renommierten-pressemedien-gegenseitig-verstaerkt-233328?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Eine neue Studie von IQ Digital, IQ Media und Republic zeigt, dass Werbung in renommierten Pressemedien einen höheren Impact erzielt als in anderen Kanälen - dabei ist der Kontext wichtiger als Kontaktanzahl und Frequenz. Die Untersuchung belegt, dass Qualitätsjournalismus als Werbeumfeld wirkt und verschiedene Werbeformate sich in reputationsstarken Medien gegenseitig verstärken. Dies steht im Kontrast zum aktuellen Trend vieler Werbekunden, ihre Budgets primär auf Search, Social Media und Commerce-Plattformen zu konzentrieren.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Im Abend- und Nachtprogramm: ARD-Sender erstellen Wetter- und Verkehrsmeldungen mithilfe von KI",
+          "link": "https://www.horizont.net/medien/nachrichten/im-abend--und-nachtprogramm-ard-sender-erstellen-wetter--und-verkehrsmeldungen-mithilfe-von-ki-233330?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die ARD-Popwellen führen ab März 2024 KI-generierte Wetter- und Verkehrsmeldungen im Abend- und Nachtprogramm ein, um erstmals regionalisierte Informationen für alle Sendegebiete außerhalb der regulären Redaktionszeiten anzubieten. Bisher mussten Hörer in diesen Zeiträumen auf individualisierte Meldungen verzichten.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Formel-1-Auftakt: Keine Einigung für Übertragungen im Free-TV",
+          "link": "https://www.horizont.net/medien/nachrichten/formel-1-auftakt-keine-einigung-fuer-uebertragungen-im-free-tv-233316?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Sky Deutschland, das die Formel-1-Medienrechte hält, hat weniger als zwei Wochen vor Saisonbeginn (8. März in Melbourne) noch keine Einigung für die vertraglich vorgeschriebenen vier Free-TV-Übertragungen erzielt. Die fehlende Vereinbarung für die frei zugänglichen Rennen stellt ein erhebliches Lizenz-Compliance-Problem dar.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Ärger um Kündigungen bei Kölnischer Rundschau Die Journalisten-Gewerkschaften kritisieren DuMont...",
+          "link": "https://kress.de/news/beitrag/152228-aerger-um-kuendigungen-bei-koelnischer-rundschau.html",
+          "summary": "DuMont und der Heinen Verlag lösen die Redaktion der Kölnischen Rundschau auf und kündigen rund 30 Festangestellten sowie freien Mitarbeitern, wodurch die Zeitung künftig nur noch als redaktionelle Hülle mit Inhalten aus anderen DuMont-Redaktionen existiert. Die Journalistengewerkschaft dju kritisiert dies scharf als Schaden für die Pressevielfalt in NRW und \"unwürdiges Verhalten\" mit \"rüdesten Methoden\". Die Medienhäuser weisen die Kritik zurück, betonen die Einhaltung tariflicher Kündigungsfristen und die Verhandlung eines Sozialplans, während DuMont juristisch gegen die Gewerkschaftsdarstellung vorgeht.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Gesine Braun steigt zur Chefredakteurin des Harvard Business manager auf",
+          "link": "https://kress.de/news/beitrag/152230-gesine-braun-steigt-zur-chefredakteurin-des-harvard-business-manager-auf-antonia-goetsch-geht.html",
+          "summary": "Gesine Braun übernimmt zum 1. April 2026 die Chefredaktion des Harvard Business manager und folgt auf Antonia Götsch, die das Magazin auf eigenen Wunsch verlässt. Braun war seit Februar 2023 stellvertretende Chefredakteurin und will das crossmediale Führungsmagazin als \"digitalen Player mit europäischer Perspektive\" weiterentwickeln. Götsch bleibt dem Verlag als Kolumnistin und Moderatorin verbunden.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Christoph Bauer) übernimmt die Herausgeberschaft der Kölnischen Rundschau und verlagert die Redaktion in den eigenen Newsroom.",
+          "link": "https://kress.de/news/beitrag/152220-dumont-uebernimmt-koelnische-rundschau.html",
+          "summary": "DuMont übernimmt ab April 2026 die redaktionelle Verantwortung für die Kölnische Rundschau vom Heinen-Verlag, da eine eigenständige Redaktionstätigkeit wirtschaftlich nicht mehr tragfähig ist. Die traditionsreiche Tageszeitung wird in den Newsroom der Kölner Stadt-Anzeiger Medien integriert, bleibt aber als eigenständige publizistische Marke bestehen. Parallel baut DuMont ihr digitales Geschäft mit über 30 neuen Stellen aus.",
           "score": 8
         },
         {
           "source": "meedia",
-          "title": "Analyse von Integral Ad Science (IAS) Genysis, das gigantische Made-for-Advertising-Betrugsnetzwerk...",
-          "link": "https://meedia.de/news/beitrag/21229-genysis-das-gigantische-made-for-advertising-betrugsnetzwerk.html",
-          "summary": "Das IAS Threat Lab hat das Betrugsnetzwerk \"Genisys\" aufgedeckt, bei dem über 25 Millionen Smartphones und Tablets durch manipulierte Apps unbemerkt betrügerische Werbeimpressionen generieren. Die Apps laden im Hintergrund KI-erstellte Webseiten und rechnen diese als legitime Werbeeinblendungen ab, ohne dass die Gerätebesitzer davon wissen. Genisys stellt durch den Einsatz von KI eine neue Dimension des Ad Fraud dar und übertrifft frühere Betrugsschemata wie \"Arcade\" erheblich in seinem Umfang.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Podcast-Studio gegründet Raab Entertainment startet Vodcast \"Knockout Club\" Tausendsassa Stefan Raab macht jetzt auch in Podcasts.",
-          "link": "https://meedia.de/news/beitrag/21230-raab-entertainment-startet-vodcast-quot-knockout-club-quot.html",
-          "summary": "Stefan Raab expandiert ins Podcast-Geschäft und gründet mit seiner Raab Entertainment das neue Podcast-Studio \"Replay\". Die erste Produktion ist der Kampfsport-Vodcast \"Knockout Club\" mit Christopher Posch und Ken Hövermann, der ab 2. März montags aus dem Boxring der Hamburger Kult-Kneipe \"Zur Ritze\" gesendet wird. Das Format soll Kampfsport-Expertise mit Kiez-Talk verbinden und hochkarätige Gäste aus der MMA- und Box-Szene präsentieren.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Neues Monetarisierungsmodell Wavebird: werbefinanzierte Rechenleistung für GenAI Generative KI hat ein strukturelles Finanzierungsproblem. Jede einzelne Anfrage verursacht enorme Rechenkosten. Während die Anbieter mit stetig steigenden Infrastrukturkosten konfrontiert sind, stoßen Nutzerinnen und Nutzer zunehmend auf Bezahlschranken. Werbefinanzierung gilt als naheliegende Lösung",
-          "link": "https://meedia.de/news/beitrag/21231-wavebird-werbefinanzierte-rechenleistung-fuer-genai.html",
-          "summary": "Wavebird entwickelt ein neues Monetarisierungsmodell namens \"Compute Sponsoring\", bei dem Nutzer KI-Services durch das Anschauen von Werbung statt durch Abos oder Credits finanzieren können. Das Startup von Constantin Keller und Mario von Bassen hat sowohl ein entsprechendes Werbeformat als auch die technische Infrastruktur entwickelt, um Werbung direkt an Rechenprozesse zu koppeln und messbar zu machen. Das Modell adressiert das strukturelle Finanzierungsproblem generativer KI mit ihren enormen Rechenkosten pro Anfrage.",
+          "title": "Livestream exklusiv über MagentaTV Telekom wird Distributions- und Werbepartner von Rock am Ring...",
+          "link": "https://meedia.de/news/beitrag/21218-telekom-wird-distributions-und-werbepartner-von-rock-am-ring.html",
+          "summary": "Die Deutsche Telekom sichert sich eine mehrjährige Partnerschaft mit Rock am Ring bis 2028 und übernimmt die exklusive Livestream-Übertragung des Festivals (5.-7. Juni) über MagentaTV als kostenlosen Service. Die Kooperation umfasst neben der digitalen Distribution auch eine starke Werbepräsenz vor Ort und löst Bild.de als bisherigen Medienpartner ab. Damit knüpft die Telekom an ihre frühere Zusammenarbeit zwischen 2017 und 2019 an und setzt ihre Strategie fort, große Live-Events digital zu verlängern.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "Poisoned chalice? The BBC’s struggles to find a successor to Tim Davie",
-          "link": "https://www.theguardian.com/media/2026/feb/28/bbc-struggles-to-find-a-successor-to-tim-davie-director-general",
-          "summary": "Die BBC kämpft mit erheblichen Schwierigkeiten bei der Suche nach einem Nachfolger für den scheidenden Generaldirektor Tim Davie, wobei potenzielle Kandidaten nach einer Serie von Krisen zurückziehen. Der jüngste Vorfall ereignete sich bei der Bafta-Verleihung, als das N-Wort in der BBC-Übertragung zu hören war, was erneut zu politischer Kritik und internen Untersuchungen führte. Die Häufung solcher Krisen in dem weitverzweigten Medienkonzern hat dazu beigetragen, dass Davie seinen Rückzug früher als geplant ankündigte, wobei Branchenkenner die Position als eine der schwierigsten im öffentlichen Leben bezeichnen.",
-          "score": 7
+          "title": "Trump just got much closer to bringing CNN to heel | Margaret Sullivan",
+          "link": "https://www.theguardian.com/commentisfree/2026/feb/28/trump-paramount-skydance-warner-bros-cnn-netflix",
+          "summary": "David Ellisons Paramount Skydance nähert sich der Übernahme von Warner Bros Discovery (CNNs Mutterkonzern), nachdem Netflix sein Gebot zurückgezogen hat. Die Autorin argumentiert, dass dies Trump einen erheblichen Einfluss auf CNN verschaffen könnte, da die Ellisons bereits bei CBS News eine trump-freundlichere redaktionelle Linie etabliert haben. Der Deal ist noch nicht abgeschlossen und regulatorische Hürden stehen bevor, aber die Entwicklung signalisiert eine potenzielle Konsolidierung der Medienkontrolle zugunsten Trump-naher Interessen.",
+          "score": 10
         },
         {
           "source": "Guardian Media",
           "title": "Paramount Skydance wins Warner Bros Discovery bid after Netflix walks away from deal",
           "link": "https://www.theguardian.com/media/2026/feb/26/netflix-paramount-warner-bros",
-          "summary": "Paramount Skydance hat erfolgreich Warner Bros Discovery für 110 Milliarden Dollar übernommen, nachdem Netflix sich weigerte, sein Gebot zu erhöhen und die Transaktion als \"nicht mehr finanziell attraktiv\" bezeichnete. Netflix hatte vier Geschäftstage Zeit, das überarbeitete Angebot von Paramount zu überbieten, entschied jedoch schnell dagegen. Die Übernahme muss noch regulatorische Hürden überwinden und steht wegen Befürchtungen einer rechtspolitischen Verschiebung in den US-Medien in der Kritik.",
-          "score": 10
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Departing CBS News producer claims political bias as Paramount poised to buy Warner Bros",
-          "link": "https://www.theguardian.com/media/2026/feb/27/cbs-news-political-bias-paramount-warner-bros",
-          "summary": "Eine langjährige CBS News-Produzentin (46 Jahre) wirft dem Sender in einem Abschiedsmemo politische Voreingenommenheit vor und behauptet, Mitarbeiter seien angewiesen worden, ihre Berichterstattung auf \"einen bestimmten Teil des politischen Spektrums\" auszurichten. Der Vorwurf erfolgt zeitgleich mit der wahrscheinlichen Übernahme von Warner Bros Discovery (CNN) durch CBS-Eigentümer Paramount Skydance, wobei die konservative Kommentatorin Bari Weiss nun CBS leitet. CNN-Mitarbeiter befürchten bereits politische Einflussnahme unter der neuen Eigentümerstruktur.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "‘Not a done deal’: California vows ‘vigorous’ review of Paramount-Warner Bros takeover",
-          "link": "https://www.theguardian.com/us-news/2026/feb/27/california-paramount-warner-bros",
-          "summary": "Kaliforniens Generalstaatsanwalt Rob Bonta hat eine „energische Überprüfung\" der 111 Milliarden Dollar schweren Übernahme von Warner Bros Discovery durch Paramount angekündigt, nachdem Netflix sich aus dem Bieterwettstreit zurückgezogen hatte. Die Fusion wirft kartellrechtliche Bedenken auf und könnte erhebliche Arbeitsplatzverluste in Kalifornien zur Folge haben, da Paramount Kosteneinsparungen von 6 Milliarden Dollar durch „Synergien\" anstrebt. Der Deal benötigt noch die Genehmigung von US- und europäischen Regulierungsbehörden, einschließlich der Kartellbehörde des US-Justizministeriums.",
-          "score": 9
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Trump has embraced a disturbing strategy to silence free speech | David Bralow",
-          "link": "https://www.theguardian.com/commentisfree/2026/feb/27/trump-free-speech-ftc-media-matters",
-          "summary": "Die Trump-Administration nutzt eine Einschüchterungsstrategie gegen kritische Medien, indem Bundesbehörden wie die Federal Trade Commission vorgeschobene Ermittlungen gegen wahrgenommene Gegner einleiten und diese offenhalten, um Compliance zu erzwingen. Ein zentrales Beispiel ist die Vergeltungsuntersuchung gegen Media Matters for America nach deren kritischer Berichterstattung über antisemitische Inhalte auf X, woraufhin Elon Musk eine Klage einreichte und die FTC Ermittlungen aufnahm. 17 Non-Profit-Organisationen haben eine Amicus-Schrift eingereicht, um eine einstweilige Verfügung zum Schutz der Meinungsfreiheit von Media Matters zu unterstützen.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "CBS News and CNN staffers fear ‘disaster’ as Paramount wins Warner Bros battle",
-          "link": "https://www.theguardian.com/media/2026/feb/27/cbs-news-cnn-paramount-warner-bros-employees",
-          "summary": "Paramount Skydance hat sich als Gewinner im Bieterkampf um Warner Bros Discovery durchgesetzt, nachdem Netflix sein 83-Milliarden-Dollar-Angebot zurückgezogen hat. Mitarbeiter von CBS News und CNN befürchten massive Stellenstreichungen durch eine mögliche Fusion der Nachrichtensender sowie ideologisch motivierte Programmänderungen unter der Trump-freundlichen Führung von Paramount. Besonders umstritten ist die mögliche Einflussnahme der konservativen CBS-Chefredakteurin Bari Weiss auf CNN, die von Kritikern als potenzielle Bedrohung für die journalistische Unabhängigkeit des Senders gesehen wird.",
-          "score": 9
-        },
-        {
-          "source": "Guardian Media",
-          "title": "WPP to sell assets and cut jobs in radical shake-up to counter AI threat",
-          "link": "https://www.theguardian.com/business/2026/feb/26/wpp-merge-ad-agencies-cut-jobs-ai-threat-advertising",
-          "summary": "WPP kündigt eine radikale Umstrukturierung an, um der KI-Bedrohung zu begegnen, mit dem Ziel, bis 2028 jährlich 500 Millionen Pfund einzusparen durch Vermögensverkäufe und Stellenabbau bei der 100.000-köpfigen Belegschaft. CEO Cindy Rose will das Unternehmen zu einem \"einfacheren, kostengünstigeren, KI-fähigen Geschäft\" umbauen, während die Werbeagenturen Ogilvy, VML und AKQA unter dem WPP Creative-Dach zusammengeführt werden. Die Maßnahmen reagieren auf den anhaltenden Kundenverlust und die Notwendigkeit, mit den KI- und Datenkapazitäten der Konkurrenz mitzuhalten.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Netflix Leaders Reassure Staff At Town Hall After Ceding Warner Bros. To Paramount By Not Raising Bid",
-          "link": "https://deadline.com/2026/02/netflix-town-hall-after-warner-bros-paramount-ted-sarandos-1236739331/",
-          "summary": "Netflix co-CEOs Ted Sarandos und Greg Peters hielten nach dem gescheiterten Warner Bros.-Kauf eine interne Town Hall ab, in der sie ihre Entscheidung verteidigten, das höhere Paramount-Gebot nicht zu überbieten. Sie bezeichneten die Akquisition als \"nice to have\" zum richtigen Preis, nicht als \"must have\" um jeden Preis, und betonten ihre Preisdisziplin sowie das starke Momentum von Netflix bis 2030. Die 15-20-minütige Veranstaltung ohne Q&A-Session sollte die Belegschaft nach dem gescheiterten Deal beruhigen.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Paramount + WBD Vs. Coalition Of The Unwilling: CA AG Pulling Together Blue States Probe Of Mega-Merger",
-          "link": "https://deadline.com/2026/02/paramount-warner-bros-california-blue-states-1236739027/",
-          "summary": "Kaliforniens Generalstaatsanwalt Rob Bonta koordiniert mit anderen demokratisch geführten Bundesstaaten eine kartellrechtliche Prüfung der geplanten Mega-Fusion zwischen Paramount und Warner Bros Discovery, die von den Trump-nahestehenden Ellisons vorangetrieben wird. Die staatlichen Ermittlungen konzentrieren sich auf Bedenken bezüglich des Wettbewerbsschutzes in der Unterhaltungsindustrie, nachdem Netflix aus dem Bieterkampf ausgestiegen ist und ein 110-Milliarden-Dollar-Übernahmeangebot im Raum steht. Der Schauspieler Mark Ruffalo unterstützt öffentlich die Bemühungen und warnt vor negativen Auswirkungen auf Wettbewerb, Löhne und Produktqualität.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Paramount Purchase Of Warner Bros. Discovery Stirs Angst At CNN – Again",
-          "link": "https://deadline.com/2026/02/cnn-angst-paramount-warner-bros-deal-1236738793/",
-          "summary": "Paramount hat Warner Bros. Discovery übernommen und damit auch CNN, was bei den Mitarbeitern des Nachrichtensenders erhebliche Sorgen über die zukünftige redaktionelle Ausrichtung auslöst. Besonders beunruhigend sind Berichte, wonach Paramount-Chef David Ellison Trump Zusagen für größere Änderungen bei CNN gemacht haben soll, sowie Ellisons Teilnahme an Trumps State of the Union als Gast des republikanischen Senators Lindsey Graham. Trotz CEO Mark Thompsons Beschwichtigungsversuchen herrscht laut Quellen eine \"mehr als düstere\" Stimmung in der Redaktion.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Longtime CBS News Producer Cites Claims of Aiming Reporting Towards “Particular Part of the Political Spectrum” in Exit Memo",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/cbs-news-producer-political-reporting-paramount-warner-bros-1236518091/",
-          "summary": "Mary Walsh, eine langjährige CBS News-Produzentin mit 46 Jahren Berufserfahrung, verlässt das Unternehmen und behauptet in ihrem Abschiedsmemo, dass die Berichterstattung auf \"einen bestimmten Teil des politischen Spektrums\" ausgerichtet werden soll. CBS Evening News-Chefredakteur Kim Harvey widersprach diesen Vorwürfen öffentlich und betonte die redaktionelle Unabhängigkeit des Senders. Walsh' Abgang erfolgt während struktureller Veränderungen bei CBS News unter neuer Führung, wobei mehrere Mitarbeiter bereits Abfindungsangebote angenommen haben.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "What Sparked Paramount’s Investigation of Jeff Shell",
-          "link": "https://www.hollywoodreporter.com/business/business-news/paramount-investigation-jeff-shell-1236517859/",
-          "summary": "R.J. Cipriani, Co-Creator der Roku-Serie \"Serenata De Las Estrellas\", reichte eine Whistleblower-Beschwerde gegen Paramount-Chef Jeff Shell ein, nachdem Gespräche über die englischsprachige Version seiner Show scheiterten. Shell wird vorgeworfen, vertrauliche Informationen über Paramounts 7,7-Milliarden-Dollar-Medienrechte-Deal mit der UFC unangemessen preisgegeben zu haben, was zu einem 10-prozentigen Kursanstieg der TKO Group Holdings führte. Bemerkenswert ist, dass Anwältin Patty Glaser sowohl Shell als auch Cipriani in verschiedenen Geschäftsangelegenheiten vertrat und die beiden ursprünglich miteinander bekannt machte.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "‘David Ellison Scares the S— Out of Me’: How Paramount Beat Out Netflix, Won Warner Bros. and Will Change Hollywood Forever",
-          "link": "https://variety.com/2026/film/news/paramount-warner-bros-deal-explained-netflix-ellison-1236674841/",
-          "summary": "Paramount hat Warner Bros. Discovery mit einem Gebot von 31$ pro Aktie übernommen, nachdem Netflix mit seinem Angebot von 27,75$ (nur für Studio- und Streaming-Geschäft) nicht mithalten wollte. Netflix-CEO Ted Sarandos verzichtete schnell auf eine Erhöhung des Gebots, da die Transaktion bei dem erforderlichen Preis nicht mehr finanziell attraktiv gewesen wäre. Die Übernahme gibt Paramount Kontrolle über eine bedeutende Medien-Bibliothek mit Franchises wie Harry Potter, Batman und HBO-Inhalten.",
+          "summary": "Paramount Skydance hat die Übernahme von Warner Bros Discovery für 110 Milliarden Dollar gewonnen, nachdem Netflix sich weigerte, das überarbeitete Angebot zu überbieten. Netflix erklärte, dass der Deal \"bei dem erforderlichen Preis nicht mehr finanziell attraktiv\" sei, obwohl das Unternehmen vier Geschäftstage Zeit hatte, das Angebot von David Ellisons Firma zu übertreffen. Die Übernahme steht noch unter regulatorischen Vorbehalten und Kritik bezüglich einer möglichen rechtspolitischen Ausrichtung in den US-Medien.",
           "score": 10
         }
       ]
