@@ -1,83 +1,153 @@
 {
   "newsletters": [
     {
-      "date": "2026-03-02",
+      "date": "2026-03-03",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Rakuten TV bringt FAST-Channels zu Prime Video",
-          "link": "https://www.dwdl.de/nachrichten/105668/rakuten_tv_bringt_fastchannels_zu_prime_video/",
-          "summary": "Rakuten TV kooperiert strategisch mit Prime Video und bringt zunächst drei FAST-Channels (All Romance, Planet Action, 21 Jump Street) in den deutschen Live-TV-Bereich der Plattform. Die Partnerschaft soll schrittweise auf weitere Kanäle und Märkte wie Italien und Spanien ausgeweitet werden, wobei Rakuten TV Enterprise auch FAST-Kanäle von Drittanbietern integrieren kann. Ziel ist die Reichweitensteigerung und Maximierung der Umsatzmöglichkeiten für Rechteinhaber-Partner.",
+          "title": "\"Kommissar Rex\" feiert TV-Comeback nach Ostern",
+          "link": "https://www.dwdl.de/nachrichten/105722/kommissar_rex_feiert_tvcomeback_nach_ostern/",
+          "summary": "Sat.1 bringt ab dem 13. April 2026 eine Neuauflage von \"Kommissar Rex\" ins Programm, die montags um 20:15 Uhr in Spielfilmlänge ausgestrahlt wird. Maximilian Brückner übernimmt als Kommissar Max Steiner die Hauptrolle neben dem Schäferhund Rex, der weiterhin in der Wiener Mordkommission ermittelt. Die von MR-Film produzierte Serie wird in Kooperation mit dem ORF realisiert und soll das nostalgische Gefühl der ursprünglichen Erfolgsproduktion vermitteln.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Yoko Higuchi-Zitzmann macht sich mit KI-Firma selbstständig",
-          "link": "https://www.dwdl.de/nachrichten/105704/yoko_higuchizitzmann_macht_sich_mit_kifirma_selbststaendig/",
-          "summary": "Yoko Higuchi-Zitzmann gründet die Yoko Holding GmbH als Content-Studio für KI-basierte Film- und Serienproduktion mit dem Ziel, einen \"europäischen Champion für KI-Filme\" zu schaffen. Das Unternehmen setzt auf hybride Filmproduktion und verspricht, Produktionszeiten von Jahren auf Monate zu verkürzen bei nur 10-30% der traditionellen Kosten. Details zu Mitgründern und Finanzierung bleiben bislang unklar, als Filmemacher wurden bereits Mark Wachholz und Sylvia Nitzsche verpflichtet.",
+          "title": "Little Dot Studios will Inhalte von ZDF Studios weltweit verbreiten",
+          "link": "https://www.dwdl.de/nachrichten/105710/little_dot_studios_will_inhalte_von_zdf_studios_weltweit_verbreiten/",
+          "summary": "Little Dot Studios (All3Media) und ZDF Studios erweitern ihre Content-Partnerschaft um eine mehrjährige Lizenzvereinbarung über mehr als 600 Programmstunden aus dem Doku- und Factual-Katalog von ZDF Studios. Die Inhalte werden weltweit über digitale Plattformen wie YouTube-Kanäle, FAST-Angebote, History Hit sowie Waipu und Joyn verbreitet, wodurch das Gesamtvolumen der Kooperation auf über 1.000 Stunden Premium-Content anwächst. Die Ausspielung erfolgt sowohl deutschsprachig für die DACH-Region als auch englischsprachig für internationale Märkte und hat bereits auf Kanälen wie Real Stories Deutschland begonnen.",
           "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "Bieterkampf: Warner Bros. Discovery stimmt Übernahme durch Paramount zu",
-          "link": "https://www.horizont.net/medien/nachrichten/bieterkampf-warner-bros.-discovery-stimmt-uebernahme-durch-paramount-zu-233371?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Paramount Skydance hat sich im monatelangen Bieterkampf um Warner Bros. Discovery durchgesetzt und wird den US-Unterhaltungskonzern übernehmen. Der Konkurrent Netflix hatte sich zuvor aus dem Bieterverfahren zurückgezogen, was die entscheidende Wende brachte. Mit der Übernahme wechselt auch der Nachrichtensender CNN den Besitzer.",
+          "source": "DWDL",
+          "title": "Paramount+ und HBO Max sollen zusammengelegt werden",
+          "link": "https://www.dwdl.de/nachrichten/105715/paramount_und_hbo_max_sollen_zusammengelegt_werden/",
+          "summary": "Paramount-CEO David Ellison kündigte während eines Investoren-Calls die Zusammenlegung von Paramount+ und HBO Max an, wodurch der kombinierte Streamingdienst über 200 Millionen Direktkunden verfügen und besser mit Netflix (300+ Millionen Abonnenten) konkurrieren könnte. HBO soll dabei seine Markenidentität und redaktionelle Unabhängigkeit bei der Content-Produktion behalten, während durch die Plattform-Fusion alle Inhalte einem breiteren Publikum zugänglich gemacht werden sollen. Details zum Namen und der genauen Struktur des fusionierten Dienstes blieben zunächst offen.",
           "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "RTL-Tanzshow: Das sind die Werbepartner der neuen Staffel von &quot;Let&#039;s Dance&quot;",
-          "link": "https://www.horizont.net/medien/nachrichten/rtl-tanzshow-das-sind-die-werbepartner-der-neuen-staffel-von-lets-dance-233360?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "RTL startet heute die neue Staffel von \"Let's Dance\" mit prominenten Teilnehmern. Zahlreiche Werbepartner nutzen die beliebte Tanzshow erneut als Plattform für spezielle Markenauftritte und Werbeaktivierungen. Der Artikel listet die beteiligten Marken der aktuellen Staffel auf.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Verstöße gegen den Pressekodex: Deutscher Presserat hat 2025 erstmals über 100 Rügen verteilt",
-          "link": "https://www.horizont.net/medien/nachrichten/verstoesse-gegen-den-pressekodex-deutscher-presserat-hat-2025-erstmals-ueber-100-ruegen-verteilt-233327?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der Deutsche Presserat hat 2025 mit 102 öffentlichen Rügen erstmals in seiner Geschichte die 100er-Marke überschritten und damit einen neuen Rekord aufgestellt. Die Verstöße konzentrierten sich hauptsächlich auf Verletzungen der Sorgfaltspflicht und des Persönlichkeitsschutzes. Dies markiert bereits das dritte Jahr in Folge mit einem Höchstwert an verhängten Sanktionen durch das Selbstkontrollorgan der deutschen Medienlandschaft.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Was Führung vom Boxen lernen kann",
-          "link": "https://kress.de/news/beitrag/152222-was-fuehrung-vom-boxen-lernen-kann-andrea-wasmuth-ueber-strategie-statt-muskelkraft.html",
-          "summary": "Andrea Wasmuth, Vorsitzende der Geschäftsführung DvH Medien & Handelsblatt Media Group, überträgt Prinzipien aus dem Boxsport auf Führung im Management. Sie betont, dass Erfolg weniger durch \"Muskelkraft\" als durch Technik, Strategie und Timing erreicht wird - analog zu cleverer Vorbereitung und sauberer Umsetzung im beruflichen Kontext. Der Beitrag erscheint im Rahmen der kress pro-Jubiläumsausgabe zum zehnjährigen Bestehen.",
+          "source": "DWDL",
+          "title": "NFL kündigt überraschend deutschen TV-Vertrag mit DAZN",
+          "link": "https://www.dwdl.de/nachrichten/105714/nfl_kuendigt_ueberraschend_deutschen_tvvertrag_mit_dazn/",
+          "summary": "Die NFL hat ihren deutschen TV-Vertrag mit DAZN überraschend gekündigt, nachdem DAZN eine Verlängerung der Kündigungsfrist ablehnte, wodurch der Streamingdienst die exklusiven Live-Übertragungsrechte für mehrere Spiele pro Woche sowie die deutschsprachige Konferenz ENDZN verliert. Die NFL hofft vermutlich auf höhere Einnahmen bei einer Neuvermarktung, wobei RTL Deutschland als möglicher neuer Partner gehandelt wird. DAZN behält jedoch den NFL Game Pass mit allen Einzelspielen und der RedZone-Konferenz bis 2033.",
           "score": 7
         },
         {
-          "source": "kress",
-          "title": "Sebastian Späth zählt zu den Young Leaders 2025 kress präsentiert in einer Serie junge...",
-          "link": "https://kress.de/news/beitrag/152221-sebastian-spaeth-zaehlt-zu-den-young-leaders-2025.html",
-          "summary": "Sebastian Späth (34) wurde von kress pro zu den 25 Young Leaders 2025 gekürt und wechselte zum Jahresende 2025 von der Chefredaktion bei Falstaff Deutschland zur Chefredaktion des Robb Report im Jahreszeiten Verlag. Der studierte Kunstmaler und Absolvent der Deutschen Journalistenschule bringt Erfahrungen von Stern, Spiegel und T-Online mit und spezialisiert sich auf die Bereiche Kunst, Kulinarik, Mode und Design. Sein Ziel ist es, sich in den nächsten zehn Jahren als einflussreicher Impulsgeber in Kultur- und Ästhetikfragen zu etablieren.",
+          "source": "DWDL",
+          "title": "Endemol Shine Germany entlässt mehrere Mitarbeiter",
+          "link": "https://www.dwdl.de/nachrichten/105698/endemol_shine_germany_entlaesst_mehrere_mitarbeiter/",
+          "summary": "Endemol Shine Germany hat trotz erfolgreicher Formate wie \"Hot oder Schrott\" und \"Die Höhle der Löwen\" mehrere Mitarbeiter im niedrigeren zweistelligen Bereich entlassen, um sich den Schwankungen im Projektgeschäft anzupassen. Hintergrund sind unter anderem die nicht verlängerte RTL-Show \"Lego Masters\" und die reduzierte Staffelanzahl von \"The Masked Singer\" bei ProSieben. Als positive Entwicklung konnte die Eigenproduktion \"Staying Alive\" an ProSieben verkauft werden.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Sport-Streaming: NFL kündigt überraschend deutschen TV-Vertrag mit DAZN",
+          "link": "https://www.horizont.net/medien/nachrichten/sport-streaming-nfl-kuendigt-ueberraschend-deutschen-tv-vertrag-mit-dazn-233392?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "NFL und DAZN haben ihren ursprünglich bis Februar 2028 laufenden Fünfjahresvertrag für die deutsche Pay-TV-Übertragung vorzeitig und überraschend beendet. Die Kündigung des noch zwei Jahre gültigen Vertrags stellt einen bedeutenden Einschnitt im deutschen Sports-Streaming-Markt dar und zwingt NFL-Fans zur Neuorientierung bei der Mediennutzung.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "AGF Census+ Ranking: Das waren die meistgestreamten Formate im Februar",
+          "link": "https://www.horizont.net/medien/nachrichten/agf-census-ranking-das-waren-die-meistgestreamten-formate-im-februar-233384?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Das AGF Census+ Ranking für Februar zeigt eine breite thematische Vielfalt der meistgestreamten Formate von Sport über Action bis Reality-TV. Bemerkenswert ist, dass sich das ZDF im Streaming-Bereich mittlerweile auf Augenhöhe mit den privaten Sendern positioniert hat.",
+          "score": 9
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Der TV-Markt im Februar: ZDF dank Olympia gleichauf mit RTL",
+          "link": "https://www.horizont.net/medien/nachrichten/der-tv-markt-im-februar-zdf-dank-olympia-gleichauf-mit-rtl-233372?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Olympischen Winterspiele verhalfen ARD und ZDF im Februar zu deutlichen Marktanteilsgewinnen, wobei das ZDF in der werberelevanten Zielgruppe sogar mit RTL gleichziehen konnte. RTL profitierte parallel noch vom Dschungelcamp-Erfolg, während kleinere Sender Marktanteile verloren. Die Olympia-Übertragungen sorgten somit für eine temporäre Verschiebung der gewohnten Sender-Hierarchie zugunsten der öffentlich-rechtlichen Programme.",
           "score": 8
         },
         {
           "source": "meedia",
-          "title": "Video Daily: TV-Quoten & Streaming-Charts Großes Interesse an Iran-Sondersendungen, dem \"ESC\"-Vorentscheid und \"Let's Dance\" Die populärsten TV-Programme kamen am Wochenende aus unterschiedlichsten Genres. Am Sonntag sahen mehr als 8,6 Millionen den \"Brennpunkt: Iran",
-          "link": "https://meedia.de/news/beitrag/21234-grosses-interesse-an-iran-sondersendungen-dem-quot-esc-quot-vorentscheid-und-quot-let-039-s-dance-quot.html",
-          "summary": "Am Wochenende dominierten diverse TV-Genres die Einschaltquoten: Der \"Brennpunkt: Iran - Krieg im Nahen Osten\" erreichte am Sonntag 8,62 Millionen Zuschauer (32,6%) und übertraf sogar den \"Tatort\", während der ESC-Vorentscheid am Samstag mit 27,4% bei den 14-49-Jährigen die Prime Time gewann. \"Let's Dance\" startete am Freitag erfolgreich in die neue Staffel, was die Vielfalt der erfolgreichen Programmformate unterstreicht.",
+          "title": "TV-Quoten & Streaming-Charts \"Brennpunkt\" und \"Hart aber fair\" besiegen \"Die Höhle der Löwen\" und...",
+          "link": "https://meedia.de/news/beitrag/21241-quot-brennpunkt-quot-und-quot-hart-aber-fair-quot-besiegen-quot-die-hoehle-der-loewen-quot-und-quot-wer-wird-millionaer-quot.html",
+          "summary": "Das Erste dominierte am Montagabend mit seiner Nahost-Berichterstattung (\"Tagesschau\", \"Brennpunkt\", \"Hart aber fair\") besonders beim jungen Publikum und schlug etablierte Prime-Time-Formate wie \"Die Höhle der Löwen\" und \"Wer wird Millionär?\". Im Gesamtpublikum gewann jedoch der ZDF-Thriller \"In fremden Händen\" mit 5,64 Millionen Zuschauern (23,5% MA) den Tagessieg, während Nachrichten- und Sondersendungen die Plätze 2-5 belegten. Das hohe Interesse an der Nahost-Berichterstattung führte zu außergewöhnlich starken Quoten für Informationssendungen gegenüber Entertainment-Formaten.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "TV-Monat Februar 2026 mit den Marktanteilen von 113 Sendern Olympia pusht ZDF und Das Erste, ProSieben fällt hinter Sat.1 Gold zurück Die Olympischen Winterspiele haben dem Ersten und dem ZDF über zwei Wochen lang Top-Quoten beschert. Klar, dass das Duo sich bei den Monats-Marktanteilen deutlich verbesserte: Mit 17,1 und 14,7 Prozent gab es im Februar sogar die besten Marktanteile seit der Fußball-EM 2024. Die Verluste verteilten sich auf viele, vornehmlich private Sender, ProSieben fiel im Februar peinlicherweise sogar hinter Sat.1 Gold zurück. Bei den 14- bis 49-Jährigen verteidigte RTL hauchdünn den ersten Platz vor dem ZDF",
+          "link": "https://meedia.de/news/beitrag/21239-olympia-pusht-zdf-und-das-erste-prosieben-faellt-hinter-sat-1-gold-zurueck.html",
+          "summary": "Die Olympischen Winterspiele verhalfen ARD (17,1%) und ZDF (14,7%) im Februar 2026 zu den besten Marktanteilen seit der Fußball-EM 2024, mit Zugewinnen von 1,2 bzw. 0,9 Prozentpunkten gegenüber Januar. Private Sender verzeichneten entsprechende Verluste, wobei ProSieben sogar hinter Sat.1 Gold zurückfiel, während RTL bei den 14-49-Jährigen knapp vor dem ZDF den Spitzenplatz behauptete.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Einbindung der ARD-Mediathek Joyn unterliegt auch vor OLG Köln Joyn durfte die ARD-Mediathek im...",
+          "link": "https://meedia.de/news/beitrag/21236-joyn-unterliegt-auch-vor-olg-koeln.html",
+          "summary": "Das OLG Köln hat in zweiter Instanz bestätigt, dass Joyn die ARD-Mediathek nicht ohne Erlaubnis in das eigene Streaming-Angebot einbinden durfte und bewertet dies als unlauteren Wettbewerb sowie Verstoß gegen den Medienstaatsvertrag. Das Gericht sieht in der Übernahme der gesamten Mediathek eine unzulässige Täuschung der Nutzer über die Herkunft des Angebots, die über das erlaubte Recht zur Verlinkung hinausgeht. Rechtsmittel zum BGH sind nicht mehr möglich, während auch ZDF und Arte rechtlich gegen ähnliche Praktiken vorgehen.",
           "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Paramount+ and HBO Max to become one streaming service, Ellison says",
+          "link": "https://www.theguardian.com/media/2026/mar/02/paramount-hbo-max-streaming-warner-bros",
+          "summary": "David Ellison, CEO von Paramount Skydance, kündigte die Fusion von HBO Max und Paramount+ zu einem gemeinsamen Streaming-Service an, nachdem das Unternehmen Warner Bros Discovery für 110 Milliarden Dollar übernommen hat. Die kombinierte Plattform würde über 200 Millionen Direktkunden verfügen und Premium-Inhalte wie The Sopranos und Game of Thrones mit Paramount-Produktionen wie Yellowstone vereinen. HBO soll dabei als eigenständige Marke erhalten bleiben, während Details zu Preisgestaltung und dem Namen des neuen Services noch nicht bekannt gegeben wurden.",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Paramount bid creates uncertainty over Champions League TV coverage in UK",
+          "link": "https://www.theguardian.com/football/2026/mar/02/paramount-bid-uncertainty-champions-league-tv-coverage-uk",
+          "summary": "Paramounts geplante 110 Milliarden Dollar Übernahme von Warner Bros Discovery schafft Unsicherheit über die künftige Champions League-Übertragung in Großbritannien, da TNT Sports' Vertrag Ende nächster Saison ausläuft und Paramount bereits die Rechte ab 2027-28 gesichert hat. Die regulatorische Genehmigung der Fusion steht noch aus, während Paramount mehrere Übertragungsoptionen haben wird - von der Beibehaltung bei TNT Sports bis zur Verlagerung auf Paramount+ oder HBO Max. UEFA bevorzugt die größtmögliche Reichweite für die Spiele und wird Einfluss auf Paramounts Übertragungsstrategie nehmen.",
+          "score": 8
         },
         {
           "source": "Guardian Media",
           "title": "Paramount Skydance wins Warner Bros Discovery bid after Netflix walks away from deal",
           "link": "https://www.theguardian.com/media/2026/feb/26/netflix-paramount-warner-bros",
-          "summary": "Paramount Skydance hat die Übernahme von Warner Bros Discovery für 110 Milliarden Dollar gewonnen, nachdem Netflix sich weigerte, das überarbeitete Angebot zu überbieten. Netflix-CEOs Sarandos und Peters erklärten, dass der Deal \"zum erforderlichen Preis nicht mehr finanziell attraktiv\" sei und bezeichneten die Transaktion als \"nice to have\" zu einem angemessenen Preis, nicht als \"must have\" um jeden Preis. Die Übernahme steht noch unter regulatorischen Vorbehalten und Kritik bezüglich einer möglichen politischen Rechtsverschiebung in US-Medien.",
+          "summary": "Paramount Skydance hat die Übernahme von Warner Bros Discovery für 110 Milliarden Dollar gewonnen, nachdem Netflix sich weigerte, sein Gebot zu erhöhen und die Transaktion als \"nicht mehr finanziell attraktiv\" bezeichnete. Netflix hatte vier Geschäftstage Zeit, das überarbeitete Angebot von Paramount zu überbieten, entschied jedoch schnell dagegen. Die Übernahme muss noch regulatorische Hürden überwinden und steht wegen Befürchtungen über eine Rechtsverschiebung in den US-Medien in der Kritik.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "Amazon Exec Joins Tilly Norwood Studio As “Leading Architect Of The Tillyverse”",
-          "link": "https://deadline.com/2026/03/tilly-norwood-studio-amazon-mark-whelan-tillyverse-1236740972/",
-          "summary": "Tilly Norwood Studio Xicoia hat Mark Whelan von Amazon Prime Video als \"führenden Architekten des Tillyverse\" eingestellt, um die Expansion des kontroversen KI-Schauspielers Tilly Norwood voranzutreiben. Whelan, der zuvor Prime Videos Social-Media-Strategie für Formate wie \"The Grand Tour\" leitete, wird die Entwicklung eines digitalen Universums mit 40 diversen KI-Charakteren überwachen. Das Projekt hat bereits Kritik von Hollywood-Stars und Gewerkschaften hervorgerufen, wobei das Studio betont, dass KI-Schauspieler echte Darsteller nicht ersetzen sollen.",
+          "title": "German Event Series ‘The Widow Killer’ Lands More European Deals With Canal+ & SVT",
+          "link": "https://deadline.com/2026/03/widow-killer-tv-europe-deals-canal-plus-svt-1236742206/",
+          "summary": "Die deutsche Event-Serie \"The Widow Killer\" von Zeitgeist Filmproduktion hat vor dem ARD-Start am Karfreitag weitere europäische Verkäufe mit Canal+ (Niederlande, Belgien, Tschechien, Slowakei, Ungarn, Rumänien) und SVT (Schweden) abgeschlossen. Die auf Pavel Kohouts Roman basierende Serie spielt im besetzten Prag 1945 und folgt einem tschechischen Detektiv und einem Gestapo-Agenten bei der Jagd nach einem Serienmörder. Das hochkarätig besetzte Projekt (u.a. Nicholas Ofczarek, Jonas Nay) entstand als internationale Koproduktion zwischen Deutschland, Österreich und Tschechien.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Jon Stewart Decries “Arrogant” U.S.-Israeli Missile Attack On Iran: “Our Bombs Are Now Smarter Than Our President”",
+          "link": "https://deadline.com/2026/03/jon-stewart-the-daily-show-iran-war-us-israeli-strike-1236742138/",
+          "summary": "Jon Stewart kritisierte in The Daily Show die US-israelischen Luftangriffe auf den Iran, die angeblich Ajatollah Chamenei töteten, als \"arrogant\" und unnötig angesichts seines hohen Alters und Gesundheitszustands. Stewart und Korrespondent Jordan Klepper verspotteten Trumps mangelnde Kriegsstrategie und die daraus resultierende regionale Eskalation, bei der der Iran US-Militärbasen in mehreren Ländern bombardierte. Der Komiker fasste seine Kritik mit dem Kommentar zusammen: \"Unsere Bomben sind jetzt intelligenter als unser Präsident.\"",
           "score": 8
         },
         {
+          "source": "Deadline",
+          "title": "Children’s & Family Emmys: ‘The Tiny Chef Show,’ ‘Sesame Street’ & ‘Heartstopper’ Among Winners – Full List",
+          "link": "https://deadline.com/2026/03/childrens-family-emmys-2026-winners-list-1236742025/",
+          "summary": "Bei den vierten Children's & Family Emmy Awards 2026 waren \"Sesame Street\", \"Heartstopper\" und \"The Tiny Chef Show\" unter den größten Gewinnern mit mehreren Auszeichnungen. Einzelne Preisträger umfassten Joe Locke für \"Heartstopper\", John Lithgow mit seinem siebten Emmy sowie die Erstgewinner Ana Gasteyer und Andrew Garfield. Die von der National Academy of Television Arts & Sciences ausgerichtete Zeremonie ehrte herausragende Kreativität und Innovation im Kinderfernsehen.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Paramount-WBD Merger Ends Premium TV’s Original Heated Rivalry, Brings Together HBO & Showtime: “It Warms My Heart,” Robert Greenblatt Says",
+          "link": "https://deadline.com/2026/03/paramount-wbd-merger-showtime-hbo-together-bob-greenblatt-1236741920/",
+          "summary": "Die Fusion von Paramount und Warner Bros. Discovery bringt die Premium-TV-Rivalen HBO und Showtime unter ein Dach, nachdem Showtime in den letzten Jahren erheblich verkleinert wurde und sogar seinen Namen aus dem Streaming-Angebot entfernt hat. Robert Greenblatt, ehemaliger Führungskraft beider Sender, zeigt sich erfreut über das Ende der jahrzehntelangen Konkurrenz zwischen den beiden Pay-TV-Netzwerken. Die Zusammenführung der Streaming-Plattformen HBO Max und Paramount+ soll einen ernsthaften Netflix-Rivalen schaffen.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "‘God Of War’ Game Creator Mocks Prime Video’s “Terrible” First Image: “None Of These Characters Look Very Interesting Or Appealing”",
+          "link": "https://deadline.com/2026/03/god-of-war-prime-video-terrible-first-look-image-1236742066/",
+          "summary": "David Jaffe, Schöpfer des \"God of War\"-Videospiels, kritisierte scharf das erste veröffentlichte Bild von Prime Videos TV-Adaption und bezeichnete es als \"schrecklich\" und \"dumm\". Obwohl er keine grundsätzlichen Bedenken bezüglich der Serie-Ausrichtung oder Showrunner Ronald D. Moore äußerte, bemängelte er insbesondere die Darstellung von Kratos (Ryan Hurst) und Atreus (Callum Vinson) als uninteressant und unattraktiv. Die Live-Action-Adaption wird von Sony Pictures Television und Amazon MGM Studios produziert.",
+          "score": 9
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Artists Equity Inks Streaming Pact With Netflix",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-matt-damon-artists-equity-netflix-streaming-deal-1236519933/",
+          "summary": "Artists Equity, die von Ben Affleck, Matt Damon und Gerry Cardinale gegründete Produktionsfirma, hat einen mehrjährigen First-Look-Deal mit Netflix für Streaming-Inhalte abgeschlossen. Dies ergänzt ihre bestehende Partnerschaft mit Sony für Kinofilme, wobei projektbezogen entschieden wird, welcher Partner zum Einsatz kommt. Der Deal folgt auf den Erfolg des Netflix-Films \"The Rip\", der drei Wochen lang Platz 1 der Netflix-Charts belegte.",
+          "score": 7
+        },
+        {
           "source": "Variety",
-          "title": "Tilly Norwood Creator Plans ‘Rapid Expansion’ With the ‘Tillyverse,’ Where Norwood and Other AI Actors ‘Will Live, Collaborate and Build Careers’",
-          "link": "https://variety.com/2026/digital/global/tilly-norwood-tillyverse-ai-actors-careers-1236676507/",
-          "summary": "Eline van der Velden, Schöpferin der KI-Figur Tilly Norwood, plant eine \"schnelle Expansion\" ihrer digitalen Kreation durch den Aufbau des \"Tillyverse\" - einem digitalen Universum, in dem KI-Charaktere \"leben, kollaborieren und Karrieren aufbauen\" sollen. Für ihr neues KI-Talent-Studio Xicoia hat sie Mark Whelan von Prime Video als Strategie- und Operations-Chef verpflichtet, um maßgeschneiderte KI-Talente zu entwickeln und geistiges Eigentum im großen Maßstab zu schaffen. Das Projekt, das Ende 2026 starten soll, folgt auf Van der Veldens kontroverse Ankündigung von 2025, wonach die fiktive KI-Schauspielerin Norwood bei einer Agentur unter Vertrag genommen werden sollte, was heftige Kritik von Schauspielgewerkschaften und prominenten Persönlichkeiten wie James Cameron hervorrief.",
+          "title": "Jon Stewart Slams Trump For Keeping Press in the Dark About Iran War: ‘Our Bombs Are Now Smarter Than Our President’",
+          "link": "https://variety.com/2026/tv/news/jon-stewart-trump-war-iran-the-daily-show-1236677756/",
+          "summary": "Jon Stewart kritisierte in \"The Daily Show\" Präsident Trump dafür, die Presse über Ziele und Rechtfertigung des neu begonnenen Krieges mit dem Iran im Unklaren zu lassen. Stewart verspottete Trumps Ausweichmanöver gegenüber Reporterfragen, bei dem dieser stattdessen über Statuen sprach, und wies auf die mangelnde Kommunikation der Regierung zu dem gemeinsam mit Israel geführten Militäreinsatz hin.",
           "score": 8
         }
       ]
