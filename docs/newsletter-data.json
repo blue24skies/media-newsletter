@@ -1,154 +1,259 @@
 {
   "newsletters": [
     {
-      "date": "2026-03-03",
+      "date": "2026-03-04",
       "articles": [
         {
           "source": "DWDL",
-          "title": "\"Kommissar Rex\" feiert TV-Comeback nach Ostern",
-          "link": "https://www.dwdl.de/nachrichten/105722/kommissar_rex_feiert_tvcomeback_nach_ostern/",
-          "summary": "Sat.1 bringt ab dem 13. April 2026 eine Neuauflage von \"Kommissar Rex\" ins Programm, die montags um 20:15 Uhr in Spielfilmlänge ausgestrahlt wird. Maximilian Brückner übernimmt als Kommissar Max Steiner die Hauptrolle neben dem Schäferhund Rex, der weiterhin in der Wiener Mordkommission ermittelt. Die von MR-Film produzierte Serie wird in Kooperation mit dem ORF realisiert und soll das nostalgische Gefühl der ursprünglichen Erfolgsproduktion vermitteln.",
+          "title": "Europäischer Riese entsteht: Banijay und All3Media fusionieren",
+          "link": "https://www.dwdl.de/nachrichten/105735/europaeischer_riese_entsteht_banijay_und_all3media_fusionieren/",
+          "summary": "Die Banijay Group und RedBird IMI fusionieren ihre Produktionsunternehmen Banijay Entertainment und All3Media zu gleichen Teilen (50:50), wodurch ein europäischer Entertainment-Riese mit einem Pro-forma-Umsatz von über 4,4 Mrd. Euro und einem EBITDA von 690 Mio. Euro für 2024 entsteht. Die Fusion soll im Herbst 2026 abgeschlossen werden, wobei Marco Bassetti (Banijay) als CEO und Jane Turton (All3Media) als stellvertretende CEO fungieren werden. Ziel ist die Stärkung der Marktposition gegenüber globalen Partnern durch komplementäre geografische Präsenz (Banijay in Europa, All3Media in UK/USA) und erweiterte Monetarisierungsmöglichkeiten für Content-IP.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Streaming-Rekord für \"Promis unter Palmen\" beim Comeback",
+          "link": "https://www.dwdl.de/zahlenzentrale/105726/streamingrekord_fuer_promis_unter_palmen_beim_comeback_/",
+          "summary": "\"Promis unter Palmen\" erzielte in Kalenderwoche 8 mit 716.000 Nettoreichweite einen Streaming-Rekord bei Joyn und war damit das erfolgreichste Format der Plattform. Der Erfolg ist auf eine veränderte Veröffentlichungsstrategie zurückzuführen: Statt einer Woche Vorlauf bei Joyn wurden 2026 zwei Folgen zeitgleich bzw. direkt nacheinander zur Verfügung gestellt. Trotz mäßiger linearer TV-Quoten zeigt das Format die wachsende Bedeutung von Streaming-Kennzahlen gegenüber klassischen TV-Messungen.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Little Dot Studios will Inhalte von ZDF Studios weltweit verbreiten",
-          "link": "https://www.dwdl.de/nachrichten/105710/little_dot_studios_will_inhalte_von_zdf_studios_weltweit_verbreiten/",
-          "summary": "Little Dot Studios (All3Media) und ZDF Studios erweitern ihre Content-Partnerschaft um eine mehrjährige Lizenzvereinbarung über mehr als 600 Programmstunden aus dem Doku- und Factual-Katalog von ZDF Studios. Die Inhalte werden weltweit über digitale Plattformen wie YouTube-Kanäle, FAST-Angebote, History Hit sowie Waipu und Joyn verbreitet, wodurch das Gesamtvolumen der Kooperation auf über 1.000 Stunden Premium-Content anwächst. Die Ausspielung erfolgt sowohl deutschsprachig für die DACH-Region als auch englischsprachig für internationale Märkte und hat bereits auf Kanälen wie Real Stories Deutschland begonnen.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Paramount+ und HBO Max sollen zusammengelegt werden",
-          "link": "https://www.dwdl.de/nachrichten/105715/paramount_und_hbo_max_sollen_zusammengelegt_werden/",
-          "summary": "Paramount-CEO David Ellison kündigte während eines Investoren-Calls die Zusammenlegung von Paramount+ und HBO Max an, wodurch der kombinierte Streamingdienst über 200 Millionen Direktkunden verfügen und besser mit Netflix (300+ Millionen Abonnenten) konkurrieren könnte. HBO soll dabei seine Markenidentität und redaktionelle Unabhängigkeit bei der Content-Produktion behalten, während durch die Plattform-Fusion alle Inhalte einem breiteren Publikum zugänglich gemacht werden sollen. Details zum Namen und der genauen Struktur des fusionierten Dienstes blieben zunächst offen.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "NFL kündigt überraschend deutschen TV-Vertrag mit DAZN",
-          "link": "https://www.dwdl.de/nachrichten/105714/nfl_kuendigt_ueberraschend_deutschen_tvvertrag_mit_dazn/",
-          "summary": "Die NFL hat ihren deutschen TV-Vertrag mit DAZN überraschend gekündigt, nachdem DAZN eine Verlängerung der Kündigungsfrist ablehnte, wodurch der Streamingdienst die exklusiven Live-Übertragungsrechte für mehrere Spiele pro Woche sowie die deutschsprachige Konferenz ENDZN verliert. Die NFL hofft vermutlich auf höhere Einnahmen bei einer Neuvermarktung, wobei RTL Deutschland als möglicher neuer Partner gehandelt wird. DAZN behält jedoch den NFL Game Pass mit allen Einzelspielen und der RedZone-Konferenz bis 2033.",
+          "title": "Bislang unveröffentlichte Tonaufnahmen in neuer Westerwelle-Doku",
+          "link": "https://www.dwdl.de/nachrichten/105729/bislang_unveroeffentlichte_tonaufnahmen_in_neuer_westerwelledoku/",
+          "summary": "Der WDR zeigt am 9. März eine Dokumentation über den verstorbenen FDP-Politiker Guido Westerwelle anlässlich seines zehnten Todestages, die erstmals unveröffentlichte Tonbandaufnahmen enthält, in denen Westerwelle nach seiner Leukämiediagnose auf sein Leben zurückblickt. Die vier Stunden Tonmaterial stammen von Journalist Dominik Wichmann und wird durch Interviews mit Weggefährten wie Christian Lindner, Wolfgang Kubicki und Michael Mronz ergänzt. Produziert wurde der Film von Open Minds Media unter Regie von Jobst Knigge und ist ab 22:45 Uhr im Ersten sowie in der ARD-Mediathek verfügbar.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Endemol Shine Germany entlässt mehrere Mitarbeiter",
-          "link": "https://www.dwdl.de/nachrichten/105698/endemol_shine_germany_entlaesst_mehrere_mitarbeiter/",
-          "summary": "Endemol Shine Germany hat trotz erfolgreicher Formate wie \"Hot oder Schrott\" und \"Die Höhle der Löwen\" mehrere Mitarbeiter im niedrigeren zweistelligen Bereich entlassen, um sich den Schwankungen im Projektgeschäft anzupassen. Hintergrund sind unter anderem die nicht verlängerte RTL-Show \"Lego Masters\" und die reduzierte Staffelanzahl von \"The Masked Singer\" bei ProSieben. Als positive Entwicklung konnte die Eigenproduktion \"Staying Alive\" an ProSieben verkauft werden.",
+          "title": "DAfFNE 2025/26: Erste Auszeichnungen vergeben",
+          "link": "https://www.dwdl.de/nachrichten/105728/daffne_202526_erste_auszeichnungen_vergeben/",
+          "summary": "Die Deutsche Akademie für Fernsehen hat die ersten DAfFNE-Auszeichnungen 2025/26 vergeben, wobei die ursprünglich geplante große Verleihung durch eine schlichte Pressemitteilung ersetzt wurde. Zu den Preisträgern gehören die Apple TV-Serie \"Krank Berlin\" (zweimal ausgezeichnet für Casting und Produktion) sowie \"Die Spaltung der Welt\" (Arte/SWR/ORF/CT) mit Preisen für Drehbuch und Tongestaltung. Weitere Auszeichnungen gingen an verschiedene Produktionen in den Kategorien Musik, Filmschnitt und Bildgestaltung.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Constantin Film verfilmt Bestseller von Content Creator Tahsim",
+          "link": "https://www.dwdl.de/nachrichten/105727/constantin_film_verfilmt_bestseller_von_content_creator_tahsim_/",
+          "summary": "Constantin Film verfilmt das biografische Buch \"Mama, bitte lern Deutsch\" des TikTok-Stars und Content Creators Tahsim Durgun, das 51 Wochen in den Spiegel-Bestseller-Top-10 stand. Regie führt Hüseyin Tabak (\"4 Blocks Zero\"), das Drehbuch stammt von Jan Berger in Zusammenarbeit mit Durgun selbst. Die Verfilmung soll die persönliche Familiengeschichte über migrantische Lebenswelten einem breiten Kinopublikum zugänglich machen.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "FAST-Kanäle von Spiegel TV auch bei MagentaTV und Zattoo",
+          "link": "https://www.dwdl.de/nachrichten/105725/fastkanaele_von_spiegel_tv_auch_bei_magentatv_und_zattoo/",
+          "summary": "Spiegel TV expandiert seine FAST-Channel-Distribution und ist ab sofort auch über MagentaTV und Zattoo verfügbar, womit die Kanäle nun bei insgesamt elf Anbietern abrufbar sind. MagentaTV zeigt den Hauptkanal Spiegel TV, während Zattoo zusätzlich auch Spiegel TV action+crime ausstrahlt. Die Expansion ist Teil der Digitalstrategie des Unternehmens, die neben YouTube auf FAST-Channels als wichtige Säule setzt.",
           "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "Sport-Streaming: NFL kündigt überraschend deutschen TV-Vertrag mit DAZN",
-          "link": "https://www.horizont.net/medien/nachrichten/sport-streaming-nfl-kuendigt-ueberraschend-deutschen-tv-vertrag-mit-dazn-233392?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "NFL und DAZN haben ihren ursprünglich bis Februar 2028 laufenden Fünfjahresvertrag für die deutsche Pay-TV-Übertragung vorzeitig und überraschend beendet. Die Kündigung des noch zwei Jahre gültigen Vertrags stellt einen bedeutenden Einschnitt im deutschen Sports-Streaming-Markt dar und zwingt NFL-Fans zur Neuorientierung bei der Mediennutzung.",
+          "source": "DWDL",
+          "title": "ZDF-Streamingkönig: \"Bergdoktor\" schlägt sogar Olympia",
+          "link": "https://www.dwdl.de/zahlenzentrale/105717/zdfstreamingkoenig_bergdoktor_schlaegt_sogar_olympia/",
+          "summary": "Der \"Bergdoktor\" dominierte im Februar 2026 das deutsche Streaming mit drei Folgen über 2 Millionen Abrufen und schlug damit sogar die ARD-Olympia-Livestreams (bis 1,87 Mio. Abrufe). Nur der Prime Video-Film \"The Wrecking Crew\" war mit 2,53 Millionen Abrufen erfolgreicher, während das RTL-Dschungelcamp erstmals unter die 2-Millionen-Marke fiel.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "AGF Census+ Ranking: Das waren die meistgestreamten Formate im Februar",
-          "link": "https://www.horizont.net/medien/nachrichten/agf-census-ranking-das-waren-die-meistgestreamten-formate-im-februar-233384?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Das AGF Census+ Ranking für Februar zeigt eine breite thematische Vielfalt der meistgestreamten Formate von Sport über Action bis Reality-TV. Bemerkenswert ist, dass sich das ZDF im Streaming-Bereich mittlerweile auf Augenhöhe mit den privaten Sendern positioniert hat.",
+          "title": "Umfrage von Adobe: Diese Inhalte nutzen die Deutschen im Netz am liebsten",
+          "link": "https://www.horizont.net/medien/nachrichten/umfrage-von-adobe-diese-inhalte-nutzen-die-deutschen-im-netz-am-liebsten-233400?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Laut einer aktuellen Adobe Express-Umfrage dominieren Kurzvideos mittlerweile die Content-Präferenzen deutscher Internet-Nutzer. TikToks Einfluss hat dazu geführt, dass Short-Form-Videos plattformübergreifend zum bevorzugten Content-Format geworden sind. Die Studie bestätigt den grundlegenden Wandel in der deutschen Social-Media-Nutzung hin zu videobasierten Kurz-Inhalten.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Bisnow: Axel Springer kauft B2B-Immobilienplattform in den USA",
+          "link": "https://www.horizont.net/medien/nachrichten/bisnow-axel-springer-kauft-b2b-immobilienplattform-in-den-usa-233411?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Axel Springer erweitert sein US-Geschäft durch die Übernahme der B2B-Immobilienplattform Bisnow, die gemeinsam mit Morning Brew in die neue Brew Media Group integriert wird. Die neu formierte Mediengruppe steht unter der Leitung von CEO Robert Dippell und stärkt Axel Springers Position im amerikanischen B2B-Markt.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Faire Marktregeln: Mathias Döpfner und Holger Friedrich streiten über Wettbewerb in Medienbranche",
+          "link": "https://www.horizont.net/medien/nachrichten/faire-marktregeln-mathias-doepfner-und-holger-friedrich-streiten-ueber-wettbewerb-in-medienbranche-233396?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Verleger Holger Friedrich wirft großen Medienhäusern mangelnde Empathie vor und beklagt, dass Marktregeln \"nicht für alle gleich\" gelten, wobei er als ostdeutscher Verleger in den vergangenen sechseinhalb Jahren stigmatisiert worden sei. Springer-Chef Mathias Döpfner kontert diese Vorwürfe mit eigenen Erfahrungen von Kritik. Friedrich behauptet, sein \"komplettes unternehmerisches Ökosystem in Deutschland wurde zerstört\".",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Statistisches Bundesamt: Ältere holen bei Nutzung sozialer Medien auf",
+          "link": "https://www.horizont.net/medien/nachrichten/statistisches-bundesamt-aeltere-holen-bei-nutzung-sozialer-medien-auf-233374?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Laut Statistischem Bundesamt nutzen 85% der 16-24-Jährigen aktiv soziale Medien, während bei den 65-74-Jährigen der Anteil bei 25% liegt. Die Nutzung ist seit 2021 in allen Altersgruppen gestiegen, wobei der Zuwachs bei älteren Nutzergruppen besonders deutlich ausfällt.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Döpfner und Friedrich debattieren",
+          "link": "https://kress.de/news/beitrag/152236-doepfner-und-friedrich-debattieren-und-am-ende-zweifelt-friedrich-am-kauf-des-berliner-verlags.html",
+          "summary": "Bei einer Berliner Theaterdebatte diskutierten Axel Springer-Chef Mathias Döpfner und Berliner Verleger Holger Friedrich über Wettbewerb und Machtverhältnisse im deutschen Medienmarkt. Friedrich kritisierte ungleiche Marktbedingungen und beklagte eine Stigmatisierung als ostdeutscher Verleger, während Döpfner konterte, dass auch Springer regelmäßig negativen Angriffen ausgesetzt sei. Anlass war Friedrichs neues Projekt, die Ostdeutsche Allgemeine Zeitung (OAZ), die seit Februar erscheint.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Stefan Ibelshäuser steigt bei Klassik Radio zum Programmdirektor auf Ulrich Kubak, CEO der Klassik Radio AG, spricht eine Beförderung aus.",
+          "link": "https://kress.de/news/beitrag/152237-stefan-ibelshaeuser-steigt-bei-klassik-radio-zum-programmdirektor-auf.html",
+          "summary": "Stefan Ibelshäuser wurde mit sofortiger Wirkung zum neuen Programmdirektor der Klassik Radio AG ernannt und übernimmt die federführende Verantwortung für das Content-Team. Der bisherige stellvertretende Leiter für strategische Programmentwicklung ist seit 2021 im Unternehmen und soll laut CEO Ulrich Kubak mit seiner Führungskompetenz die Reichweiten weiter ausbauen. Ibelshäuser plant, mit innovativen Programmansätzen neue Zielgruppen anzusprechen und das Wachstum in Deutschland, Österreich und der Schweiz voranzutreiben.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Fall Jan Philipp Burgard: Erst die Gesundheit",
+          "link": "https://kress.de/news/beitrag/152232-fall-jan-philipp-burgard-erst-die-gesundheit-dann-der-rechtsstreit.html",
+          "summary": "Jan Philipp Burgard, ehemaliger Welt-TV-Chef bei Axel Springer, lässt sein Amt seit Januar aus gesundheitlichen Gründen ruhen und musste sich einer schweren Herzoperation unterziehen. Medienberichte spekulierten über einen Zusammenhang mit einem angeblichen Vorfall auf der Weihnachtsfeier, gegen die Burgards Anwalt Christian Oliver Moser presserechtlich vorging. Der Anwalt betont, dass die Gesundheit seines Mandanten derzeit absoluten Vorrang vor allen anderen Themen hat.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Video Daily: TV-Quoten & Streaming-Charts Sat.1 floppt mit \"Ronzheimer\" zum Thema Jugendkriminalität Die RTL-Krimi-Reihe \"Behringer und die Toten\" bleibt ein Erfolg",
+          "link": "https://meedia.de/news/beitrag/21254-sat-1-floppt-mit-quot-ronzheimer-quot-zum-thema-jugendkriminalitaet.html",
+          "summary": "RTLs Krimi-Reihe \"Behringer und die Toten\" erreichte mit 2,77 Millionen Zuschauern (12,7% MA) solide Quoten im Gesamtpublikum, während die ARD mit \"Die Notärztin\" (3,37 Mio./14,9%) die Prime Time gewann. Sat.1s \"Ronzheimer\" zum Thema Jugendkriminalität floppte deutlich mit Marktanteilen weit unter dem Sendernormalniveau.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Unklarheit bei der künftigen Markenführung Paramount+ und HBO Max sollen zusammengelegt werden...",
+          "link": "https://meedia.de/news/beitrag/21248-paramount-und-hbo-max-sollen-zusammengelegt-werden.html",
+          "summary": "Paramount-CEO David Ellison kündigte die Zusammenlegung von Paramount+ und HBO Max zu einem gemeinsamen Streamingdienst nach Abschluss der Übernahme von Warner Bros. Discovery durch Paramount Skydance an. Der fusionierte Service würde über 200 Millionen Direktkunden weltweit erreichen und damit näher an Marktführer Netflix (300+ Millionen Abonnenten) heranrücken. Welche Marke dabei weichen muss, bleibt noch ungeklärt.",
           "score": 9
         },
         {
-          "source": "Horizont Medien",
-          "title": "Der TV-Markt im Februar: ZDF dank Olympia gleichauf mit RTL",
-          "link": "https://www.horizont.net/medien/nachrichten/der-tv-markt-im-februar-zdf-dank-olympia-gleichauf-mit-rtl-233372?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die Olympischen Winterspiele verhalfen ARD und ZDF im Februar zu deutlichen Marktanteilsgewinnen, wobei das ZDF in der werberelevanten Zielgruppe sogar mit RTL gleichziehen konnte. RTL profitierte parallel noch vom Dschungelcamp-Erfolg, während kleinere Sender Marktanteile verloren. Die Olympia-Übertragungen sorgten somit für eine temporäre Verschiebung der gewohnten Sender-Hierarchie zugunsten der öffentlich-rechtlichen Programme.",
-          "score": 8
-        },
-        {
           "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts \"Brennpunkt\" und \"Hart aber fair\" besiegen \"Die Höhle der Löwen\" und...",
-          "link": "https://meedia.de/news/beitrag/21241-quot-brennpunkt-quot-und-quot-hart-aber-fair-quot-besiegen-quot-die-hoehle-der-loewen-quot-und-quot-wer-wird-millionaer-quot.html",
-          "summary": "Das Erste dominierte am Montagabend mit seiner Nahost-Berichterstattung (\"Tagesschau\", \"Brennpunkt\", \"Hart aber fair\") besonders beim jungen Publikum und schlug etablierte Prime-Time-Formate wie \"Die Höhle der Löwen\" und \"Wer wird Millionär?\". Im Gesamtpublikum gewann jedoch der ZDF-Thriller \"In fremden Händen\" mit 5,64 Millionen Zuschauern (23,5% MA) den Tagessieg, während Nachrichten- und Sondersendungen die Plätze 2-5 belegten. Das hohe Interesse an der Nahost-Berichterstattung führte zu außergewöhnlich starken Quoten für Informationssendungen gegenüber Entertainment-Formaten.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "TV-Monat Februar 2026 mit den Marktanteilen von 113 Sendern Olympia pusht ZDF und Das Erste, ProSieben fällt hinter Sat.1 Gold zurück Die Olympischen Winterspiele haben dem Ersten und dem ZDF über zwei Wochen lang Top-Quoten beschert. Klar, dass das Duo sich bei den Monats-Marktanteilen deutlich verbesserte: Mit 17,1 und 14,7 Prozent gab es im Februar sogar die besten Marktanteile seit der Fußball-EM 2024. Die Verluste verteilten sich auf viele, vornehmlich private Sender, ProSieben fiel im Februar peinlicherweise sogar hinter Sat.1 Gold zurück. Bei den 14- bis 49-Jährigen verteidigte RTL hauchdünn den ersten Platz vor dem ZDF",
-          "link": "https://meedia.de/news/beitrag/21239-olympia-pusht-zdf-und-das-erste-prosieben-faellt-hinter-sat-1-gold-zurueck.html",
-          "summary": "Die Olympischen Winterspiele verhalfen ARD (17,1%) und ZDF (14,7%) im Februar 2026 zu den besten Marktanteilen seit der Fußball-EM 2024, mit Zugewinnen von 1,2 bzw. 0,9 Prozentpunkten gegenüber Januar. Private Sender verzeichneten entsprechende Verluste, wobei ProSieben sogar hinter Sat.1 Gold zurückfiel, während RTL bei den 14-49-Jährigen knapp vor dem ZDF den Spitzenplatz behauptete.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Einbindung der ARD-Mediathek Joyn unterliegt auch vor OLG Köln Joyn durfte die ARD-Mediathek im...",
-          "link": "https://meedia.de/news/beitrag/21236-joyn-unterliegt-auch-vor-olg-koeln.html",
-          "summary": "Das OLG Köln hat in zweiter Instanz bestätigt, dass Joyn die ARD-Mediathek nicht ohne Erlaubnis in das eigene Streaming-Angebot einbinden durfte und bewertet dies als unlauteren Wettbewerb sowie Verstoß gegen den Medienstaatsvertrag. Das Gericht sieht in der Übernahme der gesamten Mediathek eine unzulässige Täuschung der Nutzer über die Herkunft des Angebots, die über das erlaubte Recht zur Verlinkung hinausgeht. Rechtsmittel zum BGH sind nicht mehr möglich, während auch ZDF und Arte rechtlich gegen ähnliche Praktiken vorgehen.",
+          "title": "Klassik Radio befördert Stefan Ibelshäuser zum Programmdirektor Stefan Ibelshäuser übernimmt bei...",
+          "link": "https://meedia.de/news/beitrag/21250-klassik-radio-befoerdert-stefan-ibelshaeuser-zum-programmdirektor.html",
+          "summary": "Stefan Ibelshäuser wurde bei Klassik Radio vom stellvertretenden Leiter zum Programmdirektor befördert und übernimmt die Verantwortung für die inhaltliche Ausrichtung sowie die Entwicklung neuer Programmformate, digitaler Inhalte und internationaler Märkte. Die Position wurde frei, nachdem sein Vorgänger Daniel Lutz im Dezember zu Radio 7 wechselte. Der 44-jährige Ibelshäuser soll mit seiner langjährigen Erfahrung im Audio- und Content-Management das Wachstum des Senders in Deutschland, Österreich und der Schweiz weiter vorantreiben.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "Paramount+ and HBO Max to become one streaming service, Ellison says",
-          "link": "https://www.theguardian.com/media/2026/mar/02/paramount-hbo-max-streaming-warner-bros",
-          "summary": "David Ellison, CEO von Paramount Skydance, kündigte die Fusion von HBO Max und Paramount+ zu einem gemeinsamen Streaming-Service an, nachdem das Unternehmen Warner Bros Discovery für 110 Milliarden Dollar übernommen hat. Die kombinierte Plattform würde über 200 Millionen Direktkunden verfügen und Premium-Inhalte wie The Sopranos und Game of Thrones mit Paramount-Produktionen wie Yellowstone vereinen. HBO soll dabei als eigenständige Marke erhalten bleiben, während Details zu Preisgestaltung und dem Namen des neuen Services noch nicht bekannt gegeben wurden.",
+          "title": "News Corp is essentially an AI ‘input company’, chief executive says, after US$150m deal with Meta",
+          "link": "https://www.theguardian.com/media/2026/mar/04/news-corp-meta-ai-deal-us50m",
+          "summary": "News Corp CEO Robert Thomson beschreibt Medienunternehmen als wertvolle \"Input-Unternehmen\" für KI-Systeme, nachdem das Unternehmen einen dreijährigen Lizenzierungsvertrag mit Meta im Wert von bis zu 50 Millionen US-Dollar jährlich abgeschlossen hat. Der Deal erlaubt es Meta, Inhalte von News Corp's US- und UK-Publikationen wie Wall Street Journal und New York Post für das Training seiner KI-Produkte zu nutzen. Thomson positioniert damit Nachrichtenorganisationen strategisch als unverzichtbare Datenlieferanten in der KI-Wertschöpfungskette, vergleichbar mit Halbleitern oder Rechenzentren.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Dubai influencers’ lives of luxury interrupted by Iran strikes: ‘The image of safety has been shattered’",
+          "link": "https://www.theguardian.com/world/2026/mar/03/dubai-influencers-iran-war-strikes",
+          "summary": "Iranische Raketenangriffe auf Dubai unterbrachen kurzzeitig das luxuriöse Influencer-Leben in der als sicher beworbenen Stadt, wobei Bewohner wie der 23-jährige Finanz-Influencer Mike Babayan trotz Explosionsgeräuschen und Notfallwarnungen schnell zu ihren gewohnten Aktivitäten zurückkehrten. Die Angriffe erfolgten als iranische Vergeltung für US-israelische Attacken und führten zu widersprüchlichen Social-Media-Inhalten zwischen Kriegsberichterstattung und weiterhin stattfindenden Luxuspartys. Babayan verlagerte seinen Content vorübergehend von Lifestyle-Flexing zur Kommentierung der Sicherheitslage, sieht aber Dubais Image als sicherer Hafen erschüttert.",
+          "score": 10
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Drusilla Beyfus obituary",
+          "link": "https://www.theguardian.com/media/2026/mar/03/drusilla-beyfus-obituary",
+          "summary": "Drusilla Beyfus (1926-2024) war eine britische Journalistin, die bereits mit 21 Jahren für die Daily Express arbeitete und später als Stil- und Etikette-Expertin bekannt wurde. Sie verfasste zwischen 1957 und 1996 mehrere überarbeitete Ausgaben ihres erfolgreichen Buches \"Modern Manners\", das den gesellschaftlichen Wandel im Nachkriegs-Großbritannien dokumentierte und Höflichkeit weniger als Regelkonformität denn als Rücksichtnahme definierte. Beyfus entwickelte sich zur anerkannten Autorität für zeitgemäße Umgangsformen und blieb bis kurz vor ihrem Tod im Alter von 98 Jahren publizistisch tätig.",
           "score": 8
         },
         {
           "source": "Guardian Media",
-          "title": "Paramount bid creates uncertainty over Champions League TV coverage in UK",
-          "link": "https://www.theguardian.com/football/2026/mar/02/paramount-bid-uncertainty-champions-league-tv-coverage-uk",
-          "summary": "Paramounts geplante 110 Milliarden Dollar Übernahme von Warner Bros Discovery schafft Unsicherheit über die künftige Champions League-Übertragung in Großbritannien, da TNT Sports' Vertrag Ende nächster Saison ausläuft und Paramount bereits die Rechte ab 2027-28 gesichert hat. Die regulatorische Genehmigung der Fusion steht noch aus, während Paramount mehrere Übertragungsoptionen haben wird - von der Beibehaltung bei TNT Sports bis zur Verlagerung auf Paramount+ oder HBO Max. UEFA bevorzugt die größtmögliche Reichweite für die Spiele und wird Einfluss auf Paramounts Übertragungsstrategie nehmen.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Paramount Skydance wins Warner Bros Discovery bid after Netflix walks away from deal",
-          "link": "https://www.theguardian.com/media/2026/feb/26/netflix-paramount-warner-bros",
-          "summary": "Paramount Skydance hat die Übernahme von Warner Bros Discovery für 110 Milliarden Dollar gewonnen, nachdem Netflix sich weigerte, sein Gebot zu erhöhen und die Transaktion als \"nicht mehr finanziell attraktiv\" bezeichnete. Netflix hatte vier Geschäftstage Zeit, das überarbeitete Angebot von Paramount zu überbieten, entschied jedoch schnell dagegen. Die Übernahme muss noch regulatorische Hürden überwinden und steht wegen Befürchtungen über eine Rechtsverschiebung in den US-Medien in der Kritik.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "German Event Series ‘The Widow Killer’ Lands More European Deals With Canal+ & SVT",
-          "link": "https://deadline.com/2026/03/widow-killer-tv-europe-deals-canal-plus-svt-1236742206/",
-          "summary": "Die deutsche Event-Serie \"The Widow Killer\" von Zeitgeist Filmproduktion hat vor dem ARD-Start am Karfreitag weitere europäische Verkäufe mit Canal+ (Niederlande, Belgien, Tschechien, Slowakei, Ungarn, Rumänien) und SVT (Schweden) abgeschlossen. Die auf Pavel Kohouts Roman basierende Serie spielt im besetzten Prag 1945 und folgt einem tschechischen Detektiv und einem Gestapo-Agenten bei der Jagd nach einem Serienmörder. Das hochkarätig besetzte Projekt (u.a. Nicholas Ofczarek, Jonas Nay) entstand als internationale Koproduktion zwischen Deutschland, Österreich und Tschechien.",
+          "title": "Daily Mail royal editor denies using private investigator to ‘blag’ Harry information",
+          "link": "https://www.theguardian.com/media/2026/mar/02/daily-mail-royal-editor-denies-using-private-investigator-to-blag-harry-information",
+          "summary": "Die Daily Mail Royal-Redakteurin Rebecca English bestreitet vor dem High Court, einen Privatdetektiv zur illegalen Informationsbeschaffung über Prinz Harry und dessen Ex-Freundinnen eingesetzt zu haben. Prinz Harry und sechs weitere Kläger werfen Associated Newspapers vor, jahrzehntelang von rechtswidriger Informationsbeschaffung profitiert zu haben, wobei English bei sechs der strittigen Artikel als Autorin genannt wird. Als Beweis wurden E-Mails des südafrikanischen Privatdetektivs Mike Behr vorgelegt, die detaillierte Flugdaten von Harrys damaliger Freundin Chelsy Davy aus Airline-Computersystemen enthalten.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Jon Stewart Decries “Arrogant” U.S.-Israeli Missile Attack On Iran: “Our Bombs Are Now Smarter Than Our President”",
-          "link": "https://deadline.com/2026/03/jon-stewart-the-daily-show-iran-war-us-israeli-strike-1236742138/",
-          "summary": "Jon Stewart kritisierte in The Daily Show die US-israelischen Luftangriffe auf den Iran, die angeblich Ajatollah Chamenei töteten, als \"arrogant\" und unnötig angesichts seines hohen Alters und Gesundheitszustands. Stewart und Korrespondent Jordan Klepper verspotteten Trumps mangelnde Kriegsstrategie und die daraus resultierende regionale Eskalation, bei der der Iran US-Militärbasen in mehreren Ländern bombardierte. Der Komiker fasste seine Kritik mit dem Kommentar zusammen: \"Unsere Bomben sind jetzt intelligenter als unser Präsident.\"",
-          "score": 8
+          "title": "Banijay Refuses To Rule Out ITV Studios Interest As CEO Says “Consolidation Is Name Of The Game”",
+          "link": "https://deadline.com/2026/03/banijay-itv-studios-redbird-interest-consolidation-1236743373/",
+          "summary": "Banijay-CEO François Riahi schließt ein Interesse an ITV Studios nicht aus und betont, dass \"Konsolidierung das Gebot der Stunde\" sei, während die 8-Milliarden-Dollar-Fusion mit All3Media noch aussteht. Riahi erklärt, dass RedBird IMI All3Media akquirierte, um eine globale Plattform zu schaffen, aber erkannte, dass All3Media kleiner als Banijay war und daher die Kombination mit Banijay notwendig wurde. Die Führungskräfte signalisieren weitere potenzielle Expansionen in Bereiche wie Digital, Live-Events und Sport, abhängig von der sich schnell verändernden Marktlage.",
+          "score": 9
         },
         {
           "source": "Deadline",
-          "title": "Children’s & Family Emmys: ‘The Tiny Chef Show,’ ‘Sesame Street’ & ‘Heartstopper’ Among Winners – Full List",
-          "link": "https://deadline.com/2026/03/childrens-family-emmys-2026-winners-list-1236742025/",
-          "summary": "Bei den vierten Children's & Family Emmy Awards 2026 waren \"Sesame Street\", \"Heartstopper\" und \"The Tiny Chef Show\" unter den größten Gewinnern mit mehreren Auszeichnungen. Einzelne Preisträger umfassten Joe Locke für \"Heartstopper\", John Lithgow mit seinem siebten Emmy sowie die Erstgewinner Ana Gasteyer und Andrew Garfield. Die von der National Academy of Television Arts & Sciences ausgerichtete Zeremonie ehrte herausragende Kreativität und Innovation im Kinderfernsehen.",
+          "title": "‘Toxic: A Fairytale For Grown-Ups’ Starring Yash Shifts To June Release Date In Response To Growing Middle East Conflict",
+          "link": "https://deadline.com/2026/03/toxic-a-fairytale-for-grown-ups-yash-june-middle-east-1236743382/",
+          "summary": "Der indische Film \"Toxic: A Fairytale For Grown-Ups\" mit Yash wurde von seinem ursprünglichen März-Starttermin auf den 4. Juni verschoben, da die Produzenten KVN Productions und Monster Mind Creations aufgrund des aktuellen Nahost-Konflikts Unsicherheiten für ihre globale Vermarktung befürchten. Die MENA-Region stellt einen wichtigen Zielmarkt für den von Geethu Mohandas inszenierten Film dar, der in Goa spielt und von einem Drogenkartell handelt.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Banijay Signals Desire To Slash Sales Arm Following All3Media Mega Merger",
+          "link": "https://deadline.com/2026/03/banijay-allmedia-merge-eliminate-duplication-distribution-1236743369/",
+          "summary": "Banijay plant nach der Fusion mit All3Media Kosteneinsparungen von 50 Millionen Euro innerhalb von 12 Monaten, wobei der Fokus auf der Eliminierung von Dopplungen im Vertriebs- und Sales-Bereich liegt. Während die 170 kreativen Labels des kombinierten Unternehmens geschützt bleiben sollen, zeigt sich die offensichtlichste Redundanz bei den Vertriebsabteilungen von Cathy Payne (Banijay Rights) und Louise Pedersen (All3Media International). Die Synergien sollen durch verstärkte Koordination im Vertrieb, Optimierung von Zentralfunktionen und integrierten Beschaffungsansatz erreicht werden.",
+          "score": 10
+        },
+        {
+          "source": "Deadline",
+          "title": "David Zaslav Cashing In Over $100 Million Of Warner Bros Discovery Stock; Other Top Execs Also Sell",
+          "link": "https://deadline.com/2026/03/david-zaslav-cashes-in-warner-bros-discovery-stock-1236743138/",
+          "summary": "Warner Bros. Discovery CEO David Zaslav verkauft über 4 Millionen Aktien im Wert von mehr als 114 Millionen Dollar, während die Übernahme durch Paramount für 31 Dollar je Aktie im dritten Quartal 2026 abgeschlossen werden soll. Weitere Top-Führungskräfte von WBD verkauften ebenfalls Aktien im siebenstelligen Bereich, nachdem ein Handelsfenster für an den Deal-Verhandlungen beteiligte Führungskräfte geöffnet wurde. Zaslav wird bei Abschluss der Fusion zusätzlich eine Abfindung von geschätzt über 537 Millionen Dollar aus unvested Equity Awards erhalten.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Paramount-WBD Merger Ends Premium TV’s Original Heated Rivalry, Brings Together HBO & Showtime: “It Warms My Heart,” Robert Greenblatt Says",
-          "link": "https://deadline.com/2026/03/paramount-wbd-merger-showtime-hbo-together-bob-greenblatt-1236741920/",
-          "summary": "Die Fusion von Paramount und Warner Bros. Discovery bringt die Premium-TV-Rivalen HBO und Showtime unter ein Dach, nachdem Showtime in den letzten Jahren erheblich verkleinert wurde und sogar seinen Namen aus dem Streaming-Angebot entfernt hat. Robert Greenblatt, ehemaliger Führungskraft beider Sender, zeigt sich erfreut über das Ende der jahrzehntelangen Konkurrenz zwischen den beiden Pay-TV-Netzwerken. Die Zusammenführung der Streaming-Plattformen HBO Max und Paramount+ soll einen ernsthaften Netflix-Rivalen schaffen.",
-          "score": 8
+          "title": "No Hard Feelings: Netflix Hands Paramount ‘Little House’ Renewal Days After Losing WB To Rival",
+          "link": "https://deadline.com/2026/03/netflix-paramount-little-house-on-the-prairie-renewal-wbd-1236742711/",
+          "summary": "Netflix hat die zweite Staffel von \"Little House on the Prairie\" verlängert, nur Tage nachdem Warner Bros. Discovery eine Fusionsvereinbarung mit Netflix brach und stattdessen mit Paramount einen Deal abschloss, was Netflix eine 2,8 Milliarden Dollar Ausfallgebühr einbrachte. Die frühe Verlängerung der Paramount-CBS Studios Produktion erfolgte vier Monate vor der geplanten Premiere im Juli und wird als Signal der Entspannung zwischen den beiden Unternehmen nach dem gescheiterten WBD-Deal interpretiert. Netflix-Führungskräfte zeigten sich begeistert von der ersten Staffel des Reboots der klassischen TV-Serie basierend auf Laura Ingalls Wilders Büchern.",
+          "score": 7
         },
         {
-          "source": "Deadline",
-          "title": "‘God Of War’ Game Creator Mocks Prime Video’s “Terrible” First Image: “None Of These Characters Look Very Interesting Or Appealing”",
-          "link": "https://deadline.com/2026/03/god-of-war-prime-video-terrible-first-look-image-1236742066/",
-          "summary": "David Jaffe, Schöpfer des \"God of War\"-Videospiels, kritisierte scharf das erste veröffentlichte Bild von Prime Videos TV-Adaption und bezeichnete es als \"schrecklich\" und \"dumm\". Obwohl er keine grundsätzlichen Bedenken bezüglich der Serie-Ausrichtung oder Showrunner Ronald D. Moore äußerte, bemängelte er insbesondere die Darstellung von Kratos (Ryan Hurst) und Atreus (Callum Vinson) als uninteressant und unattraktiv. Die Live-Action-Adaption wird von Sony Pictures Television und Amazon MGM Studios produziert.",
+          "source": "Hollywood Reporter",
+          "title": "Could Banijay-All3Media Look to Buy ITV Studios Next? “Consolidation Is the Name of the Game”",
+          "link": "https://www.hollywoodreporter.com/business/business-news/banijay-all3media-itv-studios-consolidation-wbd-paramount-1236521198/",
+          "summary": "Banijay und All3Media haben eine 8-Milliarden-Dollar-Fusion angekündigt, die den weltweit größten unabhängigen TV-Produzenten schaffen wird, wobei beide Unternehmen jeweils 50% der Anteile halten. Branchenbeobachter spekulieren bereits über eine mögliche Übernahme von ITV Studios als nächstes Ziel, nachdem Banijay bereits in der Vergangenheit Interesse gezeigt hatte. Die Transaktion soll im Herbst abgeschlossen werden und erwartete Kosteneinsparungen von 50 Millionen Euro generieren.",
+          "score": 10
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Banijay Group CEO on How AI, Rise of Creators Drove All3Media Deal: “More Scale, More IP, More Growth”",
+          "link": "https://www.hollywoodreporter.com/business/business-news/banijay-all3media-merger-ai-creator-economy-ip-growth-1236521168/",
+          "summary": "Banijay Group CEO François Riahi begründet die geplante 8-Milliarden-Dollar-Fusion mit All3Media mit dem Bedarf nach größerer Skalierung, mehr IP-Portfolio und verstärktem Wachstum angesichts von KI-Entwicklungen und der Creator Economy. Die Fusion soll Banijay besseren Zugang zu englischsprachigen Inhalten verschaffen und Kostenssynergien durch koordinierte Distribution und Vertriebsstrukturen ermöglichen. Das Management zeigt sich zuversichtlich, basierend auf erfolgreichen früheren Integrationen von Zodiak und Endemol, die Kostenreduktionen kurzfristig realisieren zu können.",
           "score": 9
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Artists Equity Inks Streaming Pact With Netflix",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-matt-damon-artists-equity-netflix-streaming-deal-1236519933/",
-          "summary": "Artists Equity, die von Ben Affleck, Matt Damon und Gerry Cardinale gegründete Produktionsfirma, hat einen mehrjährigen First-Look-Deal mit Netflix für Streaming-Inhalte abgeschlossen. Dies ergänzt ihre bestehende Partnerschaft mit Sony für Kinofilme, wobei projektbezogen entschieden wird, welcher Partner zum Einsatz kommt. Der Deal folgt auf den Erfolg des Netflix-Films \"The Rip\", der drei Wochen lang Platz 1 der Netflix-Charts belegte.",
+          "title": "Jessica Belkin Boards ‘Baywatch’ Reboot",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/jessica-belkin-cast-baywatch-reboot-1236521011/",
+          "summary": "Jessica Belkin wurde für die Fox/Fremantle \"Baywatch\"-Reboot-Serie als Serienhauptdarstellerin Charlie Vale gecastet, die biologische Tochter von Baywatch-Captain Hobie Buchannon (Stephen Amell). Die 12-teilige Serie startet in der Saison 2026-27, die Produktion beginnt im Frühjahr am Venice Beach in Los Angeles. Neben Belkin und Amell kehrt auch David Chokachi in seiner ursprünglichen Rolle als Cody Madison zurück.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "David Zaslav Sells $114 Million in Warner Bros. Discovery Stock",
+          "link": "https://www.hollywoodreporter.com/business/business-news/david-zaslav-warner-bros-discovery-stock-sale-1236520945/",
+          "summary": "Warner Bros. Discovery CEO David Zaslav verkaufte Aktien im Wert von 114 Millionen Dollar, während weitere Top-Führungskräfte ebenfalls millionenschwere Aktienpakete veräußerten, nachdem sich ein Verkaufsfenster nach den letzten Quartalsergebnissen öffnete. Die Verkäufe erfolgten im Kontext der geplanten 111-Milliarden-Dollar-Übernahme durch Paramount Skydance für 31 Dollar je Aktie, nachdem die WBD-Aktie vor einem Jahr noch bei 11 Dollar notierte. Trotz der Verkäufe bleibt Zaslav als Großaktionär weiterhin stark an dem erfolgreichen Abschluss des Deals interessiert.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Jon Stewart Slams Trump For Keeping Press in the Dark About Iran War: ‘Our Bombs Are Now Smarter Than Our President’",
-          "link": "https://variety.com/2026/tv/news/jon-stewart-trump-war-iran-the-daily-show-1236677756/",
-          "summary": "Jon Stewart kritisierte in \"The Daily Show\" Präsident Trump dafür, die Presse über Ziele und Rechtfertigung des neu begonnenen Krieges mit dem Iran im Unklaren zu lassen. Stewart verspottete Trumps Ausweichmanöver gegenüber Reporterfragen, bei dem dieser stattdessen über Statuen sprach, und wies auf die mangelnde Kommunikation der Regierung zu dem gemeinsam mit Israel geführten Militäreinsatz hin.",
-          "score": 8
+          "title": "COL Group, BeLive Holdings to Launch ‘Microdrama in a Box’ Solution at Hong Kong FilMart",
+          "link": "https://variety.com/2026/tv/news/col-group-belive-holdings-microdrama-solution-hong-kong-filmart-1236679037/",
+          "summary": "COL Group und BeLive Holdings präsentieren auf der Hong Kong FilMart die weltweit erste vollintegrierte \"Microdrama in a Box\"-Lösung, die cloud-basierte Software-Infrastruktur mit Zugang zum nach eigenen Angaben größten kuratierten Microdrama-Katalog kombiniert. Die Lösung vereint erstmals Technologie und Content in einem einheitlichen Produkt und ermöglicht Partnern den Launch einer vollständig gebrandeten, operativen Microdrama-Plattform innerhalb eines Monats. Das Paket umfasst technische Funktionen wie Playback-Infrastruktur, Audience-Retention-Tools, Monetarisierungsoptionen und KI-gestützte Untertitelung sowie COLs regelmäßig aktualisierte Titel-Pipeline.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Why Mayor Karen Bass Showed Up for Cinespace Studios’ Ribbon-Cutting and What It Means for Hollywood",
+          "link": "https://variety.com/2026/biz/features/mayor-karen-bass-cinespace-studios-los-angeles-opening-1236676748/",
+          "summary": "Los Angeles Bürgermeisterin Karen Bass nahm persönlich an der Eröffnung des neuen 180.000 Quadratfuß großen Cinespace Studios-Komplexes in Woodland Hills teil, der sechs 18.000 Quadratfuß große Soundstages in einer ehemaligen Catalina Yachts-Fabrik beherbergt. Bass betonte dabei die wirtschaftliche Bedeutung der Unterhaltungsindustrie für Los Angeles und die Notwendigkeit, Produktionen in der Stadt zu halten. Die Teilnahme der Bürgermeisterin an dieser und anderen Studio-Eröffnungen signalisiert das starke Engagement der Stadt für die lokale Filmindustrie.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Dropout’s Sam Reich on ‘Copaganda’ Backlash to ‘The Rookie’ Appearance, No Plans to Incorporate Crossover Into ‘Game Changer’ Episode",
+          "link": "https://variety.com/2026/tv/news/dropout-sam-reich-rookie-copaganda-backlash-game-changer-1236678459/",
+          "summary": "Dropout CEO Sam Reich und Cast-Mitglieder von \"Game Changer\" traten in einer Episode der ABC-Polizeiserie \"The Rookie\" auf, was bei Fans der liberal ausgerichteten Comedy-Plattform Kritik wegen \"Copaganda\"-Vorwürfen auslöste. In der Episode spielten Reich, Vic Michaelis, Jacob Wysocki, Zac Oyama und Anna Garcia übertriebene Versionen ihrer selbst, als Nathan Fillion einen gemeldeten Einbruch im Dropout-Studio untersucht. Der Crossover steht im Kontrast zu Dropouts sonst polizeikritischer Haltung, was die Kontroverse unter den Zuschauern anheizte.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Banijay’s Marco Bassetti and Jeff Zucker on the Surprise All3Media Merger That Puts ‘The Traitors,’ ‘MasterChef’ and ‘Peaky Blinders’ Under the Same Roof",
+          "link": "https://variety.com/2026/tv/news/marco-bassetti-jeff-zucker-traitors-banijay-all3media-deal-1236678502/",
+          "summary": "Banijay und Jeff Zuckers RedBird IMI haben eine 8-Milliarden-Dollar-Fusion zwischen Banijay und All3Media bekannt gegeben, die große Formate wie \"The Traitors\", \"MasterChef\", \"Peaky Blinders\" und \"Big Brother\" unter einem Dach vereint. Die Transaktion schafft nach Aussage von Zucker \"das weltweit größte unabhängige Medien-Content-Unternehmen mit globaler Reichweite\", nachdem RedBird IMI All3Media erst 2024 von Warner Bros. Discovery und Liberty Global erworben hatte. Der Deal zwischen zwei der führenden europäischen Independent-Produzenten überraschte den Markt, nachdem formelle Gespräche im Herbst 2025 Fahrt aufnahmen.",
+          "score": 9
+        },
+        {
+          "source": "Variety",
+          "title": "NBC Sports’ Maria Taylor on Making History at the Super Bowl, Hosting the Olympics and What She Learned Producing ‘Black Quarterback’ Docuseries",
+          "link": "https://variety.com/2026/sports/features/nbc-maria-taylor-super-bowl-olympics-black-quarterback-doc-1236657441/",
+          "summary": "Maria Taylor von NBC Sports machte im vergangenen Monat Geschichte als erste schwarze Frau, die die Super Bowl-Vorberichterstattung moderierte und die Lombardi-Trophäe überreichte. In einem Interview mit Variety reflektierte Taylor über die historische Bedeutung des Moments und würdigte Pionierinnen wie Lesley Visser, Pam Oliver und Robin Roberts, die den Weg für sie ebneten. Der Meilenstein ist besonders bedeutsam, da weniger als 20% der Sportmoderatoren Frauen sind.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "‘Scrubs’ Reboot Premieres With 11.4 Million Viewers in Five Days",
+          "link": "https://variety.com/2026/tv/news/scrubs-reboot-ratings-viewers-1236678812/",
+          "summary": "Das Reboot der Sitcom \"Scrubs\" erreichte in den ersten fünf Tagen nach der Premiere bei ABC 11,4 Millionen Zuschauer (linear und digital kombiniert) und erzielte damit ABC's stärkste Comedy-Performance seit über einem Jahr. Die Serie mit den zurückkehrenden Hauptdarstellern Zach Braff und Donald Faison war sowohl die meistgestreamte Comedy-Episode als auch der erfolgreichste Serienpremieren-Start auf ABC seit \"Shifting Gears\" im Januar 2025. Das Reboot kehrt 16 Jahre nach dem ursprünglichen Ende zu ABC zurück, wo bereits die letzten beiden Staffeln der von Bill Lawrence kreierten Krankenhausserie liefen.",
+          "score": 7
         }
       ]
     }
