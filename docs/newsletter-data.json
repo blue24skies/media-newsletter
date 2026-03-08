@@ -1,196 +1,56 @@
 {
   "newsletters": [
     {
-      "date": "2026-03-07",
+      "date": "2026-03-08",
       "articles": [
         {
           "source": "DWDL",
-          "title": "\"Traum wird wahr\": Springer kündigt Übernahme des \"Telegraph\" an",
-          "link": "https://www.dwdl.de/nachrichten/105765/traum_wird_wahr_springer_kuendigt_uebernahme_des_telegraph_an/",
-          "summary": "Axel Springer hat eine Vereinbarung zum Erwerb der Telegraph Media Group für 575 Millionen Pfund (663 Millionen Euro) unterzeichnet, nachdem vorherige Übernahmeversuche durch ein Konsortium um RedBird Capital/IMI und den \"Daily Mail\"-Verlag an regulatorischen Bedenken scheiterten. Die traditionsreiche britische Zeitung war seit 2022 zum Verkauf gestanden, nachdem die Eigentümerfamilie Barclay in finanzielle Schwierigkeiten geraten war und die Kontrolle an die Bank Lloyds fiel. Für Springer geht damit ein über 20 Jahre alter Traum in Erfüllung, sofern keine weiteren regulatorischen Hürden entstehen.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Netflix-Doku über Shirin David kommt nächste Woche",
-          "link": "https://www.dwdl.de/nachrichten/105764/netflixdoku_ueber_shirin_david_kommt_naechste_woche/",
-          "summary": "Netflix veröffentlicht am 13. März die Dokumentation \"Barbara - Becoming Shirin David\" über die Musikerin und Unternehmerin, produziert von Leonine Documentaries unter der Regie von Michael Schmitt. Die ursprünglich für 2025 geplante Doku verzögerte sich, nachdem Shirin David das komplette Produktionsteam austauschen ließ, da sie mit dem ersten Rohmaterial unzufrieden war und \"sehr viele Dinge unprofessionell gelaufen\" seien.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "VAUNET: Wollen Kopf nicht für Probleme des RBB hinhalten",
-          "link": "https://www.dwdl.de/nachrichten/105763/vaunet_wollen_kopf_nicht_fuer_probleme_des_rbb_hinhalten/",
-          "summary": "Der Berliner Rechnungshof empfiehlt dem RBB zur Einnahmeerhöhung eine Rücknahme der Hörfunk-Werbezeitreduzierung und die Einführung von Werbung in der Mediathek. VAUNET-Vertreter Marco Maier kritisiert diese Vorschläge scharf, da sie das duale Mediensystem ignorieren und das Ungleichgewicht zugunsten der ARD verstärken würden. Der Privatfunk-Verband sieht sich nicht verantwortlich für die Finanzprobleme des öffentlich-rechtlichen Senders.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Visoon feiert Jubiläum und schließt sich der \"d-force\" an",
-          "link": "https://www.dwdl.de/nachrichten/105761/visoon_feiert_jubilaeum_und_schliesst_sich_der_dforce_an/",
-          "summary": "Visoon Video Impact, der Bewegtbild-Vermarkter von Paramount und Axel Springer, feierte sein zehnjähriges Jubiläum und gab eine strategische Partnerschaft mit der d-force bekannt. Die Kooperation mit dem Joint-Venture von ProSiebenSat.1 und RTL Deutschland ermöglicht die programmatische Vermarktung der Addressable-TV-Inventare von Welt und Comedy Central über die Active Agent DSP von Virtual Minds. Ziel ist es, hochwertige Werbeumfelder breiter am Markt zu positionieren und die Entwicklung von Addressable TV zu stärken.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Vereinbarung zur Übernahme: Axel Springer will Telegraph Media Group übernehmen",
-          "link": "https://www.horizont.net/medien/nachrichten/vereinbarung-zur-uebernahme-axel-springer-will-telegraph-media-group-uebernehmen-233463?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Axel Springer hat eine Übernahmevereinbarung für die Telegraph Media Group im Wert von 575 Millionen Pfund abgeschlossen. Der Deal steht noch unter dem Vorbehalt der behördlichen Genehmigung.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Volksabstimmung: Schicksalstag für den öffentlichen Rundfunk in der Schweiz",
-          "link": "https://www.horizont.net/medien/nachrichten/volksabstimmung-schicksalstag-fuer-den-oeffentlichen-rundfunk-in-der-schweiz-233461?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Am 8. März 2026 stimmen die Schweizer über eine drastische Kürzung des Rundfunkbeitrags für die SRG (Schweizer Radio und Fernsehen) von 335 auf 200 Franken pro Jahr ab. Die Volksabstimmung über die sogenannte SRG-Initiative stellt einen entscheidenden Moment für die Zukunft des öffentlich-rechtlichen Rundfunks in der Schweiz dar. Unabhängig vom Ausgang wird die Debatte über die Rolle des öffentlichen Rundfunks in der Schweizer Medienlandschaft weitergehen.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Internationalisierungskurs: Handball-Bundesliga startet mit Dyn eigene TV-Plattform",
-          "link": "https://www.horizont.net/medien/nachrichten/internationalisierungskurs-handball-bundesliga-startet-mit-dyn-eigene-tv-plattform-233426?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die Handball-Bundesliga intensiviert ihre internationale Vermarktung durch die Weiterentwicklung ihrer eigenen Streaming-Plattform HBL TV. Für die technische Umsetzung kooperiert die HBL ab Sommer mit dem Medienunternehmen Dyn, das vom ehemaligen DFL-Chef Christian Seifert gegründet wurde. Ziel der Initiative ist die globale Sichtbarkeit des deutschen Handballs und die technologische Optimierung der Streaming-Infrastruktur.",
-          "score": 7
+          "title": "Neue Show mit Pilawa, aber andere Quiz-Formate pausieren",
+          "link": "https://www.dwdl.de/nachrichten/105776/neue_show_mit_pilawa_aber_andere_quizformate_pausieren/",
+          "summary": "Sat.1 pausiert bis auf das erfolgreiche \"1% Quiz\" alle anderen Quiz-Formate, nachdem Shows wie \"Allgemeinwissensquiz\", \"Hast du Töne?\" und \"The Connection\" enttäuschende Quoten erzielten. Trotz der Quiz-Bremse plant der Sender eine neue Show mit Moderator Jörg Pilawa, für die bereits im Dezember ein Pilot produziert wurde. Das \"1% Quiz\" bleibt mit stabilen neun Prozent Marktanteil in der Zielgruppe das einzige erfolgreiche Quiz-Format im Sat.1-Portfolio.",
+          "score": 9
         },
         {
           "source": "kress",
-          "title": "Fassihi zieht zurück: Himmler alleiniger Kandidat für ZDF-Spitze Bei der Wahl am 13.",
-          "link": "https://kress.de/news/beitrag/152251-fassihi-zieht-zurueck-himmler-alleiniger-kandidat-fuer-zdf-spitze.html",
-          "summary": "TV-Journalistin Floria Fee Fassihi hat ihre Kandidatur für die ZDF-Intendantenwahl zurückgezogen, sodass Amtsinhaber Norbert Himmler am 13. März ohne Gegenkandidaten zur Wiederwahl antritt. Von ursprünglich sieben Bewerbungen waren nur Himmler und Fassihi vom Fernsehrat zur Wahl zugelassen worden. Himmler benötigt mindestens 36 von 60 Stimmen für eine zweite Amtszeit.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Springer-Kommunikationsmanagerin Judith Roth verlässt die Medienbranche Judith Roth ist neue...",
-          "link": "https://kress.de/news/beitrag/152248-springer-kommunikationsmanagerin-judith-roth-verlaesst-die-medienbranche.html",
-          "summary": "Judith Roth wechselt von Axel Springer, wo sie als Director Communication der Premium-Gruppe für die Kommunikation von Welt, Politico Deutschland und Business Insider Deutschland verantwortlich war, zum Berliner Meinungsforschungsunternehmen Civey. Dort übernimmt sie ab sofort die Leitung der Unternehmenskommunikation, Pressearbeit und CEO-Kommunikation mit dem Ziel, Civey als digitalen Vorreiter der Markt- und Meinungsforschung noch stärker zu positionieren.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Erwerb der Telegraph Media Group Vereinbarung erzielt: Axel Springer will \"Daily Telegraph\" für 575...",
-          "link": "https://meedia.de/news/beitrag/21285-vereinbarung-erzielt-axel-springer-will-quot-daily-telegraph-quot-fuer-575-millionen-pfund-kaufen.html",
-          "summary": "Axel Springer erwirbt die Telegraph Media Group für 575 Millionen Pfund von der Investmentgesellschaft RedBird IMI, wobei der Kaufpreis mehr als das Doppelte des Jahresumsatzes von 280 Millionen Pfund beträgt. Die Transaktion steht noch unter dem Vorbehalt regulatorischer Genehmigungen durch britische Behörden. Konzernchef Mathias Döpfner bezeichnete den Erwerb des traditionsreichen Daily Telegraph als erfüllten \"Traum\", nachdem bereits der Firmengründer vor über 20 Jahren erfolglos versucht hatte, das Unternehmen zu übernehmen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Januar-Zahlen von digital i \"His & Hers\" und \"The Rip\" waren riesige Streaming-Hits in Deutschland...",
-          "link": "https://meedia.de/news/beitrag/21283-quot-his-amp-hers-quot-und-quot-the-rip-quot-waren-riesige-streaming-hits-in-deutschland.html",
-          "summary": "Die January-Streaming-Zahlen von digital i zeigen \"His & Hers\" als stärkste Serie mit durchschnittlich 1,98 Millionen deutschen Haushalten pro Folge, während der Thriller \"The Rip\" mit Matt Damon und Ben Affleck als erfolgreichster Film die 2-Millionen-Marke knackte. Bemerkenswert ist auch \"Bridgerton\" Staffel 4, die trotz Start erst am 29. Januar bereits Platz 6 des Monatsrankings erreichte.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Sorge um US-Nachrichtensender Paramount-Boss David Ellison will CNN nicht umkrempeln Der geplante Einstieg von Paramount bei Warner Bros.",
-          "link": "https://meedia.de/news/beitrag/21281-paramount-boss-david-ellison-will-cnn-nicht-umkrempeln.html",
-          "summary": "Paramount-Chef David Ellison versucht Sorgen um die Zukunft von CNN nach dem geplanten Einstieg bei Warner Bros. Discovery zu zerstreuen und versichert, dass die journalistische Unabhängigkeit des Senders gewahrt bleiben werde. Er betont, CNN sei eine \"unglaubliche Marke\" und die redaktionelle Unabhängigkeit werde \"absolut erhalten bleiben\", ähnlich wie bei CBS. Ellison strebt an, mit CNN ein möglichst breites Publikum anzusprechen, insbesondere die politische Mitte der US-Bevölkerung.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Millionen-Etat Chinesischer Autobauer Changan will mit Mediaplus den deutschen Markt erobern...",
-          "link": "https://meedia.de/news/beitrag/21276-chinesischer-autobauer-changan-will-mit-mediaplus-den-deutschen-markt-erobern.html",
-          "summary": "Der chinesische Automobilhersteller Changan hat Mediaplus International aus der Serviceplan-Gruppe mit einem zweistelligen Millionen-Etat für den europäischen Markteintritt beauftragt. Das Mandat umfasst die zentrale Steuerung aller Brand- und Performance-Maßnahmen in fünf europäischen Ländern (Deutschland, Großbritannien, Italien, Polen, Spanien) mit dem Ziel, bis 2028 in allen relevanten europäischen Märkten präsent zu sein. Kernelement der Zusammenarbeit soll das KI-Tool \"Predict\" werden.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "German twist in the Telegraph tale shatters Lord Rothermere’s dreams",
-          "link": "https://www.theguardian.com/media/2026/mar/06/german-twist-in-the-telegraph-tale-shatters-lord-rothermeres-dreams",
-          "summary": "Der deutsche Medienkonzern Axel Springer hat mit einem Blockbuster-Angebot die jahrelangen Übernahmepläne von Daily Mail-Eigentümer Lord Rothermere für den Telegraph durchkreuzt. Die Übernahme würde das als \"Torygraph\" bekannte, einflussreiche konservative Blatt in deutsche Hände bringen, nachdem Rothermeres Gebot wegen Bedenken zur Medienvielfalt monatelang bei Regulierungsbehörden lag. Axel Springer verspricht redaktionelle Unabhängigkeit, KI-gestützte Transformation und Investitionen.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Telegraph sold for £575m as German buyer elbows out Daily Mail",
-          "link": "https://www.theguardian.com/media/2026/mar/06/axel-springer-buy-telegraph-daily-mail-owner",
-          "summary": "Der deutsche Medienkonzern Axel Springer (Bild, Die Welt, Politico) übernimmt die Telegraph Media Group für £575m in bar und übertrifft damit das £500m-Angebot der Daily Mail & General Trust. Nach drei Jahren Verkaufsprozess mit gescheiterten Deals realisiert CEO Mathias Döpfner seinen langjährigen Traum, nachdem er bereits 2004 mit £665m von den Barclay-Brüdern überboten worden war. Döpfner betont die redaktionelle Unabhängigkeit und den Erhalt der bestehenden Führungsstruktur des traditionsreichen britischen Medienhauses.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Ben Affleck sells his AI postproduction startup to Netflix",
-          "link": "https://www.theguardian.com/technology/2026/mar/06/ben-affleck-sells-ai-postproduction-startup-interpositive-to-netflix",
-          "summary": "Ben Affleck hat sein 2022 gegründetes AI-Postproduktions-Startup InterPositive für eine nicht genannte Summe an Netflix verkauft. Das Unternehmen bietet keine generativen Video-Tools, sondern nutzt KI-Technologie zur Optimierung von Postproduktionsprozessen wie Bildausschnitt-Anpassungen, Lichtkorrektur und Entfernung von Stunt-Drähten basierend auf dem eigenen Filmmaterial. Affleck, der ursprünglich skeptisch gegenüber KI-Kreativtechnologien war, beschreibt seine Wandlung von anfänglicher Angst hin zur Anerkennung der Technologie als \"bedeutungsvolle Innovation\".",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "In a world of lies, we need the BBC more than ever. This week could be our last chance to save it | Polly Toynbee",
-          "link": "https://www.theguardian.com/commentisfree/2026/mar/06/bbc-public-consultation-supporters-guidance",
-          "summary": "Die öffentliche Konsultation zur BBC-Charter-Erneuerung endet am 10. März, wobei Polly Toynbee vor einer organisierten Kampagne rechter Gegner warnt und BBC-Unterstützer zur Teilnahme aufruft. Sie argumentiert, dass die BBC als vertrauenswürdige Nachrichtenquelle in einer von Desinformation und von Tech-Milliardären kontrollierten Medienlandschaft unverzichtbar ist, besonders angesichts aktueller Krisen im Nahen Osten. Die Labour-Regierung unter Kulturministerin Lisa Nandy unterstützt die BBC und deren World Service als \"Leuchtturm\" im globalen Informationskrieg.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Paul Keating savages Nine on anniversary of ‘irresponsible prediction’ Australia faced looming China war",
-          "link": "https://www.theguardian.com/media/2026/mar/06/paul-keating-nine-2023-australia-china-war-prediction-red-alert",
-          "summary": "Paul Keating kritisiert scharf die Nine-Zeitungen Sydney Morning Herald und Age anlässlich des dritten Jahrestags ihrer \"Red Alert\"-Serie von März 2023, die vor einem chinesischen Angriff auf Australien \"innerhalb von drei Jahren\" gewarnt hatte. Der ehemalige Premierminister bezeichnete die Berichterstattung als \"unverantwortliche Vorhersage\" und betonte, dass \"keine der Behauptungen eingetreten\" seien. Keating richtet seine Kritik insbesondere gegen den internationalen Redakteur Peter Hartcher, den er als \"ungeschickt\" bezeichnete.",
+          "title": "Habe ich meinen Job in 5 Jahren noch?",
+          "link": "https://kress.de/news/beitrag/152253-medienprofis-in-sorge-habe-ich-meinen-job-in-5-jahren-noch.html",
+          "summary": "Karrierecoach Attila Albert thematisiert die wachsenden Existenzängste von Medienprofis angesichts von KI-bedingtem Stellenabbau, Ressortschließungen und schwächelnder Wirtschaftslage. Er empfiehlt eine pragmatische Herangehensweise: unaufgeregte Analyse der persönlichen Situation, Prüfung beruflicher Alternativen und Entwicklung machbarer Strategien statt Verdrängung der Realitäten. Albert plädiert dafür, trotz unsicherer Zukunftsaussichten proaktiv die eigene Karriereplanung anzugehen.",
           "score": 7
         },
         {
           "source": "Guardian Media",
           "title": "ITV in talks with advertisers over showing commercials during World Cup drinks breaks",
           "link": "https://www.theguardian.com/football/2026/mar/05/itv-weighing-up-whether-to-show-adverts-during-2026-world-cup-drinks-breaks",
-          "summary": "ITV führt Gespräche mit Werbepartnern über die Vermarktung der obligatorischen 3-minütigen Trinkpausen, die bei der WM nach 22 Minuten jeder Halbzeit stattfinden werden. Der Sender erwägt dabei sowohl klassische 2:10-minütige Werbeblöcke als auch die weniger störende \"Pic-in-Pic\"-Werbung im geteilten Bildschirm, die bereits erfolgreich bei der Six Nations Championship eingesetzt wurde. Die finale Entscheidung steht noch aus, wobei ITV die Zuschauerreaktion während eines so wichtigen Events wie der WM berücksichtigt.",
+          "summary": "ITV führt Gespräche mit Werbepartnern über die Vermarktung der obligatorischen 3-Minuten-Trinkpausen, die bei der WM nach 22 Minuten jeder Halbzeit stattfinden werden. Der Sender kann zwischen vollständigen Werbeunterbrechungen (2:10 Min.) oder weniger störenden Split-Screen-Formaten wählen, wobei letztere nach den positiven Erfahrungen bei der Six Nations Championship bevorzugt werden könnten. Die Entscheidung steht im Spannungsfeld zwischen Werbeerlösen und Zuschauerfreundlichkeit bei diesem bedeutenden Sportereignis.",
           "score": 8
         },
         {
-          "source": "Guardian Media",
-          "title": "Worried about the demise of reading? Come to France, where we’re up to our eyes in print | Alexander Hurst",
-          "link": "https://www.theguardian.com/commentisfree/2026/mar/04/death-print-demise-reading-france-books-sales-publishing",
-          "summary": "Frankreich zeigt sich als Gegentrend zum globalen Rückgang des Printmediums mit einer florierenden Verlagslandschaft, die von dicken Literaturmagazinen bis zu gut besuchten Zeitungskiosken reicht. Besonders hervorzuheben ist das 18 Jahre alte Magazin XXI (jetzt Revue21), ein 162-seitiges Quartalsmagazin, das als Referenz für Frankreichs \"Mook\"-Szene (Magazin-Buch-Hybrid) und literarischen Longform-Journalismus gilt. Das Magazin setzt auf narrative Berichterstattung, die dem Autor erlaubt, subjektive Perspektiven und Zweifel einzubringen, um so Vertrauen zum Leser aufzubauen.",
+          "source": "Deadline",
+          "title": "Pixar’s Pete Docter Says Queer ‘Elio’ Storyline Was Axed Because “We’re Making A Movie, Not Hundreds Of Millions Of Dollars Of Therapy”",
+          "link": "https://deadline.com/2026/03/pixar-pete-docter-elio-queer-storyline-cut-1236746748/",
+          "summary": "Pixar Chief Creative Officer Pete Docter bestätigte, dass eine queere Storyline aus dem Film \"Elio\" entfernt wurde, da Eltern nicht wollten, dass Medien Themen ansprechen, für die sie noch nicht bereit sind - \"Wir machen einen Film, nicht hunderte Millionen Dollar Therapie\". Die ursprüngliche Vision von Regisseur Adrian Molina enthielt eine Szene, in der Elio als Erwachsener mit einem männlichen Partner ein Kind großzieht, was im Rahmen einer kreativen Neuausrichtung gestrichen wurde. Pixar schwenkt strategisch von regisseur-getriebenen, semi-autobiographischen Geschichten zu universell zugänglicheren Inhalten mit Sequel-Potenzial um.",
           "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Monsters Inc. 3’ In Early Development; ‘Incredibles 3’ Expected In 2028, ‘Coco 2’ In 2029",
-          "link": "https://deadline.com/2026/03/monsters-inc-3-incredibles-3-coco-2-1236746601/",
-          "summary": "Pixar entwickelt derzeit mehrere Fortsetzungen beliebter Franchises, darunter \"Monsters Inc. 3\" in früher Entwicklungsphase, \"Incredibles 3\" für 2028 und \"Coco 2\" für 2029. Studio-Chef Pete Docter bestätigte in einem Wall Street Journal-Profil auch die Entwicklung des ersten Pixar-Musicals von \"Turning Red\"-Regisseurin Domee Shi sowie die Umwandlung der ursprünglich als Streaming-Serie geplanten \"Ono Ghost Market\" in einen Kinofilm. Disney hat die Projekte und Termine bisher nicht offiziell bestätigt.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "WGA Releases Pattern Of Demands Ahead Of AMPTP Negotiations",
-          "link": "https://deadline.com/2026/03/wga-pattern-demands-amptp-negotiations-1236746598/",
-          "summary": "Die Writers Guild of America (WGA) hat ihre Forderungen für die anstehenden Verhandlungen mit der Alliance of Motion Picture & Television Producers (AMPTP) veröffentlicht, die von 97,4% der Mitglieder gebilligt wurden. Die Kernforderungen umfassen höhere Beiträge zu Gesundheits- und Rentenfonds, erweiterte KI-Schutzmaßnahmen, erhöhte Mindestvergütungen in allen Bereichen sowie stärkere Residuals für Streaming-Wiederverwertung. Zusätzlich strebt die Gewerkschaft verstärkte Schutzmaßnahmen gegen unbezahlte Arbeit und verbesserte Beschäftigungsbedingungen für TV-Serien an.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Hoppers’ Bouncing To $40M Opening, Best For Pixar Original Since ‘Coco’; ‘The Bride!’ At $8M-$10M – Friday PM Box Office Update",
-          "link": "https://deadline.com/2026/03/box-office-hoppers-the-bride-1236745894/",
-          "summary": "Pixars \"Hoppers\" steuert auf das beste Opening für einen Pixar-Originalfilm seit \"Coco\" (2017) zu, mit geschätzten 40 Millionen Dollar am Eröffnungswochenende und 12,7 Millionen Dollar am ersten Tag. Der Film übertrifft damit deutlich die Eröffnungszahlen von \"Onward\", \"Elemental\" und \"Elio\" und erhält sowohl kritische Anerkennung (93% bei Rotten Tomatoes) als auch positive Publikumsreaktionen. Die Social Media-Reichweite von 363,6 Millionen liegt knapp unter \"Lightyear\" aber deutlich über anderen aktuellen Pixar-Releases.",
-          "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Writers Guild Negotiations Priorities Approved by Members: Health Plan Funding, AI and Compensation",
-          "link": "https://www.hollywoodreporter.com/business/business-news/writers-guild-negotiations-priorities-approved-members-1236515066/",
-          "summary": "Über 97% der Writers Guild of America-Mitglieder haben die Verhandlungsprioritäten für die am 16. März beginnenden Tarifverhandlungen mit Studios und Streamern genehmigt, die sich auf die Sanierung des Gesundheitsplans (der 2023-2024 kumulativ 122 Millionen Dollar verlor), erweiterte KI-Schutzmaßnahmen und verbesserte Vergütung konzentrieren. Die Gewerkschaft strebt höhere Arbeitgeberbeiträge zu den Leistungsplänen, erhöhte Mindestvergütungssätze und bessere Residualzahlungen an. Obwohl die WGA bereits 2023 starke KI-Schutzmaßnahmen durchsetzte, will sie diese angesichts der technologischen Entwicklung weiter ausbauen.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "WGA Members Approve Bargaining Agenda Focused on Health Care, Pay, AI",
-          "link": "https://variety.com/2026/film/news/wga-members-bargaining-agenda-pattern-demands-1236681478/",
-          "summary": "Die Writers Guild of America hat mit 97,4% Zustimmung eine Verhandlungsagenda für die am 16. März beginnenden Gespräche mit den Studios verabschiedet, die sich auf Gesundheitsversorgung, Vergütung und künstliche Intelligenz konzentriert. Der Gewerkschafts-Gesundheitsfonds steht vor einer kritischen finanziellen Situation mit 205 Millionen Dollar Verlusten in den letzten vier Jahren und droht in drei Jahren zahlungsunfähig zu werden, weshalb höhere Arbeitgeberbeiträge gefordert werden. Die Agenda umfasst auch die üblichen Forderungen nach erhöhten Mindestvergütungssätzen und Fortschritte bei zwei weiteren wichtigen Themen.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "‘Monsters Inc. 3’ in the Works at Pixar; New Originals Include ‘Ono Ghost Market’ and the Studio’s First Musical",
-          "link": "https://variety.com/2026/film/news/monsters-inc-3-pixar-ono-ghost-market-first-musical-1236681473/",
-          "summary": "Pixar entwickelt einen dritten \"Monsters Inc.\"-Film, nachdem die ersten beiden Teile zusammen über 1,2 Milliarden Dollar weltweit eingespielt haben. Details zu Regie und Handlung werden noch geheim gehalten, während das Studio parallel an weiteren großen Fortsetzungen wie \"Toy Story 5\" arbeitet. Die Ankündigung erfolgte im Rahmen eines Wall Street Journal-Profils über Pixars aktuelle Arbeitsweise.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "Jay Shetty and iHeartMedia Part Ways for His ‘On Purpose’ Podcast",
-          "link": "https://variety.com/2026/digital/news/iheartmedia-ends-deal-jay-shetty-on-purpose-podcast-1236681432/",
-          "summary": "iHeartMedia beendet nach drei Jahren die Partnerschaft mit Jay Shetty für seinen erfolgreichen Wellness-Podcast \"On Purpose\", da sich beide Seiten nicht auf eine vierjährige Vertragsverlängerung einigen konnten. Der Deal läuft im Juli 2026 aus, während Shettys Team bereits Verhandlungen mit anderen Audio-Unternehmen führt. iHeartMedia informierte Werbepartner über die Entscheidung und betonte, dass man Audience und Revenue des Podcasts während der Partnerschaft verdoppelt habe.",
+          "title": "Pete Docter Says Pixar Cut ‘Elio’ LGBTQ Themes Because “We’re Making a Movie, Not Hundreds of Millions of Dollars of Therapy”",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/pete-docter-pixar-elio-cut-lgbtq-themes-1236524502/",
+          "summary": "Pixar-CCO Pete Docter bestätigte, dass LGBTQ-Themen aus dem Film \"Elio\" (2025) entfernt wurden, da das Studio Eltern nicht zu Gesprächen drängen wollte, für die sie nicht bereit seien. Nach negativen Testvorführungen 2023 wurde der ursprünglich queer-kodierte Hauptcharakter überarbeitet, Regisseur Adrian Molina verließ das Projekt und wurde durch Madeline Sharafian und Domee Shi ersetzt. Der Film startete mit rekordverdächtig niedrigen Zahlen für Pixar (20,8 Mio. $ domestic, 14 Mio. $ international).",
           "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Paramount Eyes Changes to Historic Studio Lot Following Warner Bros. Merger",
+          "link": "https://www.hollywoodreporter.com/business/business-news/paramount-studio-lot-changes-warner-bros-merger-1236524430/",
+          "summary": "Nach der Übernahme von Warner Bros. Discovery durch Paramount Skydance plant das Unternehmen eine schrittweise Konsolidierung der Studiooperationen um den Warner Bros.-Standort in Burbank, um Redundanzen mit dem historischen Paramount-Lot in Hollywood zu eliminieren. Das Paramount-Gelände soll nicht verkauft, sondern teilweise für kommerzielle Büros, Einzelhandel und Vermietung an externe Produktionen umgenutzt werden, mit bis zu 1,9 Millionen Quadratfuß Entwicklungspotenzial.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "‘Monsters, Inc. 3’ in the Works at Pixar; ‘Incredibles 3’ Set for 2028 Release",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/monsters-inc-3-pixar-incredibles-3-coco-2-release-dates-1236524393/",
+          "summary": "Pixar entwickelt einen dritten \"Monsters, Inc.\"-Film, während \"Incredibles 3\" für 2028 und ein \"Coco\"-Sequel für 2029 angekündigt wurden. Das Studio arbeitet außerdem an seinem ersten Musical und \"Ono Ghost Market\", einem von asiatischen Mythen inspirierten Film über übernatürliche Märkte. Diese Ankündigungen erfolgen im Rahmen der Promotion für Pixars neuesten Film \"Hoppers\", der ein Wochenend-Box-Office-Erfolg zu werden scheint.",
+          "score": 8
         }
       ]
     }
