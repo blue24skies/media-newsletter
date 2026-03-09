@@ -1,56 +1,112 @@
 {
   "newsletters": [
     {
-      "date": "2026-03-08",
+      "date": "2026-03-09",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Neue Show mit Pilawa, aber andere Quiz-Formate pausieren",
-          "link": "https://www.dwdl.de/nachrichten/105776/neue_show_mit_pilawa_aber_andere_quizformate_pausieren/",
-          "summary": "Sat.1 pausiert bis auf das erfolgreiche \"1% Quiz\" alle anderen Quiz-Formate, nachdem Shows wie \"Allgemeinwissensquiz\", \"Hast du Töne?\" und \"The Connection\" enttäuschende Quoten erzielten. Trotz der Quiz-Bremse plant der Sender eine neue Show mit Moderator Jörg Pilawa, für die bereits im Dezember ein Pilot produziert wurde. Das \"1% Quiz\" bleibt mit stabilen neun Prozent Marktanteil in der Zielgruppe das einzige erfolgreiche Quiz-Format im Sat.1-Portfolio.",
-          "score": 9
+          "title": "RBB Media: \"Betrieb eines Hotels keine Kernaufgabe\"",
+          "link": "https://www.dwdl.de/nachrichten/105783/rbb_media_betrieb_eines_hotels_keine_kernaufgabe/",
+          "summary": "Die RBB Media GmbH verkauft ihr 3.170 Quadratmeter großes Grundstück am Kaiserdamm in Berlin-Charlottenburg, das bisher für Hotel, Büros und eine Bowlingbahn genutzt wurde, da der Hotelbetrieb nicht zu den Kernaufgaben gehört. Hintergrund sind klamme Kassen und hoher Sanierungsbedarf der in den 1960er Jahren entstandenen Immobilie. Mit dem Verkauf über ein zweistufiges Bieterverfahren beendet RBB Media vollständig sein Immobilienmanagement und will sich auf Vermarktung konzentrieren.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "NDR startet neues Kurz-Format über Faktenprüfung im Netz",
+          "link": "https://www.dwdl.de/nachrichten/105778/ndr_startet_neues_kurzformat_ueber_faktenpruefung_im_netz/",
+          "summary": "Der NDR und die \"Tagesschau\" lancieren das neue YouTube-Format \"Rabbit Hole\", das ab dem 9. März dreimal monatlich in fünfminütigen Episoden Faktenchecker bei ihrer Arbeit zeigt und dabei transparente Einblicke in digitale Verifikationstools und -methoden gibt. Das primär an 18- bis 35-Jährige gerichtete Format wird von Chiara Battaglia, Ciara Cesaro-Tadic und Johannes Runge moderiert und soll der zunehmend professionelleren Desinformation in sozialen Medien durch Aufklärung über journalistische Rechercheprozesse entgegenwirken.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Schweizer stimmen gegen Senkung des Rundfunkbeitrags",
+          "link": "https://www.dwdl.de/nachrichten/105777/schweizer_stimmen_gegen_senkung_des_rundfunkbeitrags/",
+          "summary": "Die Schweizer haben am Sonntag mit 62% gegen die \"Halbierungsinitiative\" gestimmt, die den Rundfunkbeitrag von 335 auf 200 Franken pro Jahr senken wollte. Das Ergebnis fällt weniger deutlich aus als 2018, als 70% gegen eine komplette Abschaffung der Gebühren stimmten. Der Schweizer Rundfunkbeitrag ist mit umgerechnet 370 Euro deutlich teurer als in Deutschland, was auch an der viersprachigen Programmproduktion liegt.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "&quot;Mit sofortiger Wirkung&quot;: ORF-Generaldirektor Roland Weißmann tritt zurück",
+          "link": "https://www.horizont.net/medien/nachrichten/kolportiert-orf-generaldirektor-roland-weissmann-vor-ruecktritt-233473?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "ORF-Generaldirektor Roland Weißmann ist mit sofortiger Wirkung von seinem Amt zurückgetreten, nachdem eine ORF-Mitarbeiterin Vorwürfe der sexuellen Belästigung gegen ihn erhoben hat. Weißmann bestreitet die Anschuldigungen, informierte jedoch am Sonntag den Stiftungsratsvorsitzenden Heinz Lederer und dessen Stellvertreter Gregor Schütze über seinen Rücktritt.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Zusammen mit Studio Flitz: Wie Seven-One das Creator-Format The Race zur Markenplattform macht",
+          "link": "https://www.horizont.net/medien/nachrichten/zusammen-mit-studio-flitz-wie-seven-one-das-creator-format-the-race-zur-markenplattform-macht-233460?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Seven-One Media entwickelt gemeinsam mit Studio Flitz das Creator-Format \"The Race\" zu einer Markenplattform weiter, um sich im umkämpften Markt der aufmerksamkeitsstarken Creator-Formate zu positionieren. Die dritte Staffel des Adventure-Formats soll als Blaupause für die künftige strategische Zusammenarbeit zwischen dem Pro-Sieben-Sat-1-Vermarkter und dem Studio dienen.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Volksabstimmung: Kürzung von Rundfunkbeitrag in der Schweiz gescheitert",
+          "link": "https://www.horizont.net/medien/nachrichten/volksabstimmung-kuerzung-von-rundfunkbeitrag-in-der-schweiz-gescheitert-233469?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Bei einer Volksabstimmung in der Schweiz wurde ein Vorschlag zur deutlichen Kürzung des Rundfunkbeitrags von einer klaren Mehrheit der Bürger abgelehnt. Die ersten Hochrechnungen zeigen ein eindeutiges Ergebnis gegen die von Kritikern geforderte weitere Reduzierung der Rundfunkgebühren.",
+          "score": 7
         },
         {
           "source": "kress",
-          "title": "Habe ich meinen Job in 5 Jahren noch?",
-          "link": "https://kress.de/news/beitrag/152253-medienprofis-in-sorge-habe-ich-meinen-job-in-5-jahren-noch.html",
-          "summary": "Karrierecoach Attila Albert thematisiert die wachsenden Existenzängste von Medienprofis angesichts von KI-bedingtem Stellenabbau, Ressortschließungen und schwächelnder Wirtschaftslage. Er empfiehlt eine pragmatische Herangehensweise: unaufgeregte Analyse der persönlichen Situation, Prüfung beruflicher Alternativen und Entwicklung machbarer Strategien statt Verdrängung der Realitäten. Albert plädiert dafür, trotz unsicherer Zukunftsaussichten proaktiv die eigene Karriereplanung anzugehen.",
+          "title": "ZDF-Streit nach KI-Leak eskaliert Ein Mitschnitt aus einer internen Krisensitzung zur KI-Panne im...",
+          "link": "https://kress.de/news/beitrag/152255-du-bist-ein-nuetzlicher-idiot-zdf-streit-nach-ki-leak-eskaliert.html",
+          "summary": "Nach der KI-Bildaffäre im ZDF \"heute journal\" eskaliert ein interner Konflikt, nachdem ein unbekannter Mitarbeiter eine vertrauliche Krisensitzung mitgefilmt und an das rechtspopulistische Portal \"Nius\" weitergegeben hat. Mehrere hundert ZDF-Beschäftigte stellen sich gegen den anonymen Whistleblower, wobei ein Personalrat-Kommentar mit fast 600 Likes Rekordunterstützung erhielt. Der Personalrat wirft dem Denunzianten vor, ein \"nützlicher Idiot\" zu sein und Kollegen sowie den öffentlich-rechtlichen Rundfunk zu schaden.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Fleet-Street-Deal: Axel Springer will Daily Telegraph für 575 Mio.",
+          "link": "https://kress.de/news/beitrag/152254-fleet-street-deal-axel-springer-will-daily-telegraph-fuer-575-mio-pfund-kaufen.html",
+          "summary": "Axel Springer hat sich mit der Investmentgesellschaft RedBird IMI auf den Erwerb der Telegraph Media Group für 575 Mio. Pfund geeinigt, womit der Konzern mehr als das Doppelte des Jahresumsatzes (280 Mio. Pfund) zahlt. Die Transaktion für das britische Traditionsunternehmen mit 1,086 Millionen Abonnenten steht noch unter regulatorischen Vorbehalten. Konzernchef Döpfner bezeichnet den Kauf als historische Rückkehr zu den Wurzeln, da Firmengründer Axel Springer bereits vor über 20 Jahren erfolglos versucht hatte, den Telegraph zu übernehmen.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Neuer Vertical Hub Funke Regionalmedien fassen Verbraucher- und Test-Berichterstattung zusammen Die...",
+          "link": "https://meedia.de/news/beitrag/21287-funke-regionalmedien-fassen-verbraucher-und-test-berichterstattung-zusammen.html",
+          "summary": "Die Funke Regionalmedien haben ihre Verbraucher- und Test-Berichterstattung in einem neuen \"Funke Vertical Hub\" mit Kernmarke \"Imtest\" am Standort Hamburg zusammengeführt, der aus der Fusion der Imtest-Redaktion mit der Vertical & Content-Commerce-Redaktion der Regionalportale entstanden ist. Felix Disselhoff übernahm als Publisher und Redaktionsleiter die Leitung des Hubs, nachdem er zuvor bei Bauer als Director Content Commerce tätig war. Das Angebot wird von der Unit Content Commerce und Brand Cooperation unter Kay B. Schlemenat vermarktet.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Einigung erzielt Springer-Konzern kauft Londoner Zeitung \"Daily Telegraph\" Für 575 Millionen...",
+          "link": "https://meedia.de/news/beitrag/21285-springer-konzern-kauft-londoner-zeitung-quot-daily-telegraph-quot.html",
+          "summary": "Der deutsche Medienkonzern Axel Springer übernimmt die konservative britische Tageszeitung \"Daily Telegraph\" und das Schwesterblatt \"Sunday Telegraph\" für 575 Millionen Pfund (663,3 Mio. Euro) in bar. Die Akquisition erfolgt nach zwei erfolglosen Übernahmeversuchen in der Vergangenheit und übertrifft das Gebot des britischen Konkurrenten DMGT um 75 Millionen Pfund. Springer-Chef Mathias Döpfner bezeichnete die Übernahme als Erfüllung eines langjährigen Traums, die \"Institution des britischen Qualitätsjournalismus\" zu besitzen.",
+          "score": 9
+        },
+        {
+          "source": "meedia",
+          "title": "Pre-Rolls/In-Stream/Pause-Ads/Homescreen-Werbung Wie Rakuten TV im stark wachsenden CTV-Werbemarkt Gas geben möchte Rakuten TV gehört zu den großen Playern im Connected-TV- und FAST-Markt",
+          "link": "https://meedia.de/news/beitrag/21274-wie-rakuten-tv-im-stark-wachsenden-ctv-werbemarkt-gas-geben-moechte.html",
+          "summary": "Rakuten TV positioniert sich als \"Hidden Champion\" im wachsenden Connected-TV-Werbemarkt und setzt bewusst auf werbefinanzierte FAST-Channels sowie Transaktionsmodelle statt auf Abo-Streaming. Das Unternehmen expandiert aktuell mit drei neuen FAST-Channels bei Amazon Prime Video und baut gleichzeitig sein Geschäft als Technologie- und Vermarktungspartner für andere Anbieter aus.",
           "score": 7
         },
         {
           "source": "Guardian Media",
           "title": "ITV in talks with advertisers over showing commercials during World Cup drinks breaks",
           "link": "https://www.theguardian.com/football/2026/mar/05/itv-weighing-up-whether-to-show-adverts-during-2026-world-cup-drinks-breaks",
-          "summary": "ITV führt Gespräche mit Werbepartnern über die Vermarktung der obligatorischen 3-Minuten-Trinkpausen, die bei der WM nach 22 Minuten jeder Halbzeit stattfinden werden. Der Sender kann zwischen vollständigen Werbeunterbrechungen (2:10 Min.) oder weniger störenden Split-Screen-Formaten wählen, wobei letztere nach den positiven Erfahrungen bei der Six Nations Championship bevorzugt werden könnten. Die Entscheidung steht im Spannungsfeld zwischen Werbeerlösen und Zuschauerfreundlichkeit bei diesem bedeutenden Sportereignis.",
+          "summary": "ITV führt Gespräche mit Werbepartnern über die Vermarktung der dreaminütigen Trinkpausen, die bei der WM nach 22 Minuten jeder Halbzeit stattfinden werden. Der Sender erwägt dabei sowohl traditionelle Werbeblöcke (2:10 Min) als auch das weniger störende \"Picture-in-Picture\"-Format, das bereits erfolgreich bei der Six Nations Championship eingesetzt wurde. Die finale Entscheidung hängt von der Balance zwischen Werbeerlösen und Zuschauerfreundlichkeit ab.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Rooster’ Co-Creator Bill Lawrence Talks “Nostalgic” College Campus Setting, Reteaming With Phil Dunster And More In New HBO Comedy Series",
+          "link": "https://deadline.com/2026/03/rooster-series-pilot-bill-lawrence-interview-college-campus-1236747388/",
+          "summary": "Bill Lawrence hat mit Co-Creator Matt Tarses die neue HBO-Comedy \"Rooster\" entwickelt, die auf dem Campus des fiktiven Ludlow College spielt und Steve Carell als Autor von Strandlektüre zeigt, der als Gastdozent an der Hochschule seiner Tochter lehrt. Die Serie nutzt das College-Setting als Metapher für Selbstfindung und Neuerfindung, wobei Carells Charakter als Mann Ende 50 ohne Universitätsabschluss die Chance bekommt, zu entscheiden, wie sein weiteres Leben aussehen soll. Lawrence, der selbst eine familiäre Verbindung zu Sarah Lawrence College hat, verarbeitet persönliche Erfahrungen über Bildung und die Überwindung von Scham bezüglich kreativer Leidenschaften.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "Pixar’s Pete Docter Says Queer ‘Elio’ Storyline Was Axed Because “We’re Making A Movie, Not Hundreds Of Millions Of Dollars Of Therapy”",
-          "link": "https://deadline.com/2026/03/pixar-pete-docter-elio-queer-storyline-cut-1236746748/",
-          "summary": "Pixar Chief Creative Officer Pete Docter bestätigte, dass eine queere Storyline aus dem Film \"Elio\" entfernt wurde, da Eltern nicht wollten, dass Medien Themen ansprechen, für die sie noch nicht bereit sind - \"Wir machen einen Film, nicht hunderte Millionen Dollar Therapie\". Die ursprüngliche Vision von Regisseur Adrian Molina enthielt eine Szene, in der Elio als Erwachsener mit einem männlichen Partner ein Kind großzieht, was im Rahmen einer kreativen Neuausrichtung gestrichen wurde. Pixar schwenkt strategisch von regisseur-getriebenen, semi-autobiographischen Geschichten zu universell zugänglicheren Inhalten mit Sequel-Potenzial um.",
-          "score": 7
+          "title": "Writers Guild Awards Winners List: ‘Sinners’ & ‘One Battle After Another’ Take Screenplay Prizes; ‘The Pitt’ Goes 3-For-3",
+          "link": "https://deadline.com/2026/03/writers-guild-awards-2026-winners-list-1236746354/",
+          "summary": "Bei den 78th annual WGA Awards gewannen Ryan Coogler (Sinners) den Preis für das beste Originaldrehbuch und Paul Thomas Anderson (One Battle After Another) für das beste adaptierte Drehbuch. Die Zeremonie fand unter ungewöhnlichen Umständen statt, da die West Coast-Veranstaltung wegen eines laufenden Streiks der WGA West-Mitarbeiter gegen das Management abgesagt wurde. Beide Gewinner werden am 15. März bei den Oscars in ihren jeweiligen Drehbuch-Kategorien konkurrieren.",
+          "score": 9
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Pete Docter Says Pixar Cut ‘Elio’ LGBTQ Themes Because “We’re Making a Movie, Not Hundreds of Millions of Dollars of Therapy”",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/pete-docter-pixar-elio-cut-lgbtq-themes-1236524502/",
-          "summary": "Pixar-CCO Pete Docter bestätigte, dass LGBTQ-Themen aus dem Film \"Elio\" (2025) entfernt wurden, da das Studio Eltern nicht zu Gesprächen drängen wollte, für die sie nicht bereit seien. Nach negativen Testvorführungen 2023 wurde der ursprünglich queer-kodierte Hauptcharakter überarbeitet, Regisseur Adrian Molina verließ das Projekt und wurde durch Madeline Sharafian und Domee Shi ersetzt. Der Film startete mit rekordverdächtig niedrigen Zahlen für Pixar (20,8 Mio. $ domestic, 14 Mio. $ international).",
+          "title": "CPH:DOX Director Wants the Copenhagen Doc Fest to Create “Big Chambers” of Dialogue, Not Echo Chambers, and Spread the Doc “Gospel”",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/cphdox-preview-interview-niklas-engstrom-copenhagen-doc-1236521576/",
+          "summary": "Die 23. Ausgabe von CPH:DOX (11.-22. März) präsentiert 74 Filme in sechs Wettbewerbssektionen, darunter 53 Weltpremieren und 17 internationale Premieren. Festivaldirektor Niklas Engstrøm positioniert das Kopenhagener Dokumentarfilmfestival als Forum für gesellschaftlichen Dialog zu aktuellen Themen von Geopolitik bis KI-Disruption. Das Programm umfasst thematische Sektionen wie \"Right Here, Right Now\" zu Menschenrechten und \"Brainwaves\" zur Erforschung des menschlichen Geistes.",
           "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Paramount Eyes Changes to Historic Studio Lot Following Warner Bros. Merger",
-          "link": "https://www.hollywoodreporter.com/business/business-news/paramount-studio-lot-changes-warner-bros-merger-1236524430/",
-          "summary": "Nach der Übernahme von Warner Bros. Discovery durch Paramount Skydance plant das Unternehmen eine schrittweise Konsolidierung der Studiooperationen um den Warner Bros.-Standort in Burbank, um Redundanzen mit dem historischen Paramount-Lot in Hollywood zu eliminieren. Das Paramount-Gelände soll nicht verkauft, sondern teilweise für kommerzielle Büros, Einzelhandel und Vermietung an externe Produktionen umgenutzt werden, mit bis zu 1,9 Millionen Quadratfuß Entwicklungspotenzial.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "‘Monsters, Inc. 3’ in the Works at Pixar; ‘Incredibles 3’ Set for 2028 Release",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/monsters-inc-3-pixar-incredibles-3-coco-2-release-dates-1236524393/",
-          "summary": "Pixar entwickelt einen dritten \"Monsters, Inc.\"-Film, während \"Incredibles 3\" für 2028 und ein \"Coco\"-Sequel für 2029 angekündigt wurden. Das Studio arbeitet außerdem an seinem ersten Musical und \"Ono Ghost Market\", einem von asiatischen Mythen inspirierten Film über übernatürliche Märkte. Diese Ankündigungen erfolgen im Rahmen der Promotion für Pixars neuesten Film \"Hoppers\", der ein Wochenend-Box-Office-Erfolg zu werden scheint.",
-          "score": 8
         }
       ]
     }
