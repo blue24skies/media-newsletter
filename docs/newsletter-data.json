@@ -1,112 +1,133 @@
 {
   "newsletters": [
     {
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "articles": [
         {
           "source": "DWDL",
-          "title": "RBB Media: \"Betrieb eines Hotels keine Kernaufgabe\"",
-          "link": "https://www.dwdl.de/nachrichten/105783/rbb_media_betrieb_eines_hotels_keine_kernaufgabe/",
-          "summary": "Die RBB Media GmbH verkauft ihr 3.170 Quadratmeter großes Grundstück am Kaiserdamm in Berlin-Charlottenburg, das bisher für Hotel, Büros und eine Bowlingbahn genutzt wurde, da der Hotelbetrieb nicht zu den Kernaufgaben gehört. Hintergrund sind klamme Kassen und hoher Sanierungsbedarf der in den 1960er Jahren entstandenen Immobilie. Mit dem Verkauf über ein zweistufiges Bieterverfahren beendet RBB Media vollständig sein Immobilienmanagement und will sich auf Vermarktung konzentrieren.",
+          "title": "\"My American Love\": TLC startet neue Eigenproduktion",
+          "link": "https://www.dwdl.de/nachrichten/105788/my_american_love_tlc_startet_neue_eigenproduktion/",
+          "summary": "TLC (Warner Bros. Discovery) startet ab 13. April die neue deutsche Eigenproduktion \"My American Love\" - eine achtteilige Dating-Doku über internationale Fernbeziehungen zwischen Deutschland und den USA. Die von ITV Studios Germany produzierte Serie begleitet mehrere Paare in unterschiedlichen Beziehungsphasen und zeigt montags um 21:15 Uhr, wie digitale Romanzen auf die Realität treffen. Das Format reiht sich in TLCs etabliertes Reality-Dating-Portfolio ein und zielt auf die Zielgruppe ab, die bereits ähnliche internationale Beziehungsformate des Senders verfolgt.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Regionale Realityshow: BR lässt die \"Maibaum Hunters\" los",
+          "link": "https://www.dwdl.de/nachrichten/105786/regionale_realityshow_br_laesst_die_maibaum_hunters_los/",
+          "summary": "Der Bayerische Rundfunk startet am 17. April die Realityshow \"Maibaum Hunters\" in der ARD-Mediathek, bei der drei oberbayerische Teams mit jeweils fünf erfahrenen Maibaumdieben und einem Influencer unter erschwerten Bedingungen ihr Können beweisen. Die von Endemol Shine Germany produzierte Show nutzt Self-Shooting-Elemente (GoPros, Bodycams, Drohnen) und wurde nachts gedreht, um das traditionelle bayerische Brauchtum des Maibaumstehlens modern zu inszenieren. Lineare Ausstrahlung erfolgt am 30. April ab 22:45 Uhr im BR Fernsehen.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "NDR startet neues Kurz-Format über Faktenprüfung im Netz",
-          "link": "https://www.dwdl.de/nachrichten/105778/ndr_startet_neues_kurzformat_ueber_faktenpruefung_im_netz/",
-          "summary": "Der NDR und die \"Tagesschau\" lancieren das neue YouTube-Format \"Rabbit Hole\", das ab dem 9. März dreimal monatlich in fünfminütigen Episoden Faktenchecker bei ihrer Arbeit zeigt und dabei transparente Einblicke in digitale Verifikationstools und -methoden gibt. Das primär an 18- bis 35-Jährige gerichtete Format wird von Chiara Battaglia, Ciara Cesaro-Tadic und Johannes Runge moderiert und soll der zunehmend professionelleren Desinformation in sozialen Medien durch Aufklärung über journalistische Rechercheprozesse entgegenwirken.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Schweizer stimmen gegen Senkung des Rundfunkbeitrags",
-          "link": "https://www.dwdl.de/nachrichten/105777/schweizer_stimmen_gegen_senkung_des_rundfunkbeitrags/",
-          "summary": "Die Schweizer haben am Sonntag mit 62% gegen die \"Halbierungsinitiative\" gestimmt, die den Rundfunkbeitrag von 335 auf 200 Franken pro Jahr senken wollte. Das Ergebnis fällt weniger deutlich aus als 2018, als 70% gegen eine komplette Abschaffung der Gebühren stimmten. Der Schweizer Rundfunkbeitrag ist mit umgerechnet 370 Euro deutlich teurer als in Deutschland, was auch an der viersprachigen Programmproduktion liegt.",
+          "title": "\"DSDS\" startet an Ostern mit Neuerungen in die neue Staffel",
+          "link": "https://www.dwdl.de/nachrichten/105772/dsds_startet_an_ostern_mit_neuerungen_in_die_neue_staffel/",
+          "summary": "RTL startet am 4. April die 22. Staffel von \"DSDS\" mit grundlegend überarbeitetem Casting-Konzept, das vollständige Casting-Tage statt Zusammenschnitte zeigt und neue Elemente wie den \"Golden Room\" und \"Recall-Tickets\" einführt. Die Jury wird von vier auf drei Mitglieder reduziert: Neben Dieter Bohlen komplettieren Bushido und Isi Glück das neue Panel, während Pietro Lombardi, Beatrice Egli und Loredana ausscheiden. Zusätzlich zur Hauptshow startet ab 21. April das neue Spin-off \"DSDS Reality\" bei RTL+, das die Kandidaten in ihrem WG-Alltag begleitet.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "&quot;Mit sofortiger Wirkung&quot;: ORF-Generaldirektor Roland Weißmann tritt zurück",
-          "link": "https://www.horizont.net/medien/nachrichten/kolportiert-orf-generaldirektor-roland-weissmann-vor-ruecktritt-233473?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "ORF-Generaldirektor Roland Weißmann ist mit sofortiger Wirkung von seinem Amt zurückgetreten, nachdem eine ORF-Mitarbeiterin Vorwürfe der sexuellen Belästigung gegen ihn erhoben hat. Weißmann bestreitet die Anschuldigungen, informierte jedoch am Sonntag den Stiftungsratsvorsitzenden Heinz Lederer und dessen Stellvertreter Gregor Schütze über seinen Rücktritt.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Zusammen mit Studio Flitz: Wie Seven-One das Creator-Format The Race zur Markenplattform macht",
-          "link": "https://www.horizont.net/medien/nachrichten/zusammen-mit-studio-flitz-wie-seven-one-das-creator-format-the-race-zur-markenplattform-macht-233460?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Seven-One Media entwickelt gemeinsam mit Studio Flitz das Creator-Format \"The Race\" zu einer Markenplattform weiter, um sich im umkämpften Markt der aufmerksamkeitsstarken Creator-Formate zu positionieren. Die dritte Staffel des Adventure-Formats soll als Blaupause für die künftige strategische Zusammenarbeit zwischen dem Pro-Sieben-Sat-1-Vermarkter und dem Studio dienen.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Volksabstimmung: Kürzung von Rundfunkbeitrag in der Schweiz gescheitert",
-          "link": "https://www.horizont.net/medien/nachrichten/volksabstimmung-kuerzung-von-rundfunkbeitrag-in-der-schweiz-gescheitert-233469?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Bei einer Volksabstimmung in der Schweiz wurde ein Vorschlag zur deutlichen Kürzung des Rundfunkbeitrags von einer klaren Mehrheit der Bürger abgelehnt. Die ersten Hochrechnungen zeigen ein eindeutiges Ergebnis gegen die von Kritikern geforderte weitere Reduzierung der Rundfunkgebühren.",
+          "title": "&quot;Tiefgreifender Strukturwandel&quot;: Umbau und Stellenabbau beim Zeitschriftenvermarkter BCN",
+          "link": "https://www.horizont.net/medien/nachrichten/tiefgreifender-strukturwandel-umbau-und-stellenabbau-beim-zeitschriftenvermarkter-bcn-233475?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der Zeitschriftenvermarkter BCN vollzieht einen strategischen Umbau von klassischer zu Tech-orientierter Vermarktung und baut dabei rund zehn Prozent seiner Stellen ab. Die Geschäftsführung begründet die Maßnahme als unvermeidlich für die künftige Wettbewerbsfähigkeit des größten deutschen Zeitschriftenmarken-Vermarkters.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "ZDF-Streit nach KI-Leak eskaliert Ein Mitschnitt aus einer internen Krisensitzung zur KI-Panne im...",
+          "title": "Rheinische Post schluckt Westfälische Nachrichten und Westfalen-Blatt Die Rheinische Post Mediengruppe kauft die Westfälische Medien Holding.",
+          "link": "https://kress.de/news/beitrag/152258-naechster-zeitungs-grossdeal-im-westen-rheinische-post-schluckt-westfaelische-nachrichten-und-westfalen-blatt.html",
+          "summary": "Die Rheinische Post Mediengruppe übernimmt die Westfälische Medien Holding (WMH) inklusive Titeln wie Westfälische Nachrichten und Westfalen-Blatt, vorbehaltlich der Kartellamt-Zustimmung. Mit dem Deal wird die Düsseldorfer Gruppe zur auflagenstärksten Tageszeitungs-Verlagsgruppe in NRW. Die bisherigen Eigentümer Benedikt und Eduard Hüffer begründen den Verkauf mit fehlenden Skalierungsmöglichkeiten der mittelständischen Struktur im lokalen Zeitungsmarkt.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "ZDF-Streit nach KI-Leak eskaliert",
           "link": "https://kress.de/news/beitrag/152255-du-bist-ein-nuetzlicher-idiot-zdf-streit-nach-ki-leak-eskaliert.html",
-          "summary": "Nach der KI-Bildaffäre im ZDF \"heute journal\" eskaliert ein interner Konflikt, nachdem ein unbekannter Mitarbeiter eine vertrauliche Krisensitzung mitgefilmt und an das rechtspopulistische Portal \"Nius\" weitergegeben hat. Mehrere hundert ZDF-Beschäftigte stellen sich gegen den anonymen Whistleblower, wobei ein Personalrat-Kommentar mit fast 600 Likes Rekordunterstützung erhielt. Der Personalrat wirft dem Denunzianten vor, ein \"nützlicher Idiot\" zu sein und Kollegen sowie den öffentlich-rechtlichen Rundfunk zu schaden.",
-          "score": 8
+          "summary": "Nach der KI-Affäre im ZDF \"heute journal\" eskaliert ein interner Streit, nachdem ein unbekannter Mitarbeiter heimlich eine Krisensitzung filmte und das Material an das rechtspopulistische Portal \"Nius\" weitergab. Personalratsmitglied Hubert Krech verurteilte den anonymen \"Denunzianten\" scharf als \"nützlichen Idioten\" und erhielt dafür Rekord-Zustimmung von fast 600 ZDF-Mitarbeitern im Intranet. Der Leak zeigt die angespannte Stimmung im Sender und wirft Fragen zum Umgang mit internen Krisen und Vertrauen unter den Mitarbeitern auf.",
+          "score": 7
         },
         {
           "source": "kress",
-          "title": "Fleet-Street-Deal: Axel Springer will Daily Telegraph für 575 Mio.",
-          "link": "https://kress.de/news/beitrag/152254-fleet-street-deal-axel-springer-will-daily-telegraph-fuer-575-mio-pfund-kaufen.html",
-          "summary": "Axel Springer hat sich mit der Investmentgesellschaft RedBird IMI auf den Erwerb der Telegraph Media Group für 575 Mio. Pfund geeinigt, womit der Konzern mehr als das Doppelte des Jahresumsatzes (280 Mio. Pfund) zahlt. Die Transaktion für das britische Traditionsunternehmen mit 1,086 Millionen Abonnenten steht noch unter regulatorischen Vorbehalten. Konzernchef Döpfner bezeichnet den Kauf als historische Rückkehr zu den Wurzeln, da Firmengründer Axel Springer bereits vor über 20 Jahren erfolglos versucht hatte, den Telegraph zu übernehmen.",
+          "title": "Zeit Verlagsgruppe wächst im Kerngeschäft",
+          "link": "https://kress.de/news/beitrag/152257-zeit-verlagsgruppe-waechst-im-kerngeschaeft.html",
+          "summary": "Die Zeit Verlagsgruppe erzielte 2025 einen Gesamtumsatz von 309,7 Millionen Euro (+1,2% zum Vorjahr), wobei das Kerngeschäft um Die Zeit-Wochenzeitung mit 3,2% Wachstum deutlich zulegte, getrieben durch den Ausbau der Digital-Abonnements bei stabilen Print-Erlösen. Rückläufig entwickelten sich hingegen neue Geschäftsfelder (-1,9%) und Beteiligungen (-2,8%). Anfang Februar übernahm Nils von der Kall als neuer CEO die operative Führung von Rainer Esser, der nach 27 Jahren an der Spitze in eine beratende Rolle wechselte.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Felix Disselhoff baut bei Funke neuen Vertical Hub auf Die Funke Mediengruppe bündelt Produkttests,...",
+          "link": "https://kress.de/news/beitrag/152256-felix-disselhoff-baut-bei-funke-neuen-vertical-hub-auf.html",
+          "summary": "Die Funke Mediengruppe gründet einen neuen \"Vertical Hub\" unter Leitung von Felix Disselhoff (ehemals Bauer, Computer Bild), der die Testmarke IMTEST mit den Service- und Commerce-Inhalten der Regionalportale wie waz.de und morgenpost.de verzahnt. Die neue crossmediale Redaktionseinheit soll monatlich bis zu fünf Millionen Menschen mit Produkttests, Ratgebern und Kaufberatung in den Bereichen Technik, Finanzen, Gesundheit und Reisen erreichen. Ziel ist die Bündelung der journalistischen Test-Expertise von IMTEST mit der digitalen Reichweite der Funke-Regionalmarken.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Neuer Vertical Hub Funke Regionalmedien fassen Verbraucher- und Test-Berichterstattung zusammen Die...",
-          "link": "https://meedia.de/news/beitrag/21287-funke-regionalmedien-fassen-verbraucher-und-test-berichterstattung-zusammen.html",
-          "summary": "Die Funke Regionalmedien haben ihre Verbraucher- und Test-Berichterstattung in einem neuen \"Funke Vertical Hub\" mit Kernmarke \"Imtest\" am Standort Hamburg zusammengeführt, der aus der Fusion der Imtest-Redaktion mit der Vertical & Content-Commerce-Redaktion der Regionalportale entstanden ist. Felix Disselhoff übernahm als Publisher und Redaktionsleiter die Leitung des Hubs, nachdem er zuvor bei Bauer als Director Content Commerce tätig war. Das Angebot wird von der Unit Content Commerce und Brand Cooperation unter Kay B. Schlemenat vermarktet.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Einigung erzielt Springer-Konzern kauft Londoner Zeitung \"Daily Telegraph\" Für 575 Millionen...",
-          "link": "https://meedia.de/news/beitrag/21285-springer-konzern-kauft-londoner-zeitung-quot-daily-telegraph-quot.html",
-          "summary": "Der deutsche Medienkonzern Axel Springer übernimmt die konservative britische Tageszeitung \"Daily Telegraph\" und das Schwesterblatt \"Sunday Telegraph\" für 575 Millionen Pfund (663,3 Mio. Euro) in bar. Die Akquisition erfolgt nach zwei erfolglosen Übernahmeversuchen in der Vergangenheit und übertrifft das Gebot des britischen Konkurrenten DMGT um 75 Millionen Pfund. Springer-Chef Mathias Döpfner bezeichnete die Übernahme als Erfüllung eines langjährigen Traums, die \"Institution des britischen Qualitätsjournalismus\" zu besitzen.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "Pre-Rolls/In-Stream/Pause-Ads/Homescreen-Werbung Wie Rakuten TV im stark wachsenden CTV-Werbemarkt Gas geben möchte Rakuten TV gehört zu den großen Playern im Connected-TV- und FAST-Markt",
-          "link": "https://meedia.de/news/beitrag/21274-wie-rakuten-tv-im-stark-wachsenden-ctv-werbemarkt-gas-geben-moechte.html",
-          "summary": "Rakuten TV positioniert sich als \"Hidden Champion\" im wachsenden Connected-TV-Werbemarkt und setzt bewusst auf werbefinanzierte FAST-Channels sowie Transaktionsmodelle statt auf Abo-Streaming. Das Unternehmen expandiert aktuell mit drei neuen FAST-Channels bei Amazon Prime Video und baut gleichzeitig sein Geschäft als Technologie- und Vermarktungspartner für andere Anbieter aus.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "ITV in talks with advertisers over showing commercials during World Cup drinks breaks",
-          "link": "https://www.theguardian.com/football/2026/mar/05/itv-weighing-up-whether-to-show-adverts-during-2026-world-cup-drinks-breaks",
-          "summary": "ITV führt Gespräche mit Werbepartnern über die Vermarktung der dreaminütigen Trinkpausen, die bei der WM nach 22 Minuten jeder Halbzeit stattfinden werden. Der Sender erwägt dabei sowohl traditionelle Werbeblöcke (2:10 Min) als auch das weniger störende \"Picture-in-Picture\"-Format, das bereits erfolgreich bei der Six Nations Championship eingesetzt wurde. Die finale Entscheidung hängt von der Balance zwischen Werbeerlösen und Zuschauerfreundlichkeit ab.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Rooster’ Co-Creator Bill Lawrence Talks “Nostalgic” College Campus Setting, Reteaming With Phil Dunster And More In New HBO Comedy Series",
-          "link": "https://deadline.com/2026/03/rooster-series-pilot-bill-lawrence-interview-college-campus-1236747388/",
-          "summary": "Bill Lawrence hat mit Co-Creator Matt Tarses die neue HBO-Comedy \"Rooster\" entwickelt, die auf dem Campus des fiktiven Ludlow College spielt und Steve Carell als Autor von Strandlektüre zeigt, der als Gastdozent an der Hochschule seiner Tochter lehrt. Die Serie nutzt das College-Setting als Metapher für Selbstfindung und Neuerfindung, wobei Carells Charakter als Mann Ende 50 ohne Universitätsabschluss die Chance bekommt, zu entscheiden, wie sein weiteres Leben aussehen soll. Lawrence, der selbst eine familiäre Verbindung zu Sarah Lawrence College hat, verarbeitet persönliche Erfahrungen über Bildung und die Überwindung von Scham bezüglich kreativer Leidenschaften.",
+          "title": "TV-Quoten & Streaming-Charts \"Die Höhle der Löwen\" steigert sich zum Prime-Time-Sieg In den...",
+          "link": "https://meedia.de/news/beitrag/21301-quot-die-hoehle-der-loewen-quot-steigert-sich-zum-prime-time-sieg.html",
+          "summary": "\"Die Höhle der Löwen\" (VOX) erreichte mit einem neuen Staffel-Bestwert erstmals den Prime-Time-Sieg in der Zielgruppe 14-49 Jahre. Im Gesamtpublikum führte jedoch der ZDF-Thriller \"Im Schatten der Angst: Der Skorpion\" mit 4,96 Millionen Zuschauern und 21,3% Marktanteil. Die ARD-Naturdoku \"Die geheime Welt der Tiere\" erzielte ebenfalls starke Werte in der jungen Zielgruppe.",
           "score": 8
         },
         {
+          "source": "meedia",
+          "title": "Podcast-Plattform sichert sich eigenes Studio \"Investieren stark und gezielt\": Wie rasant Podimo in Deutschland wachsen möchte Podimo, Europas führende Podcast-Plattform, übernimmt aktuell den Produzenten Arc Studio, eines der am schnellsten wachsenden Podcast-Labels in Deutschland (\"Girls Girls\", “Kaffee mit Zitrone”, “Des Isses”). Morten Strunge, dänischer Gründer und CEO von Podimo, erklärt im exklusiven MEEDIA-Interview seine Vermarktungsstrategie, wie sich konkret die Doppelstrategie aus Abos und Werbefinanzierung entwickelt",
+          "link": "https://meedia.de/news/beitrag/21300-quot-investieren-stark-und-gezielt-quot-wie-rasant-podimo-in-deutschland-wachsen-moechte.html",
+          "summary": "Die europäische Podcast-Plattform Podimo übernimmt den deutschen Produzenten Arc Studio (bekannt für \"Girls Girls\", \"Kaffee mit Zitrone\", \"Des Isses\"), um ihr Wachstum in Deutschland zu beschleunigen. CEO Morten Strunge verfolgt eine Doppelstrategie aus Abo- und Werbefinanzierung und plant verstärkte Investitionen in Content-Produktion. Die bisherigen Arc Studio-Geschäftsführer bleiben nach der Übernahme an Bord und gestalten die weitere strategische Ausrichtung mit.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Etatvolumen von mehreren Hundert Millionen Euro L’Oréal pitcht um seinen von WPP Media betreuten...",
+          "link": "https://meedia.de/news/beitrag/21295-l-oreal-pitcht-um-seinen-von-wpp-media-betreuten-mega-mediaetat-in-dach-region.html",
+          "summary": "L'Oréal führt einen Agenturwettbewerb um seinen mehrere Hundert Millionen Euro schweren Mediaetat für die DACH-Region durch. Der französische Kosmetikkonzern stellt damit das Mandat der WPP-Agentur Wavemaker in Frage, die seit 2021 den Mediaeinkauf und -planung für Marken wie L'Oréal Paris, Garnier, Maybelline und Lancôme betreut. L'Oréal bestätigte den Pitch auf Anfrage.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Mediaagenturen Darum wechselt Uwe Roschmann von Omnicom zu Mediaplus Nach der IPG-Übernahme hat sich Omnicom einem verschärften Sparkurs unterworfen",
+          "link": "https://meedia.de/news/beitrag/21290-darum-wechselt-uwe-roschmann-von-omnicom-zu-mediaplus.html",
+          "summary": "Uwe Roschmann wechselt von Omnicom Media Germany zu Mediaplus, wo er als Geschäftsführer von Mediaplus International die globale Expansion vorantreiben wird. Der Wechsel erfolgt im Zuge mehrerer Personalabgänge bei Omnicom Deutschland, die auf den verschärften Sparkurs nach der IPG-Übernahme zurückzuführen sind. Roschmann bringt umfangreiche Erfahrung aus vorherigen Führungspositionen bei Omnicom und Publicis mit, wo er internationale Projekte und digitale Transformationen leitete.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Personalie bei Dentsu Werner aus den Erlen wird President von Amplifi für Deutschland und...",
+          "link": "https://meedia.de/news/beitrag/21284-werner-aus-den-erlen-wird-president-von-amplifi-fuer-deutschland-und-zentraleuropa.html",
+          "summary": "Werner aus den Erlen übernimmt zum 1. März die Position des President Amplifi für Deutschland und Zentraleuropa bei Dentsu und verantwortet die Einführung des neuen globalen Amplifi-Geschäftsmodells in der Region. Das integrierte Media-Ökosystem verbindet Media Investments, Partnerschaften, Daten, Technologie, Content und Kreation mit dem Ziel, Media-Investitionen transparenter, effizienter und performanceorientierter zu gestalten. Mit dieser strategischen Neuausrichtung will Dentsu seine Position im Media-Investment-Geschäft stärken und Amplifi als Wachstumstreiber für skalierbarere und innovationsgetriebene Media-Budget-Orchestrierung etablieren.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Ex-Hello-Fresh-Marketer Marcus von Franck wird neuer CMO von Otto Der Hamburger Online-Händler Otto komplettiert seinen Bereichsvorstand mit einem prominenten Neuzugang: Ab Juni 2026 übernimmt Marcus von Franck die neu besetzte Rolle des Chief Marketing Officer. Von Franck verantwortet künftig die Business Units Advertising Services, Marketing und Product Development",
+          "link": "https://meedia.de/news/beitrag/21275-marcus-von-franck-wird-neuer-cmo-von-otto.html",
+          "summary": "Marcus von Franck, ehemaliger CMO der HelloFresh Group und langjähriger Amazon-Manager, übernimmt ab Juni 2026 die neu geschaffene Position des Chief Marketing Officer bei Otto. In seiner neuen Rolle wird er die Business Units Advertising Services, Marketing und Product Development verantworten und zentrale Wachstumshebel für die Plattform-Entwicklung steuern. Die Personalentscheidung unterstreicht Ottos Fokus auf datengetriebenes Marketing mit internationaler Expertise im E-Commerce-Bereich.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "\"Konsequenter Ausbau digitaler und damit crossmedialer Services\" \"Stellenabbau unvermeidbar\":...",
+          "link": "https://meedia.de/news/beitrag/21296-quot-stellenabbau-unvermeidbar-quot-vermarkter-bcn-richtet-strukturen-neu-aus.html",
+          "summary": "BCN, der gemeinsame Vermarkter von Hubert Burda Media, Funke Mediengruppe und Mediengruppe Klambt, strukturiert sich aufgrund veränderter Marktbedingungen und des anhaltenden Rückgangs im Printanzeigenmarkt um. Das Unternehmen baut seine digitalen und crossmedialen Services aus und begründet einen damit verbundenen Stellenabbau als \"unvermeidbar\" für die zukünftige Handlungsfähigkeit. Hintergrund ist der Strukturwandel im Werbemarkt mit verschärftem Preisdruck und der Verlagerung von Werbebudgets zu algorithmisch gesteuerten Social Media-Plattformen.",
+          "score": 7
+        },
+        {
           "source": "Deadline",
-          "title": "Writers Guild Awards Winners List: ‘Sinners’ & ‘One Battle After Another’ Take Screenplay Prizes; ‘The Pitt’ Goes 3-For-3",
-          "link": "https://deadline.com/2026/03/writers-guild-awards-2026-winners-list-1236746354/",
-          "summary": "Bei den 78th annual WGA Awards gewannen Ryan Coogler (Sinners) den Preis für das beste Originaldrehbuch und Paul Thomas Anderson (One Battle After Another) für das beste adaptierte Drehbuch. Die Zeremonie fand unter ungewöhnlichen Umständen statt, da die West Coast-Veranstaltung wegen eines laufenden Streiks der WGA West-Mitarbeiter gegen das Management abgesagt wurde. Beide Gewinner werden am 15. März bei den Oscars in ihren jeweiligen Drehbuch-Kategorien konkurrieren.",
+          "title": "Podimo Builds Out European Podcast Empire With Deal For Germany’s Arc.Studio & Hires Of Ex-Netflix, Google & BBC Execs",
+          "link": "https://deadline.com/2026/03/podimo-buys-arcstudio-hires-netflix-bbc-google-execs-1236744567/",
+          "summary": "Podimo expandiert sein europäisches Podcast-Imperium durch die Übernahme des deutschen Studios Arc.Studio für einen nicht genannten Betrag und verstärkt sein Führungsteam mit hochkarätigen Ex-Managern von Netflix, BBC, Google und Disney. Das Kopenhagener Unternehmen produziert bereits über 700 Episoden monatlich mit Fokus auf videobasierte Inhalte und erwartet für dieses Jahr ein Wachstum von 50%. Arc.Studio wird in Podimo Studios integriert und ergänzt das Portfolio um etablierte deutschsprachige Formate wie \"Girls Girls\" und \"Kaffee mit Zitrone\".",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Somebody Feed Phil’ Moving To YouTube In 2027 As Phil Rosenthal Inks Strategic Global Deal With Banijay",
+          "link": "https://deadline.com/2026/03/somebody-feed-phil-moving-youtube-2027-1236748360/",
+          "summary": "Phil Rosenthal, Schöpfer von \"Everybody Loves Raymond\" und \"Somebody Feed Phil\", hat eine strategische Partnerschaft mit Banijay Americas geschlossen, um seine Marke digital zu erweitern. Ab 2027 wird \"Somebody Feed Phil\" nicht-exklusiv auf einen neuen YouTube-Kanal wechseln, während die bisherigen acht Staffeln bei Netflix verfügbar bleiben. Dies stellt eine bemerkenswerte Umkehrung des typischen Trends dar, bei dem Premium-Inhalte von YouTube zu traditionellen Streamingdiensten wechseln.",
           "score": 9
         },
         {
           "source": "Hollywood Reporter",
-          "title": "CPH:DOX Director Wants the Copenhagen Doc Fest to Create “Big Chambers” of Dialogue, Not Echo Chambers, and Spread the Doc “Gospel”",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/cphdox-preview-interview-niklas-engstrom-copenhagen-doc-1236521576/",
-          "summary": "Die 23. Ausgabe von CPH:DOX (11.-22. März) präsentiert 74 Filme in sechs Wettbewerbssektionen, darunter 53 Weltpremieren und 17 internationale Premieren. Festivaldirektor Niklas Engstrøm positioniert das Kopenhagener Dokumentarfilmfestival als Forum für gesellschaftlichen Dialog zu aktuellen Themen von Geopolitik bis KI-Disruption. Das Programm umfasst thematische Sektionen wie \"Right Here, Right Now\" zu Menschenrechten und \"Brainwaves\" zur Erforschung des menschlichen Geistes.",
-          "score": 7
+          "title": "‘Somebody Feed Phil’ Moving to YouTube From Netflix in 2027",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/somebody-feed-phil-moving-to-youtube-1236525778/",
+          "summary": "Phil Rosenthals kulinarische Reiseshow \"Somebody Feed Phil\" wechselt nach acht Staffeln auf Netflix ab 2027 zu YouTube, wo neue Episoden auf einem eigenen \"Phil Rosenthal World\"-Kanal debütieren werden. Der Wechsel ist Teil eines umfassenderen Deals zwischen Rosenthal, seiner Produktionsfirma Lucky Bastards und Banijay Americas/Banijay Rights zur Expansion auf digitale Plattformen. Die Show wird nicht exklusiv auf YouTube sein, wodurch Banijay weitere Vertriebsmöglichkeiten für FAST- und AVOD-Services nutzen kann, während frühere Staffeln weiterhin auf Netflix verfügbar bleiben.",
+          "score": 9
         }
       ]
     }
