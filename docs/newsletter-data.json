@@ -1,132 +1,223 @@
 {
   "newsletters": [
     {
-      "date": "2026-03-10",
+      "date": "2026-03-11",
       "articles": [
         {
           "source": "DWDL",
-          "title": "\"My American Love\": TLC startet neue Eigenproduktion",
-          "link": "https://www.dwdl.de/nachrichten/105788/my_american_love_tlc_startet_neue_eigenproduktion/",
-          "summary": "TLC (Warner Bros. Discovery) startet ab 13. April die neue deutsche Eigenproduktion \"My American Love\" - eine achtteilige Dating-Doku über internationale Fernbeziehungen zwischen Deutschland und den USA. Die von ITV Studios Germany produzierte Serie begleitet mehrere Paare in unterschiedlichen Beziehungsphasen und zeigt montags um 21:15 Uhr, wie digitale Romanzen auf die Realität treffen. Das Format reiht sich in TLCs etabliertes Reality-Dating-Portfolio ein und zielt auf die Zielgruppe ab, die bereits ähnliche internationale Beziehungsformate des Senders verfolgt.",
-          "score": 8
+          "title": "Deal mit RTL: Neue \"Alarm für Cobra 11\"-Folgen zuerst bei Disney+",
+          "link": "https://www.dwdl.de/nachrichten/105799/deal_mit_rtl_neue_alarm_fuer_cobra_11folgen_zuerst_bei_disney/",
+          "summary": "Disney+ erweitert durch einen Deal mit RTL sein deutsches Content-Portfolio um mehrere RTL-Produktionen, darunter \"Alarm für Cobra 11\", \"Magda macht das schon\", \"Sankt Maik\" und \"Sisi\". Besonders bemerkenswert: Zwei neue \"Cobra 11\"-Filme werden ab April zunächst sechs Monate exklusiv bei Disney+ ausgestrahlt, bevor sie bei RTL+ verfügbar werden - RTL gibt damit erstmals die Erstausstrahlung seiner langlebigsten Serienmarke ab. Der Deal folgt auf ähnliche Vereinbarungen Disneys mit ARD und ZDF zur Stärkung des lokalen Content-Angebots.",
+          "score": 10
         },
         {
           "source": "DWDL",
-          "title": "Regionale Realityshow: BR lässt die \"Maibaum Hunters\" los",
-          "link": "https://www.dwdl.de/nachrichten/105786/regionale_realityshow_br_laesst_die_maibaum_hunters_los/",
-          "summary": "Der Bayerische Rundfunk startet am 17. April die Realityshow \"Maibaum Hunters\" in der ARD-Mediathek, bei der drei oberbayerische Teams mit jeweils fünf erfahrenen Maibaumdieben und einem Influencer unter erschwerten Bedingungen ihr Können beweisen. Die von Endemol Shine Germany produzierte Show nutzt Self-Shooting-Elemente (GoPros, Bodycams, Drohnen) und wurde nachts gedreht, um das traditionelle bayerische Brauchtum des Maibaumstehlens modern zu inszenieren. Lineare Ausstrahlung erfolgt am 30. April ab 22:45 Uhr im BR Fernsehen.",
+          "title": "MagentaTV vereint Laura und Jörg Wontorra in neuer Doku-Serie",
+          "link": "https://www.dwdl.de/nachrichten/105797/magentatv_vereint_laura_und_joerg_wontorra_in_neuer_dokuserie/",
+          "summary": "MagentaTV produziert zur Fußball-WM 2026 die vierteilige Doku-Serie \"Wontorras World Cup - Vater. Tochter. WM\" mit Laura und Jörg Wontorra, die ab 14. Mai verfügbar sein wird. Die von Banijay Productions Germany produzierte Serie dokumentiert das Generationen-Duo bei Dreharbeiten in den USA, Mexiko und Kanada mit Interviews prominenter Gesprächspartner wie Thomas Müller, Leon Draisaitl und Jürgen Klinsmann. Ergänzt wird die Doku um Archivmaterial und private Einblicke in das Familienleben der Wontorras, während Laura Wontorra parallel als WM-Moderatorin im New Yorker Studio fungiert.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "\"DSDS\" startet an Ostern mit Neuerungen in die neue Staffel",
-          "link": "https://www.dwdl.de/nachrichten/105772/dsds_startet_an_ostern_mit_neuerungen_in_die_neue_staffel/",
-          "summary": "RTL startet am 4. April die 22. Staffel von \"DSDS\" mit grundlegend überarbeitetem Casting-Konzept, das vollständige Casting-Tage statt Zusammenschnitte zeigt und neue Elemente wie den \"Golden Room\" und \"Recall-Tickets\" einführt. Die Jury wird von vier auf drei Mitglieder reduziert: Neben Dieter Bohlen komplettieren Bushido und Isi Glück das neue Panel, während Pietro Lombardi, Beatrice Egli und Loredana ausscheiden. Zusätzlich zur Hauptshow startet ab 21. April das neue Spin-off \"DSDS Reality\" bei RTL+, das die Kandidaten in ihrem WG-Alltag begleitet.",
+          "title": "True Crime: ZDF kündigt neue Folgen von \"XY gelöst\" an",
+          "link": "https://www.dwdl.de/nachrichten/105796/true_crime_zdf_kuendigt_neue_folgen_von_xy_geloest_an/",
+          "summary": "Das ZDF produziert vier neue Folgen von \"XY gelöst\", die ab 22. April in der Mediathek verfügbar sind und als Doppelfolgen am 29. April und 10. Juni zur Primetime ausgestrahlt werden. Das True-Crime-Format mit Moderator Sven Voss behandelt gelöste Kriminalfälle durch Interviews mit Ermittlern und Reenactments an Originalschauplätzen. Eine der neuen Folgen thematisiert einen Kölner Karnevalsmord von 1988, der seinerzeit durch einen \"Aktenzeichen XY\"-Zuschauertipp aufgeklärt wurde.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "\"GZSZ\" kratzt an Streaming-Million, \"GNTM\" legt erneut zu",
+          "link": "https://www.dwdl.de/zahlenzentrale/105794/gzsz_kratzt_an_streamingmillion_gntm_legt_erneut_zu/",
+          "summary": "In Kalenderwoche 9 dominierten Nachrichten-Marken die Streaming-Reichweiten aufgrund des neuen Nahost-Krieges, angeführt von \"Tagesschau\", \"ntv Nachrichten\" und \"ZDFheute\". RTLs \"Gute Zeiten, Schlechte Zeiten\" erreichte mit 0,961 Millionen Streaming-Zuschauern einen neuen Rekord und kratzt an der Millionen-Marke, während \"Germany's Next Topmodel\" bei Joyn erneut auf 0,755 Millionen Personen zulegte. Bei Reality-Formaten führte RTLzwei mit der \"#CoupleChallenge\" (776.000 Personen) vor Joyns \"Promis unter Palmen\" (635.000 Personen).",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Verticals: Mit welchen Argumenten sich Briefings fürs Werbegeschäft in Position bringen",
+          "link": "https://www.horizont.net/medien/nachrichten/verticals-mit-welchen-argumenten-sich-briefings-fuers-werbegeschaeft-in-position-bringen-233512?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Newsletter-Verticals von Leitmedien gewinnen bei Premium-Zielgruppen zunehmend an Reichweite, während sich große Werbetreibende noch zurückhaltend verhalten. Ein Publisher verlässt nun die defensive Haltung und positioniert sich aktiver im Werbegeschäft. Die Entwicklung könnte dem Segment der Leitmedien neuen Schwung verleihen.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "&quot;Tiefgreifender Strukturwandel&quot;: Umbau und Stellenabbau beim Zeitschriftenvermarkter BCN",
-          "link": "https://www.horizont.net/medien/nachrichten/tiefgreifender-strukturwandel-umbau-und-stellenabbau-beim-zeitschriftenvermarkter-bcn-233475?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der Zeitschriftenvermarkter BCN vollzieht einen strategischen Umbau von klassischer zu Tech-orientierter Vermarktung und baut dabei rund zehn Prozent seiner Stellen ab. Die Geschäftsführung begründet die Maßnahme als unvermeidlich für die künftige Wettbewerbsfähigkeit des größten deutschen Zeitschriftenmarken-Vermarkters.",
+          "title": "Bilanz 2025: Zeit Verlag kann im Kerngeschäft weiter wachsen",
+          "link": "https://www.horizont.net/medien/nachrichten/bilanz-2025-zeit-verlag-kann-im-kerngeschaeft-weiter-wachsen-233476?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Zeit Verlagsgruppe verzeichnet 2025 ein moderates Umsatzwachstum, getragen primär durch Erfolge im Kerngeschäft. Während die traditionellen Geschäftsbereiche weiter expandieren konnten, zeigen die neuen Geschäftsfelder schwächere Performance. Insgesamt resultiert daraus ein geringes, aber positives Wachstum für den Verlag.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "RTL-Castingshow: Neue DSDS-Staffel startet am Karsamstag",
+          "link": "https://www.horizont.net/medien/nachrichten/rtl-castingshow-neue-dsds-staffel-startet-am-karsamstag-233470?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "RTL startet die neue Staffel von \"Deutschland sucht den Superstar\" am Karsamstag, dem 4. April 2026 um 20:15 Uhr. Die Castingshow kehrt mit zehn neuen Folgen auf die Bildschirme zurück, wie der Sender und die Produktion über Instagram bekannt gaben.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Rheinische Post schluckt Westfälische Nachrichten und Westfalen-Blatt Die Rheinische Post Mediengruppe kauft die Westfälische Medien Holding.",
-          "link": "https://kress.de/news/beitrag/152258-naechster-zeitungs-grossdeal-im-westen-rheinische-post-schluckt-westfaelische-nachrichten-und-westfalen-blatt.html",
-          "summary": "Die Rheinische Post Mediengruppe übernimmt die Westfälische Medien Holding (WMH) inklusive Titeln wie Westfälische Nachrichten und Westfalen-Blatt, vorbehaltlich der Kartellamt-Zustimmung. Mit dem Deal wird die Düsseldorfer Gruppe zur auflagenstärksten Tageszeitungs-Verlagsgruppe in NRW. Die bisherigen Eigentümer Benedikt und Eduard Hüffer begründen den Verkauf mit fehlenden Skalierungsmöglichkeiten der mittelständischen Struktur im lokalen Zeitungsmarkt.",
+          "title": "Stellenabbau bei Werbevermarkter BCN Der Vermarkter BCN",
+          "link": "https://kress.de/news/beitrag/152293-stellenabbau-bei-werbevermarkter-bcn.html",
+          "summary": "BCN, die gemeinsame Vermarktungsorganisation von Hubert Burda Media, Funke Mediengruppe und Mediengruppe Klambt, reorganisiert sich aufgrund sinkender Werbebudgets in klassischen Medien und baut Stellen ab. Der Vermarkter will künftig stärker auf datengetriebene und automatisierte Vermarktung setzen, strukturiert sich entlang vier zentraler Servicebereiche und baut seine Automatisierungsplattform \"Smart Stack\" aus. Mit dem Betriebsrat werden derzeit Gespräche über einen Sozialplan geführt.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "ZDF-Streit nach KI-Leak eskaliert",
-          "link": "https://kress.de/news/beitrag/152255-du-bist-ein-nuetzlicher-idiot-zdf-streit-nach-ki-leak-eskaliert.html",
-          "summary": "Nach der KI-Affäre im ZDF \"heute journal\" eskaliert ein interner Streit, nachdem ein unbekannter Mitarbeiter heimlich eine Krisensitzung filmte und das Material an das rechtspopulistische Portal \"Nius\" weitergab. Personalratsmitglied Hubert Krech verurteilte den anonymen \"Denunzianten\" scharf als \"nützlichen Idioten\" und erhielt dafür Rekord-Zustimmung von fast 600 ZDF-Mitarbeitern im Intranet. Der Leak zeigt die angespannte Stimmung im Sender und wirft Fragen zum Umgang mit internen Krisen und Vertrauen unter den Mitarbeitern auf.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Zeit Verlagsgruppe wächst im Kerngeschäft",
+          "title": "Zeit Verlagsgruppe wächst im Kerngeschäft Die Zeit Verlagsgruppe, die seit Februar von Nils von der...",
           "link": "https://kress.de/news/beitrag/152257-zeit-verlagsgruppe-waechst-im-kerngeschaeft.html",
-          "summary": "Die Zeit Verlagsgruppe erzielte 2025 einen Gesamtumsatz von 309,7 Millionen Euro (+1,2% zum Vorjahr), wobei das Kerngeschäft um Die Zeit-Wochenzeitung mit 3,2% Wachstum deutlich zulegte, getrieben durch den Ausbau der Digital-Abonnements bei stabilen Print-Erlösen. Rückläufig entwickelten sich hingegen neue Geschäftsfelder (-1,9%) und Beteiligungen (-2,8%). Anfang Februar übernahm Nils von der Kall als neuer CEO die operative Führung von Rainer Esser, der nach 27 Jahren an der Spitze in eine beratende Rolle wechselte.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Felix Disselhoff baut bei Funke neuen Vertical Hub auf Die Funke Mediengruppe bündelt Produkttests,...",
-          "link": "https://kress.de/news/beitrag/152256-felix-disselhoff-baut-bei-funke-neuen-vertical-hub-auf.html",
-          "summary": "Die Funke Mediengruppe gründet einen neuen \"Vertical Hub\" unter Leitung von Felix Disselhoff (ehemals Bauer, Computer Bild), der die Testmarke IMTEST mit den Service- und Commerce-Inhalten der Regionalportale wie waz.de und morgenpost.de verzahnt. Die neue crossmediale Redaktionseinheit soll monatlich bis zu fünf Millionen Menschen mit Produkttests, Ratgebern und Kaufberatung in den Bereichen Technik, Finanzen, Gesundheit und Reisen erreichen. Ziel ist die Bündelung der journalistischen Test-Expertise von IMTEST mit der digitalen Reichweite der Funke-Regionalmarken.",
-          "score": 7
+          "summary": "Die Zeit Verlagsgruppe erzielte 2025 einen Gesamtumsatz von 309,7 Millionen Euro (+1,2%), wobei das Kerngeschäft um die Wochenzeitung um 3,2% wuchs, getrieben durch den Ausbau der Digital-Abonnements bei stabilen Print-Erlösen. Im Februar übernahm Nils von der Kall als neuer CEO die operative Führung von Rainer Esser, der nach 27 Jahren an der Spitze in eine Beratungsrolle wechselte. Schwächer entwickelten sich neue Geschäftsfelder (-1,9%) und Beteiligungen (-2,8%), hauptsächlich aufgrund geringerer E-Commerce-Erlöse.",
+          "score": 9
         },
         {
           "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts \"Die Höhle der Löwen\" steigert sich zum Prime-Time-Sieg In den...",
-          "link": "https://meedia.de/news/beitrag/21301-quot-die-hoehle-der-loewen-quot-steigert-sich-zum-prime-time-sieg.html",
-          "summary": "\"Die Höhle der Löwen\" (VOX) erreichte mit einem neuen Staffel-Bestwert erstmals den Prime-Time-Sieg in der Zielgruppe 14-49 Jahre. Im Gesamtpublikum führte jedoch der ZDF-Thriller \"Im Schatten der Angst: Der Skorpion\" mit 4,96 Millionen Zuschauern und 21,3% Marktanteil. Die ARD-Naturdoku \"Die geheime Welt der Tiere\" erzielte ebenfalls starke Werte in der jungen Zielgruppe.",
-          "score": 8
+          "title": "Video Daily: TV-Quoten & Streaming-Charts \"Behringer und die Toten\" kommt den ARD-Serien mit Marktanteils-Rekord gefährlich nahe Die RTL-Reihe “Behringer und die Toten",
+          "link": "https://meedia.de/news/beitrag/21311-quot-behringer-und-die-toten-quot-kommt-den-ard-serien-mit-marktanteils-rekord-gefaehrlich-nahe.html",
+          "summary": "RTLs \"Behringer und die Toten - Ein Bamberg-Krimi\" erreichte am Dienstagabend mit 3,02 Millionen Zuschauern einen neuen Rekord-Marktanteil von 14,4 Prozent und kam damit den ARD-Serien \"Die Notärztin\" (13,8%) und \"In aller Freundschaft\" (15,7%) gefährlich nahe. Das ZDF landete mit seinen Info-Formaten \"Die Trump-Connection\" und \"frontal\" knapp unter der 10-Prozent-Marke, während bei den 14-49-Jährigen \"TV total\" die Prime Time gewann.",
+          "score": 9
         },
         {
           "source": "meedia",
-          "title": "Podcast-Plattform sichert sich eigenes Studio \"Investieren stark und gezielt\": Wie rasant Podimo in Deutschland wachsen möchte Podimo, Europas führende Podcast-Plattform, übernimmt aktuell den Produzenten Arc Studio, eines der am schnellsten wachsenden Podcast-Labels in Deutschland (\"Girls Girls\", “Kaffee mit Zitrone”, “Des Isses”). Morten Strunge, dänischer Gründer und CEO von Podimo, erklärt im exklusiven MEEDIA-Interview seine Vermarktungsstrategie, wie sich konkret die Doppelstrategie aus Abos und Werbefinanzierung entwickelt",
-          "link": "https://meedia.de/news/beitrag/21300-quot-investieren-stark-und-gezielt-quot-wie-rasant-podimo-in-deutschland-wachsen-moechte.html",
-          "summary": "Die europäische Podcast-Plattform Podimo übernimmt den deutschen Produzenten Arc Studio (bekannt für \"Girls Girls\", \"Kaffee mit Zitrone\", \"Des Isses\"), um ihr Wachstum in Deutschland zu beschleunigen. CEO Morten Strunge verfolgt eine Doppelstrategie aus Abo- und Werbefinanzierung und plant verstärkte Investitionen in Content-Produktion. Die bisherigen Arc Studio-Geschäftsführer bleiben nach der Übernahme an Bord und gestalten die weitere strategische Ausrichtung mit.",
+          "title": "Interview über die Zukunft von Native Advertising Dennis Beivers: „Native funktioniert nicht über Lautstärke, sondern über Vertrauen“ Native Advertising gilt in Deutschland vielen als Low-Funnel-Format. Im Gespräch mit MEEDIA erklärt Dennis Beivers von Readpeak, warum diese Sicht zu kurz greift, weshalb Native in den Nordics ganz anders eingesetzt wird",
+          "link": "https://meedia.de/news/beitrag/21310-dennis-beivers-native-funktioniert-nicht-ueber-lautstaerke-sondern-ueber-vertrauen.html",
+          "summary": "Dennis Beivers von Readpeak kritisiert die deutsche Einordnung von Native Advertising als reines Low-Funnel-Format und argumentiert, dass das Format über Vertrauen statt Lautstärke funktioniert. Er verweist auf erfolgreiche Anwendungen in den nordischen Ländern und sieht durch KI-gestützte Aussteuerung und besseres Kontextverständnis wachsendes Potenzial für Native Advertising jenseits der Performance-KPI-Fokussierung. Als Beispiel führt er eine Audible-Kampagne an, die die Bedeutung von Kontext und Qualität für die Wirksamkeit des Formats demonstriert.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Etatvolumen von mehreren Hundert Millionen Euro L’Oréal pitcht um seinen von WPP Media betreuten...",
-          "link": "https://meedia.de/news/beitrag/21295-l-oreal-pitcht-um-seinen-von-wpp-media-betreuten-mega-mediaetat-in-dach-region.html",
-          "summary": "L'Oréal führt einen Agenturwettbewerb um seinen mehrere Hundert Millionen Euro schweren Mediaetat für die DACH-Region durch. Der französische Kosmetikkonzern stellt damit das Mandat der WPP-Agentur Wavemaker in Frage, die seit 2021 den Mediaeinkauf und -planung für Marken wie L'Oréal Paris, Garnier, Maybelline und Lancôme betreut. L'Oréal bestätigte den Pitch auf Anfrage.",
+          "title": "Studie von Adobe So funktioniert TikTok als Suchmaschine Immer mehr Menschen nutzen TikTok nicht nur zur Unterhaltung, sondern auch zur Informationssuche. Eine Studie von Adobe zeigt, dass besonders jüngere Nutzer das Kurzvideo-Netzwerk zunehmend wie eine Suchmaschine verwenden",
+          "link": "https://meedia.de/news/beitrag/21306-so-funktioniert-tiktok-als-suchmaschine.html",
+          "summary": "Eine Adobe-Studie zeigt, dass über 40% der US-Amerikaner TikTok bereits als Suchmaschine nutzen, wobei dieser Trend besonders stark bei Gen Z (64%) und Millennials (49%) ausgeprägt ist. Die Plattform entwickelt sich damit von einem reinen Entertainment-Medium zu einem relevanten Kanal für Informationssuche und Performance-Marketing. Dies erfordert eine Anpassung der Marketing- und Content-Strategien, da sich die Customer Journey jüngerer Zielgruppen fundamental verändert.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Mediaagenturen Darum wechselt Uwe Roschmann von Omnicom zu Mediaplus Nach der IPG-Übernahme hat sich Omnicom einem verschärften Sparkurs unterworfen",
-          "link": "https://meedia.de/news/beitrag/21290-darum-wechselt-uwe-roschmann-von-omnicom-zu-mediaplus.html",
-          "summary": "Uwe Roschmann wechselt von Omnicom Media Germany zu Mediaplus, wo er als Geschäftsführer von Mediaplus International die globale Expansion vorantreiben wird. Der Wechsel erfolgt im Zuge mehrerer Personalabgänge bei Omnicom Deutschland, die auf den verschärften Sparkurs nach der IPG-Übernahme zurückzuführen sind. Roschmann bringt umfangreiche Erfahrung aus vorherigen Führungspositionen bei Omnicom und Publicis mit, wo er internationale Projekte und digitale Transformationen leitete.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Personalie bei Dentsu Werner aus den Erlen wird President von Amplifi für Deutschland und...",
-          "link": "https://meedia.de/news/beitrag/21284-werner-aus-den-erlen-wird-president-von-amplifi-fuer-deutschland-und-zentraleuropa.html",
-          "summary": "Werner aus den Erlen übernimmt zum 1. März die Position des President Amplifi für Deutschland und Zentraleuropa bei Dentsu und verantwortet die Einführung des neuen globalen Amplifi-Geschäftsmodells in der Region. Das integrierte Media-Ökosystem verbindet Media Investments, Partnerschaften, Daten, Technologie, Content und Kreation mit dem Ziel, Media-Investitionen transparenter, effizienter und performanceorientierter zu gestalten. Mit dieser strategischen Neuausrichtung will Dentsu seine Position im Media-Investment-Geschäft stärken und Amplifi als Wachstumstreiber für skalierbarere und innovationsgetriebene Media-Budget-Orchestrierung etablieren.",
+          "title": "Nachfolge für Kirsten Latour Klosterfraus neue Head of Media kommt aus den eigenen Reihen Kürzlich...",
+          "link": "https://meedia.de/news/beitrag/21308-klosterfraus-neue-head-of-media-kommt-aus-den-eigenen-reihen.html",
+          "summary": "Stefanie Peffer übernimmt zum 15. Februar die Position als Head of Media bei der Klosterfrau Healthcare Group und folgt damit auf Kirsten Latour, die intern zur \"Leiterin Nachhaltigkeit und Gesundheitspolitik\" wechselte. Die seit 2016 im Mediabereich des Kölner Pharmaunternehmens tätige Peffer verantwortet künftig die operative Planung und Umsetzung der Mediaaktivitäten für die Divisionen Pharma und Retail sowie die Steuerung externer Agenturen und Partner.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Ex-Hello-Fresh-Marketer Marcus von Franck wird neuer CMO von Otto Der Hamburger Online-Händler Otto komplettiert seinen Bereichsvorstand mit einem prominenten Neuzugang: Ab Juni 2026 übernimmt Marcus von Franck die neu besetzte Rolle des Chief Marketing Officer. Von Franck verantwortet künftig die Business Units Advertising Services, Marketing und Product Development",
-          "link": "https://meedia.de/news/beitrag/21275-marcus-von-franck-wird-neuer-cmo-von-otto.html",
-          "summary": "Marcus von Franck, ehemaliger CMO der HelloFresh Group und langjähriger Amazon-Manager, übernimmt ab Juni 2026 die neu geschaffene Position des Chief Marketing Officer bei Otto. In seiner neuen Rolle wird er die Business Units Advertising Services, Marketing und Product Development verantworten und zentrale Wachstumshebel für die Plattform-Entwicklung steuern. Die Personalentscheidung unterstreicht Ottos Fokus auf datengetriebenes Marketing mit internationaler Expertise im E-Commerce-Bereich.",
+          "title": "„Wir führen derzeit Chemistry-Gespräche mit mehreren Mediaagenturen“, heißt es auf Anfrage vom Unternehmen Aviv Germany, das das Portal betreibt.",
+          "link": "https://meedia.de/news/beitrag/21307-springer-tochter-immowelt-ueberprueft-ihre-mediaagentur.html",
+          "summary": "Das Immobilienportal immowelt (Aviv Germany/Axel Springer) führt derzeit Chemistry-Gespräche mit mehreren Mediaagenturen und will bis Ende März eine finale Entscheidung treffen. Die Agentur-Überprüfung erfolgt im Rahmen einer Neustrukturierung des Unternehmens, bei der auch die Ein-Marken-Strategie durchgesetzt wird und immonet vollständig in immowelt aufgeht. Für große Kampagnen war zuletzt Wavemaker als Mediaagentur tätig.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "\"Konsequenter Ausbau digitaler und damit crossmedialer Services\" \"Stellenabbau unvermeidbar\":...",
-          "link": "https://meedia.de/news/beitrag/21296-quot-stellenabbau-unvermeidbar-quot-vermarkter-bcn-richtet-strukturen-neu-aus.html",
-          "summary": "BCN, der gemeinsame Vermarkter von Hubert Burda Media, Funke Mediengruppe und Mediengruppe Klambt, strukturiert sich aufgrund veränderter Marktbedingungen und des anhaltenden Rückgangs im Printanzeigenmarkt um. Das Unternehmen baut seine digitalen und crossmedialen Services aus und begründet einen damit verbundenen Stellenabbau als \"unvermeidbar\" für die zukünftige Handlungsfähigkeit. Hintergrund ist der Strukturwandel im Werbemarkt mit verschärftem Preisdruck und der Verlagerung von Werbebudgets zu algorithmisch gesteuerten Social Media-Plattformen.",
+          "title": "Verve präsentiert neues Targeting-Kriterium Die Chat-Absicht als Werbeanlass Das Rennen um die...",
+          "link": "https://meedia.de/news/beitrag/21299-die-chat-absicht-als-werbeanlass.html",
+          "summary": "Die Verve Group hat als erstes AdTech-Unternehmen ein Targeting-Kriterium entwickelt, das Intent-Signale direkt aus KI-Chat-Dialogen von Plattformen wie ChatGPT, Gemini und Perplexity ableitet. Dies reagiert auf das veränderte Nutzerverhalten, bei dem Verbraucher zunehmend KI-Plattformen statt klassische Suchmaschinen für Recherchen nutzen. Der Schritt verschärft den Wettbewerb um KI-Werbung, nachdem bereits The Trade Desk programmatische ChatGPT-Schnittstellen und Criteo kaufdatenbasierte KI-Empfehlungen eingeführt haben.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Creator und Community McDonald's vergibt Influencer-Etat an We Are Era McDonald's Deutschland hat die RTL-Tochter We Are Era an Bord geholt, um mit deren Hilfe sein Creator- und Community-Marketing neu aufstellen. We are Era aus Berlin setzte sich in einem mehrstufigen Pitch durch",
+          "link": "https://meedia.de/news/beitrag/21309-mcdonald-039-s-vergibt-influencer-etat-an-we-are-era.html",
+          "summary": "McDonald's Deutschland hat die RTL-Tochter We Are Era als neue Agentur für Creator- und Community-Marketing beauftragt, nachdem sich diese in einem mehrstufigen Pitch durchsetzte. We Are Era übernimmt alle nationalen Creator-Marketing-Aktivitäten sowie die strategische Weiterentwicklung des Corporate-Influencer-Programms mit einem Ansatz, der Influencer-Marketing als kulturelle Verbindung statt als reines Reichweiteninstrument versteht. Die Agentur positioniert sich als \"Belonging-Experte\" und will nach dem \"Share-the-Pen-Prinzip\" Content-Creator als kulturelle Übersetzer zwischen Marke und Community einsetzen.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "\"Brauchtum neu erzählt\" BR wildert mit \"Maibaum Hunters\"-Reihe im Reality-TV-Revier Eigentlich sind Action- und Krawall-lastige Formatideen, in denen schnell mal zwischenmenschliche Emotionen hochbrodeln, ja eine Domäne der Privatsender. Der Bayerische Rundfunk interessiert sich zunehmend auch dafür: Mit der Reality-Reihe “Maibaum Hunters” schickt die ARD-Anstalt Streaming-tauglichen Nervenkitzel rund um bayerisches Brauchtum in die Social-Media-Welt",
+          "link": "https://meedia.de/news/beitrag/21305-br-wildert-mit-quot-maibaum-hunters-quot-reihe-im-reality-tv-revier.html",
+          "summary": "Der Bayerische Rundfunk erweitert sein Portfolio um Reality-TV mit der Serie \"Maibaum Hunters\", die das traditionelle bayerische Brauchtum des Maibaumklaus in ein Social-Media-taugliches Wettkampfformat übersetzt. Produziert von Endemol Shine Germany, treten drei Teams mit Creator-Protagonisten in Tracht über mehrere Tage gegeneinander an, um sich gegenseitig die Maibäume zu stehlen. Die fünf Folgen erscheinen ab 17. April 2026 in der ARD Mediathek und markieren den Vorstoß des öffentlich-rechtlichen Senders in das traditionell privatwirtschaftlich dominierte Reality-TV-Segment.",
+          "score": 9
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Judge rules Kari Lake unlawfully ran US media agency, voiding mass layoffs",
+          "link": "https://www.theguardian.com/us-news/2026/mar/08/kari-lake-us-media-agency-voice-of-america",
+          "summary": "Ein Bundesrichter entschied, dass Kari Lakes Führung der US Agency for Global Media unrechtmäßig war, da sie ohne Senatsbestätigung ernannt wurde und weder verfassungsrechtliche noch gesetzliche Anforderungen erfüllte. Das Urteil macht über 1.000 Entlassungen und andere Maßnahmen rückgängig, die Lake zwischen Juli und November in ihrer Rolle als Leiterin der Mutterorganisation von Voice of America durchführte. Der Richter stützte sich auf die Appointments Clause und den Vacancies Act, um zu begründen, dass Lake nicht berechtigt war, als principal officer zu fungieren.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Podimo Builds Out European Podcast Empire With Deal For Germany’s Arc.Studio & Hires Of Ex-Netflix, Google & BBC Execs",
-          "link": "https://deadline.com/2026/03/podimo-buys-arcstudio-hires-netflix-bbc-google-execs-1236744567/",
-          "summary": "Podimo expandiert sein europäisches Podcast-Imperium durch die Übernahme des deutschen Studios Arc.Studio für einen nicht genannten Betrag und verstärkt sein Führungsteam mit hochkarätigen Ex-Managern von Netflix, BBC, Google und Disney. Das Kopenhagener Unternehmen produziert bereits über 700 Episoden monatlich mit Fokus auf videobasierte Inhalte und erwartet für dieses Jahr ein Wachstum von 50%. Arc.Studio wird in Podimo Studios integriert und ergänzt das Portfolio um etablierte deutschsprachige Formate wie \"Girls Girls\" und \"Kaffee mit Zitrone\".",
+          "title": "Canal+ Results: French Powerhouse Unveils Google AI Deal & Sky English-Language Drama Pact",
+          "link": "https://deadline.com/2026/03/canal-plus-results-google-ai-deal-sky-english-drama-pact-1236749806/",
+          "summary": "Canal+ hat wegweisende mehrjährige Partnerschaften mit Google Cloud und OpenAI abgeschlossen, um seine Content-Bibliothek mittels KI zu indexieren und personalisierte Empfehlungen zu verbessern, wobei auch Googles neue genAI-Videotechnologie Veo3 zum Einsatz kommt. Zusätzlich ging der französische Medienkonzern eine Kooperation mit Sky für englischsprachige Dramainhalte ein. Diese strategischen Deals wurden im Rahmen der ersten vollständigen Jahresergebnisse seit dem Börsengang an der Londoner Börse bekannt gegeben.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "‘At Home With The Furys’ Set To Be Renewed Ahead Of Season 2 Premiere On Netflix",
+          "link": "https://deadline.com/2026/03/at-home-with-the-furys-renewed-season-3-netflix-1236749813/",
+          "summary": "Netflix verlängert die Reality-Serie \"At Home With the Furys\" um eine dritte Staffel, noch bevor die zweite Staffel nächsten Monat Premiere feiert. Die erste Staffel war 2023 eine der meistgesehenen Shows in Großbritannien mit 2,6 Millionen Zuschauern für die Auftaktfolge. Die zweite Staffel wird zeitgleich mit Netflix' Live-Übertragung von Tyson Furys Boxkampf gegen Arslanbek Makhmudov am 11. April ausgestrahlt.",
           "score": 9
         },
         {
           "source": "Deadline",
-          "title": "‘Somebody Feed Phil’ Moving To YouTube In 2027 As Phil Rosenthal Inks Strategic Global Deal With Banijay",
-          "link": "https://deadline.com/2026/03/somebody-feed-phil-moving-youtube-2027-1236748360/",
-          "summary": "Phil Rosenthal, Schöpfer von \"Everybody Loves Raymond\" und \"Somebody Feed Phil\", hat eine strategische Partnerschaft mit Banijay Americas geschlossen, um seine Marke digital zu erweitern. Ab 2027 wird \"Somebody Feed Phil\" nicht-exklusiv auf einen neuen YouTube-Kanal wechseln, während die bisherigen acht Staffeln bei Netflix verfügbar bleiben. Dies stellt eine bemerkenswerte Umkehrung des typischen Trends dar, bei dem Premium-Inhalte von YouTube zu traditionellen Streamingdiensten wechseln.",
+          "title": "NFL Stars Jarvis Landry & Leonard Fournette Launch Podcast ‘4th And South’",
+          "link": "https://deadline.com/2026/03/jarvis-landry-leonard-fournette-new-podcast-4th-and-south-1236749387/",
+          "summary": "Die ehemaligen NFL-Stars und LSU-Teamkollegen Leonard Fournette und Jarvis Landry starten am 11. März in Partnerschaft mit The Volume den Podcast \"4th And South\". Der Podcast soll authentische Einblicke in das Football-Leben bieten, von Locker-Room-Geschichten bis hin zu Themen wie Vaterschaft, mentale Gesundheit und Business. Beide Spieler wollen ihre gemeinsamen Erfahrungen von der College- bis zur NFL-Zeit nutzen, um Fans unzensierte Geschichten und Lektionen aus ihrer Karriere zu vermitteln.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Hong Kong International Film Festival To Open With Anthony Chen’s ‘We Are All Strangers’, Close With Philip Yung’s ‘Cyclone’",
+          "link": "https://deadline.com/2026/03/hong-kong-international-film-festival-anthony-chen-1236749701/",
+          "summary": "Das 50. Hong Kong International Film Festival (1.-12. April) wird mit Anthony Chens \"We Are All Strangers\" (dritter Teil seiner Singapore-Trilogie, Berlinale-Weltpremiere) eröffnet und mit Philip Yungs \"Cyclone\" (Rotterdam-Premiere) geschlossen. Das Festival präsentiert 215 Filme aus 71 Ländern mit 11 Weltpremieren und ehrt Jia Zhangke als \"Filmmaker in Focus\", während hochkarätige Gäste wie Juliette Binoche, Chen Kaige und Tsai Ming-Liang erwartet werden. Zum Jubiläum gibt es drei Konzertaufführungen von \"In the Mood for Love\" mit dem Hong Kong Philharmonic Orchestra sowie eine kostenlose Ausstellung mit Archivmaterialien.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Hoppers’ Hopping To $27M In Weekend 2; Colleen Hoover Returns To Big Screen With ‘Reminders Of Him’ – Box Office Preview",
+          "link": "https://deadline.com/2026/03/reminders-of-him-hoppers-box-office-weekend-1236749551/",
+          "summary": "Disney's \"Hoppers\" wird voraussichtlich mit etwa 27 Millionen Dollar sein zweites Wochenende dominieren (-40% Rückgang), nachdem der Pixar-Film den besten Start eines Pixar-Originals seit 2017 hinlegte. Universal bringt mit \"Reminders of Him\" die dritte Colleen Hoover-Verfilmung ins Kino, die an 3.400 Standorten zwischen 10-15 Millionen Dollar einspielen soll. Der Film folgt auf die erfolgreichen Hoover-Adaptionen \"It Ends With Us\" (351,4 Mio. $) und \"Regretting You\" (48,8 Mio. $) und zielt primär auf weibliche Zuschauer zwischen 18-34 Jahren ab.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "‘War Machine’ Breaks Through On Netflix As Dino-Content Takes Over Streamer From New Spielberg Docuseries ‘The Dinosaurs’ To Jurassic World Franchise",
+          "link": "https://deadline.com/2026/03/war-machine-premiere-netflix-ratings-the-dinosaurs-1236749077/",
+          "summary": "Netflix verzeichnete eine starke Woche mit dem Durchbruch von \"War Machine\" mit Alan Ritchson und Dennis Quaid sowie anhaltend hohen Zahlen für etablierte Serien. \"Bridgerton\" Staffel 4 führte weiterhin die TV-Charts mit 13,1M Views an, während \"The Night Agent\" Staffel 3 mit 5,2M Views auf Platz 3 landete und nach schwächerem Start wieder Momentum aufbaute. Dinosaurier-Content dominierte zusätzlich die Plattform, angeführt von Spielbergs neuer Dokumentarserie \"The Dinosaurs\" und Jurassic World-Inhalten.",
           "score": 9
         },
         {
           "source": "Hollywood Reporter",
-          "title": "‘Somebody Feed Phil’ Moving to YouTube From Netflix in 2027",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/somebody-feed-phil-moving-to-youtube-1236525778/",
-          "summary": "Phil Rosenthals kulinarische Reiseshow \"Somebody Feed Phil\" wechselt nach acht Staffeln auf Netflix ab 2027 zu YouTube, wo neue Episoden auf einem eigenen \"Phil Rosenthal World\"-Kanal debütieren werden. Der Wechsel ist Teil eines umfassenderen Deals zwischen Rosenthal, seiner Produktionsfirma Lucky Bastards und Banijay Americas/Banijay Rights zur Expansion auf digitale Plattformen. Die Show wird nicht exklusiv auf YouTube sein, wodurch Banijay weitere Vertriebsmöglichkeiten für FAST- und AVOD-Services nutzen kann, während frühere Staffeln weiterhin auf Netflix verfügbar bleiben.",
+          "title": "Hong Kong Film Festival to Open With Anthony Chen’s ‘We Are All Strangers,’ Close With Philip Yung’s ‘Cyclone’",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/hong-kong-film-festival-anthony-chen-we-are-all-strangers-philip-yungs-cyclone-1236527228/",
+          "summary": "Das Hong Kong International Film Festival feiert sein 50-jähriges Jubiläum mit Anthony Chens \"We Are All Strangers\" als Eröffnungsfilm und Philip Yungs \"Cyclone\" als Abschlussfilm, beide als Asien-Premieren von zwei der vielversprechendsten Nachwuchsregisseure der Region. Chens Drama, das den Abschluss seiner Singapur-Trilogie bildet und bereits erfolgreich in Berlin lief, behandelt Fragen von Familie und Identität, während Yungs in Rotterdam uraufgeführter Film transgender Identität und soziale Marginalisierung thematisiert. Das Festival vom 1.-12. April präsentiert insgesamt 215 Filme aus 71 Ländern mit 11 Weltpremieren und einer Retrospektive zu Jia Zhangke.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Canal+ Unveils Sky English-Language Drama Partnership, OpenAI and Google Cloud AI Deals",
+          "link": "https://www.hollywoodreporter.com/business/business-news/canal-plus-sky-english-drama-openai-google-cloud-ai-deals-1236527214/",
+          "summary": "Canal+ kündigte eine strategische Partnerschaft mit Sky für englischsprachige Drama-Produktionen sowie zwei bedeutende KI-Partnerschaften mit OpenAI und Google Cloud an, die ab Juni die Content-Suche und -Discovery in der Canal+ App revolutionieren sollen. Das Unternehmen fokussiert sich auf Profitabilitätssteigerung in Europa und den Turnaround der kürzlich erworbenen afrikanischen Pay-TV-Plattform MultiChoice, nachdem der Streamer Showmax eingestellt wurde. Die KI-Technologien sollen personalisierte Nutzererfahrungen und beschleunigte Video-Indexierung in europäischen und afrikanischen Märkten ermöglichen.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Writer Guild’s Top Negotiators Are Willing to Play Hardball This Time, Too",
+          "link": "https://www.hollywoodreporter.com/business/business-news/writer-guild-2026-negotiators-interview-studios-pay-up-1236526949/",
+          "summary": "Die Writers Guild of America (WGA) zeigt sich vor den anstehenden Vertragsverhandlungen mit der AMPTP kampfbereit und macht deutlich, dass sie trotz einer schrumpfenden Branche und internen Herausforderungen nicht von ihren Forderungen abrücken wird. Oberste Priorität der Gewerkschaft ist die Sanierung des defizitären Gesundheitsplans, für den \"erhebliche Geldbeträge\" von den Studios gefordert werden sollen. Die Verhandlungen beginnen am Montag, kurz vor Ablauf des aktuellen Vertrags am 1. Mai.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "David Zaslav Gets the Last Laugh",
+          "link": "https://www.hollywoodreporter.com/lists/inside-the-ellison-empire-what-they-own/",
+          "summary": "David Ellison (Paramount) und David Zaslav (Warner Bros. Discovery) vollziehen nach ihrem $111-Milliarden-Megamerger eine neue Machtkonzentration in Hollywood, wobei Ellison von einer $4,75-Milliarden-Skydance-Bewertung zu einem über $120-Milliarden-Medienimperium aufsteigt. Zaslav, dessen Unternehmenswert sich mehr als verdreifacht hat, wird mit Aktien im Wert von knapp $800 Millionen aussteigen, während die Fusion mit geplanten $6-Milliarden-Synergien massive Stellenstreichungen bei der Belegschaft zur Folge haben wird. Die Transaktion exemplifiziert den Trend zunehmender Marktkonzentration, bei dem die Führungsebene profitiert, während tausende Arbeitsplätze gefährdet sind.",
+          "score": 10
+        },
+        {
+          "source": "Variety",
+          "title": "Sourav Ganguly to Host Revived ‘Bigg Boss Bangla’ After 10-Year Hiatus – Global Bulletin",
+          "link": "https://variety.com/2026/tv/news/sourav-ganguly-bigg-boss-bangla-1236684364/",
+          "summary": "EndemolShine India bringt \"Bigg Boss Bangla\" nach zehnjähriger Pause auf JioStars Star Jalsha zurück, wobei Cricket-Legende Sourav Ganguly als Moderator fungiert. Die Wiederbelebung erweitert das \"Bigg Boss\"-Portfolio von Banijay Entertainment in Indien auf sieben Sprachen, nachdem die Hindi-Version zuletzt zur meistgesehenen Non-Fiction-Streaming-Show des Landes wurde. Das Format basiert auf Banijay Entertainments globalem \"Big Brother\"-Konzept, das mittlerweile 70 Adaptionen in 27 Ländern umfasst.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Anthony Chen’s ‘We Are All Strangers,’ Philip Yung’s ‘Cyclone’ to Bookend 50th Hong Kong Film Festival",
+          "link": "https://variety.com/2026/film/festivals/anthony-chen-we-are-all-strangers-hong-kong-film-festival-1236684351/",
+          "summary": "Das 50. Hong Kong International Film Festival (1.-12. April) wird mit Anthony Chens \"We Are All Strangers\" eröffnet und mit Philip Yungs \"Cyclone\" geschlossen, wobei beide Filme ihre Asien-Premieren feiern. Das Festival präsentiert 215 Filme aus 71 Ländern mit 11 Weltpremieren und 49 Asien-Premieren. Chens Film komplettiert seine Growing Up-Trilogie und war der erste singapurische Film im Berlinale-Wettbewerb, während Yungs \"Cyclone\" nach der Rotterdam-Weltpremiere Transgender-Identität thematisiert.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "WGA to Seek Payment for AI Training on Scripts as Talks With Studios Set to Begin",
+          "link": "https://variety.com/2026/film/news/wga-ai-training-amptp-talks-1236684012/",
+          "summary": "Die Writers Guild of America (WGA) wird in den anstehenden Verhandlungen mit den Studios eine Vergütung für die Nutzung von Drehbüchern zum Training von KI-Modellen fordern. Während die Alliance of Motion Picture and Television Producers (AMPTP) 2023 jegliche Beschränkungen bei der KI-Nutzung ihrer Scripts ablehnte, beharrt die WGA auf dem Prinzip, dass Autoren für derivative Verwendungen ihrer Werke entschädigt werden müssen. Die Stimmung vor den Gesprächen ist weniger konfrontativ als beim Streik 2023, doch KI bleibt ein zentrales Verhandlungsthema.",
           "score": 9
         }
       ]
