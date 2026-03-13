@@ -1,196 +1,175 @@
 {
   "newsletters": [
     {
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "articles": [
         {
           "source": "DWDL",
-          "title": "\"Was MFE versucht, gibt es bei der RTL Group seit 30 Jahren\"",
-          "link": "https://www.dwdl.de/nachrichten/105812/was_mfe_versucht_gibt_es_bei_der_rtl_group_seit_30_jahren/",
-          "summary": "RTL-CEO Thomas Rabe zeigt sich skeptisch gegenüber MFEs Plänen für einen europäischen Senderverbund bei ProSiebenSat.1, da RTL bereits seit 30 Jahren ein solches Modell betreibt und die Synergien \"relativ begrenzt\" seien. Während MFE auf lineare Sender setzt, fokussiert sich RTL auf die lokale Streaming-Strategie mit RTL+ und der geplanten Sky Deutschland-Übernahme, um gegen US-Streamer wie Netflix zu konkurrieren. Rabe sieht RTL+ mit zweistelligem Abonnentenwachstum gut positioniert, da lokale Inhalte weiterhin stark nachgefragt seien.",
-          "score": 8
+          "title": "RTL+ zeigt neue \"Máxima\"-Staffel ab Anfang April",
+          "link": "https://www.dwdl.de/nachrichten/105819/rtl_zeigt_neue_mximastaffel_ab_anfang_april/",
+          "summary": "RTL+ startet am 2. April die zweite Staffel der niederländischen Royal-Serie \"Máxima\" mit sechs Folgen im wöchentlichen Doppelfolgen-Format, kurz nach der Premiere beim Schwesterdienst Videoland. Die neue Staffel fokussiert auf die Verlobung und Hochzeit von Máxima und Willem-Alexander sowie ihre ersten Jahre als royales Paar unter intensiver medialer Beobachtung. Zusätzlich erweitert RTL+ sein Programm um die zweite Staffel der US-Comedy \"Bookie\" (1. April) und 13 neue Folgen von \"Temptation Island\" (24. März).",
+          "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Von \"Cum Ex\" bis \"Gerry Star\" - und zweiter Grimme-Preis für RTLzwei",
-          "link": "https://www.dwdl.de/nachrichten/105809/von_cum_ex_bis_gerry_star__und_zweiter_grimmepreis_fuer_rtlzwei/",
-          "summary": "RTLzwei erhält nach über 30 Jahren seinen zweiten Grimme-Preis für die True-Crime-Dokumentation \"Hass.Hetze.Hoffnung.\" über den Mord an Li Yángjié. Neben RTLzwei durchbrechen nur Prime Video mit \"Gerry Star\" und AppleTV mit \"Krank Berlin\" (Studierendenjury) die öffentlich-rechtliche Dominanz, während das ZDF besonders erfolgreich abschnitt mit Auszeichnungen für \"Die Affäre Cum-Ex\", \"Tschappel\" und zwei Unterhaltungspreise. Weitere Preisträger sind unter anderem Golineh Atai für besondere journalistische Leistung und verschiedene ARD-Produktionen.",
-          "score": 8
+          "title": "Sky bringt fünf neue Timeshift-Sender an den Start",
+          "link": "https://www.dwdl.de/nachrichten/105818/sky_bringt_fuenf_neue_timeshiftsender_an_den_start/",
+          "summary": "Sky startet ab dem 24. März fünf neue Timeshift-Ableger seiner Cinema-Sender (Premiere, Action, Highlights, Family, Classics), die das Programm jeweils um 24 Stunden zeitversetzt über IPTV wiederholen. Gleichzeitig wird der bisherige Sky Replay-Sender eingestellt, der Serien in Marathon-Programmierungen zeigte und nicht mehr den aktuellen Sehgewohnheiten entspricht. Sky begründet die Expansion mit anhaltender Nachfrage nach kuratierten linearen Filmangeboten, die Zuschauern eine Alternative zur aktiven On-Demand-Suche bieten.",
+          "score": 7
         },
         {
           "source": "DWDL",
-          "title": "RTL-Zahlen: Profitabilität im Streaming ist zum Greifen nah",
-          "link": "https://www.dwdl.de/nachrichten/105807/rtlzahlen_profitabilitaet_im_streaming_ist_zum_greifen_nah/",
-          "summary": "RTL Group erreichte 2025 ihre korrigierten Jahresprognosen mit einem Umsatz von 6,018 Milliarden Euro (-3,8%) und einem Adjusted EBITA von 661 Millionen Euro, während der TV-Werbemarkt weiter um 7% schrumpfte. Digitale Werbeeinnahmen wuchsen zwar um 28%, konnten die TV-Verluste aber nicht kompensieren. Der hohe Nettogewinn von über einer Milliarde Euro resultiert hauptsächlich aus dem Verkauf von RTL Nederland, während operative Sondereffekte durch Restrukturierung und System-Migration belasteten.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Rick and Morty\" gibt's künftig zuerst bei HBO Max",
-          "link": "https://www.dwdl.de/nachrichten/105808/rick_and_morty_gibts_kuenftig_zuerst_bei_hbo_max/",
-          "summary": "HBO Max übernimmt ab der neunten Staffel von \"Rick and Morty\" (Start: 25. Mai) die Deutschland-Premiere von Warner TV Comedy, wodurch neue Folgen künftig primär auf dem Streamingdienst erscheinen. Die Entscheidung spiegelt Warners strategische Fokussierung auf HBO Max wider, während Warner TV Comedy an Bedeutung verliert. Adult Swim verspricht für die neue Staffel \"größere, mutigere und ambitioniertere\" Inhalte als je zuvor.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Pilcher-Tschappel-Bund: FFP und Apollonia produzieren gemeinsam",
-          "link": "https://www.dwdl.de/nachrichten/105804/pilchertschappelbund_ffp_und_apollonia_produzieren_gemeinsam/",
-          "summary": "Die Münchner Produktionsfirma Apollonia Film, die mit ihrer preisgekrönten ZDF-Serie \"Tschappel\" Branchenaufmerksamkeit erlangte, geht eine strategische Partnerschaft mit der etablierten Kölner Firma FFP New Media (\"Rosamunde Pilcher\") ein. Gemeinsam sollen zunächst zwei Projekte für den deutschen TV-Markt entwickelt werden - eine Serie und ein TV-Film. Apollonia erhofft sich dadurch Zugang zu FFPs internationaler Vernetzung und Finanzierungserfahrung für größere Produktionen.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Parship und Flaconi bleiben wohl vorerst bei ProSiebenSat.1",
-          "link": "https://www.dwdl.de/nachrichten/105805/parship_und_flaconi_bleiben_wohl_vorerst_bei_prosiebensat1/",
-          "summary": "MediaForEuropa (MFE) bremst als neuer Mehrheitseigner bei ProSiebenSat.1 den ursprünglich geforderten schnellen Verkauf aller Nicht-Entertainment-Beteiligungen und will die profitablen Töchter ParshipMeet Group und Flaconi vorerst im Konzern behalten. Während andere Digital-Assets wie Jochen Schweizer Mydays und billiger-mietwagen.de weiterhin zum Verkauf stehen, setzt man bei den beiden wertvollsten Beteiligungen auf ein \"behutsames Vorgehen\" zur Wertmaximierung. Angesichts schwächelnder Werbemärkte benötigt ProSiebenSat.1 sowohl die Verkaufserlöse als auch die laufenden Gewinne der verbleibenden Töchter.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "DAfFNE-Preise u.a. für \"Herbstresidenz\" und \"Cassandra\"",
-          "link": "https://www.dwdl.de/nachrichten/105792/daffnepreise_ua_fuer_herbstresidenz_und_cassandra/",
-          "summary": "Die Deutsche Akademie für Fernsehen gab die zweite Tranche der DAfFNE-Preisträger 2026 per Pressemitteilung bekannt, nachdem die geplante Gala-Verleihung entfiel. Zu den Gewinnern zählen das Vox-Format \"Herbstresidenz\" (beste Fernseh-Unterhaltung), \"Systemfehler: Der Cum-Ex-Skandal\" (bester Dokumentarfilm) und Netflix' \"Cassandra\" (VFX/Animation). \"Ein Mann seiner Klasse\" sammelte bereits den zweiten Preis, während über 700 Akademie-Mitglieder in verschiedenen Kategorien von Journalismus bis Kostümbild abstimmten.",
+          "title": "\"Reality Awards\": \"Bild\" steigt groß ein, Joyn und Netflix nicht",
+          "link": "https://www.dwdl.de/nachrichten/105816/reality_awards_bild_steigt_gross_ein_joyn_und_netflix_nicht/",
+          "summary": "RTL veranstaltet am 16. April zum zweiten Mal die \"Reality Awards\" nach einer einjährigen Pause und hat dafür eine umfassende Medienpartnerschaft mit \"Bild\" geschlossen, die das Voting über Bild.de abwickelt und parallel zu RTL+ die Verleihung streamt. \"Bild\"-Show-Chefin Tanja May übernimmt den Jury-Vorsitz, während die Preisverleihung erneut von Sophia Thomalla und Olivia Jones moderiert wird. Die Awards zielen darauf ab, einem bei jungen Zielgruppen beliebten Genre mehr Aufmerksamkeit zu verschaffen, das bei anderen Preisverleihungen unterrepräsentiert ist.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Bilanz: RTL Group steigert Gewinn trotz Umsatzrückgang deutlich",
-          "link": "https://www.horizont.net/medien/nachrichten/bilanz-rtl-group-steigert-gewinn-trotz-umsatzrueckgang-deutlich-233535?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die RTL Group verzeichnete 2023 trotz sinkender TV-Werbeerlöse und Umsatzrückgang einen deutlichen Gewinnanstieg auf 1,03 Milliarden Euro (Vorjahr: 555 Millionen Euro). Der außergewöhnliche Gewinnsprung resultiert primär aus dem Verkauf der Tochtergesellschaft RTL Nederland, während das operative Kerngeschäft schwächelte. Trotz eines als stark bewerteten zweiten Halbjahres konnte die Mediengruppe die strukturellen Herausforderungen im TV-Werbemarkt nicht vollständig kompensieren.",
-          "score": 10
+          "title": "Einstimmig gewählt: ORF bekommt nach Intendanten-Rücktritt weibliche Führungsspitze",
+          "link": "https://www.horizont.net/medien/nachrichten/einstimmig-gewaehlt-orf-bekommt-nach-intendanten-ruecktritt-weibliche-fuehrungsspitze-233556?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der ORF-Stiftungsrat wählte die 63-jährige Journalistin Ingrid Thurnher einstimmig zur geschäftsführenden Intendantin als Nachfolgerin des zurückgetretenen Intendanten. Thurnher übernimmt die Führung des Österreichischen Rundfunks zunächst vorübergehend und etabliert damit eine weibliche Führungsspitze.",
+          "score": 8
         },
         {
           "source": "Horizont Medien",
-          "title": "Interview: RMS-CEO Stefan Mölling: &quot;Wir gewinnen Marktanteile – in einem schrumpfenden Markt&quot;",
-          "link": "https://www.horizont.net/medien/nachrichten/interview-mit-dem-co-ceo-von-rms-stefan-moelling-wir-gewinnen-marktanteile--aber-in-einem-schrumpfenden-markt-233524?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "RMS-CEO Stefan Mölling berichtet, dass das Unternehmen trotz eines schrumpfenden Gesamtmarktes Marktanteile im Audiobereich gewinnt, während sich Audio als stabiler Bestandteil im Mediamix etabliert. Werbungtreibende planen ihre Budgets derzeit vorsichtig, doch RMS profitiert von der anhaltenden Bedeutung von Audio-Werbung. Das Interview behandelt auch die Rolle von KI und neuen Technologien für die Zukunft des Audiomarktes.",
+          "title": "Entscheidung fällt heute: ZDF-Intendant Norbert Himmler stellt sich zur Wiederwahl",
+          "link": "https://www.horizont.net/medien/nachrichten/entscheidung-faellt-heute-zdf-intendant-norbert-himmler-stellt-sich-zur-wiederwahl-233554?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "ZDF-Intendant Norbert Himmler (54) stellt sich heute zur Wiederwahl für eine weitere Amtszeit, dabei tritt er ohne jeden Gegenkandidaten an. Die Entscheidung des 60-köpfigen Fernsehrats in Mainz gilt daher bereits als sicher, da keine Konkurrenz vorhanden ist.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Actionserie: Neue &quot;Cobra 11&quot;-Filme starten zeitgleich bei RTL+ und Disney+",
-          "link": "https://www.horizont.net/medien/nachrichten/actionserie-neue-cobra-11-filme-starten-zeitgleich-bei-rtl-und-disney-233522?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "RTL feiert das 30-jährige Jubiläum von \"Alarm für Cobra 11\" mit neuen Filmen, die zeitgleich bei RTL+ und Disney+ starten. Zwei weitere Cobra-11-Filme werden ab 8. April exklusiv für sechs Monate bei Disney+ verfügbar sein. Die parallele Veröffentlichung auf beiden Streamingplattformen stellt eine ungewöhnliche Kooperation zwischen RTL und Disney dar.",
-          "score": 10
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Brüssel gegen die Plattform-Riesen: Was die EU-Kommission Meta, TikTok und Co. genau vorwirft",
-          "link": "https://www.horizont.net/medien/nachrichten/bruessel-gegen-die-plattform-riesen-was-die-eu-kommission-meta-tiktok-und-co.-genau-vorwirft-233478?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die EU-Kommission verhängt eine 120 Millionen Euro Strafe gegen X (Twitter) wegen Verstößen gegen das Digital Services Act (DSA), insbesondere wegen Irreführung bei der Nutzerverifikation. Weitere große Plattformen wie TikTok, Meta, Shein und Temu stehen ebenfalls unter Prüfung, wobei TikTok vorgeworfen wird, durch kontinuierliche Belohnungsmechanismen suchterzeugende Scrolling-Verhalten zu fördern. Der DSA verpflichtet sehr große Plattformen zur systematischen Risikoprüfung ihrer Dienste.",
+          "title": "&quot;The Future of German Media&quot;: Auf wen sich Medien in ihrem digitalen Wandel (nicht) verlassen können",
+          "link": "https://www.horizont.net/medien/nachrichten/the-future-of-german-media-auf-wen-sich-medien-in-ihrem-digitalen-wandel-nicht-verlassen-koennen-233552?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Vier Medienmanager diskutierten die drängende digitale Transformation des deutschen Journalismus, wobei Madsack-CEO Thomas Düffert betonte, dass die nächsten drei bis fünf Jahre entscheidend für die kommenden Jahrzehnte sein werden. Düffert übte dabei indirekte Kritik an einem der Gesellschafter seines Unternehmens. Die Diskussion verdeutlicht den enormen Zeitdruck, unter dem die Medienbranche bei ihrer digitalen Neuausrichtung steht.",
           "score": 8
         },
         {
           "source": "kress",
-          "title": "Nach Übernahme: Jens Meifert wird Kölnische-Rundschau-Chefredakteur Zum 1.",
-          "link": "https://kress.de/news/beitrag/152303-nach-uebernahme-jens-meifert-wird-koelnische-rundschau-chefredakteur.html",
-          "summary": "Jens Meifert wird zum 1. April 2026 Chefredakteur der Kölnischen Rundschau, nachdem die Kölner Stadt-Anzeiger Medien die Herausgeberschaft des Titels übernehmen. Der 56-jährige Politikwissenschaftler war bereits seit 1998 für die KR tätig und zuletzt stellvertretender Chefredakteur sowie Leiter der Kölner Stadtredaktion. Die Kölnische Rundschau soll als eigenständige publizistische Marke innerhalb des KStA-Newsrooms fortgeführt werden.",
+          "title": "Motor Presse Stuttgart bekommt Doppelspitze Die Motor Presse Stuttgart stellt ihre Führung neu auf:...",
+          "link": "https://kress.de/news/beitrag/152304-motor-presse-stuttgart-bekommt-doppelspitze.html",
+          "summary": "Die Motor Presse Stuttgart führt zum 1. April eine Doppelspitze ein: Michael Samak (Vermarktung/Vertrieb) und Stefan Karcher (Produkt/Finanzen/Personal) übernehmen gemeinsam die Geschäftsführung von Kay Labinsky. Labinsky wechselt nach zweijähriger strategischer Neuaufstellung des Medienhauses in die neu geschaffene Position des Delegierten der Gesellschafter. Die neue Führung will auf Wachstum in Kernmärkten, neue Vermarktungsmodelle und den Ausbau der Technologie- und Datenkompetenz setzen.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "ProSiebenSat.1 will ParshipMeet und Flaconi behalten",
+          "title": "ProSiebenSat.1 will ParshipMeet und Flaconi behalten Der Medienkonzern ProSieben Sat.1 hält laut einer Meldung der Nachrichtenagentur Reuters an seinen wichtigsten Online-Beteiligungen ParshipMeet und Flaconi fest",
           "link": "https://kress.de/news/beitrag/152302-prosiebensat-1-will-parshipmeet-und-flaconi-behalten.html",
-          "summary": "ProSiebenSat.1 unter neuer Kontrolle der Berlusconi-Familie (MFE) ändert die Verkaufsstrategie für Online-Beteiligungen und will die profitablen Unternehmen ParshipMeet und Flaconi vorerst behalten, während andere Digital-Assets wie Marktguru und billiger-mietwagen.de weiterhin zum Verkauf stehen. CEO Marco Giordani begründet dies mit dem Ziel, \"maximalen Wert aus diesen Beteiligungen herauszuholen\", nachdem MFE im September 2025 über 75 Prozent der Anteile erworben und das Management ausgetauscht hatte.",
+          "summary": "ProSiebenSat.1 will nach der Übernahme durch die Berlusconi-Holding MFE die profitablen Online-Beteiligungen ParshipMeet und Flaconi vorerst behalten, während andere Digital-Assets wie Marktguru und billiger-mietwagen.de weiterhin zum Verkauf stehen. CEO Marco Giordani kündigte einen behutsamen Ansatz an, um den maximalen Wert aus den beiden Kernbeteiligungen herauszuholen. Ein Verkauf von ParshipMeet und Flaconi bleibt langfristig eine Option.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Jetzt hat Roman Deininger auch den Segen der SZ-\"Impressionisten\" Haken drunter: Schon Ende Februar...",
-          "link": "https://kress.de/news/beitrag/152298-jetzt-hat-roman-deininger-auch-den-segen-der-sz-quot-impressionisten-quot.html",
-          "summary": "Roman Deininger wird ab 1. April stellvertretender Chefredakteur der Süddeutschen Zeitung, nachdem die leitenden Redakteure (\"Impressionisten\") der Personalie offiziell zugestimmt haben. Gleichzeitig übernimmt Patrick Bauer, der seit 2014 bei der SZ arbeitet und zuvor Chefredakteur des eingestellten Magazins \"Neon\" war, gemeinsam mit Laura Terberl die Leitung des Ressorts Audio & Video in einer Doppelspitze.",
-          "score": 8
+          "title": "Projekt \"Stimme Next\": \"Heilbronner Stimme\" mit neuer Redaktionsorganisation Die “Heilbronner Stimme” hat ihre Redaktion neu aufgestellt.",
+          "link": "https://kress.de/news/beitrag/152299-projekt-quot-stimme-next-quot-quot-heilbronner-stimme-quot-mit-neuer-redaktionsorganisation.html",
+          "summary": "Die \"Heilbronner Stimme\" hat im Rahmen des Projekts \"Stimme Next\" ihre Redaktionsstruktur digitalisiert und neu organisiert, um auf veränderte Arbeitsweisen im schnelleren Nachrichtenalltag zu reagieren. Kernelemente sind ein zentrales News Management für die Themenplanung, ein neues Breaking-Team für multimediale Regionalberichterstattung und ein \"Digital First\"-Ansatz mit koordinierter Ausspielung über den Online Desk. Die bestehende Mantelredaktion mit eigenen Autoren und Korrespondenten bleibt dabei erhalten.",
+          "score": 7
         },
         {
           "source": "kress",
-          "title": "Zeit Verlagsgruppe wächst im Kerngeschäft Die Zeit Verlagsgruppe, die seit Februar von Nils von der...",
-          "link": "https://kress.de/news/beitrag/152257-zeit-verlagsgruppe-waechst-im-kerngeschaeft.html",
-          "summary": "Die Zeit Verlagsgruppe erzielte 2025 einen Gesamtumsatz von 309,7 Millionen Euro (+1,2%), wobei das Kerngeschäft um die Wochenzeitung um 3,2% wuchs, hauptsächlich getrieben durch den Ausbau der Digital-Abonnements. Im Februar übernahm Nils von der Kall als neuer CEO die operative Führung von Rainer Esser, der nach 27 Jahren an der Spitze in eine beratende Rolle wechselte. Schwächer entwickelten sich neue Geschäftsfelder (-1,9%) und Beteiligungen (-2,8%), was vor allem auf geringere E-Commerce-Erlöse zurückgeführt wird.",
-          "score": 10
+          "title": "ORF-Chef Roland Weißmann tritt nach Vorwürfen zurück ORF-Generaldirektor Roland Weißmann tritt mit sofortiger Wirkung zurück.",
+          "link": "https://kress.de/news/beitrag/152259-orf-chef-roland-weissmann-tritt-nach-vorwuerfen-zurueck.html",
+          "summary": "ORF-Generaldirektor Roland Weißmann ist mit sofortiger Wirkung zurückgetreten, nachdem eine Mitarbeiterin Vorwürfe der sexuellen Belästigung gegen ihn erhoben hat, die er bestreitet. Die Hörfunkdirektorin Ingrid Thurnher soll bereits am Donnerstag mit der vorläufigen Geschäftsführung beauftragt werden, während die Vorwürfe durch die ORF-Compliance-Stelle transparent aufgeklärt werden sollen. Der ORF-Stiftungsrat betont, dass der Fahrplan für die Neubestellung der Geschäftsführung unverändert bleibt.",
+          "score": 7
         },
         {
           "source": "meedia",
-          "title": "\"Herausfordendes Marktumfeld\" in Zeiten der Werbeflaute RTL Group-Jahresbilanz: Streaming nähert sich der Gewinnzone Der noch von Thomas Rabe gesteuerte Medienkonzern RTL Group hat für 2025 rückläufige Umsätze im klassischen TV-Geschäft gemeldet, zugleich aber deutliche Fortschritte beim Streaming erzielt. Insgesamt sank der Konzernumsatz um 3,8 Prozent auf 6,018 Milliarden Euro. Der operative Gewinn (Adjusted EBITA) ging von 721 auf 661 Millionen Euro zurück. Wie Rabe, der im Mai abgelöst wird, die schwierige Geschäftsentwicklung",
-          "link": "https://meedia.de/news/beitrag/21325-rtl-group-jahresbilanz-streaming-naehert-sich-der-gewinnzone.html",
-          "summary": "Die RTL Group verzeichnete 2024 einen Umsatzrückgang von 3,8% auf 6,018 Milliarden Euro bei einem operativen Gewinnrückgang (Adjusted EBITA) von 721 auf 661 Millionen Euro, wobei das lineare TV-Werbegeschäft mit -7% besonders stark unter Druck steht. Während das klassische TV-Geschäft weiter schwächelt, macht der Konzern deutliche Fortschritte im Streaming-Bereich, der sich der Gewinnzone nähert. Thomas Rabe wird im Mai von Clément Schweib als Konzernchef abgelöst und hatte bereits im November die Jahresprognose nach unten korrigiert.",
-          "score": 10
-        },
-        {
-          "source": "meedia",
-          "title": "Video Daily: TV-Quoten & Streaming-Charts ZDF und Das Erste lassen Konkurrent mit \"Friesland\" und \"Makellos\" keine Chance Die beiden großen öffentlich-rechtlichen Sender dominierten den Mittwochabend mit neuen Filmen: 5,79 Millionen bescherten dem ZDF-Krimi “Friesland: Schiffe schrotten” einen Top-Marktanteil von 25,4 Prozent, 3,52 Millionen der ARD-Komödie “Makellos",
-          "link": "https://meedia.de/news/beitrag/21324-zdf-und-das-erste-lassen-konkurrent-mit-quot-friesland-quot-und-quot-makellos-quot-keine-chance.html",
-          "summary": "ZDF und ARD dominierten den Mittwochabend mit ihren 90-Minuten-Filmen und erreichten gemeinsam über 40% Marktanteil: Der ZDF-Krimi \"Friesland: Schiffe schrotten\" führte mit 5,79 Mio. Zuschauern und 25,4%, die ARD-Komödie \"Makellos\" erzielte 3,52 Mio. und 15,5%. Bei den 14-49-Jährigen gewann \"Germany's next Topmodel\" mit nur 0,43 Mio. Zuschauern und 11,6%, während die Privatsender deutlich schwächere Quoten einfuhren.",
+          "title": "Video Daily: TV-Quoten & Streaming-Charts Der \"Roadtrip\" von Kabel Eins behauptet sich gegen \"Germany's next Topmodel\" und die Europa League Auch wenn an der Spitze der Donnerstags-Quoten-Charts des jungen Publikums der RTL-Fußball und “Germany's next Topmodel” um den Prime-Time-Sieg kämpften, lohnt ein Blick dahinter. Dort erzielte die Kabel-Eins-Reihe “Roadtrip",
+          "link": "https://meedia.de/news/beitrag/21335-der-quot-roadtrip-quot-von-kabel-eins-behauptet-sich-gegen-quot-germany-039-s-next-topmodel-quot-und-die-europa-league.html",
+          "summary": "Kabel Eins erzielte mit \"Roadtrip - Drei Spitzenköche auf vier Rädern\" trotz starker Konkurrenz durch RTL-Fußball und \"Germany's next Topmodel\" einen Staffel-Bestwert von 7,9% Marktanteil beim jungen Publikum. Im Gesamtpublikum dominierte \"Der Bozen-Krimi\" (Das Erste) mit 5,84 Millionen Zuschauern und 25,7% Marktanteil, während das ZDF mit dem Neustart \"Einfach Elli\" 3,72 Millionen Zuschauer und 16,3% erreichte. Die Privatsender konnten gegen die starken öffentlich-rechtlichen Programme nicht in die Spitzenplätze vordringen.",
           "score": 9
         },
         {
           "source": "meedia",
-          "title": "Internationaler Braukonzern Heineken lässt um seine globalen Etats für Media und Kreation pitchen...",
-          "link": "https://meedia.de/news/beitrag/21321-heineken-laesst-um-seine-globalen-etats-fuer-media-und-kreation-pitchen.html",
-          "summary": "Heineken überprüft seine globalen Agenturbeziehungen und lässt sowohl um den Media-Etat (derzeit Dentsu/Carat) als auch um die Kreation (derzeit Publicis Groupe/Le Pub) pitchen. Das aktuelle Agenturmodell wurde 2020 installiert, wobei Dentsu bereits seit zehn Jahren für Heineken arbeitet und sich erst 2022 erfolgreich in einer Überprüfung behauptet hatte. Der Konzern begründet den Pitch mit der Transformation seiner Marketingaktivitäten und der Bündelung von Talenten aus Kreation, Media, Produktion, Daten und KI-Technologie.",
+          "title": "Kay Labinsky wird \"Gesellschafter-Delegierter\" Motor Presse Stuttgart: Michael Samak und Stefan...",
+          "link": "https://meedia.de/news/beitrag/21332-motor-presse-stuttgart-michael-samak-und-stefan-karcher-uebernehmen-das-steuer.html",
+          "summary": "Kay Labinsky wechselt nach zwei Jahren als Geschäftsführer der Motor Presse Stuttgart zum 1. April in die neu geschaffene Position des „Delegierten der Gesellschafter\" und zieht sich aus dem operativen Geschäft zurück. Die operative Geschäftsführung übernehmen Michael Samak und Stefan Karcher als Doppelspitze. Labinsky soll weiterhin strategisch beratend tätig sein, nachdem er das Unternehmen erfolgreich zu einem tech- und datengetriebenen Medienhaus transformiert hat.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "So etabliert sich BYD in der Massenwerbung Heimlich still und leise hat BYD mit Werbung in Massenmedien begonnen.",
-          "link": "https://meedia.de/news/beitrag/21318-weltmarktfuehrer-bei-e-autos-so-etabliert-sich-byd-in-der-massenwerbung.html",
-          "summary": "Der chinesische E-Auto-Weltmarktführer BYD hat seine Werbestrategie erweitert und schaltet nun erstmals Werbung in deutschen Massenmedien wie RTL und ProSieben, nachdem das Unternehmen bisher hauptsächlich auf Social Media und Sportwerbung gesetzt hatte. Diese strategische Ausweitung der TV-Werbung erfolgt in einem Kontext, in dem BYD Tesla als meistverkaufte E-Auto-Marke global überholt hat, während Tesla weiterhin auf klassische Werbung verzichtet. Deutsche Werbeagenturen profitieren von diesem Wandel jedoch noch nicht, da BYD die Kampagnen offenbar eigenständig oder über andere Kanäle abwickelt.",
+          "title": "Auf der Suche nach dem Cultural Moment Die Zusammenarbeit zwischen Startups und spannenden...",
+          "link": "https://meedia.de/news/beitrag/21326-sponsoring-auf-der-suche-nach-dem-cultural-moment.html",
+          "summary": "Startups kooperieren zunehmend strategisch mit erfolgreichen Streaming-Formaten, um von \"Cultural Moments\" zu profitieren - wie KoRo bei \"7 vs. Wild\" oder Yfood bei Amazons \"Fallout\". Yfood-CMO Marco Raab erklärt, dass diese Sponsoring-Strategie aus dem Influencer-Marketing heraus entwickelt wurde und gezielt Communities mit hoher Relevanz anspricht. Das richtige Timing und die Identifikation relevanter Talkpoints sind dabei entscheidende Erfolgsfaktoren für diese neue Form des Content-Sponsorings.",
           "score": 7
         },
         {
-          "source": "meedia",
-          "title": "1 unter der neuen italienischen Führung durch MFE zeichnet sich offenbar eine weitreichende Neuordnung des Digitalgeschäfts ab.",
-          "link": "https://meedia.de/news/beitrag/21314-prosiebensat-1-will-flaconi-und-parship-offenbar-behalten.html",
-          "summary": "ProSiebenSat.1 führt unter der neuen italienischen Mehrheitseigentümerin MFE (Berlusconi-Gruppe) eine umfassende Neuordnung seines Digitalportfolios durch. Während profitable Beteiligungen wie ParshipMeet Group und Flaconi gehalten werden sollen, stehen andere Digital-Assets wie Marktguru, billiger-mietwagen.de und Jochen Schweizer mydays zum Verkauf. Die strategische Portfoliobereinigung zielt darauf ab, den Konzern stärker auf das Kerngeschäft zu fokussieren.",
+          "source": "Guardian Media",
+          "title": "Hit Netflix series has Germany’s spy agency dreaming of a less gaffe-prone future",
+          "link": "https://www.theguardian.com/world/2026/mar/13/unfamiliar-netflix-germany-spy-agency-bnd",
+          "summary": "Die Netflix-Serie \"Unfamiliar\" zeigt deutsche BND-Agenten, die im Gegensatz zur realitätsnah dargestellten, regelgebundenen deutschen Auslandsaufklärung mit kreativen und regelwidrigen Methoden arbeiten. Mit über 20 Millionen Aufrufen seit Februar ist die sechsteilige Serie über ein ehemaliges Agentenpaar, das ein Berliner Safe House betreibt, zu einer der erfolgreichsten nicht-englischsprachigen Netflix-Produktionen geworden. Die Darstellung erfolgt vor dem Hintergrund realer Diskussionen über eine Lockerung der deutschen nachkriegszeitlichen Geheimdienstbeschränkungen.",
           "score": 8
         },
         {
           "source": "Guardian Media",
-          "title": "Former Tory minister Zac Goldsmith to launch new sports radio station",
-          "link": "https://www.theguardian.com/politics/2026/mar/08/former-tory-minister-zac-goldsmith-to-launch-new-sports-radio-station",
-          "summary": "Der ehemalige konservative Minister Zac Goldsmith und sein Bruder Ben starten im April den neuen Sportsender trkradio, der pünktlich zur Fußball-WM im Sommer auf Sendung gehen wird. Die Station, die bereits eine Ofcom-Lizenz erhalten hat, will sich durch reflektierte Gespräche über alle Sportarten und Musik von klassischen Fußball-Talk-Formaten abheben. Trkradio tritt damit in den umkämpften britischen Sportradio-Markt ein, der von BBC Radio 5 Live und TalkSport dominiert wird.",
+          "title": "BBC World Service funding freeze risks ‘opening door to hostile states’, MPs say",
+          "link": "https://www.theguardian.com/media/2026/mar/13/bbc-world-service-funding-freeze-risks-opening-door-to-hostile-states-mps-say",
+          "summary": "Ein parteiübergreifender Parlamentsausschuss warnt, dass der Finanzierungsstopp für den BBC World Service bei steigenden Investitionen Chinas und Russlands in staatliche Medien (6-8 Mrd. £ jährlich) \"feindlichen Staaten Tür und Tor öffnet\". Das Budget des World Service ist in den letzten vier Jahren real um 21% gesunken, während die Vertrauenswerte für chinesische und russische Staatsmedien deutlich gestiegen sind (auf 70% bzw. 71%), während die BBC stabil bei 78% liegt. Der Ausschuss kritisiert die unklare Finanzierungssituation kurz vor Auslaufen des aktuellen Vertrags als Risiko für die \"Krone der britischen Soft Power\".",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Google’s former Europe boss close to becoming next head of BBC, sources say",
+          "link": "https://www.theguardian.com/technology/2026/mar/12/matt-brittin-google-former-europe-boss-close-to-becoming-head-of-bbc-sources-say",
+          "summary": "Matt Brittin, Googles ehemaliger Europa-Chef und früherer olympischer Ruderer, steht kurz vor der Ernennung zum neuen Generaldirektor der BBC und würde damit Tim Davie nachfolgen. Seine mögliche Berufung unterstreicht den wachsenden Einfluss von Big Tech im Medienbereich, während die BBC mit der Konkurrenz durch Online-Plattformen wie YouTube kämpft und ihre digitalen Angebote stärken will. Brittin gilt als technologieaffin und ähnelt seinem Vorgänger Davie in der Betonung der Rolle von Technologie für die Zukunft des öffentlich-rechtlichen Rundfunks.",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Will the Telegraph’s new owner curb its wilder excesses – or make them worse? | Jane Martinson",
+          "link": "https://www.theguardian.com/commentisfree/2026/mar/12/telegraph-new-owner-mathias-dopfner-mail",
+          "summary": "Der deutsche Medienkonzern Axel Springer unter CEO Mathias Döpfner hat die Übernahme der britischen Telegraph-Zeitung gewonnen und damit den Konkurrenten Daily Mail ausgestochen. Die Telegraph-Journalisten reagierten überraschend positiv auf die deutsche Übernahme, nachdem sie zuvor eine Akquisition durch eine UAE-geführte Investorengruppe erfolgreich abgewehrt hatten. Es bleibt jedoch unklar, ob Döpfner als mäßigender Einfluss auf die kontroversen redaktionellen Positionen der Zeitung wirken oder diese noch verstärken wird.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Louis Theroux’s 20 best documentaries: from Savile and Scientology to prisons and painkillers",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/mar/10/louis-theroux-20-best-documentaries",
+          "summary": "Der Guardian-Artikel präsentiert eine Rangliste der 20 besten Dokumentarfilme von Louis Theroux aus seinen fast 30 Jahren BBC-Karriere, die von seinen frühen \"Weird Weekends\" über kontroverse Themen wie Jimmy Savile und Scientology bis hin zu gesellschaftskritischen Arbeiten über Gefängnisse und Opioid-Krise reicht. Theroux wechselt nun zu Netflix mit seinem neuen Film \"Inside the Manosphere\" über die Männerrechtsbewegung, der am 11. März erscheint. Die Liste würdigt seine einzigartige dokumentarische Herangehensweise, bei der er sich oft selbst in extreme oder ungewöhnliche Situationen begibt, um tiefere Einblicke in verschiedene Subkulturen und gesellschaftliche Phänomene zu gewinnen.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Prime Video Australia Seeks Its YA Moment As ‘Deadloch’ Season 2 Nears: “We Would Love To Find Our ‘Maxton Hall'”",
+          "link": "https://deadline.com/2026/03/prime-video-australia-ya-series-search-interview-1236749933/",
+          "summary": "Prime Video Australia sucht nach seinem durchschlagenden Young Adult-Format, vergleichbar mit internationalen Erfolgen wie \"Maxton Hall\" oder \"Summer I Turned Pretty\", da das Land im Gegensatz zu anderen Märkten wenig YA-Heritage besitzt. Während der Streamingdienst mit Produktionen wie \"Deadloch\" Season 2 und Auszeichnungen bei den AACTA Awards erfolgreich ist, sieht Head of Originals Sarah Christie im YA-Segment noch ungenutztes Potenzial für experimentelle Formate. Der Mangel an etablierter Melodrama-Tradition in Australien wird als Chance für innovative Ansätze zur Erfassung der jüngeren Zielgruppe betrachtet.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "From Gnomes To Number 10: Series Mania Unveils Dramas Tipped For International Success & To Be Presented At Its Buyers Upfront",
+          "link": "https://deadline.com/2026/03/series-mania-buyers-upfront-itv-tf1-beta-all3media-fremantle-1236752324/",
+          "summary": "Series Mania präsentiert auf seinem Buyers Upfront zehn internationale Drama-Serien, die als potenzielle globale Hits identifiziert wurden, darunter \"Number 10\" von Sherlock-Produzent Hartswood Films und Autor Steven Moffat über das Leben in der Downing Street. Die Auswahl umfasst hauptsächlich europäische Produktionen sowie eine Japan-Singapur-Koproduktion und eine australische Komödie, wobei ITV Studios, All3Media und andere große Distributoren die Verkaufsrechte halten. Das invitation-only Event für Buyer ist Teil des erweiterten Series Mania Forums, das sich von einem reinen Co-Produktions-Event zu einem wichtigen Marktplatz für internationale Scripted-Inhalte entwickelt hat.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Netflix Opens VFX Studio In India",
-          "link": "https://deadline.com/2026/03/netflix-opens-eyeline-vfx-studio-in-india-rana-daggubati-1236751039/",
-          "summary": "Netflix hat sein fünftes Eyeline Studios VFX-Studio in Hyderabad, Indien eröffnet - eine 32.000 Quadratfuß große Einrichtung für Visual Effects, Virtual Production und Next-Generation-Produktionstechnologie. Das Studio reiht sich in Netflixs globales VFX-Netzwerk ein, das bereits Standorte in L.A., Vancouver, Seoul und London umfasst, nachdem der Streamer 2021 Scanline VFX akquiriert und 2024 unter der Eyeline-Marke zusammengeführt hatte. Die Expansion unterstreicht Netflixs verstärktes Engagement im indischen Markt nach Erfolgen wie \"Rana Naidu\" und \"Heeramandi: The Diamond Bazaar\".",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Fremantle Revenue Falls Nearly 10% To $2.4B Due To Declines In U.S. & UK Entertainment",
-          "link": "https://deadline.com/2026/03/fremantle-revenues-fall-rtl-group-full-year-2025-results-1236751023/",
-          "summary": "Fremantle verzeichnete 2025 einen Umsatzrückgang von 9,4% auf 2,03 Mrd. Euro, hauptsächlich aufgrund schwächelnder Entertainment-Märkte in den USA und Großbritannien. Der Produzent von Formaten wie \"Got Talent\" und \"Jeopardy!\" belastete Mutterkonzern RTL Group mit einer Wertberichtigung von 125 Mio. Euro. Dies erfolgt in einem sich konsolidierenden Markt mit großen Fusionen wie Paramount/Warner Bros. Discovery und Banijay/All3Media.",
+          "title": "‘Margo’s Got Money Troubles’: David E. Kelley Adaptation Of Rufi Thorpe’s Wacky Family Dramedy Brings Raucous Laughter To SXSW Opening Night",
+          "link": "https://deadline.com/2026/03/margos-got-money-troubles-sxsw-opening-night-premiere-1236752225/",
+          "summary": "David E. Kelleys Adaption von Rufi Thorpes Roman \"Margo's Got Money Troubles\" feierte bei der SXSW-Eröffnung mit drei Episoden Premiere und erhielt positive Zuschauerreaktionen. Die Apple TV-Serie folgt der 20-jährigen Margo (Elle Fanning), die nach einer Affäre mit ihrem Professor und ungewollter Schwangerschaft einen OnlyFans-Account erstellt, um finanziell zu überleben. Michelle Pfeiffer spielt Margos Mutter, eine ehemalige Hooters-Kellnerin, in dieser achtteiligen Familien-Dramedy.",
           "score": 7
         },
         {
-          "source": "Deadline",
-          "title": "Naseeruddin Shah-Starring ‘Made In India: The Titan Story’ Among 150 Titles In Amazon MX Player’s 2026 Slate",
-          "link": "https://deadline.com/2026/03/amazon-mx-player-2026-slate-1236751014/",
-          "summary": "Amazon MX Player kündigt eine umfangreiche 2026-Programmstrategie mit über 150 neuen und wiederkehrenden Titeln an, darunter das Flaggschiff-Drama \"Made In India: The Titan Story\" mit Naseeruddin Shah. Die kostenlose Streaming-Plattform setzt auf eine Mischung aus Premium-Produktionen, Reality-Shows, Mikrodramen und internationalen Inhalten aus Asien, um im hart umkämpften indischen Streaming-Markt zu konkurrieren.",
-          "score": 9
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "RTL Group Bets on Streaming Pivot as Sky Deal and HBO Max Partnership Reshape Business",
-          "link": "https://www.hollywoodreporter.com/business/business-news/rtl-group-bets-on-streaming-pivot-1236528374/",
-          "summary": "RTL Group meldete für 2025 einen Umsatz von 6,0 Milliarden Euro (-3,8% YoY), wobei rückläufige TV-Werbeumsätze durch starkes Streaming-Wachstum teilweise kompensiert wurden. Die Streaming-Abonnenten stiegen um 19% auf 8,1 Millionen, der Streaming-Umsatz kletterte um 26% auf 509 Millionen Euro, während sich die Segmentverluste um 90 Millionen Euro auf 47 Millionen Euro reduzierten. Das Unternehmen erwartet, dass das Streaming-Geschäft noch in diesem Jahr die Gewinnschwelle erreicht, unterstützt durch strategische Deals wie die geplante Übernahme von Sky Deutschland von Comcast für 150 Millionen Euro.",
-          "score": 9
+          "source": "Variety",
+          "title": "Sky Acquires Cary Joji Fukunaga’s Crime Thriller ‘Blood on Snow,’ Starring Benedict Cumberbatch and Aaron Taylor‑Johnson (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/global/sky-buys-blood-on-snow-cumberbatch-aaron-taylor-johnson-1236686750/",
+          "summary": "Sky hat die britischen Rechte an Cary Joji Fukunagas Crime-Thriller \"Blood on Snow\" mit Benedict Cumberbatch und Aaron Taylor-Johnson erworben, basierend auf Jo Nesbøs Bestseller-Roman. Der Film wird 2027 als Sky Original in britischen Kinos debütieren und folgt auf Skys erfolgreiche Nesbø-Adaption \"The Hanging Sun\". Die Geschichte handelt von einem Auftragskiller in Oslos krimineller Unterwelt, der gegen seinen Auftraggeber rebelliert, nachdem er beauftragt wird, dessen Frau zu ermorden.",
+          "score": 8
         },
         {
           "source": "Variety",
-          "title": "RTL Group Posts 3.8% Results Drop as Streaming Side Grows And Fremantle Revenues Suffer",
-          "link": "https://variety.com/2026/digital/global/rtl-group-3-8-results-drop-streaming-fremantle-revenues-1236685572/",
-          "summary": "RTL Group verzeichnete 2024 einen Umsatzrückgang von 3,8% auf €6,018 Milliarden, wobei das Streaming-Geschäft um 26,3% auf €509 Millionen wuchs und 8,1 Millionen zahlende Abonnenten erreichte. Während die digitalen Aktivitäten florierten, brachen die Umsätze der Produktionstochter Fremantle um 9,4% auf €2,043 Milliarden ein. RTL plant die Übernahme von Sky Deutschland zur Stärkung des Streaming-Geschäfts, vorbehaltlich der EU-Genehmigung im ersten Halbjahr 2026.",
-          "score": 10
+          "title": "Beta Film Boards Spanish Dramedy ‘In Vitro,’ Selected for Series Mania’s Buyers Upfront (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/global/beta-film-spanish-dramedy-in-vitro-buyers-upfront-series-mania-1236686347/",
+          "summary": "Beta Film hat die internationalen Vertriebsrechte für die spanische Dramedy-Serie \"In Vitro\" erworben, die bei Series Mania's Buyers Upfront präsentiert wird. Die von Marc Crehuet und Alejandra Guimerà kreierte Serie folgt der 37-jährigen Biologin Blanca (Bruna Cusí), die in einer Fertilitätsklinik arbeitet und dabei mit ethischen Dilemmata konfrontiert wird. Die Serie wird als \"herzerwärmender, innovativer und witziger Blick darauf, wie Babys gemacht werden\" beschrieben und thematisiert die moralischen Fragen rund um Kinderwunsch-Behandlungen.",
+          "score": 7
         },
         {
           "source": "Variety",
-          "title": "Naseeruddin Shah, Nana Patekar, Sanjay Kapoor Lead Indian Streamer Amazon MX Player’s Most Expansive Slate Yet, Topping 150 Shows for 2026",
-          "link": "https://variety.com/2026/tv/news/naseeruddin-shah-nana-patekar-sanjay-kapoor-amazon-mx-player-slate-1236684792/",
-          "summary": "Amazon MX Player, Indiens kostenloser Streaming-Service mit über 250 Millionen monatlichen Nutzern, hat sein bisher umfangreichstes Content-Programm mit mehr als 150 neuen und wiederkehrenden Titeln für 2026 angekündigt. Die Slate umfasst hochkarätige Produktionen wie das Unternehmens-Drama \"Made In India: The Titan Story\" mit Naseeruddin Shah und den sozio-politischen Thriller \"Sankalp\" mit Nana Patekar und Sanjay Kapoor. Das Programm erstreckt sich über verschiedene Genres von Drama und Action bis hin zu Reality-TV und dem hauseigenen Microdrama-Format.",
-          "score": 9
+          "title": "Rafe Spall, Bérénice Bejo, Steven Moffat and Bryan Elsley Head Shows at Series Mania’s 2026 Buyers Upfront",
+          "link": "https://variety.com/2026/tv/global/rafe-spall-berenice-bejo-steven-moffat-series-mania-1236686720/",
+          "summary": "Rafe Spall, Bérénice Bejo, Steven Moffat und Bryan Elsley präsentieren ihre neuen Serien beim exklusiven Series Mania Buyers Upfront 2026 am 23. März. Zu den Highlights gehören Moffats \"Number 10\" mit Spall, Jenna Coleman und Katherine Kelly, Bejos HBO Max/France Télévisions-Biopic \"Alice\" über Filmpionierinnen Alice Guy sowie Elsleys BBC One-Rechtsdrama \"Counsels\". Das Line-up reflektiert aktuelle Markttrends bei internationalen TV-Produktionen in einem von US-Finanzierungsengpässen geprägten Umfeld.",
+          "score": 7
         }
       ]
     }
