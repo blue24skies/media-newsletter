@@ -1,224 +1,364 @@
 {
   "newsletters": [
     {
-      "date": "2026-03-17",
+      "date": "2026-03-18",
       "articles": [
         {
           "source": "DWDL",
-          "title": "\"Blind Sherlock\" ermittelt ab Ende April im ZDF",
-          "link": "https://www.dwdl.de/nachrichten/105862/blind_sherlock_ermittelt_ab_ende_april_im_zdf/",
-          "summary": "Das ZDF zeigt ab dem 26. April die belgische Crime-Serie \"Blind Sherlock\" (6 Episoden) als Koproduzent, die sonntags um 22:15 Uhr im Doppelpack läuft und bereits ab 17. April in der Mediathek verfügbar ist. Die Serie folgt dem blinden Roman (Bart Kelchtermas), der mit seinem außergewöhnlichen Gehör bei einer Spezialeinheit für Abhörmaßnahmen der Rotterdamer Polizei gegen Drogenkriminalität ermittelt. Produziert wurde die Serie von De Mensen unter der Regie von Joost Wanynt, basierend auf Büchern von Maarten Fabricio Goffin und Kristof Hoefkens.",
-          "score": 7
+          "title": "RTL zeigt seine \"Hitster\"-Show im Vorabend-Programm",
+          "link": "https://www.dwdl.de/nachrichten/105876/rtl_zeigt_seine_hitstershow_im_vorabendprogramm/",
+          "summary": "RTL startet am 12. April 2026 die TV-Adaption des populären Partyspiels \"Hitster\" sonntags um 19:05 Uhr im Vorabendprogramm, moderiert von Elton mit prominenten Zweierteams, die um 10.000 Euro für den guten Zweck spielen. Das Spielprinzip bleibt unverändert: Songs müssen chronologisch auf einer Zeitleiste eingeordnet werden, ergänzt durch Live-Auftritte von Musikstars wie Nik Kershaw und Max Giesinger. Die erste Staffel umfasst sechs Folgen und wird von UFA Show & Factual produziert, wobei RTL+ die Episoden eine Woche vorab ausstrahlt.",
+          "score": 10
         },
         {
           "source": "DWDL",
-          "title": "Mabuse, Kebekus und Checker Tobi kommen in die \"Sesamstraße\"",
-          "link": "https://www.dwdl.de/nachrichten/105861/mabuse_kebekus_und_checker_tobi_kommen_in_die_sesamstrasse/",
-          "summary": "Der NDR produziert seit März neue \"Sesamstraße\"-Folgen für den KiKA mit prominenten Gästen: Motsi Mabuse thematisiert Tanzen und Eifersucht, Carolin Kebekus behandelt das \"Nein-Sagen\" mit einem entsprechenden Song, und Checker Tobi löst mit Elmo Probleme der Sommerhitze. Die neue Staffel wird ab Herbst ausgestrahlt und integriert die Prominenten gezielt in pädagogisch wertvolle Handlungsstränge.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Neue Pilawa-Show: Sat.1 adaptiert französisches Quiz",
-          "link": "https://www.dwdl.de/nachrichten/105853/neue_pilawashow_sat1_adaptiert_franzoesisches_quiz/",
-          "summary": "Sat.1 startet im Sommer die neue Quizshow \"Wer ist Deutschlands Superhirn?\" mit Moderator Jörg Pilawa, eine Adaption der französischen Show \"Le Dernier Cercle\" von Warner Bros International TV. Das Format testet kognitive Fähigkeiten von 50 Kandidaten, die sich in sechs immer kleiner werdenden Kreisen um bis zu 50.000 Euro duellieren, während der Sender gleichzeitig mehrere andere Quiz-Formate wie \"The Floor\" und \"The Connection\" vorerst einstellt.",
+          "title": "Neue ProSieben-Show \"Staying Alive\" kommt Ende April",
+          "link": "https://www.dwdl.de/nachrichten/105875/neue_prosiebenshow_staying_alive_kommt_ende_april/",
+          "summary": "ProSieben startet am 25. April die neue Musikshow \"Staying Alive - Stars singen mit Legenden\", in der Künstler wie Samu Haber, No Angels, Alvaro Soler und Sasha mittels aufwendiger Technik Duette mit verstorbenen Musiklegenden wie Elvis Presley und Whitney Houston performen. Das von Endemol Shine Germany entwickelte Format wurde bereits auf der MIP London als internationale Formatentwicklung präsentiert und umfasst zunächst zwei Folgen mit Thore Schölermann als Moderator.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Neuer \"Saarland-Krimi\" feiert Ende April seine Premiere",
-          "link": "https://www.dwdl.de/nachrichten/105856/neuer_saarlandkrimi_feiert_ende_april_seine_premiere/",
-          "summary": "Das Erste startet am 30. April 2026 um 20:15 Uhr eine neue Krimi-Reihe \"Der Saarland-Krimi\" mit Aram Arami, Doguhan Kabadayi und Olga von Luckwald in den Hauptrollen. Die Bavaria Fiction-Produktion wird auf dem etablierten Donnerstags-Krimi-Sendeplatz ausgestrahlt, der 2026 durchschnittlich fast 6 Millionen Zuschauer und 25% Marktanteil erreichte. In der ersten Folge \"Bruder, Liebe, Tod\" ermittelt ein ex-Kriminalhauptkommissar heimlich, als sein Bruder des Mordes verdächtigt wird.",
+          "title": "Filmpool Fiction plant Mehrteiler über Sparkassen-Einbruch",
+          "link": "https://www.dwdl.de/nachrichten/105874/filmpool_fiction_plant_mehrteiler_ueber_sparkasseneinbruch/",
+          "summary": "Filmpool Fiction entwickelt einen fiktionalisierten Event-Mehrteiler basierend auf dem spektakulären Sparkassen-Einbruch in Gelsenkirchen-Buer über Weihnachten 2025, bei dem Täter sich durch eine Tiefgarage in den Tresorraum bohrten und nahezu alle Schließfächer leerten. Drehbuchautor Christian Bach will gemeinsam mit den Produzentinnen Iris Kiefer und Susanna Enk eine dramaturgisch verdichtete Geschichte entwickeln, die sowohl die Täter- als auch die Betroffenen- und Ermittlerperspektive beleuchtet.",
           "score": 9
         },
         {
           "source": "DWDL",
-          "title": "Prime Video startet neues werbefreies 4K-Abo in den USA",
-          "link": "https://www.dwdl.de/nachrichten/105855/prime_video_startet_neues_werbefreies_4kabo_in_den_usa/",
-          "summary": "Amazon führt in den USA ein neues \"Prime Video Ultra\"-Paket für knapp 5 US-Dollar Aufpreis pro Monat ein, das werbefreie 4K-Inhalte, bis zu 100 Downloads und fünf parallele Streams bietet. Ohne das Ultra-Paket ist künftig nur noch Full-HD-Auflösung verfügbar, während das reguläre Abo immerhin auf 50 Downloads und vier parallele Streams aufgewertet wird. In Deutschland sind derartige Änderungen laut Amazon-Sprecher derzeit nicht geplant.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "MDR muss 30 bis 60 Millionen Euro zusätzlich einsparen",
-          "link": "https://www.dwdl.de/nachrichten/105852/mdr_muss_30_bis_60_millionen_euro_zusaetzlich_einsparen/",
-          "summary": "Der MDR muss trotz der von der KEF errechneten ausreichenden Finanzierung durch eine Beitragserhöhung auf 18,64 Euro zusätzlich 30-60 Millionen Euro bis Ende 2028 einsparen. Dies liegt daran, dass die KEF-Kalkulation auf bundesweit mehr beitragspflichtigen Haushalten basiert, diese Mehreinnahmen in den ostdeutschen MDR-Ländern Sachsen, Thüringen und Sachsen-Anhalt jedoch nicht anfallen. Anders als ältere ARD-Anstalten verfügt der MDR zudem nicht über entsprechende Rücklagen.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "Pumuckl bekommt neue Show - allerdings nicht bei RTL",
-          "link": "https://www.dwdl.de/nachrichten/105851/pumuckl_bekommt_neue_show__allerdings_nicht_bei_rtl/",
-          "summary": "Prime Video startet am 1. April eine neue Pumuckl-Show \"Schnick Schnack - Pumuckl treibt Schabernack\" als Versteckte-Kamera-Format, produziert von Constantin Entertainment mit Michael Kesslers Stimme, die per KI in die des verstorbenen Hans Clarin umgewandelt wird. Dies erfolgt parallel zu RTLs erfolgreicher Serien-Neuauflage \"Neue Geschichten vom Pumuckl\", deren eigene Show-Versuche mit schwachen Quoten (9,3% und 5,9% bei 14-49 Jahren) scheiterten. Die Prime Video-Produktion kombiniert die Versteckte-Kamera-Momente mit einer durchgehenden Rahmenhandlung und Cliffhangern über die gesamte Staffel.",
+          "title": "Nächste WDR-Überraschung: Georg Restle hört bei \"Monitor\" auf",
+          "link": "https://www.dwdl.de/nachrichten/105870/naechste_wdrueberraschung_georg_restle_hoert_bei_monitor_auf/",
+          "summary": "Georg Restle gibt nach 14 Jahren sowohl die Redaktionsleitung als auch die Moderation des ARD-Politmagazins \"Monitor\" auf und moderiert am 26. März seine letzte Sendung. Der 60-jährige Grimme-Preisträger wechselt zum 1. Juni als Nachfolger von Antje Diekhans zur Leitung des ARD-Studios Nairobi und kehrt damit in die Auslandsberichterstattung zurück. Diese Personalie folgt kurz nach der Ankündigung des Rückzugs von WDR-Programmdirektor Jörg Schönenborn.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "RTL hält trotz Quoten-Absturz an seinen \"Bachelors\" fest",
-          "link": "https://www.dwdl.de/nachrichten/105848/rtl_haelt_trotz_quotenabsturz_an_seinen_bachelors_fest/",
-          "summary": "RTL setzt trotz drastischen Quotenrückgangs die Reality-Show \"Die Bachelors\" fort - die Reichweite halbierte sich 2025 auf unter eine Million Zuschauer linear und erreichte nur noch unter 7% Marktanteil bei den 14-49-Jährigen. Die neue Staffel mit den Protagonisten Sebastian Paul und Tim Reitz wird dennoch produziert, da das Format bei RTL+ online deutlich besser performt. Ob inhaltliche Änderungen geplant sind, bleibt unklar.",
-          "score": 9
+          "title": "Rojinskis erste Serienhauptrolle: \"My Ex\" kommt im April",
+          "link": "https://www.dwdl.de/nachrichten/105869/rojinskis_erste_serienhauptrolle_my_ex_kommt_im_april/",
+          "summary": "Die ZDF-Serie \"My Ex\" mit Palina Rojinski in ihrer ersten Serienhauptrolle startet am 27. April 2026 in der ZDF-Mediathek und ab 6. Mai linear auf ZDFneo. Die sechsteilige RomCom-Serie folgt Interior-Designerin Ivy, die nach einer Tarot-Prophezeiung ihre Verflossenen aufsucht, um ihre wahre Liebe zu finden, die angeblich unter ihren Ex-Partnern sein soll. Das Format verbindet modernen Dating-Humor mit warmherzigen Gefühlen und behandelt Themen wie Beziehungsdruck und Selbstoptimierung.",
+          "score": 10
         },
         {
           "source": "DWDL",
-          "title": "Minus 20 Prozent: Werbeflaute trifft RTL im Februar hart",
-          "link": "https://www.dwdl.de/nachrichten/105846/minus_20_prozent_werbeflaute_trifft_rtl_im_februar_hart/",
-          "summary": "RTL verzeichnete im Februar 2026 einen drastischen Rückgang der Brutto-Werbeeinnahmen um 20,8 Prozent gegenüber dem Vorjahr, was maßgeblich zum 13,3-prozentigen Minus der Ad Alliance beitrug. Der gesamte deutsche TV-Werbemarkt brach im Februar um 7,3 Prozent ein, nachdem im Januar noch ein Plus von 2,3 Prozent verzeichnet wurde. Diese Entwicklung unterstreicht die angespannte Lage im Werbemarkt, nachdem RTL Group bereits für 2025 einen Netto-Rückgang der Werbeeinnahmen um 7 Prozent über alle Länder hinweg gemeldet hatte.",
-          "score": 9
+          "title": "HBO Max als App, aber nicht als Bundle bei Sky verfügbar",
+          "link": "https://www.dwdl.de/nachrichten/105866/hbo_max_als_app_aber_nicht_als_bundle_bei_sky_verfuegbar/",
+          "summary": "HBO Max ist zwei Monate nach dem Deutschland-Start nun als separate App auf Sky Stream und Sky Q verfügbar, erfordert jedoch ein zusätzliches Abonnement und wird nicht als Bundle angeboten. Dies markiert eine Veränderung in der Sky-Warner Bros. Discovery-Partnerschaft, da HBO-Serien früher exklusiv bei Sky ihre Deutschland-Premiere hatten. Die bestehenden Warner-Pay-TV-Kanäle bleiben weiterhin Teil des Sky-Portfolios.",
+          "score": 10
         },
         {
           "source": "DWDL",
-          "title": "Nitro kündigt weitere \"SchleFaZ\"-Staffel für Herbst an",
-          "link": "https://www.dwdl.de/nachrichten/105827/nitro_kuendigt_weitere_schlefazstaffel_fuer_herbst_an/",
-          "summary": "Nitro hat eine weitere Staffel der Kult-Sendung \"SchleFaZ\" für Herbst 2026 angekündigt, die bereits dritte seit dem Senderwechsel von Tele 5 zu Nitro. Die vorherige Staffel erreichte solide Quoten von 3,2% Marktanteil (14-49 Jahre) bei durchschnittlich 160.000 Zuschauern, wobei die Dreharbeiten mit Oliver Kalkofe und Peter Rütten bereits begonnen haben.",
+          "title": "\"Frühling\" mit Streaming-Rekord, \"Young Sherlock\" startet gut",
+          "link": "https://www.dwdl.de/zahlenzentrale/105864/fruehling_mit_streamingrekord_young_sherlock_startet_gut/",
+          "summary": "Nachrichten dominieren aufgrund des Iran-Kriegs und der Baden-Württemberg-Wahl die Streaming-Charts, mit \"Tagesschau\" (2 Mio.) und \"ZDFheute\" (1,84 Mio.) an der Spitze. Im fiktionalen Bereich erreicht die ZDF-Serie \"Frühling\" erstmals über eine Million Streaming-Nutzer (1,255 Mio.), während Prime Videos \"Young Sherlock\" mit 820.000 einen soliden Start hinlegt. Bemerkenswert ist auch \"Let's Dance\" mit einem VoD-Rekord von 590.000 Nutzern trotz Live-Show-Format.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "TalkNow startet neuen Live-Talk über Realityshows",
+          "link": "https://www.dwdl.de/nachrichten/105863/talknow_startet_neuen_livetalk_ueber_realityshows/",
+          "summary": "TalkNow erweitert sein lineares Podcast-TV-Konzept um das erste Live-Format \"TRL - Total Reality Live\", das ab 29. März sonntags um 22:00 Uhr Reality-Stars in Live-Interviews befragen wird. Die von Yvonne Mouhlen und Maurice Gajda moderierte Show setzt auf ein neues Interaktions-Tool, das die Community in Echtzeit ins TV-Studio einbindet, und wird nach der linearen Ausstrahlung auf YouTube, Spotify und sozialen Medien zweitverwertet. Das Format markiert eine strategische Weiterentwicklung des Senders von der reinen Video-Podcast-Distribution hin zur Live-Contentproduktion.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Geschäftsführung &quot;vervollständigt&quot;: Diesen früheren Google-Manager holt sich der Spiegel als Strategiechef",
+          "link": "https://www.horizont.net/medien/nachrichten/geschaeftsfuehrung-vervollstaendigt-diesen-frueheren-google-manager-holt-sich-der-spiegel-als-strategiechef-233611?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der Spiegel-Verlag holt einen ehemaligen Google-Manager als neuen Chief Strategy Officer in die Geschäftsführung, um die Digitalstrategie nach dem Abgang von Stefan Ottlitz neu zu gestalten. Die Ernennung erfolgt zum Sommer als fünfter Geschäftsführer und vervollständigt die angekündigte Neuaufstellung der Führungsebene. Der Verlag hatte diese strategische Personalentscheidung zunächst bei der Verkündung der Führungsreorganisation offengelassen.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Preis, Umfeld, Reichweite: Frank Vogel zum TKP-Modell bei der Ad Alliance: 13 Fragen, 13 Antworten",
-          "link": "https://www.horizont.net/medien/nachrichten/preis-umfeld-reichweite-frank-vogel-zum-tkp-modell-bei-der-ad-alliance-13-fragen-13-antworten-233584?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die Ad Alliance plant bis 2028 eine einheitliche TKP-basierte Abrechnung für lineares Fernsehen, Connected TV, Addressable TV und Online-Streaming unter einem Dach. Geschäftsführer Frank Vogel erläutert in einem Q&A die Hintergründe der zeitlichen Planung und Preisstrategie für diese konvergente Medienvermarktung. Das Modell soll verschiedene TV- und Streaming-Formate technisch und kommerziell zusammenführen.",
-          "score": 10
+          "title": "Video-Plattform: Youtube und FIFA kooperieren bei Fußball-WM 2026",
+          "link": "https://www.horizont.net/medien/nachrichten/video-plattform-youtube-und-fifa-kooperieren-bei-fussball-wm-2026-233607?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "YouTube und die FIFA haben eine strategische Partnerschaft für die Fußball-WM 2026 in den USA, Kanada und Mexiko vereinbart. Durch diese Kooperation wird YouTube zur offiziell \"bevorzugten Plattform\" für das Turnier ernannt. Die Vereinbarung positioniert die Google-Tochter als zentralen digitalen Partner für die Weltmeisterschaft.",
+          "score": 8
         },
         {
-          "source": "kress",
-          "title": "Zwischen Aufbruch und Sorgen: Wie Jan Wachtel bei Burda ankommt Beim virtuellen Treffen mit der Belegschaft war der Auftritt von Jan Wachtel mit Spannung erwartet worden. Der CEO von Burda Media kündigte einen Publishing-Plan für das zweite Quartal an",
-          "link": "https://kress.de/news/beitrag/152374-zwischen-aufbruch-und-sorgen-wie-jan-wachtel-bei-burda-ankommt.html",
-          "summary": "Jan Wachtel, neuer CEO der Burda-Mediensparte, kündigte bei einem virtuellen Belegschaftstreffen einen Publishing-Plan für das zweite Quartal an und deutete trotz positiver Aufbruchsstimmung mögliche Stellenstreichungen an. Der Manager, der seinen Start Ende 2025 mit einer umstrittenen Bemerkung zu Familienarbeit verpatzt hatte, hat bereits eine Unternehmensberatung engagiert und will voraussichtlich auf bewährte Führungskräfte setzen. Die personellen Entscheidungen für sein engeres Management-Team und die deutsche Geschäftsführung stehen noch aus.",
+          "source": "Horizont Medien",
+          "title": "&quot;Konsistenter Look&quot;: Was der neue Markenauftritt von The Pioneer hervorheben will",
+          "link": "https://www.horizont.net/medien/nachrichten/konsistenter-look-was-der-neue-markenauftritt-von-the-pioneer-hervorheben-will-233588?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "The Pioneer überarbeitet nach sechs Jahren ihr Markendesign, um die verschiedenen Formate unter einem konsistenten visuellen Auftritt zu vereinen. Die Design-Offensive von Gabor Steingart und seinem Team zielt darauf ab, die gewachsene Format-Vielfalt der Medienmarke stärker zu bündeln.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Erfolgreiche Umstellung: 90 Prozent der Print-Abonnenten der taz wechseln zum Digital-Abo",
+          "link": "https://www.horizont.net/medien/nachrichten/erfolgreiche-umstellung-90-prozent-der-print-abonnenten-der-taz-wechseln-zum-digital-abo-233581?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die taz meldet eine überraschend erfolgreiche Transformation: 90 Prozent der bisherigen Print-Abonnenten sind nach der Einstellung der werktäglichen Printausgabe zum Digital-Abo gewechselt. Die Digitalisierungsstrategie erwies sich als so profitabel, dass der Verlag zusätzliche finanzielle Mittel für Gehaltserhöhungen seiner Mitarbeiter generieren konnte.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "&quot;Gewagt habe ich es erst jetzt&quot;: So umtriebig verfolgt Andreas Struck mit Business Punk seinen Lebenstraum",
+          "link": "https://www.horizont.net/medien/nachrichten/gewagt-habe-ich-es-erst-jetzt-so-umtriebig-verfolgt-andreas-struck-mit-business-punk-seinen-lebenstraum-233523?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Andreas Struck, 62-jähriges Verlags-Urgestein, hat nach über 30 Jahren Branchenerfahrung seinen Lebenstraum verwirklicht und ist nun selbst Verleger des Wirtschaftsmagazins Business Punk. Der neue Eigentümer setzt dabei bewusst auf Print als Medium und verfolgt mit dem \"flippigen\" Magazin einen besonderen redaktionellen Ansatz.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "ZDF führt strengere Regeln für Fremdmaterial ein",
-          "link": "https://kress.de/news/beitrag/152371-nach-ki-fehler-im-heute-journal-zdf-fuehrt-strengere-regeln-fuer-fremdmaterial-ein.html",
-          "summary": "Nach einem fehlerhaften „heute journal\"-Beitrag vom 15. Februar 2026, in dem KI-generiertes und kontextfremdes Bildmaterial verwendet wurde, hat das ZDF einen fünfteiligen Maßnahmenkatalog entwickelt. Dieser umfasst systematische KI-Schulungen, verbesserte Bildverifikation, verbindliche Quellenhierarchien für Fremdmaterial sowie angepasste Abnahmeprozesse. Der ZDF-Fernsehrat will die Wirksamkeit der Maßnahmen überprüfen, um die publizistische Verantwortung des öffentlich-rechtlichen Rundfunks im KI-Zeitalter zu stärken.",
+          "title": "\"taz\" hält fast 90 Prozent der Abonnenten",
+          "link": "https://kress.de/news/beitrag/152376-projekt-quot-seitenwende-quot-quot-taz-quot-haelt-fast-90-prozent-der-abonnenten.html",
+          "summary": "Die \"taz\" hat nach der Einstellung ihrer werktäglichen Printausgabe im Oktober 2025 89,3 Prozent ihrer rund 14.600 Print-Abonnenten gehalten, die mehrheitlich auf Digital- oder Kombi-Abos umgestiegen sind. Der erfolgreiche Übergang zur digitalen Tagesausgabe und das Wachstum des Bezahlmodells \"taz zahl ich\" auf 48.500 Unterstützer stärken die wirtschaftliche Lage der Zeitung. Als Folge des Erfolgs werden die Mitarbeitergehälter erhöht und ein Bonus für 2025 ausgezahlt.",
           "score": 8
         },
         {
           "source": "kress",
-          "title": "\"Er sichert Vertrauen in unsere Berichterstattung\": Jörg Schönenborn wird Tagesthemen-Moderator",
-          "link": "https://kress.de/news/beitrag/152314-quot-er-sichert-vertrauen-in-unsere-berichterstattung-quot-joerg-schoenenborn-wird-tagesthemen-moderator.html",
-          "summary": "Jörg Schönenborn, langjähriger WDR-Manager und erfahrener ARD-Journalist, wird ab Mitte 2026 das Moderationsteam der Tagesthemen verstärken und dort neben Jessy Wellmer und Ingo Zamperoni arbeiten. Die ARD-Führung begründet die Personalentscheidung mit Schönenborns Expertise im Qualitätsjournalismus und seiner Glaubwürdigkeit, die als Antwort auf Desinformation und zur Stärkung des Vertrauens in die politische Berichterstattung dienen soll. Schönenborn ersetzt Helge Fuhst, der kürzlich zum Axel-Springer-Verlag als Chefredakteur der Welt gewechselt ist.",
+          "title": "KI-Zusammenfassungen ersetzen oft die weitere Recherche",
+          "link": "https://kress.de/news/beitrag/152377-umfrage-ki-zusammenfassungen-ersetzen-oft-die-weitere-recherche.html",
+          "summary": "Eine Umfrage zeigt, dass 80% der deutschen Online-Nutzer KI-Zusammenfassungen von Suchmaschinen kennen, wobei 61% diese zur schnellen Informationsbeschaffung ohne eigene Quellenrecherche nutzen. Das Vertrauen variiert stark thematisch: Bei weichen Themen wie Kochen (54%) oder Allgemeinwissen (51%) ersetzen KI-Zusammenfassungen häufig die Originalquellen, während bei harten News-Themen wie Politik (14%) oder Finanzen (12%) deutlich mehr Nutzer zusätzliche Recherche betreiben. Positiv für journalistische Medien: Das Vertrauen in Online-Nachrichten stieg erstmals seit drei Jahren wieder an (65% vs. 61% im Vorjahr).",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Funke übernimmt B2B-Magazin aus Thüringen Die Funke Mediengruppe hat sich den Fachverlag Thüringen einverleibt.",
+          "link": "https://kress.de/news/beitrag/152375-funke-uebernimmt-b2b-magazin-aus-thueringen.html",
+          "summary": "Die Funke Mediengruppe übernimmt den Fachverlag Thüringen mit etwa zehn Mitarbeitenden und behält die bisherige Eigentümerin Juliane Keith als Geschäftsführerin. Der Verlag publiziert das B2B-Magazin \"Wirtschaftsspiegel\" mit 8.000 Druckexemplaren und 20.000 Lesern sowie das Digital-Format \"Wiyou\" für Gen Z. Die Übernahme soll Funke neue Zielgruppen im Mittelstandssegment erschließen und dem Fachverlag weiteres Wachstum ermöglichen.",
           "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "ZDF führt strengere Regeln für Fremdmaterial ein Nach dem viel diskutierten fehlerhaften Beitrag im „heute journal“ vom 15.",
+          "link": "https://kress.de/news/beitrag/152371-nach-ki-fehler-im-heute-journal-zdf-fuehrt-strengere-regeln-fuer-fremdmaterial-ein.html",
+          "summary": "Das ZDF hat nach einem fehlerhaften \"heute journal\"-Beitrag vom 15. Februar, in dem KI-generiertes Bildmaterial und kontextfremde Sequenzen verwendet wurden, einen fünf Punkte umfassenden Maßnahmenkatalog beschlossen. Die Maßnahmen umfassen systematische KI-Schulungen, erweiterte Bildverifikation, verbindliche Quellenhierarchien für Fremdmaterial sowie angepasste Abnahmeprozesse. Der ZDF-Fernsehrat will die Wirksamkeit der Regelungen zur Qualitätssicherung zu gegebener Zeit überprüfen.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Heinrich Pfeiffer wird Landeskorrespondent in Mecklenburg-Vorpommern Heinrich Pfeiffer berichtet...",
+          "link": "https://kress.de/news/beitrag/152373-deutschlandradio-heinrich-pfeiffer-wird-landeskorrespondent-in-mecklenburg-vorpommern.html",
+          "summary": "Heinrich Pfeiffer übernimmt ab 1. April 2026 die Position des Landeskorrespondenten von Deutschlandradio in Mecklenburg-Vorpommern und folgt damit auf Silke Hasselmann. Der 1997 geborene Journalist bringt Erfahrungen von Radio Bremen, dem freien Radio LOHRO sowie verschiedenen Produktionen von Deutschlandradio und NDR mit. Er wird für alle drei Programme des Deutschlandradios aus dem Bundesland berichten.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "RND sucht Redakteur für digitales Design und Datenvisualisierung Das RedaktionsNetzwerk Deutschland...",
+          "link": "https://kress.de/news/beitrag/152372-job-des-tages-rnd-sucht-redakteur-fuer-digitales-design-und-datenvisualisierung.html",
+          "summary": "Das RedaktionsNetzwerk Deutschland sucht einen Redakteur für Lokaljournalismus in Flensburg, der eigenständig Themen aus der Region aufspürt und multimedial für verschiedene Kanäle wie Flensburger Tageblatt und shz.de aufbereitet. Vorausgesetzt werden ein abgeschlossenes Volontariat oder vergleichbare Erfahrung sowie digitale Kompetenz für Online- und Social-Media-Formate. Der Arbeitgeber sh:z bietet flexible Arbeitsbedingungen, 30 Urlaubstage und verschiedene Zusatzleistungen wie Weiterbildung und betriebliche Altersvorsorge.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Holger Friedrichs OAZ: Chefredakteur Baganz geht nach vier Wochen Die Ostdeutsche Allgemeine Zeitung verliert nur vier Wochen nach ihrem Start den Chefredakteur: Dorian Baganz verlässt das Projekt von Verleger Holger Friedrich. Der Verlag sucht nun einen Nachfolger",
+          "link": "https://kress.de/news/beitrag/152308-holger-friedrichs-oaz-chefredakteur-baganz-geht-nach-vier-wochen.html",
+          "summary": "Dorian Baganz verlässt nach nur vier Wochen seine Position als Chefredakteur der neu gestarteten Ostdeutschen Allgemeinen Zeitung (OAZ) von Verleger Holger Friedrich während der Probezeit. Als Grund nannte Baganz unterschiedliche Vorstellungen über die inhaltliche Ausrichtung und Fragen der persönlichen Zusammenarbeit. Der Verlag sucht nun einen Nachfolger für das am 20. Februar gestartete ostdeutsche Medienprojekt.",
+          "score": 7
         },
         {
           "source": "kress",
           "title": "Medienkongress in Hannover: Gauck nennt Friedrichs OAZ „Ossi-Postille“ Beim Medienkongress „The Future of German Media“ in Hannover prallen unterschiedliche Sichtweisen auf Journalismus aufeinander. Altbundespräsident Joachim Gauck attackiert Holger Friedrichs neues Medienprojekt Ostdeutsche Allgemeine Zeitung",
           "link": "https://kress.de/news/beitrag/152310-medienkongress-in-hannover-gauck-nennt-friedrichs-oaz-ossi-postille.html",
-          "summary": "Beim Medienkongress \"The Future of German Media\" in Hannover attackierte Altbundespräsident Joachim Gauck Holger Friedrichs neue \"Ostdeutsche Allgemeine Zeitung\" als \"Ossi-Postille\", während Friedrich sein Projekt verteidigte und einen schnellen Break-Even nach nur zehn Tagen verkündete. Parallel dazu verließ OAZ-Chefredakteur Dorian Baganz noch während seiner Probezeit die Redaktion wegen \"unterschiedlicher Vorstellungen über die inhaltliche Ausrichtung\". Madsack-Chef Thomas Düffert begrüßte den neuen Marktzutritt, sieht aber keinen direkten Wettbewerb zu seinen lokaljournalistischen Angeboten in Ostdeutschland.",
+          "summary": "Beim Medienkongress „The Future of German Media\" in Hannover diskutierten Branchenvertreter über Holger Friedrichs neues Medienprojekt „Ostdeutsche Allgemeine Zeitung\" (OAZ), das bereits nach zehn Tagen den Break-Even erreicht haben soll. Altbundespräsident Joachim Gauck kritisierte das Projekt als „Ossi-Postille\", während zeitgleich Chefredakteur Dorian Baganz wegen unterschiedlicher Vorstellungen über die inhaltliche Ausrichtung während der Probezeit kündigte. Madsack-Vorstandschef Thomas Düffert sieht die OAZ weniger als Konkurrenz, da seine Zeitungen auf Lokaljournalismus setzen, während die OAZ überregional agiert.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Job des Tages: Flensburger Tageblatt sucht Redakteur für Lokaljournalismus Das Flensburger Tageblatt, Teil von sh:z",
+          "link": "https://kress.de/news/beitrag/152312-job-des-tages-flensburger-tageblatt-sucht-redakteur-fuer-lokaljournalismus.html",
+          "summary": "Das Flensburger Tageblatt sucht einen Redakteur für klassischen Lokaljournalismus mit digitaler Kompetenz, der eigenständig Themen aus Flensburg und Umgebung aufspürt und multimedial für Print, Online und Social Media aufbereitet. Vorausgesetzt werden ein abgeschlossenes Volontariat oder vergleichbare Erfahrung sowie die Bereitschaft zu flexiblen Arbeitszeiten. Der Arbeitgeber sh:z bietet 30 Urlaubstage, Weiterbildungsmöglichkeiten und verschiedene Zusatzleistungen wie Firmenfitness und betriebliche Altersvorsorge.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Video Daily: TV-Quoten & Streaming-Charts Neue \"Nord Nord Mord\"-Folge siegt mit herausragendem Marktanteil Die klare Nummer 1 des linearen Fernsehens hieß am Montag wenig überraschend “Nord Nord Mord”. Die ZDF-Krimi-Reihe, die 2022 auch schonmal die 10-Millionen-Marke geknackt hat, lockte mit der neuen Folge “Sievers und der letzte Tango” 7,58 Millionen Leute und erzielte damit einen traumhaften Marktanteil von 31,9 Prozent. Zum Vergleich: Der erste direkte Konkurrent “Wer wird Millionär?” landete bei 12,2 Prozent. Im jungen Publikum setzte sich um 20.15 Uhr hingegen “Die Höhle der Löwen” durch",
-          "link": "https://meedia.de/news/beitrag/21358-neue-quot-nord-nord-mord-quot-folge-siegt-mit-herausragendem-marktanteil.html",
-          "summary": "Die ZDF-Krimi-Reihe \"Nord Nord Mord\" dominierte am Montagabend das lineare Fernsehen mit 7,58 Millionen Zuschauern und einem herausragenden Marktanteil von 31,9 Prozent - dem fünftbesten Wert in der 28-teiligen Seriengeschichte. Der direkte Konkurrent \"Wer wird Millionär?\" (RTL) erreichte lediglich 12,2 Prozent Marktanteil, während bei den jungen Zuschauern \"Die Höhle der Löwen\" knapp vor \"Wer wird Millionär?\" siegte.",
+          "title": "Zoff unter Top-Journalisten Dagmar Rosenfeld wirft Gabor Steingart die Brocken hin Die Macherin des...",
+          "link": "https://meedia.de/news/beitrag/21369-dagmar-rosenfeld-wirft-gabor-steingart-die-brocken-hin.html",
+          "summary": "Dagmar Rosenfeld beendet ihre Mitarbeit als Kolumnistin bei Gabor Steingarts \"The Pioneer\", nachdem dieser Host-Read-Ads in Podcasts als \"Prostitution\" bezeichnet hatte. Rosenfeld, die diese Werbeform in ihrem Podcast \"Machtwechsel\" einsetzt, fühlte sich durch Steingarts Äußerungen persönlich angegriffen, während auch ihr Podcast-Partner Robin Alexander Steingart einen Mangel an \"Stil und Anstand\" vorwirft.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "TV-Quoten & Streaming-Charts Das ZDF punktet mit \"Tricks von Burger King & Co.\" im jungen Publikum...",
+          "link": "https://meedia.de/news/beitrag/21368-das-zdf-punktet-mit-quot-tricks-von-burger-king-amp-co-quot-im-jungen-publikum.html",
+          "summary": "ProSieben sicherte sich bei den 14- bis 49-Jährigen nur knapp den Prime-Time-Sieg mit \"TV total\", da das ZDF-Format \"besseresser: Die Tricks von Burger King & Co.\" in der jungen Zielgruppe überraschend stark performte. Im Gesamtpublikum dominierte RTLs \"Alpentod\" mit 2,81 Millionen Zuschauern (13,3%), lag aber noch hinter den ARD-Serien \"Die Notärztin\" und \"In aller Freundschaft\". Das ZDF-Format erreichte zwar nur 2,07 Millionen Gesamtzuschauer (9,3%), punktete jedoch deutlich stärker in der werberelevanten Zielgruppe.",
           "score": 10
         },
         {
           "source": "meedia",
-          "title": "Podcast-Werbung ist perfektes mobile Advertising Podcast-Kampagnen sind vermutlich der effektivste Weg für mobile Kampagnen.",
-          "link": "https://meedia.de/news/beitrag/21354-back-market-podcast-werbung-ist-perfektes-mobile-advertising.html",
-          "summary": "Podcast-Werbung gilt als besonders effektives mobiles Werbeformat aufgrund hoher Reichweiten, präziser thematischer Targeting-Möglichkeiten, verfügbarer Geo-Daten und der Flexibilität durch Dynamic Ad Insertion. Das Audioformat profitiert davon, dass Hörer es hauptsächlich unterwegs konsumieren und es parallel zu anderen Tätigkeiten genutzt werden kann, ohne mit visuellen Medien zu konkurrieren. Trotz dieser Vorteile hinkt die Budgethöhe noch der medialen Reichweite des Formats hinterher.",
+          "title": "Interview mit Markus Hetzenegger, Gründer von Nyba Wie funktioniert TikTok-Advertising, Herr Hetzenegger?",
+          "link": "https://meedia.de/news/beitrag/21366-wie-funktioniert-tiktok-advertising-herr-hetzenegger.html",
+          "summary": "Markus Hetzenegger, Gründer der auf TikTok spezialisierten Agentur Nyba, argumentiert gegen das gängige Mantra, dass Unternehmen auf TikTok zwingend viralen Content benötigen. Stattdessen empfiehlt er einen pragmatischeren Ansatz über klassische Werbeschaltungen, um sich an die Plattform heranzutasten und von deren erstklassigem Targeting zu profitieren. Seine Agentur bewegt bereits sieben- bis achtstellige Performance-Budgets auf TikTok und zeigt damit, dass die Plattform weit über Brandbuilding hinausgewachsen ist.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Weltmarktführer für Brillen, Sonnenbrillen und Kontaktlinsen Apollo-Optik-Eigentümer...",
+          "link": "https://meedia.de/news/beitrag/21362-apollo-optik-eigentuemer-essilorluxottica-buendelt-globalen-mediaetat-bei-publicis.html",
+          "summary": "EssilorLuxottica hat seinen weltweiten Mediaetat von rund 450 Millionen Euro nach einem Pitch vollständig bei der Publicis Groupe gebündelt, nachdem zuvor sowohl Publicis Media als auch WPP Media den Augenoptikkonzern betreut hatten. Der Weltmarktführer für Brillen und Kontaktlinsen, dem Marken wie Ray-Ban und Oakley gehören, steigerte 2025 seinen Umsatz um 7,5 Prozent auf 28,5 Milliarden Euro. WPP verliert damit einen bedeutenden Kunden, während das Publicis-Network Zenith als wahrscheinlicher Lead-Betreuer gilt.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "von National- bis Schulteams Lidl-Mutter Schwarz wird erster strategischer Partner der UEFA Die...",
+          "link": "https://meedia.de/news/beitrag/21364-lidl-mutter-schwarz-wird-erster-strategischer-partner-der-uefa.html",
+          "summary": "Die Schwarz Gruppe (Lidl/Kaufland) wird erster strategischer Partner der UEFA und erweitert damit Lidls bisherige Partnerschaft auf Männer- und Frauenteams mit Fokus auf UEFA Euro 2028 und Women's Euro 2029. Als \"Take Care Nutrition Partner\" engagiert sich Lidl über klassisches Sponsoring hinaus in UEFA-Bildungsprogrammen und entwickelt eine digitale Plattform für Schulen und Vereine zu inklusivem Fußball und gesunder Ernährung. Die Partnerschaft zielt auf bewusste Ernährung und Förderung der Kreislaufwirtschaft im europäischen Fußball ab.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Optionen im Lesermarkt und in der Vermarktung Funke kauft den Fachverlag Thüringen Die Funke...",
+          "link": "https://meedia.de/news/beitrag/21365-funke-kauft-den-fachverlag-thueringen.html",
+          "summary": "Die Funke Mediengruppe übernimmt den Fachverlag Thüringen mit dem führenden Wirtschaftsmagazin „Wirtschaftsspiegel\" (20.000 Leser) und der Plattform „WIYOU\", um ihre B2B-Position in der Region zu stärken. Alle Mitarbeiter wechseln zu Funke, Geschäftsführerin Juliane Keith bleibt im Amt. Die Akquisition erweitert Funkes Zugang zu Geschäftskunden und Entscheidern im Freistaat Thüringen.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Joybuy tritt gegen MediaMarktSaturn an Die chinesische Online-Plattform Joybuy, die neue...",
-          "link": "https://meedia.de/news/beitrag/21351-aus-einem-haus-und-doch-rivalen-joybuy-tritt-gegen-mediamarktsaturn-an.html",
-          "summary": "Die chinesische Online-Plattform Joybuy, Schwesterfirma von MediaMarktSaturn unter dem neuen Eigentümer JD.com, startet in Deutschland und fünf weiteren europäischen Märkten mit einer breit angelegten Werbekampagne von DOOH bis TV. Das Sortiment umfasst Technik, Haushaltsgeräte, Beauty und weitere Kategorien mit taggleicher Lieferung zunächst in NRW-Großstädten. Paradoxerweise entsteht durch die Expansion eine direkte Konkurrenzsituation zwischen Joybuy und MediaMarktSaturn, obwohl beide unter demselben Konzernschirm operieren werden.",
-          "score": 9
+          "title": "\"Übertrifft unsere Erwartungen deutlich\" Abo-Einbruch ausgeblieben: \"taz\"-Fans akzeptieren den...",
+          "link": "https://meedia.de/news/beitrag/21363-abo-einbruch-ausgeblieben-quot-taz-quot-fans-akzeptieren-den-print-abschied.html",
+          "summary": "Die taz verzeichnet bei ihrer \"Seitenwende\" zur digitalen Werktagsausgabe einen überraschend hohen Erfolg: 89,3 Prozent der bisherigen Print-Abonnenten wechselten zum E-Paper-Angebot, deutlich mehr als die ursprünglich prognostizierten 70 Prozent. Von den rund 14.600 Print-Abonnements im Oktober 2025 konnte ein Großteil erfolgreich ins digitale Modell überführt werden, wobei etwa 70 Prozent der Nutzer weiterhin ein Kombi-Angebot aus digitaler Tagesausgabe und gedruckter \"wochentaz\" wählen.",
+          "score": 8
         },
         {
           "source": "meedia",
-          "title": "Dossier 3/2026: Mobile Advertising Wie KI und Social Search die Customer Journey verändern Mobile-Marketing unterliegt einem drastischen Wandel.",
-          "link": "https://meedia.de/news/beitrag/21348-wie-ki-und-social-search-die-customer-journey-veraendern.html",
-          "summary": "Mobile-Marketing durchläuft einen fundamentalen Wandel, da Social Media-Plattformen wie TikTok und YouTube sowie KI-Chatbots zunehmend als primäre Einstiegspunkte für Browsing-Sessions fungieren. Mit 64% aller Webseitenaufrufe über Smartphones und über zwei Drittel aller Suchanfragen mobil ist Mobile Marketing zum Mainstream geworden. Marketer müssen ihre Strategien entsprechend anpassen, verstärkt auf Video-Content setzen und komplexe Nutzeranfragen statt einfacher Keyword-Suchen bedienen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Nielsen-Werbetrend Februar 2026 Lineares Fernsehen drückt den deutschen Werbemarkt massiv ins Minus...",
-          "link": "https://meedia.de/news/beitrag/21353-lineares-fernsehen-drueckt-den-deutschen-werbemarkt-massiv-ins-minus.html",
-          "summary": "Der deutsche Werbemarkt verzeichnete im Februar 2026 deutliche Verluste, hauptsächlich getrieben durch einen Brutto-Umsatzrückgang von 7,3% beim linearen Fernsehen gegenüber dem Vorjahresmonat. Besonders RTL war mit einem Minus von 20,8% betroffen, während nur Online-Vermarkter und Kinowerbung weiterhin Zuwächse verzeichnen konnten. Die Olympischen Spiele werden als wesentlicher Faktor für die schwächere Performance der Privatsender gesehen.",
-          "score": 9
+          "title": "Gameshow mit Retouren-Paketen Was rappelt im Karton: Wie Ebay und Brainpool Fernsehen neu denken Eine Gameshow nach dem Überraschungs-Ei-Prinzip",
+          "link": "https://meedia.de/news/beitrag/21361-was-rappelt-im-karton-wie-ebay-und-brainpool-fernsehen-neu-denken.html",
+          "summary": "Ebay und Brainpool launchen am 27. März mit „Mystery Mania\" eine innovative Live-Gameshow, die E-Commerce und Entertainment crossmedial auf Twitch, TikTok und YouTube verknüpft. Das Format versteigert 50 ungeöffnete Retouren-Boxen im Gesamtwert von 15.000 Euro sowohl an Studio-Publikum als auch Live-Stream-Zuschauer, moderiert von Björn Freitag und Sarah Knappik. Die Show verzichtet bewusst auf klassische TV- oder Streaming-Partner und zielt auf nahtlose Integration von Unterhaltung und direkter Kaufmöglichkeit ab.",
+          "score": 8
         },
         {
           "source": "Guardian Media",
-          "title": "The hill I will die on: Streaming is rubbish – take me back to the golden era of DVDs | Frances Ryan",
-          "link": "https://www.theguardian.com/commentisfree/2026/mar/16/streaming-rubbish-era-dvds-platform-paywall",
-          "summary": "Die Autorin Frances Ryan kritisiert das Streaming-System als kostspielig und benutzerunfreundlich im Vergleich zur DVD-Ära, da Nutzer mehrere Plattformen abonnieren müssen und neue Filme bis zu £20 kosten. Sie argumentiert, dass Streaming das Filmeschauen zu Hause teurer und eingeschränkter gemacht hat, während früher physische DVDs dauerhaften Besitz und einfacheren Zugang ermöglichten. Ryan sehnt sich nach der \"goldenen Ära\" zurück, als Kinokarten £5 kosteten und lokale DVD-Shops eine unkomplizierte Alternative boten.",
+          "title": "Judge orders more than 1,000 Voice of America employees to be reinstated",
+          "link": "https://www.theguardian.com/us-news/2026/mar/17/voice-of-america-employees-reinstated",
+          "summary": "Ein von Trump ernannter Bundesrichter hat angeordnet, dass über 1.000 entlassene Voice of America-Mitarbeiter bis zum 23. März wieder eingestellt werden müssen, nachdem die Trump-Administration unter der Leitung von Kari Lake die Radiostation faktisch stillgelegt hatte. Richter Royce Lamberth erklärte Lakes Führung der übergeordneten US Agency for Global Media für illegal und forderte einen Plan zur Wiederaufnahme des VOA-Betriebs. Die Entscheidung erfolgte nach separaten Klagen von VOA-Direktor Michael Abramowitz und anderen Mitarbeitern gegen die Regierung.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Lisa Nandy vows to give BBC permanent charter to prevent political interference",
+          "link": "https://www.theguardian.com/media/2026/mar/17/lisa-nandy-vows-bbc-permanent-charter-political-interference",
+          "summary": "Die britische Kulturministerin Lisa Nandy kündigte an, der BBC erstmals eine dauerhafte Charter zu gewähren, um die öffentlich-rechtliche Rundfunkanstalt vor politischer Einflussnahme und wiederkehrenden \"Kulturkampf\"-Attacken zu schützen. Das bisherige System einer alle 10 Jahre zu erneuernden Charter schaffe eine permanente existenzielle Bedrohung für die BBC, die sich durch den Aufstieg von BBC-kritischen Parteien wie Reform UK verschärft habe. Während Finanzierung und Strukturen weiterhin regelmäßig verhandelt werden sollen, würde die permanente Charter das \"bizarre\" Szenario beenden, dass die BBC theoretisch aufhören könnte zu existieren, falls keine rechtzeitige Einigung erzielt wird.",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Police and media launch charter to ‘reset’ relations after Nicola Bulley case",
+          "link": "https://www.theguardian.com/uk-news/2026/mar/17/police-and-media-launch-charter-to-reset-relations-after-nicola-bulley-case",
+          "summary": "Polizei und Medien in England und Wales haben eine neue Charta verabschiedet, um ihre zerrütteten Beziehungen nach dem umstrittenen Fall Nicola Bulley 2023 zu verbessern. Die Charta soll regelmäßige Interaktion zwischen Polizei und Journalisten fördern und Beamten klarmachen, dass Medienkontakt bei polizeilichem Zweck erwünscht ist. Hintergrund ist die massive Kritik am Informationsmanagement im Bulley-Fall, der weltweit 6.500 Artikel an einem Tag generierte und Verschwörungstheorien befeuerte.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "CBS News workers hold 24-hour walkout for new contract",
+          "link": "https://www.theguardian.com/media/2026/mar/17/cbs-news-workers-24-hour-contract-walkout",
+          "summary": "CBS News-Mitarbeiter des Streaming-Dienstes CBS News 24/7 traten am Dienstag für 24 Stunden in den Streik, nachdem Vertragsverhandlungen mit der Writers Guild of America East nach Ablauf des Vertrags am 9. März scheiterten. Die Gewerkschaft wirft dem Management vor, schlechtere Bedingungen als in vorherigen Verträgen anzubieten und faire Löhne sowie grundlegende Arbeitsplatzschutz zu verweigern, obwohl Mutterkonzern Paramount milliardenschwere Übernahmen tätigt. Etwa 60 Arbeiter sind betroffen, mit Protesten in New York und San Francisco.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "US media mogul sees a big opportunity in the cuts at the Washington Post",
+          "link": "https://www.theguardian.com/media/2026/mar/17/notus-hire-washington-post-staff-robert-allbritton",
+          "summary": "Robert Allbritton, Besitzer des digitalen Nachrichtenportals Notus, nutzt die Massenentlassungen bei der Washington Post als strategische Chance und hat prominente Ex-Post-Journalisten wie Dana Milbank, Paul Kane und Jeff Stein abgeworben. Das Unternehmen plant, seine Belegschaft von 50 auf 100 Mitarbeiter bis Ende 2026 zu verdoppeln, wobei die Post-Entlassungen diese bereits bestehenden Wachstumspläne beschleunigt haben.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Canadian billionaire Stephen Smith buys 27% stake in the Economist",
+          "link": "https://www.theguardian.com/media/2026/mar/17/stephen-smith-stake-economist-news-magazine",
+          "summary": "Der kanadische Milliardär Stephen Smith hat über seine Smith Financial Corp eine 26,9%-Beteiligung an der Economist Group von Lynn Forester de Rothschild für einen nicht genannten Betrag erworben, was erst die dritte größere Eigentümerschaftsveränderung in der 183-jährigen Geschichte des Medienkonzerns darstellt. Die Economist Group, die das wöchentliche Nachrichtenmagazin The Economist sowie weitere Publikationen betreibt, erzielte zuletzt einen Umsatz von £369m bei £48m Gewinn und steigerte die Abonnentenzahl um 3% auf 1,25 Millionen. Die Transaktion steht noch unter dem Vorbehalt der Genehmigung durch die vier unabhängigen Treuhänder, die für die Wahrung der redaktionellen Werte des Economist verantwortlich sind.",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Tina Fey, Jamie Dornan and Riz Ahmed first three guest hosts of UK Saturday Night Live",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/mar/16/tina-fey-jamie-dornan-riz-ahmed-first-three-guest-hosts-of-uk-saturday-night-live",
+          "summary": "Saturday Night Live UK startet am 21. März live auf Sky One mit Tina Fey, Jamie Dornan und Riz Ahmed als erste Gastgeber sowie Wet Leg, Wolf Alice und Kasabian als Musikacts. Die britische Adaption folgt dem bewährten SNL-Format mit wöchentlicher Produktion, einem 11-köpfigen Comedy-Cast im Alter von 26-36 Jahren und Lorne Michaels als Executive Producer. Das Show-Konzept umfasst Monologe, topische Sketches, Live-Musik und eine britische Version des \"Weekend Update\"-Segments.",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "BBC asks US court to throw out Trump’s $10bn lawsuit and avoid ‘chilling effect’",
+          "link": "https://www.theguardian.com/media/2026/mar/16/bbc-us-court-throw-out-donald-trump-10bn-lawsuit-chilling-effect",
+          "summary": "Die BBC fordert ein US-Gericht auf, Donald Trumps 10-Milliarden-Dollar-Klage wegen der Bearbeitung einer seiner Reden in einer Panorama-Dokumentation abzuweisen, da das Gericht keine Zuständigkeit habe und die Dokumentation nicht in den USA ausgestrahlt wurde. Die BBC-Anwälte argumentieren, dass die \"grundlose\" Klage einen \"Chilling Effect\" auf die Berichterstattung über öffentliche Personen haben würde und verweisen auf ähnliche erfolglose Trump-Klagen gegen CNN. Obwohl die BBC bereits eine persönliche Entschuldigung für den strittigen 12-Sekunden-Clip ausgesprochen hat, besteht Trump auf der Klage wegen angeblicher Rufschädigung.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "TV tonight: inside Facebook and Meta with ex-staff and whistleblowers",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/mar/16/tv-tonight-inside-facebook-and-meta-with-ex-staff-and-whistleblowers",
+          "summary": "BBC-Reporter Marianna Spring präsentiert in \"Inside the Rage Machine\" (BBC Two, 21 Uhr) eine Untersuchung über Meta/Facebook, basierend auf Interviews mit ehemaligen Mitarbeitern und Whistleblower-Dokumenten, die aufzeigt, wie Social-Media-Algorithmen gezielt Polarisierung und Hass fördern, um Profite zu maximieren. Die Dokumentation analysiert auch die Auswirkungen von TikTok sowie die Rolle sozialer Medien bei Ereignissen wie der Pandemie und den Southport-Unruhen.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Chow Yun Fat, Aaron Kwok, Tony Leung Ka Fai & Louis Koo Join Cast Of Edko Films’ ‘Cold War 1994’",
+          "link": "https://deadline.com/2026/03/chow-yun-fat-aaron-kwok-tony-leung-louis-koo-cold-war-1236758889/",
+          "summary": "Edko Films kündigte auf der Filmart die Besetzung für das Action-Thriller-Prequel \"Cold War 1994\" an, das mit Chow Yun Fat, Aaron Kwok, Tony Leung Ka Fai und Louis Koo sowie internationalen Stars wie Aidan Gillen und Hugh Bonneville eine der größten Starbesetzungen der Hong Kong-Kinogeschichte versammelt. Der Film ist das Prequel zu den erfolgreichen Polizeifilmen \"Cold War\" und \"Cold War 2\", die zusammen über 13 Millionen US-Dollar an der Hong Kong-Kinokasse einspielten. Zwei Prequels wurden gleichzeitig gedreht - \"Cold War 1994\" und \"Cold War 1995\" - wobei das Veröffentlichungsdatum noch nicht bekannt gegeben wurde.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "Profits Slashed At STV After “Challenging Year”",
-          "link": "https://deadline.com/2026/03/stv-results-profit-slashed-criminal-record-blue-lights-1236756881/",
-          "summary": "STV verzeichnete ein schwieriges Geschäftsjahr 2025 mit einem Betriebsgewinnrückgang von 70% und einem Gesamtverlust von £4M (gegenüber £13,1M Gewinn 2024), was zu unternehmensweiten Entlassungen führte. Der Produktionsarm STV Studios litt unter erheblicher Verschlechterung des Auftragsmarktes, wobei unscripted Projekte nicht grünlicht erhielten und Aufträge verschoben wurden. Das Unternehmen implementiert ein £8M-Sparprogramm bis Ende 2026, während das ursprüngliche Ziel einer Verdopplung der Studios-Gewinne auf £140M zunehmend unrealistisch erscheint.",
+          "title": "Prime Video Germany & Leonine Strike Multi-Year Movie Deal",
+          "link": "https://deadline.com/2026/03/prime-video-germany-leonine-movie-deal-the-housemaid-1236758882/",
+          "summary": "Prime Video Deutschland und Österreich hat einen mehrjährigen Lizenzvertrag mit Leonine Studios geschlossen, der ab Januar 2026 alle Kinofilme aus Leonines Verleihprogramm sowie sechs Monate exklusive SVoD-Rechte im Pay-2-Fenster umfasst. Das Deal-Paket beinhaltet Hollywood-Blockbuster wie \"The Housemaid\" mit Amanda Seyfried, \"The Drama\" mit Zendaya und Robert Pattinson sowie \"The Hunger Games – Sunrise on the Reaping\", ergänzt um deutsche Produktionen und Bibliothekstitel wie John Wick und Asterix. Die Vereinbarung spiegelt den Trend zu verstärkten Partnerschaften zwischen Streamingdiensten und lokalen Content-Anbietern wider.",
+          "score": 10
+        },
+        {
+          "source": "Deadline",
+          "title": "Singaporean HAF Project ‘Strange Root’ Secures Co-producers In Indonesia, Germany, Netherlands & Philippines",
+          "link": "https://deadline.com/2026/03/singapore-haf-strange-fruit-13-little-pictures-palari-1236758854/",
+          "summary": "Das singapurische Produktionsunternehmen 13 Little Pictures hat für den mythologischen Body-Horror-Film \"Strange Root\" vier internationale Ko-Produktionspartner aus Indonesien, Deutschland, den Niederlanden und den Philippinen gewonnen und wurde für die neue Genre-Sektion des Hong Kong Asia Film Financing Forum (HAF) ausgewählt. Der im 11. Jahrhundert angesiedelte Film von Lam Li Shuen und Mark Chua erzählt die Geschichte eines aus einer Yamswurzel geborenen Halbgottes und wird auf 16mm/35mm gedreht. Das Projekt baut auf dem erfolgreichen Berlinale-Auftritt der Regisseure auf und stellt laut Produzenten das bisher ambitionierteste Vorhaben des Studios dar.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘Last One Laughing’ Podcast From Audible To Accompany Prime Video UK Series",
-          "link": "https://deadline.com/2026/03/lol-last-one-laughing-uk-companion-podcast-audible-1236756617/",
-          "summary": "Audible startet einen Begleitpodcast zu Staffel 2 der Prime Video UK Serie \"LOL: Last One Laughing\", moderiert von Roisin Conaty mit Behind-the-Scenes-Einblicken und Gästen aus beiden Staffeln. Der Podcast wird parallel zur TV-Serie in drei Tranchen (19. März, 26. März, 2. April) veröffentlicht und von den Ko-Produzenten Zeppotron und Initial für Audible Originals produziert. Das Format kombiniert Backstage-Stories, Cast-Reaktionen und Gespräche mit Comedy-Prominenz sowie Promi-Fans der Serie.",
+          "title": "PCCW & SK Global Show ‘The Season’ Lands Release Date — Filmart",
+          "link": "https://deadline.com/2026/03/the-season-pccw-sk-global-filmart-1236757677/",
+          "summary": "Die sechsteilige Premium-Serie \"The Season\" von PCCW Media und SK Global erhält im Juni 2026 eine weltweite Veröffentlichung auf Viu (Asien, Naher Osten, Südafrika), Hulu/Disney+ (USA) und Now TV (Hongkong). Das englischsprachige Revenge-Drama mit Ensemble-Cast um Jessie Mei Li und Chris Pang spielt in Hongkongs High Society während der Bootssaison und wurde von Yalun Tu (\"NCIS: Hawaii\") kreiert. Fremantle und De Maio Entertainment übernehmen den internationalen Vertrieb der von Marialy Rivas (\"The Jetty\") inszenierten Serie.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Malaysia’s National Film Development Corp Extends Cash Rebate System & Sets New Investment Budget — Filmart",
-          "link": "https://deadline.com/2026/03/malaysia-cash-rebate-extended-filmart-1236757588/",
-          "summary": "Malaysias National Film Development Corp (FINAS) hat auf der Hong Kong Filmart eine Verlängerung des Film In Malaysia Incentive (FIMI) um weitere fünf Jahre angekündigt, das lokalen und internationalen Produktionen 30% Cash Rebate (plus zusätzliche 5% bei Kulturtest) bietet. Gleichzeitig wurde ein Investitionsbudget von 300 Millionen RM (76 Millionen USD) für audiovisuelle Infrastruktur über die nächsten fünf Jahre festgelegt. Das seit 2013 bestehende Programm hat bereits 580 Millionen RM an 243 Projekte ausgezahlt und internationale Produktionen wie \"Crazy Rich Asians\", \"The Mandalorian\" und \"6 Underground\" unterstützt.",
+          "title": "Monsta Studios’ Nizam Abd Razak Talks Record-Breaking Hit ‘Papa Zola’ & Malaysia’s “Animy” Boom",
+          "link": "https://deadline.com/2026/03/papa-zola-movie-monsta-studios-nizam-abd-razak-malaysia-1236757767/",
+          "summary": "Monsta Studios' \"Papa Zola The Movie\" hat mit 16,3 Millionen US-Dollar Umsatz einen neuen Rekord als erfolgreichster malaysischer Animationsfilm aufgestellt und rangiert als dritthöchstgrossierender einheimischer Film aller Zeiten. Der Film war auch in Indonesien sehr erfolgreich mit fast 517.000 Zuschauern und unterstreicht den aktuellen Boom der malaysischen Animationsindustrie, die 2025 bereits zwei Rekordbrecher hervorbrachte. CEO Nizam Abd Razak führt den Erfolg auf die starke Resonanz der Geschichte und Hauptfigur bei lokalen Zielgruppen zurück.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "How Ireland Became Hollywood’s Favorite Co-Producer: “We’re on a Run”",
-          "link": "https://www.hollywoodreporter.com/movies/movie-features/ireland-films-hollywood-oscars-1236530837/",
-          "summary": "Irland erlebt einen bemerkenswerten Aufschwung als Co-Produktionspartner für Hollywood-Filme, unterstützt durch systematische staatliche Förderung und Infrastruktur wie die Ardmore Studios. Bei den diesjährigen Academy Awards waren mehrere irische Produktionen nominiert oder ausgezeichnet, darunter Richard Linklaters \"Blue Moon\" mit Ethan Hawke und Jessie Buckleys Oscar-prämierte Leistung in \"Hamnet\". Producer Macdara Kelleher sieht die Oscar-Nominierung des ersten irischsprachigen Films \"The Quiet Girl\" (2022) als Wendepunkt für Irlands Position in der internationalen Filmlandschaft.",
+          "title": "The Best Peacock Subscription Deals and Free Trial Hacks",
+          "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/best-peacock-subscription-streaming-deal-1235500478/",
+          "summary": "The Hollywood Reporter berichtet über Peacock-Streaming-Deals, wobei das Hauptangebot zwei kostenlose Monate Peacock Premium plus Movies Extra Pack (Wert $19,98) für neue DirecTV-Kunden umfasst, die sich für Entertainment-, Choice-, Ultimate- oder Premier-Pakete anmelden. Nach der Gratisperiode verlängert sich das Angebot automatisch für $9,99 monatlich, kann jedoch jederzeit gekündigt werden. Der Artikel zielt darauf ab, Zuschauer für kommende Inhalte wie \"Wicked: For Good\" (Streaming-Release 20. März) und NBA-Übertragungen zu gewinnen.",
           "score": 8
         },
         {
-          "source": "Variety",
-          "title": "Linmon Media Unveils 2026–2027 Slate and Microdrama Expansion at FilMart Hong Kong",
-          "link": "https://variety.com/2026/digital/asia/linmon-media-microdrama-1236690903/",
-          "summary": "Linmon Media präsentierte auf der FilMart Hong Kong 2026 eine umfangreiche Programmstrategie, die sowohl prestigeträchtige Langform-Dramen als auch eine schnell wachsende Microdrama-Sparte umfasst und gezielt auf asiatische sowie globale Märkte ausgerichtet ist. Das chinesische Produktionsunternehmen hat erfolgreich vier Flaggschiff-Titel auf über 30 internationale Plattformen gebracht, wobei \"A Dream Within a Dream\" in über 180 Ländern ausgestrahlt wurde und \"Love Between Lines\" bereits in 11 Märkten Platz eins erreichte. Die 2026er-Programmpalette wird von der historischen Romanze \"In the Moonlight\" angeführt, die eine gefallene Prinzessin in einer politischen Ehe thematisiert.",
+          "source": "Hollywood Reporter",
+          "title": "‘White Lotus’-like Asian Drama ‘The Season’ Set for U.S. Launch on Hulu in June",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/hong-kong-asian-drama-the-season-hulu-1236535978/",
+          "summary": "PCCW Media und SK Global (Produzenten von \"Crazy Rich Asians\") launchen im Juni 2026 die Limited Series \"The Season\" auf Hulu in den USA und regional auf Viu in Asien. Die Produktion wird als \"White Lotus\"-ähnliches Drama beschrieben, das in der Hongkonger High Society spielt und eine privilegierte Freundesgruppe während der Bootssaison verfolgt, wobei Glamour in Betrug und Machtspiele umschlägt. Fremantle führt den internationalen Vertrieb, während die Serie derzeit auf dem Filmart-Markt in Hongkong präsentiert wird.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Paramount+ Runs Limited-Time Promo Aligned With March Madness, ‘The Madison’ and More",
+          "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/best-paramount-plus-deals-1235162893/",
+          "summary": "Paramount+ bietet bis zum 31. März eine zeitlich begrenzte Promotion für 2,99 USD/Monat in den ersten zwei Monaten (regulär 8,99+ USD) an, die mit March Madness und neuen Inhalten wie \"The Madison\" bewirbt. Zusätzlich können Nutzer kostenlosen Zugang über DirecTV-Pakete (3 Monate Premium) oder Walmart+ Mitgliedschaften erhalten. Die Aktion richtet sich sowohl an Neu- als auch ehemalige Abonnenten.",
           "score": 8
         },
         {
-          "source": "Variety",
-          "title": "AI, Cross-Border Collaboration and Global Content Strategies Explored at FilMart Forum: ‘As Long as the Story Is Strong, AI Can Support Creators in Connecting With Audiences’",
-          "link": "https://variety.com/2026/film/markets-festivals/ai-cross-border-collaboration-filmart-forum-1236690904/",
-          "summary": "Auf dem Hong Kong FilMart Forum diskutierten Branchenvertreter von TVB, Youku und Trinity CineAsia Strategien zur internationalen Expansion asiatischer Inhalte, wobei der Fokus auf KI-Integration, grenzüberschreitender Zusammenarbeit und der Verbindung östlicher und westlicher Erzählansätze lag. Karen Fu, CEO der Huace Group, betonte, dass KI Creators beim Audience-Building unterstützen kann, sofern die Story-Qualität stimmt. Das Panel identifizierte einen Paradigmenwechsel von traditionellen Kulturexporten hin zu integrierten globalen Content-Ökosystemen, in denen Skalierung, Reichweite und Platform-Traffic entscheidende Erfolgsfaktoren werden.",
-          "score": 8
+          "source": "Hollywood Reporter",
+          "title": "Nippon TV’s ‘Life’s Punchline’ Set for Hong Kong Remake Starring Mirror’s Lokman Yeung",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/lifes-punchline-hong-kong-remake-mirror-lokman-yeung-1236535964/",
+          "summary": "Nippon TV und der Hongkonger Produzent MakerVille bringen die japanische Comedy-Drama-Serie \"Life's Punchline\" als 10-teiliges kantonesisches Remake auf ViuTV, mit geplanter Ausstrahlung 2026. Die Originalserie von 2021 folgt drei jungen Männern einer erfolglosen Comedy-Truppe, die sich nach zehn Jahren Karriereverfolgung auflösen und dabei mit der harten Realität gescheiterter Träume konfrontiert werden. Dies markiert das erste von mehreren geplanten internationalen Remakes des Formats, das in Japan mit fast 14 Millionen VOD-Aufrufen binnen zehn Wochen erfolgreich war.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Malaysia Renews $76 Million Film Rebate Fund at Filmart, Bets on Bigger Role as Regional Production Hub",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/malaysia-film-rebate-filmart-2026-1236535974/",
+          "summary": "Malaysia verlängert sein Film in Malaysia Incentive (FIMI) Programm um weitere fünf Jahre mit einem Budget von 76 Millionen US-Dollar und bietet lokalen sowie internationalen Produktionen 30% Cashback auf qualifizierende Ausgaben (plus 5% bei Erfüllung kultureller Kriterien). Zusätzliche 76 Millionen US-Dollar werden für audiovisuelle Infrastruktur-Investimente bereitgestellt, um Malaysias Position als regionaler Produktions- und Post-Production-Hub zu stärken. Das seit 2013 laufende Programm hat bereits 147 Millionen US-Dollar an 243 Projekte ausgezahlt, darunter internationale Produktionen wie \"Crazy Rich Asians\", \"The Mandalorian\" und \"6 Underground\".",
+          "score": 7
         },
         {
           "source": "Variety",
-          "title": "Applause Entertainment, Story TV Team for Premium Microdrama Slate in India (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/news/applause-entertainment-story-tv-microdrama-slate-india-1236690675/",
-          "summary": "Applause Entertainment, das Content-Studio hinter \"Scam 1992\" und \"Criminal Justice\", kooperiert exklusiv mit der indischen Microdrama-Plattform Story TV zur Co-Produktion und Distribution von Short-Form-Content für mobile Zielgruppen. Story TV, seit Juli 2025 aktiv, hat bereits über 50 Millionen Nutzer und mehr als 1.000 Titel in Hindi, Tamil und Telugu, wobei die etwa einminütigen Episoden verschiedene Genres abdecken werden. Die Partnerschaft beinhaltet auch die Adaption von Applause's \"Hello Mini\" in ein vertikales Microdrama-Format.",
-          "score": 9
+          "title": "Prime Video and Germany’s Leonine Studios Extend Partnership With New Multi-Year Deal That Includes ‘The Housemaid,’ ‘The Hunger Games – Sunrise on the Reaping’",
+          "link": "https://variety.com/2026/digital/global/prime-video-leonine-partnership-the-housemaid-hunger-games-1236692084/",
+          "summary": "Prime Video und Leonine Studios haben ihre Partnerschaft in Deutschland und Österreich mit einem mehrjährigen Deal verlängert, der exklusive SVOD-Rechte für sechs Monate im Pay-2-Fenster für Premium-Titel wie \"The Housemaid\" und \"The Hunger Games – Sunrise on the Reaping\" umfasst. Der Vertrag deckt alle Leonine-Kinofilme ab dem 1. Januar 2026 sowie ausgewählte Bibliothekstitel aus Franchises wie \"John Wick\" und \"The Expendables\" ab.",
+          "score": 10
         },
         {
           "source": "Variety",
-          "title": "Malaysia’s FINAS Unveils $76 Million Rebate Renewal at FilMart, Targets Role as Southeast Asia Production Hub",
-          "link": "https://variety.com/2026/film/news/malaysia-finas-76-million-rebate-renewal-filmart-1236690877/",
-          "summary": "Malaysias FINAS hat auf der Hong Kong FilMart eine Verlängerung ihres Cash-Rebate-Programms um weitere 76,5 Millionen US-Dollar über fünf Jahre angekündigt, um die Position des Landes als führendes Produktionszentrum in der Asia-Pacific-Region zu stärken. Das seit 13 Jahren bestehende Programm hat bereits 147,9 Millionen US-Dollar an Rebates für 243 Projekte ausgeschüttet und dabei Gesamtinvestitionen von 713,8 Millionen US-Dollar angezogen sowie etwa 30.000 Arbeitsplätze geschaffen. Die Initiative unterstützt sowohl internationale als auch lokale Produktionen und generierte geschätzte 1,78 Milliarden US-Dollar an Multiplikatoreffekten in verwandten Branchen.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "Arte President Bruno Patino Issues Industry-Wide Alert: AI Has Now Pushed Us Into a ‘Relationship Economy,’ the Only Way Forward Is ‘Coalition’",
-          "link": "https://variety.com/2026/film/global/arte-head-bruno-patino-ai-relationship-economy-coalition-1236689970/",
-          "summary": "Arte-Präsident Bruno Patino warnt vor den Auswirkungen der KI auf die Medienbranche und argumentiert, dass diese die Industrie in eine \"Beziehungsökonomie\" gedrängt hat, in der nur durch Koalitionen ein Überleben möglich ist. Seine düstere Analyse wurde im Rahmen der CPH:SUMMIT präsentiert, die sich mit Medien-Souveränität und der Zukunft der audiovisuellen Industrie beschäftigt. Ein KI-generierter Bericht prognostiziert für 2030 einen drastischen Niedergang der öffentlich-rechtlichen Sender.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "Hrithik Roshan’s HRX Films, Prime Video Team for Comedy ‘Mess’ (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/news/hrithik-roshan-hrx-films-prime-video-comedy-mess-1236690572/",
-          "summary": "Prime Video India und HRX Films (Hrithik Roshans Produktionsfirma) haben die Komödie \"Mess\" angekündigt, ihre zweite Zusammenarbeit nach der Thriller-Serie \"Storm\". Der von Rajesh A. Krishnan inszenierte Film basiert auf einem amerikanischen Drehbuch und handelt von Einbrechern, die in das Haus eines Mannes mit Zwangsstörung einbrechen und dort ums Überleben kämpfen müssen.",
-          "score": 9
+          "title": "‘The Season’ Stars Jessie Mei Li, Chris Pang and More Unveil Global Premiere Date at Buzzy FilMart Presentation",
+          "link": "https://variety.com/2026/tv/asia/season-jessie-mei-li-chris-pang-premiere-date-1236692037/",
+          "summary": "Die englischsprachige Revenge-Drama-Serie \"The Season\" mit Jessie Mei Li und Chris Pang hat ihren globalen Premierentermin für Juni 2026 auf der Hong Kong FilMart bekannt gegeben. Die sechsteilige Co-Produktion von SK Global (\"Crazy Rich Asians\") und PCCW Media wird über Viu in Asien, Hulu in den USA und Now TV in Hong Kong ausgestrahlt. Die Serie spielt in der Welt von Hong Kongs Elite und folgt der Hext-Familie, deren luxuriöse Welt durch die Ankunft einer mysteriösen Newcomerin namens Cola bedroht wird.",
+          "score": 7
         }
       ]
     }
