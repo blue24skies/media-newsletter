@@ -1,364 +1,203 @@
 {
   "newsletters": [
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "articles": [
         {
           "source": "DWDL",
-          "title": "RTL zeigt seine \"Hitster\"-Show im Vorabend-Programm",
-          "link": "https://www.dwdl.de/nachrichten/105876/rtl_zeigt_seine_hitstershow_im_vorabendprogramm/",
-          "summary": "RTL startet am 12. April 2026 die TV-Adaption des populären Partyspiels \"Hitster\" sonntags um 19:05 Uhr im Vorabendprogramm, moderiert von Elton mit prominenten Zweierteams, die um 10.000 Euro für den guten Zweck spielen. Das Spielprinzip bleibt unverändert: Songs müssen chronologisch auf einer Zeitleiste eingeordnet werden, ergänzt durch Live-Auftritte von Musikstars wie Nik Kershaw und Max Giesinger. Die erste Staffel umfasst sechs Folgen und wird von UFA Show & Factual produziert, wobei RTL+ die Episoden eine Woche vorab ausstrahlt.",
-          "score": 10
+          "title": "Roland Trettl springt für Mälzer bei \"Kitchen Impossible\" ein",
+          "link": "https://www.dwdl.de/nachrichten/105882/roland_trettl_springt_fuer_maelzer_bei_kitchen_impossible_ein/",
+          "summary": "Vox startet am 12. April eine neue \"Kitchen Impossible\"-Staffel mit acht Folgen, wobei Tim Mälzer aufgrund einer \"drehfreien Zeit\" nur in vier Episoden mitwirkt. Roland Trettl übernimmt in drei Folgen als Ersatz und tritt gegen Spitzenköche wie Martin Klein und Hans Neuner an. Neu sind eine Team-Edition mit drei Spitzenköchinnen sowie eine \"Best-Friends-Edition\" zum Staffelfinale am 10. Mai.",
+          "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Neue ProSieben-Show \"Staying Alive\" kommt Ende April",
-          "link": "https://www.dwdl.de/nachrichten/105875/neue_prosiebenshow_staying_alive_kommt_ende_april/",
-          "summary": "ProSieben startet am 25. April die neue Musikshow \"Staying Alive - Stars singen mit Legenden\", in der Künstler wie Samu Haber, No Angels, Alvaro Soler und Sasha mittels aufwendiger Technik Duette mit verstorbenen Musiklegenden wie Elvis Presley und Whitney Houston performen. Das von Endemol Shine Germany entwickelte Format wurde bereits auf der MIP London als internationale Formatentwicklung präsentiert und umfasst zunächst zwei Folgen mit Thore Schölermann als Moderator.",
+          "title": "Die Ad Alliance hat ihre Organisations-Struktur neu sortiert",
+          "link": "https://www.dwdl.de/nachrichten/105881/die_ad_alliance_hat_ihre_organisationsstruktur_neu_sortiert/",
+          "summary": "Die Ad Alliance hat ihre Organisationsstruktur unter Geschäftsführer Frank Vogel neu organisiert und vier General Directors für klar abgegrenzte Kernbereiche ernannt: Tim Nieland für Product, Data & Transformation, Astrid Bleeker und Arne Zimmer für den neuen Print & Crossmedia Hub sowie Christian Bacher für Sales Broadcast. Die Neustrukturierung zielt auf eine stärkere Verzahnung von Produktentwicklung und Datenkompetenz ab, wobei Cross-Video-Produkte als zentrales Zukunftsthema definiert wurden.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Filmpool Fiction plant Mehrteiler über Sparkassen-Einbruch",
-          "link": "https://www.dwdl.de/nachrichten/105874/filmpool_fiction_plant_mehrteiler_ueber_sparkasseneinbruch/",
-          "summary": "Filmpool Fiction entwickelt einen fiktionalisierten Event-Mehrteiler basierend auf dem spektakulären Sparkassen-Einbruch in Gelsenkirchen-Buer über Weihnachten 2025, bei dem Täter sich durch eine Tiefgarage in den Tresorraum bohrten und nahezu alle Schließfächer leerten. Drehbuchautor Christian Bach will gemeinsam mit den Produzentinnen Iris Kiefer und Susanna Enk eine dramaturgisch verdichtete Geschichte entwickeln, die sowohl die Täter- als auch die Betroffenen- und Ermittlerperspektive beleuchtet.",
+          "title": "Deal mit Leonine: Prime Video sichert sich Film-Nachschub",
+          "link": "https://www.dwdl.de/nachrichten/105877/deal_mit_leonine_prime_video_sichert_sich_filmnachschub/",
+          "summary": "Prime Video hat eine mehrjährige Lizenzvereinbarung mit Leonine Studios abgeschlossen, die dem Streamingdienst exklusive SVoD-Rechte im Pay-2-Verwertungsfenster für sechs Monate an allen Leonine-Kinofilmen ab Januar 2026 in Deutschland und Österreich sichert. Der Deal umfasst zudem Library-Titel wie \"Asterix & Obelix\", \"The Expendables\" und \"John Wick\" sowie kommende Filme wie \"The Housemaid\" und \"Die Tribute von Panem - Sunrise of the Reaping\". Die Vereinbarung stärkt Prime Videos Position als Premium-Streamingdienst und setzt die langjährige Partnerschaft zwischen beiden Unternehmen fort.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "&quot;Die Relevanz von Audio ist unbestritten&quot; : Wie der Radio Advertising Summit neue Euphorie für Audio entfachen will",
+          "link": "https://www.horizont.net/medien/nachrichten/die-relevanz-von-audio-ist-unbestritten-wie-der-radio-advertising-summit-neue-euphorie-fuer-audio-entfachen-will-233625?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der Werbemarkt kämpft mit Unsicherheiten und verschärftem Wettbewerb zwischen den Mediengattungen. Radiozentrale-Geschäftsführerin Grit Leithäuser will mit dem Radio Advertising Summit gezielt die Begeisterung der Werbekunden für Audio-Werbung wiederbeleben.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "DuMont-Manager: Madsack holt Schultz-Homberg als Chief Transformation Officer",
+          "link": "https://www.horizont.net/medien/nachrichten/dumont-manager-madsack-holt-schultz-homberg-als-chief-transformation-officer-233616?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Thomas Schultz-Homberg wechselt von seiner Position als CEO der Kölner Stadt-Anzeiger Medien (DuMont) zur Madsack Mediengruppe nach Hannover. Dort übernimmt er die neu geschaffene Position des Chief Transformation Officer und soll die Digitalisierung des Unternehmens vorantreiben.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Bewegtbildvermarktung: Ad-Alliance-Umbau: Das sind die neuen Verantwortlichkeiten",
+          "link": "https://www.horizont.net/medien/nachrichten/bewegtbildvermarktung-ad-alliance-umbau-das-sind-die-neuen-verantwortlichkeiten-233622?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Ad Alliance reorganisiert seine Unternehmensstruktur, um Entscheidungsprozesse zu beschleunigen und die Transformation zu konvergenten Medienangeboten voranzutreiben. Der Großvermarkter passt damit seine Organisation an die veränderten Anforderungen der digitalen Bewegtbildvermarktung an.",
+          "score": 10
+        },
+        {
+          "source": "kress",
+          "title": "Madsack holt Thomas Schultz-Homberg von DuMont Die Madsack Mediengruppe sieht sich nach Worten von...",
+          "link": "https://kress.de/news/beitrag/152382-koenigstransfer-madsack-holt-thomas-schultz-homberg-von-dumont.html",
+          "summary": "Thomas Schultz-Homberg (58) wechselt als neuer Chief Transformation Officer von DuMont zur Madsack Mediengruppe, wo er ab 1. Mai den digitalen Umbau im Rahmen des Strategieprojekts „Crunchtime 2030\" vorantreiben soll. Der erfahrene Medienmanager, der zuvor bei FAZ und DDV tätig war, gilt als KI-Pionier in der Regionalmedienbranche und wird sich bei Madsack auf bereichsübergreifende Projekte, KI-Einsatz und IT-Infrastruktur fokussieren. Seine Nachfolge bei den Kölner Stadt-Anzeiger Medien übernimmt Oliver Eckert.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Oliver Eckert wird zusätzlich CEO der KStA Medien",
+          "link": "https://kress.de/news/beitrag/152383-dumont-oliver-eckert-wird-zusaetzlich-ceo-der-ksta-medien.html",
+          "summary": "Oliver Eckert übernimmt zum 1. April 2026 zusätzlich zu seiner Funktion als COO von DuMont die CEO-Position der KStA Medien in Personalunion, nachdem Thomas Schultz-Homberg zur Madsack Mediengruppe wechselt. Die Zusammenführung der Verantwortung soll Entscheidungswege verkürzen und die Regionalstrategie enger mit der DuMont-Gesamtstrategie verzahnen. Eckert wird insbesondere das KI-gestützte Projekt KStA.Connect vorantreiben, das über klassischen Journalismus hinaus eine Plattform für lokale Communities und Services in der Metropolregion Köln schaffen soll.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Christian Heise zieht in die Geschäftsführung ein",
+          "link": "https://kress.de/news/beitrag/152380-spiegel-gruppe-christian-heise-zieht-in-die-geschaeftsfuehrung-ein.html",
+          "summary": "Christian Heise, bisheriger Präsident der Hamburg Media School, wechselt als Chief Strategy and Technology Officer in die Geschäftsführung der Spiegel-Gruppe und soll dort die Verzahnung von Strategie und Technologie für die weitere digitale Transformation vorantreiben. Zusätzlich übernimmt er gemeinsam mit CFO Martina Hoyer die Geschäftsführung der zukünftigen Spiegel TV Magazin GmbH. Die Geschäftsführung der Spiegel-Gruppe erweitert sich damit auf fünf Mitglieder.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "WDR-Journalist Georg Restle wird Leiter des ARD-Studios Nairobi Neue Aufgabe für den langjährigen...",
+          "link": "https://kress.de/news/beitrag/152381-wdr-journalist-georg-restle-wird-leiter-des-ard-studios-nairobi.html",
+          "summary": "Georg Restle, seit 2012 Redaktionsleiter und Moderator des ARD-Politmagazins „Monitor\", übernimmt zum 1. Juni 2026 die Leitung des crossmedialen ARD-Studios Nairobi. Der 60-jährige WDR-Journalist wird am 26. März 2026 letztmalig „Monitor\" moderieren und folgt auf Antje Diekhans, die nun die WDR-Auslandsabteilung in Köln leitet. Restle bringt bereits Auslandserfahrung als ARD-Korrespondent in Moskau (2010-2012) und Ukraine-Berichterstatter mit.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "\"taz\" hält fast 90 Prozent der Abonnenten Die “taz” zeigt sich höchst erfreut über das Resultat...",
+          "link": "https://kress.de/news/beitrag/152376-projekt-quot-seitenwende-quot-quot-taz-quot-haelt-fast-90-prozent-der-abonnenten.html",
+          "summary": "Die \"taz\" konnte nach der Einstellung ihrer werktäglichen Printausgabe im Oktober 2025 fast 90 Prozent ihrer rund 14.600 Print-Abonnenten halten, die größtenteils auf digitale Angebote oder Kombi-Abos mit der Samstags-\"wochentaz\" umgestiegen sind. Das freiwillige Bezahlmodell \"taz zahl ich\" wuchs auf 48.500 Unterstützer an, wodurch sich die wirtschaftliche Lage der Zeitung verbesserte. Als Folge des erfolgreichen Digital-Übergangs beschloss die Geschäftsführung Gehaltserhöhungen und Boni für die Belegschaft.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Wechsel im Vorstand der \"Krautreporter\" Sebastian Esser verlässt den Vorstand der \"Krautreporter\",...",
+          "link": "https://kress.de/news/beitrag/152379-wechsel-im-vorstand-der-quot-krautreporter-quot.html",
+          "summary": "Sebastian Esser, Mitgründer der \"Krautreporter\" (2014), verlässt den Vorstand des mitgliederfinanzierten Magazins, um sich auf seine Geschäftsführertätigkeit bei Steady zu konzentrieren. Seine Nachfolgerin Anna Pointinger, die zuvor sechs Jahre das Newsletter-Marketing und CRM bei der \"taz\" aufbaute, wird künftig gemeinsam mit Leon Fryszer die Führung übernehmen und sich schwerpunktmäßig um Wachstum und Marketing der Genossenschaft kümmern.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Video Daily: TV-Quoten & Streaming-Charts \"Aktenzeichen XY\" besiegt \"Germany's next Topmodel\"",
+          "link": "https://meedia.de/news/beitrag/21382-quot-aktenzeichen-xy-quot-besiegt-quot-germany-039-s-next-topmodel-quot-beide-besiegen-schwachen-mario-barth.html",
+          "summary": "\"Aktenzeichen XY\" dominierte die Mittwoch-Prime-Time mit 19,6% Marktanteil im Gesamtpublikum und 17,7% bei den 14-49-Jährigen, womit das ZDF-Kriminalformat sowohl \"Germany's next Topmodel\" als auch alle anderen Konkurrenzformate schlug. RTLs \"Mario Barth deckt auf\" erwies sich mit nur 6,2% Marktanteil als klarer Flop des Abends, während Sat.1s \"Das große Promibacken\" mit 6,3% überdurchschnittliche Werte für den Sender erzielte.",
           "score": 9
         },
         {
-          "source": "DWDL",
-          "title": "Nächste WDR-Überraschung: Georg Restle hört bei \"Monitor\" auf",
-          "link": "https://www.dwdl.de/nachrichten/105870/naechste_wdrueberraschung_georg_restle_hoert_bei_monitor_auf/",
-          "summary": "Georg Restle gibt nach 14 Jahren sowohl die Redaktionsleitung als auch die Moderation des ARD-Politmagazins \"Monitor\" auf und moderiert am 26. März seine letzte Sendung. Der 60-jährige Grimme-Preisträger wechselt zum 1. Juni als Nachfolger von Antje Diekhans zur Leitung des ARD-Studios Nairobi und kehrt damit in die Auslandsberichterstattung zurück. Diese Personalie folgt kurz nach der Ankündigung des Rückzugs von WDR-Programmdirektor Jörg Schönenborn.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Rojinskis erste Serienhauptrolle: \"My Ex\" kommt im April",
-          "link": "https://www.dwdl.de/nachrichten/105869/rojinskis_erste_serienhauptrolle_my_ex_kommt_im_april/",
-          "summary": "Die ZDF-Serie \"My Ex\" mit Palina Rojinski in ihrer ersten Serienhauptrolle startet am 27. April 2026 in der ZDF-Mediathek und ab 6. Mai linear auf ZDFneo. Die sechsteilige RomCom-Serie folgt Interior-Designerin Ivy, die nach einer Tarot-Prophezeiung ihre Verflossenen aufsucht, um ihre wahre Liebe zu finden, die angeblich unter ihren Ex-Partnern sein soll. Das Format verbindet modernen Dating-Humor mit warmherzigen Gefühlen und behandelt Themen wie Beziehungsdruck und Selbstoptimierung.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "HBO Max als App, aber nicht als Bundle bei Sky verfügbar",
-          "link": "https://www.dwdl.de/nachrichten/105866/hbo_max_als_app_aber_nicht_als_bundle_bei_sky_verfuegbar/",
-          "summary": "HBO Max ist zwei Monate nach dem Deutschland-Start nun als separate App auf Sky Stream und Sky Q verfügbar, erfordert jedoch ein zusätzliches Abonnement und wird nicht als Bundle angeboten. Dies markiert eine Veränderung in der Sky-Warner Bros. Discovery-Partnerschaft, da HBO-Serien früher exklusiv bei Sky ihre Deutschland-Premiere hatten. Die bestehenden Warner-Pay-TV-Kanäle bleiben weiterhin Teil des Sky-Portfolios.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Frühling\" mit Streaming-Rekord, \"Young Sherlock\" startet gut",
-          "link": "https://www.dwdl.de/zahlenzentrale/105864/fruehling_mit_streamingrekord_young_sherlock_startet_gut/",
-          "summary": "Nachrichten dominieren aufgrund des Iran-Kriegs und der Baden-Württemberg-Wahl die Streaming-Charts, mit \"Tagesschau\" (2 Mio.) und \"ZDFheute\" (1,84 Mio.) an der Spitze. Im fiktionalen Bereich erreicht die ZDF-Serie \"Frühling\" erstmals über eine Million Streaming-Nutzer (1,255 Mio.), während Prime Videos \"Young Sherlock\" mit 820.000 einen soliden Start hinlegt. Bemerkenswert ist auch \"Let's Dance\" mit einem VoD-Rekord von 590.000 Nutzern trotz Live-Show-Format.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "TalkNow startet neuen Live-Talk über Realityshows",
-          "link": "https://www.dwdl.de/nachrichten/105863/talknow_startet_neuen_livetalk_ueber_realityshows/",
-          "summary": "TalkNow erweitert sein lineares Podcast-TV-Konzept um das erste Live-Format \"TRL - Total Reality Live\", das ab 29. März sonntags um 22:00 Uhr Reality-Stars in Live-Interviews befragen wird. Die von Yvonne Mouhlen und Maurice Gajda moderierte Show setzt auf ein neues Interaktions-Tool, das die Community in Echtzeit ins TV-Studio einbindet, und wird nach der linearen Ausstrahlung auf YouTube, Spotify und sozialen Medien zweitverwertet. Das Format markiert eine strategische Weiterentwicklung des Senders von der reinen Video-Podcast-Distribution hin zur Live-Contentproduktion.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Geschäftsführung &quot;vervollständigt&quot;: Diesen früheren Google-Manager holt sich der Spiegel als Strategiechef",
-          "link": "https://www.horizont.net/medien/nachrichten/geschaeftsfuehrung-vervollstaendigt-diesen-frueheren-google-manager-holt-sich-der-spiegel-als-strategiechef-233611?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der Spiegel-Verlag holt einen ehemaligen Google-Manager als neuen Chief Strategy Officer in die Geschäftsführung, um die Digitalstrategie nach dem Abgang von Stefan Ottlitz neu zu gestalten. Die Ernennung erfolgt zum Sommer als fünfter Geschäftsführer und vervollständigt die angekündigte Neuaufstellung der Führungsebene. Der Verlag hatte diese strategische Personalentscheidung zunächst bei der Verkündung der Führungsreorganisation offengelassen.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Video-Plattform: Youtube und FIFA kooperieren bei Fußball-WM 2026",
-          "link": "https://www.horizont.net/medien/nachrichten/video-plattform-youtube-und-fifa-kooperieren-bei-fussball-wm-2026-233607?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "YouTube und die FIFA haben eine strategische Partnerschaft für die Fußball-WM 2026 in den USA, Kanada und Mexiko vereinbart. Durch diese Kooperation wird YouTube zur offiziell \"bevorzugten Plattform\" für das Turnier ernannt. Die Vereinbarung positioniert die Google-Tochter als zentralen digitalen Partner für die Weltmeisterschaft.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "&quot;Konsistenter Look&quot;: Was der neue Markenauftritt von The Pioneer hervorheben will",
-          "link": "https://www.horizont.net/medien/nachrichten/konsistenter-look-was-der-neue-markenauftritt-von-the-pioneer-hervorheben-will-233588?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "The Pioneer überarbeitet nach sechs Jahren ihr Markendesign, um die verschiedenen Formate unter einem konsistenten visuellen Auftritt zu vereinen. Die Design-Offensive von Gabor Steingart und seinem Team zielt darauf ab, die gewachsene Format-Vielfalt der Medienmarke stärker zu bündeln.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Erfolgreiche Umstellung: 90 Prozent der Print-Abonnenten der taz wechseln zum Digital-Abo",
-          "link": "https://www.horizont.net/medien/nachrichten/erfolgreiche-umstellung-90-prozent-der-print-abonnenten-der-taz-wechseln-zum-digital-abo-233581?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die taz meldet eine überraschend erfolgreiche Transformation: 90 Prozent der bisherigen Print-Abonnenten sind nach der Einstellung der werktäglichen Printausgabe zum Digital-Abo gewechselt. Die Digitalisierungsstrategie erwies sich als so profitabel, dass der Verlag zusätzliche finanzielle Mittel für Gehaltserhöhungen seiner Mitarbeiter generieren konnte.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "&quot;Gewagt habe ich es erst jetzt&quot;: So umtriebig verfolgt Andreas Struck mit Business Punk seinen Lebenstraum",
-          "link": "https://www.horizont.net/medien/nachrichten/gewagt-habe-ich-es-erst-jetzt-so-umtriebig-verfolgt-andreas-struck-mit-business-punk-seinen-lebenstraum-233523?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Andreas Struck, 62-jähriges Verlags-Urgestein, hat nach über 30 Jahren Branchenerfahrung seinen Lebenstraum verwirklicht und ist nun selbst Verleger des Wirtschaftsmagazins Business Punk. Der neue Eigentümer setzt dabei bewusst auf Print als Medium und verfolgt mit dem \"flippigen\" Magazin einen besonderen redaktionellen Ansatz.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "\"taz\" hält fast 90 Prozent der Abonnenten",
-          "link": "https://kress.de/news/beitrag/152376-projekt-quot-seitenwende-quot-quot-taz-quot-haelt-fast-90-prozent-der-abonnenten.html",
-          "summary": "Die \"taz\" hat nach der Einstellung ihrer werktäglichen Printausgabe im Oktober 2025 89,3 Prozent ihrer rund 14.600 Print-Abonnenten gehalten, die mehrheitlich auf Digital- oder Kombi-Abos umgestiegen sind. Der erfolgreiche Übergang zur digitalen Tagesausgabe und das Wachstum des Bezahlmodells \"taz zahl ich\" auf 48.500 Unterstützer stärken die wirtschaftliche Lage der Zeitung. Als Folge des Erfolgs werden die Mitarbeitergehälter erhöht und ein Bonus für 2025 ausgezahlt.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "KI-Zusammenfassungen ersetzen oft die weitere Recherche",
-          "link": "https://kress.de/news/beitrag/152377-umfrage-ki-zusammenfassungen-ersetzen-oft-die-weitere-recherche.html",
-          "summary": "Eine Umfrage zeigt, dass 80% der deutschen Online-Nutzer KI-Zusammenfassungen von Suchmaschinen kennen, wobei 61% diese zur schnellen Informationsbeschaffung ohne eigene Quellenrecherche nutzen. Das Vertrauen variiert stark thematisch: Bei weichen Themen wie Kochen (54%) oder Allgemeinwissen (51%) ersetzen KI-Zusammenfassungen häufig die Originalquellen, während bei harten News-Themen wie Politik (14%) oder Finanzen (12%) deutlich mehr Nutzer zusätzliche Recherche betreiben. Positiv für journalistische Medien: Das Vertrauen in Online-Nachrichten stieg erstmals seit drei Jahren wieder an (65% vs. 61% im Vorjahr).",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Funke übernimmt B2B-Magazin aus Thüringen Die Funke Mediengruppe hat sich den Fachverlag Thüringen einverleibt.",
-          "link": "https://kress.de/news/beitrag/152375-funke-uebernimmt-b2b-magazin-aus-thueringen.html",
-          "summary": "Die Funke Mediengruppe übernimmt den Fachverlag Thüringen mit etwa zehn Mitarbeitenden und behält die bisherige Eigentümerin Juliane Keith als Geschäftsführerin. Der Verlag publiziert das B2B-Magazin \"Wirtschaftsspiegel\" mit 8.000 Druckexemplaren und 20.000 Lesern sowie das Digital-Format \"Wiyou\" für Gen Z. Die Übernahme soll Funke neue Zielgruppen im Mittelstandssegment erschließen und dem Fachverlag weiteres Wachstum ermöglichen.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "ZDF führt strengere Regeln für Fremdmaterial ein Nach dem viel diskutierten fehlerhaften Beitrag im „heute journal“ vom 15.",
-          "link": "https://kress.de/news/beitrag/152371-nach-ki-fehler-im-heute-journal-zdf-fuehrt-strengere-regeln-fuer-fremdmaterial-ein.html",
-          "summary": "Das ZDF hat nach einem fehlerhaften \"heute journal\"-Beitrag vom 15. Februar, in dem KI-generiertes Bildmaterial und kontextfremde Sequenzen verwendet wurden, einen fünf Punkte umfassenden Maßnahmenkatalog beschlossen. Die Maßnahmen umfassen systematische KI-Schulungen, erweiterte Bildverifikation, verbindliche Quellenhierarchien für Fremdmaterial sowie angepasste Abnahmeprozesse. Der ZDF-Fernsehrat will die Wirksamkeit der Regelungen zur Qualitätssicherung zu gegebener Zeit überprüfen.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Heinrich Pfeiffer wird Landeskorrespondent in Mecklenburg-Vorpommern Heinrich Pfeiffer berichtet...",
-          "link": "https://kress.de/news/beitrag/152373-deutschlandradio-heinrich-pfeiffer-wird-landeskorrespondent-in-mecklenburg-vorpommern.html",
-          "summary": "Heinrich Pfeiffer übernimmt ab 1. April 2026 die Position des Landeskorrespondenten von Deutschlandradio in Mecklenburg-Vorpommern und folgt damit auf Silke Hasselmann. Der 1997 geborene Journalist bringt Erfahrungen von Radio Bremen, dem freien Radio LOHRO sowie verschiedenen Produktionen von Deutschlandradio und NDR mit. Er wird für alle drei Programme des Deutschlandradios aus dem Bundesland berichten.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "RND sucht Redakteur für digitales Design und Datenvisualisierung Das RedaktionsNetzwerk Deutschland...",
-          "link": "https://kress.de/news/beitrag/152372-job-des-tages-rnd-sucht-redakteur-fuer-digitales-design-und-datenvisualisierung.html",
-          "summary": "Das RedaktionsNetzwerk Deutschland sucht einen Redakteur für Lokaljournalismus in Flensburg, der eigenständig Themen aus der Region aufspürt und multimedial für verschiedene Kanäle wie Flensburger Tageblatt und shz.de aufbereitet. Vorausgesetzt werden ein abgeschlossenes Volontariat oder vergleichbare Erfahrung sowie digitale Kompetenz für Online- und Social-Media-Formate. Der Arbeitgeber sh:z bietet flexible Arbeitsbedingungen, 30 Urlaubstage und verschiedene Zusatzleistungen wie Weiterbildung und betriebliche Altersvorsorge.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Holger Friedrichs OAZ: Chefredakteur Baganz geht nach vier Wochen Die Ostdeutsche Allgemeine Zeitung verliert nur vier Wochen nach ihrem Start den Chefredakteur: Dorian Baganz verlässt das Projekt von Verleger Holger Friedrich. Der Verlag sucht nun einen Nachfolger",
-          "link": "https://kress.de/news/beitrag/152308-holger-friedrichs-oaz-chefredakteur-baganz-geht-nach-vier-wochen.html",
-          "summary": "Dorian Baganz verlässt nach nur vier Wochen seine Position als Chefredakteur der neu gestarteten Ostdeutschen Allgemeinen Zeitung (OAZ) von Verleger Holger Friedrich während der Probezeit. Als Grund nannte Baganz unterschiedliche Vorstellungen über die inhaltliche Ausrichtung und Fragen der persönlichen Zusammenarbeit. Der Verlag sucht nun einen Nachfolger für das am 20. Februar gestartete ostdeutsche Medienprojekt.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Medienkongress in Hannover: Gauck nennt Friedrichs OAZ „Ossi-Postille“ Beim Medienkongress „The Future of German Media“ in Hannover prallen unterschiedliche Sichtweisen auf Journalismus aufeinander. Altbundespräsident Joachim Gauck attackiert Holger Friedrichs neues Medienprojekt Ostdeutsche Allgemeine Zeitung",
-          "link": "https://kress.de/news/beitrag/152310-medienkongress-in-hannover-gauck-nennt-friedrichs-oaz-ossi-postille.html",
-          "summary": "Beim Medienkongress „The Future of German Media\" in Hannover diskutierten Branchenvertreter über Holger Friedrichs neues Medienprojekt „Ostdeutsche Allgemeine Zeitung\" (OAZ), das bereits nach zehn Tagen den Break-Even erreicht haben soll. Altbundespräsident Joachim Gauck kritisierte das Projekt als „Ossi-Postille\", während zeitgleich Chefredakteur Dorian Baganz wegen unterschiedlicher Vorstellungen über die inhaltliche Ausrichtung während der Probezeit kündigte. Madsack-Vorstandschef Thomas Düffert sieht die OAZ weniger als Konkurrenz, da seine Zeitungen auf Lokaljournalismus setzen, während die OAZ überregional agiert.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Job des Tages: Flensburger Tageblatt sucht Redakteur für Lokaljournalismus Das Flensburger Tageblatt, Teil von sh:z",
-          "link": "https://kress.de/news/beitrag/152312-job-des-tages-flensburger-tageblatt-sucht-redakteur-fuer-lokaljournalismus.html",
-          "summary": "Das Flensburger Tageblatt sucht einen Redakteur für klassischen Lokaljournalismus mit digitaler Kompetenz, der eigenständig Themen aus Flensburg und Umgebung aufspürt und multimedial für Print, Online und Social Media aufbereitet. Vorausgesetzt werden ein abgeschlossenes Volontariat oder vergleichbare Erfahrung sowie die Bereitschaft zu flexiblen Arbeitszeiten. Der Arbeitgeber sh:z bietet 30 Urlaubstage, Weiterbildungsmöglichkeiten und verschiedene Zusatzleistungen wie Firmenfitness und betriebliche Altersvorsorge.",
-          "score": 7
-        },
-        {
           "source": "meedia",
-          "title": "Zoff unter Top-Journalisten Dagmar Rosenfeld wirft Gabor Steingart die Brocken hin Die Macherin des...",
-          "link": "https://meedia.de/news/beitrag/21369-dagmar-rosenfeld-wirft-gabor-steingart-die-brocken-hin.html",
-          "summary": "Dagmar Rosenfeld beendet ihre Mitarbeit als Kolumnistin bei Gabor Steingarts \"The Pioneer\", nachdem dieser Host-Read-Ads in Podcasts als \"Prostitution\" bezeichnet hatte. Rosenfeld, die diese Werbeform in ihrem Podcast \"Machtwechsel\" einsetzt, fühlte sich durch Steingarts Äußerungen persönlich angegriffen, während auch ihr Podcast-Partner Robin Alexander Steingart einen Mangel an \"Stil und Anstand\" vorwirft.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts Das ZDF punktet mit \"Tricks von Burger King & Co.\" im jungen Publikum...",
-          "link": "https://meedia.de/news/beitrag/21368-das-zdf-punktet-mit-quot-tricks-von-burger-king-amp-co-quot-im-jungen-publikum.html",
-          "summary": "ProSieben sicherte sich bei den 14- bis 49-Jährigen nur knapp den Prime-Time-Sieg mit \"TV total\", da das ZDF-Format \"besseresser: Die Tricks von Burger King & Co.\" in der jungen Zielgruppe überraschend stark performte. Im Gesamtpublikum dominierte RTLs \"Alpentod\" mit 2,81 Millionen Zuschauern (13,3%), lag aber noch hinter den ARD-Serien \"Die Notärztin\" und \"In aller Freundschaft\". Das ZDF-Format erreichte zwar nur 2,07 Millionen Gesamtzuschauer (9,3%), punktete jedoch deutlich stärker in der werberelevanten Zielgruppe.",
+          "title": "Neu bei MEEDIA Top 100: die erfolgreichsten deutschen Podcasts nach Spotify-Plays Seit geraumer Zeit liefert der Streamingdienst Spotify auch für Podcasts eine Zahl der “Plays”, wie oft also eine bestimmte Episode gehört wurde. Die Zahlen sind derzeit nur in der Smartphone-App zu sehen",
+          "link": "https://meedia.de/news/beitrag/21375-top-100-die-erfolgreichsten-deutschen-podcasts-nach-spotify-plays.html",
+          "summary": "MEEDIA startet ein neues monatliches Ranking der erfolgreichsten deutschen Podcasts basierend auf Spotify-Play-Zahlen, das von \"Gemischtes Hack\" (Felix Lobrecht/Tommi Schmitt) angeführt wird, gefolgt von \"Kaulitz Hills\" und \"Mord auf Ex\". Spotify zeigt die Play-Zahlen nur in gestuften Bereichen ab 50.000 Plays an, um kleinere Podcasts vor der Offenlegung geringer Reichweiten zu schützen. Die Zahlen sind derzeit nur in der Smartphone-App sichtbar und weniger präzise als die exakten Stream-Daten bei Musik.",
           "score": 10
         },
         {
           "source": "meedia",
-          "title": "Interview mit Markus Hetzenegger, Gründer von Nyba Wie funktioniert TikTok-Advertising, Herr Hetzenegger?",
-          "link": "https://meedia.de/news/beitrag/21366-wie-funktioniert-tiktok-advertising-herr-hetzenegger.html",
-          "summary": "Markus Hetzenegger, Gründer der auf TikTok spezialisierten Agentur Nyba, argumentiert gegen das gängige Mantra, dass Unternehmen auf TikTok zwingend viralen Content benötigen. Stattdessen empfiehlt er einen pragmatischeren Ansatz über klassische Werbeschaltungen, um sich an die Plattform heranzutasten und von deren erstklassigem Targeting zu profitieren. Seine Agentur bewegt bereits sieben- bis achtstellige Performance-Budgets auf TikTok und zeigt damit, dass die Plattform weit über Brandbuilding hinausgewachsen ist.",
+          "title": "Vermarkter Ad Alliance schafft mit neuer Struktur einen Hub für Print & Crossmedia Zum 1. März hat sich die RTL-Tochter Ad Alliance eine neue Struktur gegeben. In der künftigen Struktur bekommen z.B. Tim Nieland, Astrid Bleeker, Arne Zimmer und Christian Bacher neue Aufgaben. Über mögliche Stellenstreichungen",
+          "link": "https://meedia.de/news/beitrag/21380-ad-alliance-schafft-mit-neuer-struktur-einen-hub-fuer-print-amp-crossmedia.html",
+          "summary": "Die RTL-Tochter Ad Alliance hat zum 1. März eine Umstrukturierung vorgenommen, bei der Tim Nieland den neuen Bereich \"Product, Data & Transformation\" leitet, um Media- und Datenprodukte sowie Cross-Video-Angebote ganzheitlich voranzutreiben. Zusätzlich wurde ein \"Print & Crossmedia Hub\" unter Astrid Bleeker und Arne Zimmer geschaffen, der das Print-Geschäft strategisch neu ausrichtet und um digitale sowie soziale Komponenten erweitert. Über mögliche Stellenstreichungen macht die Mitteilung keine Angaben.",
           "score": 8
         },
         {
           "source": "meedia",
-          "title": "Weltmarktführer für Brillen, Sonnenbrillen und Kontaktlinsen Apollo-Optik-Eigentümer...",
-          "link": "https://meedia.de/news/beitrag/21362-apollo-optik-eigentuemer-essilorluxottica-buendelt-globalen-mediaetat-bei-publicis.html",
-          "summary": "EssilorLuxottica hat seinen weltweiten Mediaetat von rund 450 Millionen Euro nach einem Pitch vollständig bei der Publicis Groupe gebündelt, nachdem zuvor sowohl Publicis Media als auch WPP Media den Augenoptikkonzern betreut hatten. Der Weltmarktführer für Brillen und Kontaktlinsen, dem Marken wie Ray-Ban und Oakley gehören, steigerte 2025 seinen Umsatz um 7,5 Prozent auf 28,5 Milliarden Euro. WPP verliert damit einen bedeutenden Kunden, während das Publicis-Network Zenith als wahrscheinlicher Lead-Betreuer gilt.",
-          "score": 8
+          "title": "Werbeholdings Diese neue Aufgabe bekommt Karin Ross in der Publicis Groupe für die DACH-Region...",
+          "link": "https://meedia.de/news/beitrag/21373-diese-neue-aufgabe-bekommt-karin-ross-in-der-publicis-groupe-fuer-die-dach-region.html",
+          "summary": "Karin Ross, die Ende 2024 von WPP GroupM zu Publicis wechselte, wird zur Chief Operating Officer Publicis Groupe DACH & CEO Publicis Connected Media DACH befördert. Die Beförderung erfolgt nach dem erfolgreichen Jahr 2024, in dem Publicis Media unter ihrer Führung die Spitze des Neugeschäftsrankings erreichte und kürzlich den EssilorLuxottica-Pitch gewann. In ihrer neuen Rolle soll sie die verschiedenen Publicis-Bereiche stärker integrieren und insbesondere den datengetriebenen Connected Identity-Ansatz im DACH-Markt vorantreiben.",
+          "score": 9
         },
         {
           "source": "meedia",
-          "title": "von National- bis Schulteams Lidl-Mutter Schwarz wird erster strategischer Partner der UEFA Die...",
-          "link": "https://meedia.de/news/beitrag/21364-lidl-mutter-schwarz-wird-erster-strategischer-partner-der-uefa.html",
-          "summary": "Die Schwarz Gruppe (Lidl/Kaufland) wird erster strategischer Partner der UEFA und erweitert damit Lidls bisherige Partnerschaft auf Männer- und Frauenteams mit Fokus auf UEFA Euro 2028 und Women's Euro 2029. Als \"Take Care Nutrition Partner\" engagiert sich Lidl über klassisches Sponsoring hinaus in UEFA-Bildungsprogrammen und entwickelt eine digitale Plattform für Schulen und Vereine zu inklusivem Fußball und gesunder Ernährung. Die Partnerschaft zielt auf bewusste Ernährung und Förderung der Kreislaufwirtschaft im europäischen Fußball ab.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Optionen im Lesermarkt und in der Vermarktung Funke kauft den Fachverlag Thüringen Die Funke...",
-          "link": "https://meedia.de/news/beitrag/21365-funke-kauft-den-fachverlag-thueringen.html",
-          "summary": "Die Funke Mediengruppe übernimmt den Fachverlag Thüringen mit dem führenden Wirtschaftsmagazin „Wirtschaftsspiegel\" (20.000 Leser) und der Plattform „WIYOU\", um ihre B2B-Position in der Region zu stärken. Alle Mitarbeiter wechseln zu Funke, Geschäftsführerin Juliane Keith bleibt im Amt. Die Akquisition erweitert Funkes Zugang zu Geschäftskunden und Entscheidern im Freistaat Thüringen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "\"Übertrifft unsere Erwartungen deutlich\" Abo-Einbruch ausgeblieben: \"taz\"-Fans akzeptieren den...",
-          "link": "https://meedia.de/news/beitrag/21363-abo-einbruch-ausgeblieben-quot-taz-quot-fans-akzeptieren-den-print-abschied.html",
-          "summary": "Die taz verzeichnet bei ihrer \"Seitenwende\" zur digitalen Werktagsausgabe einen überraschend hohen Erfolg: 89,3 Prozent der bisherigen Print-Abonnenten wechselten zum E-Paper-Angebot, deutlich mehr als die ursprünglich prognostizierten 70 Prozent. Von den rund 14.600 Print-Abonnements im Oktober 2025 konnte ein Großteil erfolgreich ins digitale Modell überführt werden, wobei etwa 70 Prozent der Nutzer weiterhin ein Kombi-Angebot aus digitaler Tagesausgabe und gedruckter \"wochentaz\" wählen.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Gameshow mit Retouren-Paketen Was rappelt im Karton: Wie Ebay und Brainpool Fernsehen neu denken Eine Gameshow nach dem Überraschungs-Ei-Prinzip",
-          "link": "https://meedia.de/news/beitrag/21361-was-rappelt-im-karton-wie-ebay-und-brainpool-fernsehen-neu-denken.html",
-          "summary": "Ebay und Brainpool launchen am 27. März mit „Mystery Mania\" eine innovative Live-Gameshow, die E-Commerce und Entertainment crossmedial auf Twitch, TikTok und YouTube verknüpft. Das Format versteigert 50 ungeöffnete Retouren-Boxen im Gesamtwert von 15.000 Euro sowohl an Studio-Publikum als auch Live-Stream-Zuschauer, moderiert von Björn Freitag und Sarah Knappik. Die Show verzichtet bewusst auf klassische TV- oder Streaming-Partner und zielt auf nahtlose Integration von Unterhaltung und direkter Kaufmöglichkeit ab.",
+          "title": "Personalwechsel Thomas Schultz-Homberg, CEO der Kölner Stadt-Anzeiger Medien, geht zu Madsack,...",
+          "link": "https://meedia.de/news/beitrag/21378-thomas-schultz-homberg-ceo-der-koelner-stadt-anzeiger-medien-geht-zu-madsack-oliver-eckert-uebernimmt.html",
+          "summary": "Thomas Schultz-Homberg wechselt zum 1. Mai von seinem Posten als CEO der Kölner Stadt-Anzeiger Medien zur Madsack Mediengruppe als Chief Transformation Officer. Sein Nachfolger wird Oliver Eckert, der ab 1. April beide Positionen in Personalunion übernimmt - CEO bei der Kölner Stadt-Anzeiger Medien und COO bei DuMont. Die Doppelrolle soll Entscheidungswege verkürzen und die Umsetzung der Geschäftsmodell-Initiative KStA.Connect beschleunigen, die lokale Communities mit KI-gestützten Services verbinden will.",
           "score": 8
         },
         {
           "source": "Guardian Media",
-          "title": "Judge orders more than 1,000 Voice of America employees to be reinstated",
-          "link": "https://www.theguardian.com/us-news/2026/mar/17/voice-of-america-employees-reinstated",
-          "summary": "Ein von Trump ernannter Bundesrichter hat angeordnet, dass über 1.000 entlassene Voice of America-Mitarbeiter bis zum 23. März wieder eingestellt werden müssen, nachdem die Trump-Administration unter der Leitung von Kari Lake die Radiostation faktisch stillgelegt hatte. Richter Royce Lamberth erklärte Lakes Führung der übergeordneten US Agency for Global Media für illegal und forderte einen Plan zur Wiederaufnahme des VOA-Betriebs. Die Entscheidung erfolgte nach separaten Klagen von VOA-Direktor Michael Abramowitz und anderen Mitarbeitern gegen die Regierung.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Lisa Nandy vows to give BBC permanent charter to prevent political interference",
-          "link": "https://www.theguardian.com/media/2026/mar/17/lisa-nandy-vows-bbc-permanent-charter-political-interference",
-          "summary": "Die britische Kulturministerin Lisa Nandy kündigte an, der BBC erstmals eine dauerhafte Charter zu gewähren, um die öffentlich-rechtliche Rundfunkanstalt vor politischer Einflussnahme und wiederkehrenden \"Kulturkampf\"-Attacken zu schützen. Das bisherige System einer alle 10 Jahre zu erneuernden Charter schaffe eine permanente existenzielle Bedrohung für die BBC, die sich durch den Aufstieg von BBC-kritischen Parteien wie Reform UK verschärft habe. Während Finanzierung und Strukturen weiterhin regelmäßig verhandelt werden sollen, würde die permanente Charter das \"bizarre\" Szenario beenden, dass die BBC theoretisch aufhören könnte zu existieren, falls keine rechtzeitige Einigung erzielt wird.",
+          "title": "BBC World Service to get extra £11m a year in deal ending funding uncertainty",
+          "link": "https://www.theguardian.com/media/2026/mar/18/bbc-world-service-extra-funding-foreign-office",
+          "summary": "Die BBC World Service erhält eine dreijährige Finanzierungsvereinbarung mit zusätzlichen £11 Millionen jährlich vom britischen Außenministerium, was einer 8%igen Steigerung entspricht und die Ungewissheit über die Finanzierung beendet. BBC-Insider warnen jedoch, dass die Erhöhung am Ende der dreijährigen Laufzeit kaum mit der Inflation Schritt halten wird, wodurch die Finanzierung faktisch stagniert. Die Vereinbarung erfolgt vor dem Hintergrund steigender globaler Desinformation und während die BBC weiterhin drängt, dass die Regierung alle Kosten des World Service übernimmt.",
           "score": 8
         },
         {
           "source": "Guardian Media",
-          "title": "Police and media launch charter to ‘reset’ relations after Nicola Bulley case",
-          "link": "https://www.theguardian.com/uk-news/2026/mar/17/police-and-media-launch-charter-to-reset-relations-after-nicola-bulley-case",
-          "summary": "Polizei und Medien in England und Wales haben eine neue Charta verabschiedet, um ihre zerrütteten Beziehungen nach dem umstrittenen Fall Nicola Bulley 2023 zu verbessern. Die Charta soll regelmäßige Interaktion zwischen Polizei und Journalisten fördern und Beamten klarmachen, dass Medienkontakt bei polizeilichem Zweck erwünscht ist. Hintergrund ist die massive Kritik am Informationsmanagement im Bulley-Fall, der weltweit 6.500 Artikel an einem Tag generierte und Verschwörungstheorien befeuerte.",
+          "title": "BBC expected to name Matt Brittin as director general within days",
+          "link": "https://www.theguardian.com/technology/2026/mar/18/bbc-expected-to-name-matt-brittin-as-director-general-within-days",
+          "summary": "Die BBC steht kurz davor, den ehemaligen Google-Manager Matt Brittin als neuen Director General zu ernennen, nachdem der Vorstand diese Woche über die Nachfolge von Tim Davie berät. Brittin leitete ein Jahrzehnt lang Googles Geschäft in Europa, dem Nahen Osten und Afrika und wird die BBC in einer Zeit übernehmen, in der sie mit drastischen Veränderungen im Medienkonsum durch digitale Plattformen kämpft. Der neue Director General muss sich sofort kritischen Verhandlungen mit der Regierung über die Erneuerung der Royal Charter und das Finanzierungsmodell der BBC stellen.",
+          "score": 9
+        },
+        {
+          "source": "Guardian Media",
+          "title": "MS Now makes first major programming moves since name change",
+          "link": "https://www.theguardian.com/media/2026/mar/18/ms-now-ruhle-joe-rogan-show",
+          "summary": "MS Now (ehemals MSNBC) kündigt nach der Ausgliederung in das neue Medienunternehmen Versant bedeutende Programmänderungen an, die im Juni in Kraft treten. Morning Joe wird von vier auf drei Stunden verkürzt, während Stephanie Ruhle eine neue zweistündige Morgensendung (9-11 Uhr) übernimmt und ihr bisheriger 23-Uhr-Slot an Ali Velshi geht. Weitere Änderungen umfassen Luke Russert als neuen Co-Moderator der 19-Uhr-Show \"The Weeknight\" und Alicia Menendez erhält eine eigene Tagessendung von 12-14 Uhr.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "CBS News workers hold 24-hour walkout for new contract",
-          "link": "https://www.theguardian.com/media/2026/mar/17/cbs-news-workers-24-hour-contract-walkout",
-          "summary": "CBS News-Mitarbeiter des Streaming-Dienstes CBS News 24/7 traten am Dienstag für 24 Stunden in den Streik, nachdem Vertragsverhandlungen mit der Writers Guild of America East nach Ablauf des Vertrags am 9. März scheiterten. Die Gewerkschaft wirft dem Management vor, schlechtere Bedingungen als in vorherigen Verträgen anzubieten und faire Löhne sowie grundlegende Arbeitsplatzschutz zu verweigern, obwohl Mutterkonzern Paramount milliardenschwere Übernahmen tätigt. Etwa 60 Arbeiter sind betroffen, mit Protesten in New York und San Francisco.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "US media mogul sees a big opportunity in the cuts at the Washington Post",
-          "link": "https://www.theguardian.com/media/2026/mar/17/notus-hire-washington-post-staff-robert-allbritton",
-          "summary": "Robert Allbritton, Besitzer des digitalen Nachrichtenportals Notus, nutzt die Massenentlassungen bei der Washington Post als strategische Chance und hat prominente Ex-Post-Journalisten wie Dana Milbank, Paul Kane und Jeff Stein abgeworben. Das Unternehmen plant, seine Belegschaft von 50 auf 100 Mitarbeiter bis Ende 2026 zu verdoppeln, wobei die Post-Entlassungen diese bereits bestehenden Wachstumspläne beschleunigt haben.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Canadian billionaire Stephen Smith buys 27% stake in the Economist",
-          "link": "https://www.theguardian.com/media/2026/mar/17/stephen-smith-stake-economist-news-magazine",
-          "summary": "Der kanadische Milliardär Stephen Smith hat über seine Smith Financial Corp eine 26,9%-Beteiligung an der Economist Group von Lynn Forester de Rothschild für einen nicht genannten Betrag erworben, was erst die dritte größere Eigentümerschaftsveränderung in der 183-jährigen Geschichte des Medienkonzerns darstellt. Die Economist Group, die das wöchentliche Nachrichtenmagazin The Economist sowie weitere Publikationen betreibt, erzielte zuletzt einen Umsatz von £369m bei £48m Gewinn und steigerte die Abonnentenzahl um 3% auf 1,25 Millionen. Die Transaktion steht noch unter dem Vorbehalt der Genehmigung durch die vier unabhängigen Treuhänder, die für die Wahrung der redaktionellen Werte des Economist verantwortlich sind.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Tina Fey, Jamie Dornan and Riz Ahmed first three guest hosts of UK Saturday Night Live",
-          "link": "https://www.theguardian.com/tv-and-radio/2026/mar/16/tina-fey-jamie-dornan-riz-ahmed-first-three-guest-hosts-of-uk-saturday-night-live",
-          "summary": "Saturday Night Live UK startet am 21. März live auf Sky One mit Tina Fey, Jamie Dornan und Riz Ahmed als erste Gastgeber sowie Wet Leg, Wolf Alice und Kasabian als Musikacts. Die britische Adaption folgt dem bewährten SNL-Format mit wöchentlicher Produktion, einem 11-köpfigen Comedy-Cast im Alter von 26-36 Jahren und Lorne Michaels als Executive Producer. Das Show-Konzept umfasst Monologe, topische Sketches, Live-Musik und eine britische Version des \"Weekend Update\"-Segments.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "BBC asks US court to throw out Trump’s $10bn lawsuit and avoid ‘chilling effect’",
-          "link": "https://www.theguardian.com/media/2026/mar/16/bbc-us-court-throw-out-donald-trump-10bn-lawsuit-chilling-effect",
-          "summary": "Die BBC fordert ein US-Gericht auf, Donald Trumps 10-Milliarden-Dollar-Klage wegen der Bearbeitung einer seiner Reden in einer Panorama-Dokumentation abzuweisen, da das Gericht keine Zuständigkeit habe und die Dokumentation nicht in den USA ausgestrahlt wurde. Die BBC-Anwälte argumentieren, dass die \"grundlose\" Klage einen \"Chilling Effect\" auf die Berichterstattung über öffentliche Personen haben würde und verweisen auf ähnliche erfolglose Trump-Klagen gegen CNN. Obwohl die BBC bereits eine persönliche Entschuldigung für den strittigen 12-Sekunden-Clip ausgesprochen hat, besteht Trump auf der Klage wegen angeblicher Rufschädigung.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "TV tonight: inside Facebook and Meta with ex-staff and whistleblowers",
-          "link": "https://www.theguardian.com/tv-and-radio/2026/mar/16/tv-tonight-inside-facebook-and-meta-with-ex-staff-and-whistleblowers",
-          "summary": "BBC-Reporter Marianna Spring präsentiert in \"Inside the Rage Machine\" (BBC Two, 21 Uhr) eine Untersuchung über Meta/Facebook, basierend auf Interviews mit ehemaligen Mitarbeitern und Whistleblower-Dokumenten, die aufzeigt, wie Social-Media-Algorithmen gezielt Polarisierung und Hass fördern, um Profite zu maximieren. Die Dokumentation analysiert auch die Auswirkungen von TikTok sowie die Rolle sozialer Medien bei Ereignissen wie der Pandemie und den Southport-Unruhen.",
+          "title": "Warner Bros CEO David Zaslav in line for $700m payout from Paramount deal",
+          "link": "https://www.theguardian.com/film/2026/mar/17/warner-bros-ceo-david-zaslav-payout-paramount-deal-wbd",
+          "summary": "Warner Bros Discovery CEO David Zaslav steht vor einer Auszahlung von 700 Millionen Dollar aus dem 110-Milliarden-Dollar-Verkauf des Studios an Paramount Skydance, bestehend aus 34,2 Millionen Dollar Abfindung, 115,8 Millionen Dollar in erworbenen Aktien und 517,2 Millionen Dollar in nicht erworbenen Aktienprämien. Weitere Top-Führungskräfte wie JB Perrette (142 Millionen Dollar) und CFO Gunnar Wiedenfels (120 Millionen Dollar) erhalten ebenfalls erhebliche Auszahlungen. Der Deal soll im dritten Quartal abgeschlossen werden, wobei sich die Auszahlungswerte bei Verzögerungen verringern würden.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Chow Yun Fat, Aaron Kwok, Tony Leung Ka Fai & Louis Koo Join Cast Of Edko Films’ ‘Cold War 1994’",
-          "link": "https://deadline.com/2026/03/chow-yun-fat-aaron-kwok-tony-leung-louis-koo-cold-war-1236758889/",
-          "summary": "Edko Films kündigte auf der Filmart die Besetzung für das Action-Thriller-Prequel \"Cold War 1994\" an, das mit Chow Yun Fat, Aaron Kwok, Tony Leung Ka Fai und Louis Koo sowie internationalen Stars wie Aidan Gillen und Hugh Bonneville eine der größten Starbesetzungen der Hong Kong-Kinogeschichte versammelt. Der Film ist das Prequel zu den erfolgreichen Polizeifilmen \"Cold War\" und \"Cold War 2\", die zusammen über 13 Millionen US-Dollar an der Hong Kong-Kinokasse einspielten. Zwei Prequels wurden gleichzeitig gedreht - \"Cold War 1994\" und \"Cold War 1995\" - wobei das Veröffentlichungsdatum noch nicht bekannt gegeben wurde.",
+          "title": "Russell T. Davies & Pet Shop Boys Reviving ‘It’s A Sin’ For Contemporary Dance Show",
+          "link": "https://deadline.com/2026/03/its-a-sin-dance-show-russell-t-davies-pet-shop-boys-channel-4-1236759376/",
+          "summary": "Russell T. Davies entwickelt gemeinsam mit den Pet Shop Boys und dem Tanzstudio Rambert eine zeitgenössische Tanzneuinterpretation seiner erfolgreichen Channel 4/HBO-Serie \"It's a Sin\" über die HIV/AIDS-Krise. Die Produktion wird als \"viszerales Theatererlebnis\" beschrieben, das zeitgenössischen Tanz mit Archivmaterial und kinematografischen Visuals kombiniert und in Manchester Premiere feiern soll. Davies fungiert als Executive Producer, während Rambert-Direktor Benoit Swan Pouffer Regie und Choreografie übernimmt.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Former Buccaneer & Cineflix Execs Launch Drama Outfit High Road Entertainment",
+          "link": "https://deadline.com/2026/03/high-road-entertainment-launch-buccaneer-cineflix-miramax-1236759644/",
+          "summary": "Die ehemaligen Führungskräfte Richard Tulk-Hart (ex-Buccaneer CEO) und James Durie (ex-Cineflix Head of Scripted) haben High Road Entertainment gegründet, eine Co-Produktions- und Vertriebsberatung für Drama-Inhalte. Das Unternehmen berät europäische Scripted-Produzenten bei Finanzierung und Distribution und entwickelt gleichzeitig eine eigene Drama-Pipeline mit bereits laufenden Projekten wie der griechischen Krimi-Serie \"Antiparos\". Die Co-CEOs positionieren sich als flexible Vermittler in einem fragmentierten Markt, um Projekte von der IP-Entwicklung bis zur Ausstrahlung zu begleiten.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "Prime Video Germany & Leonine Strike Multi-Year Movie Deal",
-          "link": "https://deadline.com/2026/03/prime-video-germany-leonine-movie-deal-the-housemaid-1236758882/",
-          "summary": "Prime Video Deutschland und Österreich hat einen mehrjährigen Lizenzvertrag mit Leonine Studios geschlossen, der ab Januar 2026 alle Kinofilme aus Leonines Verleihprogramm sowie sechs Monate exklusive SVoD-Rechte im Pay-2-Fenster umfasst. Das Deal-Paket beinhaltet Hollywood-Blockbuster wie \"The Housemaid\" mit Amanda Seyfried, \"The Drama\" mit Zendaya und Robert Pattinson sowie \"The Hunger Games – Sunrise on the Reaping\", ergänzt um deutsche Produktionen und Bibliothekstitel wie John Wick und Asterix. Die Vereinbarung spiegelt den Trend zu verstärkten Partnerschaften zwischen Streamingdiensten und lokalen Content-Anbietern wider.",
-          "score": 10
-        },
-        {
-          "source": "Deadline",
-          "title": "Singaporean HAF Project ‘Strange Root’ Secures Co-producers In Indonesia, Germany, Netherlands & Philippines",
-          "link": "https://deadline.com/2026/03/singapore-haf-strange-fruit-13-little-pictures-palari-1236758854/",
-          "summary": "Das singapurische Produktionsunternehmen 13 Little Pictures hat für den mythologischen Body-Horror-Film \"Strange Root\" vier internationale Ko-Produktionspartner aus Indonesien, Deutschland, den Niederlanden und den Philippinen gewonnen und wurde für die neue Genre-Sektion des Hong Kong Asia Film Financing Forum (HAF) ausgewählt. Der im 11. Jahrhundert angesiedelte Film von Lam Li Shuen und Mark Chua erzählt die Geschichte eines aus einer Yamswurzel geborenen Halbgottes und wird auf 16mm/35mm gedreht. Das Projekt baut auf dem erfolgreichen Berlinale-Auftritt der Regisseure auf und stellt laut Produzenten das bisher ambitionierteste Vorhaben des Studios dar.",
+          "title": "Netflix’s Split Seasons May Have Peaked; Long Gaps Between Seasons May Be Here To Stay On Some Series: “Absence Makes The Heart Grow Fonder”",
+          "link": "https://deadline.com/2026/03/netflix-split-seasons-gaps-between-seasons-bridgerton-1236759796/",
+          "summary": "Netflix reduziert seine Split-Season-Strategie deutlich: Nach einem Höhepunkt 2023-2024 mit gespaltenen Staffeln bei Serien wie Bridgerton, The Witcher und Emily In Paris plant der Streamer für 2026 nur noch eine geteilte Veröffentlichung (Bridgerton Season 4). Stattdessen kehrt Netflix verstärkt zum Binge-Drop-Modell zurück und setzt auf frühere Renewals und jährliche Auslieferung, um die Lücken zwischen Staffeln zu verkürzen. Die Split-Season-Ära, die ursprünglich durch Pandemie- und Strike-bedingte Produktionsverzögerungen entstanden war, scheint damit ihren Zenit überschritten zu haben.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "PCCW & SK Global Show ‘The Season’ Lands Release Date — Filmart",
-          "link": "https://deadline.com/2026/03/the-season-pccw-sk-global-filmart-1236757677/",
-          "summary": "Die sechsteilige Premium-Serie \"The Season\" von PCCW Media und SK Global erhält im Juni 2026 eine weltweite Veröffentlichung auf Viu (Asien, Naher Osten, Südafrika), Hulu/Disney+ (USA) und Now TV (Hongkong). Das englischsprachige Revenge-Drama mit Ensemble-Cast um Jessie Mei Li und Chris Pang spielt in Hongkongs High Society während der Bootssaison und wurde von Yalun Tu (\"NCIS: Hawaii\") kreiert. Fremantle und De Maio Entertainment übernehmen den internationalen Vertrieb der von Marialy Rivas (\"The Jetty\") inszenierten Serie.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Monsta Studios’ Nizam Abd Razak Talks Record-Breaking Hit ‘Papa Zola’ & Malaysia’s “Animy” Boom",
-          "link": "https://deadline.com/2026/03/papa-zola-movie-monsta-studios-nizam-abd-razak-malaysia-1236757767/",
-          "summary": "Monsta Studios' \"Papa Zola The Movie\" hat mit 16,3 Millionen US-Dollar Umsatz einen neuen Rekord als erfolgreichster malaysischer Animationsfilm aufgestellt und rangiert als dritthöchstgrossierender einheimischer Film aller Zeiten. Der Film war auch in Indonesien sehr erfolgreich mit fast 517.000 Zuschauern und unterstreicht den aktuellen Boom der malaysischen Animationsindustrie, die 2025 bereits zwei Rekordbrecher hervorbrachte. CEO Nizam Abd Razak führt den Erfolg auf die starke Resonanz der Geschichte und Hauptfigur bei lokalen Zielgruppen zurück.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "The Best Peacock Subscription Deals and Free Trial Hacks",
-          "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/best-peacock-subscription-streaming-deal-1235500478/",
-          "summary": "The Hollywood Reporter berichtet über Peacock-Streaming-Deals, wobei das Hauptangebot zwei kostenlose Monate Peacock Premium plus Movies Extra Pack (Wert $19,98) für neue DirecTV-Kunden umfasst, die sich für Entertainment-, Choice-, Ultimate- oder Premier-Pakete anmelden. Nach der Gratisperiode verlängert sich das Angebot automatisch für $9,99 monatlich, kann jedoch jederzeit gekündigt werden. Der Artikel zielt darauf ab, Zuschauer für kommende Inhalte wie \"Wicked: For Good\" (Streaming-Release 20. März) und NBA-Übertragungen zu gewinnen.",
+          "title": "Michael Connelly Shares ‘Bosch’s Origin Story As He Pays Tribute To Series Creator Eric Overmyer",
+          "link": "https://deadline.com/2026/03/michael-connelly-eric-overmyer-tribute-1236759772/",
+          "summary": "Bestseller-Autor Michael Connelly würdigt den verstorbenen TV-Produzenten Eric Overmyer (74), der vor 15 Jahren als Showrunner für die Amazon-Serie \"Bosch\" gewonnen wurde, obwohl Streaming damals ein riskantes neues Medium war. Overmyer, bekannt für \"Treme\", \"Homicide\" und \"The Wire\", sagte spontan zu und machte \"Bosch\" zu Amazons erstem Drama und später zur längsten Prime Video-Serie mit sieben Staffeln. Die erfolgreiche Zusammenarbeit führte zu zwei Spin-offs und erneutem TV-Interesse an Connellys Werken.",
           "score": 8
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "‘White Lotus’-like Asian Drama ‘The Season’ Set for U.S. Launch on Hulu in June",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/hong-kong-asian-drama-the-season-hulu-1236535978/",
-          "summary": "PCCW Media und SK Global (Produzenten von \"Crazy Rich Asians\") launchen im Juni 2026 die Limited Series \"The Season\" auf Hulu in den USA und regional auf Viu in Asien. Die Produktion wird als \"White Lotus\"-ähnliches Drama beschrieben, das in der Hongkonger High Society spielt und eine privilegierte Freundesgruppe während der Bootssaison verfolgt, wobei Glamour in Betrug und Machtspiele umschlägt. Fremantle führt den internationalen Vertrieb, während die Serie derzeit auf dem Filmart-Markt in Hongkong präsentiert wird.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Paramount+ Runs Limited-Time Promo Aligned With March Madness, ‘The Madison’ and More",
-          "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/best-paramount-plus-deals-1235162893/",
-          "summary": "Paramount+ bietet bis zum 31. März eine zeitlich begrenzte Promotion für 2,99 USD/Monat in den ersten zwei Monaten (regulär 8,99+ USD) an, die mit March Madness und neuen Inhalten wie \"The Madison\" bewirbt. Zusätzlich können Nutzer kostenlosen Zugang über DirecTV-Pakete (3 Monate Premium) oder Walmart+ Mitgliedschaften erhalten. Die Aktion richtet sich sowohl an Neu- als auch ehemalige Abonnenten.",
+          "source": "Deadline",
+          "title": "Sony & Pop Mart Make ‘Labubu’ Movie Official; Steven Levenson Joins As Co-Writer",
+          "link": "https://deadline.com/2026/03/labubu-movie-1236759807/",
+          "summary": "Sony Pictures und Pop Mart haben offiziell einen Live-Action-Film basierend auf dem \"Labubu\"-Charakter aus \"The Monsters\"-Universum angekündigt, bei dem Paul King (Wonka, Paddington) Regie führt und gemeinsam mit Tony-Preisträger Steven Levenson (Dear Evan Hansen) das Drehbuch schreibt. Das Projekt befindet sich in der frühen Entwicklungsphase und wird eine Mischung aus Live-Action und CGI sein, produziert von King, Michael Schaefer und Wenxin She. Kasing Lung, der Schöpfer der ursprünglichen \"Monsters Trilogy\"-Buchreihe von 2015, fungiert als Executive Producer.",
           "score": 8
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "Nippon TV’s ‘Life’s Punchline’ Set for Hong Kong Remake Starring Mirror’s Lokman Yeung",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/lifes-punchline-hong-kong-remake-mirror-lokman-yeung-1236535964/",
-          "summary": "Nippon TV und der Hongkonger Produzent MakerVille bringen die japanische Comedy-Drama-Serie \"Life's Punchline\" als 10-teiliges kantonesisches Remake auf ViuTV, mit geplanter Ausstrahlung 2026. Die Originalserie von 2021 folgt drei jungen Männern einer erfolglosen Comedy-Truppe, die sich nach zehn Jahren Karriereverfolgung auflösen und dabei mit der harten Realität gescheiterter Träume konfrontiert werden. Dies markiert das erste von mehreren geplanten internationalen Remakes des Formats, das in Japan mit fast 14 Millionen VOD-Aufrufen binnen zehn Wochen erfolgreich war.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Malaysia Renews $76 Million Film Rebate Fund at Filmart, Bets on Bigger Role as Regional Production Hub",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/malaysia-film-rebate-filmart-2026-1236535974/",
-          "summary": "Malaysia verlängert sein Film in Malaysia Incentive (FIMI) Programm um weitere fünf Jahre mit einem Budget von 76 Millionen US-Dollar und bietet lokalen sowie internationalen Produktionen 30% Cashback auf qualifizierende Ausgaben (plus 5% bei Erfüllung kultureller Kriterien). Zusätzliche 76 Millionen US-Dollar werden für audiovisuelle Infrastruktur-Investimente bereitgestellt, um Malaysias Position als regionaler Produktions- und Post-Production-Hub zu stärken. Das seit 2013 laufende Programm hat bereits 147 Millionen US-Dollar an 243 Projekte ausgezahlt, darunter internationale Produktionen wie \"Crazy Rich Asians\", \"The Mandalorian\" und \"6 Underground\".",
+          "source": "Deadline",
+          "title": "Netflix Execs Say They Don’t Ask Filmmakers To Restate The Plot For People On Their Phones: “There Is No Such Principle”",
+          "link": "https://deadline.com/2026/03/netflix-execs-dont-ask-filmmakers-to-restate-plot-1236759763/",
+          "summary": "Netflix-Führungskräfte dementieren kategorisch die Vorwürfe, sie würden Filmemacher dazu anhalten, Handlungsstränge für unaufmerksame Zuschauer zu wiederholen oder zu vereinfachen. Die Stellungnahme erfolgt als Reaktion auf einen Oscar-Sketch von Conan O'Brien sowie frühere Kritik von Matt Damon und Ben Affleck, die Netflix vorwarfen, redundante Handlungserklärungen zu fordern, weil Zuschauer während des Streamings ihre Smartphones nutzen. Netflix-Filmchef Dan Lin und weitere Führungskräfte bezeichnen diese Behauptungen als völlig unbegründet und betonen ihr Engagement für qualitativ hochwertige Inhalte.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Prime Video and Germany’s Leonine Studios Extend Partnership With New Multi-Year Deal That Includes ‘The Housemaid,’ ‘The Hunger Games – Sunrise on the Reaping’",
-          "link": "https://variety.com/2026/digital/global/prime-video-leonine-partnership-the-housemaid-hunger-games-1236692084/",
-          "summary": "Prime Video und Leonine Studios haben ihre Partnerschaft in Deutschland und Österreich mit einem mehrjährigen Deal verlängert, der exklusive SVOD-Rechte für sechs Monate im Pay-2-Fenster für Premium-Titel wie \"The Housemaid\" und \"The Hunger Games – Sunrise on the Reaping\" umfasst. Der Vertrag deckt alle Leonine-Kinofilme ab dem 1. Januar 2026 sowie ausgewählte Bibliothekstitel aus Franchises wie \"John Wick\" und \"The Expendables\" ab.",
-          "score": 10
-        },
-        {
-          "source": "Variety",
-          "title": "‘The Season’ Stars Jessie Mei Li, Chris Pang and More Unveil Global Premiere Date at Buzzy FilMart Presentation",
-          "link": "https://variety.com/2026/tv/asia/season-jessie-mei-li-chris-pang-premiere-date-1236692037/",
-          "summary": "Die englischsprachige Revenge-Drama-Serie \"The Season\" mit Jessie Mei Li und Chris Pang hat ihren globalen Premierentermin für Juni 2026 auf der Hong Kong FilMart bekannt gegeben. Die sechsteilige Co-Produktion von SK Global (\"Crazy Rich Asians\") und PCCW Media wird über Viu in Asien, Hulu in den USA und Now TV in Hong Kong ausgestrahlt. Die Serie spielt in der Welt von Hong Kongs Elite und folgt der Hext-Familie, deren luxuriöse Welt durch die Ankunft einer mysteriösen Newcomerin namens Cola bedroht wird.",
-          "score": 7
+          "title": "Louis Theroux on Capturing Reality of Israeli Settlements in ‘The Settlers’: ‘I’d Never Seen Something Like This Unfold in the Open With No Shame’",
+          "link": "https://variety.com/2026/film/markets-festivals/louis-theroux-reality-of-israeli-settlements-the-settlers-1236692747/",
+          "summary": "Louis Theroux kehrte 2025 für die BBC-Dokumentation \"The Settlers\" in die Westbank zurück, um die Eskalation der israelischen Siedlerbewegung nach dem 7. Oktober zu untersuchen - 15 Jahre nach seinem ersten Film \"Ultra Zionists\" von 2010. Der britische Journalist beschreibt seine Faszination für das offene, schamlose Auftreten der ultra-nationalistischen Siedler und deren religiös-politische Motivation zur Besiedlung der besetzten Gebiete. Theroux hebt die \"Intensität\" hervor, während des Krieges in der Region zu filmen, und sieht darin ein weiteres Beispiel für \"menschliche Eigenartigkeit\" und kontroverse Ideologien.",
+          "score": 9
         }
       ]
     }
