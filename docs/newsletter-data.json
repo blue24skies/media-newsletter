@@ -1,251 +1,69 @@
 {
   "newsletters": [
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Christian Ulmen soll Pyjama Pictures als Gesellschafter verlassen",
-          "link": "https://www.dwdl.de/nachrichten/105909/christian_ulmen_soll_pyjama_pictures_als_gesellschafter_verlassen/",
-          "summary": "Pyjama Pictures, die von Christian Ulmen, Carsten Kelber und ProSiebenSat.1 gegründete Produktionsfirma hinter \"jerks.\", strebt eine Trennung von Gesellschafter Ulmen an. Die Geschäftsführer Kelber und Buchs gaben in einem Statement bekannt, bereits Gespräche über die Rückgabe seiner Gesellschafteranteile zu führen, nachdem diese Woche Vorwürfe gegen den Comedian bekannt wurden. Trotz geltender Unschuldsvermutung will das Unternehmen zum Schutz der Firma ohne Ulmen in die Zukunft gehen.",
+          "title": "\"XY\" bekommt Ableger im ZDF-Vorabendprogramm",
+          "link": "https://www.dwdl.de/nachrichten/105915/xy_bekommt_ableger_im_zdfvorabendprogramm/",
+          "summary": "Das ZDF startet am 6. Mai den neuen \"Aktenzeichen XY\"-Ableger \"XY Spuren des Verbrechens\" im Vorabendprogramm (mittwochs 19:25 Uhr), präsentiert von Helene Reiner. Das Format greift bereits in der Hauptsendung behandelte Fälle auf und verbindet Originalmaterial mit neuen Ermittlungserkenntnissen, wobei Graphic Novels zur Visualisierung eingesetzt werden. Die sechs monothematischen Folgen behandeln verschiedene Verbrechenskategorien wie Vermisstenfälle, Entführungen und Serienmorde, unterstützt durch Experteneinschätzungen und LKA-Experte Fabian Puchelt als regelmäßigen Studiogast.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "HR-Intendantenwahl: Verfahren steht, Hager kandidiert erneut",
-          "link": "https://www.dwdl.de/nachrichten/105907/hrintendantenwahl_verfahren_steht_hager_kandidiert_erneut/",
-          "summary": "Der HR-Rundfunkrat hat das Wahlverfahren für die Intendantenwahl festgelegt: Bewerbungen sind bis 20. April 2026 möglich, die Wahlkommission legt am 26. Juni ihre Vorschläge vor, und am 14. August 2026 findet die Wahl mit einfacher Mehrheit statt. Amtsinhaber Florian Hager kandidiert für eine weitere Amtszeit über den 28. Februar 2027 hinaus. Das Vorschlagsrecht liegt ausschließlich beim Rundfunkrat und der Wahlvorbereitungskommission.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "MDR initiiert Leipziger Appell für unabhängige Medien",
-          "link": "https://www.dwdl.de/nachrichten/105906/mdr_initiiert_leipziger_appell_fuer_unabhaengige_medien/",
-          "summary": "Der MDR hat den \"Leipziger Appell zur Freiheit und Unabhängigkeit der Medien\" initiiert, dem sich alle öffentlich-rechtlichen Anstalten sowie weitere Medienunternehmen, Verbände und Institutionen angeschlossen haben. Die Unterzeichner betonen die zentrale Bedeutung freier Medien für die Demokratie und verpflichten sich zum aktiven Schutz der Medienfreiheit vor politischer und wirtschaftlicher Einflussnahme sowie zur Förderung von Medienkompetenz. Der Appell entstand anlässlich der Würdigung des MDR als \"Ort der deutschen Demokratiegeschichte\" für seine journalistische Arbeit.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Novum beim nächsten Winterspecial der \"Rosenheim-Cops\"",
-          "link": "https://www.dwdl.de/nachrichten/105904/novum_beim_naechsten_winterspecial_der_rosenheimcops/",
-          "summary": "Bavaria Fiction hat die Dreharbeiten zum achten Winterspecial der \"Rosenheim-Cops\" mit dem Arbeitstitel \"Kalt erwischt\" abgeschlossen, das erstmals vier Ermittler aus verschiedenen Teams in einem gemeinsamen Fall vereint. Der 90-minütige Primetime-Film behandelt einen Mord an einer Schokoladenfabrik-Unternehmerin und soll den Erfolg der ZDF-Vorabendserie fortsetzen, nachdem das letzte Winterspecial im November 2024 5,77 Millionen Zuschauer erreichte. Ein konkreter Ausstrahlungstermin steht noch nicht fest.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Prime Video bringt \"Stromberg\"-Kinofilm zu Ostern",
-          "link": "https://www.dwdl.de/nachrichten/105903/prime_video_bringt_strombergkinofilm_zu_ostern/",
-          "summary": "Prime Video startet am 5. April (Ostersonntag) den Kinofilm \"Stromberg - Wieder alles wie immer\" im Streaming, nachdem dieser am 4. Dezember 2025 in die Kinos kam und die Filmförderrichtlinien eine frühere Online-Veröffentlichung verhinderten. Der von Ralf Husmann geschriebene und Arne Feldhusen inszenierte Film bringt die ursprüngliche Capitol-Besetzung um Christoph Maria Herbst und Bjarne Mädel für eine eskalierendes Reunion zusammen. Die Produktion erfolgte durch MadeFor Film und SevenPictures für ProSieben, Banijay Media Germany und Prime Video.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "SWR stellt \"Immer wieder sonntags\" nach über 30 Jahren ein",
-          "link": "https://www.dwdl.de/nachrichten/105902/swr_stellt_immer_wieder_sonntags_nach_ueber_30_jahren_ein/",
-          "summary": "Der SWR stellt die ARD-Volksmusikshow \"Immer wieder sonntags\" mit Moderator Stefan Mross nach über 30 Jahren und mehr als 300 Ausgaben aus finanziellen Gründen ein. Die letzte Staffel wird 2026 ausgestrahlt, wobei SWR-Programmdirektor Clemens Bratzler die wirtschaftliche Situation des Senders als ausschlaggebend für die \"schmerzhafte Entscheidung\" nannte. ARD-Programmdirektorin Christine Strobl würdigte die Sendung als prägenden Bestandteil des Sonntagvormittags und Stefan Mross als großen Entertainer der Schlagerwelt.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Jupiter Awards für Fitzeks \"Heimweg\" und \"Maxton Hall\"",
-          "link": "https://www.dwdl.de/nachrichten/105900/jupiter_awards_fuer_fitzeks_heimweg_und_maxton_hall/",
-          "summary": "Bei den Jupiter Awards 2026 dominierte Prime Video mit Auszeichnungen für \"Maxton Hall\" Staffel 2 als beste nationale Serie und Sebastian Fitzeks \"Der Heimweg\" als besten nationalen TV-/Streaming-Film. Die von \"TV Spielfilm\" und \"Cinema\" verliehenen Preise wurden publikumsbasiert vergeben, weitere Auszeichnungen gingen u.a. an Phil Laude (\"Almania\"), Anna Maria Mühe (\"Totenfrau\") und die Ehrenpreisträgerin Désirée Nosbusch.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Dennis Horn kündigt seinen Abschied von 1Live an",
-          "link": "https://www.dwdl.de/nachrichten/105893/dennis_horn_kuendigt_seinen_abschied_von_1live_an/",
-          "summary": "Dennis Horn, stellvertretender Programmchef und Leiter der Audio-Unit von 1Live, verlässt Ende Juni die WDR-Welle, um sich wieder verstärkt dem Journalismus und digitalen Medieninnovationen zu widmen. Horn, der 2023 zu 1Live zurückgekehrt war und zuvor den \"Innovation Hub\" mitentwickelt hatte, wird weiterhin für den WDR tätig sein, während seine Nachfolge ausgeschrieben wird. Der Abgang erfolgt zeitnah zum Ende der langjährigen Morningshow-Moderation von Olli Briesch und Michael Imhof nach fast 20 Jahren.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Nach Vorwürfen: Joyn nimmt Serie &quot;Jerks&quot; mit Christian Ulmen offline",
-          "link": "https://www.horizont.net/medien/nachrichten/nach-vorwuerfen-joyn-nimmt-serie-jerks-mit-christian-ulmen-offline-233655?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Nach Vorwürfen von Collien Fernandes gegen ihren Ex-Mann Christian Ulmen hat ProSiebenSat.1 alle Folgen der Serie \"Jerks\" mit Ulmen von der Streaming-Plattform Joyn genommen. Zuvor hatte bereits Shop Apotheke sämtliche Werbemaßnahmen mit dem Schauspieler als Testimonial ausgesetzt, nachdem der Spiegel über die Anschuldigungen berichtet hatte.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "How-to: Serienformate: Wie Struktur zur stärksten Performance-Währung in Social Media wird",
-          "link": "https://www.horizont.net/medien/nachrichten/serienformate-wie-struktur-zur-staerksten-performance-waehrung-auf-social-media-wird-233645?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die Deutsche Bahn-Webserie \"Boah, Bahn!\" mit Anke Engelke erzielte trotz kontroverser Diskussionen eine starke Performance in Social Media. Laut Metricool-Expertin Lea Sindel sind serielle Content-Strukturen besonders erfolgsversprechend für Marken in sozialen Medien, da sie durch wiederkehrende Formate und Kontinuität höhere Engagement-Raten generieren.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Audio-Branding: Wie man Marken am Klang erkennen kann",
-          "link": "https://www.horizont.net/medien/nachrichten/audio-branding-wie-man-marken-am-klang-erkennen-kann-233628?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Eine Studie des Vermarkters RMS belegt die positive Wirkung von Audio-Branding-Elementen wie Sound Logos, Brand Claims und Jingles auf die Markenwahrnehmung in der Audiowerbung. Trotz dieser nachgewiesenen Effektivität nutzen viele Unternehmen diese akustischen Markenelemente noch nicht oder setzen sie zu inkonsistent ein.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Studie zum News-Konsum: So gehen die Deutschen mit KI-Zusammenfassungen um",
-          "link": "https://www.horizont.net/medien/nachrichten/studie-zum-news-konsum-so-gehen-die-deutschen-mit-ki-zusammenfassungen-um-233589?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Eine Studie zeigt, dass KI-generierte Zusammenfassungen für viele Deutsche als Einstieg in die Nachrichtenrecherche dienen, obwohl sie diesen skeptisch gegenüberstehen. Trotz dieser Skepsis verzichten die meisten Nutzer darauf, die ursprünglichen Quellen zu überprüfen, was eine problematische Diskrepanz zwischen Misstrauen und tatsächlichem Verhalten aufzeigt.",
+          "title": "Wolter-Zwillinge koppeln einstige Rubrik aus \"Late Night Berlin\" aus",
+          "link": "https://www.dwdl.de/nachrichten/105914/wolterzwillinge_koppeln_einstige_rubrik_aus_late_night_berlin_aus/",
+          "summary": "Die Wolter-Zwillinge starten ab 29. April mittwochs um 23:15 Uhr bei ProSieben das neue Format \"Schäm dich reich\", eine Auskopplung einer gleichnamigen Rubrik aus Klaas Heufer-Umlafs eingestellter Sendung \"Late Night Berlin\". Das Konzept: \"Lockvögel\" werden mit Knopf im Ohr auf echte Dates geschickt und müssen von den Moderatoren gestellte, zunehmend peinliche Aufgaben erfüllen, um bis zu 4.000 Euro zu gewinnen. Das Format läuft zusätzlich bei Joyn und folgt auf das beendete \"World Wide Wohnzimmer\" der Zwillinge.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Warum es für jede Lebensphase einen neuen Plan braucht",
-          "link": "https://kress.de/news/beitrag/152407-lebenslange-karriereplanung-warum-es-fuer-jede-lebensphase-einen-neuen-plan-braucht.html",
-          "summary": "Der Artikel argumentiert, dass sich Prioritäten und Ziele im Lauf des Lebens ändern und empfiehlt daher regelmäßige Reflexion der beruflichen Ausrichtung in jeder Lebensphase. Für Berufseinsteiger wird eine Balance aus Pragmatismus und langfristiger Zielstrebigkeit empfohlen, da der Berufseinstieg oft zwischen knappen, wenig attraktiven Angeboten und der Angst vor falschen Entscheidungen herausfordert. Der Autor illustriert dies anhand der Geschichte eines 91-jährigen ehemaligen Mentors, dessen Lebensweg die Unvorhersagbarkeit von Karrieren und Lebensplänen verdeutlicht.",
+          "title": "Schertz geht für Ulmen gegen Spiegel vor",
+          "link": "https://kress.de/news/beitrag/152402-nach-vorwuerfen-von-collien-fernandes-schertz-geht-fuer-ulmen-gegen-spiegel-vor.html",
+          "summary": "Medienanwalt Christian Schertz kündigt rechtliche Schritte gegen den „Spiegel\" im Namen von Schauspieler Christian Ulmen an, nachdem das Magazin über Vorwürfe von Ulmens Ex-Frau Collien Fernandes berichtet hatte. Schertz bezeichnet die Berichterstattung als „rechtswidrig\" und wirft dem Magazin „unzulässige Verdachtsberichterstattung\" sowie die Verbreitung „unwahrer Tatsachen aufgrund einer einseitigen Schilderung\" vor. Konkrete Details zu den geplanten rechtlichen Schritten wurden zunächst nicht genannt.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Moritz Döbler wird neuer Sprecher des Presserats",
+          "link": "https://kress.de/news/beitrag/152409-moritz-doebler-wird-neuer-sprecher-des-presserats.html",
+          "summary": "Moritz Döbler, Redaktionsleiter der Rheinischen Post und seit 2022 ehrenamtliches Presserat-Mitglied (entsandt vom BDZV), wird neuer Sprecher des Deutschen Presserats. Gleichzeitig kehrt der Jurist und Tagesspiegel-Korrespondent Jost Müller-Neuhof als DJV-Vertreter ins Plenum zurück und löst die ausscheidende nd-Redakteurin Negin Behkam ab. Döbler verfügt über langjährige Führungserfahrung als ehemaliger Chefredakteur des Weser-Kurier und Mitglied der Tagesspiegel-Chefredaktion.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Charlotte Morré wird Chefredakteurin bei Tagesspiegel Background Für die CEO Andrea Wasmuth ist...",
-          "link": "https://kress.de/news/beitrag/152388-charlotte-morre-wird-chefredakteurin-bei-tagesspiegel-background.html",
-          "summary": "Charlotte Morré wechselt zum 1. August 2026 vom Handelsblatt zu Tagesspiegel Background, wo sie als neue Chefredakteurin die redaktionelle Leitung der digitalen B2B-Fachdienste übernimmt. Die bisherige Head of Digital beim Handelsblatt soll mit ihrer Expertise in digitaler Strategie und KI die strategische Weiterentwicklung des erfolgreichen Fachverlags vorantreiben. Der Wechsel erfolgt innerhalb der Mediengruppe, da beide Titel zur selben Verlagsgruppe gehören.",
-          "score": 7
+          "title": "Oliver Eckert wird zusätzlich CEO der KStA Medien Oliver Eckert wird zusätzlich zu seiner Rolle als...",
+          "link": "https://kress.de/news/beitrag/152383-dumont-oliver-eckert-wird-zusaetzlich-ceo-der-ksta-medien.html",
+          "summary": "Oliver Eckert übernimmt ab April 2026 zusätzlich zu seiner COO-Funktion bei DuMont die CEO-Position der KStA Medien, nachdem Thomas Schultz-Homberg zur Madsack Mediengruppe wechselt. Die Personalunion soll Entscheidungswege verkürzen und die regionale Medienstrategie enger mit der DuMont-Gesamtstrategie verzahnen. Eckert wird das KI-gestützte Projekt KStA.Connect vorantreiben, das Journalismus mit lokalen Communities und Services für die Metropolregion Köln verbinden soll.",
+          "score": 8
         },
         {
           "source": "kress",
           "title": "Christian Heise zieht in die Geschäftsführung ein Christian Heise wird zum Sommer Chief Strategy and Technology Officer der Spiegel-Gruppe.",
           "link": "https://kress.de/news/beitrag/152380-spiegel-gruppe-christian-heise-zieht-in-die-geschaeftsfuehrung-ein.html",
-          "summary": "Christian Heise wechselt zum Sommer 2026 von seinem Posten als Präsident der Hamburg Media School in die Geschäftsführung der Spiegel-Gruppe, wo er als Chief Strategy and Technology Officer die Verzahnung von Strategie und Technologie vorantreiben soll. Zusätzlich wird er gemeinsam mit CFO Martina Hoyer die Geschäftsführung der zukünftigen Spiegel TV Magazin GmbH übernehmen. Die Personalie zielt darauf ab, zentrale Impulse für die weitere digitale Transformation des Medienhauses zu setzen.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Doppelsieg für \"Mordlust\" Der True-Crime-Podcast “Mordlust” ist der Gewinner des Monats in den Februar-Charts der MA.",
-          "link": "https://meedia.de/news/beitrag/21399-podcast-ma-doppelsieg-fuer-quot-mordlust-quot.html",
-          "summary": "Der True-Crime-Podcast \"Mordlust\" dominierte die Februar-Charts der MA mit 822.730 validen Downloads pro neuer Episode (+70,8% vs. Januar) und 6,26 Millionen Gesamtabrufen, wobei der starke Anstieg hauptsächlich auf die gleichmäßigere Episoden-Verteilung (4 statt 2 Folgen) zurückzuführen ist. \"Mord auf Ex\" folgt auf Platz 2, während der Januar-Spitzenreiter \"Lanz & Precht\" aus unklaren, möglicherweise technischen Gründen nicht in den Charts erscheint. Weitere Zuwächse verzeichneten \"Baywatch Berlin\" und \"Lage der Nation\".",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "Die großen Missverständnisse beim Mobile Advertising Die digitale Mediaplanung steckt in einem...",
-          "link": "https://meedia.de/news/beitrag/21400-kommentar-die-grossen-missverstaendnisse-beim-mobile-advertising.html",
-          "summary": "Die digitale Mediaplanung leidet unter einem Effizienz-Paradoxon: Über 70% der Budgets fließen in Walled Gardens wie GAFA, obwohl Nutzer primär im Open Web aktiv sind. Trotz präziser GPS-Daten und deterministischer Logins erzeugen diese Plattformen hauptsächlich Echo-Kammern und repetitive Targeting-Schleifen, die am tatsächlichen Nutzerbedürfnis vorbeizielen. Open-Web-Publisher können durch kontextuelle Relevanz im Moment des Interesses effektiveres Targeting liefern als standortbasierte Ansätze der großen Plattformen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Kampf gegen illegale Inhalte im Netz Wie zeitgemäß ist das Haftungsprivileg für große Plattformen?",
-          "link": "https://meedia.de/news/beitrag/21396-wie-zeitgemaess-ist-das-haftungsprivileg-fuer-grosse-plattformen.html",
-          "summary": "Der Artikel diskutiert die Aktualität des Haftungsprivilegs für große Online-Plattformen, wonach diese nicht für von Nutzern hochgeladene illegale Inhalte haften, solange sie nicht darauf aufmerksam gemacht wurden. Thorsten Schmiege, Präsident der Bayerischen Landeszentrale für neue Medien, gehört zu den prominentesten Befürwortern einer Reform oder Abschaffung dieses Privilegs. Die Debatte findet vor dem Hintergrund anhaltender Kritik an Tech-Konzernen wegen mangelhafter Inhaltsmoderation und Plattformgestaltung statt.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "1 Media SE setzt die Fokussierung ihres Portfolios fort.",
-          "link": "https://meedia.de/news/beitrag/21397-seven-one-stoesst-kairion-und-esome-ab.html",
-          "summary": "ProSiebenSat.1 verkauft die Tochterunternehmen esome (Connected-TV-Vermarkter) und Kairion (Retail-Media-Spezialist) an die Münchner Beteiligungsgesellschaft Pivotum Capital. Der Verkauf ist Teil der Konsolidierungsstrategie unter italienischer Konzernführung und soll das Profil im Vermarktungsbereich schärfen, mit stärkerem Fokus auf das Entertainment-Kerngeschäft und plattformübergreifende Vermarktung eigener Inhalte. Der Vollzug der Transaktion wird für April erwartet.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "Customer Journey, innovative Werbeformen, bessere Daten Neues Dossier 3 / 2026",
-          "link": "https://meedia.de/news/beitrag/21355-neues-dossier-3-2026-mobile-advertising.html",
-          "summary": "Das neue MEEDIA-Dossier 3/2026 zu Mobile Advertising thematisiert die zentrale Rolle mobiler Werbung, da zwei Drittel aller Website-Aufrufe von mobilen Endgeräten stammen und wichtige Social Apps wie Instagram, TikTok und Snapchat ausschließlich mobil genutzt werden. Ein Schwerpunkt liegt auf der Kritik am aktuellen Effizienz-Paradoxon der digitalen Mediaplanung, bei der 70% der Budgets in Walled Gardens investiert werden, obwohl Nutzer primär im Open Web aktiv sind. Das Dossier beleuchtet zudem neue Entwicklungen wie TikToks Rolle als Suchmaschine und die Bedeutung von Standortdaten für die mobile Werbeplanung.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "\"Merkur\" und \"Zeit\" wachsen gegen den Trend Trotz des gegenüber dem Vormonat um drei Tage kürzeren...",
-          "link": "https://meedia.de/news/beitrag/21390-online-reichweiten-quot-merkur-quot-und-quot-zeit-quot-wachsen-gegen-den-trend.html",
-          "summary": "Trotz des um drei Tage kürzeren Februars konnten einige deutsche Onlinemedien ihre Nettoreichweiten steigern, darunter \"Merkur.de\" (+4,3%) und \"Die Zeit\" (+4,8%) aus den Top Ten der agma-DNA-Zahlen. Während \"Web.de\" mit 20,72 Millionen Nutzern Spitzenreiter blieb, verzeichneten \"wetter.com\" (-23,7%) und \"Tagesspiegel\" (-21,6%) deutliche Verluste nach ihren januarspezifischen Reichweitenspitzen durch Winterwetter bzw. Berliner Stromausfall.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Senior European journalist suspended over AI-generated quotes",
-          "link": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes",
-          "summary": "Peter Vandermeersch, ein hochrangiger Journalist bei der europäischen Mediengruppe Mediahuis, wurde suspendiert, nachdem er zugegeben hatte, AI-Tools wie ChatGPT zur Zusammenfassung von Berichten verwendet und dabei fälschlicherweise erfundene Zitate in seinem Substack-Newsletter veröffentlicht zu haben. Eine Untersuchung der Mediahuis-eigenen Zeitung NRC deckte \"Dutzende\" falscher Zitate auf, wobei sieben zitierte Personen bestätigten, die ihnen zugeschriebenen Aussagen nie gemacht zu haben. Vandermeersch räumte ein, in die \"Falle der Halluzinationen\" von KI-Systemen getappt zu sein, ohne die generierten Zitate auf ihre Richtigkeit zu überprüfen.",
-          "score": 9
-        },
-        {
-          "source": "Guardian Media",
-          "title": "CBS News begins new major round of layoffs: ‘This is really hard and really tough’",
-          "link": "https://www.theguardian.com/media/2026/mar/20/bari-weiss-cbs-news-layoffs",
-          "summary": "CBS News hat eine größere Entlassungsrunde angekündigt, die etwa 6% der rund 1.100 Mitarbeiter betrifft, und wird gleichzeitig den fast 100 Jahre alten CBS News Radio-Service im Mai 2026 einstellen. Die von Editor-in-Chief Bari Weiss und Präsident Tom Cibrowski kommunizierten Maßnahmen werden als \"strategische Umstrukturierung\" bezeichnet und mit den grundlegenden Veränderungen im Mediengeschäft begründet.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Channel 5 defends Huw Edwards drama and says it gives voice to alleged victim",
-          "link": "https://www.theguardian.com/media/2026/mar/18/channel-5-defends-huw-edwards-drama-alleged-victim",
-          "summary": "Channel 5 verteidigt sein umstrittenes Drama \"Power: The Downfall of Huw Edwards\" mit Martin Clunes in der Hauptrolle, indem der Sender betont, dass es dem mutmaßlichen Opfer eine Stimme gibt und wichtige Fragen zu Online-Sicherheit und Grooming aufwirft. Das als \"Ryan Davies\" anonymisierte, heute 23-jährige mutmaßliche Opfer arbeitete an den Drehbüchern mit und erklärt in einer Botschaft am Ende der Sendung, er wolle seine Geschichte erzählen, damit sich andere Betroffene nicht allein fühlen. Die Produktion behandelt den Skandal um den ehemaligen BBC-Nachrichtensprecher Edwards, der Zahlungen an einen 17-Jährigen für sexuell explizite Bilder geleistet haben soll.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Trump now calls war reporting ‘treason’. His attacks on the press are escalating fast | Margaret Sullivan",
-          "link": "https://www.theguardian.com/commentisfree/2026/mar/18/trump-media-war-reporting-treason",
-          "summary": "Trump verschärft seine Angriffe auf die Presse und bezeichnet Kriegsberichterstattung als \"Verrat\", während er eine gefügige Medienlandschaft anstrebt, die Propaganda statt faktischen Journalismus liefert. Unterstützt wird er dabei von Loyalisten wie FCC-Vorsitzendem Brendan Carr, der Medienunternehmen mit dem Entzug von Lizenzen droht, und Verteidigungsminister Pete Hegseth, der \"patriotischere\" Berichterstattung fordert. CNN-Chef Mark Thompson widersprach den Vorwürfen und bekräftigte die journalistische Mission des Senders, trotz politischer Drohungen faktisch zu berichten.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Kyle Sandilands sacked and top-rating radio show cancelled as host vows to fight to return to air",
-          "link": "https://www.theguardian.com/australia-news/2026/mar/18/kyle-sandilands-jackie-o-henderson-kiis-arn-contract-sacked-radio",
-          "summary": "ARN Media hat Kyle Sandilands' Vertrag gekündigt und die top-bewertete \"Kyle and Jackie O Show\" eingestellt, nachdem der Radiosender Sandilands' Verhalten während einer On-Air-Auseinandersetzung mit Co-Moderatorin Jackie Henderson am 20. Februar als schwerwiegendes Fehlverhalten einstufte. Sandilands bestreitet die Rechtmäßigkeit der Kündigung seines 100-Millionen-Dollar-Vertrags und kündigt rechtliche Schritte gegen ARN an. Die Kontroverse begann mit einem öffentlichen Streit zwischen den beiden Moderatoren und eskalierte, nachdem Sandilands eine 14-tägige Frist zur Behebung des Vertragsbruchs nicht erfüllte.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Hagai Levi On His “Contemporary” Holocaust Series ‘Etty’ & Why The International Boycott Of The Israeli Industry Should Be “Much More Selective”",
-          "link": "https://deadline.com/2026/03/hagai-levi-on-holocaust-series-etty-boycott-israel-october-7-1236761360/",
-          "summary": "Hagai Levi adaptiert in seiner neuen Serie \"Etty\" die Tagebücher von Etty Hillesum mit einem zeitgenössischen Ansatz, indem er die Holocaust-Geschichte bewusst in einem modernen Amsterdam ansiedelt statt als klassisches Periodenstück. Die Serie folgt der niederländisch-jüdischen Studentin Hillesum, die 1941 auf Anraten ihres Analytikers Julius Spier zu schreiben begann und später in Auschwitz ermordet wurde. Levi argumentiert, dass Menschen in den 1940ern ihr Leben als modern empfanden, weshalb er diese Perspektive durch zeitgenössische Kleidung und Technologie visuell umsetzt.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "HBO’s Comedy ‘Comeback’: Amy Gravitt On Being First To Satirize AI With Valerie Cherish’s Return, “Full Slate”, ‘Big Bang’ Spinoff & More Larry David",
-          "link": "https://deadline.com/2026/03/hbo-comedy-amy-gravitt-qa-the-comeback-rooster-lary-david-1236761435/",
-          "summary": "HBO's „The Comeback\" kehrt nach 11,5 Jahren mit einer dritten Staffel zurück, die als erste Comedy-Serie KI und den WGA-Streik von 2023 satirisch aufgreift. Amy Gravitt, Head of HBO Comedy, diskutiert die KI-Thematik der Serie sowie den Erfolg von „Rooster\" mit Steve Carell und mögliche Verlängerungen weiterer Comedy-Formate. HBO-Chef Casey Bloys bezeichnet die Show als bedeutendstes zeitgenössisches Porträt der Unterhaltungsindustrie des 21. Jahrhunderts.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "List Of Hollywood & Media Layoffs From Paramount To Warner Bros Discovery To CNN & More",
-          "link": "https://deadline.com/feature/hollywood-media-layoffs-list-1236007845/",
-          "summary": "Die Unterhaltungsindustrie durchlebt weiterhin eine Welle von Entlassungen, die durch die Nachwirkungen der COVID-19-Pandemie, der Hollywood-Streiks 2023 und zuletzt der Waldbrände in Los Angeles im Januar 2025 verstärkt wurde. Zu den jüngsten Kürzungen gehören Starz (7% der Belegschaft), die Schließung von CBS News Radio, Entlassungen bei WME (30 Mitarbeiter), Lionsgate, Universal Music Groups Mercury Studios und anderen Medienunternehmen. Die Branche kämpft mit strukturellen Herausforderungen, während gleichzeitig potenzielle Fusionen wie die zwischen Warner Bros. Discovery und Netflix diskutiert werden.",
+          "summary": "Christian Heise, bisheriger Präsident der Hamburg Media School, wird zum Sommer Chief Strategy and Technology Officer der Spiegel-Gruppe und zieht damit in die Geschäftsführung ein. In seiner neuen Rolle soll er die Verzahnung von Strategie und Technologie vorantreiben und zentrale Impulse für die weitere Transformation des Medienhauses setzen. Zusätzlich übernimmt er gemeinsam mit CFO Martina Hoyer die Geschäftsführung der zukünftigen Spiegel TV Magazin GmbH.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "WGA West Staff Union Calls Management Back To Bargaining Table As Writers’ First Week Of AMPTP Talks Ends: “Enough Is Enough”",
-          "link": "https://deadline.com/2026/03/wga-west-staff-requests-meeting-amptp-talks-first-week-1236762019/",
-          "summary": "Das Personal der Writers Guild of America West streikt seit über einem Monat und fordert die Gewerkschaftsführung zu Verhandlungen am Wochenende auf, während gleichzeitig die WGA-Vertreter ihre erste Verhandlungswoche mit den Hollywood-Studios über den AMPTP-Vertrag abschließen. Die Personalgewerkschaft wirft der WGA-West-Führung vor, seit September 2025 die Vertragsverhandlungen zu verschleppen und durch wiederholte Ablehnungen das Personal zu zwingen, \"gegen sich selbst zu verhandeln\".",
+          "title": "‘Project Hail Mary’ Full Of Grace: $80M U.S. Opening Breaks Records For Amazon MGM Studios, Lord & Miller And March Non-Franchise Pic – Update",
+          "link": "https://deadline.com/2026/03/box-office-project-hail-mary-ready-or-not-2-1236761181/",
+          "summary": "Amazon MGM Studios' \"Project Hail Mary\" mit Ryan Gosling erzielte ein außergewöhnliches US-Startwochenende von 80,6 Millionen Dollar und markiert damit die zweitbeste Eröffnung für einen Non-Franchise-Film nach \"Oppenheimer\" (82,4 Mio.). Der von Lord & Miller inszenierte Film stellt mehrere Rekorde auf: beste Eröffnung für Amazon MGM Studios, beste März-Eröffnung für Non-Franchise-Filme und Lords & Millers erfolgreichstes Regiedebüt. Das Ergebnis demonstriert die erfolgreiche Theaterstrategie von Amazon MGM und übertraf die Vorjahresperiode um 91%.",
           "score": 9
         },
         {
           "source": "Deadline",
-          "title": "Nielsen Punts Monthly ‘Gauge’ Report To April After Client Complaints About Updated Methodology",
-          "link": "https://deadline.com/2026/03/nielsen-delays-streaming-viewing-report-to-april-after-complaints-1236761975/",
-          "summary": "Nielsen verschiebt seinen monatlichen Gauge-Bericht von März auf April, nachdem Kunden Einwände gegen Methodenänderungen erhoben haben, die unerwartet starke Rückgänge bei Streaming-Marktanteilen von mehr als einem Prozentpunkt zeigen würden. Die geplanten Updates, die Nielsen-Paneldaten durch Advertising Research Foundation-Daten ersetzen sollten, werden nun auf die Herbstsaison verschoben. Da Milliarden von Werbedollars auf Nielsen-Daten basieren, können selbst kleine methodische Änderungen erhebliche finanzielle Auswirkungen auf Medienunternehmen und Streaming-Anbieter haben.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Starz Lays Off 7% Of Staff 10 Months After Separation From Lionsgate",
-          "link": "https://deadline.com/2026/03/starz-layoffs-post-separation-lionsgate-1236761926/",
-          "summary": "Starz hat 7% seiner Belegschaft entlassen, zehn Monate nach der Trennung von Lionsgate, als Teil einer Reorganisation zur Kostensenkung und Profitabilitätssteigerung. Das Unternehmen erreichte 17,6 Millionen US-Abonnenten im Q4 2025 und reduzierte seine Nettoverluste auf 20,7 Millionen Dollar. CEO Jeff Hirsch bezeichnete 2025 als erfolgreiches Jahr, in dem alle Finanzziele übertroffen wurden, während das Unternehmen auf positive Cashflows in 2026 abzielt.",
+          "title": "Guthrie Family Pleads For “Renewed Attention” To Disappearance As “No Detail Is Too Small” To Share: “We Cannot Grieve; We Can Only Ache And Wonder”",
+          "link": "https://deadline.com/2026/03/nancy-guthrie-disappearance-nbc-special-tucson-1236762467/",
+          "summary": "NBC-Tochtersender KVOA News 4 Tucson strahlte eine Sondersendung über das Verschwinden von Nancy Guthrie aus, der Mutter von Today-Show-Moderatorin Savannah Guthrie. Die Familie appelliert in einer gemeinsamen Erklärung an die Öffentlichkeit, auch kleinste Details zu den kritischen Zeiträumen um den 31. Januar/1. Februar sowie 11. Januar zu melden, da jemand aus der Gemeinde möglicherweise unwissentlich relevante Informationen besitzt. Ausschnitte der Sendung werden in den Sunday-Ausgaben von Today und NBC Nightly News ausgestrahlt.",
           "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Starz Cutting 7 Percent of Staff",
-          "link": "https://www.hollywoodreporter.com/business/business-news/starz-layoffs-1236543102/",
-          "summary": "Starz hat 7 Prozent seiner Belegschaft (weniger als 40 von 541 Mitarbeitern) entlassen, während sich das Unternehmen nach der Abspaltung von Lionsgate im vergangenen Jahr als reines Streaming-Unternehmen neu positioniert. Der Premium-Kabelanbieter, der unter CEO Jeffrey Hirsch Franchises wie \"Outlander\" und \"Power\" betreibt, kämpft mit dem Rückgang linearer TV-Haushalte und beendete 2024 mit 12,7 Millionen OTT-Abonnenten bei einem Jahreswachstum von 7,6 Prozent.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Timothée Chalamet’s ‘Marty Supreme’ Sets Streaming Debut",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/timothee-chalamet-marty-supreme-streaming-release-hbo-max-1236542899/",
-          "summary": "Josh Safdies Tischtennisdrama \"Marty Supreme\" mit Timothée Chalamet startet am 24. April auf HBO Max, nachdem der A24-Film zu Weihnachten in die Kinos kam und neun Oscar-Nominierungen erhielt. Chalamet gewann einen Golden Globe für seine Darstellung des ehrgeizigen Tischtennisspielers Marty Mauser im New York der 1950er Jahre, ging aber bei der Oscar-Verleihung leer aus. Der Film wurde während der Awards-Saison auch wegen Chalamets kontroversen Äußerungen über Kunstformen diskutiert.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "The U.S. Has Been Losing Movie and TV Production for Years. Where Have Lawmakers Been?",
-          "link": "https://www.hollywoodreporter.com/business/business-news/schiff-production-town-hall-burbank-1236542924/",
-          "summary": "Senator Adam Schiff veranstaltete eine Anhörung in Burbank, um Unterstützung für bundesweite Steueranreize zur Rückholung von Film- und TV-Produktionen in die USA zu gewinnen, nachdem fast die Hälfte aller Produktionen 2023 im Ausland gedreht wurde und Los Angeles County über 42.000 Entertainment-Jobs verlor. Die Anhörung verdeutlichte sowohl die gravierenden Probleme der Branche - darunter Produktionsabwanderung aufgrund attraktiverer internationaler Subventionen und Konsolidierung - als auch das mangelnde proaktive Handeln der Politik auf allen Ebenen. Branchenvertreter kritisierten, dass Entscheidungsträger stets nur reagieren statt vorausschauend zu agieren.",
+          "title": "Box Office: ‘Project Hail Mary’ Rocketing to Gravity-Defying $77 Million-Plus Opening",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/box-office-project-hail-mary-previews-1236542161/",
+          "summary": "\"Project Hail Mary\" mit Ryan Gosling verzeichnet einen außergewöhnlich starken Kinostart mit 33,1 Millionen Dollar am Eröffnungstag und wird voraussichtlich über 77 Millionen Dollar am Eröffnungswochenende einspielen. Damit reiht sich der Weltraum-Film in die seltene Kategorie nicht-franchise-basierter Post-Pandemie-Hits wie \"Oppenheimer\" ein, die über 70 Millionen Dollar erreichten. Die positive Resonanz von Kritikern und Publikum sowie die erfolgreiche Adaption des Andy Weir-Romans durch Drehbuchautor Drew Goddard (\"The Martian\") trugen zum überraschend starken Abschneiden bei.",
           "score": 8
         }
       ]
