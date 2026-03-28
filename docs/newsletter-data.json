@@ -1,76 +1,104 @@
 {
   "newsletters": [
     {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Michael Loeb verlässt WDR Mediagroup nach über 25 Jahren",
-          "link": "https://www.dwdl.de/nachrichten/105994/michael_loeb_verlaesst_wdr_mediagroup_nach_ueber_25_jahren/",
-          "summary": "Michael Loeb verlässt nach über 25 Jahren auf eigenen Wunsch Ende Juli seine Position als Geschäftsführer der WDR Mediagroup. Frank Nielebrock übernimmt ab August als neuer Sprecher der Geschäftsführung, während Tobias Lammert, bisher Leiter Marketing & Vertrieb, neu in die Geschäftsführung aufgenommen wird. Die WDR Mediagroup setzt damit auf interne Kontinuität mit zwei langjährigen Führungskräften.",
+          "title": "WDR stellt junge Radiowellen neu auf und hinterlässt Fragezeichen",
+          "link": "https://www.dwdl.de/nachrichten/106001/wdr_stellt_junge_radiowellen_neu_auf_und_hinterlaesst_fragezeichen/",
+          "summary": "Der WDR plant eine strategische Neuausrichtung seiner jungen Radiowellen 1Live, 1Live Diggi und Cosmo unter dem Dach von 1Live, um gezielt jüngere und kulturell diverse Zielgruppen zu erreichen. Cosmo soll zu einem HipHop-fokussierten Programm für urbane Communities werden, während 1Live Diggi eine \"unaufgeregte Medienumgebung\" für digital überreizte junge Hörer bieten soll. Zentrale Details wie neue Sendernamen, genaue Programmprofile und die Zukunft bestehender Marken bleiben jedoch unklar, zudem steigt der RBB aus der Cosmo-Kooperation aus.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Wie RTL bei Gerichtsshows, Realitys und Serien auf KI setzen will",
-          "link": "https://www.dwdl.de/nachrichten/105976/wie_rtl_bei_gerichtsshows_realitys_und_serien_auf_ki_setzen_will/",
-          "summary": "Zusammenfassung nicht verfügbar.",
+          "title": "RTL+ erweitert Anime-Angebot mit Crunchyroll-Inhalten",
+          "link": "https://www.dwdl.de/nachrichten/105998/rtl_erweitert_animeangebot_mit_crunchyrollinhalten/",
+          "summary": "RTL Deutschland hat eine Lizenzvereinbarung mit Sony Pictures geschlossen, um das Anime-Angebot von RTL+ durch Crunchyroll-Inhalte erheblich zu erweitern. Das neue Portfolio umfasst beliebte Serien-Franchises wie \"Attack on Titan\", \"My Hero Academia\" und \"Jujutsu Kaisen\" sowie Klassiker wie \"Inuyasha\", ergänzt durch zahlreiche Anime-Kinofilme inklusive des international erfolgreichen Films \"Suzume\". Der Deal zielt darauf ab, RTL+ im wachstumsstarken Anime-Segment zu positionieren und das Content-Portfolio strategisch zu stärken.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "\"Die Realitystar Academy\" läuft linear nach \"GNTM\"",
-          "link": "https://www.dwdl.de/nachrichten/105972/die_realitystar_academy_laeuft_linear_nach_gntm/",
-          "summary": "Zusammenfassung nicht verfügbar.",
-          "score": 7
+          "title": "Offensive ab Herbst: Disney+ kündigt neue deutsche Hulu Originals an",
+          "link": "https://www.dwdl.de/nachrichten/105983/offensive_ab_herbst_disney_kuendigt_neue_deutsche_hulu_originals_an/",
+          "summary": "Disney+ kündigt für die zweite Jahreshälfte 2026 drei neue deutsche Eigenproduktionen an: die Realitysoap „Yacht Deals Monaco\" (August), die dystopische Thriller-Serie „City Of Blood\" (16. September) und das Historiendrama „Vienna Game\". Mit „Yacht Deals Monaco\" wagt Disney+ erstmals den Vorstoß in die non-fiktionale Unterhaltung, während „City of Blood\" als ambitioniertestes deutsches Serienprojekt des Streamers gilt und ein düsteres Zukunftsszenario mit Vampiren im klimawandelgeschädigten Berlin zeigt.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "ZDF Studios mit weiteren Vorschulkanälen bei Prime Video",
+          "link": "https://www.dwdl.de/nachrichten/105986/zdf_studios_mit_weiteren_vorschulkanaelen_bei_prime_video/",
+          "summary": "ZDF Studios hat bei Prime Video zwei neue Vorschulkanäle gelauncht: \"Biene Maja & Friends\" für Deutschland/Österreich und \"Dibidoo & Friends\" für Großbritannien, die jeweils über 200 Stunden Premium-Vorschulcontent umfassen. Die Kanäle bündeln beliebte Marken wie \"Der kleine Drache Kokosnuss\", \"Heidi\" und \"Wickie\" sowie Titel aus der bestehenden Content-Partnerschaft mit Studio 100 International. Dies erweitert ZDF Studios' Channel-Portfolio bei Prime Video nach den bereits bestehenden Angeboten ZDF tivi select und Pash.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Seriencamp Conference setzt auf weitere Locations",
+          "link": "https://www.dwdl.de/nachrichten/105982/seriencamp_conference_setzt_auf_weitere_locations/",
+          "summary": "Das Seriencamp findet vom 9.-11. Juni 2026 in Köln statt und fokussiert auf Branchenveränderungen wie neue Wertschöpfungsmodelle, technologische Konvergenz von Film/Games sowie IP-/World-Building-Strategien. Erstmals wird die Veranstaltung um \"Plot Nxt\" (11.-12. Juni) erweitert, die KI-Anwendungen entlang der Wertschöpfungskette thematisiert, während bewährte Formate wie Pitching-Events und \"Meet the Commissioners\" erhalten bleiben.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "ZDF darf weiterhin reine Audio-Podcasts produzieren",
+          "link": "https://www.dwdl.de/nachrichten/105978/zdf_darf_weiterhin_reine_audiopodcasts_produzieren/",
+          "summary": "Die Hamburger Behörde für Kultur und Medien hat eine Rechtsaufsichtsbeschwerde der Arbeitsgemeinschaft Privater Rundfunk (APR) gegen die ZDF-Podcast-Produktion zurückgewiesen und bestätigt, dass das ZDF laut Medienstaatsvertrag berechtigt ist, reine Audio-Telemedien anzubieten, sofern sie durch den Drei-Stufen-Test genehmigt wurden. Das ZDF kann seine Podcasts wie \"Lanz & Precht\" weiterhin auf Drittplattformen verbreiten, während die APR trotz anderer Rechtsauffassung vorerst keine weiteren rechtlichen Schritte plant.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Bertelsmann mit stabilem Umsatz und Milliardengewinn",
+          "link": "https://www.dwdl.de/nachrichten/105973/bertelsmann_mit_stabilem_umsatz_und_milliardengewinn/",
+          "summary": "Bertelsmann erzielte 2025 einen stabilen Konzernumsatz von 18,96 Milliarden Euro (organisches Wachstum: 1,9%) bei einem operativen Gewinn von 3,0 Milliarden Euro und übersprang zum elften Mal in Folge die Milliardengrenze beim Nettogewinn (1,007 Mrd. Euro). Der Konzern investierte 1,5 Milliarden Euro in die \"Boost\"-Wachstumsstrategie, die seit 2021 bereits 7 Milliarden Euro umfasst und bis 2026 auf 8 Milliarden Euro ausgeweitet werden soll. CEO Thomas Rabe bezeichnete das Jahr als \"solide\" und hebt die erfolgreiche geografische Diversifizierung in einem herausfordernden Marktumfeld hervor.",
+          "score": 8
         },
         {
           "source": "Horizont Medien",
-          "title": "Stimmen aus der Branche: Das denken Agenturen &amp; Co über ein Social-Media-Verbot",
-          "link": "https://www.horizont.net/medien/nachrichten/stimmen-aus-der-branche-das-denken-agenturen--co-ueber-einsocial-media-verbot-233750?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Zusammenfassung nicht verfügbar.",
+          "title": "&quot;Agentic AI Medienhaus&quot;: RTL will verstärkt KI in der Produktion einsetzen",
+          "link": "https://www.horizont.net/medien/nachrichten/agentic-ai-medienhaus-rtl-will-verstaerkt-ki-in-der-produktion-einsetzen-233762?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "RTL plant den verstärkten Ausbau von Künstlicher Intelligenz in der Medienproduktion mit dem Ziel, zum führenden \"Agentic AI Medienhaus\" im deutschsprachigen Raum zu werden. KI soll dabei insbesondere in der Produktion von Reality-Formaten, Serien und Werbetrennern zum Einsatz kommen.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "WDR-Vermarkter: Michael Loeb verlässt WDR Mediagroup",
+          "link": "https://www.horizont.net/medien/nachrichten/wdr-vermarkter-michael-loeb-verlaesst-wdr-mediagroup-233760?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Michael Loeb verlässt nach 25 Jahren seine Position als Geschäftsführer der WDR Mediagroup im Sommer. Die Geschäftsführung übernehmen künftig Frank Nielebock und Tobias Lammert.",
+          "score": 9
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Bilanz 2025: Bertelsmann hält Gewinn bei 1 Milliarde – Umsatz stagniert",
+          "link": "https://www.horizont.net/medien/nachrichten/bilanz-2025-bertelsmannhaelt-gewinn-bei-1-milliarde--umsatz-stagniert-233740?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Bertelsmann erzielte im Geschäftsjahr 2025 ein stabiles Konzernergebnis von 1,0 Milliarde Euro bei einem stagnierenden Umsatz von 19,0 Milliarden Euro. Der Medienkonzern konnte damit seine Profitabilität auf Vorjahresniveau halten, während das Wachstum ausblieb.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "&quot;Ein sehr gutes Quiz (mit hoher Gewinnsumme)&quot;: Joko &amp; Klaas treten mit ihrem Quiz künftig gegen den &quot;Tatort&quot; an",
+          "link": "https://www.horizont.net/medien/nachrichten/ein-sehr-gutes-quiz-mit-hoher-gewinnsumme-joko--klaas-treten-mit-ihrem-quiz-kuenftig-gegen-den-tatort-an-233735?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "ProSieben verlegt das Quiz-Format \"Ein sehr gutes Quiz (mit hoher Gewinnsumme)\" von Joko & Klaas ab dem 19. April vom Samstag auf den Sonntag. Mit dieser Programmierung tritt der Sender direkt gegen das etablierte \"Tatort\"-Format im Ersten an und setzt auf eine offensive Konkurrenzsituation im Sonntagsprogramm.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts \"Die Maiwald\" startet völlig chancenlos gegen den \"Dänemark-Krimi\" Am...",
-          "link": "https://meedia.de/news/beitrag/21453-quot-die-maiwald-quot-startet-voellig-chancenlos-gegen-den-quot-daenemark-krimi-quot.html",
-          "summary": "Zusammenfassung nicht verfügbar.",
+          "title": "Michael Loeb geht nach 25 Jahren Frank Nielebock und Tobias Lammert übernehmen Leitung der WDR...",
+          "link": "https://meedia.de/news/beitrag/21462-frank-nielebock-und-tobias-lammert-uebernehmen-leitung-der-wdr-mediagroup.html",
+          "summary": "Michael Loeb verlässt nach 25 Jahren die WDR mediagroup zum 1. August, um zu einer Anwaltskanzlei zu wechseln. Die neue Geschäftsführung übernehmen sein bisheriger Stellvertreter Frank Nielebock als Sprecher sowie Tobias Lammert, der vom Leiter Marketing & Vertrieb aufsteigt. Beide gelten als erfahrene Branchenprofis - Nielebock ist seit 2008 im Unternehmen, Lammert kam 2015 von ARD Media und ist parallel Geschäftsführer dort.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "“Die Weisheit der Vielen” RTL kündigt Prime-Time-Gameshow mit Ralf Schmitz an RTL startet am 27.",
-          "link": "https://meedia.de/news/beitrag/21456-rtl-kuendigt-prime-time-gameshow-mit-ralf-schmitz-an.html",
-          "summary": "Zusammenfassung nicht verfügbar.",
-          "score": 7
+          "title": "Streaming-Dienst gibt Programmausblick Disney+ startet Thriller-Serie aus Berlin und Historiendrama...",
+          "link": "https://meedia.de/news/beitrag/21460-disney-startet-thriller-serie-aus-berlin-und-historiendrama-aus-wien.html",
+          "summary": "Disney+ präsentiert seinen Programmausblick mit drei neuen europäischen Produktionen für 2026: die dystopische Berliner Vampire-Thriller-Serie \"City of Blood\" (Start September, basierend auf \"Berlin Noir\"), das Historiendrama \"Vienna Game\" über den Wiener Kongress 1814 (Start November) und die Reality-Soap \"Yacht Deals Monaco\". Zusätzlich sind zwei weitere deutsche Produktionen angekündigt, womit Disney+ seine lokalen Content-Investitionen im DACH-Raum deutlich ausbaut.",
+          "score": 10
         },
         {
           "source": "meedia",
-          "title": "Neue Studie von FreeWheel Connected TV erreicht in Europa 50 Prozent der Premium-Video-Ad-Views...",
-          "link": "https://meedia.de/news/beitrag/21457-connected-tv-erreicht-in-europa-50-prozent-der-premium-video-ad-views.html",
-          "summary": "Zusammenfassung nicht verfügbar.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Marketing-Abteilungen kaum auf Plattform-Sperren vorbereitet Viele Unternehmen in Deutschland sind...",
-          "link": "https://meedia.de/news/beitrag/21450-umfrage-marketing-abteilungen-kaum-auf-plattform-sperren-vorbereitet.html",
-          "summary": "Zusammenfassung nicht verfügbar.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Disney+ Strikes First-Of-Its-Kind Content Deal With Spain’s RTVE; Shows Like ‘MasterChef’ Will Drop On Streamer Straight After Linear Broadcast",
-          "link": "https://deadline.com/2026/03/disney-rtve-deal-historic-masterchef-rojo-sobre-blanco-1236767520/",
-          "summary": "Zusammenfassung nicht verfügbar.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Disney+ Strikes Content Deal With Spain’s RTVE in Latest European Broadcaster Collaboration, But With a Twist",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/disney-plus-rtve-spain-content-deal-europe-free-to-air-pact-1236547920/",
-          "summary": "Zusammenfassung nicht verfügbar.",
+          "title": "Prognose der Unternehmensberatung Highberg Deutscher Werbemarkt wächst 2026 um 4,7 Prozent Die...",
+          "link": "https://meedia.de/news/beitrag/21463-deutscher-werbemarkt-waechst-2026-um-4-7-prozent.html",
+          "summary": "Highberg prognostiziert für den deutschen Werbemarkt 2026 ein Wachstum von 4,7% auf 63,2 Milliarden Euro netto, getrieben vor allem durch Online-Werbung (+8,3%). Besonders stark entwickeln sich Influencer-Marketing (+16,8%), Videowerbung (+14,1%) und Retail Media (+14,8%), während Print weiter um 5,1% auf 6,1 Milliarden Euro schrumpft. Erstmals schätzt die Beratung auch das Potenzial von Werbung in KI-Chatbots ab.",
           "score": 7
         }
       ]
