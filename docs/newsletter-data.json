@@ -1,146 +1,188 @@
 {
   "newsletters": [
     {
-      "date": "2026-04-02",
+      "date": "2026-04-03",
       "articles": [
         {
-          "source": "Horizont Medien",
-          "title": "HORIZONT Kongress: Wer punktet im Milliardengeschäft Bewegtbild?",
-          "link": "https://www.horizont.net/medien/nachrichten/horizont-kongress-wer-punktet-im-milliardengeschaeft-bewegtbild-233790?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der HORIZONT Kongress fokussiert sich auf den umkämpften TV- und Video-Markt als eines der Hauptthemen. Besondere Aufmerksamkeit gilt dem Auftritt von Nicola Lussana, dem neuen Geschäftsführer von Seven-One Media, dem Vermarkter der ProSiebenSat.1-Gruppe. Der Kongress behandelt damit die aktuellen Entwicklungen im Milliardengeschäft Bewegtbild.",
+          "source": "DWDL",
+          "title": "RBB-Format soll an Charme klassischer Showformate anknüpfen",
+          "link": "https://www.dwdl.de/nachrichten/106064/rbbformat_soll_an_charme_klassischer_showformate_anknuepfen/",
+          "summary": "Der RBB startet am kommenden Freitag um 22 Uhr die \"Löwentraut&Hermlin Show\" - eine neue Unterhaltungssendung, die klassische Show-Formate mit modernem Zeitgeist verbinden will. Das Format kombiniert Musik, Artistik und Sketch-Elemente mit starker Publikumsinteraktion und einem 15-köpfigen Swing-Orchester. Programmdirektor Skuppin positioniert die Show als lebendige Kulturplattform jenseits reiner Nostalgie, die Berliner Glamour und Gemeinschaftsgefühl vermitteln soll.",
           "score": 9
         },
         {
-          "source": "Horizont Medien",
-          "title": "Der TV-Markt im März: ARD, ZDF und RTL auf Normalmaß gestutzt / Vox legt zu",
-          "link": "https://www.horizont.net/medien/nachrichten/der-tv-markt-im-maerz-ard-zdf-und-rtl-auf-normalmass-gestutzt--vox-legt-zu-233815?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "ARD, ZDF und RTL verloren im März 2022 Marktanteile, nachdem sie im Februar noch von den Olympischen Winterspielen und dem Dschungelcamp profitiert hatten. Der März war arm an TV-Highlights, wodurch vor allem kleinere Sender wie Vox Marktanteile hinzugewinnen konnten.",
+          "source": "DWDL",
+          "title": "NDR sucht mit Kieler Hochschule nach Journalismus-Talenten",
+          "link": "https://www.dwdl.de/nachrichten/106065/ndr_sucht_mit_kieler_hochschule_nach_journalismustalenten/",
+          "summary": "Der NDR kooperiert ab Wintersemester 2026 mit der HAW Kiel im berufsbegleitenden Masterstudiengang \"Journalismus und Medienwirtschaft\", um regionalen journalistischen Nachwuchs zu fördern. Die praktische Ausbildung erfolgt in den NDR-Regionalstudios und Redaktionen des Landesfunkhauses Schleswig-Holstein. Die Zusammenarbeit baut auf bereits bestehenden erfolgreichen Kooperationen auf, insbesondere mit Studierenden des Bachelor-Studiengangs \"Multimedia-Production\".",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Stardust Hotel\": RomCom aus dem Weltall wird im Mai veröffentlicht",
+          "link": "https://www.dwdl.de/nachrichten/106061/stardust_hotel_romcom_aus_dem_weltall_wird_im_mai_veroeffentlicht/",
+          "summary": "Der SWR startet am 22. Mai die siebenteilige Science-Fiction-RomCom-Serie \"Stardust Hotel\" in der ARD-Mediathek, produziert von Letterbox mit je 25-minütigen Folgen. Die Serie spielt im 22. Jahrhundert in einem heruntergekommenen Weltraum-Hotel, wo die neue Besitzerin Nia (Vanessa Loibl) das Hotel mit Chef-Concierge Adam (David Brizzi), einem Androiden, renovieren will, während sie romantische Gefühle für ihn entwickelt. Regie führten Simon Ostermann und Elsa van Damke, das Drehbuch stammt von Headautorin Valentina Brüning sowie Thomas Mielmann und Vivien Hoppe.",
           "score": 8
         },
         {
-          "source": "meedia",
-          "title": "Online-Zeitschriftenkiosk Wie Cafeyn Readly integrieren will Die französische Cafeyn Group hat die...",
-          "link": "https://meedia.de/news/beitrag/21493-wie-cafeyn-readly-integrieren-will.html",
-          "summary": "Die französische Cafeyn Group hat die Übernahme des internationalen Readly-Geschäfts außerhalb Skandinaviens abgeschlossen und stellt deutsche Abonnenten auf die eigene Technologie um, behält aber die Marke Readly bei. Cafeyn übernimmt 39 Readly-Mitarbeiter inklusive des kompletten deutschen Teams und verspricht Verlagen unveränderte Vergütungsmodelle bei größerer internationaler Reichweite. Der Wechsel erfolgt schrittweise über eine gemeinsame technologische Infrastruktur.",
+          "source": "DWDL",
+          "title": "DAZN kooperiert mit Disney und zeigt \"Daredevil: Born Again\"",
+          "link": "https://www.dwdl.de/nachrichten/106060/dazn_kooperiert_mit_disney_und_zeigt_daredevil_born_again/",
+          "summary": "DAZN kooperiert erneut mit Disney zur Bewerbung einer Marvel-Serie und bietet Abonnenten die ersten drei Folgen von \"Daredevil: Born Again\" kostenlos an. Die crossmediale Kampagne umfasst ein interaktives Gewinnspiel über drei Bundesliga-Wochenenden, bei dem Fußball-Fans für ihren Verein abstimmen und Disney+-Abos gewinnen können. Nach der erfolgreichen \"Andor\"-Kooperation 2025 erweitert DAZN damit strategisch sein Angebot um Entertainment-Content zur Zielgruppenbindung.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "ARD feiert \"Gefragt - gejagt\"-Jubiläum mit Doppelfolgen",
+          "link": "https://www.dwdl.de/nachrichten/106058/ard_feiert_gefragt__gejagtjubilaeum_mit_doppelfolgen/",
+          "summary": "Die ARD kehrt am 18. Mai 2026 mit \"Gefragt - gejagt\" auf den 18:00-Uhr-Sendeplatz zurück und feiert die 1000. Folge mit einer Jubiläumswoche vom 20.-23. Juli, in der täglich Doppelfolgen ausgestrahlt werden. Zusätzlich sind wieder Radiospecials (1.-5. Juni) und XXL-Samstagabend-Ausgaben mit Prominenten geplant, während das bewährte Jäger-Team unverändert bleibt.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "ARD Kultur und WDR machen Doku-Serie über die \"Bravo\"",
+          "link": "https://www.dwdl.de/nachrichten/106059/ard_kultur_und_wdr_machen_dokuserie_ueber_die_bravo/",
+          "summary": "ARD Kultur und WDR produzieren die dreiteilige Doku-Serie \"Bravo - Headlines, Hypes und Herzschmerz\" über das legendäre Jugendmagazin, die ab 25. Mai in der ARD-Mediathek verfügbar ist. Die je 30-minütigen Folgen beleuchten die Entwicklung der \"Bravo\" von 1991 bis 2015 mit Interviews von ehemaligen Coverstars wie Jasmin Wagner und Angelo Kelly sowie Ex-Chefredakteur Alex Gernandt. Parallel startet am 1. Mai die dreiteilige Serie \"Xatar - Ein Leben ist nicht genug\" über die deutsche Rap-Ikone.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "P7S1 zahlt Millionen-Abfindungen an ehemalige Vorstände",
+          "link": "https://www.dwdl.de/nachrichten/106057/p7s1_zahlt_millionenabfindungen_an_ehemalige_vorstaende/",
+          "summary": "ProSiebenSat.1 zahlte 2025 insgesamt 14,7 Millionen Euro Abfindungen an drei ehemalige Vorstandsmitglieder, darunter 5,4 Millionen an Ex-CEO Bert Habets und 4,2 Millionen an Ex-CFO Martin Mildner. Die Abfindungen wurden trotz ursprünglich längerer Vertragslaufzeiten bis 2028/2029 auf maximal zwei Jahresvergütungen begrenzt, während konzernweit weitere 67 Millionen Euro für Personalabbau aufgewendet wurden.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "Amazon und ZDF dominieren im März, RTLzwei hilft RTL+",
+          "link": "https://www.dwdl.de/zahlenzentrale/106051/amazon_und_zdf_dominieren_im_maerz_rtlzwei_hilft_rtl/",
+          "summary": "Amazon dominiert mit \"Young Sherlock\" (3,274 Mio. Views für Folge 1) erneut die AGF-Streaming-Charts im März, wobei die Followerzahlen deutlich auf 2,1 Mio. bei Folge 2 abfielen. Das ZDF positioniert sich stark mit der \"Frühling\"-Reihe (bis zu 2,296 Mio. Views) und neuen Formaten wie \"Einfach Elli\" (1,5 Mio. Views). Reality-Formate von Amazon, RTL+ und Joyn erreichten ebenfalls hohe Abrufzahlen um 1,4 Millionen Views.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "NATPE, Realscreen Summit und \"World Screen\" sind Geschichte",
+          "link": "https://www.dwdl.de/nachrichten/106050/natpe_realscreen_summit_und_world_screen_sind_geschichte/",
+          "summary": "Der kanadische Veranstalter Brunico Communications hat aufgrund anhaltender Marktkonsolidierung und struktureller Veränderungen im Content-Geschäft mehrere bedeutende TV-Branchenevents eingestellt, darunter NATPE Global, Realscreen Summit und Kidscreen Summit. Gleichzeitig stellte das Branchenmagazin \"World Screen\" nach 40 Jahren seinen Betrieb ein. Diese Entwicklungen spiegeln den Druck wider, den globale Streamingdienste auf lokale Medienhäuser und den traditionellen Formathandel ausüben.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "\"POV\" löst nach rund 22 Jahren \"neuneinhalb\" ab",
+          "link": "https://www.dwdl.de/nachrichten/106048/pov_loest_nach_rund_22_jahren_neuneinhalb_ab/",
+          "summary": "Das neue ARD-Reportage-Format \"POV - Deine Geschichte zählt\" ersetzt ab 18. April das nach 22 Jahren eingestellte \"neuneinhalb\" und richtet sich an ein älteres jugendliches Publikum mit angepassten Erzählweisen für YouTube, TikTok und ARD-Mediathek. Die zehnminütigen Folgen kombinieren dokumentarische Elemente mit persönlichen Selfie-Sequenzen, wobei vier junge Hosts Geschichten von Jugendlichen zu gesellschaftlichen Themen erzählen. Produziert wird das Format von We Are Era und Kanakfilm für die ARD unter WDR-Federführung, mit samstäglicher Ausstrahlung um 8:45 Uhr im Ersten.",
           "score": 7
         },
         {
-          "source": "meedia",
-          "title": "Digitalverfahren gegen US-Konzerne EU sucht den Dialog mit der Trump-Regierung Die EU will bei...",
-          "link": "https://meedia.de/news/beitrag/21492-eu-sucht-den-dialog-mit-der-trump-regierung.html",
-          "summary": "Die EU plant ein gemeinsames Gremium mit der Trump-Regierung, um Konflikte bei Digitalverfahren gegen US-Tech-Konzerne wie Meta, Apple und X frühzeitig zu entschärfen. US-Regierungsvertreter sollen künftig bei der Umsetzung von EU-Digitalregeln (DSA/DMA) und Kartellverfahren einbezogen werden, um \"Missverständnisse\" auszuräumen. Die EU betont, ihre Gesetze nicht ändern zu wollen, während die US-Regierung das EU-Vorgehen als Angriff auf die Meinungsfreiheit kritisiert.",
+          "source": "DWDL",
+          "title": "MagentaTV zeigt alle türkischen WM-Vorrundenspiele exklusiv",
+          "link": "https://www.dwdl.de/nachrichten/106046/magentatv_zeigt_alle_tuerkischen_wmvorrundenspiele_exklusiv/",
+          "summary": "MagentaTV überträgt alle drei WM-Vorrundenspiele der Türkei (gegen Australien, Paraguay und USA) exklusiv und nicht im Free-TV, mit einem speziellen türkischen Programmangebot inklusive türkischem Kommentar und eigener Berichterstattung auf TV 3. Das Unternehmen zielt damit auf die große türkische Community in Deutschland ab, nachdem bereits bei der EM 2024 ein exklusives Türkei-Spiel für großen Ansturm sorgte. Die Telekom hofft, die damaligen technischen Probleme durch Serverüberlastung diesmal zu vermeiden.",
           "score": 7
         },
         {
-          "source": "meedia",
-          "title": "Video Daily: TV-Quoten & Streaming-Charts RTLs \"Inside Ferrero\" stark, ProSiebens \"Germany's next Topmodel\" noch stärker Die beiden Gewinner des linearen Fernsehabends hießen am Mittwoch im jungen Publikum ProSieben und RTL: “Germany's next Topmodel” holte sich mit 0,65 Millionen 14- bis 49-Jährigen sehr starke 17,6 Prozent, RTL kam mit “Inside Ferrero",
-          "link": "https://meedia.de/news/beitrag/21490-rtls-quot-inside-ferrero-quot-stark-prosiebens-quot-germany-039-s-next-topmodel-quot-noch-staerker.html",
-          "summary": "ProSieben dominierte am Mittwochabend die werberelevante Zielgruppe mit \"Germany's next Topmodel\" (17,6% Marktanteil bei 14-49-Jährigen), gefolgt von RTLs \"Inside Ferrero\" mit starken 14,2%. Im Gesamtpublikum führten die öffentlich-rechtlichen Sender mit ARDs \"Kein einfacher Mord\" (17,4%) und ZDFs \"Bares für Rares XXL\" (15,4%), während die \"Tagesschau\" mit 25,6% Marktanteil den Tagessieg erzielte.",
+          "source": "Horizont Medien",
+          "title": "&quot;Babylon Berlin&quot;, &quot;Dark&quot; und Co.: Haben die Streamingdienste deutsche Serien besser gemacht?",
+          "link": "https://www.horizont.net/medien/nachrichten/babylon-berlin-dark-und-co.-haben-die-streamingdienste-deutsche-serien-besser-gemacht-233816?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Streamingdienste haben die deutsche Serienlandschaft durch neue Formate bereichert, wobei Prime Video mit \"You Are Wanted\" (2017), Sky mit \"Babylon Berlin\" und Netflix mit \"Dark\" Pionierarbeit leisteten. Trotz dieser positiven Entwicklung bleibt die deutsche Serienentwicklung weiterhin stark von traditionellen redaktionellen Strukturen geprägt. Die öffentlich-rechtlichen Sender ARD und ZDF folgen dabei anderen Aufträgen als kommerzielle Streaming-Plattformen.",
           "score": 10
         },
         {
-          "source": "Guardian Media",
-          "title": "The Guardian view on the BBC’s future: who decides what news means? | Editorial",
-          "link": "https://www.theguardian.com/commentisfree/2026/apr/01/the-guardian-view-on-the-bbcs-future-who-decides-what-news-means",
-          "summary": "The Guardian Editorial argumentiert, dass die Ernennung des ehemaligen Google-Managers Matt Brittin zum BBC-Generaldirektor strategisch sinnvoll ist, da er die digitalen Plattformen versteht, die zunehmend die Nachrichtenrezeption dominieren. Der Artikel warnt vor den Risiken von KI-Systemen, die bereits 30% der Suchanfragen über AI-Zusammenfassungen beantworten und journalistische Inhalte zu Rohmaterial degradieren, ohne Rücksicht auf Wahrheit oder Kontext. Die BBC steht vor dem Dilemma, entweder von KI-Plattformen ausgeschlossen zu werden oder ihre Inhalte unkontrolliert interpretieren zu lassen.",
+          "source": "Horizont Medien",
+          "title": "HORIZONT streamt: Diese Serien sollten Sie im April auf dem Schirm haben",
+          "link": "https://www.horizont.net/medien/nachrichten/horizont-streamt-diese-serien-sollten-sie-im-april-auf-dem-schirm-haben-233679?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "HORIZONT präsentiert die wichtigsten Streaming-Neustarts für April, darunter neue Serien mit Michelle Pfeiffer, eine \"Malcolm Mittendrin\"-Neuauflage und eine deutsche Animationsserie im \"Rick and Morty\"-Stil. Zusätzlich werden eine Horror-Comedy-Serie und weitere internationale Produktionen als sehenswerte April-Highlights für die Medienbranche empfohlen.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Weser-Kurier: Benjamin Piel übernimmt Chefredaktion von Silke Hellwig Benjamin Piel ist ab sofort alleiniger Chefredakteur des Weser-Kurier.",
+          "link": "https://kress.de/news/beitrag/152449-weser-kurier-benjamin-piel-uebernimmt-chefredaktion-von-silke-hellwig.html",
+          "summary": "Benjamin Piel übernimmt als alleiniger Chefredakteur des Weser-Kurier von Silke Hellwig, die nach langjähriger Führung der Mediengruppe in den Ruhestand geht. Piel, der bereits seit Januar 2025 gemeinsam mit Hellwig die Redaktion leitete, will die digitalen Angebote ausbauen und die regionale Berichterstattung aus Bremen und Niedersachsen stärken. Der mit dem Theodor-Wolff-Preis ausgezeichnete Journalist war zuvor Chefredakteur des Mindener Tageblatts.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Die März-Zahlen der AGF \"Young Sherlock\" startete grandios, ließ aber schnell nach,...",
+          "link": "https://meedia.de/news/beitrag/21494-quot-young-sherlock-quot-startete-grandios-liess-aber-schnell-nach-quot-couplechallenge-quot-staerkstes-streaming-programm-der-privatsender.html",
+          "summary": "\"Young Sherlock\" dominierte im März die AGF-Streaming-Rankings mit einem Rekordstart von 3,274 Millionen Views für die erste Folge, verlor jedoch drastisch an Zuschauern mit nur noch 2,096 Millionen Views bei Folge 2 und weiter fallenden Zahlen bis zur achten Folge. Während das ZDF mit \"Frühling\" erfolgreich war, konnte RTL Zwei mit der \"#CoupleChallenge\" als stärkstes Streaming-Programm der Privatsender RTL und ProSiebenSat.1 übertrumpfen.",
           "score": 8
         },
         {
-          "source": "Guardian Media",
-          "title": "Federal judge blocks Trump order to end funding for NPR and PBS",
-          "link": "https://www.theguardian.com/us-news/2026/mar/31/judge-blocks-trump-npr-pbs-funding-cut",
-          "summary": "Ein Bundesrichter hat Trumps Anordnung zur Beendigung der Bundesfinanzierung für NPR und PBS mit Verweis auf den ersten Verfassungszusatz als rechtswidrig blockiert. Richter Randolph Moss begründete seine Entscheidung damit, dass die Maßnahme eine verfassungswidrige Vergeltung gegen unliebsame Standpunkte darstelle. Das Weiße Haus kündigte Berufung gegen die als \"aktivistisch\" kritisierte Entscheidung an.",
+          "source": "meedia",
+          "title": "Erfahrene Media-Expertin Stefanie Becker ist Marketing-Chefin von Citroën Deutschland Zum 1.",
+          "link": "https://meedia.de/news/beitrag/21495-stefanie-becker-ist-marketing-chefin-von-citroen-deutschland.html",
+          "summary": "Stefanie Becker übernimmt zum 1. April die Position als Marketing-Chefin von Citroën Deutschland und folgt damit auf Roman Franke, der das Unternehmen auf eigenen Wunsch verlässt. Die erfahrene Media-Expertin wechselt intern vom Stellantis-Konzern, wo sie zuletzt Online-Vertrieb/E-Commerce für Deutschland leitete und zuvor bereits Marketing-Positionen bei Peugeot Deutschland innehatte. Becker bringt über 15 Jahre Erfahrung in Marketing, Media und digitalem Vertrieb mit, unter anderem aus ihrer Zeit bei der Mediaagentur MediaCom.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "Landmark losses for Meta and YouTube as big tech misses the point",
-          "link": "https://www.theguardian.com/technology/2026/mar/31/meta-youtube-social-media-court-cases",
-          "summary": "Meta und YouTube erlitten wegweisende Gerichtsniederlage, als Jurys in Kalifornien und New Mexico erstmals die Social-Media-Konzerne für Schäden an Jugendlichen haftbar machten. Die Urteile markieren einen Wendepunkt in der rechtlichen Verantwortlichkeit von Tech-Unternehmen für die Auswirkungen ihrer Produkte auf junge Nutzer. Diese Präzedenzfälle könnten langfristige rechtliche Konsequenzen für die gesamte Social-Media-Branche haben.",
+          "title": "CBS News streaming employees reach deal on new contract after walkout",
+          "link": "https://www.theguardian.com/media/2026/apr/02/cbs-streaming-union-deal",
+          "summary": "CBS News-Streaming-Mitarbeiter haben nach einem 24-stündigen Streik im März eine vorläufige Vereinbarung für einen dreijährigen Tarifvertrag erreicht. Die etwa 60 Beschäftigten, vertreten durch die Writers Guild of America East, hatten Lohnerhöhungen, Überstundenregelungen und Home-Office-Schutz gefordert. Der Abschluss erfolgt inmitten breiterer Unsicherheiten bei CBS News, wo bereits 6% der Belegschaft entlassen wurden und weitere Stellenstreichungen im Rahmen der geplanten Übernahme durch Paramount Skydance erwartet werden.",
+          "score": 9
+        },
+        {
+          "source": "Guardian Media",
+          "title": "UK social media users less active on tech platforms due to rise of video apps",
+          "link": "https://www.theguardian.com/media/2026/apr/02/uk-social-media-users-less-active-on-tech-platforms-rise-of-video-apps",
+          "summary": "Laut Ofcom-Forschung ist die aktive Nutzung sozialer Medien in Großbritannien von 61% auf 49% gesunken, da sich Plattformen zunehmend auf Video-Inhalte fokussieren und Nutzer weniger kommentieren und posten. Gleichzeitig wächst die Sorge vor negativen Konsequenzen alter Posts im Berufsleben - der Anteil besorgter Nutzer stieg von 43% auf 49%. Die Verlagerung hin zu video-orientierten Apps wie TikTok und Instagram Reels sowie Datenschutzbedenken treiben diese Entwicklung voran.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Love on the Spectrum proves that we still crave wholesome reality TV",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/mar/31/love-on-the-spectrum-netflix",
+          "summary": "Die vierte Staffel von Netflixs \"Love on the Spectrum\" wird als positive Alternative zum konfliktorientierten Reality-TV gelobt, da sie neurodivergente Singles bei ihrer authentischen Partnersuche begleitet, ohne dass diese von Ruhm oder kommerziellen Interessen motiviert sind. Die neue Staffel kombiniert bekannte Charaktere wie Madison, die ihre Beziehung mit Tyler vertieft, mit neuen Teilnehmern wie dem 25-jährigen Logan aus Las Vegas. Die Serie wird als lebensbejahendes und herzerwärmendes Format hervorgehoben, das zeigt, dass Zuschauer nach wie vor \"wholesome\" Reality-TV-Inhalte schätzen.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘LOTR’ & ‘Dune’ VFX Firm Rodeo FX Heralds New Chapter As It Opens Bigger Paris Studio Integrating Mikros Animation",
-          "link": "https://deadline.com/2026/04/rodeo-fx-opens-paris-studio-mikros-animation-1236771562/",
-          "summary": "Rodeo FX, das VFX-Studio hinter \"Game of Thrones\", \"Dune\" und \"The Rings of Power\", hat ein neues 40.000 Quadratfuß großes Studio in Paris eröffnet, das alle französischen Divisionen einschließlich der 2025 erworbenen Mikros Animation unter einem Dach vereint. Die Expansion erfolgt zwei Jahre nach der ursprünglichen Paris-Niederlassung und profitiert von Frankreichs VFX-Anreizen mit 10% Bonus auf die 30% TRIP-Steuerrückerstattung. Das Studio im 10. Arrondissement soll die Zusammenarbeit zwischen Film-, Werbe- und Animationsbereichen stärken und Rodeo FX's europäische Präsenz weiter ausbauen.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "BBC Swiftly Finds Its Replacement For Scott Mills On ‘Race Across The World’ Spin-Off",
-          "link": "https://deadline.com/2026/04/bbc-swaps-scott-mills-tyler-west-race-across-the-world-podcast-1236771543/",
-          "summary": "Die BBC hat Tyler West als schnellen Ersatz für Scott Mills als Moderator des \"Race Across the World\"-Spin-off-Vodcasts \"The Detour\" eingesetzt, nachdem Mills aufgrund von Vorwürfen wegen schwerer Sexualstraftaten entlassen wurde. Mills war 2017 polizeilich untersucht worden, das Verfahren wurde mangels Beweisen eingestellt, aber die BBC bestätigte, dass erst kürzlich neue Informationen aufgekommen seien. West, der selbst an der dritten Staffel von \"Celebrity Race Across the World\" teilgenommen hatte, übernahm die Moderation des begleitenden Vodcasts zur beliebten BBC-Unterhaltungsshow.",
+          "title": "‘Paradise’ Season 2 Finale Unearths 4.3M Views In 3 Days",
+          "link": "https://deadline.com/2026/04/paradise-season-2-finale-ratings-hulu-1236772648/",
+          "summary": "Das Staffel-2-Finale der Sci-Fi-Serie \"Paradise\" auf Hulu/Disney+ erreichte 4,3 Millionen Views in drei Tagen global, was einem Anstieg von 35% gegenüber der Staffelpremiere entspricht und die beste Audience der Staffel darstellt. Zum Vergleich: Das Staffel-1-Finale erzielte 6,3 Millionen Views in sieben Tagen, wobei die unterschiedlichen Messzeiträume einen direkten Vergleich erschweren. Die Serie von \"This Is Us\"-Schöpfer Dan Fogelman mit Sterling K. Brown hat bisher insgesamt 13 Milliarden gestreamte Minuten generiert.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Cannes Market Grows ‘AI For Talent Summit’ & Launches Creator Economy Meeting As It Bolsters Innovation Strand",
-          "link": "https://deadline.com/2026/04/cannes-market-2026-ai-creator-economy-summit-1236771537/",
-          "summary": "Das Cannes Film Festival erweitert 2026 seinen \"AI For Talent Summit\" auf zwei Tage (15.-16. Mai) und fokussiert auf KI-Integration in Produktionsabläufe, ethische KI-Nutzung und Bildung durch praxisnahe Beispiele. Parallel startet ein neues Creator Economy Meeting als Teil des innovationsorientierten \"Cannes Next\"-Strangs. Die Immersive Competition wird mit einem neuen Format für 80-225 simultane Teilnehmer im Carlton Hotel ausgetragen, während das 1.000 m² große Village Innovation eine Virtual Production-Bühne erhält.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Onset Octopus Claims UK Vertical Video First With ‘Cowboy Before Dark’ Drama Business Model",
-          "link": "https://deadline.com/2026/04/onset-octopus-uk-vertical-video-series-cowboy-before-dark-1236770671/",
-          "summary": "Onset Octopus beansprucht als erster britischer Produzent eine vollständig eigenfinanzierte Vertical-Video-Serie für internationale Distribution mit \"Cowboy Before Dark\", einer queeren Liebesgeschichte mit innovativem Geschäftsmodell, das Regisseuren Verkaufsbeteiligung gewährt. Das Studio positioniert sich als Marktführer im noch jungen UK-Microdrama-Segment und setzt auf LGBTQ-Content sowie Product Placement. Die Serie folgt auf mehrere Branchenpremieren von Onset Octopus, während der UK-Markt noch hauptsächlich von chinesischen und US-amerikanischen Apps dominiert wird.",
+          "title": "Colin Jost To EP & Star As Dentist/Drug Kingpin Larry Lavin In Drama Series In Works At Peacock From Alex Barnow",
+          "link": "https://deadline.com/2026/04/colin-jost-larry-lavin-drama-series-peacock-snl-future-1236772602/",
+          "summary": "Colin Jost entwickelt und produziert eine Drama-Serie für Peacock, in der er Larry Lavin spielt - einen Ivy League-Zahnarzt, der heimlich als Kokain-Kingpin an der Ostküste agierte. Die von Alex Barnow geschriebene Serie basiert auf dem Audacy-Podcast \"Wolves Among Us\" und wird von Universal Television produziert, wobei Jost parallel seine Rolle bei Saturday Night Live fortsetzen kann.",
           "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "BBC Insiders Reflect On Tim Davie’s Legacy – And The Task Ahead For His Successor",
-          "link": "https://deadline.com/2026/04/bbc-tim-davie-legacy-task-ahead-matt-brittin-1236770627/",
-          "summary": "Tim Davie trat im November als BBC-Generaldirektor zurück, nachdem ein Skandal um eine schlecht editierte Donald Trump-Rede zum letzten Auslöser wurde - obwohl er bereits nach der Kontroverse um antisemitische Äußerungen bei Glastonbury seinen Rücktritt erwogen hatte. Sein Nachfolger Matt Brittin übernimmt eine Position, die laut BBC-Insidern nur mit dem Amt des Premierministers oder England-Nationaltrainers vergleichbar ist. Die BBC steht 2026 vor erheblichen Herausforderungen durch ideologische Gegner, Finanzierungsdruck und Konkurrenz von Tech-Giganten.",
-          "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Cannes Marché Sets First Creator Economy Summit, “Largest Virtual Production Stage” at a Film Market",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/cannes-market-2026-marche-du-film-creator-economy-summit-1236553744/",
-          "summary": "Der Marché du Film in Cannes kündigt für 2026 (12.-20. Mai) mehrere Innovationen an, darunter den ersten Creator Economy Summit und die nach eigenen Angaben größte Virtual Production-Bühne, die je auf einem Filmmarkt präsentiert wurde. Das Festival will mit Formaten wie der Immersive Competition, dem AI for Talent Summit und einer neuen Online-Plattform von Cinando seine Position als führender Knotenpunkt für Kreativität, Technologie und Filmindustrie stärken.",
+          "title": "Streaming Ratings: ‘Young Sherlock’ Has Solid Debut, ‘Bridgerton’ Stays on Top",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-march-2-8-2026-1236554939/",
+          "summary": "Prime Videos \"Young Sherlock\" verzeichnete mit 678 Millionen Wiedergabeminuten einen soliden Debütstart und führte die Neustarts der Woche an, während Netflix' \"Bridgerton\" mit 1,99 Milliarden Minuten zum zweiten Mal in Folge die Streaming-Charts dominierte. Weitere Highlights waren Netflixs \"War Machine\" mit 1,1 Milliarden Minuten als meistgesehener Film und \"The Dinosaurs\" sowie \"Monarch: Legacy of Monsters\" als weitere erfolgreiche Seriendebüts in den Top 10.",
+          "score": 10
+        },
+        {
+          "source": "Variety",
+          "title": "Rumiko Takahashi’s ‘Mao’ Sets Hulu, Disney+ Premiere as Viz Media Lands Rights",
+          "link": "https://variety.com/2026/tv/news/rumiko-takahashi-mao-anime-hulu-disney-1236706094/",
+          "summary": "Viz Media hat die nordamerikanischen und internationalen Streaming-Rechte für die Anime-Adaption von Rumiko Takahashis „Mao\" erworben, die am 4. April auf Hulu (USA) und Disney+ (Kanada, Australien, Neuseeland, Lateinamerika) startet. Die von Sunrise produzierte Serie läuft als durchgehende zwei-cour Produktion ohne Pause und basiert auf dem seit 2019 laufenden Manga über ein Mädchen, das in Japans Taisho-Periode zurückversetzt wird. Der Launch erfolgt parallel zur Premiere im japanischen Fernsehen auf NHK General TV im Rahmen des 100-jährigen Jubiläums des Verlags Shogakukan.",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "A24 Adapting ‘London Falling,’ Latest Novel From ‘Say Nothing’ Author Patrick Radden Keefe, for TV",
-          "link": "https://variety.com/2026/tv/global/a24-adapting-patrick-radden-keefe-london-falling-tv-1236704803/",
-          "summary": "A24 UK hat die TV-Rechte an Patrick Radden Keefes neuem Buch \"London Falling\" erworben, das am 7. April erscheint und die wahre Geschichte des Londoner Teenagers Zac Brettler erzählt, der 2019 unter mysteriösen Umständen starb. Nach seinem Tod entdeckten seine Eltern, dass er ein Doppelleben als vermeintlicher Sohn eines russischen Oligarchen geführt hatte, was sie in Londons dunkle Unterwelt führt. Keefe, Autor des preisgekrönten \"Say Nothing\", wird als Executive Producer fungieren, während die Familie Brettler aktiv an der Serie beteiligt ist.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "‘Game of Thrones’ Play ‘The Mad King’ Sets July Premiere Date, Reveals Creative Team",
-          "link": "https://variety.com/2026/theater/news/game-of-thrones-play-the-mad-king-july-premiere-date-1236705167/",
-          "summary": "Die Royal Shakespeare Company präsentiert vom 20. Juli bis 5. September 2026 die Weltpremiere von \"Game of Thrones: The Mad King\" im Royal Shakespeare Theatre in Stratford-upon-Avon. Das von Duncan Macmillan adaptierte und von Dominic Cooke inszenierte Stück basiert auf George R.R. Martins Romanen und behandelt die Jahre vor den Ereignissen der Buchserie. Die Produktion wird in einer neuen Theaterkonfiguration aufgeführt und verfügt über ein umfangreiches Kreativteam, das Puppenspiel, Bewegungsregie und spezialisierte Bühnentechnik umfasst.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "‘Mozart Mozart,’ a Glam Rock-Tinged Take on the Genius and His Maybe More Talented Sister, Closes First Sales Deals (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/global/wolfgang-mozart-maria-anna-mozart-beta-film-ard-1236705159/",
-          "summary": "\"Mozart Mozart\" ist eine neue Serie mit Glam-Rock-Elementen über Wolfgang Mozart und seine möglicherweise talentiertere Schwester Maria Anna, die von Deutschlands ARD unterstützt und von Beta Film sowie Bavaria Media international vertrieben wird. Die Serie hat bereits erste Verkaufsdeals mit AMC Networks (Lateinamerika), Canal+ (Österreich), SBS (Australien) und weiteren europäischen Sendern abgeschlossen. Das Format behandelt die Mozart-Geschwister aus einer reimaginierten Perspektive, die sich auf Rebellion, Rivalität und Romantik konzentriert, wobei Maria Anna Mozart als die ursprünglich bekanntere der beiden Geschwister-Wunderkinder dargestellt wird.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "Cannes’ Marché du Film Reinforces Focus on Creators, AI, Innovation and Immersive With 2026 Program",
-          "link": "https://variety.com/2026/film/global/cannes-marche-du-film-immersive-creator-ai-2026-program-1236704795/",
-          "summary": "Das Cannes Marché du Film verstärkt 2026 seinen Fokus auf zukunftsweisende Bereiche mit dem ersten Creator Economy Summit, der Rückkehr des AI for Talent Summit sowie spezialisierten Events zu Innovation und Immersive-Technologien. Die Marktplattform wird vollständig zur neu gestalteten \"Marché du Film by Cinando\" migrieren, die Online-Screenings, Konferenzvideos und Networking-Tools in einer einheitlichen digitalen Umgebung vereint. Diese Initiativen unterstreichen das Bestreben des weltweit größten Filmmarkts, sich als führende Plattform für die digitale Transformation der Branche zu positionieren.",
+          "title": "James Marsden Joins Jon Hamm for a High-Octane ‘Your Friends & Neighbors’ Season 2: TV Review",
+          "link": "https://variety.com/2026/tv/reviews/your-friends-and-neighbors-season-2-review-jon-hamm-1236701587/",
+          "summary": "In der zweiten Staffel von Apple TV+s \"Your Friends & Neighbors\" kehrt Jon Hamm als Andrew \"Coop\" Cooper zurück, der nach seinem Freispruch von Mordvorwürfen zwar an sozialem Ansehen gewonnen hat, aber durch die Ablehnung seines alten Jobs weiterhin finanzielle Probleme hat. James Marsden stößt zur Besetzung hinzu, während die Serie ihre satirische Darstellung der Ultrareichen vertieft und dabei besonders das Phänomen des \"nach oben Scheiterns\" wohlhabender weißer Männer beleuchtet. Die von Jonathan Tropper geschaffene Dramedy bietet eine noch vielschichtigere Kritik am amerikanischen Traum und den Kosten von Lügen in privilegierten Gesellschaftskreisen.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "‘XO, Kitty’ Showrunner Breaks Down Kitty and Min Ho’s Relationship, Lara Jean’s Return and the Original Ending to Season 3",
-          "link": "https://variety.com/2026/tv/news/xo-kitty-season-3-showrunner-lara-jean-min-ho-1236703137/",
-          "summary": "Die dritte Staffel von Netflix' \"XO, Kitty\" folgt Kitty Song Covey und ihren Freunden durch ihr Abschlussjahr an einer Eliteschule in Seoul, wobei die romantischen Verwicklungen im Mittelpunkt stehen. Valentina Garza übernahm als neue Showrunnerin von Jessica O'Toole die Verantwortung für diese Staffel des Spin-offs zur \"To All The Boys I've Loved Before\"-Franchise. Die Serie ist das einzige Projekt im Jenny Han Cinematic Universe, das nicht auf einer Buchvorlage basiert.",
+          "title": "‘The Pitt’ Star Katherine LaNasa on Calling Out Robby’s ‘Terrifying’ Sabbatical Plan: Losing Him ‘Would Be Like Losing a Spouse’",
+          "link": "https://variety.com/2026/tv/news/the-pitt-katherine-lanasa-dana-robby-fight-sabbatical-1236705619/",
+          "summary": "Katherine LaNasa diskutiert ihre Rolle als Dana Evans in \"The Pitt\" Staffel 2, Episode 13, wo ihre Figur nach einem Angriff auf eine Schülerin mit PTSD-Symptomen kämpft und gleichzeitig mit ihrem Kollegen Robby (Noah Wyle) über dessen geplante Auszeit streitet. LaNasa beschreibt Dana als \"völlig aus dem Gleichgewicht\" und erklärt, dass der potentielle Verlust von Robby \"wie der Verlust eines Ehepartners\" wäre, da beide normalerweise füreinander als stabilisierende Kraft fungieren.",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "‘Ravana,’ Student-Led Theatrical Feature, Set at India’s Reliance Animation Academy, Tenali Rama (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/news/ravana-student-film-reliance-animation-academy-1236704314/",
-          "summary": "Indiens Reliance Animation Academy und Tenali Rama Animation produzieren mit \"Ravana – The Lost Battle with Shri Ram\" einen der ersten studentengeführten Kinofilme des Landes, der den Dämonenkönig Ravana aus dem Hindu-Epos Ramayana in einer komplexeren, weniger eindimensionalen Darstellung zeigt. Das Projekt nutzt eine hybride Pipeline aus KI und 3D-Animation und entsteht durch eine Industrie-Bildungs-Partnerschaft mit ausgewählten Studenten der Akademie. Der Film reiht sich in eine aktuelle Welle von Ramayana-Adaptationen ein, die von der 4K-Wiederveröffentlichung des Indo-Japanischen Animationsfilms von 1993 bis hin zu Nitesh Tiwaris kommender Hochbudget-Realverfilmung mit Ranbir Kapoor reicht.",
+          "title": "CinemaCon: Sony Pictures Classics Steps In to Replace Row K Entertainment in Film Showcase Presentation (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/news/sony-pictures-classics-cinemacon-film-showcase-row-k-entertainment-1236705998/",
+          "summary": "Sony Pictures Classics übernimmt den Präsentationsslot von Row K Entertainment bei der CinemaCon Film Showcase am 13. April in Las Vegas, nachdem sich Row K aufgrund finanzieller Schwierigkeiten und unbezahlter Rechnungen zurückgezogen hat. Row K, das erst letztes Jahr gegründet wurde, kämpft nach dem Box-Office-Flop \"Dead Man's Wire\" von Gus Van Sant mit erheblichen wirtschaftlichen Problemen. Sony Pictures Classics wird zusammen mit Studiocanal und Angel Studios ihre kommenden Filme präsentieren, darunter Sundance-Premieren wie \"Ha-Chan, Shake Your Booty!\" und \"Bedford Park\".",
           "score": 7
         }
       ]
