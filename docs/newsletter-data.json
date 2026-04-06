@@ -1,76 +1,20 @@
 {
   "newsletters": [
     {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "articles": [
         {
-          "source": "kress",
-          "title": "Weser-Kurier: Benjamin Piel übernimmt Chefredaktion von Silke Hellwig Benjamin Piel ist ab sofort alleiniger Chefredakteur des Weser-Kurier.",
-          "link": "https://kress.de/news/beitrag/152449-weser-kurier-benjamin-piel-uebernimmt-chefredaktion-von-silke-hellwig.html",
-          "summary": "Benjamin Piel übernimmt die alleinige Chefredaktion des Weser-Kurier von Silke Hellwig, die nach langjähriger Tätigkeit in den Ruhestand geht. Der mehrfach ausgezeichnete Journalist hatte bereits seit Januar 2025 gemeinsam mit Hellwig die Redaktion geführt und will nun die digitalen Angebote ausbauen sowie die regionale Berichterstattung stärken. Piel war zuvor Chefredakteur des Mindener Tageblatts und bringt umfassende Erfahrung in der Medienbranche mit.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Burda zieht sich aus Mediengeschäft in Südostasien zurück Der Medienkonzern Burda hat sein...",
-          "link": "https://kress.de/news/beitrag/152441-burda-zieht-sich-aus-mediengeschaeft-in-suedostasien-zurueck.html",
-          "summary": "Burda Media verkauft seine Südostasien-Sparte BurdaLuxury an die Venture-Capital-Firma Jaipur Capital, um sich strategisch auf die europäischen Kernmärkte zu konzentrieren und Investitionen in digitale Wachstumsfelder zu verstärken. Jaipur Capital übernimmt alle 325 Mitarbeiter einschließlich des Managementteams unter CEO Björn Rettig und will die Marken mit 48 Millionen jährlichen Seitenaufrufen weiter in Südostasien und dem Nahen Osten ausbauen.",
-          "score": 7
+          "source": "Deadline",
+          "title": "Paramount Nears Deal Securing Gulf State Funds To Back WBD Acquisition – Report",
+          "link": "https://deadline.com/2026/04/paramount-wbd-merger-foreign-backing-gulf-funds-deal-1236780058/",
+          "summary": "Paramount Skydance nähert sich einem Deal mit drei Staatsfonds aus dem Golf-Raum zur Finanzierung der geplanten Übernahme von Warner Bros. Discovery, wobei Saudi-Arabiens Public Investment Fund etwa 10 Milliarden Dollar von den benötigten 24 Milliarden Dollar beitragen soll. Die Gespräche mit Qatar Investment Authority und Abu Dhabis L'imad Holding könnten bereits am Montag zu einer Vereinbarung führen. Demokratische Senatoren haben aufgrund der ausländischen Beteiligung nationale Sicherheitsbedenken geäußert und eine umfassende FCC-Prüfung der 81-Milliarden-Dollar-Transaktion gefordert.",
+          "score": 9
         },
         {
           "source": "Deadline",
-          "title": "Final Four + Pam Bondi Firing Heats Up ‘SNL’ Cold Open With Rare Wit & Twists",
-          "link": "https://deadline.com/2026/04/snl-ncaa-pam-bondi-firing-cold-open-1236779863/",
-          "summary": "SNL's April 2026 Cold Open kombinierte geschickt NCAA Final Four-Berichterstattung mit einer Satire über Pam Bondis Entlassung als Generalstaatsanwältin, wobei Ashley Padilla die Ex-AG und Kenan Thompson Charles Barkley darstellte. Der über fünfminütige Sketch zeichnete sich durch zeitnahe Referenzen zu aktuellen Ereignissen wie dem Iran-Krieg und der Artemis II-Mission aus und wurde als einer der stärksten Cold Opens der letzten Zeit gelobt. Die Kombination aus Padillas Performance und Thompsons bewährter Komik sorgte für seltene Wendungen und Wortwitz in der politischen Satire.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Jack Black Inducted Into Five-Timers Club By Cavalcade Of ‘SNL’ Elites Amid Rock-Filled Monologue Featuring Tina Fey, Melissa McCarthy & More",
-          "link": "https://deadline.com/2026/04/jack-black-snl-monologue-five-timers-club-cameos-jack-white-1236779872/",
-          "summary": "Jack Black wurde bei seiner fünften SNL-Moderation in den exklusiven Five-Timers Club aufgenommen, wobei prominente Alumni wie Tina Fey, Jonah Hill und Melissa McCarthy Gastauftritte hatten. Die Show machte sich selbst zum Thema, indem sie die mittlerweile abgedroschene Five-Timers Club-Routine parodierte und Black diese durch eine Rock-Performance zu \"Seven Nation Army\" mit musikalischem Gast Jack White wiederbeleben ließ.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "WGA & Studios Officially Confirm Tentative Deal; Guild Says “This Deal Protects Writers’ Health Plan”",
-          "link": "https://deadline.com/2026/04/wga-deal-amptp-studios-health-plan-1236779810/",
-          "summary": "Die Writers Guild of America (WGA) und die Alliance of Motion Picture and Television Producers (AMPTP) haben eine überraschende vierjährige Tarifvereinbarung für 2026-2030 erzielt, die länger als üblich ist und Teil der AMPTP-Strategie für erweiterte Verträge mit allen Gewerkschaften darstellt. Der Deal schützt den Gesundheitsplan der Autoren durch erhöhte Arbeitgeberbeiträge und höhere Beitragsobergrenzen, baut auf den Errungenschaften von 2023 auf und adressiert Probleme unbezahlter Arbeit. Die Vereinbarung könnte transformativ für Hollywood-Arbeitsbeziehungen sein und muss noch von den Gewerkschaftsmitgliedern ratifiziert werden.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "March For Our Lives Calls Out ‘The Drama’s “Deeply Misaligned” Marketing Campaign: “We Expect Better From A24 And The Artists Behind It”",
-          "link": "https://deadline.com/2026/04/march-for-our-lives-the-drama-marketing-school-shooting-1236779818/",
-          "summary": "Die Aktivistenorganisation March for Our Lives kritisiert A24s Marketingkampagne für den Film \"The Drama\" mit Zendaya und Robert Pattinson als \"zutiefst fehlgeleitet\", da der Film das Thema Schulschießereien behandelt - Zendayas Charakter gesteht, einen Amoklauf geplant, aber nicht ausgeführt zu haben. Die Organisation bemängelt, dass bei einem so ernsten Thema die Verantwortung nicht nur auf der Leinwand liegen dürfe, sondern sich auch in der Filmvermarktung widerspiegeln müsse. March for Our Lives fordert eine produktivere Gesprächsführung über das Thema Waffengewalt, anstatt es nur zur Provokation zu nutzen.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "‘SNL UK’ Cold Open: George Fouracres’ Keir Starmer Calls On Olivia Colman & Peppa Pig To Inspire Nation",
-          "link": "https://deadline.com/2026/04/snl-uk-cold-open-keir-starmer-olivia-colman-1236779805/",
-          "summary": "In der Cold Open der dritten Folge von \"SNL UK\" parodierte George Fouracres den britischen Premierminister Keir Starmer, der aufgrund mangelnder Inspiration prominente Figuren wie Olivia Colman und Peppa Pig zu Hilfe ruft, um die Nation angesichts des Krieges im Nahen Osten zu motivieren. Die Sky-Adaption der NBC-Show gewinnt an Fahrt, wobei ein Andrew-Sketch der Vorwoche über 2 Millionen YouTube-Views erreichte, während die TV-Einschaltquoten von 226.000 auf 205.000 Zuschauer sanken.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Inside WGA Deal: How The Writers Made Nice With The AMPTP",
-          "link": "https://deadline.com/2026/04/inside-wga-deal-how-the-writers-amptp-agreed-1236779795/",
-          "summary": "Die Writers Guild of America (WGA) hat überraschend schnell eine vorläufige Vereinbarung mit den Studios erzielt, nachdem die AMPTP unter neuer Führung von Greg Hessinger einen kooperativeren Verhandlungsansatz verfolgte als in früheren Zyklen. Der vierjährige Vertrag beinhaltet KI-Schutzbestimmungen, höhere Streaming-Gebühren und eine dringend benötigte Finanzspritze von 37 Millionen Dollar für den defizitären Gesundheitsplan der Gewerkschaft. Im Gegenzug akzeptierte die WGA eine längere Vertragslaufzeit, während SAG-AFTRA bei diesem Punkt noch zögert und ihre eigenen Verhandlungen pausierte.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Writers Guild Reaches Tentative Four-Year Deal With Studios",
-          "link": "https://www.hollywoodreporter.com/business/business-news/writers-guild-tentative-four-year-deal-studios-1236555949/",
-          "summary": "Die Writers Guild of America hat eine vorläufige vierjährige Tarifvereinbarung mit der Alliance of Motion Picture and Television Producers erreicht, die den Gesundheitsplan der Autoren schützt, Unternehmensbeiträge erhöht und auf den Errungenschaften von 2023 aufbaut. Die ungewöhnlich lange Laufzeit von vier Jahren stellt eine Abkehr von der seit den 1940er Jahren üblichen dreijährigen Vertragsdauer dar. Die Vereinbarung muss noch von den Gremien der WGA West und East sowie durch eine Mitgliedschaftsabstimmung ratifiziert werden.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "‘Shrinking’ Creator Bill Lawrence Says Season 4 Will Have ‘A New Story With The Same Cast’",
-          "link": "https://variety.com/2026/tv/news/shrinking-bill-lawrence-season-4-new-story-harrison-ford-1236708489/",
-          "summary": "\"Shrinking\"-Mitschöpfer Bill Lawrence kündigt für die vierte Staffel einen kreativen Neustart an, nachdem die ursprünglich geplante dreisaisonige Handlung um Trauer, Vergebung und Neuanfang mit Staffel 3 abgeschlossen wird. Die vierte Staffel wird eine völlig neue Geschichte mit demselben Ensemble-Cast erzählen, was Lawrence als \"riskanten\" aber aufregenden Schritt beschreibt. Dieser Ansatz ermöglicht es der Serie, neue Richtungen für die Charaktere zu erkunden, anstatt die bestehenden emotionalen Handlungsstränge fortzusetzen.",
+          "title": "‘SNL UK’ Ratings Dive 36% To New Low For Riz Ahmed-Hosted Episode",
+          "link": "https://deadline.com/2026/04/snl-uk-ratings-dive-new-low-riz-ahmed-1236780029/",
+          "summary": "SNL UK verzeichnete mit der dritten Episode (Host: Riz Ahmed) einen Rückgang um 36% auf 130.100 Zuschauer, womit die Show seit der Premiere mit Tina Fey (226.000 Zuschauer) fast 100.000 Viewer verloren hat. Trotz der sinkenden Overnight-Ratings liegt die Sendung weiterhin über dem Durchschnitt für Sky-Shows im späten Samstagslot und schlägt die US-Version auf Sky Comedy. Sky bewertet den Erfolg der Show primär über die Viralität einzelner Sketches auf digitalen Plattformen, wobei der Andrew Mountbatten-Windsor-Sketch bereits über 2 Millionen YouTube-Views erreichte.",
           "score": 7
         }
       ]
