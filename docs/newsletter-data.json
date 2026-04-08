@@ -1,76 +1,132 @@
 {
   "newsletters": [
     {
-      "date": "2026-04-07",
+      "date": "2026-04-08",
       "articles": [
         {
-          "source": "meedia",
-          "title": "\"Führendes Agentic-AI-Medienhaus\" Wie RTL mit KI-Hilfe bei der Produktion von \"Strafgericht\"-Folgen spart RTL Deutschland treibt die KI-Offensive voran und bringt Anwendungen zunehmend on Air. Aktuell lässt CEO Stephan Schmitter den KI-Einsatz entlang der gesamten Wertschöpfungskette ausbauen, von der Produktion über die Postproduktion bis hin zur Ausspielung im TV und Streaming. Sein Ziel ist es, RTL zum führenden „Agentic-AI-Medienhaus“ im deutschsprachigen Raum zu entwickeln. So arbeiten entsprechende Tools aktuell bestehende „Ulrich Wetzel",
-          "link": "https://meedia.de/news/beitrag/21496-wie-rtl-mit-ki-hilfe-bei-der-produktion-von-quot-strafgericht-quot-folgen-spart.html",
-          "summary": "RTL Deutschland baut unter CEO Stephan Schmitter den KI-Einsatz systematisch entlang der gesamten Wertschöpfungskette aus - von Produktion über Postproduktion bis zur Ausspielung - mit dem strategischen Ziel, zum führenden \"Agentic-AI-Medienhaus\" im deutschsprachigen Raum zu werden. Konkret nutzt der Sender bereits KI-Tools zur Umarbeitung bestehender \"Ulrich Wetzel - das Strafgericht\"-Folgen in neue Episoden und setzt KI als \"intelligenten Partner\" zur Stärkung von Qualität und Innovationskraft ein. Diese Offensive folgt auf bereits erfolgte KI-Anwendungen wie die Rekonstruktion von Hans Clarins Stimme für \"Pumuckl\"-Produktionen.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Andy Serkis Returning As Alfred In DC’s ‘The Batman II’",
-          "link": "https://deadline.com/2026/04/the-batman-ii-andy-serkis-1236782732/",
-          "summary": "Andy Serkis wird seine Rolle als Alfred Pennyworth in Matt Reeves' \"The Batman II\" wieder aufnehmen, nachdem Terminkonflikte mit seinem \"Lord of the Rings: The Hunt for Gollum\"-Projekt gelöst wurden. Die Dreharbeiten für \"The Batman II\" beginnen im Juni in London, wobei Serkis gegen Ende des Jahres zum Cast stoßen wird. Neben Robert Pattinson und Colin Farrell werden auch Scarlett Johansson und Sebastian Stan in der Fortsetzung mitspielen.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Pilot Buzz 2026 Early Edition: CBS In Final Stretch Ahead Of Schedule Reveal",
-          "link": "https://deadline.com/2026/04/eternally-yours-the-tillbrooks-cbs-pilot-buzz-1236782781/",
-          "summary": "CBS steht kurz vor der Bekanntgabe seines 2026-27 TV-Programms und muss noch zwischen zwei Pilotprojekten entscheiden: der Vampir-Komödie \"Eternally Yours\" (Single-Camera, von den \"Ghosts\"-Showrunnern) mit Ed Weeks und Allegra Edwards sowie der historischen Familien-Sitcom \"The Tillbrooks\" (Multi-Camera) mit Kate Walsh und Rhys Darby. Beide Piloten werden positiv bewertet und könnten theoretisch beide einen Sendeplatz erhalten, da durch die Einstellung von \"DMV\" und \"The Neighborhood\" zwei Halbstunden-Slots frei werden. Die endgültige Entscheidung fällt nach den noch ausstehenden Testergebnissen und Netzwerk-Screenings vor der Programmankündigung am 15. April.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Patrick Dempsey’s ‘Memory of a Killer’ Renewed for Second Season at Fox",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/memory-of-a-killer-renewed-season-2-fox-1236557008/",
-          "summary": "Fox hat die Krimiserie \"Memory of a Killer\" mit Patrick Dempsey für eine zweite Staffel in der Saison 2026-27 verlängert. Die Serie, eine Co-Produktion zwischen Fox und Warner Bros. TV, basiert auf einem belgischen Roman und Film und zeigt Dempsey als Auftragskiller, der sein Gedächtnis verliert. Die Verlängerung erfolgt zeitgleich mit dem Staffelfinale der ersten Season, wobei Aaron Zelman und Glenn Kessler als Showrunner für die zweite Staffel bestätigt wurden.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "California’s Creative Job Losses Aren’t AI Casualties, Key Report Finds (Exclusive)",
-          "link": "https://www.hollywoodreporter.com/business/business-news/california-lost-creative-job-losses-ai-1236555589/",
-          "summary": "Ein neuer Bericht des Otis College of Art and Design stellt fest, dass die drastischen Stellenverluste in Kaliforniens Kreativwirtschaft der letzten Jahre nicht primär durch KI-Technologien verursacht wurden, sondern durch Hollywoods Umstrukturierung auf profitable Streaming-Modelle und Unternehmenskonsolidierungen. Die Studie zeigt, dass generative KI zwar die Arbeitsweise in der Kreativbranche dramatisch verändert hat, aber das Muster der Arbeitsplatzverluste nicht auf KI-bedingte Verdrängung hindeutet. Der Zeitpunkt der Arbeitsplatzverluste korreliert vielmehr mit der 2022 beginnenden Fokussierung auf Profitabilität im Streaming-Sektor.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Cannes’ Frontières Platform Unveils Lineup, Featuring an Indonesian Hot Property Action Thriller and a Monster Penis Creature Feature (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/global/cannes-frontieres-adams-family-angga-dwimas-sasongko-1236710180/",
-          "summary": "Die Cannes Frontières Platform (17.-18. Mai) präsentiert eine starke Genre-Auswahl, angeführt vom indonesischen Action-Thriller \"Queen of Malacca\" des gefragten Regisseurs Angga Dwimas Sasongko, der bereits mit \"Stealing Raden Saleh\" Indonesiens erfolgreichsten Actionfilm schuf. Das Line-up umfasst außerdem \"The Glorious Dead\" der US-Horror-Legende Adams Family sowie den Thriller \"Astrolatry\" und unterstreicht die wachsende künstlerische Ambition und Marktrelevanz des Genre-Kinos.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Netflix Price Hikes Ruled Illegal by Italian Court That Says Consumers Should Get Refunds; Streamer Will Appeal",
-          "link": "https://variety.com/2026/digital/global/netflix-price-hikes-illegal-italian-court-1236710135/",
-          "summary": "Ein Römisches Gericht erklärte Netflixs Preiserhöhungen in Italien zwischen 2017 und 2024 für rechtswidrig, da diese gegen das nationale Verbraucherschutzgesetz verstoßen, welches einseitige Preisänderungen ohne vorherige Begründung verbietet. Das Gericht ordnete Rückerstattungen für betroffene Kunden an, während Netflix Berufung gegen die Entscheidung einlegen will. Das Urteil erfolgt zeitnah zu Netflixs jüngster Preiserhöhung in den USA Ende März 2026.",
+          "source": "DWDL",
+          "title": "RTLzwei und TikTok kooperieren erstmals miteinander",
+          "link": "https://www.dwdl.de/nachrichten/106098/rtlzwei_und_tiktok_kooperieren_erstmals_miteinander/",
+          "summary": "RTLzwei und TikTok starten ihre erste gemeinsame Kooperation zur Vermarktung des Reality-Formats \"Kampf der RealityAllstars\" mit dem Ziel, TV, Streaming und Social Media plattformübergreifend zu verknüpfen. Die Kampagne umfasst einen kuratierten TikTok Search Hub, der Nutzer gezielt zu RTL+ lenken soll, sowie ein TikTok Live-Event zur Premiere mit Creatorn wie Nino Gashi und Janni Kip. Die Kooperation zielt darauf ab, neue Maßstäbe in der crossmedialen Vermarktung zu setzen und insbesondere junge Zielgruppen für das Reality-TV-Format zu erreichen.",
           "score": 8
         },
         {
-          "source": "Variety",
-          "title": "Minnie Driver, Luca Pasqualino and Louisa Harland to Lead Heist Thriller Series ‘The Day’ for Paramount+ (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/global/minnie-driver-heist-thriller-series-the-day-paramount-1236709821/",
-          "summary": "Paramount+ hat die achtteilige britische Heist-Thriller-Serie \"The Day\" bestellt, die von Minnie Driver, Luca Pasqualino und Louisa Harland angeführt wird und auf der belgischen Serie \"De Dag\" basiert. Die Serie spielt an einem einzigen Tag während einer Bankbelagerung und erzählt die Geschichte aus wechselnden Perspektiven - zunächst aus Sicht der Polizei und Verhandlungsführerin Sylvia \"Vox\" Voxley (Driver), dann aus der Perspektive der Bankräuber und Geiseln. Die Produktion erfolgt durch Dynamic Television und Clapperboard Studios.",
+          "source": "DWDL",
+          "title": "\"Kontraste\"-Leiter soll neuer Chefredakteur im RBB werden",
+          "link": "https://www.dwdl.de/nachrichten/106097/kontrasteleiter_soll_neuer_chefredakteur_im_rbb_werden/",
+          "summary": "Georg Heil, seit 2021 Redaktionsleiter des ARD-Politmagazins \"Kontraste\", soll laut Medienberichten neuer Chefredakteur des RBB werden und damit die seit einem Jahr vakante Position übernehmen. Die Stelle war nach dem Rücktritt von David Biesinger im Zuge der fehlerhaften Berichterstattung über den Grünen-Politiker Stefan Gelbhaar unbesetzt geblieben. Der RBB will Mitte April die Besetzung seiner neu strukturierten Führungsebene bekannt geben, die von zwölf auf sechs Positionen reduziert wird.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Saarländischer Rundfunk plant neue Organisationsstruktur",
+          "link": "https://www.dwdl.de/nachrichten/106094/saarlaendischer_rundfunk_plant_neue_organisationsstruktur/",
+          "summary": "Der Saarländische Rundfunk implementiert zum Jahreswechsel 2026/27 eine umfassende Organisationsreform, die vom Verwaltungsrat bereits genehmigt wurde und auf Effizienzsteigerung sowie Verschlankung der Führungsstrukturen abzielt. Kernelemente sind die Einführung themenzentrierter Redaktionen, crossmediale Planung für alle Ausspielwege und der Aufbau spezialisierter Experten für jeden Verbreitungskanal. Die Reform soll journalistische Qualität stärken, Mitarbeiterbelastung reduzieren und den Sender zukunftsfähig positionieren.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Wir können es uns nicht leisten, Studios leerstehen zu lassen\"",
+          "link": "https://www.dwdl.de/nachrichten/106019/wir_koennen_es_uns_nicht_leisten_studios_leerstehen_zu_lassen/",
+          "summary": "Die Explorado Group kooperiert mit der MMC Studios, um ab Mai das leerstehende Studio 52 auf dem Coloneum-Gelände in Köln-Ossendorf für Ausstellungen und Events zu nutzen. Die Zusammenarbeit zeigt die veränderte Film- und Fernsehlandschaft auf, da das Studio zuvor für hochkarätige TV-Produktionen wie \"The Masked Singer\" und Kinofilme genutzt wurde. Bei Erfolg könnte die Ausstellungsfläche auf bis zu 4.000 Quadratmeter erweitert werden.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Sport-Marke ESPN kommt auch in Europa zu Disney+",
+          "link": "https://www.dwdl.de/nachrichten/106092/sportmarke_espn_kommt_auch_in_europa_zu_disney/",
+          "summary": "Disney rollt seine Sportmarke ESPN international über Disney+ aus und erreicht nun 53 weitere Länder in Europa und Asien-Pazifik, womit ESPN weltweit in etwa 100 Märkten verfügbar ist. ESPN erhält eine eigene Kachel in der Disney+-App, wobei das Sportangebot regional variiert und im kommenden Jahr auf tausende Live-Events ausgebaut werden soll. Disney verstärkt damit seine Strategie, verstärkt in Sportrechte zu investieren und das Streaming-Portfolio um lokale Sportinhalte zu erweitern.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "ZDF trumpft im Streaming mit \"ZDFheute\" und \"heute-show\" auf",
+          "link": "https://www.dwdl.de/zahlenzentrale/106088/zdf_trumpft_im_streaming_mit_zdfheute_und_heuteshow_auf/",
+          "summary": "In der letzten März-Woche erreichte \"ZDFheute\" mit 1,729 Millionen Personen erstmals Platz 1 der Streaming-Nettoreichweiten und überholte damit die ARD-\"Tagesschau\" (1,588 Mio.) und \"ntv Nachrichten\" (1,46 Mio.). Die \"heute-show\" verzeichnete mit 0,913 Millionen Streaming-Zuschauern den besten Wert seit elf Monaten und erreichte medienübergreifend 10,57 Millionen Personen. Bei den Reality-Formaten dominiert weiterhin \"The 50\" von Prime Video mit knapp 800.000 erreichten Personen vor \"Promis unter Palmen\" von Joyn mit über 700.000.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Für Connected-TV &amp; Co: Wie programmatische Buchung Live-Umfelder neu positioniert",
+          "link": "https://www.horizont.net/medien/nachrichten/fuer-connected-tv--co-wie-programmatische-buchung-live-umfelder-neu-positioniert-233836?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Programmatische Buchungswege revolutionieren die Live-TV-Werbung, indem sie traditionelle Barrieren wie hohe Einstiegshürden, geringe Flexibilität und begrenzte Zielgenauigkeit überwinden. Während Live-TV-Umfelder bisher primär großen Marken mit entsprechenden Budgets vorbehalten waren, ermöglichen Connected TV und programmatische Technologien nun präzisere und zugänglichere Werbeschaltungen. Diese Entwicklung positioniert Live-Umfelder strategisch neu und öffnet sie für einen breiteren Advertiser-Kreis.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Annalect-Studie: So gegensätzlich nehmen die Nutzer Social Media heute wahr",
+          "link": "https://www.horizont.net/medien/nachrichten/annalect-studie-so-gegensaetzlich-nehmen-die-nutzer-social-media-heute-wahr-233825?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Omnicom-Datenagentur Annalect hat die aktuelle Nutzerwahrnehmung von Social Media untersucht und dabei eine starke Fragmentierung zwischen positiven Aspekten wie Inspiration und negativen Elementen wie Hate Speech und Fake News festgestellt. Die Studie zeigt die gegensätzlichen Erfahrungen der User auf und analysiert die daraus resultierenden Implikationen für die Markenkommunikation in sozialen Netzwerken.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Lénaïc Pineau im Interview: Nachhaltigkeit und (D)OOH: Diese Frau weist JCDecaux den Weg",
+          "link": "https://www.horizont.net/medien/nachrichten/-lnac-pineau-im-interview-nachhaltigkeit-und-dooh-diese-frau-weist-jcdecaux-den-weg-233742?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Lénaïc Pineau, Chief Sustainability & Quality Officer bei JCDecaux, betont im Interview, dass Nachhaltigkeit beim weltgrößten Außenwerbekonzern trotz wirtschaftlicher Herausforderungen höchste Priorität hat und nicht als reine Pflichtübung behandelt wird. Sie erläutert, warum das Thema auf Führungsebene verankert ist und wie der öffentliche Raum zunehmend zum Maßstab für verantwortungsvolle Kommunikation wird.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Wer braucht mich noch, wenn KI alles übernimmt?",
+          "link": "https://kress.de/news/beitrag/152453-umbruch-in-der-medienbranche-wer-braucht-mich-noch-wenn-ki-alles-uebernimmt.html",
+          "summary": "Die Medienbranche durchlebt erneut einen fundamentalen Wandel, diesmal durch KI-Anwendungen, die bereits heute redaktionelle Entscheidungen treffen, Texte schreiben und Inhalte ausspielen können. Nach vier Jahrzehnten kontinuierlicher Umbrüche - von privaten Sendern über das Internet bis hin zu Social Media - stellt KI nun etablierte Arbeitsweisen und Berufsbilder in Frage. Medienprofis müssen sich verstärkt mit ihrer langfristigen beruflichen Zukunft auseinandersetzen, da KI-Systeme immer mehr traditionelle Medientätigkeiten übernehmen.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "80 % der Digitalerlöse fließen an internationale Plattformen ab Warum angeblich nur wenige...",
+          "link": "https://meedia.de/news/beitrag/21507-warum-angeblich-nur-wenige-medienmarken-in-der-schweiz-ueberleben-werden.html",
+          "summary": "Ringier-CEO Marc Walder prognostiziert eine drastische Marktbereinigung in der Schweizer Medienlandschaft, da 80% der digitalen Werbeerlöse an internationale Plattformen wie Google und Meta abfließen und der Print-Werbemarkt seit 2010 von 3 Milliarden auf 650 Millionen Franken eingebrochen ist. Seiner Ansicht nach werden langfristig nur noch wenige starke Medienmarken wie NZZ, Blick, 20 Minuten und das subventionierte SRF überleben können.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "2026, das Super-CTV-Livesport-Streaming-Jahr Videowerbung wird andere Disziplinen nicht verdrängen Rutger Maree hat eine interessante Position: Er muss Publisher davon überzeugen, mehr Videoinventar zur Verfügung zu stellen, um Plattformen wie Magnite mehr Reichweite anbieten zu können. Mehr Reichweite und mehr Transparenz sind die wichtigsten Wünsche der großen Werbungtreibenden. Maree ist vorsichtig in der Argumentation, es ändert sich einiges, aber eben nicht alles aktuell im Werbemarkt. Starker Content",
+          "link": "https://meedia.de/news/beitrag/21506-videowerbung-wird-andere-disziplinen-nicht-verdraengen.html",
+          "summary": "Rutger Maree von Magnite arbeitet daran, Publisher zur Bereitstellung von mehr Videoinventar zu bewegen, um den Werbetreibenden-Anforderungen nach größerer Reichweite und Transparenz im CTV-Markt gerecht zu werden. Trotz der Wachstumsdynamik bei Connected TV und Livestreaming-Events wie 2026 sieht Maree Videowerbung nicht als Verdrängungsmedium für andere Werbedisziplinen, sondern als Ergänzung im sich wandelnden Werbemarkt. Er ist überzeugt, dass starker Content auch künftig durch werbefinanzierte Modelle tragfähig bleiben wird, erkennt aber gleichzeitig die aktuellen Targeting-Limitationen von CTV.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Kommentar: Agentic all over It’s the Governance, stupid Agentic Media Buying, Agentic Advertising, Agentic Search, Agentic DSP.",
+          "link": "https://meedia.de/news/beitrag/21503-it-s-the-governance-stupid.html",
+          "summary": "Der Artikel kritisiert das inflationäre \"Agentic\"-Marketing in der AdTech-Branche, wo Unternehmen ihre Produkte oberflächlich mit KI-Begriffen rebrandieren, ohne substanzielle technologische Veränderungen vorzunehmen. Autorin Sandra Goetz bemängelt, dass \"Agentic\" als bloßes Marketing-Label missbraucht wird, obwohl es eigentlich eine komplexe Entscheidungsarchitektur mit spezifischen Governance-Anforderungen darstellt. Besonders in europäischen Märkten treiben Sales-Teams diese oberflächlichen \"agentischen Narrative\" voran, während die technische Substanz und Regulierung meist in den USA oder anderen Zentren angesiedelt sind.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Criteo gibt Gas bei KI-Performance-Plattform GO Criteo Go bekommt Self Service und eine neue Chefin...",
+          "link": "https://meedia.de/news/beitrag/21502-criteo-go-bekommt-self-service-und-eine-neue-chefin.html",
+          "summary": "Criteo erweitert seine KI-Performance-Plattform GO um einen Self-Service-Zugang für KMU, der kanalübergreifende Full-Funnel-Kampagnen mit nur fünf Klicks ermöglichen soll. Das Angebot umfasst automatisierte Budgetsteuerung, gebündelte Display-, Video-, Native- und Social-Formate sowie Generative-AI-Tools zur Werbemittelerstellung. Zur strategischen Stärkung von GO holte Criteo die ehemalige Google-Managerin Courtney MacConnell als neue Leiterin, die 19 Jahre bei Google tätig war und den Launch von Google Shopping verantwortete.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Universal Music, home to Taylor Swift and Drake, receives €55bn takeover offer",
+          "link": "https://www.theguardian.com/business/2026/apr/07/universal-music-group-takeover-offer-bill-ackman-pershing-square",
+          "summary": "Bill Ackmans Hedgefonds Pershing Square hat ein €55 Milliarden Übernahmeangebot für Universal Music Group (UMG) vorgelegt, das den weltgrößten Musikkonzern mit Künstlern wie Taylor Swift und Drake von Amsterdam an die New Yorker Börse bringen würde. UMG-Aktien haben im vergangenen Jahr über 25% an Wert verloren, stiegen jedoch nach Bekanntgabe des Angebots um 13%. Ackman führt die schwache Kursentwicklung auf die verzögerte US-Börsennotierung und strukturelle Faktoren zurück, nicht auf die operative Performance des Musikgeschäfts.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "BBC Studios Launches First-Ever Airline Streaming Service",
+          "link": "https://deadline.com/2026/04/bbc-studios-launches-bbc-player-airline-streaming-first-1236784400/",
+          "summary": "BBC Studios hat in Partnerschaft mit Panasonic Avionics den \"BBC Player\" entwickelt - nach eigenen Angaben die erste vollständig rechtlich abgesicherte Streaming-Plattform speziell für Airlines. Die Plattform bietet verschiedene BBC-Inhalte von Doctor Who bis BBC News als In-Flight-Entertainment und ist Teil der BBC-Strategie, kommerzielle Einnahmen zu steigern, während die Lizenzgebühren-Einnahmen zurückgehen. Der Launch ist für Ende 2024 geplant und soll Fluggästen eine kontinuierlich aktualisierte Bibliothek mit BBC-Inhalten bieten.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Universal Music Backs Lucian Grainge Amid Takeover Bid by Bill Ackman",
+          "link": "https://www.hollywoodreporter.com/music/music-industry-news/universal-music-statement-bill-ackman-acquisition-proposal-1236558292/",
+          "summary": "Universal Music Group bestätigte den Erhalt von Bill Ackmans 63-Milliarden-Dollar-Übernahmeangebot durch Pershing Square Capital Management und teilte mit, dass der Vorstand das Angebot gemäß seinen Treuepflichten prüfen werde. Das Unternehmen bekräftigte dabei vollstes Vertrauen in die Strategie und Führung unter CEO Sir Lucian Grainge. Ackman begründet sein Angebot mit einer Unterbewertung der UMG-Aktie trotz starker Geschäftsergebnisse, die er auf Faktoren wie die verzögerte US-Börsennotierung und suboptimale Investor Relations zurückführt.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "‘Sholay’ 4K Restoration to Launch New York Indian Film Festival, BAFTA Winner ‘Boong’ Set as Opener (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/festivals/sholay-boong-new-york-indian-film-festival-1236710123/",
-          "summary": "Das New York Indian Film Festival 2026 (28.-31. Mai) wird mit dem BAFTA-prämierten Manipuri-Film \"Boong\" eröffnet, während eine 4K-restaurierte Version des Bollywood-Klassikers \"Sholay\" bei der Gala-Vorschau gezeigt wird. \"Boong\" behandelt die Geschichte eines Jungen aus Manipur, der seinen abwesenden Vater nach Hause holen möchte, und verbindet dabei Themen von Sehnsucht und Identität in einer Grenzstadt. Das Festival präsentiert damit sowohl klassisches als auch zeitgenössisches indisches Kino mit internationalem Anspruch.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Indian Film Festival of L.A. Reveals Industry Days Lineup, With Netflix, HBO, Universal Among Participating Companies (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/news/netflix-hbo-nbc-indian-film-festival-la-industry-days-1236710121/",
-          "summary": "Das Indian Film Festival of Los Angeles präsentiert vom 24.-25. April 2026 seine dritten Industry Days mit Beteiligung von Netflix, HBO, Universal und anderen großen Studios, um südasiatische Filmschaffende mit Hollywood-Executives zu vernetzen. Das zweitägige Forum im Landmark Sunset Hollywood umfasst das Programm \"IFFLA Connect\", das sechs kuratierte südasiatische Film- und TV-Projekte mit Branchenvertretern zusammenbringt. Ziel ist es, südasiatischen und diasporischen Geschichten zu größerer Reichweite und den passenden Entwicklungspartnern zu verhelfen.",
+          "title": "Microdrama Platform ReelShort Teams With Thailand’s AIS in First Southeast Asia Telco Deal",
+          "link": "https://variety.com/2026/tv/news/reelshort-ais-thailand-southeast-asia-launch-1236711145/",
+          "summary": "ReelShort, eine Microdrama-Plattform mit rund 3.000 Titeln, ist durch eine strategische Partnerschaft mit dem thailändischen 5G-Anbieter AIS erstmals in Südostasien gestartet. Das co-gebrandete Angebot kostet AIS-Kunden nur 39 THB ($1,15) monatlich statt der regulären 599 THB ($17,50) und umfasst werbefreien VIP-Zugang plus 5G-Konnektivität. Mit bereits 300 synchronisierten und über 1.000 untertitelten Thai-Titeln nutzt ReelShort Thailand als Sprungbrett für die regionale Expansion in einem der weltweit kompetitivsten Mobile-Entertainment-Märkte.",
           "score": 7
         }
       ]
