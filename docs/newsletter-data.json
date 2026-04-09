@@ -1,132 +1,90 @@
 {
   "newsletters": [
     {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "articles": [
         {
           "source": "DWDL",
-          "title": "RTLzwei und TikTok kooperieren erstmals miteinander",
-          "link": "https://www.dwdl.de/nachrichten/106098/rtlzwei_und_tiktok_kooperieren_erstmals_miteinander/",
-          "summary": "RTLzwei und TikTok starten ihre erste gemeinsame Kooperation zur Vermarktung des Reality-Formats \"Kampf der RealityAllstars\" mit dem Ziel, TV, Streaming und Social Media plattformübergreifend zu verknüpfen. Die Kampagne umfasst einen kuratierten TikTok Search Hub, der Nutzer gezielt zu RTL+ lenken soll, sowie ein TikTok Live-Event zur Premiere mit Creatorn wie Nino Gashi und Janni Kip. Die Kooperation zielt darauf ab, neue Maßstäbe in der crossmedialen Vermarktung zu setzen und insbesondere junge Zielgruppen für das Reality-TV-Format zu erreichen.",
+          "title": "Karsten Günther wird Redaktionsleiter der ARD Degeto",
+          "link": "https://www.dwdl.de/nachrichten/106107/karsten_guenther_wird_redaktionsleiter_der_ard_degeto/",
+          "summary": "Karsten Günther wechselt nach sechs Jahren bei Bavaria Fiction ab Mai als neuer Abteilungsleiter Redaktion und Programm-Management zur ARD Degeto nach Frankfurt. In dieser Position verantwortet er Auftrags- und Koproduktionen, Lizenzeinkauf sowie Programmplanung und folgt auf Christoph Pellander, der die Geschäftsführung von Thomas Schreiber übernimmt. Günther bringt Erfahrungen aus erfolgreichen Produktionen wie der ZDFneo-Serie „Was wir fürchten\" und der Prime-Video-Produktion „Drive – The Pretenders\" mit.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "\"Kontraste\"-Leiter soll neuer Chefredakteur im RBB werden",
-          "link": "https://www.dwdl.de/nachrichten/106097/kontrasteleiter_soll_neuer_chefredakteur_im_rbb_werden/",
-          "summary": "Georg Heil, seit 2021 Redaktionsleiter des ARD-Politmagazins \"Kontraste\", soll laut Medienberichten neuer Chefredakteur des RBB werden und damit die seit einem Jahr vakante Position übernehmen. Die Stelle war nach dem Rücktritt von David Biesinger im Zuge der fehlerhaften Berichterstattung über den Grünen-Politiker Stefan Gelbhaar unbesetzt geblieben. Der RBB will Mitte April die Besetzung seiner neu strukturierten Führungsebene bekannt geben, die von zwölf auf sechs Positionen reduziert wird.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Saarländischer Rundfunk plant neue Organisationsstruktur",
-          "link": "https://www.dwdl.de/nachrichten/106094/saarlaendischer_rundfunk_plant_neue_organisationsstruktur/",
-          "summary": "Der Saarländische Rundfunk implementiert zum Jahreswechsel 2026/27 eine umfassende Organisationsreform, die vom Verwaltungsrat bereits genehmigt wurde und auf Effizienzsteigerung sowie Verschlankung der Führungsstrukturen abzielt. Kernelemente sind die Einführung themenzentrierter Redaktionen, crossmediale Planung für alle Ausspielwege und der Aufbau spezialisierter Experten für jeden Verbreitungskanal. Die Reform soll journalistische Qualität stärken, Mitarbeiterbelastung reduzieren und den Sender zukunftsfähig positionieren.",
+          "title": "\"Kosteneinsparungen\": P7S1 will Aufsichtsrat verkleinern",
+          "link": "https://www.dwdl.de/nachrichten/106108/kosteneinsparungen_p7s1_will_aufsichtsrat_verkleinern/",
+          "summary": "ProSiebenSat.1 schlägt vor, den Aufsichtsrat von neun auf sieben Mitglieder zu verkleinern und die Vergütung deutlich zu reduzieren - von 100.000 auf 90.000 Euro für reguläre Mitglieder und von 250.000 auf 225.000 Euro für den Vorsitzenden. Die Maßnahmen sind Teil der Kosteneinsparungsstrategie des Medienkonzerns und müssen auf der Hauptversammlung am 20. Mai von den Aktionären genehmigt werden. Zusätzlich sind Kapitalstruktur-Maßnahmen geplant, darunter eine Ermächtigung zur Ausgabe von Wandel- und Optionsanleihen bis 700 Millionen Euro.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "\"Wir können es uns nicht leisten, Studios leerstehen zu lassen\"",
-          "link": "https://www.dwdl.de/nachrichten/106019/wir_koennen_es_uns_nicht_leisten_studios_leerstehen_zu_lassen/",
-          "summary": "Die Explorado Group kooperiert mit der MMC Studios, um ab Mai das leerstehende Studio 52 auf dem Coloneum-Gelände in Köln-Ossendorf für Ausstellungen und Events zu nutzen. Die Zusammenarbeit zeigt die veränderte Film- und Fernsehlandschaft auf, da das Studio zuvor für hochkarätige TV-Produktionen wie \"The Masked Singer\" und Kinofilme genutzt wurde. Bei Erfolg könnte die Ausstellungsfläche auf bis zu 4.000 Quadratmeter erweitert werden.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Sport-Marke ESPN kommt auch in Europa zu Disney+",
-          "link": "https://www.dwdl.de/nachrichten/106092/sportmarke_espn_kommt_auch_in_europa_zu_disney/",
-          "summary": "Disney rollt seine Sportmarke ESPN international über Disney+ aus und erreicht nun 53 weitere Länder in Europa und Asien-Pazifik, womit ESPN weltweit in etwa 100 Märkten verfügbar ist. ESPN erhält eine eigene Kachel in der Disney+-App, wobei das Sportangebot regional variiert und im kommenden Jahr auf tausende Live-Events ausgebaut werden soll. Disney verstärkt damit seine Strategie, verstärkt in Sportrechte zu investieren und das Streaming-Portfolio um lokale Sportinhalte zu erweitern.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "ZDF trumpft im Streaming mit \"ZDFheute\" und \"heute-show\" auf",
-          "link": "https://www.dwdl.de/zahlenzentrale/106088/zdf_trumpft_im_streaming_mit_zdfheute_und_heuteshow_auf/",
-          "summary": "In der letzten März-Woche erreichte \"ZDFheute\" mit 1,729 Millionen Personen erstmals Platz 1 der Streaming-Nettoreichweiten und überholte damit die ARD-\"Tagesschau\" (1,588 Mio.) und \"ntv Nachrichten\" (1,46 Mio.). Die \"heute-show\" verzeichnete mit 0,913 Millionen Streaming-Zuschauern den besten Wert seit elf Monaten und erreichte medienübergreifend 10,57 Millionen Personen. Bei den Reality-Formaten dominiert weiterhin \"The 50\" von Prime Video mit knapp 800.000 erreichten Personen vor \"Promis unter Palmen\" von Joyn mit über 700.000.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Für Connected-TV &amp; Co: Wie programmatische Buchung Live-Umfelder neu positioniert",
-          "link": "https://www.horizont.net/medien/nachrichten/fuer-connected-tv--co-wie-programmatische-buchung-live-umfelder-neu-positioniert-233836?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Programmatische Buchungswege revolutionieren die Live-TV-Werbung, indem sie traditionelle Barrieren wie hohe Einstiegshürden, geringe Flexibilität und begrenzte Zielgenauigkeit überwinden. Während Live-TV-Umfelder bisher primär großen Marken mit entsprechenden Budgets vorbehalten waren, ermöglichen Connected TV und programmatische Technologien nun präzisere und zugänglichere Werbeschaltungen. Diese Entwicklung positioniert Live-Umfelder strategisch neu und öffnet sie für einen breiteren Advertiser-Kreis.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Annalect-Studie: So gegensätzlich nehmen die Nutzer Social Media heute wahr",
-          "link": "https://www.horizont.net/medien/nachrichten/annalect-studie-so-gegensaetzlich-nehmen-die-nutzer-social-media-heute-wahr-233825?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die Omnicom-Datenagentur Annalect hat die aktuelle Nutzerwahrnehmung von Social Media untersucht und dabei eine starke Fragmentierung zwischen positiven Aspekten wie Inspiration und negativen Elementen wie Hate Speech und Fake News festgestellt. Die Studie zeigt die gegensätzlichen Erfahrungen der User auf und analysiert die daraus resultierenden Implikationen für die Markenkommunikation in sozialen Netzwerken.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Lénaïc Pineau im Interview: Nachhaltigkeit und (D)OOH: Diese Frau weist JCDecaux den Weg",
-          "link": "https://www.horizont.net/medien/nachrichten/-lnac-pineau-im-interview-nachhaltigkeit-und-dooh-diese-frau-weist-jcdecaux-den-weg-233742?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Lénaïc Pineau, Chief Sustainability & Quality Officer bei JCDecaux, betont im Interview, dass Nachhaltigkeit beim weltgrößten Außenwerbekonzern trotz wirtschaftlicher Herausforderungen höchste Priorität hat und nicht als reine Pflichtübung behandelt wird. Sie erläutert, warum das Thema auf Führungsebene verankert ist und wie der öffentliche Raum zunehmend zum Maßstab für verantwortungsvolle Kommunikation wird.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Wer braucht mich noch, wenn KI alles übernimmt?",
-          "link": "https://kress.de/news/beitrag/152453-umbruch-in-der-medienbranche-wer-braucht-mich-noch-wenn-ki-alles-uebernimmt.html",
-          "summary": "Die Medienbranche durchlebt erneut einen fundamentalen Wandel, diesmal durch KI-Anwendungen, die bereits heute redaktionelle Entscheidungen treffen, Texte schreiben und Inhalte ausspielen können. Nach vier Jahrzehnten kontinuierlicher Umbrüche - von privaten Sendern über das Internet bis hin zu Social Media - stellt KI nun etablierte Arbeitsweisen und Berufsbilder in Frage. Medienprofis müssen sich verstärkt mit ihrer langfristigen beruflichen Zukunft auseinandersetzen, da KI-Systeme immer mehr traditionelle Medientätigkeiten übernehmen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "80 % der Digitalerlöse fließen an internationale Plattformen ab Warum angeblich nur wenige...",
-          "link": "https://meedia.de/news/beitrag/21507-warum-angeblich-nur-wenige-medienmarken-in-der-schweiz-ueberleben-werden.html",
-          "summary": "Ringier-CEO Marc Walder prognostiziert eine drastische Marktbereinigung in der Schweizer Medienlandschaft, da 80% der digitalen Werbeerlöse an internationale Plattformen wie Google und Meta abfließen und der Print-Werbemarkt seit 2010 von 3 Milliarden auf 650 Millionen Franken eingebrochen ist. Seiner Ansicht nach werden langfristig nur noch wenige starke Medienmarken wie NZZ, Blick, 20 Minuten und das subventionierte SRF überleben können.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "2026, das Super-CTV-Livesport-Streaming-Jahr Videowerbung wird andere Disziplinen nicht verdrängen Rutger Maree hat eine interessante Position: Er muss Publisher davon überzeugen, mehr Videoinventar zur Verfügung zu stellen, um Plattformen wie Magnite mehr Reichweite anbieten zu können. Mehr Reichweite und mehr Transparenz sind die wichtigsten Wünsche der großen Werbungtreibenden. Maree ist vorsichtig in der Argumentation, es ändert sich einiges, aber eben nicht alles aktuell im Werbemarkt. Starker Content",
-          "link": "https://meedia.de/news/beitrag/21506-videowerbung-wird-andere-disziplinen-nicht-verdraengen.html",
-          "summary": "Rutger Maree von Magnite arbeitet daran, Publisher zur Bereitstellung von mehr Videoinventar zu bewegen, um den Werbetreibenden-Anforderungen nach größerer Reichweite und Transparenz im CTV-Markt gerecht zu werden. Trotz der Wachstumsdynamik bei Connected TV und Livestreaming-Events wie 2026 sieht Maree Videowerbung nicht als Verdrängungsmedium für andere Werbedisziplinen, sondern als Ergänzung im sich wandelnden Werbemarkt. Er ist überzeugt, dass starker Content auch künftig durch werbefinanzierte Modelle tragfähig bleiben wird, erkennt aber gleichzeitig die aktuellen Targeting-Limitationen von CTV.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Kommentar: Agentic all over It’s the Governance, stupid Agentic Media Buying, Agentic Advertising, Agentic Search, Agentic DSP.",
-          "link": "https://meedia.de/news/beitrag/21503-it-s-the-governance-stupid.html",
-          "summary": "Der Artikel kritisiert das inflationäre \"Agentic\"-Marketing in der AdTech-Branche, wo Unternehmen ihre Produkte oberflächlich mit KI-Begriffen rebrandieren, ohne substanzielle technologische Veränderungen vorzunehmen. Autorin Sandra Goetz bemängelt, dass \"Agentic\" als bloßes Marketing-Label missbraucht wird, obwohl es eigentlich eine komplexe Entscheidungsarchitektur mit spezifischen Governance-Anforderungen darstellt. Besonders in europäischen Märkten treiben Sales-Teams diese oberflächlichen \"agentischen Narrative\" voran, während die technische Substanz und Regulierung meist in den USA oder anderen Zentren angesiedelt sind.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Criteo gibt Gas bei KI-Performance-Plattform GO Criteo Go bekommt Self Service und eine neue Chefin...",
-          "link": "https://meedia.de/news/beitrag/21502-criteo-go-bekommt-self-service-und-eine-neue-chefin.html",
-          "summary": "Criteo erweitert seine KI-Performance-Plattform GO um einen Self-Service-Zugang für KMU, der kanalübergreifende Full-Funnel-Kampagnen mit nur fünf Klicks ermöglichen soll. Das Angebot umfasst automatisierte Budgetsteuerung, gebündelte Display-, Video-, Native- und Social-Formate sowie Generative-AI-Tools zur Werbemittelerstellung. Zur strategischen Stärkung von GO holte Criteo die ehemalige Google-Managerin Courtney MacConnell als neue Leiterin, die 19 Jahre bei Google tätig war und den Launch von Google Shopping verantwortete.",
+          "title": "Österreichischer Erfolgsfilm soll deutsches Remake bekommen",
+          "link": "https://www.dwdl.de/nachrichten/106102/oesterreichischer_erfolgsfilm_soll_deutsches_remake_bekommen/",
+          "summary": "Die österreichische Weihnachtskomödie \"Aufputzt is' - Ein Weihnachtsdebakel\" erreichte mit fast 450.000 Kinobesuchern Platz zwei der österreichischen Kinofilm-Bestenliste und wird nun von Gebhardt Productions/Gamma Gruppe für den deutschen Markt remaked. Der Film um Bauleiter Andi (Gery Seidl), der sich durch chaotische Weihnachtsvorbereitungen kämpft, soll dabei an den deutschen Humor angepasst werden. Parallel plant die Produktionsfirma eine Fortsetzung für den österreichischen Markt.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "Universal Music, home to Taylor Swift and Drake, receives €55bn takeover offer",
-          "link": "https://www.theguardian.com/business/2026/apr/07/universal-music-group-takeover-offer-bill-ackman-pershing-square",
-          "summary": "Bill Ackmans Hedgefonds Pershing Square hat ein €55 Milliarden Übernahmeangebot für Universal Music Group (UMG) vorgelegt, das den weltgrößten Musikkonzern mit Künstlern wie Taylor Swift und Drake von Amsterdam an die New Yorker Börse bringen würde. UMG-Aktien haben im vergangenen Jahr über 25% an Wert verloren, stiegen jedoch nach Bekanntgabe des Angebots um 13%. Ackman führt die schwache Kursentwicklung auf die verzögerte US-Börsennotierung und strukturelle Faktoren zurück, nicht auf die operative Performance des Musikgeschäfts.",
+          "title": "City veteran Ian Cheshire chosen to be new chair of Ofcom",
+          "link": "https://www.theguardian.com/media/2026/apr/08/city-veteran-sir-ian-cheshire-chair-ofcom-media-regulator",
+          "summary": "Ian Cheshire, ehemaliger Chair von Channel 4 und Ex-CEO von Kingfisher, wurde als neuer Ofcom-Vorsitzender nominiert und muss noch eine parlamentarische Anhörung durchlaufen. Die vierjährige Amtszeit beginnt zu einem kritischen Zeitpunkt, da Ofcom mit der Regulierung rapide wachsender Online-Inhalte und zunehmend politisch parteiischer Medien sowie der Umsetzung des Online Safety Act konfrontiert ist. Technologie-Ministerin Liz Kendall betonte Cheshires Erfahrung in der Führung komplexer Organisationen durch Transformationsphasen als entscheidende Qualifikation.",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "New Ofcom boss Ian Cheshire’s in-tray is full but one issue will dominate",
+          "link": "https://www.theguardian.com/media/2026/apr/08/online-safety-will-dominate-intray-of-new-ofcom-boss-ian-cheshire",
+          "summary": "Ian Cheshire übernimmt als neuer Ofcom-Vorsitzender die Verantwortung für die Umsetzung des Online Safety Act, der Social Media im Vereinigten Königreich reguliert. Er steht vor der schwierigen Aufgabe, sowohl die Forderungen von Internetsicherheits-Aktivisten nach einer Verschärfung des Gesetzes als auch die Bedenken von Meinungsfreiheits-Befürwortern zu balancieren. Die Online-Sicherheit wird seine Amtszeit dominieren, obwohl Ofcom auch für Telekommunikation, Medien und Postdienste zuständig ist.",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "‘A full-on embrace’: how the EU’s largest news publisher fell in love with the US",
+          "link": "https://www.theguardian.com/media/2026/apr/08/how-axel-springer-germany-mathias-doepfner-us-political",
+          "summary": "Axel Springer, Europas größter Nachrichtenverleger unter CEO Mathias Döpfner, expandiert aggressiv in den angelsächsischen Raum mit Übernahmen von Politico (2021) und Daily Telegraph (£575m). Döpfner begründet die transatlantische Expansion mit der Mission, westliche Werte zu stärken, gerät aber in Widerspruch zu diesem Anspruch, etwa durch die Veröffentlichung eines Meinungsartikels des ungarischen Ministerpräsidenten Orbán. Die Strategie reflektiert Döpfners Vision einer engeren Zusammenarbeit rechtsstaatlicher Demokratien gegen autoritäre Regime.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "David Ellison says 70% of Americans are centrist. Surveys tell a different story",
+          "link": "https://www.theguardian.com/media/2026/apr/06/paramount-ceo-david-ellison-american-centrist-survey",
+          "summary": "Paramount Skydance CEO David Ellison hat wiederholt behauptet, 70% der Amerikaner seien zentristisch orientiert, und nutzt diese Statistik zur Begründung seiner Editorial-Strategie für CBS News und potenziell CNN. Aktuelle Umfragen von YouGov, Pew und Gallup widersprechen jedoch dieser Behauptung und zeigen, dass nur etwa 40-41% der US-Bürger sich als politische Mitte identifizieren. Ellisons Ansatz zielt darauf ab, eine vermeintlich ungehörte, schweigende Mehrheit anzusprechen, basiert aber offenbar auf unzutreffenden Daten.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "BBC Studios Launches First-Ever Airline Streaming Service",
-          "link": "https://deadline.com/2026/04/bbc-studios-launches-bbc-player-airline-streaming-first-1236784400/",
-          "summary": "BBC Studios hat in Partnerschaft mit Panasonic Avionics den \"BBC Player\" entwickelt - nach eigenen Angaben die erste vollständig rechtlich abgesicherte Streaming-Plattform speziell für Airlines. Die Plattform bietet verschiedene BBC-Inhalte von Doctor Who bis BBC News als In-Flight-Entertainment und ist Teil der BBC-Strategie, kommerzielle Einnahmen zu steigern, während die Lizenzgebühren-Einnahmen zurückgehen. Der Launch ist für Ende 2024 geplant und soll Fluggästen eine kontinuierlich aktualisierte Bibliothek mit BBC-Inhalten bieten.",
-          "score": 8
+          "title": "Disney To Lay Off Up To 1,000 Employees In First Cuts Under New CEO Josh D’Amaro",
+          "link": "https://deadline.com/2026/04/disney-layoffs-new-ceo-1236785214/",
+          "summary": "Disney plant in den kommenden Monaten die Entlassung von bis zu 1.000 Mitarbeitern, die ersten Stellenstreichungen unter dem neuen CEO Josh D'Amaro. Die Kürzungen stehen im Zusammenhang mit der Konsolidierung der Marketing-Bereiche unter dem neuen Chief Marketing Officer Asad Ayaz und sind deutlich geringer als die 8.000 Entlassungen unter Ex-CEO Bob Iger zwischen 2023-2025. Bei einer Gesamtbelegschaft von über 230.000 Mitarbeitern setzen die neuen Maßnahmen die branchenweiten Kostensenkungen und Umstrukturierungen in der Medienindustrie fort.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Paramount Unlikely To Replace Jeff Shell, Insiders Say; Deep Bench To Step Up As WBD Deal Close Approaches",
+          "link": "https://deadline.com/2026/04/paramount-jeff-shell-replacement-plans-1236785050/",
+          "summary": "Paramount wird Jeff Shell nach seinem Rücktritt als Präsident voraussichtlich nicht direkt ersetzen, da die 111-Milliarden-Dollar-Fusion mit Warner Bros. Discovery bis Ende September abgeschlossen werden soll. Shell verließ das Unternehmen nach Vorwürfen bezüglich durchgesickerter Informationen und möglicher SEC-Verstöße, wobei eine Untersuchung keine Wertpapierverletzungen feststellte. Paramount plant, mit der bestehenden Führungsebene zu operieren, ähnlich wie es bei NBCUniversal nach Shells dortiger Entlassung 2022 gehandhabt wurde.",
+          "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Universal Music Backs Lucian Grainge Amid Takeover Bid by Bill Ackman",
-          "link": "https://www.hollywoodreporter.com/music/music-industry-news/universal-music-statement-bill-ackman-acquisition-proposal-1236558292/",
-          "summary": "Universal Music Group bestätigte den Erhalt von Bill Ackmans 63-Milliarden-Dollar-Übernahmeangebot durch Pershing Square Capital Management und teilte mit, dass der Vorstand das Angebot gemäß seinen Treuepflichten prüfen werde. Das Unternehmen bekräftigte dabei vollstes Vertrauen in die Strategie und Führung unter CEO Sir Lucian Grainge. Ackman begründet sein Angebot mit einer Unterbewertung der UMG-Aktie trotz starker Geschäftsergebnisse, die er auf Faktoren wie die verzögerte US-Börsennotierung und suboptimale Investor Relations zurückführt.",
+          "title": "Cannes: Ira Sachs, Pedro Almodóvar, Asghar Farhadi, Hirokazu Kore-eda Lead Arthouse-Heavy Lineup",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/cannes-2026-selection-full-list-film-festival-lineup-1236553671/",
+          "summary": "Die Cannes Filmfestspiele 2026 präsentieren eine kunsthaus-lastige Auswahl unter der Leitung renommierter Autorenfilmer wie Ira Sachs, Pedro Almodóvar, Asghar Farhadi und Hirokazu Kore-eda, wobei fünf Wettbewerbsfilme von Regisseurinnen stammen. Das Festival eröffnet am 12. Mai mit Pierre Salvadoris \"La Vénus électrique\", während Park Chan-wook (\"Oldboy\") als Jury-Präsident fungiert. Die Auswahl wird besonders von Distributoren und der Branche beobachtet, da Cannes-Premieren wie \"It Was Just an Accident\" (letztjähriger Palme d'Or-Gewinner) oft zu Oscar-Nominierungen führen.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Mediawan’s Ego Productions, Korea’s Flix Oven Sign Co-Production Understanding (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/news/mediawan-ego-productions-flix-oven-coproduction-mou-1236712156/",
+          "summary": "Mediawan's Ego Productions und das südkoreanische Unternehmen Flix Oven haben während des französischen Staatsbesuchs in Korea ein Memorandum of Understanding zur gemeinsamen Entwicklung und Produktion von Filmen und Serien unterzeichnet. Die Partnerschaft zielt auf die Ko-Entwicklung originaler Geschichten ab und geht über reine IP-Remakes hinaus. Das Agreement wurde von hochrangigen Vertretern beider Unternehmen sowie französischen Kulturinstitutionen im Rahmen der 140-jährigen diplomatischen Beziehungen zwischen Frankreich und Korea formalisiert.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Microdrama Platform ReelShort Teams With Thailand’s AIS in First Southeast Asia Telco Deal",
-          "link": "https://variety.com/2026/tv/news/reelshort-ais-thailand-southeast-asia-launch-1236711145/",
-          "summary": "ReelShort, eine Microdrama-Plattform mit rund 3.000 Titeln, ist durch eine strategische Partnerschaft mit dem thailändischen 5G-Anbieter AIS erstmals in Südostasien gestartet. Das co-gebrandete Angebot kostet AIS-Kunden nur 39 THB ($1,15) monatlich statt der regulären 599 THB ($17,50) und umfasst werbefreien VIP-Zugang plus 5G-Konnektivität. Mit bereits 300 synchronisierten und über 1.000 untertitelten Thai-Titeln nutzt ReelShort Thailand als Sprungbrett für die regionale Expansion in einem der weltweit kompetitivsten Mobile-Entertainment-Märkte.",
+          "title": "Disney Expected to Lay Off as Many as 1,000 Employees",
+          "link": "https://variety.com/2026/biz/news/disney-layoffs-1000-employees-josh-damaro-marketing-1236712071/",
+          "summary": "Disney plant in den kommenden Monaten den Abbau von bis zu 1.000 Arbeitsplätzen, hauptsächlich in der Marketing-Abteilung, während der neue CEO Josh D'Amaro das Unternehmen übernimmt. Die Entscheidung erfolgt vor dem Hintergrund wirtschaftlicher Unsicherheiten durch geopolitische Spannungen und steigende Ölpreise, wobei Disney damit anderen Entertainment-Konzernen wie Sony Pictures folgt. Dies sind die ersten größeren Stellenstreichungen seit 2023, als unter Bob Iger rund 7.000 Positionen abgebaut wurden.",
           "score": 7
         }
       ]
