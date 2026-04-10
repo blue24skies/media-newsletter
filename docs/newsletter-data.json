@@ -1,90 +1,69 @@
 {
   "newsletters": [
     {
-      "date": "2026-04-09",
+      "date": "2026-04-10",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Karsten Günther wird Redaktionsleiter der ARD Degeto",
-          "link": "https://www.dwdl.de/nachrichten/106107/karsten_guenther_wird_redaktionsleiter_der_ard_degeto/",
-          "summary": "Karsten Günther wechselt nach sechs Jahren bei Bavaria Fiction ab Mai als neuer Abteilungsleiter Redaktion und Programm-Management zur ARD Degeto nach Frankfurt. In dieser Position verantwortet er Auftrags- und Koproduktionen, Lizenzeinkauf sowie Programmplanung und folgt auf Christoph Pellander, der die Geschäftsführung von Thomas Schreiber übernimmt. Günther bringt Erfahrungen aus erfolgreichen Produktionen wie der ZDFneo-Serie „Was wir fürchten\" und der Prime-Video-Produktion „Drive – The Pretenders\" mit.",
+          "title": "Kika startet neues Smart-TV-Angebot für Kinder",
+          "link": "https://www.dwdl.de/nachrichten/106119/kika_startet_neues_smarttvangebot_fuer_kinder/",
+          "summary": "KiKA hat ein vollständig überarbeitetes Smart-TV- und HbbTV-Angebot mit kinderfreundlicher Navigation und erstmals verfügbarem Livestream über die HbbTV-App gelauncht. Als Vorreiter nutzt der Kindersender das neue StreamingOS von ARD und ZDF, das zentrale technische Komponenten wie Player und Empfehlungsalgorithmen kostensparend bündelt. Das Projekt fungiert als Pilotmodell für die weitere technische Zusammenarbeit der öffentlich-rechtlichen Anstalten im digitalen Ökosystem.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "\"Kosteneinsparungen\": P7S1 will Aufsichtsrat verkleinern",
-          "link": "https://www.dwdl.de/nachrichten/106108/kosteneinsparungen_p7s1_will_aufsichtsrat_verkleinern/",
-          "summary": "ProSiebenSat.1 schlägt vor, den Aufsichtsrat von neun auf sieben Mitglieder zu verkleinern und die Vergütung deutlich zu reduzieren - von 100.000 auf 90.000 Euro für reguläre Mitglieder und von 250.000 auf 225.000 Euro für den Vorsitzenden. Die Maßnahmen sind Teil der Kosteneinsparungsstrategie des Medienkonzerns und müssen auf der Hauptversammlung am 20. Mai von den Aktionären genehmigt werden. Zusätzlich sind Kapitalstruktur-Maßnahmen geplant, darunter eine Ermächtigung zur Ausgabe von Wandel- und Optionsanleihen bis 700 Millionen Euro.",
+          "title": "\"Tatort\" und \"Polizeiruf\" pausieren in diesem Sommer extrem lang",
+          "link": "https://www.dwdl.de/nachrichten/106115/tatort_und_polizeiruf_pausieren_in_diesem_sommer_extrem_lang/",
+          "summary": "Die ARD plant für 2026 eine außergewöhnlich lange Sommerpause für \"Tatort\" und \"Polizeiruf\" vom 3. Mai bis 13. September, die durch die Fußball-WM und \"planerische Gründe\" bedingt ist. Die Senderverantwortlichen betonen, dass es sich um eine einmalige Ausnahme handelt und versichern, dass trotz vier weniger Erstausstrahlungen (36 statt 40 im Durchschnitt) keine generelle Reduzierung der beliebten Sonntagskrimis geplant sei. Zwei weitere Premieren werden auf 2027 verschoben, um die längere Pause zu kompensieren.",
           "score": 7
         },
         {
-          "source": "DWDL",
-          "title": "Österreichischer Erfolgsfilm soll deutsches Remake bekommen",
-          "link": "https://www.dwdl.de/nachrichten/106102/oesterreichischer_erfolgsfilm_soll_deutsches_remake_bekommen/",
-          "summary": "Die österreichische Weihnachtskomödie \"Aufputzt is' - Ein Weihnachtsdebakel\" erreichte mit fast 450.000 Kinobesuchern Platz zwei der österreichischen Kinofilm-Bestenliste und wird nun von Gebhardt Productions/Gamma Gruppe für den deutschen Markt remaked. Der Film um Bauleiter Andi (Gery Seidl), der sich durch chaotische Weihnachtsvorbereitungen kämpft, soll dabei an den deutschen Humor angepasst werden. Parallel plant die Produktionsfirma eine Fortsetzung für den österreichischen Markt.",
-          "score": 7
+          "source": "Horizont Medien",
+          "title": "Plattformmessung: &quot;Amazon zeigt: Eine Integration ist möglich - ohne Sonderstatus&quot;",
+          "link": "https://www.horizont.net/medien/nachrichten/plattformmessung-amazon-zeigt-eine-integration-ist-moeglich---ohne-sonderstatus-233871?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Amazon Prime Video wurde erfolgreich in die deutsche Reichweitenmessung von AGF und Nielsen integriert, was ein internationales Zeichen für die mögliche Zusammenarbeit zwischen Streaming-Plattformen und Joint Industry Committees setzt. Der Fall demonstriert, dass eine standardisierte Messung ohne Sonderbehandlung für große Plattformen durchführbar ist und könnte als Blaupause für weitere Integrationen dienen.",
+          "score": 9
         },
         {
-          "source": "Guardian Media",
-          "title": "City veteran Ian Cheshire chosen to be new chair of Ofcom",
-          "link": "https://www.theguardian.com/media/2026/apr/08/city-veteran-sir-ian-cheshire-chair-ofcom-media-regulator",
-          "summary": "Ian Cheshire, ehemaliger Chair von Channel 4 und Ex-CEO von Kingfisher, wurde als neuer Ofcom-Vorsitzender nominiert und muss noch eine parlamentarische Anhörung durchlaufen. Die vierjährige Amtszeit beginnt zu einem kritischen Zeitpunkt, da Ofcom mit der Regulierung rapide wachsender Online-Inhalte und zunehmend politisch parteiischer Medien sowie der Umsetzung des Online Safety Act konfrontiert ist. Technologie-Ministerin Liz Kendall betonte Cheshires Erfahrung in der Führung komplexer Organisationen durch Transformationsphasen als entscheidende Qualifikation.",
+          "source": "kress",
+          "title": "ProSiebenSat.1 will Aufsichtsrat schrumpfen",
+          "link": "https://kress.de/news/beitrag/152470-prosiebensat-1-will-aufsichtsrat-schrumpfen.html",
+          "summary": "ProSiebenSat.1 will seinen Aufsichtsrat von neun auf sieben Mitglieder verkleinern und die Vergütung der Aufsichtsratsmitglieder um 10.000 bis 25.000 Euro reduzieren, um Effizienz zu steigern und Kosten zu sparen. Die entsprechenden Vorschläge werden auf der Hauptversammlung am 20. Mai voraussichtlich durchgewunken, da die italienische Holding MFE der Berlusconi-Familie über 75 Prozent der Stimmrechte hält.",
           "score": 8
         },
         {
-          "source": "Guardian Media",
-          "title": "New Ofcom boss Ian Cheshire’s in-tray is full but one issue will dominate",
-          "link": "https://www.theguardian.com/media/2026/apr/08/online-safety-will-dominate-intray-of-new-ofcom-boss-ian-cheshire",
-          "summary": "Ian Cheshire übernimmt als neuer Ofcom-Vorsitzender die Verantwortung für die Umsetzung des Online Safety Act, der Social Media im Vereinigten Königreich reguliert. Er steht vor der schwierigen Aufgabe, sowohl die Forderungen von Internetsicherheits-Aktivisten nach einer Verschärfung des Gesetzes als auch die Bedenken von Meinungsfreiheits-Befürwortern zu balancieren. Die Online-Sicherheit wird seine Amtszeit dominieren, obwohl Ofcom auch für Telekommunikation, Medien und Postdienste zuständig ist.",
+          "source": "kress",
+          "title": "Karsten Günther wechselt zur ARD Degeto Zum 1.",
+          "link": "https://kress.de/news/beitrag/152468-karsten-guenther-wechselt-zur-ard-degeto.html",
+          "summary": "Karsten Günther wechselt zum 1. Mai als Abteilungsleiter Redaktion und Programm-Management zur ARD Degeto Film, wo er Auftrags- und Koproduktionen, Lizenzeinkauf sowie Programmplanung verantwortet. Der bisherige Head of Innovation & Produzent bei Bavaria Fiction folgt auf Christoph Pellander, der die Geschäftsführung der ARD Degeto übernimmt. Zu Günthers bisherigen Arbeiten zählen u.a. die Grimme-Preis-nominierte ZDFneo-Serie \"Was wir fürchten\" und verschiedene Krimiformate für ZDF-Primetime.",
+          "score": 9
+        },
+        {
+          "source": "meedia",
+          "title": "1 treibt nach der Mehrheitsübernahme durch Media for Europe (MFE) den Konzernumbau weiter voran.",
+          "link": "https://meedia.de/news/beitrag/21522-prosiebensat-1-dampft-den-aufsichtsrat-ein.html",
+          "summary": "ProSiebenSat.1 plant nach der Mehrheitsübernahme durch Media for Europe (MFE) eine Verkleinerung des Aufsichtsrats von neun auf sieben Mitglieder, was den Einfluss der italienischen Mehrheitseigner stärkt. Auf der Hauptversammlung am 20. Mai sollen die Aktionäre über die Reduzierung und eine entsprechende Anpassung der Aufsichtsratsvergütung abstimmen. Parallel dazu bereitet der Konzern umfangreiche Maßnahmen zur Kapitalstrukturstärkung vor, einschließlich der Ausgabe von Wandel- und Optionsanleihen im Volumen von bis zu 700 Millionen Euro.",
           "score": 8
         },
         {
-          "source": "Guardian Media",
-          "title": "‘A full-on embrace’: how the EU’s largest news publisher fell in love with the US",
-          "link": "https://www.theguardian.com/media/2026/apr/08/how-axel-springer-germany-mathias-doepfner-us-political",
-          "summary": "Axel Springer, Europas größter Nachrichtenverleger unter CEO Mathias Döpfner, expandiert aggressiv in den angelsächsischen Raum mit Übernahmen von Politico (2021) und Daily Telegraph (£575m). Döpfner begründet die transatlantische Expansion mit der Mission, westliche Werte zu stärken, gerät aber in Widerspruch zu diesem Anspruch, etwa durch die Veröffentlichung eines Meinungsartikels des ungarischen Ministerpräsidenten Orbán. Die Strategie reflektiert Döpfners Vision einer engeren Zusammenarbeit rechtsstaatlicher Demokratien gegen autoritäre Regime.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "David Ellison says 70% of Americans are centrist. Surveys tell a different story",
-          "link": "https://www.theguardian.com/media/2026/apr/06/paramount-ceo-david-ellison-american-centrist-survey",
-          "summary": "Paramount Skydance CEO David Ellison hat wiederholt behauptet, 70% der Amerikaner seien zentristisch orientiert, und nutzt diese Statistik zur Begründung seiner Editorial-Strategie für CBS News und potenziell CNN. Aktuelle Umfragen von YouGov, Pew und Gallup widersprechen jedoch dieser Behauptung und zeigen, dass nur etwa 40-41% der US-Bürger sich als politische Mitte identifizieren. Ellisons Ansatz zielt darauf ab, eine vermeintlich ungehörte, schweigende Mehrheit anzusprechen, basiert aber offenbar auf unzutreffenden Daten.",
-          "score": 7
+          "source": "meedia",
+          "title": "Zuständig für Produktionen und Lizenzeinkauf ARD Degeto Film holt Karsten Günther als...",
+          "link": "https://meedia.de/news/beitrag/21525-ard-degeto-film-holt-karsten-guenther-als-programm-manager.html",
+          "summary": "Karsten Günther wechselt zum 1. Mai von der Bavaria zur ARD Degeto Film, wo er die Leitung der Abteilung Redaktion und Programm-Management übernimmt. In seiner neuen Position verantwortet er die redaktionelle Steuerung von Produktionen, den Lizenzeinkauf, die Programmplanung sowie Kommunikation und Presse. Er folgt auf Christoph Pellander, der gleichzeitig in die Geschäftsführung aufrückt.",
+          "score": 9
         },
         {
           "source": "Deadline",
-          "title": "Disney To Lay Off Up To 1,000 Employees In First Cuts Under New CEO Josh D’Amaro",
-          "link": "https://deadline.com/2026/04/disney-layoffs-new-ceo-1236785214/",
-          "summary": "Disney plant in den kommenden Monaten die Entlassung von bis zu 1.000 Mitarbeitern, die ersten Stellenstreichungen unter dem neuen CEO Josh D'Amaro. Die Kürzungen stehen im Zusammenhang mit der Konsolidierung der Marketing-Bereiche unter dem neuen Chief Marketing Officer Asad Ayaz und sind deutlich geringer als die 8.000 Entlassungen unter Ex-CEO Bob Iger zwischen 2023-2025. Bei einer Gesamtbelegschaft von über 230.000 Mitarbeitern setzen die neuen Maßnahmen die branchenweiten Kostensenkungen und Umstrukturierungen in der Medienindustrie fort.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Paramount Unlikely To Replace Jeff Shell, Insiders Say; Deep Bench To Step Up As WBD Deal Close Approaches",
-          "link": "https://deadline.com/2026/04/paramount-jeff-shell-replacement-plans-1236785050/",
-          "summary": "Paramount wird Jeff Shell nach seinem Rücktritt als Präsident voraussichtlich nicht direkt ersetzen, da die 111-Milliarden-Dollar-Fusion mit Warner Bros. Discovery bis Ende September abgeschlossen werden soll. Shell verließ das Unternehmen nach Vorwürfen bezüglich durchgesickerter Informationen und möglicher SEC-Verstöße, wobei eine Untersuchung keine Wertpapierverletzungen feststellte. Paramount plant, mit der bestehenden Führungsebene zu operieren, ähnlich wie es bei NBCUniversal nach Shells dortiger Entlassung 2022 gehandhabt wurde.",
+          "title": "CBS Picks Up ‘Eternally Yours’ Comedy Pilot From ‘Ghosts’ Showrunners To Series, ‘The Tillbrooks’ Not Moving Forward",
+          "link": "https://deadline.com/2026/04/cbs-eternally-yours-comedy-series-the-tillbrooks-pilot-dead-1236786163/",
+          "summary": "CBS hat die Vampir-Komödie \"Eternally Yours\" von den \"Ghosts\"-Showrunnern Joe Port und Joe Wiseman zur Serie bestellt, während \"The Tillbrooks\" nicht weiterverfolgt wird. Mit nur drei Comedy-Serien in der kommenden Saison (\"Eternally Yours\", \"Ghosts\" und \"Georgie & Mandy's First Marriage\") fällt CBS erstmals unter vier Sitcoms, da \"DMV\" eingestellt und \"The Neighborhood\" beendet wurde. \"Eternally Yours\" setzte sich aufgrund der erfolgreichen Showrunner, besserer Testvorführungen und der Kompatibilität als potentielle \"Ghosts\"-Begleitserie durch.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Cannes: Ira Sachs, Pedro Almodóvar, Asghar Farhadi, Hirokazu Kore-eda Lead Arthouse-Heavy Lineup",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/cannes-2026-selection-full-list-film-festival-lineup-1236553671/",
-          "summary": "Die Cannes Filmfestspiele 2026 präsentieren eine kunsthaus-lastige Auswahl unter der Leitung renommierter Autorenfilmer wie Ira Sachs, Pedro Almodóvar, Asghar Farhadi und Hirokazu Kore-eda, wobei fünf Wettbewerbsfilme von Regisseurinnen stammen. Das Festival eröffnet am 12. Mai mit Pierre Salvadoris \"La Vénus électrique\", während Park Chan-wook (\"Oldboy\") als Jury-Präsident fungiert. Die Auswahl wird besonders von Distributoren und der Branche beobachtet, da Cannes-Premieren wie \"It Was Just an Accident\" (letztjähriger Palme d'Or-Gewinner) oft zu Oscar-Nominierungen führen.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "Mediawan’s Ego Productions, Korea’s Flix Oven Sign Co-Production Understanding (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/news/mediawan-ego-productions-flix-oven-coproduction-mou-1236712156/",
-          "summary": "Mediawan's Ego Productions und das südkoreanische Unternehmen Flix Oven haben während des französischen Staatsbesuchs in Korea ein Memorandum of Understanding zur gemeinsamen Entwicklung und Produktion von Filmen und Serien unterzeichnet. Die Partnerschaft zielt auf die Ko-Entwicklung originaler Geschichten ab und geht über reine IP-Remakes hinaus. Das Agreement wurde von hochrangigen Vertretern beider Unternehmen sowie französischen Kulturinstitutionen im Rahmen der 140-jährigen diplomatischen Beziehungen zwischen Frankreich und Korea formalisiert.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Disney Expected to Lay Off as Many as 1,000 Employees",
-          "link": "https://variety.com/2026/biz/news/disney-layoffs-1000-employees-josh-damaro-marketing-1236712071/",
-          "summary": "Disney plant in den kommenden Monaten den Abbau von bis zu 1.000 Arbeitsplätzen, hauptsächlich in der Marketing-Abteilung, während der neue CEO Josh D'Amaro das Unternehmen übernimmt. Die Entscheidung erfolgt vor dem Hintergrund wirtschaftlicher Unsicherheiten durch geopolitische Spannungen und steigende Ölpreise, wobei Disney damit anderen Entertainment-Konzernen wie Sony Pictures folgt. Dies sind die ersten größeren Stellenstreichungen seit 2023, als unter Bob Iger rund 7.000 Positionen abgebaut wurden.",
+          "title": "Vampire Comedy ‘Eternally Yours’ Snags CBS Series Order for 2026-27",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/cbs-eternally-yours-vampire-comedy-2026-27-1236560703/",
+          "summary": "CBS hat der Vampir-Komödie \"Eternally Yours\" eine Serie für die Saison 2026-27 erteilt, die von den \"Ghosts\"-Showrunnern Joe Port und Joe Wiseman stammt und Ed Weeks sowie Allegra Edwards als 500 Jahre altes Vampir-Ehepaar in Seattle zeigt. Die Single-Camera-Comedy ersetzt die auslaufenden Serien \"The Neighborhood\" (nach acht Staffeln) und \"DMV\" (nach einer Staffel) und ist CBS' erste Halbstunden-Addition neben den bereits bestellten Dramen \"Cupertino\" und \"Einstein\".",
           "score": 7
         }
       ]
