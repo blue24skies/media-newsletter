@@ -1,0 +1,61 @@
+{
+  "date": "2026-04-12",
+  "articles": [
+    {
+      "source": "DWDL",
+      "title": "Ohne Böhmermann läuft \"ZDF Magazin vor Ort\" schwächer",
+      "link": "https://www.dwdl.de/nachrichten/106133/ohne_boehmermann_laeuft_zdf_magazin_vor_ort_schwaecher/",
+      "summary": "Der neue ZDF-Ableger \"ZDF Magazin vor Ort\" mit den Moderatoren Caro Worbs und Chris Sommer erreichte in der ersten Ausgabe 1,31 Millionen Zuschauer linear - rund 220.000 weniger als die regulären \"ZDF Magazin Royale\"-Folgen mit Jan Böhmermann. Bei der werberelevanten Zielgruppe 14-49 Jahre halbierte sich der Marktanteil auf 11,4 Prozent (330.000 Zuschauer), lag aber dennoch deutlich über dem ZDF-Senderschnitt. Das gesamte ZDF-Programm lief am Freitagabend schwächer als üblich, auch die \"heute-show\" verzeichnete den geringsten Marktanteil seit acht Wochen.",
+      "score": 7
+    },
+    {
+      "source": "DWDL",
+      "title": "ORF entlastet Ex-Generaldirektor - und kündigt ihm trotzdem",
+      "link": "https://www.dwdl.de/nachrichten/106105/orf_entlastet_exgeneraldirektor__und_kuendigt_ihm_trotzdem/",
+      "summary": "Der ORF hat Ex-Generaldirektor Roland Weißmann nach einer Compliance-Untersuchung zwar von den Vorwürfen der sexuellen Belästigung entlastet, kündigt ihm aber dennoch wegen angeblicher Verstöße gegen \"ethische Standards\" und dem \"Anschein unangemessenen Verhaltens\". Weißmanns Anwalt kritisiert dies als \"durchschaubaren Versuch\", trotz klarer Entlastung ein Fehlverhalten zu konstruieren, und verweist darauf, dass es sich lediglich um private Kommunikation zwischen Erwachsenen gehandelt habe. Der Konflikt verdeutlicht die Diskrepanz zwischen rechtlicher Bewertung und den höheren ethischen Ansprüchen des öffentlich-rechtlichen Senders an seine Führungskräfte.",
+      "score": 9
+    },
+    {
+      "source": "Horizont Medien",
+      "title": "Streit um Rundfunkbeitrag: Verwaltungsgerichtshof prüft Programmvielfalt von ARD und ZDF",
+      "link": "https://www.horizont.net/medien/nachrichten/streit-um-rundfunkbeitrag-verwaltungsgerichtshof-prueft-programmvielfalt-von-ard-und-zdf-233881?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+      "summary": "Der Verwaltungsgerichtshof Baden-Württemberg verhandelt erstmals über Klagen von Rundfunkbeitragszahlern, die die Beitragszahlung aufgrund mangelnder Meinungsvielfalt und Ausgewogenheit im öffentlich-rechtlichen Programm verweigern. Dabei wird grundsätzlich geprüft, ob eine empfundene Programmseinseitigkeit die Verweigerung des Rundfunkbeitrags rechtfertigen kann.",
+      "score": 7
+    },
+    {
+      "source": "Horizont Medien",
+      "title": "T Advertising Solutions: So funktioniert die neue Werbeplattform der Telekom-Tochter",
+      "link": "https://www.horizont.net/medien/nachrichten/t-advertising-solutions-so-funktioniert-die-neue-werbeplattform-der-telekom-tochter-233866?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+      "summary": "T Advertising Solutions, die Telekom-Tochter, launcht eine neue Werbeplattform für vereinfachte Online-Werbung im Open Web mit Location-basiertem Targeting across Channels und Devices. Die Plattform basiert auf Technologie der britischen T-Mobile-Tochter Blis und verspricht hohe Reichweiten für kanalübergreifende Kampagnen.",
+      "score": 7
+    },
+    {
+      "source": "Horizont Medien",
+      "title": "Roland Weißmann: Untersuchung gegen Ex-ORF-Chef sieht keine sexuelle Belästigung",
+      "link": "https://www.horizont.net/medien/nachrichten/roland-weissmann-untersuchung-gegen-ex-orf-chef-sieht-keine-sexuelle-belaestigung-233875?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+      "summary": "Eine interne Untersuchung des ORF konnte Vorwürfe der sexuellen Belästigung gegen den ehemaligen Intendanten Roland Weißmann nicht bestätigen. Dennoch wird das Dienstverhältnis mit Verweis auf die hohen Anforderungen an Führungskräfte beendet. Der öffentlich-rechtliche Sender zieht damit personelle Konsequenzen trotz nicht bewiesener Vorwürfe.",
+      "score": 9
+    },
+    {
+      "source": "kress",
+      "title": "ORF kündigt Ex-Generaldirektor Roland Weißmann Der Österreichische Rundfunk (ORF) hat seinen...",
+      "link": "https://kress.de/news/beitrag/152466-orf-kuendigt-ex-generaldirektor-roland-weissmann.html",
+      "summary": "Der ORF hat Ex-Generaldirektor Roland Weißmann gekündigt, nachdem eine interne Untersuchung zwar keine rechtlich relevante sexuelle Belästigung feststellte, aber Verstöße gegen interne ethische Standards für Führungskräfte. Weißmanns Anwalt kritisiert die Kündigung als unfair und kündigt rechtliche Schritte an, da kein Fehlverhalten vorliege und der ORF trotz Entlastung ein Fehlverhalten konstruiere.",
+      "score": 9
+    },
+    {
+      "source": "kress",
+      "title": "de in den Beta-Betrieb genommen.",
+      "link": "https://kress.de/news/beitrag/152465-noz-mh-n-startet-ki-assistenten-quot-frag-noz-quot.html",
+      "summary": "Die Mediengruppe NOZ/mh:n hat den KI-Assistenten \"frag noz\" in den Beta-Betrieb genommen, der Leserfragen ausschließlich auf Basis des verifizierten Redaktionsarchivs beantwortet, nicht auf allgemeinen Internetdaten. Nach dem Softlaunch zeigen Nutzungsdaten, dass 30% der Anfragen klassische Lokalnachrichten betreffen und 15% Alltagsentscheidungen, womit das Tool eine konkrete Lücke in der regionalen Informationsversorgung schließt. Der Assistent ist derzeit nur über den Web-Browser auf noz.de verfügbar.",
+      "score": 7
+    },
+    {
+      "source": "meedia",
+      "title": "Interview mit Andrea Neubert, Bürger Maultaschen Andrea Neubert: „Shiften Budget komplett in die...",
+      "link": "https://meedia.de/news/beitrag/21515-andrea-neubert-shiften-budget-komplett-in-die-digitale-welt.html",
+      "summary": "Der schwäbische Maultaschenhersteller Bürger setzt in einer neuen Kampagne 2024 erstmals auf moderne digitale Werbekanäle wie Netflix, Amazon Prime und Retail Media. Marketingleiterin Andrea Neubert erläutert im MEEDIA-Interview den strategischen Mediaplan und die Entwicklung des Familienbetriebs vom regionalen zum nationalen Player. Das Unternehmen ist Marktführer bei frischen Maultaschen und Gnocchi und steigerte den Umsatz 2025 auf 312,8 Millionen Euro.",
+      "score": 7
+    }
+  ]
+}
