@@ -1,76 +1,223 @@
 {
   "newsletters": [
     {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Lisa Giehl steigt in Geschäftsführung von Wiedemann & Berg auf",
-          "link": "https://www.dwdl.de/nachrichten/106145/lisa_giehl_steigt_in_geschaeftsfuehrung_von_wiedemann__berg_auf/",
-          "summary": "Lisa Giehl ist zum 1. April in die Geschäftsführung der Leonine-Tochter Wiedemann & Berg Film und W&B Television aufgestiegen und übernimmt dort die Steuerung des wirtschaftlich-operativen Bereichs. Max Wiedemann bleibt Geschäftsführer, kann sich durch die neue Aufstellung jedoch stärker auf seine Rolle als globaler Head of AI der Mediawan Gruppe konzentrieren. Giehl behält parallel ihre bisherige Verantwortung für den Bereich Filmförderung und Public Policy bei Leonine Studios.",
+          "title": "\"Kommissar Rex\" hält sein Publikum an der kurzen Leine",
+          "link": "https://www.dwdl.de/aeos/106161/kommissar_rex_haelt_sein_publikum_an_der_kurzen_leine/",
+          "summary": "\"Kommissar Rex\" startete erfolgreich bei Sat.1 mit stabiler Zuschauerschaft bis zum Ende, konnte jedoch kein zusätzliches Publikum während der Sendung gewinnen. Bei RTL führte die erste Millionen-Frage seit langem bei \"Wer wird Millionär\" zu ungewöhnlich stabilen Reichweiten bis 23:15 Uhr, obwohl die Höchstwerte um 21:45 Uhr erreicht wurden, als Zuschauer nach Ende der öffentlich-rechtlichen Primetime-Programme wechselten.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Mainstream Media stellt nächsten FAST-Channel in Aussicht",
+          "link": "https://www.dwdl.de/nachrichten/106131/mainstream_media_stellt_naechsten_fastchannel_in_aussicht/",
+          "summary": "Mainstream Media kündigt in Kooperation mit peppermint anime den Launch des FAST-Channels \"AKIBA Anime\" für Sommer 2026 an, der bekannte Anime-Serien wie \"Demon Slayer\" und \"Sword Art Online\" werbefinanziert und kostenlos ausstrahlen wird. Der Kanal richtet sich an Anime-Fans ab 16 Jahren und soll über verschiedene FAST-Anbieter auf Smart TVs und Streaming-Plattformen verfügbar sein. Ziel ist es, sowohl bestehende Anime-Fans als auch neue Zielgruppen zu erreichen, die über klassische On-Demand-Plattformen schwer erschließbar sind.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "Hollywood begehrt gegen den Paramount-Warner-Deal auf",
+          "link": "https://www.dwdl.de/nachrichten/106156/hollywood_begehrt_gegen_den_paramountwarnerdeal_auf/",
+          "summary": "Rund 1.500 Branchenvertreter aus Hollywood protestieren in einem offenen Brief gegen die geplante Fusion von Paramount und Warner Bros. Discovery, die Paramount Skydance nach einer Bieterschlacht gegen Netflix gewonnen hatte. Die Kritiker befürchten eine weitere Konzentration der Medienlandschaft mit negativen Folgen für Wettbewerb, Arbeitsplätze und kreative Möglichkeiten. Da auf Bundesebene aufgrund der Nähe der Ellison-Familie zu Donald Trump keine Blockade erwartet wird, setzen die Gegner ihre Hoffnungen besonders auf kalifornische Behörden wie Generalstaatsanwalt Rob Bonta.",
           "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "Neue Zielgruppen: Mit der Formel 1 ist Sky auf der Überholspur",
-          "link": "https://www.horizont.net/medien/nachrichten/neue-zielgruppen-mit-der-formel-1-ist-sky-auf-der-ueberholspur-233855?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Sky verzeichnet durch die Formel 1 Rekordreichweiten und gewinnt dabei erfolgreich neue, jüngere Zielgruppen. Die Königsklasse entwickelt sich für den Pay-TV-Sender zum strategischen Wachstumstreiber, unterstützt durch einen expandierenden Non-Live-Content-Bereich rund um den Motorsport.",
+          "source": "DWDL",
+          "title": "Jetzt auch Werbechef des ORF nach Vorwürfen beurlaubt",
+          "link": "https://www.dwdl.de/nachrichten/106152/jetzt_auch_werbechef_des_orf_nach_vorwuerfen_beurlaubt/",
+          "summary": "Nach dem Rücktritt von Generaldirektor Roland Weißmann ist nun auch ORF-Werbechef Oliver Böhm beurlaubt worden, nachdem rund um Ostern Vorwürfe gegen den Geschäftsführer der Vermarktungstochter ORF Enterprise aufgekommen sind. Der ORF hat eine interne und externe Compliance-Untersuchung eingeleitet, die Art der Vorwürfe ist jedoch nicht öffentlich bekannt. Böhms Beurlaubung ist besonders brisant, da er als Chef des wichtigen Werbebereichs jährlich über 200 Millionen Euro der insgesamt rund eine Milliarde Euro Gesamteinnahmen des ORF verantwortet.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Hebammenserie \"Push\" meldet sich im Mai bei ZDFneo zurück",
+          "link": "https://www.dwdl.de/nachrichten/106149/hebammenserie_push_meldet_sich_im_mai_bei_zdfneo_zurueck/",
+          "summary": "Die zweite Staffel der kritisch gefeierten Hebammenserie \"Push\" startet am 22. Mai in der ZDF-Mediathek und ab 27. Mai linear bei ZDFneo, wobei die neue Staffel von sechs auf zehn Folgen erweitert wurde. Die Serie mit Mariam Hage, Anna Schudt und Lydia Amasko behandelt erneut komplexe Themen rund um Schwangerschaft und Geburt, während die drei Protagonistinnen mit persönlichen Herausforderungen wie unerfülltem Kinderwunsch, Trennung und beruflichen Belastungen konfrontiert werden. Regie führen diesmal Pia Hellenthal und Joya Thome, nachdem das vorherige Regie-Duo Katja Benrath und Mia Maariel Meyer für die erste Staffel einen Deutschen Fernsehpreis gewonnen hatte.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "ARD und BFFS feiern Durchbruch in Vergütungsverhandlungen",
+          "link": "https://www.dwdl.de/nachrichten/106148/ard_und_bffs_feiern_durchbruch_in_verguetungsverhandlungen/",
+          "summary": "ARD und BFFS haben ihre Gemeinsamen Vergütungsregeln (GVR) von 2022 erweitert: Sie gelten nun auch für 60-minütige Märchenfilme sowie Vorabend- und Hauptabendserien, erstmals auch für serielle Produktionen. Der neue Vertrag beinhaltet eine Erlösbeteiligung für Schauspieler bei kommerziellen Verkäufen, jedoch bleibt die Vergütung für ARD-Mediathek-Nutzungen weiterhin ungeklärt und wird nur bis Jahresende durch eine Interimslösung geregelt.",
           "score": 9
         },
         {
-          "source": "Horizont Medien",
-          "title": "Plattformmessung: Die Geister, die ich rief, oder: Wenn Transparenz weh tut",
-          "link": "https://www.horizont.net/medien/kommentare/plattformmessung-die-geister-die-ich-rief-oder-wenn-transparenz-weh-tut-233904?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die AGF misst seit Herbst 2023 erstmals Amazon Prime Video als Big-Tech-Plattform, was einen Durchbruch für die Transparenz im Streaming-Markt darstellt. Die Messergebnisse stellen jedoch etablierte Marktpositionen infrage und sorgen für Unmut bei bestehenden TV-Anbietern. Trotz der kontroversen Reaktionen bietet diese Entwicklung dem traditionellen TV-Markt neue Chancen.",
-          "score": 9
+          "source": "DWDL",
+          "title": "Amazon klettert mit Macht an die Spitze der Werbecharts",
+          "link": "https://www.dwdl.de/aeos/106147/amazon_klettert_mit_macht_an_die_spitze_der_werbecharts/",
+          "summary": "Amazon dominiert die deutschen TV-Werbecharts mit 1.049 XRP Bruttoreichweite und distanziert dabei die Konkurrenz (Vinted 606 XRP, Kaufland 545 XRP) deutlich, obwohl das Unternehmen mit nur 2.100 Spots wesentlich effizienter warb als etwa Vinted mit fast 500-mal häufigerer Schaltung. Die Kampagne fokussierte sich auf 20-Sekünder zur Next-Day-Delivery und lief primär bei ProSieben/Kabel Eins sowie RTL, wobei RTL allein 28,4% der Gesamtreichweite generierte. Parallel dazu stellte Lindt nach Ostern erwartungsgemäß seine TV-Aktivitäten ein, während Exaring/Waipu.TV mit 296 XRP weiterhin stark präsent bleibt.",
+          "score": 8
         },
         {
-          "source": "kress",
-          "title": "Warum Mathias Döpfner den \"Daily Telegraph\" unbedingt haben wollte",
-          "link": "https://kress.de/news/beitrag/152473-warum-mathias-doepfner-den-quot-daily-telegraph-quot-unbedingt-haben-wollte.html",
-          "summary": "Axel Springer hat für 660 Millionen Euro die britische \"Telegraph\"-Gruppe übernommen und damit fast das Doppelte des Jahresumsatzes oder mehr als das Neunfache des operativen Ebitda bezahlt. Die hohe Bewertung erklärt sich durch Döpfners strategisches Ziel, mit einer englischsprachigen Marke \"führender Anbieter von KI-basiertem Journalismus für die freie Welt\" zu werden und die publizistische Lücke im gemäßigt-konservativen Spektrum global zu schließen. Springer muss nun das Wachstum der aktuell 842.000 Digitalabonnenten deutlich beschleunigen, um den hohen Kaufpreis zu rechtfertigen.",
+          "source": "DWDL",
+          "title": "Neuauflage des Klassikers: RTL hat seine Heidi gefunden",
+          "link": "https://www.dwdl.de/nachrichten/106140/neuauflage_des_klassikers_rtl_hat_seine_heidi_gefunden/",
+          "summary": "RTL und SRF haben die Schweizer Schauspielerin Neah Hefti für die Hauptrolle ihrer geplanten \"Heidi\"-Serienneuverfilmung verpflichtet, die 2027 starten soll. Die internationale Koproduktion mit DCM Schweiz und GAUMONT will den Klassiker mit moderner Erzählweise neu interpretieren und erstmals Heidis Entwicklung zur jungen Frau zeigen. Das Projekt wird von deutschen und Schweizer Filmförderungen unterstützt und als hochwertiges internationales Serienprojekt positioniert.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Matthias Killing wird wohl neuer \"The Voice\"-Moderator",
+          "link": "https://www.dwdl.de/nachrichten/106135/matthias_killing_wird_wohl_neuer_the_voicemoderator/",
+          "summary": "Matthias Killing soll laut \"Bild\"-Bericht neuer Moderator von \"The Voice of Germany\" werden, nachdem Thore Schölermann seinen Abschied verkündet hatte, um sich auf seine übernommenen McDonald's-Filialen zu konzentrieren. Sat.1 und ProSieben haben die Personalie noch nicht offiziell bestätigt, Killing wäre jedoch eine naheliegende Wahl, da er bereits durch das \"Frühstücksfernsehen\" und \"ran\"-Sportübertragungen beim Publikum bekannt ist. Unklar bleibt weiterhin die zukünftige Coach-Besetzung der Show.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "ORF-Enterprise: CEO der ORF-Vermarktungstochter völlig überraschend beurlaubt",
+          "link": "https://www.horizont.net/medien/nachrichten/orf-enterprise-oliver-boehm-voellig-ueberraschend-beurlaubt-233921?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Oliver Böhm, CEO der ORF-Vermarktungstochter ORF-Enterprise, wurde überraschend beurlaubt. Dies stellt nach dem Rücktritt des Intendanten die zweite schwere Krise für den Österreichischen Rundfunk dar. Die Turbulenzen beim ORF setzen sich damit fort.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Streaming-Erfolg: Was den HBO-Hit &quot;The Pitt&quot; zur wohl besten Krankenhausserie ever macht",
+          "link": "https://www.horizont.net/medien/nachrichten/streaming-erfolg-was-den-hbo-hit-the-pitt-zur-wohl-besten-krankenhausserie-ever-macht-233912?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die neue HBO-Serie \"The Pitt\" wird als potenziell beste Krankenhausserie aller Zeiten beworben und reiht sich in die lange Tradition erfolgreicher Medizin-Formate ein. Der Artikel positioniert die Serie neben etablierten Hits wie \"Scrubs\", \"Grey's Anatomy\" und \"In aller Freundschaft\", die das Genre mit unterschiedlichen Ansätzen geprägt haben. HBO setzt damit auf das bewährte Setting von Notfällen und medizinischen Dramen, das seit Jahrzehnten für spannende TV-Inhalte sorgt.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "&quot;Anders als die Unterhaltungsindustrie&quot;: Warum sich der FAZ/SZ-Vermarkter Republic in einer eigenen Liga sieht",
+          "link": "https://www.horizont.net/medien/nachrichten/anders-als-die-unterhaltungsindustrie-warum-sich-der-fazsz-vermarkter-republic-in-einer-eigenen-liga-sieht-233894?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Vor fünf Jahren gründeten Jürgen Maukner und Ingo Müller den Vermarkter Republic für FAZ und Süddeutsche Zeitung, um im schrumpfenden Pressewerbemarkt durch größere Effizienz und Marktgewicht zu bestehen. Die beiden Geschäftsführer sehen sich in einer besonderen Position, da sie Qualitätsjournalismus vermarkten und damit anders positioniert sind als Vermarkter der Unterhaltungsindustrie. Ihre anhaltende Führungsrolle nach fünf Jahren zeigt ungewöhnliche Kontinuität in der Vermarkterbranche.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Panne: ZDF zeigt &quot;Tagesschau&quot; statt &quot;Aktenzeichen XY ... ungelöst&quot;",
+          "link": "https://www.horizont.net/medien/nachrichten/panne-zdf-zeigt-tagesschau-statt-aktenzeichen-xy-...-ungeloest-233886?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Am Mittwochabend kam es zu einer technischen Panne im ZDF, bei der statt \"Aktenzeichen XY ... ungelöst\" kurzzeitig das ARD-Programm mit der Tagesschau ausgestrahlt wurde. Laut ZDF-Sprecher wurden versehentlich für wenige Sekunden Live-Signale von 3sat aufgeschaltet, bevor eine Störgrafik eingeblendet und die reguläre Sendung mit einer Minute Verspätung um 20:16 Uhr gestartet wurde.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "1 will Aufsichtsrat schrumpfen Der TV-Konzern will die Zahl der Aufsichtsratsmitglieder von neun auf sieben reduzieren.",
-          "link": "https://kress.de/news/beitrag/152470-prosiebensat-1-will-aufsichtsrat-schrumpfen.html",
-          "summary": "ProSiebenSat.1 plant zur Hauptversammlung am 20. Mai eine Verkleinerung des Aufsichtsrats von neun auf sieben Mitglieder sowie eine Reduzierung der Aufsichtsratsvergütung um etwa 10 Prozent. Die Maßnahmen sind Teil der Effizienzsteigerung und Kosteneinsparungen unter der neuen Führung der italienischen Holding Media for Europe (MFE), die über 75 Prozent der Stimmrechte hält.",
+          "title": "rbb holt Ex-Meta-Managerin Kulow",
+          "link": "https://kress.de/news/beitrag/152480-silicon-valley-trifft-oeffentlich-rechtliche-rbb-holt-ex-meta-managerin-kulow.html",
+          "summary": "Der Rundfunk Berlin-Brandenburg (rbb) hat Tina Kulow zur Leiterin der neu geschaffenen Kommunikationsabteilung ernannt, die aus der Fusion von „Presse und Information\" sowie „Marketing und PR\" entsteht. Kulow bringt einen für den öffentlich-rechtlichen Rundfunk ungewöhnlichen Hintergrund mit: elf Jahre bei Meta/Facebook als Senior Director für Zentral- und Osteuropa sowie anschließend als VP Communications bei SAP Deutschland. Die Personalie ist Teil des umfassenden Veränderungsprozesses beim rbb nach dem Intendantinnen-Skandal 2022.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Energieversorger ELE sucht PR-Redakteur in Gelsenkirchen Die Emscher Lippe Energie (ELE) verstärkt...",
+          "link": "https://kress.de/news/beitrag/152476-job-des-tages-energieversorger-ele-sucht-pr-redakteur-in-gelsenkirchen.html",
+          "summary": "Die Emscher Lippe Energie (ELE) sucht einen PR-Redakteur in Gelsenkirchen, der externe Kommunikation, Pressearbeit und Content-Produktion für Print, Online und Social Media verantwortet. Die Position umfasst klassische Pressesprechertätigkeiten inklusive Krisenkommunikation sowie die strategische Weiterentwicklung der kanalübergreifenden Kommunikation. Gesucht wird eine kommunikationsstarke Persönlichkeit mit journalistischem Background und Erfahrung in PR oder Unternehmenskommunikation.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Video Daily: TV-Quoten & Streaming-Charts Grönemeyer-Geburtstags-Doku holt Prime-Time-Sieg im jungen Publikum, \"Kommissar Rex\" startet unspektakulär Auch wenn Herbert Grönemeyer am Sonntag schon 70 geworden ist, kommt er bei den Unter-50-Jährigen überdurchschnittlich gut an",
+          "link": "https://meedia.de/news/beitrag/21542-groenemeyer-geburtstags-doku-holt-prime-time-sieg-im-jungen-publikum-quot-kommissar-rex-quot-startet-unspektakulaer.html",
+          "summary": "Die ARD-Dokumentation zu Herbert Grönemeyers 70. Geburtstag gewann die Montags-Prime-Time bei den 14- bis 49-Jährigen mit 14,0% Marktanteil und 0,57 Millionen Zuschauern. Im Gesamtpublikum landete die Doku auf Platz 2 hinter dem ZDF-Krimi \"Die Toten vom Bodensee\", der mit 6,11 Millionen Zuschauern und 25,9% Marktanteil dominierte. Das \"Kommissar Rex\"-Comeback auf Sat.1 erzielte überdurchschnittliche, aber unspektakuläre Quoten.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Dossier 4/2026: Audio, Radio, Podcast und Künstliche Intelligenz Audio",
+          "link": "https://meedia.de/news/beitrag/21541-audio-eine-branche-kaempft-um-marktanteile.html",
+          "summary": "Die Audio-Branche kämpft trotz intensiver Mediennutzung (besonders bei Jugendlichen mit Kopfhörern) mit mangelnder Anerkennung durch Werbetreibende und Agenturen, wodurch das Marktwachstum hinter der tatsächlichen Nutzung zurückbleibt. Branchenvertreter fordern eine lautere Positionierung gegen Big Tech und bessere Nutzung digitaler Werbemöglichkeiten, während gleichzeitig Kritik an Host-Read-Werbung durch Journalisten aufkommt. Das MEEDIA-Dossier analysiert die strukturellen Herausforderungen der Audiobranche jenseits der allgemeinen Konjunkturschwäche.",
           "score": 8
         },
         {
           "source": "meedia",
-          "title": "Nach einer öffentlichen Ausschreibung Pilot verteidigt erfolgreich den Mediaetat der ARD Die Hamburger Agenturgruppe Pilot bleibt bei der ARD das Maß der Dinge in Sachen Media. Sie hat wieder",
-          "link": "https://meedia.de/news/beitrag/21537-pilot-verteidigt-erfolgreich-den-mediaetat-der-ard.html",
-          "summary": "Die Hamburger Agenturgruppe Pilot hat erneut die öffentliche Ausschreibung der ARD für sämtliche Mediaaufgaben gewonnen und verteidigt damit erfolgreich den Etat. Der neue Rahmenvertrag läuft zwei Jahre mit Verlängerungsoption auf bis zu vier Jahre bei einem geschätzten Gesamtvolumen von 38 Millionen Euro (maximal 83 Millionen Euro). Pilot betreut die ARD bereits seit Jahren und konnte sich auch 2022 in einer ähnlichen Ausschreibung durchsetzen.",
+          "title": "Audio, Radio, Podcast BigTech setzt Radio unter Druck Während die großen Digitalplattformen...",
+          "link": "https://meedia.de/news/beitrag/21538-bigtech-setzt-radio-unter-druck.html",
+          "summary": "Radiosender leiden unter ihrer veralteten Reichweitenmessung mit monatelangen Verzögerungen, während BigTech-Plattformen Echtzeit-Daten liefern, was laut Radioberater Martin Liss die Vermarktungsfähigkeit des Mediums massiv beeinträchtigt. Radio bleibt trotz hoher Reichweiten und Publikumsvertrauen unterkapitalisiert und profitiert nicht angemessen vom Werbemarkt, wobei die agma die Kritik an der fehlenden Echtzeitdatenerfassung zurückweist.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Cannes Directors’ Fortnight Unveils Starry 2026 Lineup With Films By Kantemir Balagov; Clio Bernard; Esiri Brothers, Radu Jude, Reed Van Dyk & Quentin Dupieux",
+          "link": "https://deadline.com/2026/04/cannes-directors-fortnight-unveils-2026-lineup-1236860043/",
+          "summary": "Die 58. Cannes Directors' Fortnight präsentiert eine hochkarätige Auswahl von 19 Spielfilmen aus 1.800 Einreichungen, angeführt von Kantemir Balagovs englischsprachigem Debüt \"Butterfly Jam\" mit Barry Keoghan und Riley Keough als Eröffnungsfilm. Das Lineup umfasst weitere namhafte Produktionen wie Reed Van Dyks \"Atonement\" mit Kenneth Branagh und die Esiri-Brüder-Adaption \"Clarissa\" mit Sophie Okonedo, was die Sektion als eine der stärksten seit 2023 positioniert.",
           "score": 8
         },
         {
-          "source": "meedia",
-          "title": "Als Herausgeberin Helene Bubrowski kehrt zur \"FAZ\" zurück Die “Frankfurter Allgemeine Zeitung” holt...",
-          "link": "https://meedia.de/news/beitrag/21536-helene-bubrowski-kehrt-zur-quot-faz-quot-zurueck.html",
-          "summary": "Die FAZ ernennt mit Helene Bubrowski erstmals eine Frau zur Herausgeberin, die im Januar 2027 Gerald Braunberger nachfolgt und gemeinsam mit Berthold Kohler die politische Redaktion leiten wird. Bubrowski, promovierte Juristin und ehemalige FAZ-Hauptstadtkorrespondentin (2013-2023), kehrt von Table Briefings zurück, wo sie aktuell Ko-Chefredakteurin ist. Gleichzeitig übernimmt Herausgeber Carsten Knop zusätzlich die Wirtschafts- und Sportredaktion von Braunberger.",
+          "source": "Deadline",
+          "title": "Lip Sync Productions, UK Film Investor That Backed ‘The Brutalist,’ Rebuked For “Deliberate” Failure To Pay $19M Tax Bill",
+          "link": "https://deadline.com/2026/04/the-brutalist-investor-lip-sync-rebuked-unpaid-tax-bill-1236860006/",
+          "summary": "Lip Sync Productions, der britische Film- und TV-Investor hinter Titeln wie \"The Brutalist\" und \"Falling\", wurde von der britischen Steuerbehörde HMRC wegen vorsätzlicher Steuerhinterziehung an den Pranger gestellt. Das Unternehmen versäumte es zwischen 2019 und 2023, eine Steuerschuld von £14,1 Millionen ($19 Millionen) zu begleichen und erhielt dafür eine Strafe von £7 Millionen. Im Januar wurde ein freiwilliger Liquidator bestellt, während die Schwestergesellschaft Lipsync Post bereits im vergangenen Jahr kollabierte.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Taskmaster’ Expands Global Reach With Polish Version As Alex Horne Says: “This Has Got A Bit Out Of Control”",
+          "link": "https://deadline.com/2026/04/taskmaster-alex-horne-poland-launch-wbd-tvn-avalon-1236859237/",
+          "summary": "Das britische Comedy-Format \"Taskmaster\" expandiert weiter international mit einer neuen polnischen Version bei TVN (Warner Bros. Discovery), produziert von Avalon und Constantin. Creator Alex Horne kommentiert die rasante globale Ausbreitung als \"etwas außer Kontrolle geraten\", während gleichzeitig neue Versionen in Island, Estland und den Niederlanden starten und bestehende Produktionen in Schweden und Norwegen verlängert werden. Mit der polnischen Version wird das Format in insgesamt 14 Ländern lokalisiert sein.",
           "score": 8
         },
         {
-          "source": "meedia",
-          "title": "Nach einem globalen Pitch IBM wechselt mit seinem Mediaetat zu Omnicom IBM vergibt seinen globalen Mediaetat nach einem Pitch an Omnicom.",
-          "link": "https://meedia.de/news/beitrag/21535-ibm-wechselt-mit-seinem-mediaetat-zu-omnicom.html",
-          "summary": "IBM hat seinen globalen Mediaetat nach einem Pitch an Omnicom vergeben und beendet damit eine langjährige Partnerschaft mit WPP Media, die nicht am Pitch teilnahm. Der Etat umfasst die Regionen Amerika, EMEA und Asien-Pazifik bei weltweiten Mediaausgaben von 190 Millionen Dollar (2025), was einen deutlichen Rückgang gegenüber 330 Millionen Dollar im Vorjahr darstellt. Welche Omnicom-Agentur die DACH-Betreuung übernimmt, ist noch unklar.",
+          "source": "Deadline",
+          "title": "BAFTA-Nominated Actor Who Plays A Young Alan Carr In ‘Changing Ends’ Set To Lead BBC’s Adrian Mole Adaptation",
+          "link": "https://deadline.com/2026/04/bbc-adrian-mole-cast-oliver-savell-alan-carr-sue-townsend-1236859128/",
+          "summary": "Oliver Savell, zweifach BAFTA-nominiert für seine Rolle als junger Alan Carr in \"Changing Ends\", wird die Hauptrolle in der BBC-Adaption von Sue Townsends \"The Secret Diary of Adrian Mole\" übernehmen. Die Serie, die unter der Leitung von \"One Day\"-Autor David Nicholls und Autorin Caitlin Moran entsteht, spielt im Jahr 1981 und folgt dem unbeholfenen Teenager Adrian in der Thatcher-Ära. Neben Savell sind Lisa McGrillis, Colin Hoult und Pam Ferris in tragenden Rollen besetzt, während Big Talk Studios die Produktion übernimmt.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Saturday Night Live UK’ Lands Nicola Coughlan & Aimee Lou Wood As Next Two Hosts",
+          "link": "https://deadline.com/2026/04/snl-uk-host-nicola-coughlan-aimee-lou-wood-bridgerton-1236859197/",
+          "summary": "Saturday Night Live UK hat Nicola Coughlan (Bridgerton) und Aimee Lou Wood (Sex Education, The White Lotus) als Moderatorinnen für die nächsten beiden Episoden nach der Pause angekündigt, die am 25. April bzw. 2. Mai ausgestrahlt werden. Wood hatte zuvor Kritik an der US-Version von SNL geäußert, nachdem ein Sketch über ihre Zähne gemacht wurde, wofür sich die betreffende Comedienne später entschuldigte. Die ersten vier Episoden der britischen Adaption wurden positiv aufgenommen, obwohl die Einschaltquoten rückläufig sind.",
           "score": 8
         },
         {
-          "source": "meedia",
-          "title": "Stil-Supplement der \"Welt am Sonntag\" Springer verpasst \"Icon\" ein neues Aussehen Mit der...",
-          "link": "https://meedia.de/news/beitrag/21534-springer-verpasst-quot-icon-quot-ein-neues-aussehen.html",
-          "summary": "Das Axel Springer-Magazin \"Icon\", das Stil-Supplement der \"Welt am Sonntag\", hat mit der Aprilausgabe ein komplettes Redesign erhalten, bei dem Struktur, Typografie und Bildsprache mit Unterstützung des Designstudios Meiré und Meiré überarbeitet wurden. Sara Krüger, neue Head of Editorial Content, positioniert das neue Design als bewusstes Gegenmodell zur schnelllebigen, KI-getriebenen Gegenwart und setzt auf Print als Medium zum Innehalten. Das seit 20 Jahren bestehende Luxusmagazin erscheint neunmal jährlich und fokussiert sich auf Mode, Design, Uhren, Schmuck und Reisen.",
+          "source": "Deadline",
+          "title": "Cannes Parallel Section ACID Unveils 2026 Lineup",
+          "link": "https://deadline.com/2026/04/cannes-parallel-section-acid-2026-lineup-1236860003/",
+          "summary": "ACID, die filmemacher-kuratierte Cannes-Parallelsektion, hat ihr 2026er Lineup mit neun unabhängigen Produktionen angekündigt, eröffnet wird mit dem französischen Debütfilm \"Born Under A Bad Star\" von Lola Cambourieu und Yann Berlier. Die Auswahl umfasst weitere internationale Titel wie Paul Nouhets \"Rewind Barcelona\" und Karim Lakzadehs heimlich gedrehten iranischen Film \"Living Twice, Dying Thrice\" über Minenarbeiter, die ihren Tod vortäuschen.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "How Sam Levinson Brought Back ‘Euphoria’ With Season 3: “Evolve or Die”",
-          "link": "https://www.hollywoodreporter.com/tv/tv-features/euphoria-season-3-premiere-feature-sam-levinson-interview-1236561251/",
-          "summary": "**Euphoria** kehrt nach vierjähriger Pause mit Staffel 3 zurück, in der Rue (Zendaya) als Erwachsene in Mexiko Drogenschmuggel für Laurie betreibt, um ihre Schulden abzuarbeiten. Showrunner Sam Levinson hat die visuelle Ästhetik der Serie mit 65mm-Film und breiterem Seitenverhältnis neugestaltet und strebt eine Mischung aus Komödie und Spannung an, inspiriert von Western-Regisseuren wie Howard Hawks und Sergio Leone sowie Buster Keaton. Die Staffel beginnt mit einer markanten Szene, in der Rue mit einem drogenbeladenen Jeep an der Grenzwand zwischen USA und Mexiko feststeckt.",
+          "title": "Eurovision Song Contest to Stream for Free in U.S. on YouTube, in Addition to Peacock, as Executive Addresses Political Boycotts",
+          "link": "https://www.hollywoodreporter.com/music/music-news/eurovision-song-contest-2026-youtube-us-free-stream-boycott-1236563550/",
+          "summary": "Der Eurovision Song Contest wird ab 2025 kostenlos auf YouTube in den USA gestreamt, zusätzlich zur bereits bestehenden Peacock-Übertragung, wie die European Broadcasting Union auf der StreamTV Europe-Konferenz bekannt gab. Die YouTube-Vereinbarung umfasst sowohl die Halbfinale (12. und 14. Mai) als auch das Finale (16. Mai) der 70. Jubiläumsausgabe in Wien. Dies markiert eine strategische Wende der EBU hin zu einer breiteren langfristigen Content-Distribution, nachdem YouTube bereits 2024 den Wettbewerb übertrug, jedoch ohne große öffentliche Aufmerksamkeit.",
+          "score": 9
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "‘Saturday Night Live UK’ Season 1: Nicola Coughlan, Aimee Lou Wood Tapped to Host",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/saturday-night-live-uk-hosts-musical-guests-1236558578/",
+          "summary": "Saturday Night Live UK befindet sich in der Mitte seiner ersten Staffel und konnte mit Startmoderatorin Tina Fey über 220.000 britische Zuschauer erreichen. Nach bisherigen Hosts wie Jamie Dornan, Riz Ahmed und Jack Whitehall werden Bridgerton-Star Nicola Coughlan (25. April mit Foo Fighters) und White Lotus-Alumna Aimee Lou Wood (2. Mai mit Meek) die nächsten beiden Folgen moderieren. Die Sky-Produktion wird in den USA über Peacock ausgestrahlt und erhielt gemischte Kritiken für ihre \"gute Besetzung, aber ungleichmäßiges Writing.\"",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Cannes: ACID Unveils Lineup of Nine “Adventurous” Films, Including Two by Directors From Iran",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/acid-2026-cannes-film-lineup-two-iranian-born-directors-1236562299/",
+          "summary": "ACID, das Cannes-Nebenprogramm der französischen Regieursvereinigung, hat seine 2025-Auswahl von neun \"abenteuerlichen\" Filmen bekannt gegeben, darunter zwei Werke iranischer Regisseure. Das seit 1992 bestehende Programm hat sich auf die Entdeckung aufstrebender Talente spezialisiert und bereits Karrieren von Regisseuren wie Justine Triet, Radu Jude und Kaouther Ben Hania gefördert. Aus über 600 Einreichungen wurden die neun Filme ausgewählt, wobei ACID allen Bewerbern persönliches Feedback von Filmemachern für Filmemacher gibt.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Cannes’ Directors’ Fortnight Lineup: ‘Butterfly Jam’ Starring Barry Keoghan and Riley Keough, Radu Jude’s Next Film and More",
+          "link": "https://variety.com/2026/film/global/cannes-directors-fortnight-lineup-2026-barry-keoghan-1236721069/",
+          "summary": "Die Directors' Fortnight beim Cannes Film Festival 2026 eröffnet mit \"Butterfly Jam\", dem englischsprachigen Debüt des russischen Regisseurs Kantemir Balagov (\"Beanpole\") mit Barry Keoghan und Riley Keough in den Hauptrollen. Das Programm umfasst zudem Radu Judes Adaptation von \"The Diary of a Chambermaid\" und Reed Van Dyks Kriegsdrama \"Atonement\" mit Kenneth Branagh. Die 58. Ausgabe der unabhängigen Sektion präsentiert eine eklektische Mischung aus etablierten Autoren-Filmemachern und vielversprechenden Newcomern.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Champions League Broadcast Producer Sunset+Vine Taps Duncan East as New CEO (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/global/sunset-vine-duncan-east-new-ceo-1236720205/",
+          "summary": "Sunset+Vine, der globale Sportproduktionskonzern hinter Champions League-Übertragungen, hat Duncan East zum neuen CEO ernannt. East wechselt von seiner Position als Executive Director bei Buzz 16 und bringt über zwei Jahrzehnte Erfahrung von Sky Sports mit, wo er als Director of Creative Output für Premier League und Champions League verantwortlich war. In seiner neuen Rolle wird er die internationale Expansion von Sunset+Vine vorantreiben und die Integration von Live-, Original- und Digital-Content in der sich wandelnden Multi-Platform-Medienlandschaft steuern.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "‘SNL U.K.’ Taps Nicola Coughlan and Aimee Lou Wood as Hosts for Next Two Episodes",
+          "link": "https://variety.com/2026/tv/global/snl-uk-nicola-coughlan-aimee-lou-wood-hosts-1236711292/",
+          "summary": "\"Saturday Night Live U.K.\" hat Nicola Coughlan (\"Bridgerton\") und Aimee Lou Wood (\"White Lotus\") als Moderatorinnen für die Episoden 5 und 6 angekündigt, die am 25. April bzw. 2. Mai 2026 ausgestrahlt werden. Die Show kehrt nach einer einwöchigen Pause mit vier weiteren Episoden zurück, nachdem die Einschaltquoten von anfänglich 226.000 auf 130.950 Zuschauer bei Sky gesunken sind. Die britische Adaption wird von Lorne Michaels produziert und auf Sky, NOW und Peacock (USA) ausgestrahlt.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "‘Super Mario Galaxy Movie’ Stays No. 1 at U.K., Ireland Box Office",
+          "link": "https://variety.com/2026/film/box-office/super-mario-galaxy-movie-project-hail-mary-uk-ireland-box-office-1236720952/",
+          "summary": "Universal's \"The Super Mario Galaxy Movie\" behauptete zum zweiten Wochenende in Folge Platz 1 der UK/Irland Box Office mit £5,5 Millionen und einem Gesamtergebnis von £28,3 Millionen. Sony's \"Project Hail Mary\" blieb auf Platz 2 mit kumulativ $36,7 Millionen, während Event Cinema mit BTS' \"Arirang\" Live Viewing bemerkenswerte Mid-Chart-Performance zeigte. Für Mitte April stehen Warner Bros.' \"Lee Cronin's The Mummy\" und Lionsgate's \"Glenrothan\" als Hauptneustarts an.",
           "score": 7
         }
       ]
