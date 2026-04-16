@@ -1,321 +1,146 @@
 {
   "newsletters": [
     {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Gemeinsame Morgenstrecke von RTL und ntv startet Anfang Mai",
-          "link": "https://www.dwdl.de/nachrichten/106169/gemeinsame_morgenstrecke_von_rtl_und_ntv_startet_anfang_mai/",
-          "summary": "RTL und ntv starten am 4. Mai 2026 ihre gemeinsame Morgenstrecke \"Deutschland am Morgen\" (6-9 Uhr) als Teil des Restrukturierungsprogramms \"Shift 2026\", die die bisherigen RTL-\"Punkt\"-Sendungen ersetzt. Die Sendung wird aus dem neuen ntv-Studio produziert und von gemischten Moderationsduos präsentiert, bestehend aus jeweils einem RTL- und einem ntv-Moderator (Sabrina Ilski/Jörg Boecker und Sibylle Scharr/Jan Malte Andresen). Der Start erfolgt etwa einen Monat früher als ursprünglich geplant.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "DFB.TV: Deutscher Fußball-Bund startet eigenen Pay-TV-Sender",
-          "link": "https://www.dwdl.de/nachrichten/106167/dfbtv_deutscher_fussballbund_startet_eigenen_paytvsender/",
-          "summary": "Der Deutsche Fußball-Bund (DFB) startet am 22. Mai 2026 zusammen mit der Sportainment Media Group den Pay-TV-Sender DFB.TV, der über Plattformen wie DAZN, HD+ und Vodafone sowie eine eigene App (DFB.TV+) für 5,99€/Monat verbreitet wird. Das Angebot fokussiert sich auf bisher nicht lizenzierte Inhalte wie Live-Spiele der Junioren-Nationalteams, 2. Frauen-Bundesliga und Amateur-Finals sowie Zusammenfassungen von DFB-Pokal und 3. Liga. Der Sender positioniert sich als Plattform für die \"gesamte Vielfalt des deutschen Fußballs\" und folgt dem Trend von Sportverbänden zu eigenen Streaming-Angeboten.",
+          "title": "Joyn+ führt Download-Funktion ein und wird teurer",
+          "link": "https://www.dwdl.de/nachrichten/106184/joyn_fuehrt_downloadfunktion_ein_und_wird_teurer/",
+          "summary": "ProSiebenSat.1 erweitert Joyn+ um Download-Funktion (bis zu 10 Inhalte, 30 Tage offline) und Instant-Restart für Live-TV, erhöht jedoch den Preis für Neukunden auf 8,99€/Monat (Jahresabo weiterhin 6,99€). Bestandskunden zahlen bei bestehenden Verträgen den alten Preis, während der Fokus weiterhin auf dem kostenlosen werbefinanzierten Bereich liegt.",
           "score": 9
         },
         {
           "source": "DWDL",
-          "title": "Neuer Medienrat konstituiert sich, Wappler ist Vorsitzende",
-          "link": "https://www.dwdl.de/nachrichten/106171/neuer_medienrat_konstituiert_sich_wappler_ist_vorsitzende/",
-          "summary": "Der neue Medienrat, der durch den Reform-Staatsvertrag vom Dezember 2025 als anstaltsübergreifendes Beratungsgremium für das öffentlich-rechtliche System eingerichtet wurde, hat sich konstituiert und die ehemalige SRF-Direktorin Nathalie Wappler zur Vorsitzenden gewählt. Das Gremium soll als analysierende und empfehlende Instanz die Transformation des öffentlich-rechtlichen Rundfunks begleiten und ergänzt die bestehenden Aufsichtsgremien der einzelnen Anstalten. Die inhaltliche Arbeit kann erst beginnen, wenn die noch fehlenden Strukturen und Prozesse sowie die Geschäftsstellenleitung an der Bauhaus-Universität Weimar aufgebaut sind.",
+          "title": "ProSiebenSat.1-Mutter MFE kann Gewinn mehr als verdoppeln",
+          "link": "https://www.dwdl.de/nachrichten/106186/prosiebensat1mutter_mfe_kann_gewinn_mehr_als_verdoppeln/",
+          "summary": "Die italienische MFE konnte durch die Übernahme von über 75% an ProSiebenSat.1 im Herbst 2025 ihren Umsatz um 37% auf 4,03 Milliarden Euro steigern und den Nettogewinn auf 301 Millionen Euro mehr als verdoppeln. MFE-Chef Pier Silvio Berlusconi bezeichnet 2025 als \"Wendepunkt\" bei der Schaffung des ersten europäischen Broadcasters, der nun in Deutschland, Italien, Spanien und Portugal aktiv ist. Die starken Zahlen resultieren hauptsächlich aus der erstmaligen vollständigen Konsolidierung von ProSiebenSat.1 im vierten Quartal.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "\"DSDS\" findet sein Publikum vor allem im linearen TV",
-          "link": "https://www.dwdl.de/zahlenzentrale/106160/dsds_findet_sein_publikum_vor_allem_im_linearen_tv/",
-          "summary": "\"Deutschland sucht den Superstar\" erreichte nach dem Comeback am Ostersamstag solide TV-Quoten bei RTL, konnte jedoch im Streaming zunächst nur 0,261 Millionen Zuschauer generieren und landete damit nur auf Platz 19 der privaten Angebote. Die VoD-Charts werden weiterhin von News- und Sportformaten dominiert, angeführt von der \"Tagesschau\" (1,7 Mio. Streaming-Nettoreichweite) vor \"ZDFheute\" (1,297 Mio.) und der ARD-\"Sportschau\".",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Bauers Rückzug: Mit Websites sei kein Geld mehr zu verdienen",
-          "link": "https://www.dwdl.de/nachrichten/106168/bauers_rueckzug_mit_websites_sei_kein_geld_mehr_zu_verdienen/",
-          "summary": "Die Bauer Media Group zieht sich drastisch aus dem digitalen Publishing zurück und behält in Deutschland nur noch drei Websites (Lecker.de, TVmovie.de, Astrowoche.de), während bekannte Marken wie Bravo, Cosmopolitan und Intouch ihre eigenständigen Online-Auftritte verlieren. Als Begründung führt Bauer an, dass Nutzer Publisher-Websites zunehmend meiden und stattdessen Plattformen nutzen, während gleichzeitig die Monetarisierung durch veränderte Werbemärkte unter Druck gerät. Die Bauer Xcel Media Deutschland wird zum 30. September 2026 eingestellt, nachdem bereits mehrere Führungskräfte das Unternehmen verlassen hatten.",
+          "title": "Neues Beetz-Label startet mit Wacken-Doku bei MagentaTV",
+          "link": "https://www.dwdl.de/nachrichten/106182/neues_beetzlabel_startet_mit_wackendoku_bei_magentatv/",
+          "summary": "Das neue Label beetz:Music startet mit der Dokumentation \"Wacken - Hearts Full Of Metal\" über das Heavy-Metal-Festival, die nach einer Kinopremiere am 9. Mai beim DOK.fest München ab 4. Juni exklusiv bei MagentaTV verfügbar sein wird. Der Film unter der Regie von Cordula Kablitz-Post zeichnet die Geschichte des Festivals von einer kleinen Dorfparty bis zum Event mit 85.000 Besuchern nach und featuring Interviews mit Festivalgründern sowie prominenten Musikern wie Doro Pesch, den Scorpions und Gene Simmons. Das Projekt markiert eine Fortsetzung der erfolgreichen Partnerschaft zwischen MagentaTV und dem Wacken Open Air.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "\"Dünentod\": Duryn schreibt bei neuen Filmen der RTL-Reihe mit",
-          "link": "https://www.dwdl.de/nachrichten/106166/duenentod_duryn_schreibt_bei_neuen_filmen_der_rtlreihe_mit/",
-          "summary": "RTL setzt die erfolgreiche Nordsee-Krimi-Reihe \"Dünentod\" mit zwei neuen Folgen fort, die im Frühjahr 2027 ausgestrahlt werden sollen. Hauptdarsteller Hendrik Duryn übernimmt zusätzlich zu seiner Schauspielrolle auch Drehbuchaufgaben - er schreibt die Jubiläumsfolge 10 \"Valentinstod\" mit und führt das Rewrite für Folge 11 \"Der Pärchenkiller\" durch. Die Produktion durch MadeFor (Banijay Germany) startet in den kommenden Monaten an der Nordseeküste und in Tschechien.",
+          "title": "RTL holt auch Ulrich Wetzel in die Primetime",
+          "link": "https://www.dwdl.de/nachrichten/106181/rtl_holt_auch_ulrich_wetzel_in_die_primetime/",
+          "summary": "RTL erweitert seine erfolgreiche Nachmittagsgerichtsshow \"Ulrich Wetzel - Das Strafgericht\" um ein zweistündiges Primetime-Special am 12. Mai 2026 um 20:15 Uhr. Das Format folgt dem erfolgreichen Vorbild eines Barbara Salesch-Specials, das 2,27 Millionen Zuschauer und 12,0% Marktanteil in der Zielgruppe erreichte. Parallel kündigt RTL ein weiteres Special mit Frauke Ludowig über das Leben der Superreichen für den 14. Mai an.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "NRW will gezielt Development von Serien & Shows fördern",
-          "link": "https://www.dwdl.de/nachrichten/106165/nrw_will_gezielt_development_von_serien__shows_foerdern/",
-          "summary": "Die Film- und Medienstiftung NRW erweitert ihre Förderstrategie um drei neue Programme: eine Serienpilot-Förderung für den nationalen und internationalen Wettbewerb, eine spezielle Förderung für Unterhaltungs- und Showformate sowie die bereits angekündigte \"Made in NRW\"-Initiative mit dem WDR. Zusätzlich steigt die Sparkasse KölnBonn mit 300.000 Euro über drei Jahre in die Talent- und Drehbuchförderung ein, während für 2026 noch eine Distributionsförderung und KI-/Technologie-Innovationsförderung geplant sind.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Zwei Externe: RBB bestätigt Namen der neuen Führungskräfte",
-          "link": "https://www.dwdl.de/nachrichten/106164/zwei_externe_rbb_bestaetigt_namen_der_neuen_fuehrungskraefte/",
-          "summary": "Der RBB hat die Namen seiner neuen Führungskräfte bestätigt: Georg Heil wird neuer Chefredakteur, Jana Cebulla (vom MDR) übernimmt das Programmmanagement und Robert Knaack (von Mercedes-Benz Bank) die Ressourcenplanung. Die übrigen Führungspositionen werden mit internen Kandidaten besetzt, darunter Torsten Amarell als Leiter Programmentwicklung & Innovation und Julian Hecker für Technologie & Infrastruktur.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Telegraph-Übernahme: Briten machen Weg für Springer frei",
-          "link": "https://www.dwdl.de/nachrichten/106163/telegraphuebernahme_briten_machen_weg_fuer_springer_frei/",
-          "summary": "Das britische Department for Culture, Media and Sport hat die geplante Übernahme der Telegraph Media Group durch Springer genehmigt, nachdem zuvor zwei andere Verkaufsversuche an IMI aus Abu Dhabi (wegen ausländischer Staatsbeteiligung) und die \"Daily Mail\" (wegen Marktkonzentration) gescheitert waren. Springer verspricht redaktionelle Unabhängigkeit und Investitionen in das 170 Jahre alte Medium, benötigt aber noch regulatorische Genehmigungen in Irland und Österreich. Der Abschluss der Transaktion ist noch für das laufende Quartal geplant und würde Springers internationales Portfolio um \"The Daily Telegraph\", \"The Sunday Telegraph\" und telegraph.co.uk erweitern.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Neuer Fußball-Sender: DFB startet eigenen Pay-TV-Kanal",
-          "link": "https://www.horizont.net/medien/nachrichten/neuer-fussball-sender-dfb-ueberrascht-mit-dem-start-eines-eigenen-pay-tv-kanals-233940?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der Deutsche Fußball-Bund (DFB) startet am 22. Mai 2024 mit DFB.TV seinen ersten eigenen linearen Pay-TV-Kanal, der pünktlich zum DFB-Pokalfinale und Finaltag der Amateure an den Start geht. Der Sender soll die gesamte Bandbreite des deutschen Fußballs bündeln und Live-Spiele sowie exklusive Einblicke bieten, jedoch ohne die Top-Wettbewerbe der Bundesliga. Damit positioniert sich der DFB als direkter Content-Anbieter im umkämpften Fußball-TV-Markt und erweitert seine Vermarktungsstrategie um ein eigenes lineares Medienangebot.",
+          "title": "Schumacher, Matthäus, Messner: Sky stellt neue Doku-Projekte vor",
+          "link": "https://www.dwdl.de/nachrichten/106179/schumacher_matthaeus_messner_sky_stellt_neue_dokuprojekte_vor/",
+          "summary": "Sky präsentiert neue Doku-Projekte mit prominenten deutschen Sportlern, darunter eine vierteilige Dokusoap \"Ralf & Étienne: Wir sagen Ja\" über Ralf Schumachers Hochzeit mit Étienne Bousquet-Cassagne in Saint-Tropez (ab 21. Mai bei Sky/Wow). Zusätzlich plant der Pay-TV-Sender weitere biografische Dokumentationen über Lothar Matthäus und andere Sportpersönlichkeiten als Teil der Strategie, Sport- und Privatlebens-Content zu kombinieren. Die Produktionen werden von Tresor realisiert und sollen authentische, ungefilterte Einblicke in das Privatleben der Protagonisten bieten.",
           "score": 9
         },
         {
-          "source": "Horizont Medien",
-          "title": "Studie &quot;Always within Reach&quot;: Wie Audio seine mentale Stärke in Werbegeld übersetzen will",
-          "link": "https://www.horizont.net/medien/nachrichten/studie-always-within-reach-wie-audio-seine-mentale-staerke-in-werbegeld-uebersetzen-will-233932?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "ARD Media und RMS haben in der Studie \"Always within Reach\" den Zusammenhang zwischen Reichweite und mentaler Verfügbarkeit verschiedener Medien untersucht. Die Ergebnisse zeigen eine besonders hohe mentale Präsenz von Audio-Inhalten bei Hörern, was dem Medium strategische Vorteile bei der Vermarktung an Werbetreibende verschaffen könnte. Die Studie soll Audio dabei helfen, seine starke mentale Wirkung in konkrete Werbeerlöse zu übersetzen.",
-          "score": 7
+          "source": "DWDL",
+          "title": "The Final Countdown? RTL, Sky und die Entscheidung der EU",
+          "link": "https://www.dwdl.de/nachrichten/106177/the_final_countdown_rtl_sky_und_die_entscheidung_der_eu/",
+          "summary": "RTL Deutschland wartet auf die EU-Genehmigung für die Übernahme von Sky Deutschland, die im Juni 2025 angekündigt wurde und ursprünglich bis 8. April 2026 entschieden werden sollte. Die Frist wurde aufgrund von Nachfragen der EU-Kommission automatisch um 14 Tage bis zum 22. April verlängert, wobei Reuters über Zugeständnisse von RTL bei Vermarktungsthemen berichtete. Der Deal ist strategisch wichtig für RTLs Streaming-Ausrichtung und die Position innerhalb des Bertelsmann-Konzerns.",
+          "score": 10
         },
         {
           "source": "Horizont Medien",
-          "title": "Publishing: Bauers Digitalrückzug ist für Verlage eher eine Mahnung anstatt ein Menetekel",
-          "link": "https://www.horizont.net/medien/kommentare/publishing-bauers-digitalrueckzug-ist-fuer-verlage-eher-eine-mahnung-anstatt-ein-menetekel-233937?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der Bauer Verlag zieht sich überraschend weitgehend aus dem digitalen Geschäft zurück und konzentriert sich wieder primär auf Print-Medien. Die Gründe für diese ungewöhnliche Rückwärts-Strategie scheinen nicht nur marktbedingt, sondern auch hausgemacht zu sein. Für andere Verlage sollte dieser Schritt eher als Warnsignal denn als branchenweites Omen verstanden werden.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Nachfolger von David Biesinger: Georg Heil wird neuer RBB-Chefredakteur",
-          "link": "https://www.horizont.net/medien/nachrichten/nachfolger-von-david-biesinger-georg-heil-wird-neuer-rbb-chefredakteur-233936?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Georg Heil, bisheriger Leiter des ARD-Politikmagazins \"Kontraste\" und Grimme-Preisträger, wird neuer Chefredakteur des RBB. Er tritt die Nachfolge von David Biesinger an, der nach fehlerhafter Berichterstattung zurückgetreten war. Als \"Erster Journalist\" soll Heil für die publizistische Qualität des Senders verantwortlich sein.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "&quot;Rasant verändertes Umfeld&quot;: Bauer gibt (vorerst) den Großteil seines digitalen Publishings auf",
-          "link": "https://www.horizont.net/medien/nachrichten/rasant-veraendertes-umfeld-bauer-gibt-vorerst-den-grossteil-seines-digitalen-publishings-auf-233920?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die Bauer Media Group stellt zum Jahresende den Großteil ihrer digitalen Verlagsaktivitäten in Deutschland ein und zieht sich aus dem digitalen Publishing zurück. Der Konzern begründet diesen drastischen Schritt mit einem \"rasant veränderten Umfeld\" und setzt stattdessen auf Print-Geschäft sowie internationale Märkte. Diese Entscheidung spiegelt eine pessimistische Einschätzung der digitalen Medienlandschaft wider.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "&quot;Meilenstein&quot;: Britische Regierung genehmigt Telegraph-Übernahme durch Axel Springer",
-          "link": "https://www.horizont.net/medien/nachrichten/meilenstein-britische-regierung-genehmight-telegraph-uebernahme-durch-axel-springer-233930?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die britische Regierung hat die Übernahme der traditionsreichen Zeitung „Telegraph\" durch den deutschen Medienkonzern Axel Springer offiziell genehmigt. Axel Springer bezeichnete die Genehmigung als wichtigen Meilenstein für die Transaktion, deren Abschluss für das zweite Quartal 2026 geplant ist. Die Übernahme markiert eine bedeutende internationale Expansion des deutschen Medienkonzerns in den britischen Zeitungsmarkt.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Wechsel von Table.Media: Helene Bubrowski kehrt zur FAZ zurück / Erste Frau in Herausgeberrolle",
-          "link": "https://www.horizont.net/medien/nachrichten/wechsel-von-table.media-helene-bubrowski-kehrt-zur-faz-zurueck--erste-frau-in-herausgeberrolle-233914?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Helene Bubrowski verlässt ihre Position als Co-Chefredakteurin bei Table.Media und kehrt zum 1. Januar 2027 zur Frankfurter Allgemeinen Zeitung zurück, wo sie ins Herausgebergremium eintreten wird. Sie wird damit die erste Frau in einer Herausgeberrolle in der Geschichte der FAZ. Bubrowski war 2024 zu Table.Media gewechselt, nachdem sie zuvor bereits bei der FAZ tätig war.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Bauer Media schließt Digitaleinheit Bauer Xcel Media Deutschland",
-          "link": "https://kress.de/news/beitrag/152484-bauer-media-schliesst-digitaleinheit-bauer-xcel-media-deutschland-160-mitarbeitende-sind-betroffen.html",
-          "summary": "Die Bauer Media Group schließt zum 30. September 2026 ihre deutsche Digitaleinheit Bauer Xcel Media Deutschland, wodurch rund 160 Mitarbeitende betroffen sind. Das Unternehmen begründet die Entscheidung mit grundlegend veränderten Rahmenbedingungen im digitalen Publishing, insbesondere durch KI-Entwicklungen und Druck auf etablierte Monetarisierungsmodelle. In Deutschland konzentriert sich Bauer Media künftig auf ein reduziertes Portfolio mit nur noch drei digitalen Marken: Lecker.de, TVmovie.de und Astrowoche.de.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Heil wird Chefredakteur, sechs weitere Führungspositionen neu besetzt",
-          "link": "https://kress.de/news/beitrag/152485-groesster-umbau-in-der-rbb-geschichte-heil-wird-chefredakteur-sechs-weitere-fuehrungspositionen-neu-besetzt.html",
-          "summary": "Der rbb vollzieht den größten Umbau seiner Geschichte und stellt die zweite Führungsebene komplett neu auf, wobei die Struktur von zwölf auf sieben Bereiche reduziert wird. Georg Heil, Grimme-Preisträger und bisheriger Redaktionsleiter von ARD-Kontraste, wird neuer Chefredakteur. Die Neustrukturierung soll kürzere Entscheidungswege ermöglichen und mittelfristig den außertariflichen Personalaufwand deutlich verringern.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Meilenstein für Döpfner: Großbritannien genehmigt Springers Telegraph-Übernahme Axel Springer baut sein internationales Portfolio weiter aus: Die britische Regierung hat die Übernahme der Telegraph Media Group genehmigt. Damit rückt der Abschluss näher",
-          "link": "https://kress.de/news/beitrag/152481-meilenstein-fuer-doepfner-grossbritannien-genehmigt-springers-telegraph-uebernahme.html",
-          "summary": "Die britische Regierung hat Axel Springers Übernahme der Telegraph Media Group genehmigt, womit ein wichtiger Meilenstein für die internationale Expansion des deutschen Medienkonzerns erreicht ist. Noch ausstehen regulatorische Genehmigungen in Irland und Österreich, der Transaktionsabschluss wird für das zweite Quartal 2026 erwartet. Springer-Chef Döpfner kündigt Investitionen in journalistische Exzellenz und digitale Infrastruktur bei Wahrung der redaktionellen Unabhängigkeit an.",
+          "title": "HORIZONT Kongress: Wie lautet die Erfolgsformel der Zeit?",
+          "link": "https://www.horizont.net/medien/nachrichten/horizont-kongress-wie-lautet-die-erfolgsformel-der-zeit-233942?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der HORIZONT Kongress am 2./3. Juni 2026 in Berlin bringt Führungskräfte von Paramount+, YouTube, Zattoo und anderen Unternehmen zusammen, um über die Zukunft bewegter Bilder zu diskutieren. Im Fokus stehen erfolgreiche Geschäftsmodelle, Formate und Inhalte im Spannungsfeld zwischen linearem Fernsehen, Streaming und Online-Video. Die Veranstaltung richtet sich an Entscheider aus werbungtreibenden Unternehmen, Medienhäusern und Agenturen.",
           "score": 7
         },
         {
           "source": "kress",
           "title": "Silicon Valley trifft Öffentlich-Rechtliche: rbb holt Ex-Meta-Managerin Kulow Der rbb steckt im Umbruch",
           "link": "https://kress.de/news/beitrag/152480-silicon-valley-trifft-oeffentlich-rechtliche-rbb-holt-ex-meta-managerin-kulow.html",
-          "summary": "Der rbb holt mit Tina Kulow eine ehemalige Meta-Managerin (elf Jahre bei Facebook/Meta, zuletzt Senior Director für Zentral-/Osteuropa) als Leiterin der neu geschaffenen Kommunikationsabteilung. Die neue Einheit entsteht aus der Fusion von \"Presse und Information\" sowie \"Marketing und PR\" und ist direkt bei Intendantin Ulrike Demmer angesiedelt. Kulow soll die Senderkommunikation im Rahmen des laufenden Veränderungsprozesses seit dem Intendantinnen-Skandal 2022 neu aufstellen.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Neue dpa-Akademie: Wenn Journalismus-Expertise auf PR-Wissen trifft Die dpa-Gruppe zieht ihr Weiterbildungsangebot zusammen: Aus der news aktuell Academy wird die dpa-Akademie",
-          "link": "https://kress.de/news/beitrag/152479-neue-dpa-akademie-wenn-journalismus-expertise-auf-pr-wissen-trifft.html",
-          "summary": "Die dpa-Gruppe führt ihre Weiterbildungsangebote unter der neuen \"dpa-Akademie\" zusammen, die aus der bisherigen news aktuell Academy hervorgeht und künftig journalistische Expertise mit PR-Kompetenzen verbindet. Unter der Leitung von Marcus Heumann richtet sich das Angebot an Kommunikationsverantwortliche und Medienschaffende mit Themen wie KI-Wissen, Medientrainings und Recherchemethoden in sechs verschiedenen Formaten. Die Neuausrichtung soll ein in Deutschland einzigartiges Fortbildungsangebot schaffen, das journalistische Standards und Kommunikationskompetenz der gesamten dpa-Gruppe bündelt.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Zeitenwende bei der FAZ: Bubrowski wird erste Herausgeberin in der Geschichte der Zeitung Die FAZ vollzieht einen historischen Schritt: Mit Helene Bubrowski zieht erstmals eine Frau ins Herausgebergremium ein. Gleichzeitig verabschiedet sich Gerald Braunberger nach sieben Jahren",
-          "link": "https://kress.de/news/beitrag/152478-zeitenwende-bei-der-faz-bubrowski-wird-erste-herausgeberin-in-der-geschichte-der-zeitung.html",
-          "summary": "Die Frankfurter Allgemeine Zeitung vollzieht einen historischen Personalwechsel: Helene Bubrowski wird zum 1. Januar 2027 als erste Frau überhaupt ins Herausgebergremium der FAZ berufen. Gleichzeitig verlässt Gerald Braunberger nach sieben Jahren das Herausgebergremium der Zeitung.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "eMarketer-Prognose Meta überholt Google bei den Werbeumsätzen (vielleicht) Die Prognose wirkt wie eine Zäsur: Erstmals soll Meta Platforms mehr Werbeumsatz erzielen als Google. Laut der Marktforschungsfirma eMarketer wird Meta 2026 rund 243 Milliarden US-Dollar erlösen",
-          "link": "https://meedia.de/news/beitrag/21559-meta-ueberholt-google-bei-den-werbeumsaetzen-vielleicht.html",
-          "summary": "eMarketer prognostiziert, dass Meta 2026 erstmals Google bei den Werbeumsätzen überholen wird (243 vs. 239 Milliarden USD), basierend auf unterschiedlichen Wachstumsraten von 17% (Meta) gegenüber 12% (Google). Amazon folgt auf Platz drei mit 82 Milliarden USD und dem stärksten Wachstum von 21%, wobei die Verlässlichkeit solcher Langzeitprognosen aufgrund divergierender Analystenschätzungen fraglich bleibt.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Georg Heil wird RBB-Chefredakteur In der vergangenen Woche war es bereits durchgesickert, jetzt hat...",
-          "link": "https://meedia.de/news/beitrag/21558-jetzt-offiziell-georg-heil-wird-rbb-chefredakteur.html",
-          "summary": "Georg Heil, bisheriger Redaktionsleiter des ARD-Politikmagazins \"Kontraste\", wird neuer Chefredakteur des RBB und folgt damit auf David Biesinger, der wegen fehlerhafter Berichterstattung zurücktreten musste. Der Investigativjournalist und Grimme-Preisträger ist seit 2021 bei \"Kontraste\" und arbeitete zuvor unter anderem für die Recherchekooperation NDR/WDR/\"Süddeutsche Zeitung\". Parallel strukturiert der RBB seine zweite Führungsebene von zwölf auf sieben Bereiche um.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Alle 160 Mitarbeitenden betroffen Bauer macht Digitaltochter Bauer Xcel Media dicht KI-Bots und...",
-          "link": "https://meedia.de/news/beitrag/21555-bauer-macht-digitaltochter-bauer-xcel-media-dicht.html",
-          "summary": "Die Bauer Media Group schließt ihre Digitaltochter Bauer Xcel Media und entlässt alle 160 Mitarbeitenden aufgrund sinkender Reichweiten und Profitabilität durch KI-Features von Suchmaschinen, die den Traffic auf Publisher-Websites reduzieren. Das deutsche Digital-Portfolio wird drastisch auf nur drei Websites reduziert (\"Lecker.de\", \"TVmovie.de\", \"Astrowoche.de\"), während bekannte Marken wie \"Wunderweib.de\", \"Intouch.de\" und \"Bravo.de\" eingestellt werden. Bauer gibt seine seit 2023 verfolgte Content-Commerce-Strategie auf und verlagert verbleibende Digitalaktivitäten in die lokalen Marktorganisationen.",
+          "summary": "Der rbb holt mit Tina Kulow eine ehemalige Meta-Managerin als Leiterin der neu geschaffenen Kommunikationsabteilung, die aus der Fusion von „Presse und Information\" sowie „Marketing und PR\" entsteht. Kulow war elf Jahre bei Meta/Facebook als Senior Director für die Kommunikation in Zentral- und Osteuropa tätig und anschließend Vice President Communications bei SAP Deutschland. Die ungewöhnliche Personalwahl soll die Kommunikation des Senders im Rahmen des Transformationsprozesses nach dem Intendantinnen-Skandal 2022 neu ausrichten.",
           "score": 8
         },
         {
           "source": "meedia",
-          "title": "\"Vom Start weg durchfinanziert\" DFB startet einen eigenen Pay-TV-Sender Der Deutsche Fußball-Bund (DFB) startet nach MEEDIA-Informationen mit DFB.TV erstmals einen eigenen linearen Pay-TV-Kanal. Der Sender soll die gesamte Bandbreite des deutschen Fußballs bündeln und als zentraler Bestandteil der Kommunikationsstrategie neue Zugänge für Fans schaffen. Der Launch ist für den 22. Mai geplant",
-          "link": "https://meedia.de/news/beitrag/21553-dfb-startet-einen-eigenen-pay-tv-sender.html",
-          "summary": "Der Deutsche Fußball-Bund (DFB) lanciert am 22. Mai mit DFB.TV seinen ersten linearen Pay-TV-Kanal unter der Leitung von Gisbert Wundram (Sportainment Media Group). Das Programm umfasst Live-Übertragungen von Junioren-Nationalteams, der 2. Frauen-Bundesliga und Amateurformaten sowie exklusive Behind-the-Scenes-Inhalte. Ziel ist die Bündelung fragmentierter Fußballinhalte und die Reichweitensteigerung für kleinere Wettbewerbe jenseits der großen Ligen.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "\" Am Vorabend des Radio Advertising Summit in Köln gibt sich RMS-Chef Stefan Mölling kämpferisch.",
-          "link": "https://meedia.de/news/beitrag/21552-stefan-moelling-quot-in-meinen-augen-haben-wir-uns-zu-sehr-auf-adressierbarkeit-gestuerzt-quot.html",
-          "summary": "RMS-Chef Stefan Mölling fordert vor dem Radio Advertising Summit eine kämpferischere Positionierung der Audio-Branche, da die Werbebudgets nicht proportional zur tatsächlichen Mediennutzung stehen. Er kritisiert fehlende politische Regulierung gegenüber BigTech und nimmt Agenturen in die Pflicht, mehr Aufklärungsarbeit über die Vorteile von Audio-Werbung zu leisten. Mölling plädiert für bessere Kooperation zwischen Publishern, um schlagkräftigere Systeme gegen die Dominanz der Tech-Konzerne zu entwickeln.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Disney to cut 1,000 jobs as CEO announces layoffs across company",
-          "link": "https://www.theguardian.com/film/2026/apr/14/disney-to-cut-jobs-ceo-layoffs",
-          "summary": "Disney-CEO Josh D'Amaro kündigt den Abbau von etwa 1.000 Arbeitsplätzen an, die sich auf Marketing, Studio- und TV-Geschäft, ESPN sowie Unternehmensfunktionen verteilen. Die Maßnahme folgt dem Branchentrend zur Anpassung an wirtschaftliche Herausforderungen wie rückläufiges TV-Geschäft und verstärkte Konkurrenz. Dies ist die erste größere Entlassungswelle seit 2023, als Disney 7.000 Stellen abbaute, um 5,5 Milliarden Dollar einzusparen.",
+          "title": "Grünes Licht vom Kartellamt \"Rheinische Post\" darf \"Westfälische Nachrichten\" und \"Westfalen-Blatt\"...",
+          "link": "https://meedia.de/news/beitrag/21570-quot-rheinische-post-quot-darf-quot-westfaelische-nachrichten-quot-und-quot-westfalen-blatt-quot-uebernehmen.html",
+          "summary": "Das Bundeskartellamt hat die Übernahme der \"Westfälischen Nachrichten\" und des \"Westfalen-Blatts\" durch die \"Rheinische Post\"-Gruppe genehmigt, da sich die Verbreitungsgebiete nicht überschneiden und somit kein direkter Wettbewerb besteht. Mit dem Deal wird die \"Rheinische Post\" zur auflagenstärksten Tageszeitungsverlagsgruppe in NRW. Die Fusion reiht sich in den Branchentrend zur Konsolidierung kleinerer Verlage zu größeren Mediengruppen ein.",
           "score": 8
         },
         {
           "source": "Guardian Media",
-          "title": "Telegraph takeover by German buyer cleared by culture secretary",
-          "link": "https://www.theguardian.com/media/2026/apr/14/telegraph-takeover-cleared-lisa-nandy-axel-springer-ofcom",
-          "summary": "Die britische Kulturministerin Lisa Nandy hat die £575m Übernahme des Telegraph durch den deutschen Medienkonzern Axel Springer genehmigt und sieht keine Gründe für eine vertiefte Prüfung durch die Medienaufsicht Ofcom. Die Entscheidung beendet eine fast dreijährige Ungewissheit über die Eigentumsverhältnisse der Medientitel, wobei der Deal vorbehaltlich regulatorischer Genehmigungen in Irland und Österreich bis Ende Juni abgeschlossen werden soll.",
+          "title": "Ian Katz to leave role as Channel 4 programming chief in the autumn",
+          "link": "https://www.theguardian.com/media/2026/apr/16/ian-katz-leave-role-channel-4-content-chief",
+          "summary": "Ian Katz verlässt nach fast neun Jahren seine Position als Chief Content Officer bei Channel 4 im Oktober 2026 und war damit der am längsten dienende Programmchef des Senders mit Verantwortung für ein jährliches Budget von £650 Millionen. Sein Abgang folgt der Ernennung der neuen CEO Priya Dogra von Sky und verstärkt das Führungsvakuum bei Channel 4, nachdem bereits weitere hochrangige Führungskräfte das Unternehmen verlassen haben. Die Position gilt als eine der einflussreichsten im britischen Rundfunk.",
           "score": 7
         },
         {
-          "source": "Guardian Media",
-          "title": "Meta creating AI version of Mark Zuckerberg so staff can talk to the boss",
-          "link": "https://www.theguardian.com/technology/2026/apr/13/meta-ai-mark-zuckerberg-staff-talk-to-the-boss",
-          "summary": "Meta entwickelt eine KI-Version von CEO Mark Zuckerberg, die auf seinen Denkweisen, seinem Tonfall und seinen Verhaltensweisen trainiert wird, um den fast 79.000 Mitarbeitern direkteren Zugang zum Management zu ermöglichen. Das Projekt nutzt Zuckerbergs Bilder, Stimme und öffentliche Statements zur Unternehmensstrategie, wobei der CEO aktiv am Trainingsprozess teilnimmt. Meta plant, diese Technologie später auch für Influencer und Content-Creator zu vermarkten.",
+          "source": "Deadline",
+          "title": "Channel 4’s Chief Content Officer Ian Katz To Exit After Nine Years",
+          "link": "https://deadline.com/2026/04/channel-4-chief-content-ian-katz-to-exit-1236862846/",
+          "summary": "Ian Katz verlässt nach neun Jahren seine Position als Chief Content Officer bei Channel 4 Ende Oktober, womit er der am längsten amtierende Content-Chef in der Geschichte des Senders ist. Sein Abgang erfolgt zeitgleich mit dem Amtsantritt der neuen CEO Priya Dogra, die nun ihre eigene kreative Führung auswählen kann. Während seiner Amtszeit verantwortete Katz ein Budget von 643 Millionen Pfund und brachte erfolgreiche Formate wie \"Taskmaster\", \"The Piano\" und \"It's A Sin\" zum Sender.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "HBO Max To Launch In India Through JioHotstar",
-          "link": "https://deadline.com/2026/04/hbo-max-india-launch-jiohotstar-1236861240/",
-          "summary": "HBO Max startet erstmals in Indien über eine exklusive Partnerschaft mit Disney-gestütztem JioHotstar, wobei ein HBO Max-Hub mit Premium-Inhalten wie Euphoria Season 3 und House of the Dragon Season 3 auf der Plattform integriert wird. Warner Bros. Discovery hatte den indischen Markt bisher als besonders herausfordernd in Bezug auf Skalierung und Profitabilität eingeschätzt, sieht nun aber durch die Partnerschaft eine Chance zur Markterschließung. Dies markiert das erste Mal, dass alle HBO Max-Inhalte gebündelt an einem Ort in Indien verfügbar sind.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Former Disney & Discovery Exec Carolina Lightcap Launches ShowUp Studios To Create Gen Z Content On YouTube & TikTok",
-          "link": "https://deadline.com/2026/04/carolina-lightcap-showup-studios-gen-z-youtube-tiktok-1236861225/",
-          "summary": "Die ehemalige Disney- und Discovery-Führungskraft Carolina Lightcap hat ShowUp Studios gegründet, ein neues Produktionsstudio, das sich auf werbefinanzierte Gen Z-Inhalte für YouTube und TikTok spezialisiert. Das Studio plant, innerhalb der ersten five Jahre über 4.500 Episoden in verschiedenen Formaten zu produzieren und startet derzeit eine Pre-Seed-Finanzierungsrunde. ShowUp will noch in diesem Jahr Upfront-Präsentationen für Werbetreibende abhalten, bevor die Serienproduktion beginnt.",
+          "title": "YMU Signs Presenter & Podcaster Vogue Williams",
+          "link": "https://deadline.com/2026/04/ymu-signs-vogue-williams-1236862849/",
+          "summary": "Die britische Agentur YMU hat die Moderatorin, Podcasterin und Unternehmerin Vogue Williams unter Vertrag genommen, bekannt durch ihren Podcast \"My Therapist Ghosted Me\" mit der irischen Komikerin Joanna McNally. YMU wird für Williams Möglichkeiten in TV, Markenpartnerschaften, digitalen und kommerziellen Bereichen suchen, wobei sowohl die Entertainment- als auch die Geschäftssparten der Agentur involviert sind. Die Verpflichtung passt zu YMUs verstärktem Fokus auf digital versierte Talente im vergangenen Jahr.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘Deaf’ Continues Prize-Winning Run With European Parliament’s 2026 LUX Audience Award",
-          "link": "https://deadline.com/2026/04/deaf-sorda-2026-lux-audience-award-1236861222/",
-          "summary": "Eva Libertads Spielfilmdebüt \"Deaf/Sorda\" über eine gehörlose Frau in der Schwangerschaft hat den LUX Audience Award 2026 des Europäischen Parlaments gewonnen und setzt damit seine erfolgreiche Preislaufbahn fort. Der Film feierte seine Weltpremiere 2025 in der Berlinale-Panorama-Sektion und gewann bereits mehrere Goya-Auszeichnungen, darunter Beste Hauptdarstellerin für die gehörlose Miriam Garlo. Der LUX-Preis würdigt Filme, die gesellschaftspolitische Themen aufgreifen und wird durch eine Kombination aus Publikums- und Parlamentarierstimmen vergeben.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Asif Kapadia, Andrew Haigh, Otto Bathurst & Dozens More British Directors Sign Open Letter Urging Streamers To Negotiate On Residuals: “You Know The Value We Bring – Now We Need You To Show It”",
-          "link": "https://deadline.com/2026/04/uk-directors-urge-streaming-residuals-kapadia-haigh-duk-1236858969/",
-          "summary": "Über 50 britische Regisseure, darunter Asif Kapadia und Andrew Haigh, haben einen offenen Brief an Streaming-Dienste veröffentlicht, in dem sie Verhandlungen über Tantiemen fordern. Directors UK hatte bereits vor 18 Monaten gedroht, die Urheberrechte ihrer Mitglieder zurückzuhalten, falls die Streamer nicht zu Verhandlungen bereit sind - bisher ohne Erfolg. Die Regisseure kritisieren, dass Streaming-Dienste zwar britische Steuervorteile nutzen, aber keine angemessenen Vergütungsstrukturen wie in den USA oder anderen europäischen Ländern etablieren wollen.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Cannes Market & TIFFCOM Partner On Japan IP Event Headlined By ‘One Piece’ EP Tetsu Fujimara",
-          "link": "https://deadline.com/2026/04/cannes-market-tiffcom-partner-japan-ip-market-1236861203/",
-          "summary": "Das Marché du Film und TIFFCOM veranstalten vom 15.-17. Mai eine dreitägige IP-Messe in Cannes, die sich auf japanische Intellectual Properties mit Filmpotential konzentriert und Teil der diesjährigen Japan-Ehrung ist. Teilnehmende Unternehmen wie Kadokawa Corporation und Shochiku werden in Pitch-Sessions und Konferenzen präsentieren, während \"One Piece\"-Produzent Tetsu Fujimura die Keynote über die Zukunft japanischer IP in globalen Adaptionen hält. Die Initiative zielt darauf ab, internationale Kollaborationen zu fördern und unterstreicht die wachsende Bedeutung des IP-Marktes auf dem Cannes-Markt.",
-          "score": 7
+          "title": "Mike Hopkins Says Amazon MGM Committed To Theatrical, Not “A Test Or An Experiment” – CinemaCon",
+          "link": "https://deadline.com/2026/04/mike-hopkins-amazon-mgm-theatrical-cinemacon-1236862584/",
+          "summary": "Amazon MGM Studios-Chef Mike Hopkins bekräftigte auf der CinemaCon das Engagement des Unternehmens für Kinostarts und kündigte an, mindestens 15 Filme pro Jahr in die Kinos zu bringen – dies sei kein Experiment, sondern eine langfristige Strategie. Das Studio baut derzeit eine internationale Vertriebsorganisation auf und expandiert in Schlüsselmärkte wie UK, Frankreich, Deutschland und weitere Territorien. Nach dem Erfolg von \"Project Hail Mary\" sieht Hopkins das Unternehmen erst am Anfang seiner Kino-Ambitionen.",
+          "score": 9
         },
         {
           "source": "Hollywood Reporter",
-          "title": "‘Severance,’ ‘Slow Horses,’ ‘Andor’ Directors Challenge Streamers in Open Letter Over Pay: “Royalties Are a Lifeblood”",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/severance-slow-horses-andor-directors-streamers-pay-letter-1236564994/",
-          "summary": "Prominente britische Regisseure von Hit-Serien wie \"Severance\", \"Slow Horses\" und \"Andor\" haben in einem offenen Brief die Streaming-Plattformen aufgefordert, ihnen Urheberrechts-Tantiemen zu zahlen, wie es bei traditionellen britischen Sendern bereits üblich ist. Die Regisseure argumentieren, dass diese wiederkehrenden Zahlungen für Wiederholungen und Verkäufe ihrer Programme eine wichtige Einkommensquelle in der unsicheren Branche darstellen, während Streamer bisher nicht zu solchen Zahlungssystemen beigetreten sind.",
+          "title": "Channel 4’s Chief Content Officer Ian Katz Stepping Down",
+          "link": "https://www.hollywoodreporter.com/business/business-news/channel-4-chief-content-officer-ian-katz-stepping-down-bbc-1236566344/",
+          "summary": "Ian Katz, der dienstälteste Chief Content Officer in der Geschichte von Channel 4, tritt nach fast neun Jahren im Oktober 2024 zurück. Unter seiner Leitung verantwortete er erfolgreiche Produktionen wie \"It's a Sin\", \"Big Boys\" und \"We Are Lady Parts\" und spielte eine zentrale Rolle bei der Transformation des Senders von einem linearen Broadcaster zu einem Streaming-Anbieter. Katz, der zuvor stellvertretender Chefredakteur bei The Guardian und Editor bei BBC's Newsnight war, leitete eine Periode erheblichen kreativen und kommerziellen Erfolgs für Channel 4.",
           "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Inside L.A.’s ‘Lorne’ Premiere: ‘Saturday Night Live’ Boss Opens Up on Doc About His Life in Rare Interview With Donna Langley",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/la-premiere-lorne-michaels-donna-langley-steven-spielberg-1236564926/",
-          "summary": "Dokumentarfilmer Morgan Neville gelang es, den zurückhaltenden Saturday Night Live-Produzenten Lorne Michaels für eine umfassende Dokumentation zu gewinnen, die am 17. April von Focus Features veröffentlicht wird. Bei der LA-Premiere führte NBCUniversal-Chefin Donna Langley ein seltenes 35-minütiges öffentliches Gespräch mit Michaels über den Film und SNL-Themen vor prominentem Publikum inklusive Steven Spielberg und zahlreichen SNL-Alumni. Michaels äußerte sich positiv über die Dokumentation, nachdem er zunächst Bedenken hatte.",
+          "title": "‘Beef’ Review: Prime Performances by Oscar Isaac and Carey Mulligan Make for a Juicy Season 2 of Netflix’s Smash",
+          "link": "https://www.hollywoodreporter.com/tv/tv-reviews/beef-season-2-review-oscar-isaac-carey-mulligan-netflix-1236565867/",
+          "summary": "Die zweite Staffel von Netflixs \"Beef\" wechselt erfolgreich vom Limited Series- zum Anthology-Format und liefert mit Oscar Isaac und Carey Mulligan starke Hauptdarsteller, die an die Qualität der Emmy-prämierten ersten Staffel anknüpfen. Obwohl die neue Staffel nicht die überraschende Brillanz der ursprünglichen Steven Yeun/Ali Wong-Story reproduzieren kann, gelingt es ihr, die charakteristische Markenidentität der Serie zu bewahren. Der Rezensent bewertet die acht Episoden als \"mutige, gut gespielte, leicht überdehnte Fortsetzung\", die das düster-komödiantische Konzept eskalierender Rivalitäten erfolgreich weiterführt.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Cannes, Tokyo Film Festivals to Launch Japan IP Market",
-          "link": "https://www.hollywoodreporter.com/business/business-news/cannes-tokyo-markets-to-launch-japan-ip-market-1236564927/",
-          "summary": "Der Marché du Film in Cannes und TIFFCOM vom Tokyo Film Festival starten vom 15.-17. Mai erstmals den \"Japan IP Market\", der führende japanische Rechteinhaber wie Kadokawa Corporation, Shochiku und Toei Company mit internationalen Produzenten für Film- und TV-Adaptationen zusammenbringt. Die dreitägige Veranstaltung auf einem Katamaran im Hafen von Cannes umfasst Pitch-Sessions und Seminare, darunter einen Vortrag des Netflix \"One Piece\"-Produzenten Tetsu Fujimura über die Zukunft japanischer IP in globalen Adaptationen. Japan fungiert dieses Jahr als Ehrengast des Cannes Film Market.",
+          "title": "‘The Price of the Sun’ Director on How He Is Giving Viewers the Impression of “Being in the Desert With Nomads” Affected by Our Energy Consumption",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/the-price-of-the-sun-doc-film-visions-du-reel-berber-solar-1236561749/",
+          "summary": "Der belgische Regisseur Jérôme le Maire beleuchtet in seinem Dokumentarfilm \"The Price of the Sun\" die Auswirkungen des weltgrößten Solarkraftwerk-Projekts in Marokko auf die lokale Berber-Bevölkerung. Der Film zeigt auf, wie die als \"grüne Energie\" beworbene Initiative zu Landbarrieren, erschwertem Wasserzugang und erzwungener Arbeit für die indigenen Nomaden führt. Le Maire dokumentiert den Konflikt zwischen traditionellen Lebensweisen und der globalen Energiewende, wobei er die versteckten sozialen Kosten vermeintlich nachhaltiger Technologien hinterfragt.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "How Portugal Has Become a Production Hub, From ‘House of the Dragon’ to Local Hit ‘Turn of the Tide’",
-          "link": "https://www.hollywoodreporter.com/business/business-news/portugal-film-tv-production-hub-house-of-the-dragon-1236564906/",
-          "summary": "Portugal hat sich erfolgreich als internationaler Produktionsstandort für Film und TV etabliert, indem das Land eine strategische Kombination aus attraktiven Drehorten, finanziellen Anreizen und Nachhaltigkeitsfokus bietet. Hochkarätige Produktionen wie \"House of the Dragon\", \"The Acolyte\" und Netflixs \"Turn of the Tide\" nutzen bereits portugiesische Locations, während das Land 2024 sein Fördersystem für größere Produktionen erweitert hat. Die Portugal Film Commission setzt dabei bewusst auf internationale Koproduktionen als zentralen Baustein ihrer Wachstumsstrategie.",
-          "score": 7
+          "title": "James Bond Casting Process Teased by Amazon MGM: “A Responsibility We Don’t Take Lightly”",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/james-bond-casting-denis-villeneuve-amazon-mgm-cinemacon-1236566187/",
+          "summary": "Amazon MGM Studios-Filmchefin Courtenay Valenti bestätigte auf der CinemaCon, dass die Besetzung des neuen James Bond sorgfältig und respektvoll erfolge, ohne einen Zeitplan zu nennen. Der kommende Bond-Film wird von Denis Villeneuve inszeniert, mit Amy Pascal und David Heyman als Produzenten sowie Steven Knight als Drehbuchautor. Amazon MGM übernahm 2023 die kreative Kontrolle über das Franchise, nachdem Daniel Craig 2021 in \"No Time to Die\" zum letzten Mal die Rolle verkörperte.",
+          "score": 9
         },
         {
           "source": "Variety",
-          "title": "Cannes Docs Showcase Unveils Circle Doc Accelerator Projects (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/news/cannes-docs-showcase-circle-doc-accelerator-projects-2026-1236720917/",
-          "summary": "Die Cannes Docs Showcase 2026 präsentiert vier Dokumentarfilmprojekte des Circle Doc Accelerator, einem Programm für weibliche und gender-expansive Filmemacher, das zum siebten Mal in Folge auf dem Cannes Film Market vertreten ist. Zu den ausgewählten Werken gehören \"Amazonas\" über den Konflikt zwischen Tradition und Modernisierung im ecuadorianischen Amazonas, \"Intimate Revolutions\" als 15-jähriges queeres Selbstporträt, sowie \"Sisters\" und \"Portrait of A\" als internationale Koproduktionen aus verschiedenen europäischen und nahöstlichen Ländern.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "United Agents Launches Unscripted Division for Factual and Reality TV Stars, Creators and Influencers (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/news/united-agents-launches-unscripted-division-1236722158/",
-          "summary": "United Agents, die Londoner Agentur für A-List-Talente wie Kate Winslet und Ricky Gervais, startet eine neue Unscripted-Division zur Vertretung von Reality-TV-Stars, Faktual-Persönlichkeiten und Digital-Creators. Die Sparte soll bestehende Kunden bei Branded Content und Unscripted-Projekten unterstützen und die \"Multi-Platform-Welten moderner Entertainment-Künstler\" bedienen. Bisherige Projekte umfassen BBC- und Channel 4-Formate sowie Auftritte in \"Celebrity Traitors\".",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "‘Euphoria’ Season 3 Leads HBO Max Launch on JioHotstar as Warner Bros. Discovery Expands India Partnership",
-          "link": "https://variety.com/2026/tv/news/euphoria-season-3-hbo-max-launch-jiohotstar-india-1236722184/",
-          "summary": "Warner Bros. Discovery hat seine Partnerschaft mit JioHotstar erweitert und einen exklusiven HBO Max-Hub für den indischen Markt gestartet, der ab sofort die dritte Staffel von \"Euphoria\" sowie kommende Highlights wie \"House of the Dragon\" Season 3 und die HBO-Serie \"Harry Potter\" umfasst. Die Plattform bündelt Content von HBO, Max Originals, Warner Bros. und DC Studios und bringt erstmals auch populäre Serien wie \"Friends\" und \"The Big Bang Theory\" zu indischen Abonnenten. Das erweiterte Angebot positioniert JioHotstar als zentrale Anlaufstelle für Premium-Western-Content im schnell wachsenden indischen Streaming-Markt.",
+          "title": "Channel 4 Chief Content Officer Ian Katz Stepping Down After 9 Years",
+          "link": "https://variety.com/2026/tv/global/channel-4-chief-content-officer-ian-katz-stepping-down-1236723333/",
+          "summary": "Ian Katz, Channel 4s langjähriger Chief Content Officer, tritt nach neun Jahren im Oktober von seiner Position zurück. Unter seiner Führung transformierte sich der Sender erfolgreich von einem linearen Netzwerk zu einem Streaming-Service, wobei der Streaming-Anteil von 20% auf 50% aller Channel 4-Zuschauer stieg. Katz verantwortete eine hochgelobte Programmpalette mit Erfolgsformaten wie \"Taskmaster\", \"The Great British Bake Off\" und Russell T Davies' preisgekröntem Drama \"It's a Sin\".",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "‘Slow Horses,’ ‘Black Mirror,’ ‘The Crown’ Directors Confront Streamers Over Pay: ‘Royalties Are a Lifeblood’",
-          "link": "https://variety.com/2026/tv/global/directors-uk-streamers-royalties-1236722155/",
-          "summary": "Regisseure prominenter britischer TV-Produktionen wie \"Slow Horses\", \"Black Mirror\" und \"The Crown\" haben sich in einem offenen Brief an Streaming-Plattformen gewandt und fordern die Einführung eines Tantiemensystems ähnlich dem der öffentlich-rechtlichen Sender. Die von Directors U.K. organisierte Initiative argumentiert, dass solche Folgevergütungen für Wiederholungen und Verkäufe eine wichtige Einkommensquelle für Regisseure darstellen, während Streamer bisher keine vergleichbaren Zahlungen leisten. Der Brief betont die zentrale Rolle der Regisseure für den Erfolg der Produktionen und fordert eine angemessene finanzielle Anerkennung ihrer kreativen Beiträge.",
+          "title": "‘Thelma & Louise’ Musical to Open Young Vic’s 2026/7 Season, Plus Ben Whishaw and Kathryn Hunter in ‘Eurotrash’ Play",
+          "link": "https://variety.com/2026/theater/news/thelma-louise-musical-young-vic-1236723225/",
+          "summary": "Das Young Vic Theatre eröffnet seine Saison 2026/7 mit der Weltpremiere des \"Thelma & Louise\"-Musicals, das von Rachel Tucker und Amy Lennox gespielt und von Grammy-nominierter Künstlerin Neko Case vertont wird. Die Produktion basiert auf dem Drehbuch der Oscar-Gewinnerin Callie Khouri und wird von Trip Cullman inszeniert, mit einer Ko-Produktion zwischen Young Vic, Sonia Friedman Productions und weiteren Partnern. Die Spielzeit läuft vom 3. September bis 24. Oktober und umfasst weitere Premieren mit prominenten Schauspielern wie Ben Whishaw und Kathryn Hunter.",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "Charlie Chaplin’s ‘The Kid’ Gets Vertical Makeover on U.K. Microdrama App TattleTV (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/news/charlie-chaplin-the-kid-vertical-makeover-tattletv-1236722134/",
-          "summary": "Die britische Microdrama-App TattleTV hat Charlie Chaplins Stummfilmklassiker \"The Kid\" (1921) exklusiv für US-Zuschauer ins vertikale Mobilformat adaptiert, wobei durch KI-Technologie neue Bilddaten generiert werden statt das Original zu beschneiden. Nach einer ähnlichen Bearbeitung von Hitchcocks \"The Lodger\" positioniert das von EMC Productions entwickelte Unternehmen stumme Filme als natürliche Ergänzung zu seinen britischen Original-Mikrodramen. TattleTV bewirbt sich als Großbritanniens erste dedizierte Microdrama-Plattform und sieht in der visuellen, performancebasierten Erzählweise des Stummfilms eine ideale Passung für das Kurzvideo-Format.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Cannes Sets Japan IP Market in Collaboration With Tokyo International Film Festival Content Market",
-          "link": "https://variety.com/2026/film/global/cannes-market-japan-ip-tokyo-international-film-festival-1236721444/",
-          "summary": "Die Filmfestspiele von Cannes etablieren in Kooperation mit dem Tokyo International Film Festival Content Market (TIFFCOM) vom 15.-17. Mai einen Japan IP-Markt auf einem Katamaran im Vieux-Port. Die strategische Initiative dient als hochrangige Networking-Plattform für internationale Unternehmen zur Verhandlung japanischer Intellectual Properties aus Kino, Animation und Publishing, nachdem Japan zum Country of Honor 2026 ernannt wurde. Das Event umfasst One-on-One-Meetings, Pitch-Sessions und kuratierte Präsentationen mit Fokus auf die französisch-japanische Kreativ- und Industriepartnerschaft.",
+          "title": "‘Beef’ Is Overcrowded and Unfocused in an Unnecessary Season 2: TV Review",
+          "link": "https://variety.com/2026/tv/reviews/beef-season-2-review-netflix-1236722589/",
+          "summary": "Netflix's \"Beef\" Season 2 struggles to define its anthology identity beyond the core concept of bitter rivalry that drove the Emmy-winning first season starring Ali Wong and Steven Yeun. The new season appears overcrowded and unfocused, lacking the clear thematic framework that successful anthology series like \"The White Lotus\" and \"Fargo\" have established. Three years after the original hit, the show fails to successfully transition from its standalone story format to a sustainable multi-season anthology structure.",
           "score": 7
         }
       ]
