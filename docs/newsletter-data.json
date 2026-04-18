@@ -1,245 +1,77 @@
 {
   "newsletters": [
     {
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "articles": [
         {
           "source": "DWDL",
-          "title": "\"Shit Show\": Neue Reality-Satireserie bei RTL+ gestartet",
-          "link": "https://www.dwdl.de/nachrichten/106203/shit_show_neue_realitysatireserie_bei_rtl_gestartet/",
-          "summary": "RTL+ hat die neue achtteilige Reality-Satireserie \"Shit Show - Welcome to Reality\" gestartet, die das Reality-TV-Genre humorvoll parodiert und von Zeitsprung Pictures in Zypern produziert wurde. Die ersten vier Folgen sind bereits verfügbar, vier weitere folgen am 23. April. Parallel kündigte der Streamingdienst die neue Staffel von \"Die Bachelors\" mit Sebastian Paul und Tim Reitz an, die ab 6. Mai auf RTL+ und ab 10. Juni linear bei RTL in einem beschleunigten Rhythmus mittwochs und donnerstags läuft.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Mitgründer Reed Hastings kündigt Abschied von Netflix an",
-          "link": "https://www.dwdl.de/nachrichten/106199/mitgruender_reed_hastings_kuendigt_abschied_von_netflix_an/",
-          "summary": "Netflix-Mitgründer Reed Hastings (65) verlässt nach 29 Jahren das Unternehmen und wird sich bei der Hauptversammlung im Juni nicht zur Wiederwahl als Verwaltungsratsvorsitzender stellen, um sich wohltätigen Zwecken zu widmen. Der Rückzug erfolgt wenige Wochen nach dem gescheiterten Übernahme-Deal mit Warner Bros. Discovery, wobei Netflix-Management einen Zusammenhang dementiert. Die Netflix-Aktie brach nach der Ankündigung nachbörslich um über acht Prozent ein.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "ZDF plant zweite Staffel von \"The Wagner Brothers\"",
-          "link": "https://www.dwdl.de/nachrichten/106193/zdf_plant_zweite_staffel_von_the_wagner_brothers/",
-          "summary": "Das ZDF plant eine zweite Staffel der erfolgreichen Doku-Serie \"The Wagner Brothers\" über die deutschen NBA-Basketball-Brüder Franz und Moritz Wagner, die eine Produktionsförderung von 250.000 Euro vom Medienboard Berlin-Brandenburg erhält. Die erste vierteilige Staffel von Flare Film war erfolgreich und erhielt eine Nominierung für den Deutschen Fernsehpreis. Details zu Inhalt und Ausstrahlungstermin der Fortsetzung sind noch nicht bekannt.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "\"The Hunt\": Bei ProSieben spielen Promis bald Fangen",
-          "link": "https://www.dwdl.de/nachrichten/106170/the_hunt_bei_prosieben_spielen_promis_bald_fangen/",
-          "summary": "ProSieben startet am 12. Mai das neue Reality-Competition-Format \"The Hunt\", bei dem acht Promis in zwei Teams (Jäger/Gejagte) im bulgarischen Wald Fangen spielen - parallel zur bereits gestarteten britischen Version bei Channel 4. Das von RedSeven entwickelte Format läuft dienstags um 22:35 Uhr in Doppelfolgen bei ProSieben und Joyn, wobei gefangene Teilnehmer die Rollen tauschen und nur die am Ende Gejagten über den Ausschluss eines Jägers entscheiden dürfen. Die Besetzung wurde noch nicht bekannt gegeben.",
+          "title": "Insolvenz: Auch Teleshopping-Pionier QVC geht in die Knie",
+          "link": "https://www.dwdl.de/nachrichten/106210/insolvenz_auch_teleshoppingpionier_qvc_geht_in_die_knie/",
+          "summary": "Teleshopping-Pionier QVC hat in den USA Insolvenz nach Chapter 11 beantragt, um die Schulden von 6,6 auf 1,3 Milliarden Dollar zu reduzieren und einen Neustart zu ermöglichen. Das Verfahren betrifft nur die US-Gesellschaften, während die internationalen Töchter in Deutschland, Großbritannien, Japan und Italien normal weiteroperieren. Wie andere Teleshopping-Anbieter kämpft QVC mit dem Rückgang des linearen Fernsehens und der Online-Shopping-Konkurrenz.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Streaming: Netflix setzt bei Produktion von Filmen und Serien stärker auf KI",
-          "link": "https://www.horizont.net/medien/nachrichten/streaming-netflix-setzt-bei-produktion-von-filmen-und-serien-staerker-auf-ki-233976?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Netflix plant den verstärkten Einsatz von Künstlicher Intelligenz in der Film- und Serienproduktion, wobei Co-Chef Ted Sarandos betont, dass KI die Bedeutung großartiger Künstler für die Entstehung hochwertiger Inhalte nicht ersetzen wird. Der Streaming-Marktführer verfolgt damit ambitionierte Pläne zur Modernisierung seiner Produktionsprozesse.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Streamingriese : Netflix-Gründer Reed Hastings zieht sich zurück",
-          "link": "https://www.horizont.net/medien/nachrichten/streamingriese-netflix-gruender-reed-hastings-zieht-sich-zurueck-233974?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Netflix-Gründer Reed Hastings zieht sich aus dem Unternehmen zurück, während der Streaming-Konzern gleichzeitig die Wall Street mit einer schwächeren Gewinnprognose enttäuscht hat. Für das laufende Quartal prognostiziert Netflix einen operativen Gewinn von 78 US-Cent je Aktie, was deutlich unter den Analystenschätzungen von 84 Cent liegt. Die Aktie reagierte mit einem nachbörslichen Kursrückgang von zeitweise über neun Prozent.",
-          "score": 9
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Bye-bye, Bingewatching? : Warum Streamer bei neuen Serien wieder aufs Warten setzen",
-          "link": "https://www.horizont.net/medien/nachrichten/bye-bye-bingewatching-warumstreamer-bei-neuen-serien-wieder-aufs-warten-setzen-233962?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Streaming-Anbieter kehren bei neuen Serien vom Binge-Watching-Modell ab und setzen wieder auf wöchentliche Episoden-Veröffentlichungen. Dies schafft für Zuschauer eine ambivalente Situation zwischen der Rückkehr traditioneller Vorfreude und gemeinsamen Miterlebens einerseits und dem Verlust der gewohnten Flexibilität andererseits. Der Strategiewechsel zielt darauf ab, die Zuschauerbindung über längere Zeiträume zu stärken.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Champions-League-Viertelfinale: Bayern München gegen Real Madrid beschert DAZN Rekordwerte",
-          "link": "https://www.horizont.net/medien/nachrichten/champions-league-viertelfinale-bayern-muenchen-gegen-real-madrid-beschert-dazn-rekordwerte-233969?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Das Champions-League-Viertelfinale Bayern München gegen Real Madrid erzielte für DAZN neue Rekordwerte sowohl im linearen TV als auch beim Livestream. Zum Vergleich: Das Hinspiel bei Prime Video erreichte lediglich 0,41 Millionen Zuschauer linear bei einem Marktanteil von 1,1 Prozent. Der Erfolg unterstreicht DAZNs starke Position bei hochkarätigen Fußballübertragungen.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Berichte: BBC plant Abbau von 2000 Stellen",
-          "link": "https://www.horizont.net/medien/nachrichten/berichte-bbc-plant-abbau-von-2.000-stellen-233954?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die BBC plant laut Berichten britischer Medien den Abbau von 2.000 Arbeitsplätzen, wie aus einer internen Mitarbeiterversammlung der öffentlich-rechtlichen Rundfunkanstalt hervorging. Der massive Stellenabbau deutet auf erhebliche Sparmaßnahmen bei Großbritanniens größtem öffentlich-rechtlichen Medienunternehmen hin.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Jan Philipp Burgard kehrt zurück: Springer schickt ihn in den Nahen Osten Der ehemalige Welt-Chefredakteur Jan Philipp Burgard wird eine neue Funktion bei Axel Springer antreten",
-          "link": "https://kress.de/news/beitrag/152516-jan-philipp-burgard-kehrt-zurueck-springer-schickt-ihn-in-den-nahen-osten.html",
-          "summary": "Jan Philipp Burgard, ehemaliger Chefredakteur der Welt-Gruppe, kehrt nach seinem gesundheitsbedingten Rücktritt im Januar zu Axel Springer zurück und wird als Global Reporter die Nahost-Berichterstattung von Tel Aviv aus verantworten. Er folgt auf Constantin Schreiber, der sich ab Mai auf Podcast-Formate konzentriert und das Content-Creator-Programm von Springer verstärkt. Der Zeitpunkt von Burgards Amtsantritt steht noch nicht fest, da er sich von einer schweren Herzoperation erholt.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Kartellamt genehmigt: Rheinische Post wird größte Tageszeitungsgruppe in NRW Die Rheinische Post wächst weiter: Das Bundeskartellamt genehmigt die Übernahme der Westfälischen Nachrichten und des Westfalen-Blatts. Ein Trend setzt sich fort",
-          "link": "https://kress.de/news/beitrag/152500-kartellamt-genehmigt-rheinische-post-wird-groesste-tageszeitungsgruppe-in-nrw.html",
-          "summary": "Das Bundeskartellamt hat die Übernahme der Westfälischen Nachrichten und des Westfalen-Blatts durch die Rheinische Post genehmigt, da sich die Verbreitungsgebiete nicht überschneiden und somit kein direkter Wettbewerb besteht. Mit dieser Akquisition wird die Rheinische Post zur auflagenstärksten Tageszeitungsverlagsgruppe in NRW und setzt den branchenweiten Konzentrationstrend fort. Die Kartellbehörde prüft bei solchen Fusionen ausschließlich Auswirkungen auf Leser- und Anzeigenmärkte, nicht jedoch auf die journalistische Meinungsvielfalt.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Motor Presse Stuttgart: Detscher und Jehle rücken ins Management-Board auf Motor Presse Stuttgart bündelt Kompetenz im Management-Board: CFO Sabine Detscher und Digital-Chef Christian Jehle gehören dem Führungsgremium ab sofort an. Im Mittelpunkt steht das KI-Projekt „Motor Mind\"",
-          "link": "https://kress.de/news/beitrag/152499-motor-presse-stuttgart-detscher-und-jehle-ruecken-ins-management-board-auf.html",
-          "summary": "Motor Presse Stuttgart erweitert ihr Management-Board um CFO Sabine Detscher und Digital-Chef Christian Jehle, um die Kompetenzen in Finanzen, Digitalisierung und KI-Innovation zu bündeln. Jehle verantwortet seit November 2025 die digitale Transformation und insbesondere das KI-Projekt „Motor Mind\", während Detscher seit Januar 2026 als CFO fungiert. Das Special-Interest-Medienhaus mit Marken wie auto motor und sport positioniert sich damit als „tech- und datengetriebenes Medien-Powerhouse\".",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Umbau bei der Börsen-Zeitung: Schnettler wird Vize-Chef, Ressorts werden abgeschafft Die Börsen-Zeitung stellt sich neu auf: Daniel Schnettler ergänzt die Chefredaktion um Sebastian Schmid und Heidi Rohde. Und die Redaktion verabschiedet sich von klassischen Ressorts",
-          "link": "https://kress.de/news/beitrag/152496-umbau-bei-der-boersen-zeitung-schnettler-wird-vize-chef-ressorts-werden-abgeschafft.html",
-          "summary": "Die Börsen-Zeitung erweitert ihre Chefredaktion um Daniel Schnettler als stellvertretenden Chefredakteur, der zuvor die Ressorts Unternehmen und Kapitalmarkt leitete und über 20 Jahre Erfahrung bei Handelsblatt, dpa-AFX sowie in der Unternehmenskommunikation mitbringt. Gleichzeitig schafft die Redaktion klassische Ressorts ab und führt vier flexible Thementeams (Corporates, Banking & Finance, Public Markets & Policy, Private Markets) ein, die je nach Nachrichtenlage täglich neu zusammengesetzt werden können.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Schützenhilfe für Steingart: Ex-Zeit-Geschäftsführer Esser kritisiert Host-Read-Werbung Gabor Steingarts Podcast-Debatte zieht weitere Kreise: Rainer Esser, langjähriger Geschäftsführer des Zeit-Verlags, meldet sich auf LinkedIn zu Wort",
-          "link": "https://kress.de/news/beitrag/152487-schuetzenhilfe-fuer-steingart-ex-zeit-geschaeftsfuehrer-esser-kritisiert-host-read-werbung.html",
-          "summary": "Ex-Zeit-Geschäftsführer Rainer Esser unterstützt teilweise Gabor Steingarts Kritik an Host-Read-Werbung in Podcasts und argumentiert, dass die persönliche Stimme des Hosts problematisch wird, wenn sie ohne klare Trennung sowohl journalistische Inhalte als auch Werbung transportiert. Esser sieht das Kernproblem in der Vermischung von redaktioneller Glaubwürdigkeit und kommerziellen Interessen, fordert aber klare Trennungsregeln statt ein generelles Werbeverbot. Die Debatte geht auf Steingarts umstrittenen Vergleich von werbenden Podcast-Journalisten mit Prostituierten zurück.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Heil wird Chefredakteur, sechs weitere Führungspositionen neu besetzt Intendantin Ulrike Demmer...",
-          "link": "https://kress.de/news/beitrag/152485-groesster-umbau-in-der-rbb-geschichte-heil-wird-chefredakteur-sechs-weitere-fuehrungspositionen-neu-besetzt.html",
-          "summary": "Der rbb vollzieht unter Intendantin Ulrike Demmer den größten Umbau seiner Geschichte und stellt die zweite Führungsebene komplett neu auf, wobei die Bereiche von zwölf auf sieben reduziert werden. Neuer Chefredakteur wird der Grimme-Preisträger Georg Heil, der zuletzt das ARD-Politikmagazin Kontraste leitete, während sechs weitere Führungspositionen neu besetzt werden – fünf davon mit Personen mit ostdeutscher Biografie. Die Neustrukturierung im Rahmen des \"Zielbild rbb 2028\" soll kürzere Entscheidungswege ermöglichen und mittelfristig den außertariflichen Personalaufwand reduzieren.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Digitale Verstärkung: Automobilwoche holt Leonore von Papp aus dem Agrarjournalismus Vom Agrarportal agrarheute.com zur Automobilwoche: Leonore von Papp wird zum 1. Mai Mitglied der Chefredaktion. Die Digitaljournalistin kommt vom Deutschen Landwirtschaftsverlag",
-          "link": "https://kress.de/news/beitrag/152486-digitale-verstaerkung-automobilwoche-holt-leonore-von-papp-aus-dem-agrarjournalismus.html",
-          "summary": "Leonore von Papp wechselt zum 1. Mai 2026 vom Deutschen Landwirtschaftsverlag in die Chefredaktion der Automobilwoche, wo sie als Head of Editorial Product Development & Growth die digitale Weiterentwicklung redaktioneller Produkte verantworten wird. Die erfahrene Digitaljournalistin, die zuvor bei Burda, RTL und ProSiebenSat.1 tätig war, soll mit ihrer Expertise in datengetriebenen Content-Strategien die strategische Entwicklung der führenden B2B-Automobilmarke vorantreiben.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Die meistzitierten Medien zum Jahresauftakt: Spiegel holt mit dem Fall Fernandes/Ulmen deutlich auf Roland Schatz und sein Media-Tenor-Team haben zwischen Januar und März 6.641 Zitate ausgewertet. Bild legt zu, der Spiegel um Dirk Kurbjuweit (Foto) überrascht",
-          "link": "https://kress.de/news/beitrag/152483-die-meistzitierten-medien-zum-jahresauftakt-spiegel-holt-mit-dem-fall-fernandes-ulmen-deutlich-auf.html",
-          "summary": "Im ersten Quartal 2026 dominieren US-Medien und die Financial Times das Media-Tenor-Zitate-Ranking, während bei deutschen Medien die Bild-Gruppe weiterhin führt und der Spiegel durch seine Recherchen zum Fall Fernandes/Ulmen deutlich aufholt. Roland Schatz konstatiert eine Verunsicherung in der deutschen Medienlandschaft mit abnehmender Wirkungsmacht etablierter Titel, besonders das Handelsblatt verliert trotz wirtschaftlicher Unsicherheiten stark an Zitaten. Thematisch stehen außenpolitische Themen und internationale Konflikte im Fokus der Medienzitate.",
+          "title": "unBoxed 2026: So will Amazon das Kampagnen-Management einfacher machen",
+          "link": "https://www.horizont.net/medien/nachrichten/unboxed-2026-so-will-amazon-das-kampagnen-management-einfacher-machen-233938?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Amazon stellte auf der unBoxed 2026 in Düsseldorf neue Services wie den Campaign Manager und Ads Agent vor, die das Kampagnen-Management für Werbetreibende vereinfachen sollen. Künstliche Intelligenz spielt dabei eine zentrale Rolle, um Kreation und Media-Prozesse effizienter zu gestalten.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Dossier 4 - Audio, Radio, Podcast Vom Experiment zum Werbekanal: Podcasts werden für Marken wichtiger Mit Video sowie Omnichannel-Strategien wächst die Rolle des Mediums Podcast im Marketing-Mix. Constantin Buer, Director des jungen Vermarkters sounds good, erklärt, warum Marken umdenken",
-          "link": "https://meedia.de/news/beitrag/21580-vom-experiment-zum-werbekanal-podcasts-werden-fuer-marken-wichtiger.html",
-          "summary": "Podcasts entwickeln sich von einem Experimentierfeld zu einem ernstzunehmenden Werbekanal im Marketing-Mix, wobei die globalen Podcast-Werbeausgaben laut Magellan Report um 32 Prozent gestiegen sind. Constantin Buer von sounds good erklärt diese Entwicklung mit der Marktkonsolidierung, erhöhten Budgets erfolgreicher Marken und dem zusätzlichen Schub durch Video-Integration. Der Fokus liegt dabei auf Omnichannel-Strategien und der professionellen Verzahnung von Podcasts mit anderen Werbekanälen bis hin zu Merchandising-Kollektionen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Weiterer Relaunch Motor Presse Stuttgart holt aufpolierte \"Motor Klassik\" aus der Werkstatt Nach...",
-          "link": "https://meedia.de/news/beitrag/21583-motor-presse-stuttgart-holt-aufpolierte-quot-motor-klassik-quot-aus-der-werkstatt.html",
-          "summary": "Die Motor Presse Stuttgart hat ihr Magazin \"Motor Klassik\" mit Ausgabe 5/26 einem umfassenden Relaunch unterzogen, der neben der Renovierung der Print-Ausgabe und Erweiterung des Online-Auftritts auch ein verstärktes Event-Angebot mit Rallyes und Ausfahrten umfasst. Der Verlag positioniert die Marke strategisch neu als \"Gemeinschaft von klassischen Fahrzeug-Enthusiasten\" und will durch modernes Design jüngere Zielgruppen ansprechen, während gleichzeitig der Markt-Teil mit Preisanalysen ausgebaut wurde. Der Relaunch reiht sich in die Neuausrichtungsstrategie weiterer Verlagstitel wie \"auto motor und sport\", \"Motorrad\" und \"Men's Health\" ein.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Erster Auftritt des neuen ProSiebenSat.1-Vorstandschefs Mit Marco Giordani in der medienpolitischen...",
-          "link": "https://meedia.de/news/beitrag/21582-mit-marco-giordani-in-der-medienpolitischen-versuchskueche.html",
-          "summary": "Marco Giordani, neuer CEO von ProSiebenSat.1, nutzte seinen ersten größeren öffentlichen Auftritt bei der \"DLM im Dialog\"-Konferenz der Landesmedienanstalten, um sich als Verteidiger von Public Value zu positionieren und die großen Tech-Plattformen als gemeinsamen Gegner der traditionellen Medien zu identifizieren. Giordani kritisierte, dass Europa die technologischen Veränderungen nicht verstanden habe und fälschlicherweise der US-Auffassung gefolgt sei, Plattformen seien nur \"dumme\" Distributoren, obwohl sie heute durch Algorithmen und Datenmassen über Inhalte entscheiden.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Weil die Umsatzrendite nicht stimmt RTL-Mitarbeitende bekommen keine Gewinnbeteiligung für 2025 Die...",
-          "link": "https://meedia.de/news/beitrag/21579-rtl-mitarbeitende-bekommen-keine-gewinnbeteiligung-fuer-2025.html",
-          "summary": "RTL Deutschland streicht aufgrund einer zu niedrigen Umsatzrendite (unter 6%) die Gewinnbeteiligung für 2025 komplett, wodurch Mitarbeiter mit mindestens zweijähriger Betriebszugehörigkeit leer ausgehen. Die erfolgsabhängige Beteiligung betrug in guten Jahren das 1,5-fache eines Bruttomonatsgehalts und war zuletzt bereits auf ein halbes Gehalt geschrumpft. Die Entscheidung sorgt für erhebliche Empörung in der Belegschaft, da die Gewinnbeteiligung in einer Betriebsvereinbarung verankert ist.",
+          "title": "Die März-Zahlen Podcast-MA: neue Rekorde für \"Mord auf Ex\", \"Ronzheimer.\" und \"Verbrechen von nebenan\" Die Podcast-Branche verzeichnete laut neuester Zahlen der MA Podcast im März deutlich ansteigende Abrufzahlen",
+          "link": "https://meedia.de/news/beitrag/21586-podcast-ma-neue-rekorde-fuer-quot-mord-auf-ex-quot-quot-ronzheimer-quot-und-quot-verbrechen-von-nebenan-quot.html",
+          "summary": "Die MA Podcast verzeichnete im März deutlich steigende Abrufzahlen, wobei \"Mord auf Ex\" mit fast 7 Millionen validen Downloads das Ranking anführt und zusammen mit \"Verbrechen von nebenan\" und \"Ronzheimer.\" neue Rekordwerte erreichte. Bei den Downloads pro neu veröffentlichter Episode führt \"Mordlust\" vor \"Baywatch Berlin\" und \"Mord auf Ex\", während True-Crime-Formate insgesamt dominieren. Das Wachstum von etwa 10 Prozent gegenüber Februar wird teilweise auf kalendertechnische Faktoren und möglicherweise vermehrte Outdoor-Aktivitäten zurückgeführt.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "Netflix co-founder Reed Hastings to leave streaming service",
-          "link": "https://www.theguardian.com/media/2026/apr/16/netflix-chair-reed-hastings",
-          "summary": "Netflix-Mitgründer Reed Hastings (65) verlässt nach 29 Jahren den Streaming-Dienst und wird bei der Hauptversammlung im Juni nicht zur Wiederwahl als Chairman antreten, um sich auf Philanthropie zu konzentrieren. Die Entscheidung erfolgt ohne Meinungsverschiedenheiten mit dem Unternehmen, dennoch fiel der Aktienkurs um etwa 8% nach Bekanntgabe der Nachricht. Ein Nachfolger für seinen Vorstandsplatz wurde noch nicht benannt.",
-          "score": 9
-        },
-        {
-          "source": "Guardian Media",
-          "title": "News of BBC jobs cuts ‘real concern‘, says UK’s culture secretary",
-          "link": "https://www.theguardian.com/media/2026/apr/16/bbc-jobs-cuts-real-concern-says-lisa-nandy-culture-secretary",
-          "summary": "Die BBC hat angekündigt, in den nächsten drei Jahren 2.000 Stellen (etwa 10% der Belegschaft) zu streichen, was laut Kulturministerin Lisa Nandy erhebliche Auswirkungen auf die Moral der Mitarbeiter hatte. Die betroffenen Mitarbeiter werden erst im September erfahren, wer von den Kürzungen betroffen ist, während Frustration darüber herrscht, dass hochbezahlte Moderatoren und Führungskräfte voraussichtlich verschont bleiben. Nandy betont die Notwendigkeit, die Mitarbeiter in den Kostensenkungsplan einzubeziehen, der im Rahmen der Charter-Erneuerung diskutiert wird.",
+          "title": "Asif Kapadia to direct 70 Up, last chapter of influential ITV documentary series",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/apr/17/asif-kapadia-direct-final-chapter-itv-documentary-series-70-up",
+          "summary": "Asif Kapadia übernimmt die Regie für \"70 Up\", den abschließenden Teil der einflussreichen ITV-Dokumentarserie, die seit 1964 eine Gruppe von Menschen in siebenjährigen Abständen begleitet hat. Der renommierte Dokumentarfilmregisseur (\"Amy\", \"Senna\") folgt auf Michael Apted, der 2021 verstarb, und bezeichnet die Serie als \"ultimätes Porträt des menschlichen Lebens\". Die als \"Most Influential UK TV Show\" der letzten 50 Jahre ausgezeichnete Langzeitstudie wird damit nach sechs Jahrzehnten zu einem würdigen Abschluss geführt.",
           "score": 7
         },
         {
           "source": "Guardian Media",
           "title": "Channel 4 programming chief Ian Katz to leave after nearly nine years",
           "link": "https://www.theguardian.com/media/2026/apr/16/ian-katz-leave-role-channel-4-content-chief",
-          "summary": "Ian Katz, Chief Content Officer von Channel 4 und verantwortlich für das £650m Programmbudget, verlässt den Sender im Oktober nach fast neun Jahren - länger als jeder andere Programmchef in der Geschichte des Senders. Sein Abgang folgt der Ernennung der neuen CEO Priya Dogra und schafft eine Führungslücke, da nun zwei der drei wichtigsten Führungspositionen bei Channel 4 vakant sind. Katz war maßgeblich an der Abwehr der Privatisierungspläne der vorherigen konservativen Regierung beteiligt und leitete die digitale Transformation des öffentlich-rechtlichen Senders.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "BBC to cut up to 2,000 jobs in biggest downsize in 15 years",
-          "link": "https://www.theguardian.com/media/2026/apr/15/bbc-cut-jobs-downsize-matt-brittin-tim-davie",
-          "summary": "Die BBC kündigt den Abbau von bis zu 2.000 Arbeitsplätzen an – etwa 10% der 21.500 Mitarbeiter – als Teil eines £600 Millionen Kostensenkungsprogramms und markiert damit die größte Stellenreduktion seit 15 Jahren. Die Maßnahme erfolgt vor dem Amtsantritt des neuen Generaldirektors Matt Brittin (ehemals Google) im Mai, der Tim Davie ablöst. Als Hauptgründe werden steigende Produktionskosten, rückläufige Lizenzgebühren- und Werbeeinnahmen sowie allgemeine wirtschaftliche Unsicherheiten genannt.",
-          "score": 9
-        },
-        {
-          "source": "Guardian Media",
-          "title": "How the streaming dream turned sports on TV into a costly maze",
-          "link": "https://www.theguardian.com/sport/2026/apr/15/how-the-streaming-dream-turned-sports-on-tv-into-a-costly-maze",
-          "summary": "Die Streaming-Revolution im Sport hat sich von einem verbraucherfreundlichen Ansatz zu einem kostspieligen und verwirrenden System aus verschiedenen Abonnements, Blackouts und Werbung entwickelt. Besonders im Baseball müssen Fans nun bis zu sieben verschiedene Anbieter navigieren, während gleichzeitig regionale Sportnetzwerke zusammenbrechen und sich neu strukturieren. Was einst als \"nur für das bezahlen, was man sehen möchte\" vermarktet wurde, ist zu einem komplexen Labyrinth geworden, das Fans hunderte Dollar kostet, um ihre Teams zu verfolgen.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "German TV Market Seriencamp Unveils Plot Next Tech Strand Featuring Showrunner Behind Netflix Portugal Series ‘The Marquise’",
-          "link": "https://deadline.com/2026/04/seriencamp-unveils-plot-next-tech-strand-the-marquise-1236864181/",
-          "summary": "Das deutsche TV-Event Seriencamp führt 2025 mit \"Plot Next\" einen neuen Strang ein, der sich auf den Einsatz von KI in der Serienproduktion fokussiert. Zu den 30 internationalen Sprechern gehören u.a. die Showrunnerin von Netflixs \"The Marquise\" Pandora de Cunha Telles, die über generative KI in der Produktion spricht, sowie Vertreter von BBC, UFA Fiction und Studio Hamburg, die KI-Anwendungen in Writers' Rooms, Marketing und Produktionsplanung diskutieren. Die Veranstaltung findet vom 9.-11. Juni parallel zur Hauptkonferenz statt und soll konkrete Praxisbeispiele für die wachsende KI-Integration in bestehende Produktionsabläufe präsentieren.",
+          "summary": "Ian Katz, Channel 4's Chief Content Officer und verantwortlich für das £650m Programmbudget, verlässt den Sender im Oktober nach fast neun Jahren - der längsten Amtszeit eines Programmchefs in der Channel 4-Geschichte. Sein Abgang folgt der Ernennung der neuen CEO Priya Dogra von Sky und verstärkt den Führungswechsel bei Channel 4, nachdem bereits Interim-CEO Jonathan Allan im Februar seinen Rücktritt ankündigte. Katz war maßgeblich an der erfolgreichen Abwehr der Privatisierungspläne der vorherigen konservativen Regierung beteiligt und trieb die digitale Transformation des öffentlich-rechtlichen Senders voran.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Duffer Brothers Kick Off Paramount Era With Appearance In Star-Studded Video About Studio’s Legacy Alongside Tom Cruise & Timothée Chalamet",
-          "link": "https://deadline.com/2026/04/duffer-brothers-move-paramount-video-tom-cruise-chalamet-1236864031/",
-          "summary": "Die Duffer Brothers (\"Stranger Things\") haben nach einem Jahrzehnt bei Netflix zu Paramount gewechselt und einen exklusiven Vier-Jahres-Vertrag für Filme, TV und Streaming-Projekte abgeschlossen. Paramount präsentierte die neuen Vertragspartner prominent in einem aufwendigen Promo-Video mit Tom Cruise und anderen A-List-Stars bei der CinemaCon in Las Vegas. Der Wechsel wurde maßgeblich durch Paramounts Möglichkeit motiviert, den Duffer Brothers Kinofilmprojekte anzubieten, die bei Netflix nicht verfügbar waren.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Pluto TV Upgrade On The Way As David Ellison Reiterates Paramount’s Commitment To “Movies And Storytelling” At L.A. Upfronts",
-          "link": "https://deadline.com/2026/04/pluto-tv-upgrade-david-ellison-paramount-la-upfront-1236864034/",
-          "summary": "Paramount CEO David Ellison kündigte bei den L.A. Upfronts bedeutende technische Upgrades für den kostenlosen Streaming-Dienst Pluto TV an, der den gleichen Tech-Stack wie Paramount+ erhalten soll, um die User Experience zu verbessern. Chief Product Officer Dane Glasgow betonte, dass Pluto TV besonders stark in der 18-34 Jahre Zielgruppe wächst und die Konvergenz der Betriebssysteme beider Streaming-Plattformen neue Funktionen und Erfahrungen ermöglichen wird. Die Maßnahmen sind Teil von Paramounts \"tech forward\"-Strategie unter Ellisons Führung, nachdem das Unternehmen vor neun Monaten als Paramount Skydance neu aufgestellt wurde.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "HBO Max Buys Mark Gatiss Series ‘Bookish’ For Australia As Sales Pass The 100-Territory Mark",
-          "link": "https://deadline.com/2026/04/hbo-max-australia-buys-mark-gatiss-series-bookish-1236863325/",
-          "summary": "HBO Max Australia hat die Cozy-Crime-Serie \"Bookish\" von Mark Gatiss erworben, die in den 1940er Jahren spielt und einen schwulen Bibliophilen als Detektiv zeigt. Die Serie hat mit zusätzlichen Verkäufen an Radio Canada, Sky New Zealand, RAI und weitere Sender die 100-Territorien-Marke überschritten. Die zweite Staffel steht kurz vor dem Start, nachdem die erste Folge mit 1,5 Millionen Zuschauern den zweithöchsten Premieren-Erfolg des UK-Senders U&alibi erzielte.",
+          "title": "Nexstar Decries $6.2B Tegna Deal Being Blocked By Judge, Vows Appeal",
+          "link": "https://deadline.com/2026/04/nexstar-responds-tegna-merger-blocked-1236864817/",
+          "summary": "Ein Bundesrichter blockierte am Freitag die von Trump befürwortete 6,2-Milliarden-Dollar-Fusion zwischen Nexstar Media Group und Tegna mit einer einstweiligen Verfügung, nachdem der Deal bereits FCC- und Justizministerium-Genehmigungen erhalten hatte. Nexstar kündigte umgehend Berufung an und argumentiert, die Fusion würde lokale Sender stärken und Investitionen in lokalen Journalismus unterstützen, während New York Attorney General Letitia James weiterhin gegen die Mega-Fusion kämpft. Der Deal bleibt bis zum Abschluss einer von DirecTV initiierten Kartellrechtsklage auf Eis.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Cindy Holland Reiterates Paramount+ Focus On “Female Forward Dramas” At Paramount Upfront",
-          "link": "https://deadline.com/2026/04/cindy-holland-paramount-plus-female-dramas-strategy-upfront-1236863975/",
-          "summary": "Cindy Holland, Chair of Direct-to-Consumer bei Paramount+, bekräftigte auf dem ersten Upfront seit der Skydance-Übernahme die strategische Ausrichtung auf \"Female Forward Dramas\", um die aktuell männlich dominierte Programmauswahl der Streaming-Plattform auszubalancieren. Als Paradebeispiel nannte sie \"The Madison\" mit Michelle Pfeiffer von Taylor Sheridan, das bereits als dessen erfolgreichster Seriendebut startete. Die Strategie zielt darauf ab, das von Sheridan- und Star Trek-Formaten geprägte Portfolio zu diversifizieren.",
-          "score": 8
+          "title": "Nexstar-Tegna Merger Frozen By Judge As Antitrust Battle Continues; CA AG Says “This Merger Is Illegal, Plain & Simple”",
+          "link": "https://deadline.com/2026/04/nexstar-tegna-merger-blocked-2-1236784770/",
+          "summary": "Ein Bundesrichter hat Nexstars geplante 6,2 Milliarden Dollar Übernahme von Tegna durch eine einstweilige Verfügung gestoppt, da die Transaktion den Wettbewerb verletzen und gegen Kartellgesetze verstoßen würde. Die Entscheidung stellt einen Rückschlag für die Trump-Administration und FCC-Vorsitzenden Brendan Carr dar, der dem Deal relativ schnell zugestimmt hatte. Nexstar kündigte bereits an, gegen die Entscheidung vor dem Berufungsgericht des neunten Bezirks vorzugehen.",
+          "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘The Pitt’ Creator R. Scott Gemmill Reveals Dr. Robby Hasn’t Hit Rock Bottom",
-          "link": "https://deadline.com/2026/04/the-pitt-r-scott-gemmill-season-2-finale-interview-1236863967/",
-          "summary": "In der Staffel 2 von HBO Max' Medizindrama \"The Pitt\" erreicht Dr. Robby (Noah Wyle) einen kritischen Punkt seiner mentalen Gesundheitskrise, die sich negativ auf sein Verhalten gegenüber Kollegen auswirkt und seine Arbeitsfähigkeit in der Notaufnahme beeinträchtigt. Der Showrunner R. Scott Gemmill deutet an, dass Robbys geplanter \"Sabbatical\" tatsächlich suizidale Absichten verbergen könnte. Das Staffelfinale zeigt, wie Robbys mangelnde Empathie und emotionale Instabilität das gesamte Team belastet und seine Führungsrolle unterminiert.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "Asif Kapadia Taking Over From Michael Apted to Conclude Landmark Brit Docuseries ‘7 Up’",
-          "link": "https://variety.com/2026/tv/global/asif-kapadia-conclude-landmark-brit-docuseries-7-up-1236724388/",
-          "summary": "Asif Kapadia übernimmt die Regie für die finale Folge \"70 Up\" der wegweisenden britischen Dokumentarserie, die seit 1964 alle sieben Jahre dieselben Teilnehmer begleitet, nachdem der langjährige Regisseur Michael Apted 2021 verstarb. Der Oscar-prämierte Dokumentarfilmacher (\"Amy\", \"Senna\") wird die zweiteilige Abschlussfolge für ITV inszenieren, die die inzwischen 70-jährigen Protagonisten als Rentner porträtiert. Kapadia bezeichnete die \"Up\"-Serie bereits 2014 als seine liebste Dokumentation aller Zeiten.",
+          "title": "Everything We Know About ‘One Piece’ Season 3 So Far",
+          "link": "https://deadline.com/feature/one-piece-season-3-news-updates-everything-we-know-1236864762/",
+          "summary": "Netflix hat die dritte Staffel der Live-Action-Serie \"One Piece\" mit dem Titel \"The Battle of Alabasta\" für 2027 angekündigt und bereits mit der Produktion begonnen. Die Handlung folgt Luffy und seiner Crew nach Alabasta, um Prinzessin Vivi gegen die Schurkenorganisation Baroque Works zu helfen. Zu den neuen Castmitgliedern gehören Tony-Gewinner Cole Escola als Bon Clay und Xolo Maridueña als Portgas D. Ace.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Paramount’s First Upfront Under Skydance Touts Tech, Sports and the Company’s Rebirth",
-          "link": "https://variety.com/2026/tv/news/paramount-david-ellison-upfront-skydance-tech-sports-1236724366/",
-          "summary": "Paramount hielt unter neuer Skydance-Führung sein erstes Upfront ab, wobei CEO David Ellison die Neuausrichtung des Unternehmens mit Fokus auf Technologie und Sport präsentierte. Auffällig war, dass die geplante Übernahme durch Warner Bros. Discovery nicht erwähnt wurde und CBS News sowie Kabelkanäle aus der Präsentation ausgelassen wurden. Die Veranstaltung wurde mit einem von Tom Cruise gesprochenen Branding-Video eröffnet, das prominente Kreative wie Jerry Bruckheimer und James Cameron zeigte.",
-          "score": 8
+          "title": "Judge Issues Preliminary Injunction Against Nexstar-Tegna Takeover, Orders Nexstar to Halt Integration Plans",
+          "link": "https://variety.com/2026/tv/news/nexstar-tegna-preliminary-injunction-judge-block-directv-1236724913/",
+          "summary": "Ein Bundesrichter in Sacramento hat eine einstweilige Verfügung gegen Nexstars Übernahme der Tegna TV-Sender erlassen und dem Unternehmen untersagt, die Integration der 64 Sender fortzusetzen, nachdem DirecTV erfolgreich argumentierte, dass die Fusion \"irreparablen Schaden\" verursachen könnte. Nexstar hatte die Übernahme im März trotz laufender Rechtsstreitigkeiten abgeschlossen, obwohl die kombinierte Unternehmensgröße die aktuellen FCC-Eigentumsgrenzen für TV-Sender überschreitet. Das Unternehmen kündigte Berufung gegen die 52-seitige Gerichtsentscheidung an, während acht Generalstaatsanwälte und DirecTV weiterhin gegen die bereits von FCC und Justizministerium genehmigte Fusion vorgehen.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Jodi Picoult’s ‘Book of Two Ways’ in Development as Netflix Series, ‘Outlander’s’ Matthew B. Roberts to Write (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/news/jodi-picoult-book-of-two-ways-netflix-series-1236724747/",
+          "summary": "Netflix entwickelt eine Serienadaption von Jodi Picoults Roman \"The Book of Two Ways\" (2020), die von \"Outlander\"-Showrunner Matthew B. Roberts geschrieben und produziert wird. Die Geschichte folgt Dawn Edelstein, die nach einem Flugzeugabsturz zwei mögliche Lebenswege vor sich sieht – die Rückkehr zu Familie in Boston oder zu ihrer Karriere in der Ägyptologie und einem früheren Liebhaber. Sony Pictures Television produziert das Projekt im Rahmen von Roberts' Gesamtvertrag.",
+          "score": 7
         }
       ]
     }
