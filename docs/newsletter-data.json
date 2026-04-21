@@ -1,119 +1,140 @@
 {
   "newsletters": [
     {
-      "date": "2026-04-20",
+      "date": "2026-04-21",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Medienboard fördert \"Päpstin\"-Serie von ARD und Constantin",
-          "link": "https://www.dwdl.de/nachrichten/106225/medienboard_foerdert_paepstinserie_von_ard_und_constantin_/",
-          "summary": "Das Medienboard Berlin-Brandenburg fördert die ARD/Constantin-Serie \"Die Päpstin\" mit 300.000 Euro, zusätzlich zu einer bereits zugesagten Million Euro vom FFF Bayern. Die sechsteilige deutsch-tschechische Koproduktion mit Jella Haase in der Hauptrolle und Regie von Katrin Gebbe adaptiert Donna Cross' Bestseller über die legendäre Päpstin Johanna. Constantin-Chef Oliver Berben verspricht eine \"unfassbar freche, moderne und politisch sehr inkorrekte\" Umsetzung des kirchenhistorischen Stoffes.",
+          "title": "Sender & Verbände fordern gesetzliche Regulierung von KI-Plattformen",
+          "link": "https://www.dwdl.de/nachrichten/106241/sender__verbaende_fordern_gesetzliche_regulierung_von_kiplattformen/",
+          "summary": "Deutsche Medienverbände (ARD, ZDF, BDZV, MVFP, VAUNET) fordern gemeinsam eine gesetzliche Regulierung von KI-Plattformen, da sie eine akute Bedrohung der Medienvielfalt durch Big-Tech-Konzerne sehen. Die Verbände kritisieren, dass KI-Plattformen journalistische Inhalte ohne eigene redaktionelle Investitionen ausbeuten und klassische Medien zu reinen Datenlieferanten degradieren könnten. Sie warnen vor demokratie- und medienpolitisch problematischen Verschiebungen bei Aufmerksamkeit und Wertschöpfung im digitalen Markt.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "Leonine Documentaries produziert künftig alle Jenke-Formate",
+          "link": "https://www.dwdl.de/nachrichten/106239/leonine_documentaries_produziert_kuenftig_alle_jenkeformate/",
+          "summary": "Leonine Documentaries übernimmt ab sofort die Produktion aller drei Jenke-Formate für ProSieben (\"Jenke. Report\", \"Jenke. Experiment\" und \"Jenke. Crime\"), nachdem die bisherigen Produktionsfirmen SEO Entertainment (wurde Ende 2025 geschlossen) und Film Five die Verantwortung abgaben. Die Zusammenführung ermöglicht eine einheitliche Produktion aller Jenke-Formate unter dem Leonine Studios-Label, wobei die bewährte Produzentin Katja Hahn weiterhin federführend bleibt.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Seriencamp-Programm steht, Award für Greifeneder",
-          "link": "https://www.dwdl.de/nachrichten/106224/seriencampprogramm_steht_award_fuer_greifeneder/",
-          "summary": "Die Seriencamp Conference findet vom 9.-11. Juni 2026 in Köln statt und präsentiert Panels, Workshops sowie die Pitching-Plattform \"Story Exchange\" und \"Work in Progress\"-Einblicke. Anke Greifeneder, HBO Max VP Local Original Production GSA & France und verantwortlich für \"4 Blocks\", erhält den German TV Disruptor Award von \"Deadline\". Das Programm umfasst Autoren-Einblicke von Brian Elsley, Samuel Jefferson und Luise Hardenberg sowie Vorstellungen aktueller Produktionen wie \"Counsels\" (BBC/ZDFneo), \"Die Falle\" (Netflix) und \"Droneland\" (ZDF/MagentaTV).",
-          "score": 8
+          "title": "ZDF dreht Abenteuerserie für die ganze Familie",
+          "link": "https://www.dwdl.de/nachrichten/106233/zdf_dreht_abenteuerserie_fuer_die_ganze_familie/",
+          "summary": "Das ZDF produziert in Koproduktion mit France Télévisions und RAI die sechsteilige Abenteuerserie \"The Emperor's Stone\" mit Colin Morgan in der Hauptrolle, die derzeit in Italien und Frankreich gedreht wird. Die 52-minütige Familienserie folgt dem Abenteurer Theo Levasseur bei der Suche nach einem legendären Piratenschatz seines Vorfahren, wobei er mit seiner Familie auf einer historischen Galeone rivalisierenden Mächten und einem Auftragskiller gegenübersteht. Das Projekt entstand aus der European Alliance und wird von Showrunner Benjamin Anderson entwickelt sowie von Regisseurin Alice Troughton inszeniert.",
+          "score": 7
         },
         {
           "source": "DWDL",
-          "title": "RTL plant neue Staffeln von \"Euphorie\" und \"Pumuckl\"",
-          "link": "https://www.dwdl.de/nachrichten/106218/rtl_plant_neue_staffeln_von_euphorie_und_pumuckl/",
-          "summary": "RTL setzt seine Serienoffensive fort und produziert eine zweite Staffel der deutschen \"Euphorie\"-Adaption sowie eine dritte Staffel \"Neue Geschichten vom Pumuckl\" inklusive Kinofilm. Bei \"Pumuckl\" übernehmen Alain Gsponer (Kino) und Barbara Kronenberg (Serie) die Regie von Marcus H. Rosenmüller, während \"Der Lehrer\" mit Hendrik Duryn ab 21. Mai bei RTL+ und ab 28. Mai linear zurückkehrt.",
+          "title": "Disney Channel ab Mai auch bei Disney+ verfügbar",
+          "link": "https://www.dwdl.de/nachrichten/106229/disney_channel_ab_mai_auch_bei_disney_verfuegbar/",
+          "summary": "Disney integriert ab Mai 2026 den Disney Channel als Live-Stream in die Plattform Disney+, um die Reichweite des Senders zu erhöhen, ohne zusätzliche Kosten für bestehende Abonnenten. Der Schritt folgt auf die kürzliche Ankündigung, auch ESPN in Europa auf Disney+ zu bringen, und ergänzt das lineare Familienprogramm um die On-Demand-Funktionalität der Streamingplattform. Der Disney Channel hat sein Programm zuletzt erweitert und zeigt vormittags sowie am Vorabend verstärkt Sitcoms für erwachsene Zielgruppen zusätzlich zum traditionellen Kinderprogramm.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "RTL setzt bei \"Punkt 12\" dauerhaft auf Doppelmoderationen",
+          "link": "https://www.dwdl.de/nachrichten/106223/rtl_setzt_bei_punkt_12_dauerhaft_auf_doppelmoderationen/",
+          "summary": "RTL führt ab Mai bei \"Punkt 12\" dauerhaft feste Moderations-Duos ein, nachdem eine erfolgreiche Testphase im Herbst gestartet war. Die beiden Teams bestehen aus Katja Burkard/Bernd Fuchs sowie Angela Finger-Erben/Daniel Fischer, während Sabrina Ilski hauptsächlich zur neuen Morgensendung \"Deutschland am Morgen\" wechselt. Laut RTL-Management sollen die festen Duos mehr Dynamik, Struktur und Verlässlichkeit in das dreistündige Mittagsmagazin bringen.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Studie von Publicis Media: Auf diesen Geräten verfolgen die Deutschen die Fußball-WM",
-          "link": "https://www.horizont.net/medien/nachrichten/studie-von-publicis-media-auf-diesen-geraeten-verfolgen-die-deutschen-die-fussball-wm-233980?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Laut einer Studie von Publicis Media verfolgt die Generation Z die Fußball-WM nahezu gleichverteilt auf Smartphone und Fernseher, während ältere Zielgruppen weiterhin den TV-Konsum bevorzugen. Dies zeigt einen signifikanten Generationenwandel im Mediennutzungsverhalten bei Sportereignissen auf.",
+          "title": "Gemeinsame Eckpunkte: Medienverbände fordern konsequente Regulierung von KI-Angeboten",
+          "link": "https://www.horizont.net/medien/nachrichten/gemeinsame-eckpunkte-medienverbaende-fordern-konsequente-regulierung-von-ki-angeboten-234016?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Deutsche Medienverbände sowie ARD und ZDF fordern gemeinsam eine strengere medienrechtliche Regulierung von KI-Angeboten, da KI-Zusammenfassungen von Google und anderen Tech-Konzerne für traditionelle Medien existenzbedrohend werden. Die seltene Einmütigkeit der großen Medienakteure unterstreicht die Dringlichkeit des Problems für die klassische Medienlandschaft.",
+          "score": 9
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Große Krise trifft kleines Medium: Wo der Audiowerbemarkt in Zeiten von Big Tech steht",
+          "link": "https://www.horizont.net/medien/nachrichten/grosse-krise-trifft-kleines-medium-der-audiowerbemarkt-zwischen-big-tech-frust-und-radio-lust-234013?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der Audiowerbemarkt kämpft mit einer Doppelbelastung durch schwache Konjunktur und die Dominanz der Big-Tech-Konzerne, die Werbebudgets abziehen. Gleichzeitig zeigt sich eine positive Gegenbewegung durch FMCG-Unternehmen, die Radio als Werbemedium wiederentdecken. Die Entwicklung bis 2026 bleibt zwischen diesen gegenläufigen Trends ungewiss.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "&quot;Playmakers&quot;-Programm : Warum Dazn jetzt Creators ins Zentrum rückt",
+          "link": "https://www.horizont.net/medien/nachrichten/playmakers-programm-warum-dazn-jetzt-creator-ins-zentrum-rueckt-233997?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Dazn hat das globale Programm \"Dazn Playmakers\" gestartet, um eine internationale Community von Sport-Creators aufzubauen. Die britische Sport-Streaming-Plattform setzt damit strategisch auf Content-Creator, um ihre Reichweite und ihr Engagement zu erweitern.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Radio Advertising Summit: Was Audio in der Customer Journey leisten kann",
+          "link": "https://www.horizont.net/medien/nachrichten/radio-advertising-summit-was-audio-in-der-customer-journey-leisten-kann-233968?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Beim Radio Advertising Summit diskutierten Expertin Caroline Grauel (Neuroökonomie) und Strategieberater Sebastian Krüger die Rolle von Audio-Marketing in der zunehmend komplexen Customer Journey. Im Fokus stand die Frage, wie Marken trotz der Vielzahl an Kanälen und Touchpoints erfolgreich zu Konsumenten durchdringen können und welchen spezifischen Beitrag Audio-Formate dabei leisten.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Heil wird Chefredakteur, sechs weitere Führungspositionen neu besetzt Intendantin Ulrike Demmer...",
-          "link": "https://kress.de/news/beitrag/152485-groesster-umbau-in-der-rbb-geschichte-heil-wird-chefredakteur-sechs-weitere-fuehrungspositionen-neu-besetzt.html",
-          "summary": "Der rbb vollzieht unter Intendantin Ulrike Demmer den größten Umbau seiner Geschichte und stellt die zweite Führungsebene komplett neu auf – dabei werden zwölf Bereiche auf sieben reduziert. Georg Heil, Grimme-Preisträger und bisheriger Redaktionsleiter von Kontraste, wird neuer Chefredakteur; weitere sechs Führungspositionen werden ebenfalls neu besetzt. Die Neustrukturierung soll kürzere Entscheidungswege ermöglichen und den außertariflichen Personalaufwand reduzieren.",
-          "score": 7
+          "title": "KI-Hacks, die Sie noch nicht kennen",
+          "link": "https://kress.de/news/beitrag/152519-ki-hacks-die-sie-noch-nicht-kennen-aber-sofort-anwenden-sollten.html",
+          "summary": "KI-Experte Michael Klems stellt drei praktische KI-Tools für Medien-Führungskräfte vor: NotebookLMs Audio-Funktion erstellt aus PDFs strukturierte Executive-Briefings zum Anhören unterwegs, Perplexitys \"Deep Research\"-Feature generiert binnen 15 Minuten fundierte Marktanalysen mit Quellenangaben, und Freepik visualisiert Whitepaper-Inhalte für wirkungsvollere Management-Präsentationen. Die Tools ermöglichen effizientere Meeting-Vorbereitung und Entscheidungsfindung ohne zusätzlichen Zeitaufwand.",
+          "score": 8
         },
         {
-          "source": "meedia",
-          "title": "Nielsen-Werbetrend März Deutscher Werbemarkt dreht beim Brutto-Umsatz ins Plus Nachdem die von...",
-          "link": "https://meedia.de/news/beitrag/21597-deutscher-werbemarkt-dreht-beim-brutto-umsatz-ins-plus.html",
-          "summary": "Der deutsche Werbemarkt zeigt nach schwachem Start eine Erholung: Laut Nielsen stieg der Brutto-Werbeumsatz im ersten Quartal 2026 um 0,8 Prozent auf 8,14 Milliarden Euro, nachdem er nach Februar noch 1,7 Prozent im Minus lag. Besonders stark entwickelten sich Online-Vermarkter (+10,7%), während auch Zeitungen, Out-of-Home und Kino über Vorjahresniveau liegen - lediglich lineares TV, Radio und Publikumszeitschriften verzeichnen weiterhin Rückgänge.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "mit Bildschirmen Die Telekom Deutschland und die awk Aussenwerbung kooperieren künftig beim Ausbau von Digital Out of Home (DOOH) in Deutschland.",
-          "link": "https://meedia.de/news/beitrag/21596-die-telekom-beklebt-verteilerkaesten-mit-bildschirmen.html",
-          "summary": "Die Telekom Deutschland und awk Aussenwerbung starten eine strategische Partnerschaft zum Ausbau von Digital Out of Home (DOOH) durch Installation von Screens auf Telekom-Verteilerkästen. Die Pilotphase beginnt am 1. Juni in München und Düsseldorf mit 250 Displays, wobei die Telekom die programmatische Vermarktung und awk das klassische IO-Geschäft übernimmt. Das Pilotprojekt soll durchschnittlich 4,4 Millionen Kontakte pro Woche und Netz generieren und erschließt neue urbane DOOH-Standorte entlang bestehender Infrastruktur.",
+          "source": "kress",
+          "title": "„Wer den Informationsfluss kontrolliert, kontrolliert die Demokratie\": Verleger fordern Grenzen für KI und Plattformen",
+          "link": "https://kress.de/news/beitrag/152520-wer-den-informationsfluss-kontrolliert-kontrolliert-die-demokratie-quot-verleger-fordern-grenzen-fuer-ki-und-plattformen.html",
+          "summary": "Verlegerverbände aus Deutschland, Österreich, der Schweiz und Luxemburg haben die \"Erklärung von Luxemburg\" veröffentlicht, die klare Rahmenbedingungen für den Umgang von Plattformen und KI mit journalistischen Inhalten fordert. Die Kernforderungen umfassen mehr Transparenz bei Algorithmen, verpflichtende Vergütung für die Nutzung journalistischer Inhalte durch Dritte, diskriminierungsfreie Auffindbarkeit von Medienangeboten und klare Grenzen für KI-generierte Inhalte marktbeherrschender Plattformen. Ziel ist es, die wirtschaftliche Basis unabhängiger Medien zu sichern und zu verhindern, dass digitale Gatekeeper die demokratische Meinungsbildung monopolisieren.",
           "score": 8
         },
         {
           "source": "meedia",
-          "title": "Interview mit Dagmar Schuller, Mitgründerin und CEO von Audeering Was wir wirklich fühlen",
-          "link": "https://meedia.de/news/beitrag/21589-was-wir-wirklich-fuehlen-und-was-audio-darueber-verraet.html",
-          "summary": "Dagmar Schuller, CEO von Audeering, entwickelt multisensorische Analysemethoden, die durch die Kombination von Audio- und Videosignalen unbewusste emotionale Reaktionen messbar machen und damit über klassische Umfragen hinausgehen. Die Technologie ermöglicht es, die Lücke zwischen bewussten Aussagen und tatsächlichen Empfindungen zu schließen, indem Stimme und Mimik verschiedene Dimensionen von Emotionen sichtbar machen. Dies eröffnet der Marktforschung völlig neue Möglichkeiten für ein tieferes Zielgruppenverständnis jenseits herkömmlicher KPIs.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Channel 4 programming chief Ian Katz to leave after nearly nine years",
-          "link": "https://www.theguardian.com/media/2026/apr/16/ian-katz-leave-role-channel-4-content-chief",
-          "summary": "Ian Katz, Channel 4's Chief Content Officer und verantwortlich für das £650m jährliche Programmbudget, verlässt den Sender nach fast neun Jahren im Oktober 2025. Sein Abgang folgt der Ernennung der neuen CEO Priya Dogra von Sky und ist Teil einer größeren Führungswechsel-Welle bei Channel 4. Katz war maßgeblich daran beteiligt, die Privatisierungspläne der vorherigen konservativen Regierung abzuwehren und den Sender in ein digitales Streaming-Geschäft zu transformieren.",
-          "score": 7
+          "title": "\"Erklärung von Luxemburg\" Verlegerverbände fordern strengere Regeln für Tech-Plattformen und KI...",
+          "link": "https://meedia.de/news/beitrag/21608-verlegerverbaende-fordern-strengere-regeln-fuer-tech-plattformen-und-ki.html",
+          "summary": "Verlegerverbände aus fünf deutschsprachigen Ländern haben die \"Erklärung von Luxemburg\" verabschiedet und fordern strengere Regulierung von Tech-Plattformen und KI-Anbietern im Umgang mit journalistischen Inhalten. Die Verbände verlangen mehr Transparenz bei Content-Algorithmen, durchsetzbare Urheberrechte sowie verpflichtende Vergütungen, wenn ihre Inhalte von digitalen Plattformen genutzt werden. Hintergrund ist die wachsende Marktmacht globaler Plattformen, die zunehmend journalistische Inhalte aggregieren und durch eigene Angebote ersetzen.",
+          "score": 9
         },
         {
           "source": "Deadline",
-          "title": "Lionsgate Play Confirms ‘Heated Rivalry’ Season 2 Pick-Up As Indian Streamer Unveils To Theatrical-First Plan & Hollywood Push",
-          "link": "https://deadline.com/2026/04/lionsgate-play-heated-rivalry-season-2-theatrical-plan-1236865592/",
-          "summary": "Lionsgate Play hat die zweite Staffel der romantischen Eishockey-Serie \"Heated Rivalry\" für 2027 bestätigt und kündigt gleichzeitig eine strategische Neuausrichtung auf ein \"Theatrical-First\"-Modell an. Der indische Streamer plant für 2026 über 100 Premieren, wobei 10-12 Titel zunächst in indischen Kinos laufen, bevor sie auf der Streaming-Plattform verfügbar werden. Diese Strategie umfasst hochkarätige Hollywood-Produktionen mit Stars wie Russell Crowe, Gerard Butler und Robert Pattinson, die ab September 2026 in die Kinos kommen.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Complex Texas’: First Look Revealed As VMI Boards Sales Ahead Of Cannes Market; Spain & Eastern Europe Deals In The Bag",
-          "link": "https://deadline.com/2026/04/complex-texas-kevin-dillon-cam-gigandet-first-look-sales-1236865608/",
-          "summary": "VMI Worldwide hat die Vertriebsrechte für den Action-Thriller \"Complex Texas\" mit Kevin Dillon, Cam Gigandet und Danielle Vasinova übernommen, der von drei Kleinkriminellen handelt, die versehentlich einen 300-Millionen-Dollar-Raub begehen und in einer texanischen Kleinstadt Zuflucht suchen. Der von Jared Cohn inszenierte Film hat bereits Verkäufe in Spanien und Osteuropa gesichert und wird auf dem Cannes-Markt weiter vertrieben. Die Produktion stammt von Sandaled Kid Productions unter James Cullen Bressack, der auch als Produzent fungiert.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "WBD & HBO Max Programming Exec Anke Greifeneder To Be Honored With The Deadline German TV Disruptor Award At Seriencamp",
-          "link": "https://deadline.com/2026/04/wbd-hbo-max-anke-greifeneder-deadline-german-tv-disruptor-award-1236865540/",
-          "summary": "Anke Greifeneder, VP Local Original Production bei Warner Bros. Discovery für Deutschland, Österreich, Schweiz und Frankreich, erhält 2026 den Deadline German TV Disruptor Award auf der Seriencamp in Köln. Die erfahrene Programmexecutive verantwortet seit 2011 lokale Originalproduktionen für HBO Max und hat erfolgreiche Serien wie \"4 Blocks\" betreut, die mehrfach ausgezeichnet wurden. Sie ist die dritte Preisträgerin nach Annette Hess (2024) und Philipp Käßbohrer (2025) und wird für ihre wegweisende Arbeit in der deutschen TV-Landschaft geehrt.",
+          "title": "Sister Takes Majority Stake In Digital-First Label After Party Studios",
+          "link": "https://deadline.com/2026/04/sister-group-buys-after-party-studios-callux-lis-murdoch-1236866887/",
+          "summary": "Sister Group von Elisabeth Murdoch und Jane Featherstone hat eine Mehrheitsbeteiligung an After Party Studios übernommen, einem britischen Digital-First-Label, das sich auf Content für Streamer, Broadcaster und Brands spezialisiert hat. Das 2016 von YouTuber Callux und RVBBERDUCK gegründete Unternehmen produzierte bereits für Sky Sports, Channel 4.0 und Netflix und arbeitet an Projekten wie einer KSI-Dokuserie und MTV UK-Formaten. Die Übernahme stärkt Sisters Portfolio im wachsenden Digital-Content-Segment.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "BBC Buys High-Concept French Sci-Fi Series ‘The Sentinels’",
-          "link": "https://deadline.com/2026/04/bbc-buys-sentinels-studiocanal-1236865574/",
-          "summary": "Die BBC hat die achtteilige französische Sci-Fi-Drama-Serie \"The Sentinels\" von Studiocanal erworben, die auf den Graphic Novels von Xavier Dorison und Enrique Breccia basiert und eine alternative Version des Ersten Weltkriegs erzählt. Die Serie folgt dem verwundeten Soldaten Gabriel Ferraud, der durch ein geheimes Militärprogramm mit einem mysteriösen Serum zu einem übermenschlich starken \"Sentinel\" wird, aber dabei eine erschreckende Wahrheit über den Konflikt entdeckt. Ursprünglich für Canal+ produziert von Federation Studio France und Espirits Frappeurs, wird die Serie international von Studiocanal vertrieben.",
-          "score": 7
+          "title": "Disney+ Strikes Long-Term Production Pact With Japanese Producer The Seven",
+          "link": "https://deadline.com/2026/04/disney-plus-production-deal-the-seven-japan-1236865787/",
+          "summary": "Disney+ hat eine mehrjährige Co-Entwicklungsvereinbarung mit dem japanischen Produktionsunternehmen The Seven (TBS Holdings) geschlossen, um exklusiv japanischsprachige Live-Action-Serien für die Streaming-Plattform zu entwickeln. Dies ist Disneys erste Partnerschaft dieser Art mit einem japanischen Produzenten und Teil der Strategie, lokale Originalinhalte für Disney+ Japan zu stärken. The Seven hatte bereits 2022 einen ähnlichen Deal mit Netflix abgeschlossen, dessen Status bis 2027 noch unklar ist.",
+          "score": 9
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Barack Obama Says His and Michelle’s Production Company Higher Ground Will Go Independent After Netflix Deal Ends",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/barack-michelle-obama-higher-ground-independent-netflix-deal-ending-1236568950/",
-          "summary": "Barack und Michelle Obamas Produktionsfirma Higher Ground beendet nach acht Jahren ihre exklusive Partnerschaft mit Netflix und wird künftig als unabhängiges Unternehmen mit verschiedenen Studios zusammenarbeiten. Die Firma, die bereits 2024 von einem Exklusivvertrag zu einem First-Look-Deal mit Netflix wechselte, produzierte erfolgreiche Projekte wie die Oscar-nominierten Filme \"Rustin\" und \"American Symphony\" sowie den Oscar-prämierten \"American Factory\". Higher Ground beginnt bereits, Projekte außerhalb von Netflix zu entwickeln, darunter die HBO-Comedy-Serie \"Life Larry\".",
+          "title": "Sister Group Buys Majority Stake in Digital-First Producer After Party Studios",
+          "link": "https://www.hollywoodreporter.com/business/business-news/sister-group-after-party-studios-deal-majority-stake-1236569256/",
+          "summary": "Sister Group, das unabhängige Studio von Elisabeth Murdoch und Jane Featherstone (bekannt für \"Black Doves\", \"Chernobyl\"), hat eine Mehrheitsbeteiligung an After Party Studios erworben, einem 2016 gegründeten Digital-First-Produktionsunternehmen. After Party Studios, mitgegründet von YouTuber Callum McGinley und Ex-ITV-Manager Joshua Barnett, produziert Content an der Schnittstelle zwischen Digital- und Mainstream-Medien, darunter Formate für Sky Sports, Channel 4.0 und digitale Inhalte für Netflix. Die Investition soll das Wachstum der Original-IP und Digital-First-Produktionen vorantreiben und erweitert Sister Groups Portfolio um eine weitere spezialisierte Produktionsfirma.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Oliver Jones Exits Apple TV to Join Amazon MGM Studios",
+          "link": "https://www.hollywoodreporter.com/business/business-news/oliver-jones-apple-amazon-mgm-studios-commissioner-scripted-1236570286/",
+          "summary": "Oliver Jones verlässt nach sechs Jahren Apple TV+ und wechselt im Mai als Senior Commissioner für UK Scripted Content zu Amazon MGM Studios, wo er direkt an VP Nicole Clemens berichten wird. Bei Apple TV+ war Jones als Senior Creative Executive für internationale Scripted-Serien verantwortlich und betreute erfolgreiche Produktionen wie \"Monarch: Legacy of Monsters\", \"Masters of the Air\" und \"Tehran\". Der Wechsel ist Teil von Amazons verstärkten Investitionen in den britischen Content-Markt, Jones wird von Los Angeles nach London relocaten.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Disney+ Inks Development Deal to Boost Output of Japanese Live-Action Originals",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/disney-development-deal-japanese-live-action-originals-the-seven-1236570132/",
+          "summary": "Disney+ hat einen mehrjährigen Entwicklungsvertrag mit der Tokyo-basierten Produktionsfirma The Seven abgeschlossen, um die Produktion von japanischen Live-Action-Originalen zu verstärken. Der Deal markiert einen strategischen Wandel für Disney+ in Japan, da das Unternehmen erstmals einen festen Entwicklungspartner für exklusive japanischsprachige Serien bindet, anstatt Projekte einzeln zu akquirieren oder zu koproduzieren. Disney-Teams werden bereits in den frühesten Entwicklungsphasen eingebunden, um gezielt Content für die globale Streaming-Expansion zu schaffen.",
           "score": 9
         },
         {
           "source": "Variety",
-          "title": "BBC Acquires French WWI Super-Soldier Action Series ‘The Sentinels’ From Studiocanal",
-          "link": "https://variety.com/2026/tv/global/bbc-acquires-french-action-series-the-sentinels-1236725775/",
-          "summary": "Die BBC hat die französische WWI-Action-Serie \"The Sentinels\" von Studiocanal erworben, eine ambitionierte Produktion von Canal+, die Superhelden-, Steampunk- und Sci-Fi-Elemente in einem Ersten Weltkrieg-Setting kombiniert. Die Serie, basierend auf der Comic-Reihe von Xavier Dorison und Enrique Breccia, handelt von einem verwundeten Soldaten, der durch ein experimentelles Serum übermenschliche Fähigkeiten erhält und einer Elite-Einheit verstärkter Soldaten beitritt. Die Produktion wurde bereits in über 30 Ländern in Europa, Afrika und Asien ausgestrahlt und stammt von Federation Studios France und Esprits Frappeurs.",
-          "score": 7
+          "title": "Sister Group Buys Majority Stake in U.K. Digital Production Company After Party Studios",
+          "link": "https://variety.com/2026/tv/global/sister-group-buys-digital-production-studio-after-party-1236726053/",
+          "summary": "Sister Group, das transatlantische Medienunternehmen von Jane Featherstone und Elisabeth Murdoch, hat eine Mehrheitsbeteiligung an der britischen Digital-First-Produktionsfirma After Party Studios erworben. Das 2016 von YouTuber Callum McGinley, Regisseur Ben Doyle, CEO Joshua Barnett und Base79-Gründer Richard Mansell gegründete Unternehmen produziert erfolgreiche digitale Inhalte und Branded Entertainment für Plattformen wie Sky Sports, Channel 4.0 und Netflix mit Projekten, die über 150 Millionen Views erreichen. Die Akquisition erweitert Sister Groups Portfolio im wachsenden Segment der digitalaffinen Content-Produktion.",
+          "score": 8
         },
         {
           "source": "Variety",
-          "title": "‘Heated Rivalry’ Season 2 Set for 2027 as Lionsgate Play Pivots to Theatrical-First Hollywood Strategy in India",
-          "link": "https://variety.com/2026/film/news/heated-rivalry-season-2-lionsgate-play-theatrical-hollywood-strategy-india-1236725773/",
-          "summary": "Lionsgate Play kündigt die zweite Staffel von \"Heated Rivalry\" für 2027 an und führt eine neue Theatrical-First-Strategie für den indischen Markt ein, bei der ab September 10-12 ausgewählte Hollywood-Titel zunächst in Kinos laufen, bevor sie auf der Streaming-Plattform verfügbar werden. Das umfangreiche 2026er-Programm umfasst über 100 Premieren mit hochkarätigen Stars wie Russell Crowe, Gerard Butler, Robert Pattinson und Angelina Jolie sowie neue Franchise-Fortsetzungen. Die strategische Neuausrichtung erfolgt unter der Führung von Rohit Jain, der die Plattform Anfang des Jahres von Lionsgate übernommen hat.",
-          "score": 8
+          "title": "German Prod-Co Freud & Ecstasy Set to Open First U.S. Office, Taps Fabrizio Ellis to Lead It (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/global/freud-ecstasy-new-york-fabrizio-ellis-1236721428/",
+          "summary": "Die deutsche Produktionsfirma Freud & Ecstasy, 2025 von Frederik Ehrhardt gegründet und von Nordmedia unterstützt, eröffnet im Mai 2026 ihr erstes US-Büro in New York unter der Leitung von Fabrizio Ellis, der zuvor als Creative Executive bei Mi Alma Films tätig war. Das Unternehmen hat bereits einen Drei-Filme-Deal mit dem für die Goya Awards nominierten Pablo Pagán sowie weiteren aufstrebenden Talenten abgeschlossen und verfolgt eine grenzübergreifende internationale Expansionsstrategie.",
+          "score": 7
         }
       ]
     }
