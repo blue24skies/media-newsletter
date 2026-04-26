@@ -1,133 +1,21 @@
 {
   "newsletters": [
     {
-      "date": "2026-04-25",
+      "date": "2026-04-26",
       "articles": [
-        {
-          "source": "DWDL",
-          "title": "RBB und ARD Degeto setzen \"Krimi aus Brandenburg\" fort",
-          "link": "https://www.dwdl.de/nachrichten/106288/rbb_und_ard_degeto_setzen_krimi_aus_brandenburg_fort/",
-          "summary": "RBB und ARD Degeto produzieren eine Fortsetzung von \"Der Krimi aus Brandenburg\" mit dem Arbeitstitel \"Die Raaben\", nachdem der erste Teil im Januar 2025 mit 5,70 Millionen Zuschauern und über 20% Marktanteil erfolgreich lief. Die Dreharbeiten unter der Regie von Lea Becker haben am 9. April in Senftenberg begonnen, die Ausstrahlung ist für Ende 2026 im \"DonnerstagsKrimi im Ersten\" geplant. In der Fortsetzung ermitteln die Geschwister Tonja und Anton Raabe in einem Cold Case um eine Leiche, die bei Abbrucharbeiten in einem der Braunkohle weichenden Lausitzer Dorf entdeckt wird.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Neue Vorabendserie startet Anfang Juni in Sat.1",
-          "link": "https://www.dwdl.de/nachrichten/106273/neue_vorabendserie_startet_anfang_juni_in_sat1/",
-          "summary": "Sat.1 startet am 1. Juni die neue Vorabendserie \"Frieda - Mit Feuer und Flamme\" (Saxonia Media) mit 162 produzierten Folgen im schwierigen 18-Uhr-Slot, nachdem die aktuellen Formate \"Ein Hof zum Verlieben\" und \"Landarztpraxis\" dort schwache Quoten erzielen. Die Serie um Krankenschwester Frieda (Laura Lippmann) im Elbsandsteingebirge wird vorab ab 29. Mai bei Joyn verfügbar sein.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "ZDF verbindet Island und die DDR in neuer Miniserie",
-          "link": "https://www.dwdl.de/nachrichten/106261/zdf_verbindet_island_und_die_ddr_in_neuer_miniserie/",
-          "summary": "Das ZDF produziert zusammen mit internationalen Partnern die vierteilige Miniserie \"Vanished - Cold Silence\", die als Familiendrama und politischer Thriller die historische Verbindung zwischen Island und der DDR thematisiert. Die Serie mit Stefania Berndsen und Jörg Schüttauf verknüpft zwei Systembrüche - das Ende der DDR und Islands Finanzkrise - in einer Handlung um eine deutsch-isländische Polizistin, die 2010 durch einen Leichenfund mit dem Verschwinden ihres Vaters 1991 konfrontiert wird. Die Dreharbeiten in Island und Berlin sind bereits angelaufen, ein Sendetermin steht noch nicht fest.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Radio Advertising Summit: Wie sich Marken mit Audio einen &quot;Unfair Advantage&quot; schaffen können",
-          "link": "https://www.horizont.net/medien/nachrichten/radio-advertising-summit-wie-sich-marken-mit-audio-einen-unfair-advantage-schaffen-koennen-234118?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Neue neuroökonomische Studien bestätigen die besondere Wirksamkeit von Audio-Werbung und zeigen, dass der Slogan \"Geht ins Ohr, bleibt im Kopf\" der Radiozentrale wissenschaftlich fundiert ist. Auf dem Radio Advertising Summit wurden Strategien präsentiert, wie sich Marken durch gezielten Audio-Einsatz einen \"Unfair Advantage\" verschaffen können. Die Erkenntnisse untermauern das Potenzial von Audio-Marketing für eine effektive Kundenansprache.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Aufstieg mit Hindernissen: Wie der Podcast-Werbemarkt in Deutschland weiter wachsen soll",
-          "link": "https://www.horizont.net/medien/nachrichten/aufstieg-mit-hindernissen-wie-der-podcast-werbemarkt-in-deutschland-weiter-wachsen-soll-234063?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der deutsche Podcast-Werbemarkt wächst trotz der Krise im gesamten Audiowerbemarkt weiter, wobei Host-Read-Ads aktuell den Großteil der Werbeeinnahmen generieren. Zur Verbesserung der Skalierbarkeit und Monetarisierung setzen Anbieter verstärkt auf programmatische Spots und Presenter-Ads als Alternative zu den personalisierten Host-Formaten.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Radio Advertising Summit: Hat das große Umdenken in der Mediaplanung begonnen?",
-          "link": "https://www.horizont.net/medien/nachrichten/radio-advertising-summit-hat-das-grosse-umdenken-in-der-mediaplanung-begonnen-234112?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Beim Radio Advertising Summit 2026 wurde deutlich, dass Werbetreibende ein Umdenken in der Mediaplanung vollziehen und erkennen, dass sie Performance Marketing überstrapaziert haben. Branding und Brand Safety gewinnen wieder an Bedeutung, während die Branche nach nachhaltigen Werbestrategien für 2030 sucht.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Radio Advertising Summit: Audio-Euphorie und optimistische Blicke in die Zukunft",
-          "link": "https://www.horizont.net/medien/nachrichten/radio-advertising-summit-audio-euphorie-und-optimistische-blicke-in-die-zukunft-234102?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der Radio Advertising Summit fokussierte sich darauf, die Begeisterung der Werbekunden für Audio-Marketing zu erneuern. Radiozentrale-Geschäftsführerin Grit Leithäuser und ein Wirtschaftsphilosoph vermittelten optimistische Zukunftsperspektiven für die Audio-Branche. Die Veranstaltung bot umfassende Impulse zur strategischen Entwicklung des Audio-Marketings.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Experten-Umfrage : Wie Audio attraktiver für Werbekunden wird",
-          "link": "https://www.horizont.net/medien/nachrichten/experten-umfrage-wie-audio-attraktiver-fuer-werbekunden-wird-234044?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Big-Tech-Konzerne bedrohen zunehmend das Werbegeschäft der traditionellen Audiobranche durch ihre dominante Marktposition. HORIZONT befragte fünf Geschäftsführer und Audio-Experten zu Strategien, wie Sender und Vermarkter ihre Attraktivität für Werbekunden steigern können, um dieser Herausforderung zu begegnen.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Exklusiv-Ranking: Das sind die Top 30 Radio-Werbespender in Deutschland",
-          "link": "https://www.horizont.net/medien/nachrichten/exklusiv-ranking-das-sind-die-top-30-radio-werbespender-in-deutschland-234003?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der deutsche Radiowerbemarkt blieb 2025 mit 2,1 Millionen Euro brutto stabil auf Vorjahresniveau, geriet jedoch seit Anfang 2026 in eine Krise. Das Ranking der Top 30 Radio-Werbespender zeigt, welche Unternehmen trotz der aktuellen Herausforderungen noch Budget für Hörfunkwerbung investieren.",
-          "score": 7
-        },
         {
           "source": "kress",
           "title": "\"Doppelstrukturen abbauen\": RTL-Chef Rabe kündigt nach Sky-Übernahme Stellenabbau an Es ist der größte Deal in der Geschichte von RTL: Die EU-Kommission genehmigt die Sky-Übernahme ohne Auflagen. Bertelsmann-Chef Thomas Rabe kündigt im Handelsblatt-Interview Personalabbau an",
           "link": "https://kress.de/news/beitrag/152533-quot-doppelstrukturen-abbauen-quot-rtl-chef-rabe-kuendigt-nach-sky-uebernahme-stellenabbau-an.html",
-          "summary": "Die EU-Kommission hat RTLs Übernahme von Sky Deutschland ohne Auflagen genehmigt – der größte Deal in der RTL-Geschichte für 150 Millionen Euro plus bis zu 377 Millionen Euro variable Komponente. RTL-Chef Thomas Rabe kündigt Stellenabbau durch den Abbau von Doppelstrukturen an und plant 250 Millionen Euro jährliche Synergien binnen drei Jahren. Mit zwölf Millionen kombinierten Abonnenten sieht sich RTL nun in \"Schlagweite zu Amazon Prime und Netflix\" und strebt langfristig 15 Millionen Abonnenten an.",
+          "summary": "Die EU-Kommission hat RTL Deutschlands Übernahme von Sky Deutschland für 150 Millionen Euro plus bis zu 377 Millionen Euro variable Zahlung ohne Auflagen genehmigt – der größte Deal in RTL-Geschichte. Bertelsmann-Chef Thomas Rabe kündigt Stellenabbau durch Abbau von Doppelstrukturen an, um binnen drei Jahren 250 Millionen Euro jährliche Synergien zu erreichen. Mit zwölf Millionen Abonnenten sieht sich RTL nun in \"Schlagweite\" zu Netflix und Amazon Prime und plant Ausbau auf 15 Millionen Kunden.",
+          "score": 9
+        },
+        {
+          "source": "kress",
+          "title": "Zero-Click-Ära: Warum Publisher jetzt eine Doppelstrategie brauchen Blocken, aussperren, abwarten",
+          "link": "https://kress.de/news/beitrag/152532-zero-click-aera-warum-publisher-jetzt-eine-doppelstrategie-brauchen.html",
+          "summary": "Publisher müssen in der Zero-Click-Ära eine Doppelstrategie verfolgen: Statt nur defensiv zu agieren, sollten sie eigene Kanäle wie Newsletter, Apps und Communities als Rückgrat ihrer Geschäftsmodelle ausbauen, um direkten Publikumszugang zu sichern. Gleichzeitig müssen sie ihre Websites zu \"Signalankern\" für Antwortsysteme entwickeln, indem sie originäre Daten, exklusive Recherchen und einzigartige Inhalte produzieren statt austauschbarer Standardtexte. Eine reine Abschottungsstrategie gegen KI-Crawler greift zu kurz - entscheidend ist die aktive Monetarisierung der eigenen Datenposition und Autorität.",
           "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Radio Advertising Summit 2026 Steuert Vertrauen den Mediaplan der Zukunft?",
-          "link": "https://meedia.de/news/beitrag/21646-steuert-vertrauen-den-mediaplan-der-zukunft.html",
-          "summary": "Auf dem Radio Advertising Summit 2026 in Köln diskutierten Branchenexperten die Rolle von Vertrauen als Qualitätsfaktor für zukünftige Media-Entscheidungen in Zeiten von KI, Medienfragmentierung und BigTech-Dominanz. Nestlé-Marketingchefin Maike Abel verkündete eine strategische Kehrtwende ihres Unternehmens hin zu Nachrichtenumfeldern, nachdem Analysen deren Werbewirksamkeit bestätigt hatten. Die Veranstaltung kombinierte Entertainment-Elemente mit fachlichen Diskussionen über die Zukunft der Mediaplanung und Vermarktungschancen im Audio-Bereich.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Für Martial-Arts-Events Banijay startet mit ShowdownTV ein zweite Streaming-Plattform Ob Banijay-Germany-CEO Marcus Wolter wohl mit dieser Geschäftsidee voll auf die Zwölf haut? Die Vermarktungstochter Banijay Media Germany erweitert ihr Plattformgeschäft und startet mit ShowdownTV einen eigenen Streamingdienst. Es geht dabei um einen ziemlich weit gefassten Entertainment-Begriff",
-          "link": "https://meedia.de/news/beitrag/21645-banijay-startet-mit-showdowntv-ein-zweite-streaming-plattform.html",
-          "summary": "Banijay Media Germany startet mit ShowdownTV eine zweite Streaming-Plattform neben MySpass, die sich auf Martial Arts und Kampfsport-Events spezialisiert. Der neue Service überträgt ab 25. April die „Ringlife Combat Series 7\" live als kostenpflichtigen Stream für 12,99 Euro und umfasst auch bestehende Formate wie „TV total Promi Wrestling\" sowie neue Eigenproduktionen. Die Plattform setzt auf den aktuellen Trend des Martial Arts-Genres, das laut dem Bericht weltweit eine mediale Aufwertung erfährt.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Schwieriger Sendeplatz Neue Serie \"Frieda\" soll bei Sat.1 am Vorabend Feuer löschen Sat.1 will das Herzklopfen mit Fiction am Vorabend in Gang halten. Ab 1. Juni soll sich “Frieda",
-          "link": "https://meedia.de/news/beitrag/21643-neue-serie-quot-frieda-quot-soll-bei-sat-1-am-vorabend-feuer-loeschen.html",
-          "summary": "Sat.1 startet ab 1. Juni die neue Fiction-Serie \"Frieda – Mit Feuer und Flamme\" um 18 Uhr als Nachfolger der quotenschwachen Serie \"Ein Hof zum Verlieben\". Die von Saxonia Media produzierte 162-teilige Serie setzt auf bewährte Vorabend-Dramaturgie mit einer alleinerziehenden Intensivkrankenschwester, die in ihrer Heimat im Elbsandsteingebirge gegen die Schließung der örtlichen Feuerwehr kämpft. Das Format kombiniert Drama, Heimatgeschichte und Romance-Elemente in der für den Sendeplatz typischen Mischung aus lokalen Konflikten und starken Charakteren.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Radio Advertising Summit 2026 Hat Audio einen unfair advantage oder ist der Werbemarkt einfach nur unfair?",
-          "link": "https://meedia.de/news/beitrag/21636-hat-audio-einen-unfair-advantage-oder-ist-der-werbemarkt-einfach-nur-unfair.html",
-          "summary": "Beim Radio Advertising Summit 2026 diskutierte die Audiobranche das Spannungsfeld zwischen mangelnder Aufmerksamkeit der Werbewirtschaft und dem Potenzial von Audio als wichtiges Kommunikationsmedium in visuell überreizten Zeiten. RMS-Chef Stefan Mölling forderte kämpferisch \"Wir müssen lauter werden\", da die Umsätze trotz stabiler Entwicklung gemessen an der Mediennutzung noch zu niedrig sind. Die Branchenveranstaltung versuchte den Spagat zwischen Selbstkritik und Aufbruchstimmung in der Radio- und Audiowerbung.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "iHeartMedia Shares Jump After Report Of Early Merger Talks With SiriusXM",
-          "link": "https://deadline.com/2026/04/iheartmedia-siriusxm-merger-report-shares-jump-1236871348/",
-          "summary": "iHeartMedia-Aktien stiegen um über 35% nach Berichten über erste Fusionsgespräche mit SiriusXM, wobei die Verhandlungen noch in frühen Stadien sind und ein Deal ungewiss bleibt. SiriusXM hat eine Marktkapitalisierung von 9,42 Milliarden Dollar gegenüber iHeartMedias 605,89 Millionen Dollar, während beide Unternehmen ihre Diversifikation in den wachsenden Podcast-Bereich vorantreiben. Eine Fusion würde zwei große Player im Audio-Entertainment-Sektor zusammenführen - SiriusXM mit 33 Millionen Abonnenten und iHeartMedia als Nr. 1 Podcast-Publisher in den USA mit 250 Millionen monatlichen Hörern.",
-          "score": 9
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "SiriusXM, iHeartMedia Eye Merger, With Irving Azoff and Apollo in Mix",
-          "link": "https://www.hollywoodreporter.com/business/business-news/siriusxm-iheartmedia-eye-deal-1236575266/",
-          "summary": "SiriusXM und iHeartMedia, der größte US-Radiosender-Betreiber mit über 860 Stationen, befinden sich in frühen Fusionsgesprächen, wobei Musik-Mogul Irving Azoff und Private-Equity-Firma Apollo Global Management als Vermittler fungieren. Beide Unternehmen haben angesichts rückläufiger Radio-Hörerzahlen auf Podcasts als Wachstumsmotor gesetzt. iHeartMedia hatte 2018 Insolvenz angemeldet und arbeitet seitdem an einem Turnaround, während SiriusXM als größter Satellitenradio-Anbieter mit prominenten Talenten wie Howard Stern positioniert ist.",
-          "score": 9
-        },
-        {
-          "source": "Variety",
-          "title": "Javier Ambrossi and Javier Calvo and Movistar Plus+ Bow Produce ‘I Always Sometime,’ A Vision of Breadline Motherhood in Gentrified Barcelona",
-          "link": "https://variety.com/2026/tv/global/marta-bassols-loza-i-always-sometimes-canneseries-1236730330/",
-          "summary": "Movistar Plus+ und die Produzenten Javier Ambrossi/Javier Calvo (\"Veneno\") präsentieren die sechsteilige Halbstunden-Serie \"I Always Sometimes\" auf Canneseries, die von Marta Bassols und Marta Loza entwickelt wurde. Die Serie folgt Laura, einer Berliner Festivalorganisatorin, die nach einer schnellen Schwangerschaft vom Partner verlassen wird und als alleinerziehende Mutter in verschiedenen Unterkünften im gentrifizierten Barcelona um bezahlbaren Wohnraum kämpft. Das Format thematisiert prekäre Mutterschaft und Wohnungsnot in der durch Tourismus überteuerten katalanischen Metropole.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "iHeartRadio and SiriusXM in Early Merger Talks, With Irving Azoff and Apollo Advising",
-          "link": "https://variety.com/2026/digital/news/iheartmedia-siriusxm-merger-talks-azoff-apollo-advising-1236730151/",
-          "summary": "iHeartMedia und SiriusXM befinden sich in frühen Fusionsgesprächen, wobei Branchenveteran Irving Azoff und Apollo Global Management beratend unterstützen. Die potenzielle Fusion würde das größte terrestrische Radionetzwerk der USA (iHeart mit 850+ Stationen und 250 Millionen monatlichen Hörern) mit dem größten Satellitenradio-Anbieter (SiriusXM mit 33 Millionen Abonnenten) zu einem Audio-Powerhouse vereinen. Ziel ist es, durch größere Skalierung und Künstlerpartnerschaften gegen die wachsende Konkurrenz durch Streaming-Dienste zu bestehen.",
-          "score": 9
         }
       ]
     }
