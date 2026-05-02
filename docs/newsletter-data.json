@@ -1,139 +1,111 @@
 {
   "newsletters": [
     {
-      "date": "2026-05-01",
+      "date": "2026-05-02",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Bares für Burgener: Highlight ist weiter auf Investoren-Suche",
-          "link": "https://www.dwdl.de/nachrichten/106339/bares_fuer_burgener_highlight_ist_weiter_auf_investorensuche/",
-          "summary": "Highlight Communications AG von Bernhard Burgener verzeichnet trotz 2% Umsatzsteigerung auf 412,1 Mio. CHF massive Verluste mit einem Betriebsergebnis von -131,8 Mio. CHF und negativem Eigenkapital von -3,3 Mio. CHF. Während Constantin Film mit Erfolgen wie \"Das Kanu des Manitu\" 75% der Erlöse generiert, bricht das Sport-Segment um Sport1 mit 33% Umsatzrückgang dramatisch ein. Der Aktienkurs markierte mehrfach neue Tiefststände, die Marktkapitalisierung wurde in vier Jahren um über 70% vernichtet.",
-          "score": 8
+          "title": "DAZN kauft Streaming- und Technologieanbieter ViewLift",
+          "link": "https://www.dwdl.de/nachrichten/106351/dazn_kauft_streaming_und_technologieanbieter_viewlift/",
+          "summary": "DAZN übernimmt für rund 100 Millionen Dollar den US-amerikanischen Streaming-Technologieanbieter ViewLift, der führende NBA-, NHL- und MLB-Teams mit technischer Infrastruktur für eigene Streaming-Plattformen betreut. Die Akquisition stärkt DAZNs operative Präsenz im fragmentierten US-Sportmarkt und erweitert das Geschäftsmodell um skalierbare B2B2C- und SaaS-Lösungen für Ligen und Vereine. ViewLift soll als eigenständige Einheit innerhalb von DAZN agieren und dessen globale Reichweite mit etablierten US-Sport-Beziehungen kombinieren.",
+          "score": 9
         },
         {
           "source": "DWDL",
-          "title": "Frische-Ranking: ProSieben legt im April zu, ZDF ganz vorn",
-          "link": "https://www.dwdl.de/nachrichten/106332/frischeranking_prosieben_legt_im_april_zu_zdf_ganz_vorn/",
-          "summary": "Im April 2026 führt das ZDF das Frische-Ranking mit 89 von 100 Punkten an, gefolgt von RTL (86) und Das Erste (84), während ProSieben seinen Frische-Anteil deutlich auf 67 Punkte steigern konnte. Trotz des April-Anstiegs zeigen die Privatsender im Jahresvergleich Januar-April einen rückläufigen Trend bei linearen Erstausstrahlungen, besonders RTLzwei (-9 Prozentpunkte auf 30%) und Sat.1 (-8 Prozentpunkte auf 49%). Vox konnte sich nach schwachem Jahresstart erholen und liegt mit 38% Jahresschnitt wieder nahe dem Vorjahresniveau.",
+          "title": "Spektakuläres Bayern-Spiel beschert Amazon neuen Rekord",
+          "link": "https://www.dwdl.de/zahlenzentrale/106342/spektakulaeres_bayernspiel_beschert_amazon_neuen_rekord/",
+          "summary": "Amazon Prime Video erreichte mit der Übertragung des Champions League-Halbfinales zwischen PSG und Bayern München (5:4) einen neuen Reichweiten-Rekord von über 5 Millionen Haushalten - erstmals durchbrach eine Fußball-Übertragung bei Prime Video diese Marke. Der bisherige Rekord lag bei 4,5 Millionen Haushalten, erreicht bei Bayern vs. Real Madrid und BVB vs. PSG im Jahr 2024. Amazon gibt keine Details zur Messmetrik preis, betont aber die hohe Resonanz auf kostenlose Champions League-Übertragungen für Prime-Mitglieder.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Radio Bremen übernimmt: Gerner wird nächste ARD-Vorsitzende",
-          "link": "https://www.dwdl.de/nachrichten/106344/radio_bremen_uebernimmt_gerner_wird_naechste_ardvorsitzende/",
-          "summary": "Radio Bremen übernimmt zum Jahreswechsel 2027 den ARD-Vorsitz von Florian Hager (HR) und wird damit erstmals seit 1952 wieder die kleinste ARD-Anstalt an der Spitze stehen. Yvette Gerner wird neue ARD-Vorsitzende, wobei der Vorsitz nur ein Jahr dauern soll, bevor 2028 voraussichtlich der NDR übernimmt. Die ARD setzt dabei weiterhin auf das neue Modell der Arbeitsteilung mit mehreren Kooperationspartnern statt der traditionellen Alleinverantwortung einer Anstalt.",
+          "title": "Stockende Verhandlungen: Warnstreiks bei WDR und NDR",
+          "link": "https://www.dwdl.de/nachrichten/106338/stockende_verhandlungen_warnstreiks_bei_wdr_und_ndr/",
+          "summary": "Gewerkschaften streiken bei WDR (24h) und NDR aufgrund gescheiterter Tarifverhandlungen - sie fordern 7% Lohnerhöhung bei einjähriger Laufzeit, während die Sender nur 0% für 2026 und je 1-2% für 2027/28 über drei Jahre anbieten. Die Sender verknüpfen höhere Angebote mit einer noch unsicheren Rundfunkbeitragserhöhung, was die Gewerkschaften als unzumutbare Risikoverlagerung auf die Beschäftigten kritisieren.",
           "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Yvette Gerner folgt auf Florian Hager: ARD-Vorsitz wechselt vom Hessischen Rundfunk zu Radio Bremen",
-          "link": "https://www.horizont.net/medien/nachrichten/yvette-gerner-folgt-auf-florian-hager-ard-vorsitz-wechselt-vom-hessischen-rundfunk-zu-radio-bremen-234199?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Yvette Gerner, Intendantin von Radio Bremen, wird zum 1. Januar 2027 neue ARD-Vorsitzende und löst damit Florian Hager vom Hessischen Rundfunk ab. Hager, der seit 2025 den ARD-Vorsitz innehat, wechselt in die Position des stellvertretenden Vorsitzenden.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Erst einkaufen, dann streamen: Edeka-Kunden bekommen RTL+ zum Vorzugspreis",
-          "link": "https://www.horizont.net/medien/nachrichten/erst-einkaufen-dann-streamen-edeka-kunden-bekommen-rtl-zum-vorzugspreis-234197?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "RTL und Edeka haben eine strategische Partnerschaft zur gegenseitigen Kundenbindung und -akquisition geschlossen. Kunden der Edeka-App erhalten ab einem bestimmten Umsatz ein RTL+-Abonnement zu vergünstigten Konditionen. Die Kooperation verbindet Einzelhandel und Streaming-Services zur Stärkung der jeweiligen Kundenbasis.",
-          "score": 8
         },
         {
           "source": "kress",
-          "title": "\"Ich bin frei. Und ich bleibe frei\": Philipp Welte kandidiert nicht mehr für den MVFP-Vorsitz Nach seinem überraschenden Abgang bei Burda zieht sich Philipp Welte nun auch aus dem MVFP zurück. In einem offenen Brief an die Mitgliedsverlage erklärt er: Wer den Verband führt, muss operativ in einem Verlag verwurzelt sein. Er ist es nicht mehr",
-          "link": "https://kress.de/news/beitrag/152728-quot-ich-bin-frei-und-ich-bleibe-frei-quot-philipp-welte-kandidiert-nicht-mehr-fuer-den-mvfp-vorsitz.html",
-          "summary": "Philipp Welte kandidiert nicht mehr für den MVFP-Vorsitz, da die Verbandssatzung eine operative Verankerung in einem Verlag voraussetzt, die er seit seinem Burda-Abgang Ende 2025 nicht mehr hat. In seinem Rücktrittsbrief zeichnet der langjährige Verbandschef ein düsteres Bild der Medienbranche, die von Tech-Monopolisten beherrscht und in ihrer Monetarisierung bedroht sei. Er warnt vor den demokratiegefährdenden Folgen von Desinformation und fordert einen neuen gesellschaftspolitischen Konsens zum Schutz verlässlicher Medien.",
+          "title": "Nachrichtenwüste Greiz: Wenn der Lokaljournalismus wegbricht, übernehmen andere",
+          "link": "https://kress.de/news/beitrag/152727-nachrichtenwueste-greiz-wenn-der-lokaljournalismus-wegbricht-uebernehmen-andere-auch-die-afd.html",
+          "summary": "Die Funke-Mediengruppe stellte 2023 die Druckausgabe der \"Ostthüringer Zeitung\" in elf Gemeinden um Greiz ein und erklärte die Region zur \"Modellregion für die Digitalisierung des ländlichen Raums\". Das Experiment scheiterte jedoch: 47 Prozent der rund 300 Abonnenten gingen dem Verlag bei der Umstellung auf Digital-Abos verloren. Eine Analyse im Rahmen des Dialogprojekts \"Lückenfüller - Leben ohne Zeitung?\" untersucht die weitreichenden Folgen für den Lokaljournalismus und die Informationsversorgung der Bevölkerung in der dünn besiedelten Region.",
           "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "„Mach's gut\": Deniz Yücel verabschiedet sich nach elf Jahren von der Welt Was auf den Tag genau vor elf Jahren begann, endet morgen in aller Freundschaft\"",
+          "link": "https://kress.de/news/beitrag/152725-mach-039-s-gut-quot-deniz-yuecel-verabschiedet-sich-nach-elf-jahren-von-der-welt.html",
+          "summary": "Deniz Yücel verlässt nach exakt elf Jahren die Welt-Redaktion und kündigte seinen Abgang via X an, wobei er sich bei Herausgeber Ulf Poschardt und Senior Editor Daniel-Dylan Böhmer bedankte. Yücel, einer der bekanntesten Journalisten der Welt-Gruppe, wurde von 2017-2018 ohne Anklageschrift in einem türkischen Hochsicherheitsgefängnis inhaftiert und später in Abwesenheit verurteilt, bevor der Europäische Gerichtshof für Menschenrechte 2022 die Türkei wegen Verletzung seiner Menschenrechte verurteilte.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Der große Widerspruch des Holger Friedrich Schon seit mehr als sechs Jahren ist Holger Friedrich im Mediengeschäft.",
+          "link": "https://kress.de/news/beitrag/152550-der-grosse-widerspruch-des-holger-friedrich.html",
+          "summary": "Holger Friedrich, Verleger der \"Berliner Zeitung\", reagierte in einem Artikel auf die kress-Berichterstattung über den Abgang der Chefreporterin Anja Reich-Osang und wies dabei scharf die Kritik des Ex-Mitarbeiters Franz Sommerfeld zurück, der dem Blatt vorwarf, zu einem Instrument zur Förderung der AfD und für Verständnis russischer Politik zu werden. Kress-Chefredakteur Markus Wiegand kritisiert, dass Friedrich seine Leser im Unklaren darüber ließ, dass es sich bei Sommerfelds Äußerungen um dessen persönliche Meinung handelte, die kress weder prominent hervorhob noch sich zu eigen machte.",
+          "score": 8
         },
         {
           "source": "kress",
           "title": "Was Mathias Döpfner seinen Kritikern in den USA zu sagen hat Springer-Chef Mathias Döpfner hat bei...",
           "link": "https://kress.de/news/beitrag/152551-was-mathias-doepfner-seinen-kritikern-in-den-usa-zu-sagen-hat.html",
-          "summary": "Springer-Chef Mathias Döpfner verteidigte in einem Gespräch mit US-Mitarbeitern die Unternehmenswerte des Konzerns, nachdem diese seine kontroversen Texte zum Nahost-Konflikt und die öffentliche Ausstellung der Springer-Essentials in den US-Büros kritisiert hatten. Döpfner machte deutlich, dass die Unternehmenswerte für alle Beschäftigten gelten und empfahl Kritikern, bei anderen Unternehmen zu arbeiten, falls sie die Werte nicht teilen. Die Diskussionen um journalistische Unabhängigkeit bei Springer bestehen seit der Politico-Übernahme 2021, wobei US-Mitarbeiter die Essentials bislang nicht vertraglich unterzeichnen mussten.",
-          "score": 7
+          "summary": "Springer-Chef Mathias Döpfner verteidigte in einem internen Gespräch mit US-Mitarbeitern die umstrittenen Unternehmenswerte des Konzerns, nachdem diese seine pro-israelischen und transatlantischen Texte sowie die öffentliche Ausstellung der Firmengrundsätze kritisiert hatten. Döpfner machte deutlich, dass die \"Essentials\" für alle Beschäftigten gelten und empfahl Kritikern, zu anderen Unternehmen zu wechseln, falls sie sich nicht mit den Werten identifizieren können. Die Diskussionen um journalistische Unabhängigkeit bei Springer in den USA schwelen bereits seit der Politico-Übernahme 2021.",
+          "score": 8
         },
         {
           "source": "kress",
           "title": "Bertelsmann vor Mega-Transaktion: BMG plant Fusion mit Concord Bertelsmann legt sich eine mächtige vierte Unternehmenssäule zu.",
           "link": "https://kress.de/news/beitrag/152549-bertelsmann-vor-mega-transaktion-bmg-plant-fusion-mit-concord.html",
-          "summary": "Bertelsmann fusioniert seine Musiksparte BMG mit dem US-Konkurrenten Concord zu einem neuen Unternehmen mit 2,2 Milliarden US-Dollar Jahresumsatz, bei dem Bertelsmann 67% der Anteile hält. Die Transaktion, die noch kartellrechtlich genehmigt werden muss, macht BMG zur vierten großen Ertragssäule des Konzerns neben RTL, Penguin Random House und Arvato. Der Deal erfolgt parallel zur geplanten Übergabe der Konzernführung von Thomas Rabe an Thomas Coesfeld zum 1. Januar 2027.",
-          "score": 8
+          "summary": "Bertelsmann fusioniert seine Musiksparte BMG mit dem US-Konkurrenten Concord zu einem neuen Unternehmen mit 2,2 Milliarden US-Dollar Jahresumsatz, wobei Bertelsmann 67% und der Concord-Eigentümer 33% halten wird. Die Transaktion, die im vierten Quartal 2026 abgeschlossen werden soll, macht BMG zur vierten tragenden Säule des Konzerns neben RTL, Penguin Random House und Arvato. Das fusionierte Unternehmen wird Rechte an vier Millionen Songs besitzen und soll mittelfristig ein Ebitda von 1,2 Milliarden Dollar erreichen.",
+          "score": 9
         },
         {
           "source": "kress",
           "title": "1 besteht von Mai an wieder aus drei Personen.",
           "link": "https://kress.de/news/beitrag/152545-luca-poloni-zieht-als-coo-in-den-vorstand-von-prosiebensat-1-ein.html",
-          "summary": "Luca Poloni, langjähriger Manager des italienischen Medienkonzerns MFE, wird ab Mai als COO in den Vorstand von ProSiebenSat.1 berufen und komplettiert damit das dreiköpfige Führungsgremium. Der Technologie-Experte soll die Bereiche Growth & Digital Business, Technologie, Data & AI sowie Content Operations verantworten und die digitale Transformation des deutschen TV-Konzerns vorantreiben. Die Berufung erfolgt für drei Jahre und ist Teil der strategischen Neuausrichtung nach der MFE-Übernahme von ProSiebenSat.1.",
+          "summary": "Luca Poloni wird neuer COO und dritter Vorstand von ProSiebenSat.1, nachdem er bereits seit Oktober 2023 in der Unterföhringer Zentrale tätig war und zuvor zehn Jahre in Führungspositionen bei Media for Europe (MFE) arbeitete. Der für drei Jahre berufene Manager wird Growth & Digital Business, Technologie, Data & AI, Content Operations, Distribution und Human Resources verantworten. Die Ernennung ist Teil der strategischen Neuausrichtung auf Technologie und digitale Geschäftsmodelle nach der Übernahme durch den italienischen Medienkonzern MFE.",
+          "score": 9
+        },
+        {
+          "source": "meedia",
+          "title": "Ein mediales KI-Experiment Der künstliche Wirtschaftsexperte des ZDF: beeindruckend und beängstigend Der ZDF-Wirtschaftsexperte Florian Neuhann ist dorthin gegangen, wo es richtig wehtut. Er hat sich klonen lassen und versucht, das optimale Ergebnis zu erzielen. Mit der Frage im Hintergrund: Kann mich die KI ersetzen? Dafür wurde ein KI-Avatar entwickelt, der nicht nur Aussehen und Stimme imitiert, sondern auch Analyse und Argumentation nachbilden soll. Die Ergebnisse fallen differenziert aus",
+          "link": "https://meedia.de/news/beitrag/21684-der-kuenstliche-wirtschaftsexperte-des-zdf-beeindruckend-und-beaengstigend.html",
+          "summary": "Das ZDF führte ein KI-Experiment durch, bei dem Wirtschaftsexperte Florian Neuhann einen digitalen Avatar erstellen ließ, der sein Aussehen, seine Stimme sowie seine analytischen Fähigkeiten nachbildet. Der \"KI-Florian\" gab im ZDF-Morgenmagazin ein Live-Interview mit inhaltlich korrekten, aber leblos vorgetragenen Antworten, die eher für Nachrichtensendungen als für dialogische Formate geeignet erschienen. Die zugehörige Dokumentation über die Frage \"Kann KI Journalisten ersetzen?\" lief am Tag der Arbeit und zeigt differenzierte, teils überraschende Ergebnisse auf.",
           "score": 8
         },
         {
-          "source": "meedia",
-          "title": "Mehr als 5 Millionen Haushalte sahen zu Paris Saint-Germain und der FC Bayern bescheren Prime Video...",
-          "link": "https://meedia.de/news/beitrag/21688-paris-saint-germain-und-der-fc-bayern-bescheren-prime-video-einen-neuen-alltime-rekord.html",
-          "summary": "Das Champions League-Halbfinale zwischen Paris Saint-Germain und Bayern München erzielte bei Prime Video einen neuen Streaming-Rekord mit über 5 Millionen deutschen Haushalten. Die bisherigen Rekorde hielten ebenfalls Champions League-Spiele mit Bayern München und Borussia Dortmund, die jeweils mehr als 4,5 Millionen Haushalte erreichten. Diese Haushaltszahlen sind jedoch nicht direkt mit den AGF-Quoten des linearen Fernsehens vergleichbar, da diese Einzelpersonen über die komplette Sendelänge messen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "MEEDIA-Umfrage, angelehnt an den GWA-Frühjahrsmonitor Was Mediaagenturen zu Ghosting in Pitches,...",
-          "link": "https://meedia.de/news/beitrag/21675-was-mediaagenturen-zu-ghosting-in-pitches-transformations-chancen-und-zukunftsfaehiger-aufstellung-sagen.html",
-          "summary": "Eine MEEDIA-Umfrage unter sieben Mediaagenturen zeigt unterschiedliche Erfahrungen mit Ghosting in Pitches - während Publicis Media das Phänomen noch nicht erlebt hat, bestätigt Mediaplus-Chef Matthias Brüll das Problem. Die Befragung spiegelt Ergebnisse des GWA-Frühjahrsmonitors wider, der einen starken Transformationsdruck durch KI-Integration aufzeigt, und umfasst Agenturen wie Dentsu, EssenceMediacom, Media Plan, UM und Unbound Media. Der Artikel untersucht, inwieweit die angespannte Branchenlage auch Mediaagenturen betrifft.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Taboola, The Trade Desk, Triplelift, Rock&Stars, Pubmatic Vom Tool zur Entscheidung: Wie KI-Agenten die Werbung neu organisieren wollen Fünf Pressemitteilungen in den letzten sieben Tagen, und alle haben nur ein Thema: AdTech-Companies stellen ihre KI-gesteuerten Workflows vor. Künstliche Intelligenz automatisiert nicht mehr nur einzelne Aufgaben, sondern greift zunehmend in die Steuerung ganzer Kampagnen ein. Die neuen agentische Systeme versprechen Effizienz, bessere Ergebnisse und weniger manuelle Arbeit",
-          "link": "https://meedia.de/news/beitrag/21678-vom-tool-zur-entscheidung-wie-ki-agenten-die-werbung-neu-organisieren-wollen.html",
-          "summary": "AdTech-Unternehmen wie Taboola, The Trade Desk, Triplelift, Rock&Stars und Pubmatic haben binnen einer Woche neue KI-gesteuerte agentische Systeme vorgestellt, die nicht mehr nur einzelne Tasks automatisieren, sondern eigenständig ganze Kampagnen-Workflows steuern. Diese KI-Agenten versprechen höhere Effizienz, bessere Performance und geringere Kosten, werfen jedoch gleichzeitig Fragen bezüglich Kontrolle, Transparenz und Abhängigkeiten auf. Erste Pilotprojekte zeigen bereits messbare Verbesserungen wie niedrigere CPMs und automatisierte Budget-Optimierung.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Netflix & Left Bank Launch ‘Dept. Q’ Training Programme",
-          "link": "https://deadline.com/2026/05/dept-q-netflix-left-bank-training-programme-1236877887/",
-          "summary": "Netflix und Left Bank Pictures starten ein Ausbildungsprogramm für die Erfolgsserie \"Dept. Q\", das 20 bezahlte Trainee-Stellen für schottische Nachwuchstalente in verschiedenen Produktionsbereichen anbietet. Das Programm wird von Sony Pictures und Screen Scotland unterstützt und soll lokalen Talenten praktische Erfahrungen bei einer Großproduktion ermöglichen. Die Initiative reagiert auch auf frühere Kritik bezüglich der Beschäftigung schottischer Crew-Mitglieder bei lokal gedrehten Produktionen.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "CJ ENM, TBS & U-Next Holdings Launch Korea-Japan Joint Venture StudioMonowa",
-          "link": "https://deadline.com/2026/04/cj-enm-tbs-u-next-holdings-korea-japan-studiomonowa-1236877850/",
-          "summary": "CJ ENM, TBS und U-Next Holdings haben das Joint Venture StudioMonowa gegründet, um koreanische und japanische IP gemeinsam zu produzieren und zu vertreiben, wobei CJ ENM die K-Drama-Expertise, TBS die IP-Entwicklung und U-Next die Streaming-Plattform beisteuert. Das Venture soll die gesamte Content-Wertschöpfungskette von der Entwicklung bis zur globalen Distribution und IP-Erweiterung abdecken, angetrieben durch das Wachstum des japanischen Content-Markts (45 Mrd. USD 2023) und des Streaming-Sektors (20,5% jährliches Wachstum).",
+          "source": "Guardian Media",
+          "title": "Revealed: British ad firm’s billion-dollar greenwash of US oil industry",
+          "link": "https://www.theguardian.com/media/2026/apr/30/revealed-british-ad-firm-billion-dollar-greenwash-of-us-oil-industry",
+          "summary": "Die britische Werbeagentur WPP hat seit dem Pariser Klimaabkommen 2015 Ölkonzernen wie ExxonMobil, Chevron, Shell und BP dabei geholfen, schätzungsweise 1 Milliarde Dollar für US-Werbung auszugeben – doppelt so viel wie amerikanische Konkurrenten. Eine DeSmog-Analyse zeigt, dass WPP trotz eigener Klimapolitik maßgeblich an \"täuschenden und irreführenden\" Kommunikationsstrategien beteiligt war, die laut Kongress-Untersuchung darauf abzielten, Klimaschutzmaßnahmen zu verhindern. Experten kritisieren WPP dafür, das Image der Ölindustrie durch kreative Werbekonzepte und Zielgruppenanalysen aufrechtzuerhalten und damit Millionen Dollar jährlich zu verdienen.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "‘The Devil Wears Prada 2’ Strikes A Pose Thursday Night With $10M Previews – Box Office",
-          "link": "https://deadline.com/2026/04/box-office-devil-wears-prada-2-michael-1236877817/",
-          "summary": "\"The Devil Wears Prada 2\" erzielte starke $10M Preview-Einnahmen am Donnerstag und liegt damit auf dem Niveau erfolgreicher Blockbuster wie \"The Little Mermaid\" (2023). Mit $20M Vorverkäufen, 78% auf Rotten Tomatoes und einem Weekend-Tracking von $73-80M zeigt das Sequel nach 20 Jahren solide Marktperformance in 4.150 Kinos. Die weiblich-orientierte Zielgruppe könnte jedoch zu einer frontlastigen Besucherverteilung führen, im Gegensatz zu den vergleichbaren männlich-orientierten Blockbustern.",
+          "title": "Election Hail Mary: Karen Bass Copies Mayoral Rival Nithya Raman’s Uncapped Tax Credits Advocacy; Against Paramount-WBD Merger Unless No “Massive Job Losses”",
+          "link": "https://deadline.com/2026/05/karen-bass-nithya-raman-tax-credits-paramount-wbd-merger-1236878837/",
+          "summary": "LA-Bürgermeisterin Karen Bass übernimmt in ihrem schwierigen Wahlkampf die Positionen ihrer Rivalin Nithya Raman und fordert nun unbegrenzte Steuererleichterungen für Hollywoods 750-Millionen-Dollar-Produktionsprogramm sowie Widerstand gegen die 111-Milliarden-Dollar-Fusion von Paramount und Warner Bros Discovery. Bass' Opposition zur Fusion erfolgt eine Woche nach einem freundlichen Treffen mit Paramount-Eigentümer David Ellison und Trump im Oval Office und wird als politisches Manöver gewertet. Die Fusion wird voraussichtlich mit einer Schuldenlast von 78 Milliarden Dollar und massiven Stellenkürzungen einhergehen.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Save CNN: Paramount Hit With Antitrust & “Viewpoint Diversity” Suit By Consumers To Stop WBD Merger; Company Responds",
-          "link": "https://deadline.com/2026/04/paramount-sued-antitrust-block-warner-bros-deal-1236877774/",
-          "summary": "Fünf Verbraucher haben eine Kartellrechtsklage gegen die geplante 111-Milliarden-Dollar-Fusion von Paramount und Warner Bros Discovery eingereicht, um diese zu stoppen, nachdem die Aktionärsabstimmung am 23. April 2026 eine wichtige Bedingung erfüllt hat. Die Kläger argumentieren, dass die Fusion die Medienvielfalt reduzieren und CNN sowie andere Nachrichtenwerte unter Paramounts Kontrolle bringen würde. Die Klage wurde eingereicht, nachdem staatliche Generalstaatsanwälte bisher nur verbal Bedenken geäußert hatten, während die Trump-Administration die Fusion bislang grünes Licht gegeben hat.",
+          "title": "More State Attorneys General, Including Some Republicans, Join Antitrust Lawsuit Against Nexstar-Tegna Merger; Ohio Reaches Settlement",
+          "link": "https://deadline.com/2026/05/state-attorneys-general-republicans-join-antitrust-lawsuit-nexstar-tegna-merger-1236878402/",
+          "summary": "Fünf weitere Generalstaatsanwälte, darunter auch Republikaner, haben sich einer Kartellrechtsklage gegen die 6,2-Milliarden-Dollar-Fusion der TV-Sender-Betreiber Nexstar und Tegna angeschlossen, die trotz behördlicher Genehmigung durch eine einstweilige Verfügung gestoppt wurde. Die Fusion würde eine dominante Marktposition mit Reichweite von 80% der US-Haushalte schaffen und damit das bisherige gesetzliche Limit von 39% deutlich überschreiten. Während Präsident Trump und FCC-Chairman Carr die Fusion unterstützen, kritisieren die Kläger diese als wettbewerbswidrig und schädlich für Verbraucher und lokalen Journalismus.",
           "score": 7
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "Paramount Sued By Subscribers Over Warner Bros., Skydance Deals",
-          "link": "https://www.hollywoodreporter.com/business/business-news/paramount-sued-subscribers-warner-bros-skydance-deals-1236581570/",
-          "summary": "Paramount-Abonnenten haben eine Sammelklage gegen die geplante 110-Milliarden-Dollar-Fusion mit Warner Bros. Discovery eingereicht und argumentieren, dass der Deal den Wettbewerb in Streaming, Nachrichten und Kinoverleih erheblich reduzieren würde. Die Klage fordert eine gerichtliche Verfügung zur Blockierung der Fusion und zur Rückabwicklung von Skydances Paramount-Übernahme. Dies ist die erste bekannte rechtliche Anfechtung des Mega-Deals, der neben Verbraucherklagen auch regulatorische Prüfungen durch das Justizministerium, Generalstaatsanwälte, die EU und die FCC durchlaufen muss.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "CJ ENM, TBS and U-Next Form Korea-Japan Drama Venture StudioMonowa",
-          "link": "https://variety.com/2026/tv/news/cj-enm-tbs-unext-korea-japan-venture-studiomonowa-1236735274/",
-          "summary": "CJ ENM, TBS und U-Next Holdings haben das Joint Venture \"StudioMonowa\" gegründet, das koreanische Drama-Produktionsexpertise mit japanischer IP-Entwicklung und Streaming-Infrastruktur kombiniert. Das Venture deckt die gesamte Content-Wertschöpfungskette ab - von der Entwicklung bis zur globalen Distribution über U-Next's Plattform mit über 5 Millionen Abonnenten. Ziel ist die Produktion von Hit-Content für den asiatischen und globalen Markt durch die Fusion systematischer K-Content-Planung mit internationaler Produktionsexpertise.",
+          "source": "Deadline",
+          "title": "‘Michael’ Workin’ Day And Night: Crossing $300M WW To Become No. 2 Musical Biopic Ever – Box Office",
+          "link": "https://deadline.com/2026/05/box-office-michael-worldwide-1236878600/",
+          "summary": "Lionsgate's Michael Jackson-Biopic \"Michael\" überschreitet heute die 300 Millionen US-Dollar Marke weltweit und wird damit zur zweiterfolgreichsten Musik-Biografie aller Zeiten, hinter \"Bohemian Rhapsody\" (911M$) aber vor \"Elvis\" (288,6M$). Der von Antoine Fuqua inszenierte Film mit Jaafar Jackson in der Hauptrolle zeigt außergewöhnlich stabile Zahlen mit nur 8% Rückgang im internationalen Geschäft und wird voraussichtlich das zweite Wochenende mit 45M$ domestic abschließen. Besonders starke Performance in europäischen Märkten wie Deutschland (+25%) und Spanien (+34%) trotz Konkurrenz durch \"Devil Wears Prada 2\" und sonniges Wetter.",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "Paramount Faces Suit From Streaming Subscribers Seeking to Block Warner Bros. Deal",
-          "link": "https://variety.com/2026/film/news/paramount-streaming-subscribers-private-antitrust-1236735206/",
-          "summary": "Paramount-Streaming-Abonnenten haben eine Klage eingereicht, um die geplante 110-Milliarden-Dollar-Fusion von Paramount Skydance und Warner Bros. zu blockieren, da sie höhere Preise und weniger Auswahlmöglichkeiten befürchten. Die Kläger fordern nicht nur eine einstweilige Verfügung gegen den Warner Bros.-Deal, sondern auch die Zwangsveräußerung von Paramount durch Skydance sowie dreifachen Schadenersatz unter dem Clayton Act. Obwohl private Kartellrechtsklagen selten erfolgreich sind, könnte der Fall zu einer Geldvereinbarung zugunsten der Abonnenten führen.",
+          "title": "Karen Bass Joins Mayoral Rival Nithya Raman in Supporting Unlimited Film Incentive",
+          "link": "https://variety.com/2026/politics/news/karen-bass-nithya-raman-mayor-tax-incentive-uncapped-1236735920/",
+          "summary": "L.A. Bürgermeisterin Karen Bass unterstützt nun wie ihre Rivalin Nithya Raman eine unbegrenzte staatliche Steueranreiz-Politik für Film- und TV-Produktionen in Kalifornien, nachdem der dramatische Rückgang von Produktionsjobs zu einem zentralen Wahlkampfthema geworden ist. Bass, die als Assembly Speaker das ursprüngliche 100-Millionen-Dollar-Programm mit durchsetzte (heute 750 Millionen Dollar jährlich), fordert die komplette Abschaffung der Obergrenze ohne Kostenschätzung zu nennen. Zusätzlich lehnt sie die geplante Paramount-Skydance-Übernahme von Warner Bros. Discovery ab, falls diese zu Massenentlassungen führen sollte.",
           "score": 7
         }
       ]
