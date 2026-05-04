@@ -1,63 +1,35 @@
 {
   "newsletters": [
     {
-      "date": "2026-05-03",
+      "date": "2026-05-04",
       "articles": [
         {
+          "source": "DWDL",
+          "title": "Grabosch-Comeback mit neuer Kölner Produktionsfirma Graly",
+          "link": "https://www.dwdl.de/nachrichten/106364/graboschcomeback_mit_neuer_koelner_produktionsfirma_graly/",
+          "summary": "Die neue Kölner Produktionsfirma Graly, gegründet von Dominique Curtis Daly, Fritz Grabosch und Martin Lohmer, fokussiert sich auf Branded Entertainment, digitale Line Extensions und Multichannel-Management für Plattformen und IP-Owner. Als strategische Investoren und Beiräte fungieren Jörg Grabosch (Brainpool-Gründer) und David Leonard Stade (Manager von Knossi), womit das Unternehmen sowohl Graboschs Comeback nach seinem Brainpool-Ausstieg als auch Stades Wechsel von der Zusammenarbeit mit Banijay zur eigenen Konkurrenzgründung markiert. Graly positioniert sich als Brücke zwischen etablierten TV-Strukturen und der Creator Economy.",
+          "score": 9
+        },
+        {
           "source": "Horizont Medien",
-          "title": "HORIZONT streamt: Diese Serien sollten Sie im Mai auf dem Schirm haben",
-          "link": "https://www.horizont.net/medien/nachrichten/horizont-streamt-diese-serien-sollten-sie-im-mai-auf-dem-schirm-haben-234163?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "HORIZONT präsentiert die wichtigsten Streaming-Serien für Mai 2024, darunter eine Neuverfilmung von \"Das Geisterhaus\", Nicolas Cage in einer Superhelden-Serie, die Fortsetzung von \"Der Kastanienmann\" sowie einen \"For all Mankind\"-Ableger und eine neue Serie der \"Stranger Things\"-Macher Duffer-Brüder. Die Zusammenstellung richtet sich an Medienexperten und bietet einen Überblick über relevante Content-Neuerscheinungen des Monats.",
+          "title": "Der TV-Markt im April: Pro Sieben und Sat 1 legen zu, Bestwerte für RTL Zwei und Kabel Eins",
+          "link": "https://www.horizont.net/medien/nachrichten/der-tv-markt-im-april-pro-sieben-und-sat-1-legen-zu-bestwerte-fuer-rtl-zwei-und-kabel-eins-234215?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Im April 2024 konnten mehrere deutsche Privatsender deutliche Marktanteilsgewinne verzeichnen, wobei ProSieben, Sat.1, RTL Zwei und Kabel Eins neue Jahresbestwerte erreichten. Gleichzeitig verloren die öffentlich-rechtlichen Sender nach einem starken Jahresauftakt an Marktanteilen. Die Entwicklung zeigt eine typische saisonale Verschiebung zugunsten der kommerziellen Anbieter im Frühjahr.",
           "score": 7
         },
         {
           "source": "kress",
           "title": "Bertelsmann vor Mega-Transaktion: BMG plant Fusion mit Concord Bertelsmann legt sich eine mächtige vierte Unternehmenssäule zu.",
           "link": "https://kress.de/news/beitrag/152549-bertelsmann-vor-mega-transaktion-bmg-plant-fusion-mit-concord.html",
-          "summary": "Bertelsmann fusioniert sein Musikunternehmen BMG mit dem US-Konkurrenten Concord zu einem neuen Unternehmen mit einem Pro-Forma-Jahresumsatz von 2,2 Milliarden US-Dollar, wobei Bertelsmann 67% der Anteile hält. Die Transaktion, die im vierten Quartal 2026 abgeschlossen werden soll, macht BMG zur vierten tragenden Säule des Konzerns neben RTL, Penguin Random House und Arvato. Das fusionierte Unternehmen wird Rechte an vier Millionen Songs besitzen und seinen weltweiten Hauptsitz in Nashville haben.",
-          "score": 8
+          "summary": "Bertelsmann fusioniert seine Musiksparte BMG mit dem US-Konkurrenten Concord zu einem der größten Deals der Unternehmensgeschichte, wobei Bertelsmann 67% der Anteile hält und einen Pro-Forma-Jahresumsatz von 2,2 Milliarden US-Dollar anpeilt. Das neue Unternehmen mit Rechten an vier Millionen Songs wird neben RTL, Penguin Random House und Arvato zur vierten tragenden Säule des Gütersloher Medienkonzerns. Die Transaktion steht unter Kartellrechtsvorbehalt und soll im vierten Quartal 2026 abgeschlossen werden.",
+          "score": 9
         },
         {
-          "source": "kress",
-          "title": "1 besteht von Mai an wieder aus drei Personen.",
-          "link": "https://kress.de/news/beitrag/152545-luca-poloni-zieht-als-coo-in-den-vorstand-von-prosiebensat-1-ein.html",
-          "summary": "Luca Poloni, langjähriger Manager des italienischen Medienkonzerns MFE, wird ab Mai 2026 als COO in den Vorstand von ProSiebenSat.1 einziehen und damit das dreiköpfige Führungsgremium komplettieren. Der Technologie-Experte übernimmt die Verantwortung für Growth & Digital Business, Technologie, Data & AI, Content Operations, Distribution und HR. Die Berufung ist Teil der strategischen Neuausrichtung nach der MFE-Übernahme von ProSiebenSat.1 im Jahr 2025.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "BBC News to bear deepest cuts amid 2,000 planned job losses",
-          "link": "https://www.theguardian.com/media/2026/may/02/bbc-news-to-bear-deepest-cuts-amid-2000-planned-job-losses",
-          "summary": "Die BBC plant im Rahmen eines £600m-Sparparogramms den Abbau von 2.000 Arbeitsplätzen, wobei BBC News überproportional mit 15% Kostenreduzierung betroffen ist - deutlich über dem konzernweiten 10%-Ziel. Die Nachrichtenabteilung, die etwa ein Viertel aller BBC-Mitarbeiter beschäftigt und 2025 £324m kostete, wird die tiefsten Einschnitte seit 15 Jahren erleben. Der Stellenabbau erfolgt während des Führungswechsels mit dem neuen Generaldirektor Matt Brittin, der nach Tim Davies Rücktritt infolge von Voreingenommenheitsvorwürfen und Kontroversen um Trump-Berichterstattung übernimmt.",
+          "source": "meedia",
+          "title": "die Marktanteile von 113 TV-Sendern TV-Monat April: RTL, ProSieben und RTL Zwei deutlich über...",
+          "link": "https://meedia.de/news/beitrag/21696-tv-monat-april-rtl-prosieben-und-rtl-zwei-deutlich-ueber-normalniveau.html",
+          "summary": "Im April 2024 konnten sich mehrere Privatsender deutlich steigern, während die öffentlich-rechtlichen Sender ZDF und ARD unter ihren 12-Monats-Durchschnitten blieben. RTL erreichte mit 8,3% Marktanteil im Gesamtpublikum einen überdurchschnittlichen Wert, während bei den 14-49-Jährigen besonders ProSieben, RTL Zwei und Kabel Eins zulegen konnten. RTL Zwei erzielte dabei seine besten Gesamtpublikums-Werte seit fast drei Jahren, obwohl das ZDF mit 14,6% weiterhin Marktführer bleibt.",
           "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "It’s Official! Studios & SAG-AFTRA Confirm New Deal",
-          "link": "https://deadline.com/2026/05/studios-sag-aftra-confirm-new-deal-amptp-1236879173/",
-          "summary": "SAG-AFTRA und die AMPTP haben eine vorläufige Einigung über einen neuen vierjährigen Tarifvertrag erzielt, der AI-Schutzmaßnahmen und eine erhebliche Erhöhung der Rentenkasse beinhaltet. Der Deal folgt dem Muster der kürzlich abgeschlossenen WGA-Vereinbarung und wird nun dem nationalen Vorstand zur Prüfung vorgelegt, bevor die 160.000 Mitglieder darüber abstimmen. Die Verhandlungen liefen vom 9. Februar bis 2. Mai mit einer Unterbrechung für die WGA-Gespräche.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "It’s Done! SAG-AFTRA & Studios Reach New (& Bigger) Deal",
-          "link": "https://deadline.com/2026/05/sag-aftra-studios-reach-new-bigger-deal-amptp-1236879157/",
-          "summary": "SAG-AFTRA und die AMPTP haben nach einer Woche intensiver Verhandlungen eine neue vierjährige Vereinbarung erreicht, die eine erhebliche Erhöhung der Vergütung und einen \"beträchtlichen\" Beitrag zum Pensionsfonds der Schauspielergewerkschaft beinhaltet. Der Deal umfasst auch AI-Schutzmaßnahmen und folgt dem Muster der WGA-Vereinbarung vom Vormonat mit verlängerter Laufzeit und Fondszuschüssen. Die DGA bleibt als einzige große Hollywood-Gewerkschaft ohne Abschluss und beginnt ihre Verhandlungen mit der AMPTP am 11. Mai.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "SAG-AFTRA Agrees to Tentative Labor Deal With Studios",
-          "link": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-studios-tentative-contract-deal-1236581470/",
-          "summary": "SAG-AFTRA und die Alliance of Motion Picture and Television Producers (AMPTP) haben am Samstag eine vorläufige Einigung über einen neuen Tarifvertrag für Film, TV und Streaming-Inhalte erzielt, wodurch ein weiterer Streik in Hollywood vermieden wurde. Zentrale Verhandlungsthemen waren erweiterte KI-Regelungen bezüglich Einverständnis und Vergütung sowie verbesserte Kompensation für Mitglieder, wobei spezifische Vertragsdetails noch nicht bekannt gegeben wurden. Die Vereinbarung muss noch vom SAG-AFTRA National Board in den kommenden Tagen genehmigt werden.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "SAG-AFTRA Reaches Tentative Deal on Studio Contract",
-          "link": "https://variety.com/2026/film/news/sag-aftra-tentative-deal-studio-contract-1236687517/",
-          "summary": "SAG-AFTRA hat eine vorläufige Vierjahresvereinbarung mit den großen Studios erreicht und damit eine Wiederholung der monatelangen Streiks von 2023 vermieden. Die Schauspielergewerkschaft folgte damit der Writers Guild of America, die bereits einen Monat zuvor eine Einigung mit der AMPTP erzielte, wobei beide Gewerkschaften im Austausch für die um ein Jahr verlängerte Vertragslaufzeit Zugeständnisse der Studios erhielten. Der Vertrag muss noch vom Gewerkschaftsvorstand genehmigt und von den Mitgliedern ratifiziert werden.",
-          "score": 8
         }
       ]
     }
