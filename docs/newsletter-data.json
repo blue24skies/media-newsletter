@@ -1,35 +1,105 @@
 {
   "newsletters": [
     {
-      "date": "2026-05-04",
+      "date": "2026-05-05",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Grabosch-Comeback mit neuer Kölner Produktionsfirma Graly",
-          "link": "https://www.dwdl.de/nachrichten/106364/graboschcomeback_mit_neuer_koelner_produktionsfirma_graly/",
-          "summary": "Die neue Kölner Produktionsfirma Graly, gegründet von Dominique Curtis Daly, Fritz Grabosch und Martin Lohmer, fokussiert sich auf Branded Entertainment, digitale Line Extensions und Multichannel-Management für Plattformen und IP-Owner. Als strategische Investoren und Beiräte fungieren Jörg Grabosch (Brainpool-Gründer) und David Leonard Stade (Manager von Knossi), womit das Unternehmen sowohl Graboschs Comeback nach seinem Brainpool-Ausstieg als auch Stades Wechsel von der Zusammenarbeit mit Banijay zur eigenen Konkurrenzgründung markiert. Graly positioniert sich als Brücke zwischen etablierten TV-Strukturen und der Creator Economy.",
-          "score": 9
+          "title": "Burda macht seine Produktionsfirma Burda Studios dicht",
+          "link": "https://www.dwdl.de/nachrichten/106380/burda_macht_seine_produktionsfirma_burda_studios_dicht/",
+          "summary": "Burda schließt seine Produktionsfirma Burda Studios aufgrund anhaltender Rückgänge im linearen TV-Geschäft und fehlender wirtschaftlicher Perspektiven bei digitalen Inhalten, wodurch 30 Mitarbeiter betroffen sind. Die Entscheidung erfolgt wenige Monate nach CEO-Wechsel bei Burda Media und nach mehreren Rückschlägen wie dem Ende der langjährigen Zusammenarbeit mit Kabel Eins beim \"K1 Magazin\" Ende 2024. Trotz Restrukturierungsversuchen mit verkleinertem Team konnten keine ausreichenden neuen Aufträge akquiriert werden.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Paramount Skydance mit guten Zahlen vor WBD-Übernahme",
+          "link": "https://www.dwdl.de/nachrichten/106376/paramount_skydance_mit_guten_zahlen_vor_wbduebernahme/",
+          "summary": "Paramount Skydance hat sich in einer spektakulären Übernahmeschlacht gegen Netflix durchgesetzt und erwirbt WBD für 111 Milliarden US-Dollar, wobei 2,8 Milliarden Dollar Vertragsstrafe an Netflix zu zahlen sind. Das Unternehmen legte starke Q1-Zahlen vor mit 2% Umsatzwachstum auf 7,3 Milliarden Dollar und einem um 59% gestiegenen EBITDA von 1,16 Milliarden Dollar. Während Studios und Streaming jeweils 11% Wachstum verzeichneten, schwächelte das traditionelle TV-Geschäft mit einem Rückgang von 6%.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Timmy bringt ARD ganz nach vorn, Stromberg schlägt Bully",
+          "link": "https://www.dwdl.de/zahlenzentrale/106370/timmy_bringt_ard_ganz_nach_vorn_stromberg_schlaegt_bully/",
+          "summary": "Die ARD dominierte im April 2026 die Streaming-Charts mit einem Wal-Livestream (6 Mio. Abrufe) und erreichte zudem Rekordwerte beim Tatort-Zweiteiler (1,765/1,357 Mio. Abrufe) sowie starke Zahlen bei \"Praxis mit Meerblick\" (1,749 Mio.). RTL+ ist zum zweiten Mal in Folge nur durch RTLzwei-Content (\"Kampf der Realitystars\" mit 1,487 Mio. Abrufen) in den Top25 vertreten, während eigene RTL-Formate knapp scheiterten.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Sky überarbeitet Struktur seiner Cinema-Sender",
+          "link": "https://www.dwdl.de/nachrichten/106368/sky_ueberarbeitet_struktur_seiner_cinemasender_/",
+          "summary": "Sky benennt ab 19. Mai zwei seiner Cinema-Sender um: \"Sky Cinema Highlights\" wird zu \"Sky Cinema Blockbuster\" und \"Sky Cinema Family\" zu \"Sky Cinema Feelgood\", um die inhaltliche Ausrichtung klarer zu kommunizieren. Zusätzlich erhalten alle Cinema-Sender ab 5. Mai schrittweise ein überarbeitetes Design, das sich am britischen Markenauftritt orientiert. Die Umstrukturierung erfolgt kurz vor der geplanten Übernahme durch RTL Deutschland am 1. Juni.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Banijay und Marc Eggers suchen den \"Malle Megastar 2026\"",
+          "link": "https://www.dwdl.de/nachrichten/106326/banijay_und_marc_eggers_suchen_den_malle_megastar_2026/",
+          "summary": "Banijay Productions startet mit \"Malle Megastar 2026\" eine neue Castingshow ohne klassischen TV-Auftraggeber, die plattformübergreifend über Social Media-Kanäle wie Twitch, YouTube und TikTok ausgespielt wird. Das Format mit Marc Eggers als Moderator sucht den nächsten Ballermann-Star durch mehrstufige Castings in Köln und eine finale Live-Show im Megapark auf Mallorca. Als Hauptmedienpartner konnten bereits Asbach Uralt und PITÚ gewonnen werden, das Casting läuft ab sofort für eine geplante Live-Show im Spätsommer.",
+          "score": 8
         },
         {
           "source": "Horizont Medien",
-          "title": "Der TV-Markt im April: Pro Sieben und Sat 1 legen zu, Bestwerte für RTL Zwei und Kabel Eins",
-          "link": "https://www.horizont.net/medien/nachrichten/der-tv-markt-im-april-pro-sieben-und-sat-1-legen-zu-bestwerte-fuer-rtl-zwei-und-kabel-eins-234215?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Im April 2024 konnten mehrere deutsche Privatsender deutliche Marktanteilsgewinne verzeichnen, wobei ProSieben, Sat.1, RTL Zwei und Kabel Eins neue Jahresbestwerte erreichten. Gleichzeitig verloren die öffentlich-rechtlichen Sender nach einem starken Jahresauftakt an Marktanteilen. Die Entwicklung zeigt eine typische saisonale Verschiebung zugunsten der kommerziellen Anbieter im Frühjahr.",
+          "title": "30 Stellen betroffen: Burda macht TV-Produktion dicht",
+          "link": "https://www.horizont.net/medien/nachrichten/30-stellen-betroffen-burdamacht-tv-produktion-dicht-234234?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Hubert Burda Media schließt seine TV-Produktionseinheit Burda Studios und streicht dabei 30 Arbeitsplätze. Der Medienkonzern begründet die Schließung mit den schlechten wirtschaftlichen Aussichten im schrumpfenden TV-Markt.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Ex-Bauer-Manager: Stefan Betzold wird Chief Digital Product Officer bei BCN",
+          "link": "https://www.horizont.net/medien/nachrichten/ex-bauer-manager-stefan-betzold-wird-chief-digital-product-officer-bei-bcn-234220?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Stefan Betzold, ehemaliger Manager bei Bauer Media Group und Springer, wechselt als Chief Digital Product Officer zu BCN. Der Digitalexperte hatte Ende März seinen Abschied von Bauer bekannt gegeben und übernimmt nun die neue Position bei dem Medienunternehmen.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Bertelsmann vor Mega-Transaktion: BMG plant Fusion mit Concord Bertelsmann legt sich eine mächtige vierte Unternehmenssäule zu.",
-          "link": "https://kress.de/news/beitrag/152549-bertelsmann-vor-mega-transaktion-bmg-plant-fusion-mit-concord.html",
-          "summary": "Bertelsmann fusioniert seine Musiksparte BMG mit dem US-Konkurrenten Concord zu einem der größten Deals der Unternehmensgeschichte, wobei Bertelsmann 67% der Anteile hält und einen Pro-Forma-Jahresumsatz von 2,2 Milliarden US-Dollar anpeilt. Das neue Unternehmen mit Rechten an vier Millionen Songs wird neben RTL, Penguin Random House und Arvato zur vierten tragenden Säule des Gütersloher Medienkonzerns. Die Transaktion steht unter Kartellrechtsvorbehalt und soll im vierten Quartal 2026 abgeschlossen werden.",
-          "score": 9
+          "title": "Burda im Umbau: Burda Studios werden geschlossen",
+          "link": "https://kress.de/news/beitrag/152734-burda-im-umbau-burda-studios-werden-geschlossen-30-stellen-fallen-weg.html",
+          "summary": "Hubert Burda Media schließt seine Bewegtbild-Einheit Burda Studios und streicht dabei 30 Stellen aufgrund anhaltender Rückgänge im linearen TV-Geschäft und fehlender wirtschaftlicher Perspektiven bei digitalen Inhalten. Die Schließung ist eine der ersten großen Entscheidungen des neuen Medien-CEOs Jan Wachtel, der Anfang 2026 von Bauer Media zu Burda wechselte, und fällt in eine umfassende Umbauphase des Konzerns unter der Führung der vierten Burda-Generation.",
+          "score": 10
         },
         {
           "source": "meedia",
-          "title": "die Marktanteile von 113 TV-Sendern TV-Monat April: RTL, ProSieben und RTL Zwei deutlich über...",
-          "link": "https://meedia.de/news/beitrag/21696-tv-monat-april-rtl-prosieben-und-rtl-zwei-deutlich-ueber-normalniveau.html",
-          "summary": "Im April 2024 konnten sich mehrere Privatsender deutlich steigern, während die öffentlich-rechtlichen Sender ZDF und ARD unter ihren 12-Monats-Durchschnitten blieben. RTL erreichte mit 8,3% Marktanteil im Gesamtpublikum einen überdurchschnittlichen Wert, während bei den 14-49-Jährigen besonders ProSieben, RTL Zwei und Kabel Eins zulegen konnten. RTL Zwei erzielte dabei seine besten Gesamtpublikums-Werte seit fast drei Jahren, obwohl das ZDF mit 14,6% weiterhin Marktführer bleibt.",
+          "title": "Start in die Jubiläumssaison Amazon Prime Video hievt WNBA-Spiele ins Programm Auch Prime Video investiert in Live-Frauen-Basketball. Zum Start der WNBA-Saison 2026 steigt der Streamer",
+          "link": "https://meedia.de/news/beitrag/21706-amazon-prime-video-hievt-wnba-spiele-ins-programm.html",
+          "summary": "Amazon Prime Video steigt ab Mai 2026 umfassend in die WNBA-Übertragung ein und zeigt 30 exklusive Regular Season-Spiele plus Playoff-Inhalte in Deutschland. Das Angebot wird durch extensive Studio-Formate ergänzt, darunter 30-minütige Pregame-Shows und Analyse-Sendungen live aus den Amazon Studios in Culver City. Prime Video folgt damit Sky Deutschland beim Investment in Live-Frauen-Basketball.",
           "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Nach Bauer-Kahlschlag im Digitalgeschäft BCN verpflichtet Stefan Betzold als Chief Digital Product...",
+          "link": "https://meedia.de/news/beitrag/21707-bcn-verpflichtet-stefan-betzold-als-chief-digital-product-officer.html",
+          "summary": "Der Vermarkter BCN hat Stefan Betzold als neuen Chief Digital & Product Officer (CDPO) verpflichtet, der die digitale Geschäftsentwicklung verantworten und dem Management Board angehören wird. Betzold wechselt von Bauer Media Digital Publishing, wo er als Chief Product Marketing Officer tätig war, nachdem Bauer zuletzt harte Einschnitte im Digitalbereich vorgenommen hatte. Seine Hauptaufgaben umfassen die Monetarisierung digitaler Angebote, Entwicklung neuer Geschäftsmodelle und den Ausbau strategischer Partnerschaften.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Mubi Acquires Multiple International Territories On Na Hong-Jin’s Cannes Competition Title ‘Hope’",
+          "link": "https://deadline.com/2026/05/mubi-na-hong-jin-hope-cannes-1236881169/",
+          "summary": "Mubi hat die Vertriebsrechte für Na Hong-jins neuen Film \"Hope\" in mehreren internationalen Territorien (Lateinamerika, Italien, Spanien, Deutschland, Österreich, Schweiz, Türkei) erworben, der im Wettbewerb der Filmfestspiele von Cannes läuft. Der Film mit Hwang Jung-min, Zo In-sung, Hoyeon, Michael Fassbender und Alicia Vikander handelt von einem Polizeiposten-Chef in einem abgelegenen Dorf an der DMZ, der mit Berichten über einen Tiger konfrontiert wird. Es ist Na Hong-jins Rückkehr nach Cannes nach \"The Wailing\" (2016), während Neon die nordamerikanischen Rechte hält.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Mubi Takes Na Hong-Jin’s Cannes Contender ‘Hope’ Across Multiple Territories",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/mubi-takes-na-hong-jin-hope-across-multiple-territories-1236586261/",
+          "summary": "Mubi hat sich die Vertriebsrechte für Na Hong-jins neuen Sci-Fi-Actionthriller \"Hope\" in mehreren internationalen Territorien gesichert, der im Cannes-Wettbewerb Premiere feiert. Der Film spielt in einem Dorf nahe der koreanischen DMZ und vereint koreanische Stars wie Hwang Jung-min und Hoyeon mit Hollywood-Namen wie Michael Fassbender und Alicia Vikander. Nach dem Kinostart wird der Film auf Mubis Streaming-Plattform verfügbar sein.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "French Startup IPFC Unveils AI Rights Model to Protect and Pay Creators",
+          "link": "https://variety.com/2026/film/global/french-startup-ipfc-ai-rights-model-protect-pay-creators-1236737941/",
+          "summary": "Das französische Startup IPFC entwickelt ein neues Verwertungsmodell zum Schutz geistigen Eigentums vor generativer KI, das sich am Rechteverwaltungsmodell der französischen Verwertungsgesellschaft SACEM orientiert. Anstatt einzelne Werke zu verwalten, fokussiert sich IPFC auf die Verwaltung von Identitäten und Attributen wie Namen, Stimmen und visuelle Identität von Kreativen. Das System überwacht KI-generierte Inhalte auf Rechtsverletzungen und kann automatisch Takedowns oder rechtliche Schritte einleiten.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Mubi Acquires Na Hong-Jin’s Korean Thriller ‘Hope,’ Starring Michael Fassbender, Alicia Vikander and Hoyeon, For Multiple Territories Ahead of Cannes Premiere",
+          "link": "https://variety.com/2026/film/global/mubi-acquires-na-hong-jin-korean-thriller-hope-1236737942/",
+          "summary": "Mubi hat Na Hong-Jins Sci-Fi-Action-Thriller \"Hope\" mit Michael Fassbender, Alicia Vikander und Hoyeon für mehrere Territorien erworben, während Neon bereits die US-Rechte sicherte. Der Film des \"The Wailing\"-Regisseurs wird in Cannes Weltpremiere feiern und handelt von einem Polizisten, der auf die Nachricht reagiert, dass ein Tiger in den Hügeln aufgetaucht ist, was die Stadt ins Chaos stürzt. Die Geschichte entwickelt sich von einem lokalen Notfall zu einem tieferen, bedrohlicheren Szenario.",
+          "score": 8
         }
       ]
     }
