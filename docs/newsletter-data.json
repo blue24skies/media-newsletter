@@ -1,209 +1,153 @@
 {
   "newsletters": [
     {
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Marcus Ammon dockt nach Bavaria-Abschied bei Ferres an",
-          "link": "https://www.dwdl.de/nachrichten/106396/marcus_ammon_dockt_nach_bavariaabschied_bei_ferres_an/",
-          "summary": "Marcus Ammon wechselt nach seinem Abschied von Bavaria Fiction als neuer Geschäftsführer zur Construction Filmproduktion von Veronica Ferres und übernimmt dort die inhaltliche Unternehmensleitung. Gleichzeitig wird der bisherige CFO Ralf Berchtold ebenfalls in die Geschäftsführung berufen und verantwortet weiterhin Finanzen und Legal. Die Construction Filmproduktion baut damit ihre Führungsstruktur von einer Ein-Personen- zu einer Dreier-Geschäftsführung aus.",
+          "title": "Talks und Telenovelas: So plant die ARD die Sommerpause",
+          "link": "https://www.dwdl.de/nachrichten/106413/talks_und_telenovelas_so_plant_die_ard_die_sommerpause/",
+          "summary": "Die ARD verlängert ihre Sommerpausen 2026: Telenovelas wie \"Sturm der Liebe\" und \"Rote Rosen\" pausieren zehn Wochen (12. Juni bis 24. August), eine Woche länger als 2025. Auch die Polit-Talks von Miosga, Klamroth und Maischberger gehen in die Sommerpause, wobei das Programm durch Fußball-WM und Tour de France-Übertragungen bestimmt wird.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Wow führt günstigeres Sport-Abo für Jüngere ein",
+          "link": "https://www.dwdl.de/nachrichten/106411/wow_fuehrt_guenstigeres_sportabo_fuer_juengere_ein/",
+          "summary": "Wow führt den neuen Tarif \"Wow Live-Sport Young\" für 18- bis 26-Jährige ein, der bei einjähriger Laufzeit 24,99 Euro statt regulär 29,99 Euro kostet und nach Ablauf in das teurere monatlich kündbare Modell (44,99 Euro) übergeht. Das Angebot folgt dem Beispiel von DAZN in Spanien und soll bewusst entscheidende jüngere Zielgruppen für das Live-Sport-Portfolio gewinnen, das Bundesliga, Premier League, Formel 1 und weitere Sportarten umfasst. Nach Ablauf der Jahresbindung kann erneut ein vergünstigtes Jahresabo abgeschlossen werden.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Flucht nach vorn? Burgener schließt Constantin-Verkauf nicht aus",
+          "link": "https://www.dwdl.de/nachrichten/106406/flucht_nach_vorn_burgener_schliesst_constantinverkauf_nicht_aus/",
+          "summary": "Die Highlight Communications AG und ihre Muttergesellschaft stehen vor erheblichen Liquiditätsproblemen und müssen bis November 2026 Finanzverbindlichkeiten von 74,5 Mio. CHF refinanzieren, wobei die Geschäftsleitung \"erhebliche Zweifel\" an der Fortführungsfähigkeit äußert. Als wertvollstes Asset der Gruppe sind alle Constantin Film-Aktien (Buchwert 155 Mio. Euro) als Sicherheit für Gläubiger beliehen, wodurch bei gescheiterter Refinanzierung ein Verkauf der Produktionsfirma droht. Dies führt zu großer Verunsicherung bei Constantin Film, obwohl das operative Geschäft der Münchner Tochter weiterhin stabil läuft.",
           "score": 9
         },
         {
           "source": "DWDL",
-          "title": "Stephan Lamby übernimmt Vorsitz der Fernsehpreis-Jury",
-          "link": "https://www.dwdl.de/nachrichten/106395/stephan_lamby_uebernimmt_vorsitz_der_fernsehpreisjury/",
-          "summary": "Stephan Lamby wurde zum neuen Juryvorsitzenden des Deutschen Fernsehpreises ernannt und folgt damit auf den langjährigen Vorsitzenden Wolf Bauer. Die Jury erhält mehrere Neuzugänge, darunter Maria Gresz (Spiegel TV), Meikel Giersemehl (MoveMe), Ulrike Leibfried (Area 46), Isabel Schayani (WDR) und Natalie Müller-Elmau (ZDF/3sat). Die Preisverleihung findet am 8. und 9. September 2026 in Köln statt, wobei die TV-Gala vom Coloneum ins Confex-Center der Köln-Messe verlegt wird.",
+          "title": "D'Amaro kann gute Disney-Zahlen fürs 1. Quartal präsentieren",
+          "link": "https://www.dwdl.de/nachrichten/106405/damaro_kann_gute_disneyzahlen_fuers_1_quartal_praesentieren/",
+          "summary": "Disney konnte im ersten Quartal unter dem neuen CEO Josh D'Amaro den Gesamtumsatz um 7% auf 25,2 Milliarden Dollar steigern, wobei das Entertainment-Segment mit +10% besonders stark wuchs. Das Streaming-Business entwickelte sich mit 13% Umsatzwachstum auf 5,5 Milliarden Dollar und einem operativen Gewinn von 582 Millionen Dollar zur profitablen Sparte. Der Experiences-Bereich (Vergnügungsparks, Kreuzfahrten) legte um 7% zu, während der Sport-Bereich nur 2% Wachstum verzeichnete.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Schluss mit Wildwuchs: ZDF vereinheitlicht Marken und Auftritt",
-          "link": "https://www.dwdl.de/nachrichten/106374/schluss_mit_wildwuchs_zdf_vereinheitlicht_marken_und_auftritt/",
-          "summary": "Das ZDF hat im Rahmen seiner Strategie \"Ein ZDF für Alle\" eine umfassende Markenreform durchgeführt, um sich für das digitale Zeitalter zu positionieren. Die neue Markenstrategie fokussiert auf Klarheit, Verjüngung und Relevanz mit dem Leitsatz \"Wir schaffen Verbundenheit\" und kategorisiert fünf Premiummarken (ZDFinfo, ZDF Terra X, ZDFheute, ZDFsportstudio, ZDFneo) unter der Dachmarke ZDF. Ziel ist es, den Übergang vom linearen zum non-linearen Medienkonsum erfolgreich zu bewältigen und als modernes Medienunternehmen wahrgenommen zu werden.",
+          "title": "Magazin \"MDR um Zwei\" wird wohl zum Jahresende eingestellt",
+          "link": "https://www.dwdl.de/nachrichten/106401/magazin_mdr_um_zwei_wird_wohl_zum_jahresende_eingestellt/",
+          "summary": "Der MDR stellt zum Jahresende das Magazin \"MDR um Zwei\" aufgrund von Sparzwängen durch die ausgebliebene Rundfunkbeitragserhöhung ein, wodurch zusätzliche Einsparungen von 30-60 Millionen Euro nötig werden. Ein Nachfolge-Format soll nur noch im Streaming angeboten werden, das lineare Fernsehprogramm startet künftig erst ab 16 Uhr. Besonders betroffen ist der Standort Magdeburg, wohin die Produktion erst 2023 verlagert worden war.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Co-Gründer Johannes Middelbeck verlässt Drive Beta",
+          "link": "https://www.dwdl.de/nachrichten/106400/cogruender_johannes_middelbeck_verlaesst_drive_beta/",
+          "summary": "Johannes Middelbeck, Co-Gründer der Produktionsfirma Drive Beta, verlässt nach acht Jahren das von ihm 2018 mit Hannes Jakobsen gegründete Unternehmen und gibt seine 30-prozentigen Anteile ab. Drive Beta etablierte sich als Spezialist für digitale Formate und produzierte erfolgreich für Funk (\"Tru Doku\", \"funk Politik\") sowie etablierte Reihen wie \"37 Grad\" und Fiction-Projekte. Operativ ändert sich nichts, da Middelbeck bereits seit Mitte 2025 nicht mehr als Geschäftsführer aktiv war und das Unternehmen von Jakobsen, Catherine Harwardt und Florian Schumann geleitet wird.",
           "score": 9
         },
         {
           "source": "DWDL",
-          "title": "So berichten ARD und ZDF über die Fußball-WM im Sommer",
-          "link": "https://www.dwdl.de/nachrichten/106387/so_berichten_ard_und_zdf_ueber_die_fussballwm_im_sommer/",
-          "summary": "ARD und ZDF übertragen gemeinsam jeweils 30 der insgesamt 104 WM-Spiele frei empfangbar, während Magenta TV alle Partien zeigt. Das ZDF richtet sein zentrales WM-Studio im Berliner Zollernhof ein und setzt auf die Moderatoren Müller-Hohenstein/Breyer sowie die Experten Mertesacker, Kramer und Kromp, während die ARD mit Sedlaczek/Schweinsteiger das \"Match of the Day\" live aus den Stadien moderieren lässt. Die hohe Spielanzahl und die Verteilung über drei Länder (Mexiko, USA, Kanada) stellen beide Sender vor besondere logistische Herausforderungen.",
-          "score": 7
+          "title": "Medien-Koordination der Länder vor großen Veränderungen",
+          "link": "https://www.dwdl.de/nachrichten/106398/medienkoordination_der_laender_vor_grossen_veraenderungen/",
+          "summary": "In Rheinland-Pfalz übernimmt nach dem Regierungswechsel die CDU unter dem designierten Ministerpräsidenten Gordon Schnieder die Medienressorts, was bedeutende Auswirkungen auf die bundesweite Medienkoordination haben wird. Die bisherige SPD-Koordinatorin der Rundfunkkommission der Länder, Heike Raab, wird voraussichtlich durch eine CDU-Person ersetzt, während Schnieder den Vorsitz der Rundfunkkommission übernimmt. Der Koalitionsvertrag von CDU und SPD bekräftigt das Bekenntnis zur Weiterentwicklung des dualen Mediensystems.",
+          "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Reality-Allstars kratzen an Mio-Marke, ARD-Telenovelas stark",
-          "link": "https://www.dwdl.de/zahlenzentrale/106385/realityallstars_kratzen_an_miomarke_ardtelenovelas_stark/",
-          "summary": "ZDFheute führt zum zweiten Mal in Folge das Streaming-Ranking mit über zwei Millionen Personen an, während \"Kampf der Reality-Allstars\" bei RTL+ knapp unter der Million-Marke kratzt und damit den besten Wert seit einem Jahr erreicht. ARD-Telenovelas wie \"Sturm der Liebe\" (782.000) und \"Rote Rosen\" (601.000) verzeichnen ihre stärksten Streaming-Reichweiten seit Monaten, wobei \"GZSZ\" mit 941.000 Personen weiterhin das reichweitenstärkste Daily bleibt.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "P7S1 bestätigt Matthias Killing als \"The Voice\"-Moderator",
-          "link": "https://www.dwdl.de/nachrichten/106366/p7s1_bestaetigt_matthias_killing_als_the_voicemoderator/",
-          "summary": "Sat.1 hat Matthias Killing offiziell als neuen Moderator von \"The Voice of Germany\" bestätigt, wo er gemeinsam mit Melissa Khalaj die Show führen wird. Killing ersetzt Thore Schölermann, der nach 14 Jahren aussteigt, um sich seinen McDonald's-Filialen zu widmen. Die Aufzeichnungen der Blind Auditions für die neue Staffel beginnen heute mit unveränderter Coach-Besetzung.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "DAZN &amp; DFL: Kurz vor Bayern-Spiel: DAZN &amp; DFL gelingt Schlag gegen Pay-TV-Piraten",
-          "link": "https://www.horizont.net/medien/nachrichten/dazn--dfl-kurz-vor-bayern-spiel-dazn--dfl-gelingt-schlag-gegen-pay-tv-piraten-234265?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "DAZN und die Deutsche Fußball Liga (DFL) haben einen juristischen Erfolg gegen Pay-TV-Piraterie erzielt, bei dem ein Gericht die Sperrung der illegalen Streaming-Webseite \"livetv.sx\" anordnete. Der Erfolg kam zeitlich kurz vor dem hochkarätigen Champions League-Spiel zwischen Bayern München und Paris Saint-Germain. Die Rechtinhaber bezeichnen dies als wichtigen Meilenstein im Kampf gegen organisierte Sportpiraterie in Deutschland.",
+          "title": "Telekom und Sky ermöglichen Public Viewings zur WM",
+          "link": "https://www.dwdl.de/nachrichten/106393/telekom_und_sky_ermoeglichen_public_viewings_zur_wm/",
+          "summary": "Telekom und Sky kooperieren für die Fußball-WM 2026, um MagentaTV-Inhalte über drei lineare Sky-Sondersender an gewerbliche Kunden für Public Viewings zu distribuieren - kostenlos für Gastronomie und offizielle Veranstaltungen. Die Kanäle sind ab 4. Juni über SAT, Kabel und Sky Stream verfügbar, ausgenommen sind Hotels-/Klinikzimmer und Wettbüros. Sky Deutschland vergibt weiterhin die erforderlichen FIFA-Lizenzen für kommerzielle Public Viewings und stellt qualifizierten Bewerbern die nötige Hardware zur Verfügung.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Fußball-WM: Telekom macht Weg für Public Viewing und Kneipen-TV frei",
-          "link": "https://www.horizont.net/medien/nachrichten/fussball-wm-telekom-macht-weg-fuer-public-viewing-und-kneipen-tv-frei-234261?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die Deutsche Telekom ermöglicht durch eine kurzfristige Kooperation mit Sky die Übertragung aller 104 WM-Spiele in Gastronomiebetrieben und bei Public Viewing-Veranstaltungen. Als TV-Rechte-Inhaber stellt die Telekom ihre drei exklusiven linearen MagentaTV-WM-Kanäle für tausende Gastronomiebetriebe zur Verfügung. Die Vereinbarung wurde wenige Wochen vor Turnierbeginn getroffen und löst damit ein wichtiges Problem für die öffentliche WM-Übertragung.",
+          "title": "Sky: Wow buhlt mit günstigerem Live-Sport-Abo um junge Leute",
+          "link": "https://www.horizont.net/medien/nachrichten/sky-wow-buhlt-mit-guenstigerem-live-sport-abo-um-junge-leute-234286?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Sky's Streamingdienst WOW führt ein vergünstigtes Live-Sport-Abo für unter 27-Jährige ein, das im Jahresabo 24,99 Euro monatlich kostet und damit 5 Euro günstiger ist als der Regelpreis. Nach Ablauf der zwölfmonatigen Laufzeit steigt der Preis automatisch auf 44,99 Euro monatlich, sofern nicht gekündigt oder ein neues Jahresabo abgeschlossen wird. Die Maßnahme zielt darauf ab, junge Zielgruppen trotz der generell hohen Preise für Live-Sport-Streaming zu gewinnen.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Nach dem Go durch EU-Kommission: RTL/Sky: Kartellamtschef Mundt warnt vor neuer Vermachtung",
-          "link": "https://www.horizont.net/medien/nachrichten/nach-dem-go-durch-eu-kommission-rtlsky-kartellamtschef-mundt-warnt-vor-neuer-vermachtung-234247?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die EU-Kommission hat den Zusammenschluss von RTL und Sky genehmigt und sieht darin einen notwendigen Schritt gegen die dominierenden US-amerikanischen Streaming-Plattformen wie Netflix und YouTube. Kartellamtspräsident Andreas Mundt warnt jedoch vor neuen Machtkonzentrationen und betont, dass nationale Medienkonzentration in Deutschland weiterhin regulatorischen Grenzen unterliegt. Die Fusion wird als Reaktion auf den verschärften Wettbewerb im digitalen Medienmarkt gewertet.",
-          "score": 8
+          "title": "Neuordnung im Bewegtbildmarkt: Das denken Agenturen über den RTL-Sky-Deal - und die Causa Schwecke",
+          "link": "https://www.horizont.net/medien/nachrichten/neuordnung-im-bewegtbildmarkt-das-denken-agenturen-ueber-den-rtl-sky-deal---und-die-causa-schwecke-234270?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der geplante RTL-Sky-Deal wird von großen Mediaagenturen als bedeutende Neuordnung im Bewegtbildmarkt bewertet, wobei die Branche gespannt auf die Auswirkungen des neuen Medienkonglomerats wartet. Zusätzlich beschäftigt der Abgang von Carsten Schwecke weiterhin die Medienbranche. Die EU-Kommission hat dem Deal grünes Licht erteilt.",
+          "score": 9
         },
         {
-          "source": "Horizont Medien",
-          "title": "Früherer Spiegel-Geschäftsführer : Stefan Ottlitz heuert bei Burda an",
-          "link": "https://www.horizont.net/medien/nachrichten/frueherer-spiegel-geschaeftsfuehrer-stefan-ottlitz-heuert-bei-burda-an-234254?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Stefan Ottlitz, bis Ende 2025 Co-Geschäftsführer des Spiegel-Verlags, wechselt zu Burda Media unter dem neuen CEO Jan Wachtel. Die genauen Aufgaben von Ottlitz bei Burda sowie Wachtels strategischer Plan für das Medienhaus sind noch nicht öffentlich bekannt.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Census+-Daten: ARD-Livestream von Timmy-Rettung war das Top-Streamingformat im April",
-          "link": "https://www.horizont.net/medien/nachrichten/census-daten-ard-livestream-von-timmy-rettung-war-das-top-streamingformat-im-april-234236?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die ARD-Liveübertragung der Rettungsaktion für den gestrandeten Buckelwal \"Timmy\" aus der Ostsee erreichte im April 2024 laut AGF Census+-Daten den Spitzenplatz im Streamingranking. Das massive öffentliche Interesse an dem Walschicksal spiegelte sich in außergewöhnlich hohen Abrufzahlen für das Livestream-Format wider.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Publishing-Strategie: Der neue Zeit-CEO Nils von der Kall erklärt seine Pläne für den Verlag",
-          "link": "https://www.horizont.net/medien/nachrichten/publishing-strategie-jetzt-erklaert-der-neue-zeit-ceo-nils-von-der-kall-seine-plaene-fuer-den-verlag-234123?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der neue Zeit-CEO Nils von der Kall plant Weichenstellungen für weiteres Wachstum des Verlags und will an die Erfolge seines Vorgängers anknüpfen. Gleichzeitig wird Ende des Jahres die Agenturtochter Studio ZX geschlossen, was rund 60 Arbeitsplätze betrifft. Von der Kall erläuterte seine Publishing-Strategie in einem HORIZONT-Antrittsinterview.",
+          "source": "kress",
+          "title": "Paukenschlag in Berlin: Axel Springer Academy übernimmt Leitung und Redaktion der B.Z. Radikale Neuaufstellung bei der B.Z.: Ab September übernimmt die Axel Springer Academy Leitung und Redaktion der ältesten Boulevardzeitung Deutschlands. An der Spitze: Miriam Krekel",
+          "link": "https://kress.de/news/beitrag/152746-paukenschlag-in-berlin-axel-springer-academy-uebernimmt-leitung-und-redaktion-der-b-z.html",
+          "summary": "Die Axel Springer Academy übernimmt ab September 2026 vollständig Leitung und Redaktion der B.Z., womit die bisherige redaktionelle Struktur der traditionsreichen Boulevardzeitung aufgelöst wird. Miriam Krekel, die bereits von 2017-2022 B.Z.-Chefredakteurin war, führt als Academy-Leiterin ein hybrides Redaktionsmodell mit erfahrenen Journalisten und wechselnden Journalistenschülern ein. Geplant sind KI-gestützter hyperlokaler Journalismus sowie Daten- und investigative Recherchen, während die technische und kaufmännische Verantwortung bei der Bild-Gruppe verbleibt.",
           "score": 8
         },
         {
           "source": "kress",
-          "title": "Energie-Fachmedium energate baut Chefredaktion aus: Tix und Bathke rücken auf",
-          "link": "https://kress.de/news/beitrag/152741-energie-fachmedium-energate-baut-chefredaktion-aus-tix-und-bathke-ruecken-auf.html",
-          "summary": "Das Energie-Fachmedium energate (dfv Mediengruppe) erweitert seine Chefredaktion um die stellvertretenden Chefredakteure Michaela Tix (Gas/Wärme) und Rouben Bathke (Markt/Industrie) neben dem bisherigen Chefredakteur Christian Seelos. Die Umstrukturierung soll die Marktposition des energate messenger im DACH-Raum stärken und das Eventgeschäft ausbauen, während sich energate vom reinen Informationsanbieter zum Netzwerk für die Energie-Community entwickelt. Zusätzlich werden die Standorte Berlin und Österreich personell verstärkt, um den gestiegenen Anforderungen in der Energieberichterstattung gerecht zu werden.",
+          "title": "Ex-Spiegel-Geschäftsführer Ottlitz vor Wechsel zu Burda Media",
+          "link": "https://kress.de/news/beitrag/152744-ex-spiegel-geschaeftsfuehrer-ottlitz-vor-wechsel-zu-burda-media.html",
+          "summary": "Stefan Ottlitz, ehemaliger Co-Geschäftsführer des Spiegel-Verlags (bis Ende 2025), wechselt laut Horizont zum 1. Juli 2026 zu Burda Media und soll dort die Verantwortung für Deutschland- und Digitalgeschäft übernehmen. Der Wechsel erfolgt im Rahmen des laufenden Umbaus bei Burda Media unter der neuen Führung von Wachtel, der bereits Stellenstreichungen bei Burda Studios und BCN durchführte. Ottlitz soll bei Burda neue Erlösmodelle für Printmarken entwickeln und komplexe Strukturprobleme zwischen den Unternehmensteilen lösen.",
           "score": 8
         },
         {
           "source": "kress",
-          "title": "Alessia Sinzger steigt zur Co-Geschäftsführerin auf",
+          "title": "DLD setzt auf Doppelspitze: Alessia Sinzger steigt zur Co-Geschäftsführerin auf Alessia Sinzger prägt DLD seit mehr als 14 Jahren",
           "link": "https://kress.de/news/beitrag/152739-dld-setzt-auf-doppelspitze-alessia-sinzger-steigt-zur-co-geschaeftsfuehrerin-auf.html",
-          "summary": "Alessia Sinzger wird zur Co-Geschäftsführerin von DLD Media befördert und leitet die Burda-Innovationsplattform künftig gemeinsam mit Gründerin Steffi Czerny. Die 14-jährige DLD-Veteranin übernimmt dabei die Verantwortung für den Ausbau von Partnerschaften und neuen Geschäftsmodellen, während Czerny weiterhin die inhaltliche Ausrichtung der internationalen Digitalkonferenz verantwortet.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Kicker setzt auf KI: Moritz Löhr wird erster AI Manager der Redaktion Moritz Löhr hat beim Sport-Informations-Dienst bereits KI in den Newsroom integriert",
-          "link": "https://kress.de/news/beitrag/152736-kicker-setzt-auf-ki-moritz-loehr-wird-erster-ai-manager-der-redaktion.html",
-          "summary": "Der Olympia-Verlag ernennt Moritz Löhr zum ersten AI Manager der kicker-Redaktion, wo er KI-Anwendungen koordinieren und redaktionelle Prozesse weiterentwickeln soll. Löhr bringt relevante Erfahrung mit, nachdem er bereits beim Sport-Informations-Dienst (SID) die KI-Integration im Newsroom verantwortete und zuvor bei Rheinische Post und Handelsblatt tätig war. Die Position unterstreicht die Strategie des kicker, KI als Unterstützungstool für effizientere Contentproduktion bei gleichbleibend hoher journalistischer Qualität zu etablieren.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Rheinische Post baut Digitalvertrieb aus: Markus Nelles wechselt von Lensing Media in neue Schlüsselposition Markus Nelles war zuletzt Chief Revenue & Subscription Officer bei Lensing Media",
-          "link": "https://kress.de/news/beitrag/152735-rheinische-post-baut-digitalvertrieb-aus-markus-nelles-wechselt-von-lensing-media-in-neue-schluesselposition.html",
-          "summary": "Die Rheinische Post Medien GmbH hat Markus Nelles zum 1. August als neuen stellvertretenden Vertriebsleiter verpflichtet, der von Lensing Media wechselt, wo er als Chief Revenue & Subscription Officer tätig war. In seiner neuen Position soll Nelles das digitale Abonnementgeschäft der Rheinischen Post strategisch und operativ ausbauen, mit Fokus auf die Bezahlangebote RP+ und ePaper. Die Personalie unterstreicht die Digitalstrategie des Verlags im B2C-Lesermarkt.",
+          "summary": "DLD Media, die Innovationsplattform von Hubert Burda Media, ernennt die 14-jährige Unternehmens-Veteranin Alessia Sinzger zur Co-Geschäftsführerin neben Gründerin Steffi Czerny. Sinzger, bisher Chief Commercial Officer, übernimmt die Verantwortung für den Ausbau von Partnerschaften und neuen Geschäftsmodellen, während Czerny weiterhin die inhaltliche Ausrichtung der internationalen Digitalkonferenz-Plattform verantwortet.",
           "score": 8
         },
         {
           "source": "kress",
-          "title": "Ex-Gruner+Jahr-Manager Arne Wolter wechselt zu einer globalen Marktforschungsplattform Arne Wolter hat bei Gruner + Jahr einst die Digitalerlöse angekurbelt. Jetzt bringt er diese Erfahrung zu Appinio",
-          "link": "https://kress.de/news/beitrag/152730-ex-gruner-jahr-manager-arne-wolter-wechselt-zu-einer-globalen-marktforschungsplattform.html",
-          "summary": "Arne Wolter, ehemaliger Chief Digital Officer von Gruner + Jahr, wird neuer CEO der globalen Marktforschungsplattform Appinio und folgt auf Max Honig. Der 51-Jährige bringt über 25 Jahre Erfahrung in der Digitalskalierung mit und steigerte bei G+J den digitalen Umsatzanteil von 10 auf über 40 Prozent. Appinio ist in über 190 Märkten aktiv, beschäftigt rund 250 Mitarbeitende und betreut mehr als 3.000 Unternehmenskunden weltweit.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Vom Bauernverband in den Verlag: Stefan Ortmann wird Geschäftsführer im dlv Der Deutsche Landwirtschaftsverlag bekommt einen neuen Geschäftsführer mit ungewöhnlichem Profil: Stefan Ortmann kommt aus der Verbandsarbeit",
-          "link": "https://kress.de/news/beitrag/152729-vom-bauernverband-in-den-verlag-stefan-ortmann-wird-geschaeftsfuehrer-im-dlv.html",
-          "summary": "Stefan Ortmann wird neuer Geschäftsführer des Deutschen Landwirtschaftsverlags (dlv) und übernimmt diese Position zusätzlich zu seiner Rolle als Hauptgeschäftsführer des Landvolk Niedersachsen. Er folgt auf den in den Ruhestand verabschiedeten Helmut Brachtendorf und bringt umfassende Branchenerfahrung aus der Landwirtschaftskammer Niedersachsen mit. Der dlv gehört mit über 400 Mitarbeitern und mehr als 80 Mio. Euro Jahresumsatz zu den Top-10 Fachverlagen Deutschlands.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Falstaff setzt auf Doppelspitze: Hans Martin Gesellmann verstärkt Weinchefredaktion neben Peter Moser Peter Moser hat die Falstaff-Weinchefredaktion jahrelang alleine verantwortet",
-          "link": "https://kress.de/news/beitrag/152731-falstaff-setzt-auf-doppelspitze-hans-martin-gesellmann-verstaerkt-weinchefredaktion-neben-peter-moser.html",
-          "summary": "Das Weinmagazin Falstaff führt ab September eine Doppelspitze in der Weinchefredaktion ein: Hans Martin Gesellmann verstärkt Peter Moser, der bisher die österreichische Weinredaktion alleine leitete. Gesellmann bringt umfangreiche Branchenerfahrung aus leitenden Positionen bei Wein & Co und dem Weinhandel Kracher Fine Wine mit und spezialisierte sich auf französische und kalifornische Weine.",
+          "title": "Welt-Gastautor Steinhöfel kontert den Spiegel Der Hamburger Rechtsanwalt Joachim Steinhöfel wirft...",
+          "link": "https://kress.de/news/beitrag/152738-debatte-um-ungeskriptet-quot-geht-weiter-welt-gastautor-steinhoefel-kontert-den-spiegel.html",
+          "summary": "Rechtsanwalt Joachim Steinhöfel kritisiert in einem Welt-Gastbeitrag die Spiegel-Berichterstattung über den Podcast „ungeskriptet\" von Ben Berndt und wirft dem Magazin journalistische Doppelstandards vor. Der Spiegel hatte zuvor das Format kritisiert, weil Host Berndt dem AfD-Politiker Björn Höcke in einem viereinhalb-stündigen Interview unkritisch Raum für rechtsextreme Positionen geboten hatte. Die Debatte dreht sich um die journalistische Bewertung von Podcast-Formaten, die kontroverse politische Gäste ohne kritische Einordnung zu Wort kommen lassen.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Neuer Job für Ex-\"Spiegel\"-Geschäftsführer Medienbericht: Stefan Ottlitz geht zu Burda Der...",
-          "link": "https://meedia.de/news/beitrag/21722-medienbericht-stefan-ottlitz-geht-zu-burda.html",
-          "summary": "Stefan Ottlitz, ehemaliger Geschäftsführer des \"Spiegel\" und Architekt des dortigen Paid-Content-Geschäfts, wechselt laut \"Horizont\" zum 1. Juli zu Burda Media als Verantwortlicher für das Deutschland- und Digitalgeschäft. Eine offizielle Bestätigung steht noch aus, da sich Burda zu \"Gerüchten über Personalien\" nicht äußern will. Der Medienmanager hatte Ende 2025 nach acht Jahren überraschend den \"Spiegel\" verlassen und kehrt damit nach München zurück, wo er bereits bei der \"Süddeutschen Zeitung\" als Digitalchef tätig war.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "Autohersteller Kia Europe ernennt Dante Zilli zum Marketingdirektor Kia Europe in Frankfurt hat Dante Zilli mit Wirkung 1.",
-          "link": "https://meedia.de/news/beitrag/21725-kia-europe-ernennt-dante-zilli-zum-marketingdirektor.html",
-          "summary": "Kia Europe hat Dante Zilli zum 1. Mai zum neuen Marketingdirektor ernannt, der die Markenstrategie leiten und die Elektrifizierungstransformation des Unternehmens marketingseitig begleiten soll. Zilli, der seit 2021 bei Kia Europe in verschiedenen Führungspositionen tätig war und zuvor im Fiat-Konzern arbeitete, übernimmt von David Hilbert, der nach fünf Jahren zu Kia Großbritannien zurückkehrt. Seine Hauptaufgaben umfassen die Umsetzung integrierter Kampagnen, Produkteinführungen und die Stärkung der Markenkonsistenz in Europa.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Quartals-Bilanz Digitale Werbeflächen treiben Wachstum bei JCDecaux an Der Außenwerbekonzern...",
-          "link": "https://meedia.de/news/beitrag/21724-digitale-werbeflaechen-treiben-wachstum-bei-jcdecaux-an.html",
-          "summary": "JCDecaux steigerte im ersten Quartal 2026 den Umsatz um 2,6% auf 880,6 Millionen Euro, getrieben durch digitale Werbeflächen (+13,1% organisch) und programmatische Buchungen (+27,2% organisch). Digitale Umsätze machen mittlerweile 41,7% des Konzernumsatzes aus, während programmatische Werbung 10,5% der digitalen Erlöse stellt und als strategischer Wachstumsschwerpunkt definiert wird. Für das zweite Quartal prognostiziert der Außenwerbekonzern ein Wachstum von 3%.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Neu geschaffene Position Nicole Michalik ist Director Strategy & Business Development der Zeit...",
-          "link": "https://meedia.de/news/beitrag/21723-nicole-michalik-ist-director-strategy-amp-business-development-der-zeit-verlagsgruppe.html",
-          "summary": "Die Zeit Verlagsgruppe hat Nicole Michalik, die seit 2022 als Head of Executive Projects für den Verlag tätig war, zur neu geschaffenen Director Strategy & Business Development befördert. In ihrer neuen Rolle als Mitglied des Management Boards verantwortet sie die bereichsübergreifende Steuerung strategischer Initiativen, die Erschließung neuer Wachstumsfelder sowie die Begleitung der KI-Transformation im Unternehmen. Michalik berichtet direkt an den neuen CEO Nils von der Kall und soll die Gesamtstrategie des Verlags in konkrete Projekte zur Weiterentwicklung des Produkt- und Geschäftsportfolios übersetzen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Illegale Sport-Streaming-Plattform DAZN und DFL lassen livetv.sx den Saft abdrehen Dem...",
-          "link": "https://meedia.de/news/beitrag/21720-dazn-und-dfl-lassen-livetv-sx-den-saft-abdrehen.html",
-          "summary": "DAZN und die Deutsche Fußball Liga (DFL) haben erfolgreich eine gerichtliche Sperrung der illegalen Sport-Streaming-Plattform livetv.sx durch deutsche Provider erwirkt. Das Landgericht Köln bestätigte am 22. April 2024, dass die seit über 13 Jahren aktive Website strukturell urheberrechtsverletzend ist und einen erheblichen Anteil des illegalen Sport-Streaming-Konsums im deutschsprachigen Raum ausmacht. Der Fall wurde über die CUII (Clearingstelle für Internetpiraterie) koordiniert und gilt als Meilenstein im Kampf gegen Content-Diebstahl.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Aktie mit Kurssprung Dank KI-Tools wächst Reddit-Werbung um 69 Prozent Die Online-Plattform Reddit erlebt derzeit einen kräftigen Wachstumsschub",
-          "link": "https://meedia.de/news/beitrag/21719-dank-ki-tools-waechst-reddit-werbung-um-69-prozent.html",
-          "summary": "Reddit verzeichnet ein starkes Wachstum im Werbegeschäft mit einem Umsatzanstieg um 69 Prozent, getrieben durch KI-gestützte Werbetools wie automatisierte Kampagnenoptimierung und zielgerichtete Anzeigenplatzierung in thematisch passenden Communities. Das Unternehmen übertraf die Analystenschätzungen deutlich mit einer Umsatzprognose von 715-725 Millionen US-Dollar für das laufende Quartal und verzeichnete einen Anstieg der aktiven Werbekunden um 75 Prozent sowie täglich 126,8 Millionen aktive Nutzer (+17% YoY). Trotz eines kurzfristigen Aktienkursanstiegs von über 11 Prozent liegt das Wertpapier seit Jahresbeginn noch 25 Prozent im Minus.",
+          "title": "Der Rollout beginnt OpenAI öffnet ChatGPT-Werbung als Self-Service für (fast) alle OpenAI hat Werbung in ChatGPT nicht neu erfunden",
+          "link": "https://meedia.de/news/beitrag/21732-openai-oeffnet-chatgpt-werbung-als-self-service-fuer-fast-alle.html",
+          "summary": "OpenAI führt ein Self-Service-Werbesystem für ChatGPT ein, das Unternehmen ermöglicht, Anzeigen eigenständig zu buchen, verwalten und optimieren – ähnlich wie bei Google Ads oder Meta Ads. Diese Entwicklung verwandelt ChatGPT von einem experimentellen Werbekanal zu einer vollwertigen, skalierbaren Werbeplattform und stellt eine direkte Konkurrenz zu den etablierten Geschäftsmodellen von Google und Meta dar. Der Schritt markiert einen strategischen Wendepunkt für OpenAI, das bisher zurückhaltend gegenüber klassischen Anzeigenmodellen war.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Disney Begins Josh D’Amaro Era With A Bang, Posting Strong Quarterly Results As Entertainment Streaming Booms",
-          "link": "https://deadline.com/2026/05/disney-earnings-josh-damaro-ceo-streaming-1236882247/",
-          "summary": "Disney startete unter dem neuen CEO Josh D'Amaro stark ins zweite Quartal 2026 mit einem Umsatzwachstum von 7% auf 25,2 Milliarden US-Dollar und einem Gewinn je Aktie von 1,57 US-Dollar, beide Kennzahlen übertrafen die Analystenschätzungen. Das Entertainment-Streaming-Segment verzeichnete einen bemerkenswerten Anstieg des Betriebsergebnisses um 88% auf 582 Millionen US-Dollar, getrieben durch Abonnentenzuwächse, Preiserhöhungen und verstärkte Werbeeinnahmen. D'Amaro, der zuvor die Experiences-Sparte leitete, definiert drei strategische Säulen: Investitionen in geistiges Eigentum, verbesserte Kundenreichweite und den Fokus auf Technologie.",
+          "title": "‘Saturday Night Live UK’ Renewed For Season 2 At Sky",
+          "link": "https://deadline.com/2026/05/saturday-night-live-uk-renewed-season-2-at-sky-1236884143/",
+          "summary": "Sky hat \"Saturday Night Live UK\" für eine zweite Staffel verlängert, die im Herbst 2026 mit 12 Episoden ausgestrahlt wird. Obwohl die Einschaltquoten bescheiden waren, überzeugte die Show durch positive Kritiken, hochkarätige Gastgeber wie Tina Fey und Nicola Coughlan sowie starke Social-Media-Performance mit über 86 Millionen Views. Die britische Adaption der US-Comedy-Institution hat sich erfolgreich etabliert und neue Talente wie George Fouracres und Al Nash hervorgebracht.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "ZDF’s ‘The Flaws’ Wins Seriencamp Competition Award",
-          "link": "https://deadline.com/2026/05/zdf-the-flaws-wins-seriencamp-competition-award-1236882546/",
-          "summary": "Die ZDF-Serie \"The Flaws\", die Angestellte eines deutschen Regierungsbüros bei einem fortgeschrittenen Ausbildungsprogramm nach einer glücklichen Verwechslung zeigt, hat den Hauptwettbewerbspreis beim Seriencamp Festival in Köln gewonnen. Das Festival (9.-11. Juni) konzentriert sich auf Beziehungsdramen und ehrt Warner Bros. Discovery-Programmchefin Anke Greifeneder mit dem Deadline German TV Disruptor Award. Neben \"The Flaws\" wurden auch ORF-ZDF's \"Buried and Sheep\" mit dem Kurzform-Award ausgezeichnet, während der Kritikerpreis noch vergeben wird.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Revealed: The Top-Selling New TV Format Of The 2020s",
-          "link": "https://deadline.com/2026/05/the-traitors-the-floor-top-selling-tv-format-2020-1236881205/",
-          "summary": "\"The Traitors\" ist mit 47 Adaptationen das erfolgreichste neue TV-Format der 2020er Jahre und macht über 20% aller neuen Formatstarts seit 2020 aus, wie eine Analyse von K7 zeigt. Auf Platz zwei folgt \"The Floor\" mit 32 Adaptationen, während das französische Format \"The A Talks\" (auch \"The Assembly\" genannt) mit prominenten Gästen und neurodivergenten Interviewern den dritten Platz belegt. Beide Top-Formate stammen aus den Niederlanden, was die anhaltende Dominanz des Landes als Format-Entwickler unterstreicht.",
+          "title": "Sony President Wayne Garvie Says BBC & Channel 4 Must Join Forces To Avoid Becoming “Has-Beens”",
+          "link": "https://deadline.com/2026/05/sony-president-wayne-garvie-bbc-join-forces-1236884109/",
+          "summary": "Sony Pictures Television-Präsident Wayne Garvie fordert eine strategische Allianz zwischen BBC und Channel 4, wobei Channel 4 als \"kommerzieller Arm\" der BBC fungieren soll, um gegen YouTube und TikTok konkurrenzfähig zu bleiben. Er appelliert an die neuen Führungskräfte Matt Brittin (BBC) und Priya Dogra (Channel 4), angesichts fragmentierter Zuschauerschaft und sinkender Werbeerlöse schnell zu handeln, bevor britische Broadcaster zu \"schwachen Nachzüglern\" werden. Garvie betont, dass beide Sender ihre separate Identität behalten könnten, während sie gemeinsam das öffentlich-rechtliche Broadcasting neu ausrichten.",
           "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Josh D’Amaro Lays Out “Long-Term View” for Disney in First Earnings Report Since Taking Over as CEO",
-          "link": "https://www.hollywoodreporter.com/business/business-news/josh-damaro-long-term-disney-strategy-first-earnings-report-1236587417/",
-          "summary": "Disney CEO Josh D'Amaro nutzte seinen ersten Quartalsbericht seit der Übernahme von Bob Iger, um seine langfristige Unternehmensstrategie zu präsentieren, die auf drei Säulen basiert: Investitionen in durchschlagende IP-Entwicklung, globale Verbraucherreichweite und den Einsatz fortschrittlicher Technologien für Storytelling und Monetarisierung. Das Unternehmen übertraf die Wall Street-Erwartungen mit einem Umsatz von 25,2 Milliarden Dollar (+7%) und einem Betriebsergebnis von 4,6 Milliarden Dollar (+4%), wobei die Entertainment-Sparte mit 11,7 Milliarden Dollar Umsatz (+10%) führte. Disney erhöhte zugleich sein Aktienrückkaufziel auf 8 Milliarden Dollar und prognostiziert ein EPS-Wachstum von 12% für das laufende Jahr.",
+          "title": "‘Saturday Night Live U.K.’ Gets Season 2 Renewal From Sky",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/saturday-night-live-uk-season-2-sky-snl-1236588953/",
+          "summary": "Sky hat die britische Version von \"Saturday Night Live\" für eine zweite Staffel verlängert, die von acht auf zwölf Episoden erweitert wird und von September 2025 bis Anfang 2027 ausgestrahlt werden soll. Die erste Staffel featerte prominente Hosts wie Tina Fey, Riz Ahmed und Jamie Dornan, wobei Hannah Waddingham und Ncuti Gatwa die verbleibenden Episoden moderieren werden. Executive Producer Lorne Michaels und Sky bezeichnen die Show trotz anfänglicher Zweifel als Sky's meistdiskutierte Serie des Jahres.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "‘Saturday Night Live U.K.’ Set to be Renewed for Season 2 (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/global/saturday-night-live-uk-renewed-season-2-1236732134/",
+          "summary": "Sky hat \"Saturday Night Live U.K.\" trotz schwacher Einschaltquoten für eine zweite Staffel mit 12 Episoden verlängert, die im Herbst 2026 und Anfang 2027 ausgestrahlt wird. Die Show erhält starke Unterstützung von Sky-CEO Dana Strong und dem ursprünglichen \"SNL\"-Schöpfer Lorne Michaels, wobei prominente US-Alumni wie Tina Fey und Jimmy Fallon bereits als Gäste aufgetreten sind. Die Live-Übertragungen haben sich zu einem begehrten Event für Comcast-Führungskräfte und Branchenkollaborateure entwickelt.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Steve Coogan and Tom Burke Excel as Undercover Agents in Netflix War on Drugs Drama ‘Legends’: TV Review",
+          "link": "https://variety.com/2026/tv/reviews/legends-review-steve-coogan-netflix-1236738403/",
+          "summary": "Netflix's \"Legends\" ist eine kompakte, fesselnde Serie über britische Zollbeamte, die in der späten Thatcher-Ära Amateur-Spione zur Infiltration von Heroin-Ringen ausbilden. Steve Coogan und Tom Burke überzeugen als Ausbilder und Rekrut in dieser auf wahren Begebenheiten basierenden Produktion von Neil Forsyth (\"The Gold\"). Die Serie punktet mit straffer Erzählweise, starker Besetzung und der Thematisierung von falschen Identitäten und ungenutztem Potenzial.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Amazon MX Player Integrates Into Prime Video in India",
+          "link": "https://variety.com/2026/tv/news/amazon-mx-player-merges-prime-video-india-1236740262/",
+          "summary": "Amazon integriert seinen kostenlosen Streaming-Service MX Player vollständig in Prime Video India und schafft damit eine einheitliche Plattform, die sowohl werbefinanzierte kostenlose Inhalte als auch Premium-Abonnements unter einem Dach vereint. Die Integration soll in den kommenden Monaten abgeschlossen werden und Prime-Mitgliedern die Wahl zwischen werbefreier und werbefinanzierter Wiedergabe bieten, während Nicht-Abonnenten Zugang zu einer erweiterten kostenlosen Bibliothek erhalten. MX Player war 2024 entstanden, als Amazon Teile der ursprünglichen MX Player-Marke übernahm und mit dem eigenen miniTV-Service fusionierte.",
           "score": 8
         }
       ]
