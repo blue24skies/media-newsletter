@@ -1,77 +1,70 @@
 {
   "newsletters": [
     {
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "articles": [
         {
-          "source": "kress",
-          "title": "Werden jetzt wirklich mehr konservative Journalisten gesucht?",
-          "link": "https://kress.de/news/beitrag/152749-nach-zeit-aufruf-werden-jetzt-wirklich-mehr-konservative-journalisten-gesucht.html",
-          "summary": "Nach Beobachtungen des Karrierecoaches Attila Albert wechseln vermehrt Journalisten zu konservativeren Medien wie \"Junge Freiheit\", \"NZZ\" oder \"Nius\", während eine TU Dortmund-Studie von 2024 noch eine starke Linksorientierung der Branche zeigte (41% Grüne, 16% SPD-Sympathisanten). \"Die Zeit\"-Co-Chefredakteur Jochen Wegner bestätigte diesen Trend beim Medien Camp 2026 und erklärte, das Blatt suche dringend konservative junge Journalisten, da progressive Stimmen bereits ausreichend vorhanden seien. Der Wandel spiegelt den allgemeinen politischen Rechtstrend wider und wird von den betroffenen Journalisten inzwischen selbstverständlicher kommuniziert.",
-          "score": 7
+          "source": "DWDL",
+          "title": "Spardruck: MDR pausiert bei \"Tatort\" und \"Polizeiruf\"",
+          "link": "https://www.dwdl.de/nachrichten/106455/spardruck_mdr_pausiert_bei_tatort_und_polizeiruf/",
+          "summary": "Der MDR pausiert aufgrund von Spardruck drei Jahre lang die Produktion neuer \"Tatort\"- und \"Polizeiruf 110\"-Folgen, nachdem bereits \"MDR um 2\" eingestellt und das \"Mittagsmagazin\" an den NDR abgegeben wurde. MDR-Intendant Ralf Ludwig führt diese drastischen Sparmaßnahmen auf die ausgebliebene Erhöhung des Rundfunkbeitrags zum 1. Januar 2025 zurück, die zu erheblichen Budget-Kürzungen führte. Bereits fertiggestellte Produktionen werden weiterhin ausgestrahlt, dennoch bedeutet dies mittelfristig deutlich weniger Krimi-Nachschub aus dem MDR-Sendegebiet.",
+          "score": 9
         },
         {
-          "source": "kress",
-          "title": "Pakete, Medikamente, Zeitung: Nordkurier wird zum Logistiker",
-          "link": "https://kress.de/news/beitrag/152748-pakete-medikamente-zeitung-nordkurier-wird-zum-logistiker-um-print-zu-retten.html",
-          "summary": "Die Nordkurier Mediengruppe stellt ihre Zeitungszustellung auf Vorabendzustellung um und baut ein eigenes Logistiknetz auf, das neben Zeitungen auch Pakete, Medikamente und andere Produkte ausliefert, um die steigenden Kosten der Morgenzustellung zu kompensieren. Das bereits in Testregionen erprobte Modell führt zu sieben statt sechs wöchentlichen Printausgaben (Dienstag bis Sonntag) und soll die gedruckte Zeitung im ländlichen Raum langfristig sichern. Geschäftsführer Schumacher plant den Projektabschluss noch 2026 und sieht das Konzept als Branchenlösung gegen das Verschwinden der Printzeitung.",
+          "source": "DWDL",
+          "title": "Patentstreit um Streaming-Technologie: Huawei verklagt RTL",
+          "link": "https://www.dwdl.de/nachrichten/106453/patentstreit_um_streamingtechnologie_huawei_verklagt_rtl/",
+          "summary": "Huawei hat RTL Group wegen Patentverletzung bei MPEG-DASH/HEVC-Streaming-Technologien vor dem Einheitlichen Patentgericht in Mannheim verklagt, nachdem RTL bereits eine Nichtigkeitsklage gegen ein anderes Huawei-Patent eingereicht hatte. Der Rechtsstreit ist Teil einer branchenweiten Patentauseinandersetzung um Video-Streaming-Technologien, in der Huawei parallel gegen Disney und Meta vorgeht. Das streitige Patent betrifft Verfahren zur effizienten adaptiven Videoübertragung mit reduziertem Buffering.",
           "score": 8
         },
         {
-          "source": "kress",
-          "title": "OMR Festival 2026: Die Sätze, die bleiben OpenAI-Mann Nick Turley sagte beim OMR Festival etwas, das aufhorchen lässt: Künftig werde nicht mehr der Mensch die KI prompten",
-          "link": "https://kress.de/news/beitrag/152745-omr-festival-2026-die-saetze-die-bleiben.html",
-          "summary": "Beim OMR Festival 2026 prognostizierte Nick Turley von OpenAI eine fundamentale Umkehr im Verhältnis zwischen Mensch und KI: Künftig werde die KI als proaktiver persönlicher Assistent den Menschen prompten statt umgekehrt. Deutsche Politiker wie Digitalminister Wildberger und Vizekanzler Klingbeil betonten die Notwendigkeit europäischer KI-Souveränität und Unabhängigkeit von US-Tech-Giganten. Schwarz Digits' Co-CEO Schumann unterstrich, dass nicht die KI-Modelle entscheidend seien, sondern die Kontrolle über Trainingsdaten – wobei Europa durch seinen Datenschutzansatz einen strategischen Vorteil gegenüber China und den USA besitze.",
+          "source": "DWDL",
+          "title": "Mermaiding-Serie von RTL+ wird im Juni veröffentlicht",
+          "link": "https://www.dwdl.de/nachrichten/106433/mermaidingserie_von_rtl_wird_im_juni_veroeffentlicht/",
+          "summary": "RTL+ veröffentlicht am 11. Juni die Young Adult Rom-Com Serie \"Mermaids to Lovers\" (ursprünglich \"Schwanzlos\"), das vierte Gewinner-Projekt des Nachwuchsförderprogramms \"Storytellers\" von den HFF München-Autorinnen Lia Zebra und Larissa Dold. Die von Warner Bros. ITVP Deutschland produzierte Serie profitierte erstmals von der neuen Kooperation mit der Film- und Medienstiftung NRW, wodurch sich das Produktionsbudget mehr als verdoppelte. Die Handlung dreht sich um die 18-jährige Leistungsschwimmerin Trixie, deren väterliches Schwimmbad an Mermaiding-Enthusiasten vermietet wird, darunter der 16-jährige Insta-Star Finn.",
           "score": 7
         },
         {
-          "source": "kress",
-          "title": "Ex-Spiegel-Geschäftsführer Ottlitz vor Wechsel zu Burda Media Sechs Jahre trieb Stefan Ottlitz als Co-Geschäftsführer die digitale Transformation des Spiegel-Verlags voran",
-          "link": "https://kress.de/news/beitrag/152744-ex-spiegel-geschaeftsfuehrer-ottlitz-vor-wechsel-zu-burda-media.html",
-          "summary": "Stefan Ottlitz, der sechs Jahre als Co-Geschäftsführer die digitale Transformation des Spiegel-Verlags vorantrieb, wechselt laut Medienberichten zum 1. Juli 2026 zu Burda Media, wo er die Verantwortung für das Deutschland- und Digitalgeschäft übernehmen soll. Der Wechsel erfolgt während einer umfassenden Umstrukturierungsphase bei Burda Media unter der neuen Führung von Wachtel, die bereits Stellenabbau bei Burda Studios und BCN sowie strategische Neuausrichtungen zur Folge hatte. Ottlitz würde bei Burda vor komplexen Aufgaben stehen, darunter der Aufbau neuer Erlösmodelle für Printmarken und die Optimierung der Doppelstrukturen zwischen verschiedenen Burda-Einheiten.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "DLD setzt auf Doppelspitze: Alessia Sinzger steigt zur Co-Geschäftsführerin auf Alessia Sinzger prägt DLD seit mehr als 14 Jahren",
-          "link": "https://kress.de/news/beitrag/152739-dld-setzt-auf-doppelspitze-alessia-sinzger-steigt-zur-co-geschaeftsfuehrerin-auf.html",
-          "summary": "Alessia Sinzger wird nach 14 Jahren bei DLD zur Co-Geschäftsführerin der Burda-Innovationsplattform befördert und leitet das Unternehmen künftig gemeinsam mit Gründerin Steffi Czerny. Sinzger verantwortet den Ausbau von Partnerschaften und neuen Geschäftsmodellen, während Czerny weiterhin die inhaltliche Ausrichtung der internationalen Konferenz- und Innovationsplattform übernimmt. DLD organisiert seit 20 Jahren Europas führende Digitalkonferenz in München mit hochkarätigen Tech-Speakern wie Mark Zuckerberg und Sam Altman.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Vom Dokument zur Arbeitsplattform Sponsored Post: Mit Acrobat Studio hebt Adobe die Arbeit mit PDFs auf eine neue Ebene.",
-          "link": "https://kress.de/news/beitrag/152740-vom-dokument-zur-arbeitsplattform.html",
-          "summary": "Adobe Acrobat Studio transformiert seit August 2025 die klassische PDF-Bearbeitung zu einer KI-gestützten Arbeitsplattform mit kollaborativen PDF Spaces für bis zu 100 Dateien und einem chatbasierten KI-Assistenten. Die Plattform integriert generative Funktionen zur automatischen Erstellung von Präsentationen und Audio-Zusammenfassungen sowie Adobe Express für nahtloses Design-Workflow. Kernfeatures umfassen erweiterte PDF-Tools, E-Signatur-Lösungen und die Möglichkeit, statische Dokumente in interaktive Arbeits- und Wissensräume zu verwandeln.",
+          "source": "meedia",
+          "title": "MDR-Intendant Ralf Ludwig verkündet drastische Sparmaßnahmen MDR setzt für drei Jahre Produktion...",
+          "link": "https://meedia.de/news/beitrag/21755-mdr-setzt-fuer-drei-jahre-produktion-von-quot-tatort-quot-und-quot-polizeiruf-quot-aus.html",
+          "summary": "Der MDR verkündet drastische Sparmaßnahmen, die eine dreijährige Produktionspause für \"Tatort\" und \"Polizeiruf\", eine 30-prozentige Reduktion der Social-Media-Aktivitäten und die Einstellung kleinerer Podcasts unter 6.000 monatlichen Hörern umfassen. Zusätzlich gibt der Sender das \"Mittagsmagazin\" an den NDR ab und streicht insgesamt 200 Stellen. Das Magazin \"MDR um 2\" wird durch ein streamingoptimiertes Nachrichtenformat ersetzt.",
           "score": 9
         },
         {
           "source": "meedia",
-          "title": "Mit Thomas Müller und Laura Wontorra Deichmann verkauft direkt im RTL+-Stream Deichmann und Ad...",
-          "link": "https://meedia.de/news/beitrag/21740-deichmann-verkauft-direkt-im-rtl-stream.html",
-          "summary": "Deichmann und Ad Alliance führen mit dem „Product Match Ad\" ein neues Werbeformat für RTL+ ein, bei dem Zuschauer über QR-Codes direkt während des Streamings Schuhe kaufen können. Das Format versucht Streaming-Inhalte mit direktem E-Commerce zu verknüpfen, wobei jedoch Medienbrüche zwischen Connected TV und Smartphone sowie zwischen passiver und aktiver Mediennutzung entstehen. Der Erfolg des Experiments hängt maßgeblich davon ab, ob der Kaufimpuls stark genug ist, um die Nutzer trotz potentiell aufwendiger Registrierungsprozesse zum Kauf zu bewegen.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "‘Peak TV is behind us’: UK developers pivot from building studios to datacentres amid AI boom",
-          "link": "https://www.theguardian.com/film/2026/may/09/tv-film-studios-developers-datacentres-ai-boom",
-          "summary": "UK-Immobilienentwickler schwenken nach dem Ende des \"Peak TV\"-Booms von Studiobau auf Rechenzentren um, da die Streaming-Kriege abflauen und die AI-Nachfrage steigt. Pinewood Studios plant beispielsweise 78% ihrer geplanten Erweiterung als Rechenzentrum zu nutzen, während die BFI für 2025 den dritten konsekutiven Rückgang bei UK-Produktionen erwartet. Trotz erfolgreicher laufender Projekte wie Bridgerton ist der große britische Studio-Bauboom nach dem Rekordjahr 2021 (£7,8 Mrd. Ausgaben) offiziell beendet.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Riley Green Joins ‘The Voice’ As A Coach For Season 30",
-          "link": "https://deadline.com/2026/05/riley-green-the-voice-season-30-1236888509/",
-          "summary": "Country-Sänger Riley Green wird als neuer Coach in der 30. Staffel von NBC's \"The Voice\" zu Kelly Clarkson und Adam Levine stoßen, nachdem John Legend die Show verlassen hat. Green, bekannt für Hits wie \"There Was This Girl\" und \"I Wish Grandpas Never Died\", übernimmt damit seine erste Rolle als Juror in einer Gesangsshow. Die neue Staffel wird im Herbst mit vier Coaches ausgestrahlt, wobei der vierte Coach noch bekannt gegeben wird.",
+          "title": "DoubleVerify veröffentlicht Studie Betrugsrisiken im CTV-Markt steigen Der Verifizierungsanbieter...",
+          "link": "https://meedia.de/news/beitrag/21754-betrugsrisiken-im-ctv-markt-steigen.html",
+          "summary": "DoubleVerify meldet in seinem \"Global Insights Report 2026\" einen drastischen Anstieg der CTV-Betrugsrisiken um 140% im ersten Quartal 2026 gegenüber dem Vorjahr, wobei Betrüger verstärkt KI-Technologien für komplexere Angriffsmethoden einsetzen. Der Bericht basiert auf Kampagnendaten sowie Befragungen von über 2.000 Marketingverantwortlichen und 22.000 Konsumenten in mehr als 20 Märkten. Das dynamische Wachstum des CTV-Marktes zieht Premium-Werbebudgets und damit auch vermehrt betrügerische Akteure an, weshalb Werbetreibende verstärkte Schutzmaßnahmen implementieren sollten.",
           "score": 7
         },
         {
-          "source": "Variety",
-          "title": "Television Academy Endorses Post-Production Tax Credit Bill as Assemblyman Nick Schultz Rallies Support in Burbank: ‘We Should Have Done This a Decade Ago’",
-          "link": "https://variety.com/2026/tv/news/television-academy-post-production-tax-credit-nick-schultz-1236742365/",
-          "summary": "Die Television Academy hat ihre Unterstützung für den kalifornischen Gesetzentwurf AB 2319 angekündigt, der steuerliche Anreize für Post-Production-Arbeiten schaffen soll, um diese Tätigkeiten im Bundesstaat zu halten. Assemblyman Nick Schultz, der den Gesetzentwurf vorantreibt, warb bei einem Town Hall-Meeting der California Post Alliance in Burbank mit 200 Teilnehmern um weitere Unterstützung. Die TV Academy begründet ihre Unterstützung damit, dass über 20.000 ihrer Mitglieder in Kalifornien leben und von der Sicherung dieser Arbeitsplätze profitieren würden.",
+          "source": "meedia",
+          "title": "1, sieht die Übernahme des deutschen TV-Konzerns durch Media for Europe “eher kritisch”.",
+          "link": "https://meedia.de/news/beitrag/21751-ex-vorstand-breitenecker-sieht-uebernahme-durch-mfe-quot-eher-kritisch-quot.html",
+          "summary": "Markus Breitenecker, ehemaliger COO von ProSiebenSat.1, äußerte sich beim Journalismusfest in Salzburg kritisch zur Übernahme des deutschen TV-Konzerns durch Media for Europe (MFE) der Berlusconi-Familie, die zu seinem Ausscheiden im Oktober 2025 führte. Er warnte vor der Dominanz globaler Tech-Giganten wie Musk, Zuckerberg und Google-Gründer im Medienbereich und bezeichnete Europa als \"total antisouverän\". Breitenecker forderte eine stärkere Kooperation zwischen öffentlich-rechtlichen und privaten Medien in Europa sowie den Aufbau einer gemeinsamen europäischen Medieninfrastruktur.",
           "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Ex-Prime Video UK Boss Chris Bird Launches Two AI Ventures, One With ‘The Boy Who Lived’ Director Dan Hartley",
+          "link": "https://deadline.com/2026/05/chris-bird-dan-hartley-hawkshead-ai-cineme-ai-1236890192/",
+          "summary": "Der ehemalige Prime Video UK-Chef Chris Bird hat zwei KI-Unternehmen gegründet: HawksHead AI, eine Datenanalyseplattform zur Vorhersage der Zielgruppenperformance von Content-Projekten bereits in frühen Entwicklungsphasen, und CineMe AI (mit Dokumentarfilmer Dan Hartley), ein Tool zur automatischen Erstellung fotorealistischer Storyboards aus Drehbüchern. Beide Plattformen zielen darauf ab, Content-Erstellern durch KI-gestützte Analyse und Visualisierung bei Projektentwicklung und Finanzierungsakquise zu helfen.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Ofcom Investigating GB News Over Donald Trump Interview After All",
+          "link": "https://deadline.com/2026/05/ofcom-investigate-gb-news-donald-trump-interview-bev-turner-1236890188/",
+          "summary": "Ofcom hat eine Untersuchung gegen GB News bezüglich eines Donald Trump-Interviews eingeleitet, nachdem der Sender zunächst verschont blieb, weil die ursprüngliche Ausstrahlung kontextualisierende Panel-Diskussionen enthielt. Die Regulierungsbehörde prüft nun eine 12 Stunden später ausgestrahlte Version desselben Interviews auf \"angemessene Unparteilichkeit und materielle Irreführung\", da diese ohne entsprechenden Kontext gesendet wurde. GB News kritisiert Ofcoms Kehrtwende als Reaktion auf öffentlichen Druck von Kritikern beider Organisationen.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Amandaland’ Writer Reveals Dream Guest Star After Winning BAFTA: “She’s America’s Amanda”",
+          "link": "https://deadline.com/2026/05/amandaland-writer-reveals-melania-trump-dream-guest-star-1236890168/",
+          "summary": "Holly Walsh, Autorin der BBC-Comedy \"Amandaland\", gewann bei den BAFTA Television Awards den Preis für \"Best Scripted Comedy\" und äußerte den Wunsch, First Lady Melania Trump als Gaststar zu gewinnen, die sie als \"America's Amanda\" bezeichnet. Die Serie mit Lucy Punch in der Hauptrolle deutet eine dritte Staffel an und etabliert sich als eine der erfolgreichsten BBC-Comedys des Jahrzehnts. Weitere Comedy-Preise gingen an Steve Coogan für \"Alan Partridge\" und Seth Rogens \"The Studio\" in der internationalen Kategorie.",
+          "score": 7
         }
       ]
     }
