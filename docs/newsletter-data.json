@@ -1,70 +1,175 @@
 {
   "newsletters": [
     {
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Spardruck: MDR pausiert bei \"Tatort\" und \"Polizeiruf\"",
-          "link": "https://www.dwdl.de/nachrichten/106455/spardruck_mdr_pausiert_bei_tatort_und_polizeiruf/",
-          "summary": "Der MDR pausiert aufgrund von Spardruck drei Jahre lang die Produktion neuer \"Tatort\"- und \"Polizeiruf 110\"-Folgen, nachdem bereits \"MDR um 2\" eingestellt und das \"Mittagsmagazin\" an den NDR abgegeben wurde. MDR-Intendant Ralf Ludwig führt diese drastischen Sparmaßnahmen auf die ausgebliebene Erhöhung des Rundfunkbeitrags zum 1. Januar 2025 zurück, die zu erheblichen Budget-Kürzungen führte. Bereits fertiggestellte Produktionen werden weiterhin ausgestrahlt, dennoch bedeutet dies mittelfristig deutlich weniger Krimi-Nachschub aus dem MDR-Sendegebiet.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Patentstreit um Streaming-Technologie: Huawei verklagt RTL",
-          "link": "https://www.dwdl.de/nachrichten/106453/patentstreit_um_streamingtechnologie_huawei_verklagt_rtl/",
-          "summary": "Huawei hat RTL Group wegen Patentverletzung bei MPEG-DASH/HEVC-Streaming-Technologien vor dem Einheitlichen Patentgericht in Mannheim verklagt, nachdem RTL bereits eine Nichtigkeitsklage gegen ein anderes Huawei-Patent eingereicht hatte. Der Rechtsstreit ist Teil einer branchenweiten Patentauseinandersetzung um Video-Streaming-Technologien, in der Huawei parallel gegen Disney und Meta vorgeht. Das streitige Patent betrifft Verfahren zur effizienten adaptiven Videoübertragung mit reduziertem Buffering.",
+          "title": "Der schleichende Sparkurs des ZDF im Vorabend-Programm",
+          "link": "https://www.dwdl.de/nachrichten/106347/der_schleichende_sparkurs_des_zdf_im_vorabendprogramm/",
+          "summary": "Das ZDF reduziert aufgrund stagnierender Beitragseinnahmen und dem Druck, jüngere Zielgruppen zu erreichen, schleichend die Erstausstrahlungen seiner erfolgreichen Vorabend-Krimiserien wie \"SOKO\" und \"Rosenheim Cops\". Obwohl diese Serien seit Jahren verlässlich hohe Reichweiten erzielen und als \"zentraler Pfeiler\" des Programmangebots gelten, macht sich der Sparkurs durch eine wachsende Wiederholungsrate bemerkbar. Montags und freitags werden beispielsweise nur noch drei Monate lang neue \"SOKO\"-Folgen ausgestrahlt.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Mermaiding-Serie von RTL+ wird im Juni veröffentlicht",
-          "link": "https://www.dwdl.de/nachrichten/106433/mermaidingserie_von_rtl_wird_im_juni_veroeffentlicht/",
-          "summary": "RTL+ veröffentlicht am 11. Juni die Young Adult Rom-Com Serie \"Mermaids to Lovers\" (ursprünglich \"Schwanzlos\"), das vierte Gewinner-Projekt des Nachwuchsförderprogramms \"Storytellers\" von den HFF München-Autorinnen Lia Zebra und Larissa Dold. Die von Warner Bros. ITVP Deutschland produzierte Serie profitierte erstmals von der neuen Kooperation mit der Film- und Medienstiftung NRW, wodurch sich das Produktionsbudget mehr als verdoppelte. Die Handlung dreht sich um die 18-jährige Leistungsschwimmerin Trixie, deren väterliches Schwimmbad an Mermaiding-Enthusiasten vermietet wird, darunter der 16-jährige Insta-Star Finn.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "MDR-Intendant Ralf Ludwig verkündet drastische Sparmaßnahmen MDR setzt für drei Jahre Produktion...",
-          "link": "https://meedia.de/news/beitrag/21755-mdr-setzt-fuer-drei-jahre-produktion-von-quot-tatort-quot-und-quot-polizeiruf-quot-aus.html",
-          "summary": "Der MDR verkündet drastische Sparmaßnahmen, die eine dreijährige Produktionspause für \"Tatort\" und \"Polizeiruf\", eine 30-prozentige Reduktion der Social-Media-Aktivitäten und die Einstellung kleinerer Podcasts unter 6.000 monatlichen Hörern umfassen. Zusätzlich gibt der Sender das \"Mittagsmagazin\" an den NDR ab und streicht insgesamt 200 Stellen. Das Magazin \"MDR um 2\" wird durch ein streamingoptimiertes Nachrichtenformat ersetzt.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "DoubleVerify veröffentlicht Studie Betrugsrisiken im CTV-Markt steigen Der Verifizierungsanbieter...",
-          "link": "https://meedia.de/news/beitrag/21754-betrugsrisiken-im-ctv-markt-steigen.html",
-          "summary": "DoubleVerify meldet in seinem \"Global Insights Report 2026\" einen drastischen Anstieg der CTV-Betrugsrisiken um 140% im ersten Quartal 2026 gegenüber dem Vorjahr, wobei Betrüger verstärkt KI-Technologien für komplexere Angriffsmethoden einsetzen. Der Bericht basiert auf Kampagnendaten sowie Befragungen von über 2.000 Marketingverantwortlichen und 22.000 Konsumenten in mehr als 20 Märkten. Das dynamische Wachstum des CTV-Marktes zieht Premium-Werbebudgets und damit auch vermehrt betrügerische Akteure an, weshalb Werbetreibende verstärkte Schutzmaßnahmen implementieren sollten.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "1, sieht die Übernahme des deutschen TV-Konzerns durch Media for Europe “eher kritisch”.",
-          "link": "https://meedia.de/news/beitrag/21751-ex-vorstand-breitenecker-sieht-uebernahme-durch-mfe-quot-eher-kritisch-quot.html",
-          "summary": "Markus Breitenecker, ehemaliger COO von ProSiebenSat.1, äußerte sich beim Journalismusfest in Salzburg kritisch zur Übernahme des deutschen TV-Konzerns durch Media for Europe (MFE) der Berlusconi-Familie, die zu seinem Ausscheiden im Oktober 2025 führte. Er warnte vor der Dominanz globaler Tech-Giganten wie Musk, Zuckerberg und Google-Gründer im Medienbereich und bezeichnete Europa als \"total antisouverän\". Breitenecker forderte eine stärkere Kooperation zwischen öffentlich-rechtlichen und privaten Medien in Europa sowie den Aufbau einer gemeinsamen europäischen Medieninfrastruktur.",
+          "title": "Constantin macht Torsten Koch zum Chief Creative Talent Officer",
+          "link": "https://www.dwdl.de/nachrichten/106466/constantin_macht_torsten_koch_zum_chief_creative_talent_officer_/",
+          "summary": "Constantin Film hat Torsten Koch, bisher Marketing-Chef des Unternehmens, zum Chief Creative Talent Officer ernannt - eine neu geschaffene Position zur Stärkung der Zusammenarbeit mit Filmemachern und Kreativen von der Projektentwicklung bis zur Auswertung. Der langjährige Constantin-Manager soll dabei eng mit Vorstand, Content-Bereich, Produktion und Marketing kooperieren. Vorstandschef Oliver Berben betont Kochs herausragende Vernetzung in der deutschen Filmbranche als entscheidenden Faktor für die Besetzung.",
           "score": 8
         },
         {
-          "source": "Deadline",
-          "title": "Ex-Prime Video UK Boss Chris Bird Launches Two AI Ventures, One With ‘The Boy Who Lived’ Director Dan Hartley",
-          "link": "https://deadline.com/2026/05/chris-bird-dan-hartley-hawkshead-ai-cineme-ai-1236890192/",
-          "summary": "Der ehemalige Prime Video UK-Chef Chris Bird hat zwei KI-Unternehmen gegründet: HawksHead AI, eine Datenanalyseplattform zur Vorhersage der Zielgruppenperformance von Content-Projekten bereits in frühen Entwicklungsphasen, und CineMe AI (mit Dokumentarfilmer Dan Hartley), ein Tool zur automatischen Erstellung fotorealistischer Storyboards aus Drehbüchern. Beide Plattformen zielen darauf ab, Content-Erstellern durch KI-gestützte Analyse und Visualisierung bei Projektentwicklung und Finanzierungsakquise zu helfen.",
+          "source": "DWDL",
+          "title": "Der \"Netflix-Effekt\": Netflix rechnet seinen weltweiten Impact vor",
+          "link": "https://www.dwdl.de/nachrichten/106463/der_netflixeffekt_netflix_rechnet_seinen_weltweiten_impact_vor/",
+          "summary": "Netflix präsentiert anlässlich des 10-jährigen Jubiläums seiner globalen Expansion eine Bilanz des \"Netflix-Effekts\": Der Streaming-Dienst investierte seit 2016 über 135 Milliarden US-Dollar in Content und generierte dadurch nach eigenen Angaben 325 Milliarden Dollar Wirtschaftsleistung sowie 425.000 Jobs weltweit. Neben den eigenen Produktionen in über 50 Ländern hebt Netflix hervor, dass auch lizenzierte Inhalte wie die Serie \"Suits\" durch die Plattform ein zweites Leben mit hunderten Millionen Views erhalten.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "Sammelklage gegen Amazon wird noch im Mai verhandelt",
+          "link": "https://www.dwdl.de/nachrichten/106462/sammelklage_gegen_amazon_wird_noch_im_mai_verhandelt/",
+          "summary": "Das Oberlandesgericht München verhandelt am 19. Mai über eine Sammelklage mit fast 220.000 Teilnehmern gegen Amazons Einführung von Werbung bei Prime Video ohne explizite Kundenzustimmung. Die Verbraucherzentrale Sachsen fordert Rückerstattung von Gebühren, da Amazon Anfang 2024 Werbung in bestehende Tarife integrierte, anstatt ein separates Werbe-Abo zu schaffen. Amazon hatte bereits eine juristische Niederlage vor dem Landgericht München I erlitten und Berufung eingelegt.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Förderung für \"Euphorie\" und Masucci-Dokumentarfilm",
+          "link": "https://www.dwdl.de/nachrichten/106459/foerderung_fuer_euphorie_und_masuccidokumentarfilm/",
+          "summary": "Die Film- und Medienstiftung NRW hat in ihrer zweiten Förderrunde 2026 insgesamt 11,8 Millionen Euro an 32 Projekte vergeben, darunter 1,5 Millionen Euro für die zweite Staffel der RTL-Serie \"Euphorie\" (Zeitsprung Pictures) und 1,1 Millionen Euro für den ARD/WDR-Zweiteiler \"Eisige Nächte\" (elsani film). Die höchste Einzelförderung erhielt mit 1,77 Millionen Euro der Kinofilm \"Der Lappen\" der Şamdereli-Schwestern, während weitere bedeutende Förderungen an einen Oliver Masucci-Dokumentarfilm des WDR (350.000 Euro) und eine ProSiebenSat.1-Handball-Dokuserie (150.000 Euro) gingen.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Nadine Bilke bleibt bis 2032 ZDF-Programmdirektorin",
+          "link": "https://www.dwdl.de/nachrichten/106458/nadine_bilke_bleibt_bis_2032_zdfprogrammdirektorin/",
+          "summary": "Der ZDF-Verwaltungsrat hat Nadine Bilke für weitere sechs Jahre als Programmdirektorin bestätigt, womit sie das Amt bis 2032 innehaben wird. Bilke, die seit 2022 in dieser Position tätig ist und zuvor ZDFneo leitete, wird vom Intendanten Norbert Himmler als \"ausgezeichnete Medien- und Programm-Managerin\" gewürdigt. Die Vertragsverlängerung sichert Kontinuität in der strategischen Programmausrichtung des öffentlich-rechtlichen Senders.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Sat.1-Daily \"Ein Hof zum Verlieben\" plötzlich zweistellig",
+          "link": "https://www.dwdl.de/nachrichten/106456/sat1daily_ein_hof_zum_verlieben_ploetzlich_zweistellig/",
+          "summary": "Sat.1s Daily \"Ein Hof zum Verlieben\" startete schwach mit nur 3% Marktanteil in den ersten 80 Folgen, konnte jedoch Ende April durch zeitversetzte Nutzung überraschend zweistellige Werte erreichen. Eine Episode vom 30. April verdoppelte ihren Marktanteil bei den 14-49-Jährigen von live gemessenen 5,3% auf finale 10,2% und landete damit in den Top-Gewinnern der zeitversetzten Nutzung. Dies zeigt das anhaltende Problem bei der Etablierung neuer Daily-Formate im linearen TV, aber auch das Potenzial durch nicht-lineare Nutzung.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Sparpläne: MDR produziert drei Jahre keinen &quot;Tatort&quot; und &quot;Polizeiruf 110&quot;",
+          "link": "https://www.horizont.net/medien/nachrichten/sparplaene-mdr-produziert-drei-jahre-keinen-tatort-und-polizeiruf-110-234332?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der Mitteldeutsche Rundfunk (MDR) setzt aufgrund von Sparmaßnahmen die Produktion neuer \"Tatort\"- und \"Polizeiruf 110\"-Folgen aus Dresden und Magdeburg für drei Jahre aus. Die Entscheidung ist Teil eines umfassenden Sparprogramms, das auch andere populäre Formate betrifft.",
+          "score": 9
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "&quot;Einzigartiges Labor in der Medienlandschaft&quot;: Axel Springer ersetzt bei seiner B.Z. Redakteure durch Journalistenschüler",
+          "link": "https://www.horizont.net/medien/nachrichten/einzigartiges-labor-in-der-medienlandschaft-axel-springer-ersetzt-bei-seiner-b.z.-redakteure-durch-journalistenschueler-234291?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Axel Springer überträgt ab September die Produktion der Berliner Boulevardzeitung B.Z. an seine hauseigene Journalistenschule (Academy of Journalism and Technology) unter Leitung von Miriam Krekel. Das Verlagshaus bezeichnet das Projekt als \"einzigartiges Labor in der Medienlandschaft\", bei dem Journalistenschüler die reguläre Redaktionsarbeit übernehmen. Der Schritt führt zum Wegfall mehrerer Redakteursstellen bei der B.Z.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Zeitungsmarkt: SV Gruppe will Zeitungen am Vorabend zustellen",
+          "link": "https://www.horizont.net/medien/nachrichten/zeitungsmarkt-sv-gruppe-will-zeitungen-am-vorabend-zustellen-234267?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die SV Gruppe testet eine Umstellung der Zeitungszustellung von frühem Morgen auf den Vorabend für ihre Titel wie \"Schwäbische Zeitung\", \"Nordkurier\" und \"Schweriner Volkszeitung\". Geschäftsführer Lutz Schumacher bestätigte, dass diese neue Zustellstrategie bereits seit längerer Zeit erprobt wird.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Warum Judith Wittwer plötzlich allein an der Spitze steht Die „Süddeutsche Zeitung“ hat einen weiteren Chefredakteur gesucht, aber nicht gefunden.",
+          "link": "https://kress.de/news/beitrag/152757-sz-neuaufstellung-warum-judith-wittwer-ploetzlich-allein-an-der-spitze-steht.html",
+          "summary": "Judith Wittwer steht nach Wolfgang Krachs Weggang nun allein an der Spitze der „Süddeutschen Zeitung\", obwohl sie intern lange als Nummer zwei wahrgenommen wurde und Verlag sowie Gesellschafter ihr zunächst nicht die alleinige Chefredaktion zutrauten. Der beauftragte Headhunter suchte erfolglos nach externen Top-Kandidaten, darunter prominente Namen wie Gregor Peter Schmitz („Stern\"), Sebastian Matthes („Handelsblatt\") und die „Zeit\"-Chefs Stark und Wegner. Wittwer erhielt die Position letztendlich mangels alternativer Lösung, nachdem die Suche nach einem externen Nachfolger scheiterte.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Tenhagen wird Herausgeber, Bründl übernimmt als CEO",
+          "link": "https://kress.de/news/beitrag/152753-nach-12-jahren-chefredaktion-tenhagen-wird-herausgeber-bruendl-uebernimmt-als-ceo.html",
+          "summary": "Finanztip reorganisiert seine Führungsstruktur: Simon Bründl übernimmt ab Juni 2026 als CEO die Geschäftsleitung, während Gründungs-Chefredakteur Hermann-Josef Tenhagen nach 12 Jahren in eine neu geschaffene Herausgeberrolle wechselt und sich auf publizistische Integrität fokussiert. Die Chefredaktion übernimmt Saidi Sulilatu, der bereits seit Oktober 2023 als Co-Chefredakteur tätig war.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Nicole Michalik wird Director Strategy & Business Development",
+          "link": "https://kress.de/news/beitrag/152756-von-der-fussball-liga-zur-zeit-nicole-michalik-wird-director-strategy-amp-business-development.html",
+          "summary": "Die Zeit Verlagsgruppe befördert Nicole Michalik zur Director Strategy & Business Development und ins Management Board, wo sie direkt an CEO Nils von der Kall berichtet. In ihrer neuen Rolle verantwortet sie bereichsübergreifende Projekte, neue Wachstumsfelder, die KI-Transformation sowie Marktforschung und Analysen. Michalik arbeitet seit 2022 bei der Zeit Verlagsgruppe und war zuvor bei einer DFL-Tochtergesellschaft sowie als Dozentin tätig.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Antenne Bayern Group übernimmt vollständig Rock Antenne",
+          "link": "https://kress.de/news/beitrag/152754-antenne-bayern-group-uebernimmt-vollstaendig-rock-antenne-nwz-zieht-sich-zurueck.html",
+          "summary": "Die Antenne Bayern Group übernimmt rückwirkend zum 1. Januar 2026 sämtliche Anteile an Rock Antenne und Rock Antenne Hamburg von der bisherigen Mitgesellschafterin NWZ Funk und Fernsehen GmbH & Co. KG aus Oldenburg. Die Übernahme erfolgt im Rahmen der strategischen Neuausrichtung der NWZ und soll Entscheidungsprozesse vereinfachen sowie eine schnellere Umsetzung von Projekten ermöglichen. Rock Antenne bleibt trotz der vollständigen Übernahme eigenständig mit eigenen Inhalten und regionaler Ausrichtung an den Standorten Hamburg, Wien und Ismaning.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Spiegel holt Rechtsextremismus-Expertin Geisler und Islamismus-Kenner Kraetzer Der Spiegel schickt ein klares Signal: Mit Astrid Geisler als neuer Teamleiterin Innere Sicherheit und Ulrich Kraetzer als Islamismus-Experten baut das Magazin seinen Investigativbereich gezielt aus",
+          "link": "https://kress.de/news/beitrag/152750-spiegel-holt-rechtsextremismus-expertin-geisler-und-islamismus-kenner-kraetzer.html",
+          "summary": "Der Spiegel baut seinen Investigativbereich strategisch aus: Astrid Geisler (51) wechselt von der Zeit als neue Teamleiterin Innere Sicherheit, während Ulrich Kraetzer (52) von Correctiv als Islamismus-Experte hinzukommt. Das verstärkte Team umfasst nun 13 Journalisten und signalisiert den Fokus des Magazins auf investigative Berichterstattung zu Extremismus und innerer Sicherheit.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Ex-Spiegel-Geschäftsführer Ottlitz vor Wechsel zu Burda Media Sechs Jahre trieb Stefan Ottlitz als Co-Geschäftsführer die digitale Transformation des Spiegel-Verlags voran",
+          "link": "https://kress.de/news/beitrag/152744-ex-spiegel-geschaeftsfuehrer-ottlitz-vor-wechsel-zu-burda-media.html",
+          "summary": "Stefan Ottlitz, der bis Ende 2025 sechs Jahre als Co-Geschäftsführer die digitale Transformation des Spiegel-Verlags vorantrieb, wechselt laut Horizont zum 1. Juli 2026 zu Burda Media. Dort soll er in der von Wachtel geführten Mediensparte die Verantwortung für Deutschland- und Digitalgeschäft übernehmen, einschließlich Aufbau neuer Erlösmodelle und Optimierung komplexer Produktstrukturen wie beim Focus. Der Wechsel erfolgt im Rahmen des laufenden Umbaus bei Burda Media, der bereits Schließungen und Personalveränderungen umfasst.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "\"Programm, das Spaß macht\" Nadine Bilke bleibt bis 2032 ZDF-Programmdirektorin Auf absehbare Zeit...",
+          "link": "https://meedia.de/news/beitrag/23542-nadine-bilke-bleibt-bis-2032-zdf-programmdirektorin.html",
+          "summary": "Der ZDF-Verwaltungsrat hat den Vertrag von Programmdirektorin Nadine Bilke bis 2032 verlängert, die seit Mai 2022 im Amt ist und die strategische Transformation des Senders vorantreibt. Intendant Norbert Himmler würdigt sie als zentrale Gestalterin bei der Weiterentwicklung des linearen und digitalen Angebots. Bilke betont ihre Leidenschaft für vielfältige Programmformate und will das ZDF-Angebot in seiner gesamten Bandbreite von Information bis Entertainment weiter ausbauen.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Werbe- und Medienunternehmen Ströer mit Quartalsbilanz: Digitale Außenwerbung legt um 12 Prozent zu...",
+          "link": "https://meedia.de/news/beitrag/21762-stroeer-mit-quartalsbilanz-digitale-aussenwerbung-legt-um-12-prozent-zu.html",
+          "summary": "Ströer verzeichnet im Q1 2026 einen organischen Konzernumsatzanstieg von 1,1% auf 496 Mio. Euro, getrieben durch ein starkes Wachstum der digitalen Außenwerbung (+12%). Das Kerngeschäft OoH Media steigerte den Umsatz um 5,4% auf 221 Mio. Euro bei verbesserter EBITDA-Marge von 43,7% (+2,6 Prozentpunkte).",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "BuzzFeed sold to Byron Allen, who will take over as CEO in $120m deal",
+          "link": "https://www.theguardian.com/business/2026/may/11/buzzfeed-digital-media-deal-byron-allen",
+          "summary": "BuzzFeed wurde für 120 Millionen US-Dollar an den Medienunternehmer Byron Allen verkauft, der als neuer CEO den Gründer Jonah Peretti ablöst, während Peretti als Präsident von BuzzFeed AI verbleibt. Der Deal markiert einen drastischen Wertverlust für das einst mit 1,7 Milliarden US-Dollar bewertete Digital-Media-Unternehmen und umfasst auch das progressive Nachrichtenportal HuffPost. Allen, der bereits die Allen Media Group mit Sendern wie The Weather Channel kontrolliert, plant \"signifikante\" Kostensenkungen bei BuzzFeed.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Ofcom Investigating GB News Over Donald Trump Interview After All",
-          "link": "https://deadline.com/2026/05/ofcom-investigate-gb-news-donald-trump-interview-bev-turner-1236890188/",
-          "summary": "Ofcom hat eine Untersuchung gegen GB News bezüglich eines Donald Trump-Interviews eingeleitet, nachdem der Sender zunächst verschont blieb, weil die ursprüngliche Ausstrahlung kontextualisierende Panel-Diskussionen enthielt. Die Regulierungsbehörde prüft nun eine 12 Stunden später ausgestrahlte Version desselben Interviews auf \"angemessene Unparteilichkeit und materielle Irreführung\", da diese ohne entsprechenden Kontext gesendet wurde. GB News kritisiert Ofcoms Kehrtwende als Reaktion auf öffentlichen Druck von Kritikern beider Organisationen.",
+          "title": "Netflix Reveals Content Spend Over The Past Decade As Ted Sarandos Says: “While Other Entertainment Companies Pull Back, We’re Leaning In”",
+          "link": "https://deadline.com/2026/05/netflix-content-spend-decade-revealed-ted-sarandos-1236890215/",
+          "summary": "Netflix hat erstmals offengelegt, dass es in den vergangenen zehn Jahren 135 Milliarden Dollar für Originalinhalte und Lizenzierungen ausgegeben hat, während Co-CEO Ted Sarandos betont, dass das Unternehmen weiter investiert, während andere Medienkonzerne ihre Ausgaben reduzieren. Das Unternehmen feiert sein zehnjähriges Jubiläum der internationalen Content-Produktion und behauptet, dadurch über 325 Milliarden Dollar an Bruttowertschöpfung zur Weltwirtschaft beigetragen zu haben. Die Veröffentlichung erfolgt strategisch zu einem Zeitpunkt, an dem mehrere Länder lokale Content-Quoten für Streaming-Dienste diskutieren, gegen die sich Netflix grundsätzlich ausspricht.",
+          "score": 9
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Juliette Binoche, Adèle Haenel, Swann Arlaud Protest Billionaire’s Bid for French Cinema Chain UGC as “Fascist Takeover”",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/juliette-binoche-protests-right-wing-mogul-cinema-bid-1236593187/",
+          "summary": "Rund 600 französische Filmschaffende, darunter prominente Schauspieler wie Juliette Binoche und Adèle Haenel, protestieren in einem offenen Brief gegen die geplante Vollübernahme der Kinokette UGC durch den rechtsgerichteten Milliardär Vincent Bolloré. Der Protest erfolgt vor dem Hintergrund von Vorwürfen, Bollorés Medienimperium (Vivendi, Canal+, CNews) würde reaktionäre und rechtsextreme Ideen fördern, was die Unterzeichner als \"faschistische Übernahme der kollektiven Vorstellungskraft\" bezeichnen. Bolloré, der bereits 34% an UGC hält und bis 2028 die vollständige Kontrolle anstrebt, weist politische Motive zurück und bezeichnet seine Medienakquisitionen als rein geschäftlich motiviert.",
           "score": 7
         },
         {
-          "source": "Deadline",
-          "title": "‘Amandaland’ Writer Reveals Dream Guest Star After Winning BAFTA: “She’s America’s Amanda”",
-          "link": "https://deadline.com/2026/05/amandaland-writer-reveals-melania-trump-dream-guest-star-1236890168/",
-          "summary": "Holly Walsh, Autorin der BBC-Comedy \"Amandaland\", gewann bei den BAFTA Television Awards den Preis für \"Best Scripted Comedy\" und äußerte den Wunsch, First Lady Melania Trump als Gaststar zu gewinnen, die sie als \"America's Amanda\" bezeichnet. Die Serie mit Lucy Punch in der Hauptrolle deutet eine dritte Staffel an und etabliert sich als eine der erfolgreichsten BBC-Comedys des Jahrzehnts. Weitere Comedy-Preise gingen an Steve Coogan für \"Alan Partridge\" und Seth Rogens \"The Studio\" in der internationalen Kategorie.",
+          "source": "Hollywood Reporter",
+          "title": "$135 Billion on Film and TV and 425,000 Jobs: Ted Sarandos Touts “The Netflix Effect”",
+          "link": "https://www.hollywoodreporter.com/business/business-news/netflix-effect-2026-ted-sarandos-blog-post-1236592877/",
+          "summary": "Netflix veröffentlicht den Report \"The Netflix Effect\", in dem Co-CEO Ted Sarandos die wirtschaftlichen Auswirkungen des Streamingdienstes quantifiziert: über 135 Milliarden Dollar Investment in Film- und TV-Produktionen, die 325 Milliarden Dollar zur globalen Wirtschaft beitragen sollen. Das Unternehmen hat nach eigenen Angaben 425.000 direkte Jobs geschaffen und weitere 700.000 Personen als Tagesarbeiter oder Statisten beschäftigt, während Konkurrenten ihre Investitionen zurückfahren.",
+          "score": 9
+        },
+        {
+          "source": "Variety",
+          "title": "NBC News Aims to Steer Business Coverage Beyond Stocks, Bonds",
+          "link": "https://variety.com/2026/tv/news/nbc-news-business-beyond-stocks-bonds-cesar-conde-1236743902/",
+          "summary": "NBC News startet eine neue Berichterstattungsinitiative namens \"Business in America\", die sich von der traditionellen Börsen- und Finanzberichterstattung abwendet und stattdessen tiefgehende Gespräche mit Führungskräften einflussreicher Unternehmen wie Nike, General Motors und Zillow führt. Die Initiative soll untersuchen, wie Innovationen dieser Unternehmen das tägliche Leben der Verbraucher beeinflussen, und wird maßgeschneidert über verschiedene NBC-Plattformen wie \"Today\", \"NBC Nightly News\" und \"NBC News Now\" ausgestrahlt. Dies folgt auf die Trennung von NBC News und CNBC Anfang 2026, wobei CNBC in das neue Unternehmen Versant ausgegliedert wurde.",
           "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "‘The Netflix Effect’: Streamer Claims It Has Contributed More Than $325 Billion to Global Economy in Last 10 Years, Launches Site Touting Impact",
+          "link": "https://variety.com/2026/tv/news/the-netflix-effect-global-economic-cultural-impact-1236745113/",
+          "summary": "Netflix behauptet, in den letzten 10 Jahren durch Investitionen von über 135 Milliarden US-Dollar in Filme und Serien mehr als 325 Milliarden US-Dollar zur globalen Wirtschaft beigetragen und über 425.000 Jobs sowie 700.000 zusätzliche Statisten- und Tagesjobs geschaffen zu haben. Das Unternehmen hat eine neue interaktive Website \"The Netflix Effect\" gestartet, um seinen wirtschaftlichen, kulturellen und sozialen Einfluss zu dokumentieren. Diese Angaben stammen jedoch ausschließlich von Netflix selbst und wurden nicht von unabhängiger Seite verifiziert.",
+          "score": 9
         }
       ]
     }
