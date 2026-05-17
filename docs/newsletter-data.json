@@ -1,174 +1,97 @@
 {
   "newsletters": [
     {
-      "date": "2026-05-15",
+      "date": "2026-05-17",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Verfassungsgericht verhandelt Beschwerde von ARD und ZDF im Juni",
-          "link": "https://www.dwdl.de/nachrichten/106506/verfassungsgericht_verhandelt_beschwerde_von_ard_und_zdf_im_juni/",
-          "summary": "Das Bundesverfassungsgericht verhandelt am 23. Juni 2026 mündlich über die Verfassungsbeschwerde von ARD und ZDF zur ausgebliebenen Rundfunkbeitragserhöhung von 18,36 auf 18,94 Euro zum Januar 2025. Die Öffentlich-Rechtlichen sehen ihr Grundrecht auf Rundfunkfreiheit verletzt, nachdem die Länder der KEF-Empfehlung nicht gefolgt waren und stattdessen auf vorhandene Rücklagen der Sender verwiesen. Eine mündliche Verhandlung ist ungewöhnlich, da das Gericht auch ohne Anhörung hätte entscheiden können.",
+          "title": "MFE überrascht mit kleinem Betriebsgewinn im 1. Quartal",
+          "link": "https://www.dwdl.de/nachrichten/106511/mfe_ueberrascht_mit_kleinem_betriebsgewinn_im_1_quartal/",
+          "summary": "MFE - MediaForEurope überraschte im Q1 2026 mit einem EBIT von +13,6 Mio. Euro (Vorjahr: -50,1 Mio. Euro pro forma) trotz rückläufiger Umsätze (-4,5% auf 1,53 Mrd. Euro), was durch konsequente Kostensenkungen erreicht wurde. Die Werbeerlöse sanken konzernweit um 4,2% auf 952,9 Mio. Euro, wobei die deutsche Tochter ProSiebenSat.1 mit -9,8% das größte Sorgenkind darstellt, während Italien minimal wachsen konnte (+0,1%). Der Nettoverlust reduzierte sich deutlich von -41,3 auf -26,1 Mio. Euro.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Talent Media Day Cologne: TV-Branche wirbt um Nachwuchs",
-          "link": "https://www.dwdl.de/nachrichten/106503/talent_media_day_cologne_tvbranche_wirbt_um_nachwuchs_/",
-          "summary": "Am 19. Mai findet zum dritten Mal der Talent Media Day Cologne in den MMC Studios statt, bei dem große Produktionsfirmen wie UFA, Banijay Germany und Bavaria Entertainment sowie Bildungseinrichtungen aktiv um Nachwuchs werben. Die kostenlose Veranstaltung mit Company Pitches, Networking und Blick hinter die Kulissen der RTL-Soap „Unter uns\" reflektiert den Wandel einer Branche, die nach jahrzehntelanger Magnetwirkung nun intensiver um Talente kämpfen muss. Die Initiative wird von KölnBusiness gefördert und zeigt exemplarisch, wie sich die TV-Branche an allen wichtigen Medienstandorten neuen Rekrutierungsrealitäten anpassen muss.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Ausgezeichnet: Vier Doppelsiege beim 1. Deutschen Podcast Award",
-          "link": "https://www.dwdl.de/nachrichten/106494/ausgezeichnet_vier_doppelsiege_beim_1_deutschen_podcast_award__/",
-          "summary": "Beim ersten Deutschen Podcast Award wurden aus über 2.000 Einreichungen Gewinner in 24 Kategorien vor 800 Gästen im RBB Berlin gekürt, initiiert von neun großen Medienhäusern wie ARD Sounds, Spotify und RTL+. Vier Podcasts erhielten Doppelauszeichnungen: der investigative Podcast \"Braune Kinderzimmer\" (True Crime, Beste*r Autor*in), \"Die Peter Thiel Story\" (Doku, Podcast of the Year), \"House of Houmsi\" (Gesellschaft & Popkultur, One-Host-Show) und \"Take Me Späti\" (Newcomer, Viral Moment).",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Bully spielt mit: Horst Schlämmer leitet neue „LOL“-Staffel",
-          "link": "https://www.dwdl.de/nachrichten/106493/bully_spielt_mit_horst_schlaemmer_leitet_neue_lolstaffel/",
-          "summary": "Michael \"Bully\" Herbig wechselt nach sechs Staffeln als Moderator erstmals auf die Spielerseite der Constantin Entertainment-Comedyshow \"LOL\", die am Donnerstag bei Prime Video startet. Hape Kerkeling übernimmt in seiner Paraderolle als Horst Schlämmer die Moderation der siebten Staffel. Die neue Staffel startet später als üblich im Mai statt zu Ostern und wird weiterhin wöchentlich im Doppelpack ausgestrahlt.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Quartalsbilanz: Pro Sieben Sat 1 leidet weiter unter TV-Werbeflaute",
-          "link": "https://www.horizont.net/medien/nachrichten/quartalsbilanz-pro-sieben-sat-1-leidet-weiter-unter-tv-werbeflaute-234367?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "ProSiebenSat.1 verzeichnete im ersten Quartal 2024 aufgrund der anhaltenden TV-Werbeflaute einen Umsatzrückgang, konnte jedoch durch konsequente Kostensenkungsmaßnahmen operativ wieder schwarze Zahlen schreiben. Der Medienkonzern bestätigte seine Jahresprognose trotz der weiterhin schwierigen Marktbedingungen im TV-Werbemarkt.",
-          "score": 9
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "&quot;Freiester Mitarbeiter&quot; von Axel Springer: Ulf Poschardt tritt als Welt-Kopf ab – und soll dann erst so richtig loslegen",
-          "link": "https://www.horizont.net/medien/nachrichten/freiester-mitarbeiter-von-axel-springer-ulf-poschardt-tritt-als-welt-kopf-ab--und-soll-dann-erst-so-richtig-loslegen-234364?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Ulf Poschardt gibt seine Position als Welt-Herausgeber auf, kurz nach dem Amtsantritt des neuen Chefredakteurs Helge Fuhst. Ab Juli soll Poschardt eine zentrale Rolle in der Creator-Strategie von Axel Springer übernehmen und wird als \"freiester Mitarbeiter\" des Verlags bezeichnet.",
+          "title": "CDU-Politiker Torsten Welling koordiniert die Rundfunkkommission",
+          "link": "https://www.dwdl.de/nachrichten/106510/cdupolitiker_torsten_welling_koordiniert_die_rundfunkkommission/",
+          "summary": "Nach dem CDU-Wahlsieg in Rheinland-Pfalz übernimmt der 41-jährige Torsten Welling als Staatssekretär die Koordination der Rundfunkkommission der Länder von der bisherigen SPD-Koordinatorin Heike Raab. Die Medienpolitik wird unter der neuen CDU-Regierung von Ministerpräsident Gordon Schnieder in einem eigenen Ministerium unter Marcus Klein angesiedelt, was laut CDU eine \"deutliche Aufwertung\" darstellt. Welling wird zusätzlich Bevollmächtigter des Landes Rheinland-Pfalz beim Bund und für Europa.",
           "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "Fußball-WM: Christian Streich wird TV-Experte beim ZDF",
-          "link": "https://www.horizont.net/medien/nachrichten/fussball-wm-christian-streich-wird-tv-experte-beim-zdf-234347?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Das ZDF hat Christian Streich als TV-Experten für die Fußball-WM 2026 verpflichtet. Der ehemalige Trainer des SC Freiburg, der sein Amt vor zwei Jahren beendet hatte, verstärkt damit das Experten-Team des öffentlich-rechtlichen Senders. Streich wechselt erstmals vom Trainerposten an das TV-Mikrofon.",
+          "source": "DWDL",
+          "title": "ZDF nimmt kirchen-kritischen \"Logo\"-Beitrag offline",
+          "link": "https://www.dwdl.de/nachrichten/106504/zdf_nimmt_kirchenkritischen_logobeitrag_offline/",
+          "summary": "Das ZDF hat einen 90-sekündigen \"Logo\"-Beitrag über Kirchenaustritte nach Programmbeschwerden offline genommen, da die komplexe Thematik der historischen Entwicklung christlicher Kirchen laut Intendant Himmler nicht angemessen dargestellt wurde. Zusätzlich kritisiert wurde die direkte Programmfolge nach einem positiv dargestellten Ramadan-Beitrag, was als \"tendenziöse Gegenüberstellung\" wahrgenommen wurde, obwohl beide Beiträge laut ZDF unabhängig voneinander geplant waren.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "So wird die allgemeine Krise zur persönlichen Chance Die Unternehmen planen aktuell den größten Stellenabbau seit der Corona-Pandemie.",
-          "link": "https://kress.de/news/beitrag/152843-angst-vor-jobverlust-so-wird-die-allgemeine-krise-zur-persoenlichen-chance.html",
-          "summary": "Deutsche Unternehmen planen laut Ifo-Institut den größten Stellenabbau seit der Corona-Pandemie, wobei Medienhäuser besonders durch sinkende Einnahmen, Strukturwandel und KI-Investitionen betroffen sind. Karriere-Coach Attila Albert empfiehlt überlegtes und entschlossenes Handeln, um die Krise als persönliche Chance zu nutzen. Die früher übliche lebenslange Betriebstreue ist obsolet geworden - Medienprofis müssen sich auf häufigere Jobwechsel einstellen und entsprechend vorbereitet sein.",
+          "title": "„Wir sparen lieber bei Routine als bei Recherche\": VNP-Chefredakteur Husarek verteidigt KI-Kurs auf LinkedIn Der KI-Ansatz des Verlags Nürnberger Presse hat auf LinkedIn eine lebhafte Debatte ausgelöst. Chefredakteur Michael Husarek und sein Stellvertreter Armin Jelenik stellen sich der Kritik",
+          "link": "https://kress.de/news/beitrag/152845-wir-sparen-lieber-bei-routine-als-bei-recherche-quot-vnp-chefredakteur-husarek-verteidigt-ki-kurs-auf-linkedin.html",
+          "summary": "Der Chefredakteur des Verlags Nürnberger Presse, Michael Husarek, verteidigt in einer LinkedIn-Debatte den KI-Einsatz im Lokaljournalismus gegen Branchenkritik und argumentiert, dass angesichts schrumpfender Redaktionen und schwieriger wirtschaftlicher Rahmenbedingungen KI-Automatisierung bei Routine-Tätigkeiten sinnvoller sei als Einsparungen bei Recherche und Eigenbeiträgen. Husarek betont, dass durch KI mehr statt weniger Geschichten entstehen und sich Journalisten auf wesentliche Inhalte konzentrieren können, während sein Stellvertreter Jelenik die inhaltliche Dimension des Lokaljournalismus ergänzt.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Ulf Poschardt gibt Herausgeberposition bei Axel Springer ab",
+          "title": "ZDF entschuldigt sich für logo-Beitrag: Kirche und Ramadan im Vergleich",
+          "link": "https://kress.de/news/beitrag/152844-zdf-entschuldigt-sich-fuer-logo-beitrag-kirche-und-ramadan-im-vergleich-und-das-ging-schief.html",
+          "summary": "Das ZDF entschuldigte sich für einen kontroversen \"logo!\"-Beitrag, in dem das Ende des Ramadan positiv dargestellt, während die Kirche kritisch mit Fokus auf Austritte und Ablasshandel behandelt wurde. Intendant Norbert Himmler räumte ein, dass die Kombination beider Themen in einer Sendung einen Fehler darstellte und den unbeabsichtigten Eindruck einer tendenziösen Gegenüberstellung erweckte. Der Beitrag wurde aus dem Archiv entfernt und durch einen Hinweis in der Mediathek ersetzt.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Überraschender Wechsel: Ulf Poschardt gibt Herausgeberposition bei Axel Springer ab Ulf Poschardt gehört zu den meistgelesenen politischen Autoren Deutschlands",
           "link": "https://kress.de/news/beitrag/152842-ueberraschender-wechsel-ulf-poschardt-gibt-herausgeberposition-bei-axel-springer-ab.html",
-          "summary": "Ulf Poschardt gibt zum 1. Juli 2026 seine Herausgeberposition bei Axel Springer (Welt, Politico Deutschland, Business Insider Deutschland) auf eigenen Wunsch auf und wechselt in die neu geschaffene Rolle als „Freiester Mitarbeiter\" der Premium-Gruppe. In dieser Position soll er als Autor, Podcaster und Creator maßgeschneiderte Formate für alle deutschen und internationalen Medienmarken des Hauses entwickeln, darunter tägliche Social-Media-Clips, eine Talkshow für Welt TV und Kolumnen bei Bild. Der Wechsel ist Teil von Axel Springers Creator-Strategie und soll Poschardt mehr publizistische Freiheit ermöglichen, nachdem er seit 2008 verschiedene Führungspositionen im Verlag innehatte.",
+          "summary": "Ulf Poschardt gibt zum 1. Juli 2026 seine Herausgeberposition bei Axel Springer (Welt, Politico Deutschland, Business Insider Deutschland) auf und wechselt in die neue Rolle als \"Freiester Mitarbeiter\" für die Premium-Gruppe. In dieser Position soll er als Autor, Podcaster und Creator maßgeschneiderte Formate für alle deutschen und internationalen Medienmarken des Hauses entwickeln, darunter tägliche Social-Media-Clips, eine Talkshow für Welt TV und Kolumnen bei Bild. Der Wechsel erfolgt auf Poschardts eigenen Wunsch nach mehr publizistischer Freiheit und ist Teil von Axel Springers Creator-Strategie.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Nürnberger Presse automatisiert Lokaljournalismus mit KI",
+          "title": "Vier Blattmacher statt 43: Nürnberger Presse automatisiert Lokaljournalismus mit KI Während andere Verlage aus dem aufwendigen Lokaljournalismus aussteigen, geht der Verlag Nürnberger Presse den umgekehrten Weg",
           "link": "https://kress.de/news/beitrag/152839-vier-blattmacher-statt-43-nuernberger-presse-automatisiert-lokaljournalismus-mit-ki.html",
-          "summary": "Der Verlag Nürnberger Presse automatisiert seine Lokalberichterstattung durch KI-gestützte Redaktionsprozesse und reduziert dabei den Personalaufwand um rund 90 Prozent – von 43 auf 4 Blattmacher für täglich 100-150 Seiten. Über ein Upload-Tool können externe Autoren Inhalte einstellen, die von KI auf Fakten geprüft und automatisch layoutet werden, während Sportergebnisse vollautomatisch importiert werden. Das Konzept soll entgegen dem Branchentrend die lokale Berichterstattung ausbauen statt reduzieren und funktioniert laut Verlag auch digital erfolgreich.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Zeit-Fusion schreitet voran: Ressorts Wissen, Politik und Wirtschaft werden zusammengeführt Die Zeit-Fusion schreitet planmäßig voran: Nach Feuilleton und ZEITmagazin werden nun auch Wissen, Politik (Foto: Anne Hähnig) und Wirtschaft als integrierte Ressorts aufgestellt. Mehrere Ressortleitungen werden dabei neu besetzt",
-          "link": "https://kress.de/news/beitrag/152841-zeit-fusion-schreitet-voran-ressorts-wissen-politik-und-wirtschaft-werden-zusammengefuehrt.html",
-          "summary": "Die Zeit führt ihre Print- und Online-Redaktionen weiter zusammen und reorganisiert nach Feuilleton und ZEITmagazin nun auch die Ressorts Wissen, Politik und Wirtschaft als integrierte Einheiten. Das neue Ressort Wissen gliedert sich in die Bereiche Bildung, Gesundheit und Wissenschaft mit jeweils zwei Ressortleitern, während Politik eine Dreifachspitze erhält und Wirtschaft neu besetzt wird. Die Fusion der bisher getrennten Print- und Online-Firmen wurde im Mai 2026 abgeschlossen.",
-          "score": 8
+          "summary": "Der Verlag Nürnberger Presse automatisiert seinen Lokaljournalismus mit KI und reduziert dabei den Personalaufwand um 90 Prozent – von 43 auf vier Blattmacher für täglich 100-150 Seiten Print. Ein Upload-Tool ermöglicht externen Autoren die Einstellung von Inhalten, während KI bei Textproduktion und Faktencheck unterstützt und eine Layout-Engine die automatische Platzierung übernimmt. Der Verlag setzt damit bewusst auf Ausbau statt Rückbau der Lokalberichterstattung und nutzt KI branchenweit von der Redaktion bis zum Anzeigenverkauf.",
+          "score": 7
         },
         {
           "source": "kress",
           "title": "Im Zuge der Sky-Übernahme: RTL Deutschland beruft Kristina Freymuth zur Deputy General Counsel\" Kristina Freymuth hat die Sky-Übernahme durch RTL juristisch mitgestaltet",
           "link": "https://kress.de/news/beitrag/152840-im-zuge-der-sky-uebernahme-rtl-deutschland-beruft-kristina-freymuth-zur-deputy-general-counsel-quot.html",
-          "summary": "RTL Deutschland ernennt Kristina Freymuth zur Deputy General Counsel nach der geplanten Sky-Übernahme am 1. Juni 2026. Freymuth, derzeit General Counsel bei Sky Deutschland, leitete die kartellrechtliche Freigabe der Transaktion durch die EU-Kommission und bringt umfassende Expertise in Pay-TV-Geschäftsmodellen und Medienrecht mit. Sie wird künftig an Ralph Sammeck, General Counsel bei RTL Deutschland, berichten.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "\"Makaberer Witz der Geschichte\": Döpfner rechnet beim World Jewish Congress mit TikTok ab Springer-Chef Mathias Döpfner macht beim World Jewish Congress in Genf klare Ansagen: TikTok ist für ihn „eine der gefährlichsten Propagandamaschinen\"",
-          "link": "https://kress.de/news/beitrag/152838-quot-makaberer-witz-der-geschichte-quot-doepfner-rechnet-beim-world-jewish-congress-mit-tiktok-ab.html",
-          "summary": "Axel-Springer-Chef Mathias Döpfner bezeichnete TikTok beim World Jewish Congress in Genf als \"eine der gefährlichsten Propagandamaschinen\" und kritisierte die Verbreitung von Antisemitismus, Verschwörungsmythen und extremistischen Inhalten auf der Plattform. Er forderte Europa auf, dem US-Beispiel zu folgen und TikTok zum Verkauf an nichtchinesische Eigentümer zu zwingen, da es ein \"makaberer Witz der Geschichte\" sei, dass junge Menschen von einem Medium manipuliert würden, das Daten an chinesische Geheimdienste weiterleite. Döpfner plädierte für eine \"Null-Toleranz-Politik\" gegen Judenhass und bezeichnete Antisemitismus als existenzielles Problem der Menschheit.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Nach 20 Jahren: Gunther Schunk übergibt Unternehmenskommunikation der Vogel Group an Tim Bartl Die Vogel Communications Group schafft eine neue CCO-Position und besetzt sie intern: Tim Bartl übernimmt die Unternehmenskommunikation der 15 Unternehmen umfassenden Gruppe. Gunther Schunk, der die Kommunikation zwei Jahrzehnte lang geprägt hat, zieht sich zurück",
-          "link": "https://kress.de/news/beitrag/152835-nach-20-jahren-gunther-schunk-uebergibt-unternehmenskommunikation-der-vogel-group-an-tim-bartl.html",
-          "summary": "Die Vogel Communications Group ernennt Tim Bartl zum neuen Chief Communications Officer (CCO) ab 1. Juli, der intern von der Position Director Strategic Projects & Brand Advocate befördert wird. Er übernimmt von Gunther Schunk, der nach 20 Jahren die Unternehmenskommunikation der 15-Unternehmen-Gruppe abgibt, um sich vollständig auf seine Vorstandstätigkeit bei der Vogel Stiftung Dr. Eckernkamp zu konzentrieren. Der Führungswechsel war laut VCG seit Längerem geplant.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Nach 12 Jahren Chefredaktion: Tenhagen wird Herausgeber, Bründl übernimmt als CEO Finanztip stellt seine Führung neu auf: Simon Bründl wird CEO, Hermann-Josef Tenhagen wechselt nach 12 Jahren Chefredaktion in die Herausgeberrolle",
-          "link": "https://kress.de/news/beitrag/152753-nach-12-jahren-chefredaktion-tenhagen-wird-herausgeber-bruendl-uebernimmt-als-ceo.html",
-          "summary": "Finanztip strukturiert seine Führung um: Simon Bründl übernimmt ab Juni als CEO die Geschäftsleitung, während Gründungs-Chefredakteur Hermann-Josef Tenhagen nach 12 Jahren in eine neu geschaffene Herausgeberrolle wechselt und sich auf publizistische Integrität konzentriert. Die Chefredaktion übernimmt Saidi Sulilatu, der bereits seit Oktober 2023 als Co-Chefredakteur fungierte.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Von der Fußball-Liga zur Zeit: Nicole Michalik wird Director Strategy & Business Development Nicole Michalik war mehrere Jahre bei einer Tochtergesellschaft der DFL Deutsche Fußball Liga tätig",
-          "link": "https://kress.de/news/beitrag/152756-von-der-fussball-liga-zur-zeit-nicole-michalik-wird-director-strategy-amp-business-development.html",
-          "summary": "Nicole Michalik wird neue Director Strategy & Business Development der Zeit Verlagsgruppe und rückt ins Management Board auf, wo sie direkt an CEO Nils von der Kall berichtet. Sie verantwortet bereichsübergreifende Projekte, neue Wachstumsfelder, die KI-Transformation sowie Marktforschung und war zuvor Head of Executive Projects bei Zeit sowie Senior Projektmanagerin bei einer DFL-Tochter.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Alle Spiele im Free TV Sport1 sichert sich Rechte für neue American Football League Europe Bei...",
-          "link": "https://meedia.de/news/beitrag/23602-sport1-sichert-sich-rechte-fuer-neue-american-football-league-europe.html",
-          "summary": "Sport1 hat sich die Übertragungsrechte für die neu gegründete American Football League Europe (AFLE) gesichert und zeigt ab dem 23. Mai alle Spiele der acht europäischen Teams live im Free-TV. Die Liga mit Hauptsitz in Hamburg umfasst Teams aus Deutschland, der Schweiz, Italien, England, Polen und Frankreich und soll sowohl traditionelle Football-Fans als auch jüngere US-Sport-affine Zielgruppen ansprechen. Sport1 will mit dieser Partnerschaft sein internationales Livesport-Angebot ausbauen und den europäischen Football-Markt erschließen.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "“Nürnberger Nachrichten”) setzt bei der Erstellung lokaler Inhalte und der gedruckten Tageszeitung verstärkt auf Künstliche Intelligenz.",
-          "link": "https://meedia.de/news/beitrag/23601-nur-noch-vier-blattmacher-produzieren-pro-tag-bis-zu-150-seiten.html",
-          "summary": "Der Verlag Nürnberger Presse hat durch KI-Einsatz in der Zeitungsproduktion den Personalaufwand um 90 Prozent reduziert - statt 43 Mitarbeitenden produzieren nun nur noch vier Blattmacher täglich 100-150 Lokal- und Mantelseiten. Die KI unterstützt bei automatisierter Seitenproduktion, Textgenerierung für externe Autoren, Faktenchecks und Layout-Platzierung, wobei alle externen Inhalte vor Veröffentlichung redaktionell geprüft werden müssen.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Insgesamt 15 neue Märkte Netflix weitet Werbe-Abo auf Länder wie Österreich und die Schweiz aus In...",
-          "link": "https://meedia.de/news/beitrag/23600-netflix-weitet-werbe-abo-auf-laender-wie-oesterreich-und-die-schweiz-aus.html",
-          "summary": "Netflix expandiert sein werbegestütztes Standard-Abo auf 15 weitere Märkte, darunter Österreich, Schweiz, Niederlande, Norwegen und Polen. Das seit 2022 in zwölf Ländern verfügbare Werbe-Abo hat laut Werbechefin Susanne Aigner weltweit rund 4.000 Werbekunden gewonnen, mit besonders starker Nachfrage aus den Branchen FMCG, Automotive und Tech. Bei Mittelstand und kleineren Unternehmen sieht Netflix noch Wachstumspotenzial.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts \"Germany's next Topmodel\" besiegt zweites \"ESC\"-Halbfinale, ZDF...",
-          "link": "https://meedia.de/news/beitrag/23599-quot-germany-039-s-next-topmodel-quot-besiegt-zweites-quot-esc-quot-halbfinale-zdf-punktet-mit-quot-olivia-quot.html",
-          "summary": "Das zweite ESC-Halbfinale verlor am Donnerstag gegen \"Germany's next Topmodel\" in der werberelevanten Zielgruppe, nachdem das erste Halbfinale noch erfolgreich war. Im Gesamtpublikum dominierte \"Der Kroatien-Krimi\" mit 5,01 Millionen Zuschauern (22,7%) die Prime Time am Feiertag. Der ZDF-Film \"Olivia\" erzielte am Mittwoch starke Quoten bei allen Altersgruppen und wurde nur von \"Joko & Klaas gegen ProSieben\" in der Zielgruppe 14-49 Jahre übertroffen.",
+          "summary": "RTL Deutschland ernennt Kristina Freymuth, bisher General Counsel bei Sky Deutschland, zur Deputy General Counsel nach Vollzug der Sky-Übernahme am 1. Juni 2026. Freymuth bringt umfassende Expertise in Pay-TV-Geschäftsmodellen und Anti-Piracy mit und verantwortete bereits die erfolgreiche kartellrechtliche Freigabe der Transaktion durch die EU-Kommission. Die Personalie stärkt RTLs Rechtsabteilung mit einer ausgewiesenen Kennerin des Übernahme-Deals.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "Cricket Australia in talks with Amazon and Dazn over Ashes broadcast rights",
-          "link": "https://www.theguardian.com/sport/2026/may/14/cricket-australia-in-talks-with-amazon-and-dazn-over-ashes-broadcast-rights",
-          "summary": "Cricket Australia führt Verhandlungen mit Streaming-Anbietern wie Amazon und Dazn über ein vierjähriges UK-Übertragungsrechtepaket, das die kommenden Ashes-Serien und das 150-jährige Jubiläums-Test zwischen England und Australien umfasst. Die Gespräche sollen bis zum nächsten Monat abgeschlossen werden und könnten zu einem neuen Cricket-Rechteinhaber im britischen Markt führen, nachdem TNT Sports' einjähriger Vertrag für die letzte Ashes-Serie ausgelaufen ist. Das Paket beinhaltet auch Englands umfangreiches Tour-Programm nach Australien, einschließlich acht ODI- und T20-Spiele im Herbst.",
+          "title": "CBS News insiders fear Bari Weiss will soon enact ‘massive changes’ to 60 Minutes",
+          "link": "https://www.theguardian.com/media/2026/may/16/cbs-bari-weiss-60-minutes",
+          "summary": "CBS-Insider befürchten drastische Veränderungen bei der erfolgreichen Nachrichtensendung 60 Minutes unter der neuen Chefredakteurin Bari Weiss, die nach Skydance Medias Übernahme von Paramount Global im August 2025 installiert wurde. Trotz Rekordeinschaltquoten von über 10 Millionen Zuschauern werden für die kommende 59. Staffel weitreichende Entlassungen und strukturelle Umbrüche erwartet. Mitarbeiter beschreiben eine Atmosphäre der Angst und warten auf \"monumentale\" Veränderungen, obwohl das grundlegende Format angeblich beibehalten werden soll.",
           "score": 7
         },
         {
-          "source": "Deadline",
-          "title": "As British Politics Is Plunged Into Chaos, Channel 4 Unveils Timely First Look at Steven Moffat’s ‘Number 10’",
-          "link": "https://deadline.com/2026/05/channel-4-first-image-number-10-rafe-spall-steven-moffat-1236904701/",
-          "summary": "Channel 4 hat erste Bilder zu Steven Moffats politischer Drama-Serie \"Number 10\" veröffentlicht, die Rafe Spall als fiktiven Premierminister Harry Douglas zeigt, während die britische Politik unter Keir Starmer aktuell in eine Krise gerät. Die Serie spielt in der Downing Street und behandelt politische Krisen in einem fiktiven, parteiübergreifenden Setting, wobei der Zeitpunkt der Veröffentlichung angesichts der Labour-Regierungskrise besonders treffend erscheint. Neben Spall sind Katherine Kelly als Stabschefin und Jenna Coleman als stellvertretende Stabschefin zu sehen.",
+          "source": "Guardian Media",
+          "title": "X to block UK access to accounts linked to terrorist groups in Ofcom agreement",
+          "link": "https://www.theguardian.com/technology/2026/may/15/x-ofcom-agreement-block-uk-access-accounts-linked-banned-terrorist-groups",
+          "summary": "X hat sich in einer Vereinbarung mit der britischen Medienaufsicht Ofcom verpflichtet, UK-Nutzern den Zugang zu Accounts zu sperren, die mit verbotenen Terrororganisationen verknüpft sind, und verdächtige illegale Terror- und Hassinhalt innerhalb von 48 Stunden zu überprüfen. Die Maßnahmen erfolgen im Rahmen des UK Online Safety Act und als Reaktion auf zunehmende Hassverbrechen gegen die jüdische Gemeinde. Ofcom wird die Umsetzung der verstärkten Schutzmaßnahmen für britische Nutzer engmaschig überwachen.",
           "score": 7
         },
         {
-          "source": "Deadline",
-          "title": "BritBox & UKTV Delve Into ‘Chocolate Wars,’ Period Drama From Sony’s Fable & Freddie Highmore’s Alfresco Pictures About British Confectionary Dynasty",
-          "link": "https://deadline.com/2026/05/chocolate-wars-britbox-uktv-sony-cadbury-family-1236905633/",
-          "summary": "BritBox und UKTV haben die Periodenserie \"Chocolate Wars\" von Sony Pictures Television bestellt, die auf dem historischen Buch von Deborah Cadbury über die britische Quäker-Dynastie basiert und die Entstehung des Cadbury-Schokoladenimperiums im 19. Jahrhundert erzählt. Die Serie wird von Sony-backed Fable Pictures in Zusammenarbeit mit Freddie Highmores Alfresco Pictures produziert, wobei Highmore als Executive Producer fungiert. Die Premiere ist für 2027 auf BritBox und UKTV geplant.",
+          "source": "Guardian Media",
+          "title": "Channel 5 secures Commonwealth Games highlights deal as BBC ends 72-year run",
+          "link": "https://www.theguardian.com/sport/2026/may/15/channel-5-secures-commonwealth-games-highlights-deal-bbc-ends-72-year-run",
+          "summary": "Channel 5 hat die Highlight-Rechte für die Commonwealth Games 2026 in Glasgow übernommen, nachdem die BBC nach 72 Jahren erstmals auf eine Übertragung verzichtet. TNT Sports sicherte sich die Live-Rechte durch ein höheres Gebot als die BBC und lizenzierte die Highlight-Rechte an Channel 5 weiter. Die BBC-Entscheidung spiegelt die angespannte Finanzlage des Senders wider, der im Rahmen eines £500m-Sparprogramms 1.800-2.000 Stellen abbauen muss.",
           "score": 7
         },
         {
-          "source": "Deadline",
-          "title": "Paramount’s Warner Bros. Takeover Expected To Breach Its SkyShowtime Venture With Comcast",
-          "link": "https://deadline.com/2026/05/paramount-warner-takeover-skyshowtime-comcast-1236905695/",
-          "summary": "Paramount's geplante 110-Milliarden-Dollar-Übernahme von Warner Bros. Discovery wird voraussichtlich das 50-50-Joint-Venture SkyShowtime mit Comcast verletzen, da die Fusion HBO Max in 21 der 22 europäischen SkyShowtime-Märkte einbringen würde. Das aktuelle Abkommen verbietet beiden Partnern, in SkyShowtime-Territorien zu konkurrieren, was durch David Ellisons angekündigte Pläne zur Zusammenlegung von Paramount+ und HBO Max gefährdet wäre. Die Unsicherheit hat bereits zu Spekulationen unter SkyShowtime-Mitarbeitern über mögliche Änderungen in der Anteilseignerstruktur des 9-Millionen-Abonnenten-Service geführt.",
+          "source": "Guardian Media",
+          "title": "GB News should lose its licence, says ex-Sky News editor Adam Boulton",
+          "link": "https://www.theguardian.com/media/2026/may/14/gb-news-lose-licence-adam-boulton-ofcom-impartiality-rules",
+          "summary": "Der ehemalige Sky News-Chefredakteur Adam Boulton fordert den Entzug der Sendelizenz für GB News und wirft der Medienaufsicht Ofcom vor, bei wiederholten Verstößen gegen Unparteilichkeitsregeln versagt zu haben. Boulton kritisiert insbesondere die parteiische Berichterstattung des rechtspopulistischen Senders seit 2021, einschließlich eines unkritischen Trump-Interviews durch Nigel Farage. Ofcom untersucht derzeit ein Programm mit einer Wiederholung dieses Interviews.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "US-based internet suicide forum implicated in 160 UK deaths fined £950,000",
+          "link": "https://www.theguardian.com/society/2026/may/13/us-based-internet-suicide-forum-implicated-in-160-deaths-fined-950000",
+          "summary": "Ofcom hat ein US-basiertes Suizid-Forum, das mit über 160 Todesfällen in Großbritannien in Verbindung gebracht wird, zu einer Geldstrafe von £950.000 unter dem Online Safety Act verurteilt. Trotz über einem Jahr an Warnungen bleibt die Website für britische Nutzer zugänglich, was Online-Sicherheitskampagnen und Organisationen wie die Molly Rose Foundation zu Kritik an Ofcoms langsamem Vorgehen veranlasst hat. Der Regulator bereitet nun gerichtliche Schritte vor, um Internetanbieter zur Blockierung des Zugangs zur Website zu zwingen.",
           "score": 7
         }
       ]
