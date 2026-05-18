@@ -1,98 +1,105 @@
 {
   "newsletters": [
     {
-      "date": "2026-05-17",
+      "date": "2026-05-18",
       "articles": [
         {
           "source": "DWDL",
-          "title": "MFE überrascht mit kleinem Betriebsgewinn im 1. Quartal",
-          "link": "https://www.dwdl.de/nachrichten/106511/mfe_ueberrascht_mit_kleinem_betriebsgewinn_im_1_quartal/",
-          "summary": "MFE - MediaForEurope überraschte im Q1 2026 mit einem EBIT von +13,6 Mio. Euro (Vorjahr: -50,1 Mio. Euro pro forma) trotz rückläufiger Umsätze (-4,5% auf 1,53 Mrd. Euro), was durch konsequente Kostensenkungen erreicht wurde. Die Werbeerlöse sanken konzernweit um 4,2% auf 952,9 Mio. Euro, wobei die deutsche Tochter ProSiebenSat.1 mit -9,8% das größte Sorgenkind darstellt, während Italien minimal wachsen konnte (+0,1%). Der Nettoverlust reduzierte sich deutlich von -41,3 auf -26,1 Mio. Euro.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "CDU-Politiker Torsten Welling koordiniert die Rundfunkkommission",
-          "link": "https://www.dwdl.de/nachrichten/106510/cdupolitiker_torsten_welling_koordiniert_die_rundfunkkommission/",
-          "summary": "Nach dem CDU-Wahlsieg in Rheinland-Pfalz übernimmt der 41-jährige Torsten Welling als Staatssekretär die Koordination der Rundfunkkommission der Länder von der bisherigen SPD-Koordinatorin Heike Raab. Die Medienpolitik wird unter der neuen CDU-Regierung von Ministerpräsident Gordon Schnieder in einem eigenen Ministerium unter Marcus Klein angesiedelt, was laut CDU eine \"deutliche Aufwertung\" darstellt. Welling wird zusätzlich Bevollmächtigter des Landes Rheinland-Pfalz beim Bund und für Europa.",
+          "title": "ZDF bringt Menschen mit Autismus auf die große Bühne",
+          "link": "https://www.dwdl.de/nachrichten/106532/zdf_bringt_menschen_mit_autismus_auf_die_grosse_buehne/",
+          "summary": "Das ZDF entwickelt das vierteilige Social-Factual-Format \"Comedy im Spektrum – Mit Autismus auf die Bühne\", das sechs Menschen im Autismus-Spektrum auf ihrem Weg zur Comedy-Bühne begleitet. Die Teilnehmer werden von prominenten Comedy-Coaches und Wissenschaftlern der Humboldt Universität unterstützt, um zu erforschen, ob Comedy bei der Bewältigung von Alltagsschwierigkeiten helfen kann. Das von megaherz produzierte Format wird in Kooperation mit Aspies e.V. entwickelt und mündet in eine finale Comedy-Show vor Publikum.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "ZDF nimmt kirchen-kritischen \"Logo\"-Beitrag offline",
-          "link": "https://www.dwdl.de/nachrichten/106504/zdf_nimmt_kirchenkritischen_logobeitrag_offline/",
-          "summary": "Das ZDF hat einen 90-sekündigen \"Logo\"-Beitrag über Kirchenaustritte nach Programmbeschwerden offline genommen, da die komplexe Thematik der historischen Entwicklung christlicher Kirchen laut Intendant Himmler nicht angemessen dargestellt wurde. Zusätzlich kritisiert wurde die direkte Programmfolge nach einem positiv dargestellten Ramadan-Beitrag, was als \"tendenziöse Gegenüberstellung\" wahrgenommen wurde, obwohl beide Beiträge laut ZDF unabhängig voneinander geplant waren.",
-          "score": 7
+          "title": "ProSiebenSat.1 strebt keine Übernahmen in Deutschland an",
+          "link": "https://www.dwdl.de/nachrichten/106530/prosiebensat1_strebt_keine_uebernahmen_in_deutschland_an/",
+          "summary": "ProSiebenSat.1-CEO Marco Giordani schließt weitere Übernahmen im deutschsprachigen Raum aus, da das Unternehmen hier bereits stark genug positioniert sei und die Synergien zwischen lokalen Konkurrenten zu gering wären. Stattdessen fokussiert sich die Sendergruppe auf Entertainment als Kerngeschäft und den Ausbau der Reichweite über digitale Plattformen wie YouTube und TikTok. Im europäischen Kontext des Mehrheitsaktionärs MFE zeigt Giordani hingegen Interesse an Akquisitionen, etwa der französischen M6 Group.",
+          "score": 9
         },
         {
-          "source": "kress",
-          "title": "„Wir sparen lieber bei Routine als bei Recherche\": VNP-Chefredakteur Husarek verteidigt KI-Kurs auf LinkedIn Der KI-Ansatz des Verlags Nürnberger Presse hat auf LinkedIn eine lebhafte Debatte ausgelöst. Chefredakteur Michael Husarek und sein Stellvertreter Armin Jelenik stellen sich der Kritik",
-          "link": "https://kress.de/news/beitrag/152845-wir-sparen-lieber-bei-routine-als-bei-recherche-quot-vnp-chefredakteur-husarek-verteidigt-ki-kurs-auf-linkedin.html",
-          "summary": "Der Chefredakteur des Verlags Nürnberger Presse, Michael Husarek, verteidigt in einer LinkedIn-Debatte den KI-Einsatz im Lokaljournalismus gegen Branchenkritik und argumentiert, dass angesichts schrumpfender Redaktionen und schwieriger wirtschaftlicher Rahmenbedingungen KI-Automatisierung bei Routine-Tätigkeiten sinnvoller sei als Einsparungen bei Recherche und Eigenbeiträgen. Husarek betont, dass durch KI mehr statt weniger Geschichten entstehen und sich Journalisten auf wesentliche Inhalte konzentrieren können, während sein Stellvertreter Jelenik die inhaltliche Dimension des Lokaljournalismus ergänzt.",
-          "score": 7
+          "source": "DWDL",
+          "title": "Werbung auf Knopfdruck: Joyn führt neue \"Pause Ads\" ein",
+          "link": "https://www.dwdl.de/nachrichten/106529/werbung_auf_knopfdruck_joyn_fuehrt_neue_pause_ads_ein/",
+          "summary": "Seven.One Media führt bei Joyn \"Pause Ads\" ein - statische Vollbild-Werbeanzeigen, die vier Sekunden nach dem Pausieren von VoD-Inhalten erscheinen und bis zur Wiedergabe sichtbar bleiben. Das neue CTV-Werbeformat soll Marken eine aufmerksamkeitsstarke Präsenz ohne Unterbrechung des Seherlebnisses bieten, mit CosmosDirekt als erstem Werbekunden. Die Pause Ads folgen dem Vorbild von Netflix, wo sie bereits ein zentraler Vermarktungsbaustein sind.",
+          "score": 8
         },
         {
-          "source": "kress",
-          "title": "ZDF entschuldigt sich für logo-Beitrag: Kirche und Ramadan im Vergleich",
-          "link": "https://kress.de/news/beitrag/152844-zdf-entschuldigt-sich-fuer-logo-beitrag-kirche-und-ramadan-im-vergleich-und-das-ging-schief.html",
-          "summary": "Das ZDF entschuldigte sich für einen kontroversen \"logo!\"-Beitrag, in dem das Ende des Ramadan positiv dargestellt, während die Kirche kritisch mit Fokus auf Austritte und Ablasshandel behandelt wurde. Intendant Norbert Himmler räumte ein, dass die Kombination beider Themen in einer Sendung einen Fehler darstellte und den unbeabsichtigten Eindruck einer tendenziösen Gegenüberstellung erweckte. Der Beitrag wurde aus dem Archiv entfernt und durch einen Hinweis in der Mediathek ersetzt.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Überraschender Wechsel: Ulf Poschardt gibt Herausgeberposition bei Axel Springer ab Ulf Poschardt gehört zu den meistgelesenen politischen Autoren Deutschlands",
-          "link": "https://kress.de/news/beitrag/152842-ueberraschender-wechsel-ulf-poschardt-gibt-herausgeberposition-bei-axel-springer-ab.html",
-          "summary": "Ulf Poschardt gibt zum 1. Juli 2026 seine Herausgeberposition bei Axel Springer (Welt, Politico Deutschland, Business Insider Deutschland) auf und wechselt in die neue Rolle als \"Freiester Mitarbeiter\" für die Premium-Gruppe. In dieser Position soll er als Autor, Podcaster und Creator maßgeschneiderte Formate für alle deutschen und internationalen Medienmarken des Hauses entwickeln, darunter tägliche Social-Media-Clips, eine Talkshow für Welt TV und Kolumnen bei Bild. Der Wechsel erfolgt auf Poschardts eigenen Wunsch nach mehr publizistischer Freiheit und ist Teil von Axel Springers Creator-Strategie.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Vier Blattmacher statt 43: Nürnberger Presse automatisiert Lokaljournalismus mit KI Während andere Verlage aus dem aufwendigen Lokaljournalismus aussteigen, geht der Verlag Nürnberger Presse den umgekehrten Weg",
-          "link": "https://kress.de/news/beitrag/152839-vier-blattmacher-statt-43-nuernberger-presse-automatisiert-lokaljournalismus-mit-ki.html",
-          "summary": "Der Verlag Nürnberger Presse automatisiert seinen Lokaljournalismus mit KI und reduziert dabei den Personalaufwand um 90 Prozent – von 43 auf vier Blattmacher für täglich 100-150 Seiten Print. Ein Upload-Tool ermöglicht externen Autoren die Einstellung von Inhalten, während KI bei Textproduktion und Faktencheck unterstützt und eine Layout-Engine die automatische Platzierung übernimmt. Der Verlag setzt damit bewusst auf Ausbau statt Rückbau der Lokalberichterstattung und nutzt KI branchenweit von der Redaktion bis zum Anzeigenverkauf.",
+          "source": "Horizont Medien",
+          "title": "Pause Ad: Joyn führt Pausenwerbung ein",
+          "link": "https://www.horizont.net/medien/nachrichten/pause-ad-joyn-fuehrt-pausenwerbung-ein-234390?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "SevenOne Media erweitert das Werbeangebot für den Streamingdienst Joyn um das neue Format \"Pause Ad\", das automatisch beim Pausieren von Inhalten eingeblendet wird. Diese Werbeform ist bei großen US-amerikanischen Streaming-Anbietern bereits etabliert und stellt eine zusätzliche Monetarisierungsmöglichkeit für pausierte Inhalte dar.",
           "score": 7
         },
         {
           "source": "kress",
           "title": "Im Zuge der Sky-Übernahme: RTL Deutschland beruft Kristina Freymuth zur Deputy General Counsel\" Kristina Freymuth hat die Sky-Übernahme durch RTL juristisch mitgestaltet",
           "link": "https://kress.de/news/beitrag/152840-im-zuge-der-sky-uebernahme-rtl-deutschland-beruft-kristina-freymuth-zur-deputy-general-counsel-quot.html",
-          "summary": "RTL Deutschland ernennt Kristina Freymuth, bisher General Counsel bei Sky Deutschland, zur Deputy General Counsel nach Vollzug der Sky-Übernahme am 1. Juni 2026. Freymuth bringt umfassende Expertise in Pay-TV-Geschäftsmodellen und Anti-Piracy mit und verantwortete bereits die erfolgreiche kartellrechtliche Freigabe der Transaktion durch die EU-Kommission. Die Personalie stärkt RTLs Rechtsabteilung mit einer ausgewiesenen Kennerin des Übernahme-Deals.",
+          "summary": "RTL Deutschland ernennt Kristina Freymuth zur Deputy General Counsel nach Vollzug der Sky-Übernahme am 1. Juni 2026. Freymuth, derzeit General Counsel bei Sky Deutschland, war maßgeblich an der kartellrechtlichen Freigabe der Transaktion durch die EU-Kommission beteiligt und bringt umfassende Expertise in Pay-TV-Geschäftsmodellen und Rechteausschreibungen mit. Sie wird künftig Ralph Sammeck, General Counsel bei RTL Deutschland, unterstellt sein.",
           "score": 7
         },
         {
-          "source": "Guardian Media",
-          "title": "CBS News insiders fear Bari Weiss will soon enact ‘massive changes’ to 60 Minutes",
-          "link": "https://www.theguardian.com/media/2026/may/16/cbs-bari-weiss-60-minutes",
-          "summary": "CBS-Insider befürchten drastische Veränderungen bei der erfolgreichen Nachrichtensendung 60 Minutes unter der neuen Chefredakteurin Bari Weiss, die nach Skydance Medias Übernahme von Paramount Global im August 2025 installiert wurde. Trotz Rekordeinschaltquoten von über 10 Millionen Zuschauern werden für die kommende 59. Staffel weitreichende Entlassungen und strukturelle Umbrüche erwartet. Mitarbeiter beschreiben eine Atmosphäre der Angst und warten auf \"monumentale\" Veränderungen, obwohl das grundlegende Format angeblich beibehalten werden soll.",
+          "source": "meedia",
+          "title": "Mediaetat für EMEA-Region wird neu vergeben Honda holt in sein Media-Pitchfinale Omnicom und WPP Bereits im vergangenen Spätsommer startete Honda den Pitch um seinen Mediaetat in der EMEA-Region. Die Entscheidung ist zwar noch nicht gefallen, mit WPP und Omnicom stehen jetzt aber die zwei Pitchfinalisten fest, wie „Campaign UK“ berichtet. Damit ist auch der aktuelle Betreuer",
+          "link": "https://meedia.de/news/beitrag/23672-honda-holt-in-sein-media-pitchfinale-omnicom-und-wpp.html",
+          "summary": "Honda vergibt seinen EMEA-Mediaetat (ca. 60 Millionen Euro) neu und hat WPP und Omnicom als Finalisten ausgewählt. Der aktuelle Betreuer UM (Universal McCann) ist durch die Übernahme von Interpublic durch Omnicom weiterhin im Rennen. Die finale Entscheidung wird in Kürze erwartet.",
           "score": 7
         },
         {
-          "source": "Guardian Media",
-          "title": "X to block UK access to accounts linked to terrorist groups in Ofcom agreement",
-          "link": "https://www.theguardian.com/technology/2026/may/15/x-ofcom-agreement-block-uk-access-accounts-linked-banned-terrorist-groups",
-          "summary": "X hat sich in einer Vereinbarung mit der britischen Medienaufsicht Ofcom verpflichtet, UK-Nutzern den Zugang zu Accounts zu sperren, die mit verbotenen Terrororganisationen verknüpft sind, und verdächtige illegale Terror- und Hassinhalt innerhalb von 48 Stunden zu überprüfen. Die Maßnahmen erfolgen im Rahmen des UK Online Safety Act und als Reaktion auf zunehmende Hassverbrechen gegen die jüdische Gemeinde. Ofcom wird die Umsetzung der verstärkten Schutzmaßnahmen für britische Nutzer engmaschig überwachen.",
+          "source": "meedia",
+          "title": "1 ein kleineres, dafür aber profitableres Unternehmen machen.",
+          "link": "https://meedia.de/news/beitrag/23689-marco-giordani-will-in-entertainment-sparte-130-millionen-euro-sparen.html",
+          "summary": "ProSiebenSat.1-CEO Marco Giordani plant eine Kostenreduktion von mindestens 130 Millionen Euro im Entertainment-Kerngeschäft für 2026, um das Unternehmen kleiner aber profitabler zu gestalten. Der Konzern soll zu einem \"fokussierten Entertainment-Powerhouse\" umgebaut werden, wobei nahezu alle Tochterunternehmen außer dem Beauty-Onlineshop Flaconi verkauft werden könnten. Ein zusätzliches Stellenabbauprogramm ist jedoch nicht geplant, da der Fokus auf Wachstum statt reiner Kosteneinsparung liegt.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Baumarkt Hornbach baut seine Zusammenarbeit mit der Serviceplan Group aus Hornbach setzt bereits...",
+          "link": "https://meedia.de/news/beitrag/23688-hornbach-baut-seine-zusammenarbeit-mit-der-serviceplan-group-aus.html",
+          "summary": "Hornbach erweitert seine langjährige Zusammenarbeit mit der Serviceplan Group um den Kreativbereich und trennt sich damit von HeimatTBWA, wobei Kreativchef Guido Heffels zur Serviceplan Group wechselt. Die Entscheidung begründet Hornbach mit dem internationalen Wachstum und der Notwendigkeit eines passenden Agenturmodells für die familiengeprägten Unternehmensstrukturen. Damit endet die über 25-jährige erfolgreiche Kreativpartnerschaft zwischen Hornbach und der einstigen Kreativagentur Heimat.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "One Media folgt dem Vorbild großer Streamingdienste wie Netflix und bietet für seine Plattform Joyn jetzt auch Pause Ads an.",
+          "link": "https://meedia.de/news/beitrag/23606-auch-seven-one-media-setzt-auf-werbeform-pause-ads.html",
+          "summary": "Seven.One Media führt auf seiner Streaming-Plattform Joyn nach dem Vorbild von Netflix Pause Ads ein, die vier Sekunden nach dem Pausieren als statische Vollbild-Anzeige erscheinen. Den Launch-Kunden stellt die Versicherung CosmosDirekt mit ihrer Kampagne \"Immer schön direkt\", die bis Juni 2026 läuft. Die neue CTV-Werbeform ist zunächst mit soziodemografischem Targeting buchbar und soll besonders nutzerfreundlich jüngere Zielgruppen erreichen.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Kauf für rund 2,2 Milliarden Dollar Publicis kauft den US-Datenspezialisten LiveRamp Die Publicis Groupe meldet die Übernahme des US-AdTech-Unternehmens LiveRamp für rund 2,2 Milliarden US-Dollar",
+          "link": "https://meedia.de/news/beitrag/23605-publicis-kauft-den-us-datenspezialisten-liveramp.html",
+          "summary": "Die Publicis Groupe übernimmt den US-AdTech-Spezialisten LiveRamp für rund 2,2 Milliarden US-Dollar – die größte Akquisition seit dem Epsilon-Kauf 2019. Die Übernahme stärkt Publicis' Fähigkeiten im Bereich KI-gestützter, datengetriebener Werbung und soll Kunden dabei helfen, proprietäre Daten für differenzierte KI-Agenten zu nutzen. In Deutschland wird die Integration in die Connected Media-Strategie unter Karin Ross vorangetrieben, um Media, Kreation und CRM enger zu vernetzen.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Digital out of Home 10 Gründe, warum digitale Außenwerbung in jeden Mediaplan gehört Soeben flog...",
+          "link": "https://meedia.de/news/beitrag/21750-10-gruende-warum-digitale-aussenwerbung-in-jeden-mediaplan-gehoert.html",
+          "summary": "Digitale Außenwerbung entwickelt sich zur dynamischsten Werbeform mit wöchentlichen Innovationen wie 3D-Werbewürfeln per Drohne, jedoch schöpfen viele Advertiser und Agenturen das Potenzial noch nicht aus. Die Branche muss den Spagat zwischen individuellen kreativen Möglichkeiten und effizienter programmatischer Planung meistern, wobei KI zukünftig gezieltes Audience-Targeting vor Bildschirmen ermöglichen soll. Trotz des hohen Innovationstempos bleibt Überzeugungsarbeit bei Werbetreibenden die zentrale Herausforderung der Disziplin.",
           "score": 7
         },
         {
-          "source": "Guardian Media",
-          "title": "Channel 5 secures Commonwealth Games highlights deal as BBC ends 72-year run",
-          "link": "https://www.theguardian.com/sport/2026/may/15/channel-5-secures-commonwealth-games-highlights-deal-bbc-ends-72-year-run",
-          "summary": "Channel 5 hat die Highlight-Rechte für die Commonwealth Games 2026 in Glasgow übernommen, nachdem die BBC nach 72 Jahren erstmals auf eine Übertragung verzichtet. TNT Sports sicherte sich die Live-Rechte durch ein höheres Gebot als die BBC und lizenzierte die Highlight-Rechte an Channel 5 weiter. Die BBC-Entscheidung spiegelt die angespannte Finanzlage des Senders wider, der im Rahmen eines £500m-Sparprogramms 1.800-2.000 Stellen abbauen muss.",
+          "source": "Deadline",
+          "title": "Seriencamp Unveils Full 2026 Lineup Including ‘Halo’ Showrunner Steven Kane & Vet Hollywood Agent Alan Greenspan, As Artistic Director Says Fest Will Offer Solutions Not “Doom & Gloom”",
+          "link": "https://deadline.com/2026/05/seriencamp-lineup-halo-steven-kane-alan-greenspan-full-program-1236905942/",
+          "summary": "Seriencamp 2026 präsentiert sein vollständiges Programm mit hochkarätigen Speakern wie Halo-Showrunner Steven Kane und Hollywood-Agent Alan Greenspan, wobei der künstlerische Leiter Gerhard Maier betont, dass das Festival Lösungen statt \"Weltuntergangsstimmung\" für die Branche bieten will. Das Kölner TV-Festival zeigt Premieren wie ARD's \"Westend Girl\" mit Helena Zengel und neue Shows für amerikanische Streamer, während es sich auf zukunftsweisende Trends wie Microdrama, Gaming-IP und KI konzentriert. Maier zielt darauf ab, Produzenten, Autoren und Entscheidungsträgern konkrete Inspiration und Ideen für die strategische Planung der nächsten fünf Jahre zu liefern.",
           "score": 7
         },
         {
-          "source": "Guardian Media",
-          "title": "GB News should lose its licence, says ex-Sky News editor Adam Boulton",
-          "link": "https://www.theguardian.com/media/2026/may/14/gb-news-lose-licence-adam-boulton-ofcom-impartiality-rules",
-          "summary": "Der ehemalige Sky News-Chefredakteur Adam Boulton fordert den Entzug der Sendelizenz für GB News und wirft der Medienaufsicht Ofcom vor, bei wiederholten Verstößen gegen Unparteilichkeitsregeln versagt zu haben. Boulton kritisiert insbesondere die parteiische Berichterstattung des rechtspopulistischen Senders seit 2021, einschließlich eines unkritischen Trump-Interviews durch Nigel Farage. Ofcom untersucht derzeit ein Programm mit einer Wiederholung dieses Interviews.",
-          "score": 7
+          "source": "Deadline",
+          "title": "New BBC Director General Matt Brittin Sets Out Stall To Staff On Day One: “Tough Choices Are Unavoidable” But We Must “Experiment More Bravely” To “Reinvent Public Service Broadcasting For The 21st Century”",
+          "link": "https://deadline.com/2026/05/bbc-director-general-matt-brittin-day-one-email-staff-1236914218/",
+          "summary": "Der neue BBC-Generaldirektor Matt Brittin fordert in seiner ersten Botschaft an die Belegschaft mutigere Experimente und eine Neuerfindung des öffentlich-rechtlichen Rundfunks für das 21. Jahrhundert, während er gleichzeitig den unvermeidlichen Sparkurs mit etwa 2.000 Stellenstreichungen (10% der Belegschaft) verteidigt. Seine drei Hauptprioritäten umfassen die Charter-Erneuerung, redaktionelle Exzellenz und erhöhte Geschwindigkeit bei Entscheidungen sowie Vereinfachungen für Mitarbeiter und Publikum. Brittin betont die Notwendigkeit, Inhalte auf den richtigen Plattformen zu platzieren und klare Verantwortlichkeiten zu schaffen, während Proteste von Journalistengewerkschaften seine Amtsübernahme begleiteten.",
+          "score": 8
         },
         {
-          "source": "Guardian Media",
-          "title": "US-based internet suicide forum implicated in 160 UK deaths fined £950,000",
-          "link": "https://www.theguardian.com/society/2026/may/13/us-based-internet-suicide-forum-implicated-in-160-deaths-fined-950000",
-          "summary": "Ofcom hat ein US-basiertes Suizid-Forum, das mit über 160 Todesfällen in Großbritannien in Verbindung gebracht wird, zu einer Geldstrafe von £950.000 unter dem Online Safety Act verurteilt. Trotz über einem Jahr an Warnungen bleibt die Website für britische Nutzer zugänglich, was Online-Sicherheitskampagnen und Organisationen wie die Molly Rose Foundation zu Kritik an Ofcoms langsamem Vorgehen veranlasst hat. Der Regulator bereitet nun gerichtliche Schritte vor, um Internetanbieter zur Blockierung des Zugangs zur Website zu zwingen.",
-          "score": 7
+          "source": "Variety",
+          "title": "New BBC Boss Matt Brittin Warns Staff ‘Tough Choices Are Unavoidable as We Make Savings’ on First Day in the Job",
+          "link": "https://variety.com/2026/tv/global/matt-brittin-bbc-director-general-first-day-tough-choices-1236752178/",
+          "summary": "Matt Brittin, der neue BBC-Generaldirektor und ehemalige Google-Manager, hat in seinem ersten Memo an die Belegschaft vor unvermeidlichen \"schwierigen Entscheidungen\" im Zuge von Sparmaßnahmen gewarnt. Trotz der angekündigten Einschnitte betonte der selbsternannte \"lebenslange BBC-Fan\" die Bedeutung des öffentlich-rechtlichen Senders als vertrauenswürdigster Nachrichtenanbieter und kreativer Motor Großbritanniens. Brittin sieht die BBC in Zeiten von Unsicherheit und unbegrenzten Medienoptionen als wichtiger denn je an.",
+          "score": 8
         }
       ]
     }
