@@ -1,181 +1,90 @@
 {
   "newsletters": [
     {
-      "date": "2026-05-29",
+      "date": "2026-05-30",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Umsatz der Highlight-Gruppe bricht in Q1 um 20 Prozent ein",
-          "link": "https://www.dwdl.de/nachrichten/106654/umsatz_der_highlightgruppe_bricht_in_q1_um_20_prozent_ein/",
-          "summary": "Die Highlight-Gruppe verzeichnete im Q1 2026 einen Umsatzrückgang von 20% auf 63,9 Millionen CHF, wobei beide Segmente Film (-16,2%) und Sport/Event (-27,3%) deutlich schrumpften. Trotz Kostensenkungen um 28,5 Millionen CHF bleibt das EBIT mit -6,1 Millionen CHF negativ, während das Unternehmen bis November 75 Millionen CHF Bankenschulden tilgen muss und weiterhin nach frischem Kapital sucht.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "Wie RTL seinen Sport-Bereich personell aufstellen will",
-          "link": "https://www.dwdl.de/nachrichten/106652/wie_rtl_seinen_sportbereich_personell_aufstellen_will/",
-          "summary": "RTL Deutschland stellt seinen Sportbereich nach der geplanten Zusammenlegung mit Sky personell neu auf: Frank Robens übernimmt als Executive Vice President die Gesamtverantwortung und wird von drei ehemaligen Sky-Führungskräften unterstützt - Alexander Rösner (Editorial), Alessandro Reitano (Produktion) und Hans Gabbe (Rechte & Kommerzialisierung). Sky-Manager Charly Classen verlässt hingegen das Unternehmen im Zuge der Umstrukturierung.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Auf den letzten Metern: Charly Classen verlässt Sky Deutschland",
-          "link": "https://www.dwdl.de/nachrichten/106647/auf_den_letzten_metern_charly_classen_verlaesst_sky_deutschland/",
-          "summary": "Charly Classen, Executive Vice President Sports und Geschäftsführungsmitglied bei Sky Deutschland, verlässt das Unternehmen wenige Tage vor der Übernahme durch RTL in \"bestem gegenseitigem Einvernehmen\". Der seit November 2020 für das gesamte Sportgeschäft verantwortliche Manager hatte zuletzt auch Customer Operations und Sky Business geleitet. Seine künftigen beruflichen Pläne sind noch nicht bekannt.",
+          "title": "\"Survivor\" kann bis zum Schluss bei Sport1 nichts reißen",
+          "link": "https://www.dwdl.de/nachrichten/106663/survivor_kann_bis_zum_schluss_bei_sport1_nichts_reissen/",
+          "summary": "Die Neuauflage der Abenteuershow \"Survivor\" bei Sport1 scheiterte mit nur 80.000 Zuschauern im Finale und Marktanteilen von 0,4% (Gesamt) bzw. 0,2% (14-49 Jahre), womit sich das Format nach ProSieben und Vox auch beim dritten deutschen Sender als Flop erwies. Zum Vergleich: Ein James Bond-Film auf Nitro erreichte zeitgleich 370.000 Zuschauer und 3,3% Marktanteil in der Zielgruppe. Auch bei Sixx blieben die GNTM-Finale-Wiederholung und \"Match my Ex\" mit Marktanteilen unter 1% erfolglos.",
           "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "Neues Führungsteam: RTL befördert Sportchef Frank Robens nach Übernahme von Sky",
-          "link": "https://www.horizont.net/medien/nachrichten/neues-fuehrungsteam-rtl-befoerdert-sportchef-robens-nach-uebernahme-von-sky-234532?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Frank Robens, bisher RTL-Sportchef, wird ab dem 1. Juni als Executive Vice President Sport die gesamte Sport-Einheit der RTL-Gruppe nach der Sky-Übernahme leiten. Die Beförderung ist Teil der Neustrukturierung nach dem Zusammenschluss der beiden Medienunternehmen.",
-          "score": 9
+          "source": "DWDL",
+          "title": "Gleich zehn Lolas für ZDF-Koproduktion \"In die Sonne schauen\"",
+          "link": "https://www.dwdl.de/nachrichten/106661/gleich_zehn_lolas_fuer_zdfkoproduktion_in_die_sonne_schauen/",
+          "summary": "Das ZDF-Drama \"In die Sonne schauen\" von Mascha Schilinski dominierte den Deutschen Filmpreis 2026 mit zehn Lolas, darunter Gold für den besten Spielfilm sowie Auszeichnungen in allen wichtigen Gewerken von Regie bis Maskenbild. Die ZDF-Studios-Produktion über vier epochenübergreifend verbundene Frauenschicksale unterstreicht laut Programmdirektorin Bilke den Anspruch des Senders auf emotional kraftvolle Stoffe mit gesellschaftlicher Relevanz. Zusätzlich erhielt die ZDF/Arte-Koproduktion \"Gelbe Briefe\" von İlker Çatak Silber und den Preis für beste Filmmusik.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "So bündelt der WDR seine jungen Radiowellen unter der Marke 1Live",
+          "link": "https://www.dwdl.de/nachrichten/106658/so_buendelt_der_wdr_seine_jungen_radiowellen_unter_der_marke_1live/",
+          "summary": "Der WDR bündelt ab April 2027 seine jungen Radiowellen unter der Marke 1Live und benennt Cosmo in \"1Live Street\" (HipHop-Fokus, Zielgruppe 20-29 Jahre) sowie 1Live Diggi in \"1Live Lounge\" (stressfreie Alltagsbegleitung für junge Erwachsene) um. Ziel der Neupositionierung ist es, mehr junge Menschen in NRW zu erreichen und kulturelle Vielfalt programmlich stärker zu verankern.",
+          "score": 10
         },
         {
           "source": "Horizont Medien",
-          "title": "Kurz vor Übernahme durch RTL: Sportchef Charly Classen verlässt Sky",
-          "link": "https://www.horizont.net/medien/nachrichten/charly-classen-kurz-vor-uebernahme-durch-rtl-sportchef-verlaesst-sky-234529?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Sky-Sportchef Charly Classen verlässt das Unternehmen nur vier Tage vor der offiziellen Übernahme des Pay-TV-Senders durch RTL. Classen war als Executive Vice President für Sports, Customer Operations und Sky Business sowie als Mitglied der Geschäftsführung tätig. Die Trennung erfolgt in einer kritischen Phase des Eigentümerwechsels und stellt eine bedeutende personelle Zäsur dar.",
-          "score": 9
-        },
-        {
-          "source": "kress",
-          "title": "Falkemedia-Chef Goukassian: „Sprechen ist zehnmal schneller als Tippen\"",
-          "link": "https://kress.de/news/beitrag/152997-falkemedia-chef-goukassian-sprechen-ist-zehnmal-schneller-als-tippen-quot-und-vier-weitere-ki-hebel-fuer-fuehrungskraefte.html",
-          "summary": "Falkemedia-CEO Kassian A. Goukassian setzt auf KI-basierte Produktivitätssteigerung statt reine Effizienz und baut eine zentrale Unternehmensdatenbasis auf, die allen Mitarbeitern zur Verfügung steht. Als konkrete Maßnahme implementiert er Spracheingabe-Tools wie Wispr Flow und das DSGVO-konforme Anymize, da Sprechen fünf- bis zehnmal schneller als Tippen ist. Zusätzlich entwickelt er ein persönliches \"Second Brain\"-System zur Wissensorganisation.",
+          "title": "Spotify Ad Exchange : Azerion startet Programmatic-Partnerschaft mit Spotify",
+          "link": "https://www.horizont.net/medien/nachrichten/spotify-ad-exchange-azerion-startet-programmatic-partnerschaft-mit-spotify-234545?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Azerion hat eine Programmatic-Partnerschaft mit Spotify gestartet und ist nun an die Spotify Ad Exchange angebunden. Die Kooperation ermöglicht globalen programmatischen Zugriff auf Spotifys komplettes Werbeinventar inklusive Audio-, Video-, Display- und Podcast-Formaten für alle Deal-Typen.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Wer bei RTL künftig über Bundesliga, Formel 1 und NFL entscheidet",
-          "link": "https://kress.de/news/beitrag/153000-wer-bei-rtl-kuenftig-ueber-bundesliga-formel-1-und-nfl-entscheidet.html",
-          "summary": "RTL Deutschland strukturiert nach dem Zusammenschluss mit Sky Deutschland seinen Sportbereich neu um und setzt dabei primär auf ehemalige Sky-Manager in Führungspositionen. Frank Robens übernimmt als Executive Vice President Sport die Gesamtverantwortung, während drei weitere Senior Vice President-Positionen mit Ex-Sky-Führungskräften besetzt werden, die Editorial, Produktion und Rechte-Kommerzialisierung verantworten. Das umfangreiche Rechteportfolio umfasst unter anderem Bundesliga, Formel 1, NFL und Premier League.",
-          "score": 8
+          "title": "Mokka-Milch-Eisbar in der Tagesschau: Ex-ARD-Chef Becker und Chefredakteurin Leopold streiten auf LinkedIn Lookmaxing, gedopte Sportler, Mokka-Milch-Eisbar: Ex-ARD-Chefredakteur Rainald Becker wundert sich öffentlich auf LinkedIn über die Themensetzung der 20-Uhr-Tagesschau. Tagesschau-Chefredakteurin Juliane Leopold kontert",
+          "link": "https://kress.de/news/beitrag/153002-mokka-milch-eisbar-in-der-tagesschau-ex-ard-chef-becker-und-chefredakteurin-leopold-streiten-auf-linkedin.html",
+          "summary": "Ex-ARD-Chefredakteur Rainald Becker kritisierte öffentlich auf LinkedIn die Themensetzung der 20-Uhr-Tagesschau und stellte den Nachrichtenwert von Beiträgen über Lookmaxing, gedopte Sportler und die Wiedereröffnung der Mokka-Milch-Eisbar in Frage. Tagesschau-Chefredakteurin Juliane Leopold konterte, ohne auf die inhaltliche Kritik einzugehen, mit dem Vorwurf einer Wissenslücke über ostdeutsche Popkultur. Die Debatte zeigt grundsätzliche Meinungsunterschiede über die redaktionelle Ausrichtung des öffentlich-rechtlichen Nachrichtenflaggschiffs.",
+          "score": 7
         },
         {
           "source": "kress",
-          "title": "Geschäftsführer Charly Classen verlässt Sky Deutschland",
-          "link": "https://kress.de/news/beitrag/152998-im-zuge-der-rtl-uebernahme-geschaeftsfuehrer-charly-classen-verlaesst-sky-deutschland.html",
-          "summary": "Charly Classen scheidet zum 1. Juni als Geschäftsführer und EVP Sports/Customer Operations bei Sky Deutschland aus, im Zuge der Zusammenführung mit RTL Deutschland. Classen, der seit November 2020 bei Sky tätig war und das Sportrechte-Portfolio maßgeblich ausbaute, verlässt das Unternehmen in \"bestem gegenseitigem Einvernehmen\". Sein Abgang ist Teil der Umstrukturierung nach der RTL-Übernahme von Sky Deutschland.",
+          "title": "Wer bei RTL künftig über Bundesliga, Formel 1 und NFL entscheidet Der Zusammenschluss von RTL und...",
+          "link": "https://kress.de/news/beitrag/153000-wer-bei-rtl-kuenftig-ueber-bundesliga-formel-1-und-nfl-entscheidet.html",
+          "summary": "RTL Deutschland strukturiert nach dem Zusammenschluss mit Sky Deutschland seinen Sportbereich neu um und besetzt die Führungspositionen größtenteils mit ehemaligen Sky-Managern. Frank Robens übernimmt ab 1. Juni als Executive Vice President Sport die Gesamtverantwortung, während Alexander Rösner (Editorial), Alessandro Reitano (Produktion) und Hans Gabbe (Rechte & Kommerzialisierung) als Senior Vice Presidents die operative Führung übernehmen. Das kombinierte Rechteportfolio umfasst Premium-Inhalte wie Bundesliga, Formel 1, NFL und weitere Top-Sportarten.",
           "score": 9
         },
         {
           "source": "kress",
           "title": "Ungewöhnlicher Wechsel: Nicholas Potter verlässt die taz und geht zur Axel Springer Premium-Gruppe Nicholas Potter ist bekannt für seine Recherchen zu Antisemitismus und demokratiefeindlichen Entwicklungen",
           "link": "https://kress.de/news/beitrag/152914-ungewoehnlicher-wechsel-nicholas-potter-verlaesst-die-taz-und-geht-zur-axel-springer-premium-gruppe.html",
-          "summary": "Nicholas Potter wechselt zum 1. Juli 2026 von der taz zur Axel Springer Premium-Gruppe, wo er als Chefreporter für Welt, Politico Deutschland und Business Insider Deutschland tätig wird. Der auf Antisemitismus- und Demokratiefeindlichkeit spezialisierte Journalist und Buchautor wird aus dem In- und Ausland berichten und zusätzlich einen Podcast launchen. Der Wechsel wird von der Branche als ungewöhnlich betrachtet, da er von einem alternativen Medium zu einem konservativen Medienkonzern führt.",
-          "score": 7
+          "summary": "Nicholas Potter wechselt zum 1. Juli 2026 von der taz als Chefreporter zur Axel Springer Premium-Gruppe und wird für Welt, Politico Deutschland und Business Insider aus dem In- und Ausland berichten. Der auf Antisemitismus- und Demokratiefeindlichkeits-Recherchen spezialisierte Journalist plant zusätzlich den Launch eines Podcasts. Potter ist Autor des Bestsellers „Die neue autoritäre Linke\" und hat bereits für renommierte Medien wie The Guardian und Süddeutsche Zeitung geschrieben.",
+          "score": 10
         },
         {
           "source": "kress",
-          "title": "Job des Tages: Madsack sucht Regio-Themenchef für Döbeln Die Madsack Mediengruppe sucht zum 1.",
-          "link": "https://kress.de/news/beitrag/152912-job-des-tages-madsack-sucht-regio-themenchef-fuer-doebeln.html",
-          "summary": "Die Madsack Mediengruppe sucht einen Regio-Themenchef für den Standort Döbeln. Parallel dazu wird ein 12-monatiges Traineeprogramm vorgestellt, das Nachwuchsjournalisten durch drei verschiedene Medienhäuser führt und journalistische mit wirtschaftlichen Kompetenzen verbindet. Das Programm bietet eine Bezahlung nach österreichischem Journalist:innen-Kollektivvertrag und zielt auf multimediale Ausbildung in der sich wandelnden Medienbranche ab.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Von der \"taz\" zu Springer Nicholas Potter wird Chefreporter der Premium-Gruppe Der “taz”-Journalist Nicholas Potter geht zu Axel Springer: Zum 1.",
-          "link": "https://meedia.de/news/beitrag/24202-nicholas-potter-wird-chefreporter-der-premium-gruppe.html",
-          "summary": "Nicholas Potter, bisher Journalist bei der \"taz\" mit Schwerpunkten auf Großbritannien, USA und Nahost-Berichterstattung, wechselt zum 1. Juli als Chefreporter zu Axel Springers Premium-Gruppe (\"Welt\", \"Politico\", \"Business Insider\"). Potter, der auch für \"The Guardian\" und \"Süddeutsche Zeitung\" schrieb und das Buch \"Die neue autoritäre Linke\" verfasste, war zuletzt Ziel einer Rufmordkampagne mit Morddrohungen aufgrund seiner Berichterstattung.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Ex-CEO von Ströer Christian Schmalzl wird Stepstone-Chef Neuer Job für Christian Schmalzl: Zum 1.",
-          "link": "https://meedia.de/news/beitrag/24200-christian-schmalzl-wird-stepstone-chef.html",
-          "summary": "Christian Schmalzl übernimmt zum 1. September die CEO-Position bei der Stepstone Group und löst damit Sebastian Dettmers ab, der nach 15 Jahren bei dem Düsseldorfer Jobportal-Unternehmen ausscheidet. Schmalzl war zuvor Co-CEO bei Ströer und hatte das Außenwerbe- und Digitalunternehmen bereits Ende März aus persönlichen Gründen verlassen. Bei Ströer führt nun Hauptaktionär Udo Müller als Allein-CEO, während zusätzlich Kommunikationschef Marc Sausen nach 13 Jahren zur Openbank Deutschland wechselt.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Nach der Sky-Übernahme RTL macht Frank Robens zum Chef der neuen Sport-Einheit Vom kommenden Montag an gehört Sky zu RTL Deutschland.",
-          "link": "https://meedia.de/news/beitrag/24198-rtl-macht-frank-robens-zum-chef-der-neuen-sport-einheit.html",
-          "summary": "RTL Deutschland reorganisiert nach der Sky-Übernahme ab 1. Juni seinen Sportbereich und ernennt Frank Robens zum Executive Vice President Sport mit Verantwortung für alle Sportinhalte, -produktion und -rechte. Parallel verlässt Sky-Geschäftsführer Charly Classen, der bisher als Executive Vice President Sports fungierte, das Unternehmen \"in bestem gegenseitigem Einvernehmen\". Die Neustrukturierung erfolgt unter der Gesamtverantwortung von RTL-Geschäftsführerin Inga Leschek für Entertainment- und Sportinhalte.",
-          "score": 9
-        },
-        {
-          "source": "Guardian Media",
-          "title": "CBS News shakes up 60 Minutes as ousted correspondents ‘fear what comes next’",
-          "link": "https://www.theguardian.com/business/2026/may/28/cbs-news-60-minutes-ousts-executive-producer",
-          "summary": "CBS News hat umfassende Personalwechsel bei 60 Minutes vorgenommen und den ehemaligen New York Times-Journalisten Nick Bilton als neuen Executive Producer ernannt, während Tanya Simon sowie mehrere langjährige Korrespondenten und Produzenten entlassen wurden. Die Veränderungen erfolgen vor dem Hintergrund wachsender Fragen zur redaktionellen Integrität der Sendung. Entlassene Mitarbeiter wie Sharyn Alfonsi und Cecilia Vega werfen dem Sender politische Voreingenommenheit vor und kritisieren die Entscheidungsfindung des Netzwerks.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "‘Deep unease’ at BBC Radio Scotland as majority of axed presenters are women",
-          "link": "https://www.theguardian.com/media/2026/may/28/bbc-radio-scotland-axed-presenters-women",
-          "summary": "BBC Radio Scotland hat in einer umfassenden Programmreform unter der neuen Audio-Chefin Victoria Easton Riley mehrheitlich weibliche Moderatorinnen entlassen, darunter drei Kulturpräsentatorinnen, die trotz guter Einschaltquoten durch einen männlichen Moderator ersetzt werden. Mitarbeiter äußern \"tiefes Unbehagen\" über die Diversitätsfrage und kritisieren eine Verschiebung hin zu einer \"kommerzielleren Ausrichtung\" des öffentlich-rechtlichen Senders. Die Kontroverse wird durch die Entlassung der prominenten Moderatorin Kaye Adams nach internen Beschwerden über ihr Verhalten zusätzlich befeuert.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Married at First Sight UK had ‘unhealthy’ focus on sex, say show’s insiders",
-          "link": "https://www.theguardian.com/tv-and-radio/2026/may/28/marrried-at-first-sight-uk-unhealthy-focus-sex-insiders-channel-4",
-          "summary": "Ehemalige Mitarbeiter der Channel 4-Show \"Married at First Sight UK\" berichten von einem \"ungesunden\" Fokus der Produzenten auf die sexuellen Aktivitäten der Teilnehmer und einer \"toxischen\" Arbeitskultur. Die Vorwürfe kommen im Kontext von Vergewaltigungsvorwürfen durch drei weibliche Teilnehmerinnen gegen ihre TV-Partner, was zu zwei Untersuchungen durch Channel 4 geführt hat. Die Produktionsfirma CPL bestreitet die Vorwürfe und verweist auf etablierte Schutzmaßnahmen.",
+          "title": "Max Lotter leitet das neue gemeinsame DASDING von SWR, hr und SR Drei Sender, vier Bundesländer,...",
+          "link": "https://kress.de/news/beitrag/152995-ard-kooperation-geht-an-den-start-max-lotter-leitet-das-neue-gemeinsame-dasding-von-swr-hr-und-sr.html",
+          "summary": "SWR, hr und SR starten am 1. Juni 2026 mit DASDING ein gemeinsames Jugendprogramm für 20- bis 29-Jährige unter der Leitung von Max Lotter als Programmleiter. Die ARD-weit einmalige Kooperation verbindet Radio, Podcasts und Social Media standortübergreifend in Baden-Baden, Frankfurt und Saarbrücken mit regionalen Perspektiven aus vier Bundesländern. Der Start erfolgt sieben Monate vor der gesetzlichen Frist und soll die Effizienz öffentlich-rechtlicher Zusammenarbeit demonstrieren.",
           "score": 8
         },
         {
-          "source": "Guardian Media",
-          "title": "60 Minutes journalist accuses CBS News of penalizing her after contract not renewed",
-          "link": "https://www.theguardian.com/media/2026/may/27/60-minutes-sharyn-alfonsi",
-          "summary": "Die langjährige 60 Minutes-Korrespondentin Sharyn Alfonsi wirft CBS News vor, sie zu bestrafen, nachdem die Führung unter Editor-in-Chief Bari Weiss einen ihrer Beiträge über ein Gefängnis in El Salvador zurückgezogen hatte. CBS verlängerte Alfonis Vertrag nicht, nachdem sie das Netzwerk öffentlich für \"Unternehmenseinmischung\" kritisiert und sich geweigert hatte, ihre faktisch korrekte Berichterstattung zu \"beschönigen\". Alfonsi sieht darin eine Vergeltungsmaßnahme und ein \"abschreckendes Signal\" an die Redaktion nach fast 20 Jahren bei CBS.",
+          "source": "meedia",
+          "title": "Ab sofort mehr Schutz vor Deepfakes YouTube erweitert seine Maßnahmen zum Umgang mit KI-generierten Inhalten.",
+          "link": "https://meedia.de/news/beitrag/24199-youtube-ab-sofort-mehr-schutz-vor-deepfakes.html",
+          "summary": "YouTube verschärft seine Maßnahmen gegen Deepfakes durch prominentere Kennzeichnung KI-generierter Inhalte direkt unter dem Videoplayer statt nur in Beschreibungen, automatische Erkennungssysteme mit SynthID-Wasserzeichen und C2PA-Standard sowie ein erweitertes Tool für Nutzer zur Suche und Löschung von Deepfake-Videos der eigenen Person. Diese Neuerungen erfolgen im Kontext der EU-Kennzeichnungspflicht gemäß AI Act, die ab 2. August 2024 in Kraft tritt.",
           "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Colbert launches YouTube channel less than a week after late-night show ends",
-          "link": "https://www.theguardian.com/tv-and-radio/2026/may/26/stephen-colbert-youtube-channel",
-          "summary": "Stephen Colbert startete weniger als eine Woche nach dem Ende seiner Late Show am Donnerstag einen YouTube-Kanal, der bereits über 120.000 Abonnenten gewonnen hat. Das Debüt-Video zeigt ihn in einer kleinen Gemeinde-TV-Station in Monroe, Michigan, wo er scherzhaft auf die 23 Stunden ohne Fernsehauftritte und die Übernahme von CBS durch Paramount anspielt. Der Kanalstart erfolgt vor dem Hintergrund einer Kontroverse um die Einstellung seiner Show durch Paramount, die im Zusammenhang mit regulatorischen Problemen bei der Skydance-Fusion und Trumps Klage gegen CBS wegen eines 60 Minutes-Interviews steht.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Spotify boss defends move to AI music, saying it is better than ‘slop’",
-          "link": "https://www.theguardian.com/technology/2026/may/26/spotify-ai-remix-tool-protects-artists-slop",
-          "summary": "Spotify CEO Alex Norström verteidigt die neue KI-Remix-Funktion für Premium-Nutzer als \"kontrollierte Alternative\" zu ungeregelter KI-Musik, bei der Künstler der Nutzung ihrer Werke zustimmen und Geld verdienen können. Das Feature entstand durch eine Partnerschaft mit Universal Music Group und soll es ermöglichen, dass \"ein Song zu 10.000 wird\", wobei Details zur Funktionsweise und Kennzeichnung von nutzergenerierten KI-Inhalten noch unklar sind. Experten warnen vor einem möglichen \"Teufelskreis\", in dem menschliche Künstler verstärkt mit KI-generierten Werken konkurrieren müssen.",
-          "score": 8
         },
         {
           "source": "Deadline",
-          "title": "CNN Taps Anderson Cooper, Andy Cohen To Host ‘Independence Eve Live’ For 4th Of July",
-          "link": "https://deadline.com/2026/05/cnn-anderson-cooper-andy-cohen-host-independence-eve-live-1236929922/",
-          "summary": "CNN erweitert das bewährte Silvester-Moderatorenduo Anderson Cooper und Andy Cohen auf die Feierlichkeiten zum 250. US-Unabhängigkeitstag mit einer neuen Show \"Independence Eve Live with Anderson & Andy\" am 3. Juli 2026 von 20:00-00:30 Uhr ET. Die Sonderprogrammierung ist Teil von CNNs umfassendem \"The Fourth in America: Celebrating 250\"-Event und umfasst eine einzigartige Mitternachts-Ball-Drop-Zeremonie am Times Square sowie erweiterte Live-Berichterstattung am 4. Juli mit mehreren Anchor-Teams von verschiedenen Standorten inklusive Boston Pops Fireworks Spectacular.",
-          "score": 8
+          "title": "Bruce Springsteen, Tom Morello Announce Power To The People Festival Ahead Of Midterms",
+          "link": "https://deadline.com/2026/05/bruce-springsteen-tom-morello-power-to-the-people-festival-1236930896/",
+          "summary": "Bruce Springsteen und Tom Morello haben das \"Power to the People Festival\" für den 3. Oktober 2026 in Maryland angekündigt, als Protest-Musikfestival einen Monat vor den Zwischenwahlen. Das Event mit prominenten Künstlern wie Foo Fighters und Dave Matthews steht in direktem Gegensatz zum regierungsunterstützten \"Freedom 250\"-Event, aus dem bereits mehrere Künstler ausgestiegen sind. Die Erlöse gehen teilweise an Organisationen zur Wählerregistrierung und -mobilisierung.",
+          "score": 7
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "‘Project Hail Mary’ Wins Best of Show Prize at 2026 Golden Trailer Awards",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/2026-golden-trailer-awards-winners-list-1236608412/",
-          "summary": "\"Project Hail Mary\" gewann den Hauptpreis bei den Golden Trailer Awards 2026 für seinen Trailer \"Chance\" von Amazon MGM Studios und Wild Card Creative. Die Auszeichnung würdigt herausragende Filmtrailer und Marketing-Previews, wobei der prämierte Trailer für seine spektakulären Visuals, Sound-Design und emotionale Musik gelobt wurde. AV Squad erhielt zum dritten Mal in Folge den \"Agency of the Year\"-Award und dominierte mit insgesamt 14 Auszeichnungen die Veranstaltung.",
+          "source": "Deadline",
+          "title": "‘The Birds’ Limited Series Starring Sarah Snook Hits TV Marketplace; New Take On Hitchcock’s Classic Comes From Tom Spezialy, David Heyman & UIS",
+          "link": "https://deadline.com/2026/05/the-birds-limited-series-sarah-snook-tom-spezialy-david-heyman-1236929977/",
+          "summary": "Eine neue Limited Series basierend auf Hitchcocks \"Die Vögel\" mit Emmy-Gewinnerin Sarah Snook in der Hauptrolle wird aktuell an TV-Sender verkauft. Die moderne Neuinterpretation von Tom Spezialy (The Leftovers) spielt in Alaska und folgt Magistratin Myra Massey, die für eine Todesfall-Anhörung in ihre Heimatstadt zurückkehrt und sich plötzlich sowohl mit einem Mordfall als auch mit feindseligen Vogelattacken konfrontiert sieht. Produziert wird das Projekt von Universal International Studios und David Heymans Heyday Television.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "‘Prime Minister’ Takes Top Prize at 2026 News & Documentary Emmys",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/news-documentary-emmys-2026-night-two-winners-1236608382/",
-          "summary": "\"Prime Minister\", eine Koproduktion von HBO Documentary Films und CNN Films über Jacinda Arderns Weg zur neuseeländischen Premierministerin, gewann bei den News & Documentary Emmy Awards 2026 den Hauptpreis für die beste Dokumentation. Weitere Hauptauszeichnungen gingen an \"Simon Schama: The Holocaust, 80 Years On\" (beste historische Dokumentation), \"Tiler Peck: Suspending Time\" (beste Kunst- und Kulturdokumentation) und National Geographics \"Secrets of the Penguins\" (beste Naturdokumentation). Die Preisverleihung fand im Jazz at Lincoln Center statt, moderiert von Michael Ian Black, wobei Dokumentarfilmer Sam Pollard eine Lifetime Achievement-Auszeichnung erhielt.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Gareth Edwards Is Excited About AI Filmmaking — Even Though It’s Like a “Second-Unit Director Who Is a Billionaire on Acid”",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/gareth-edwards-excited-ai-filmmaking-1236608376/",
-          "summary": "Regisseur Gareth Edwards (Rogue One, The Creator) experimentiert seit neun Monaten intensiv mit generativer KI und plant einen Hybrid-KI-Film, wartet jedoch aufgrund der rasanten technologischen Entwicklung noch ab. Er vergleicht KI mit dem Aufkommen von CGI in den 90ern, sieht aber noch größeres Potenzial und betrachtet KI als Werkzeug, das \"besser als CGI\" und \"auf einer Stufe mit der Kamera\" stehen könnte. Seine öffentliche Befürwortung der Technologie ist ungewöhnlich für Regisseure großbudgetiger Blockbuster-Produktionen.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "SXSW London Guide: The 9 Best Panels and Premieres to Catch, From Michelle Obama to the Russo Brothers to a New Virginia Woolf Film",
-          "link": "https://variety.com/2026/film/festivals/sxsw-london-guide-michelle-obama-russo-brothers-1236761990/",
-          "summary": "SXSW London findet vom 1.-6. Juni 2026 in Shoreditch statt und fokussiert sich mit dem Thema \"AI as the New Power Structure\" auf Londons Position als Europas KI-Hauptstadt. Das Festival bietet über 800 Speaker (darunter Michelle Obama und die Russo Brothers), 200 Musikshows und 40+ Filmvorführungen across 25 Venues, wobei ähnlich wie bei der Premiere 25.000 internationale Teilnehmer aus 85 Ländern erwartet werden. Keynote-Speaker Tom Quinn von Neon (\"Parasite\", \"Anora\") wird besonders für lokale Filmemacher von Interesse sein.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Korea Forms Committee to Hammer Out Six-Month Theatrical Window Deal",
-          "link": "https://variety.com/2026/film/news/korea-six-month-theatrical-window-1236762020/",
-          "summary": "Südkorea hat ein öffentlich-privates Beratungsgremium mit 22 Teilnehmern aus Produktion, Verleih, Kinos und Streaming-Diensten gegründet, um bis August eine freiwillige Vereinbarung über ein sechsmonatiges Kino-Fenster auszuhandeln. Diese Selbstregulierungsinitiative läuft parallel zu einem Gesetzentwurf in der Nationalversammlung, der ebenfalls eine sechsmonatige Sperrfrist vor der Streaming-Veröffentnung vorschreibt. Das Komitee soll eine branchenweite Lösung zur Umsatzmaximierung entwickeln, ohne auf die gesetzliche Regelung zu warten.",
+          "title": "Netflix’s ‘Instadocs’ Producer on Why His New Docuseries Is Not Just a Newsmagazine Show",
+          "link": "https://www.hollywoodreporter.com/tv/tv-features/netflix-instadocs-producer-interview-alex-murdaugh-premiere-1236607163/",
+          "summary": "Netflix startet mit \"Instadocs\" eine neue Documentary-Serie unter der Leitung von Josh Tyrangiel, Connor Schell und Steve Yaccino, die hochwertige Dokumentationen in beschleunigtem Tempo produziert, um die Relevanz aktueller Themen zu gewährleisten. Die Serie debütiert am 30. Mai mit \"Alex Murdaugh, Unconvicted\", das sich mit der erfolgreichen Berufung des wegen Mordes an seiner Frau und seinem Sohn verurteilten ehemaligen Anwalts beschäftigt. Das Format zielt darauf ab, sich von traditionellen Nachrichtenformaten zu unterscheiden, obwohl es ähnliche Schnelligkeit bei der Berichterstattung anstrebt.",
           "score": 7
         }
       ]
