@@ -1,237 +1,202 @@
 {
   "newsletters": [
     {
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "articles": [
         {
           "source": "DWDL",
-          "title": "So stellt Inga Leschek den RTL-Content-Bereich neu auf",
-          "link": "https://www.dwdl.de/nachrichten/106701/so_stellt_inga_leschek_den_rtlcontentbereich_neu_auf/",
-          "summary": "Inga Leschek strukturiert nach der Sky-Übernahme den RTL-Content-Bereich neu und ernennt Oliver Schablitzki (bisher Super RTL) zum EVP Channels, Windowing & Planning für die plattformübergreifende Steuerung aller RTL/Sky-Inhalte. Die Neuorganisation bündelt strategische und operative Programmplanung sowie Streaming-Aktivitäten unter einem Dach, um lineare und non-lineare Auswertung optimal zu verzahnen.",
+          "title": "ProSiebenSat.1 sichert sich Film- und Serienpaket von Sony",
+          "link": "https://www.dwdl.de/nachrichten/106715/prosiebensat1_sichert_sich_film_und_serienpaket_von_sony/",
+          "summary": "ProSiebenSat.1 erweitert seine Content-Partnerschaft mit Sony Pictures Entertainment für Deutschland, Österreich und die Schweiz um ein umfangreiches Paket aus Film- und Serienrechten, das Erstausstrahlungen aktueller Titel wie \"It Ends with Us\" und \"Karate Kid: Legends\" sowie 117 Library-Filme und acht Serien mit knapp 1.000 Episoden umfasst. Zusätzlich integriert der Konzern fünf neue FAST-Channels der Marke Sony One in seine Streaming-Plattform Joyn und erweitert das Anime-Angebot über Crunchyroll um Serien wie \"Hell's Paradise\" für Joyn+ und die Pay-TV-Sender.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Eyes & Ears Awards eröffnen erstmals die Medientage",
+          "link": "https://www.dwdl.de/nachrichten/106713/eyes__ears_awards_eroeffnen_erstmals_die_medientage/",
+          "summary": "Die Internationalen Eyes & Ears Awards finden am 20. Oktober 2026 in der Astor Film Lounge im ARRI München statt und eröffnen damit erstmals als Vorabend-Event die Medientage München (21.-23. Oktober). Die bereits zum 28. Mal verliehenen Awards für Design-, Promotion- und Markenkommunikation vertiefen damit die Partnerschaft zwischen Eyes & Ears of Europe und den Medientagen. Im Anschluss an die Gala ist ein Get-Together in der ARRI-Bar für Networking geplant.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Born Famous\": ProSieben begleitet Promi-Nachwuchs",
+          "link": "https://www.dwdl.de/nachrichten/106711/born_famous_prosieben_begleitet_prominachwuchs/",
+          "summary": "ProSieben startet ab 16. Juli 2026 donnerstags um 20:15 Uhr die neue Langzeit-Reality-Doku \"Born Famous\", die erwachsene Kinder prominenter Eltern auf ihrem Weg zur Selbstfindung begleitet. Teilnehmer sind Gloria-Sophie Burkandt (Tochter von Markus Söder), Summer Terenzi (Tochter von Sarah Connor und Marc Terenzi), Diego Pooth (Sohn von Verona Pooth) und Josefine Scholl (Tochter von Mehmet Scholl). Das von Constantin Entertainment produzierte Format läuft parallel auch bei Joyn und dokumentiert mehrere Monate lang die berufliche und private Entwicklung der vier Persönlichkeiten.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "RTL Deutschland stellt seinen Consumer-Bereich neu auf",
+          "link": "https://www.dwdl.de/nachrichten/106712/rtl_deutschland_stellt_seinen_consumerbereich_neu_auf/",
+          "summary": "RTL Deutschland strukturiert nach der Sky-Übernahme seinen Consumer-Bereich unter Chief Consumer Officer Michael Radelsberger neu, der nun RTL+, Wow, Sky und die Senderverbreitung verantwortet. Die neue Führungsstruktur umfasst fünf Executive/Senior Vice Presidents für die Bereiche Streaming (Henning Nieslony), Premium TV (Kris Peffers), Distribution (Andre Prahl), Consumer Strategy & Growth (Jill Harkness) und Brand & Media (Daniel Durst). Ziel ist die Schaffung einer einzigartigen Consumer-Organisation im deutschsprachigen Markt, die TV- und Streaming-Aktivitäten strategisch bündelt.",
           "score": 9
         },
         {
           "source": "DWDL",
-          "title": "\"Eden\": Joyn kündigt \"ehrlichste aller Dating-Shows\" an",
-          "link": "https://www.dwdl.de/nachrichten/106700/eden_joyn_kuendigt_ehrlichste_aller_datingshows_an/",
-          "summary": "Joyn startet im Sommer 2026 die Dating-Show \"Eden - Du bezahlst für jede Lüge\", eine Eigenproduktion von Redseven Entertainment mit 20 Folgen, bei der 13 Singles um ein Preisgeld von bis zu 100.000 Euro konkurrieren. Das innovative Format kombiniert Dating mit Lügendetektortests - für jede erkannte Unwahrheit werden der Gruppe 1.000 Euro abgezogen, was die Teilnehmer vor das Dilemma zwischen Ehrlichkeit und romantischem Erfolg stellt. Das Konzept schließt an erfolgreiche Formate wie \"Too Hot to Handle\" an, die ebenfalls mit einem schrumpfenden Jackpot arbeiten.",
+          "title": "Sky-Übernahme bringt Formel 1 auch wieder zu RTL",
+          "link": "https://www.dwdl.de/nachrichten/106706/skyuebernahme_bringt_formel_1_auch_wieder_zu_rtl/",
+          "summary": "Nach der Sky-Deutschland-Übernahme kehrt die Formel 1 mit ausgewählten Rennen zu RTL zurück, beginnend mit dem prestigeträchtigen Monaco GP am kommenden Wochenende, der parallel bei RTL/Nitro und Sky Sport übertragen wird. Die Sender nutzen eine gemeinsame Vor- und Nachberichterstattung, kommentieren das Rennen jedoch separat mit ihren jeweiligen Teams. RTL wird voraussichtlich sieben F1-Rennen pro Jahr im Free-TV zeigen, wobei eine Balance zwischen Free-TV-Präsenz und dem Schutz der Sky-Pay-TV-Rechte angestrebt wird.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "\"LOL\" legt in der zweiten Woche noch eine Schippe drauf",
+          "link": "https://www.dwdl.de/zahlenzentrale/106704/lol_legt_in_der_zweiten_woche_noch_eine_schippe_drauf/",
+          "summary": "Amazon Prime dominiert die wöchentlichen Streaming-Reichweiten mit \"LOL: Last One Laughing\" an der Spitze (2,234 Mio. Nettoreichweite), gefolgt von \"Off Campus\" und \"The Boys\" in den Top 10. Die ARD-\"Sportschau\" erreichte dank DFB-Pokal-Berichterstattung Platz 2 mit 1,646 Mio. Zuschauern, während \"ntv Nachrichten\" sich gegen \"Tagesschau\" und \"ZDFheute\" durchsetzte.",
           "score": 8
         },
         {
-          "source": "DWDL",
-          "title": "\"Wir spielen auf Angriff\": So lief der Day One bei RTL & Sky",
-          "link": "https://www.dwdl.de/nachrichten/106696/wir_spielen_auf_angriff_so_lief_der_day_one_bei_rtl__sky/",
-          "summary": "RTL Deutschland hat am 1. Juni 2026 offiziell Sky Deutschland übernommen und führte Business Updates an beiden Standorten durch, bei denen CEO Stephan Schmitter die aggressive Wachstumsstrategie mit dem Slogan \"Wir spielen auf Angriff\" kommunizierte. Rund 50 neue Führungskräfte wurden für das kombinierte Unternehmen benannt, während die Belegschaften auf den gemeinsamen Kurs als Langzeitprojekt eingeschworen wurden. Die neue Struktur soll RTL Deutschland als \"coolstes Content Haus Europas\" positionieren und Sky-Mitarbeitern Sicherheit nach der Übernahme durch das \"lokale, ostwestfälische Familienunternehmen\" Bertelsmann vermitteln.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Amazon gelingt mit \"Off Campus\" der nächste Serien-Hit",
-          "link": "https://www.dwdl.de/zahlenzentrale/106698/amazon_gelingt_mit_off_campus_der_naechste_serienhit/",
-          "summary": "Amazon Prime Video dominierte im Mai 2026 das AGF-Streaming-Ranking mit 16 der Top-25-Plätze, angeführt von der neuen Serie \"Off Campus\" (4,7 Millionen Views für Folge 1) und der siebten Staffel \"LOL: Last One Laughing\" (3,7 Millionen Views). Die College-Romance-Serie \"Off Campus\" erreicht ähnliche Abrufzahlen wie der Vorgängerhit \"Maxton Hall\" und bestätigt Amazons erfolgreiche Strategie im Young-Adult-Romance-Genre.",
+          "source": "Horizont Medien",
+          "title": "RTL Deutschland: Diese Manager leiten das Consumergeschäft von RTL und Sky",
+          "link": "https://www.horizont.net/medien/nachrichten/rtl-deutschland-diese-manager-leiten-das-consumergeschaeft-von-rtl-und-sky-234585?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Nach der Sky-Übernahme besetzt RTL Deutschland weitere Schlüsselpositionen mit internen Managern. Michael Radelsberger übernimmt die Verantwortung für das gesamte Consumer- und Abogeschäft der TV-Gruppe, während Henning Nieslony das Streaminggeschäft leitet.",
           "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "TKP-Umstellung ab 2028: Ad Alliance rückt vom Hardcut ab",
-          "link": "https://www.dwdl.de/nachrichten/106697/tkpumstellung_ab_2028_ad_alliance_rueckt_vom_hardcut_ab/",
-          "summary": "Die Ad Alliance gibt ihren für 2028 geplanten \"Hardcut\" zur ausschließlichen TKP-basierten TV-Werbebuchung auf und wird parallel zum neuen TKP-Modell auch weiterhin das etablierte Spot-by-Spot-Modell anbieten. Geschäftsführer Frank Vogel begründet den Strategieschwenk mit intensivem Marktfeedback und Kritik von Mediaagenturen, die das Tempo der Umstellung und unklare Details bemängelten. Die Entscheidung ermöglicht eine schrittweise Markteinführung beider Buchungsmodelle nebeneinander.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Frank Vogel verantwortet Vermarktung von Sky und RTL AdAlliance",
-          "link": "https://www.dwdl.de/nachrichten/106695/frank_vogel_verantwortet_vermarktung_von_sky_und_rtl_adalliance/",
-          "summary": "Frank Vogel übernimmt ab 1. Juni die Gesamtverantwortung für die Vermarktung von RTL Deutschland und Sky Deutschland, nachdem das deutschsprachige Sky-Geschäft offiziell zu RTL Deutschland gehört. Zusätzlich zu seiner bestehenden Position als Geschäftsführer der Ad Alliance verantwortet er nun auch die internationale Vermarktung der RTL AdAlliance sowie die AdTech-Beteiligungen smartclip, Yospace und SQL Service. Zur reibungslosen Integration von Sky Media werden Iris Plach und Matthias Trott zu Managing Directors von Sky Media ernannt und berichten direkt an Vogel.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "Das ZDF schickt Sebastian Lege wieder in die Schulen",
-          "link": "https://www.dwdl.de/nachrichten/106689/das_zdf_schickt_sebastian_lege_wieder_in_die_schulen/",
-          "summary": "Story House produziert für das ZDF eine zweite Staffel von \"Besseresser goes Schule\" mit Sebastian Lege und Social-Media-Star Doc Felix, die ab Herbst 2026 ausgestrahlt wird. Das Format untersucht Essgewohnheiten von Jugendlichen zwischen TikTok-Trends und Fertigprodukten und soll durch Aufklärung über Ernährungsmythen zur selbstbestimmten Ernährung befähigen. Die erste Staffel erreichte bis zu 8,2% Marktanteil (14-49 Jahre) und maximal über zwei Millionen Zuschauer.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Neue Verantwortungsbereiche: RTL News wandert zu Stephan Schmitter",
-          "link": "https://www.dwdl.de/nachrichten/106687/neue_verantwortungsbereiche_rtl_news_wandert_zu_stephan_schmitter/",
-          "summary": "RTL Deutschland bündelt ab sofort alle publizistischen Bereiche einschließlich RTL News, ntv und der \"Stern\"-Gruppe unter CEO Stephan Schmitter, nachdem zuvor diese Bereiche bei Chief Content Officer Inga Leschek angesiedelt waren. Die Umstrukturierung erfolgt im Zuge der zum 1. Juni vollzogenen Übernahme von Sky Deutschland und soll laut RTL die strategische Bedeutung der journalistischen Angebote stärken. Die operative Leitung unter Martin Gradl (RTL News/ntv) und die redaktionellen Strukturen bleiben unverändert, nur die Berichtslinie führt nun direkt zum CEO.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "ProSieben verrät neue Besetzung von \"Wer stiehlt mir die Show?\"",
-          "link": "https://www.dwdl.de/nachrichten/106685/prosieben_verraet_neue_besetzung_von_wer_stiehlt_mir_die_show/",
-          "summary": "ProSieben hat die neue Besetzung für die Herbststaffel von \"Wer stiehlt mir die Show?\" bekannt gegeben: Carolin Kebekus, Jens \"Knossi\" Knossalla und überraschend Basketballspieler Moritz Wagner treten gegen Moderator Joko Winterscheidt an. Die Show erreichte zuletzt erstmals unter eine Million Zuschauer im Schnitt, hält aber mit 15,8% Marktanteil in der Zielgruppe weiterhin starke Quoten für ProSieben.",
-          "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Ad Alliance: Frank Vogel übernimmt RTL- und Sky-Vermarktung und passt TKP-Modell an",
-          "link": "https://www.horizont.net/medien/nachrichten/ad-alliance-frank-vogel-uebernimmt-rtl--und-sky-vermarktung-und-passt-tkp-modell-an-234559?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Frank Vogel übernimmt bei Ad Alliance die Gesamtverantwortung für die Vermarktung von RTL und Sky Deutschland und erweitert damit seinen Zuständigkeitsbereich erheblich. Gleichzeitig nimmt er Anpassungen am TKP-Modell vor. Die Sky-Vermarktungslinie ist ab sofort direkt bei Vogel angesiedelt.",
+          "title": "RTL überträgt aus Monaco: Formel 1 kehrt zurück ins frei empfangbare Fernsehen",
+          "link": "https://www.horizont.net/medien/nachrichten/rtl-uebertraegt-aus-monaco-formel-1-kehrt-zurueck-ins-frei-empfangbare-fernsehen-234584?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "RTL überträgt in Kooperation mit Sky den Großen Preis von Monaco live im Free-TV und markiert damit die Rückkehr der Formel 1 ins frei empfangbare deutsche Fernsehen. Die Übertragung umfasst das Qualifying am Samstag ab 16:00 Uhr sowie das prestigeträchtige Rennen am Wochenende. Dies stellt eine bedeutende Entwicklung für die Reichweite des Motorsports dar, nachdem die F1-Übertragungen zuletzt hauptsächlich auf Pay-TV-Sendern zu sehen waren.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Die Ad Alliance und ihr TKP-Modell: Big Bang (nur in der) Theory",
+          "link": "https://www.horizont.net/medien/kommentare/die-ad-alliance-und-ihr-tkp-modell-big-bang-nur-in-der-theory-234570?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Ad Alliance führt mit Contact+ TV ein neues TKP-basiertes Abrechnungsmodell für TV-Werbung ein, das durch KI-Unterstützung die Vergleichbarkeit und Planungseffizienz verbessern soll. Das neue System soll bis 2028 das bisherige Abrechnungsmodell ersetzen, wobei auch andere Vermarkter ähnliche Pläne verfolgen. Der Autor kritisiert jedoch die erneute Fragmentierung der TV-Branche, die sich eigene Wege sucht anstatt geschlossen zu agieren.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "HORIZONT Kongress 2026: Was die TV-Vermarktung mit dem Einkauf beim Bäcker zu tun hat",
+          "link": "https://www.horizont.net/medien/nachrichten/horizont-kongress-2026-was-die-tv-vermarktung-mit-dem-einkauf-beim-baecker-zu-tun-hat-234582?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der deutsche Bewegtbildmarkt erfährt durch neue Player erhebliche Veränderungen, wie beim HORIZONT Kongress 2026 diskutiert wurde. Die führenden TV-Vermarkter ringen um mehr Transparenz und einheitliche Marktregeln, da Kunden zunehmend spezifische Leistungen statt undifferenzierter Paketangebote (\"bunte Tüte\") nachfragen.",
           "score": 9
         },
         {
           "source": "Horizont Medien",
-          "title": "Medienverbands der Freien Presse: Lars Joachim Rose soll neuer Vorsitzender des MVFP werden",
-          "link": "https://www.horizont.net/medien/nachrichten/medienverbands-der-freien-presse-lars-joachim-rose-soll-neuervorsitzender-des-mvfp-werden-234561?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Lars Joachim Rose soll Ende Juni zum neuen Vorstandsvorsitzenden des Medienverbands der freien Presse (MVFP) ernannt werden und damit Philipp Welte in dieser Position nachfolgen. Der Verlegerverband hat die bereits spekulierte Personalie nun offiziell bestätigt.",
+          "title": "HORIZONT Kongress 2026: RTL zeigt nach Übernahme von Sky mehr Sport im Free-TV",
+          "link": "https://www.horizont.net/medien/nachrichten/horizont-kongress-2026-rtl-will-kuenftig-auch-sport-inhalte-von-sky-im-free-tv-zeigen-234580?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "RTL-Content-Chefin Inga Leschek kündigte beim HORIZONT Kongress 2026 an, dass nach der vollzogenen Sky-Übernahme künftig auch Sport-Inhalte von Sky im Free-TV bei RTL gezeigt werden sollen. Die Übernahme wurde einen Tag vor Lescheks Auftritt offiziell verkündet, wo sie erste Einblicke in die Kooperationspläne zwischen RTL und Sky gab.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Nach Integration von Sky: RTL gibt Content-Chefin Inga Leschek noch mehr Verantwortung",
+          "link": "https://www.horizont.net/medien/nachrichten/nach-integration-von-sky-rtl-gibt-content-chefin-inga-leschek-noch-mehr-verantwortung-234578?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "RTL setzt die Umstrukturierung nach der Sky Deutschland-Integration fort und erweitert den Verantwortungsbereich von Content-Chefin Inga Leschek. Dies folgt auf bereits erfolgte Personalwechsel, bei denen Sky-Sportchef Charly Classen das Unternehmen verließ, RTL-Sportchef Frank Robens befördert wurde und AD-Alliance-Chef Frank Vogel zusätzlich die Sky-Vermarktung übernahm.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "&quot;Concept Creep&quot; &amp; Medien: Warum der Journalismus die Drama-Alltagssprache nicht übernehmen sollte",
+          "link": "https://www.horizont.net/medien/kommentare/concept-creep--medien-warum-der-journalismus-die-drama-alltagssprache-nicht-uebernehmen-sollte-234541?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der Artikel kritisiert den \"Concept Creep\" im Journalismus - die inflationäre Übernahme dramatisierter Alltagssprache aus Social Media, bei der Begriffe wie \"toxisch\" oder \"traumatisch\" ihre ursprüngliche Bedeutung verlieren. Medien sollten sich durch präzise Sprache und Sachkunde von dieser übertriebenen Dramatisierung abgrenzen, statt sie zu übernehmen. Bevor konstruktiver Journalismus praktiziert wird, müssen Problemthemen erst einmal korrekt benannt und eingeordnet werden.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "HORIZONT streamt: Diese Serien sollten Sie im Juni auf dem Schirm haben",
-          "link": "https://www.horizont.net/medien/nachrichten/horizont-streamt-diese-serien-sollten-sie-im-juni-auf-dem-schirm-haben-234492?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "HORIZONT präsentiert fünf Streaming-Highlights für Juni 2024: eine Neuverfilmung von \"Kap der Angst\", eine Netflix-Dokumentation über Prinz Poldi, eine ARD Science-Fiction-Comedy, eine RTL Young-Adult-Serie und einen deutsch-britischen Thriller mit Leonie Benesch. Die Empfehlungen decken verschiedene Genres und Zielgruppen über mehrere Plattformen ab.",
+          "title": "Ehemaliger Ströer-Chef: Christian Schmalzl wird neuer CEO von Stepstone",
+          "link": "https://www.horizont.net/medien/nachrichten/ehemaliger-stroeer-chef-christian-schmalzl-wird-neuer-ceo-von-stepstone-234527?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Christian Schmalzl, ehemaliger Co-CEO von Ströer, übernimmt im September 2024 die CEO-Position bei der Stepstone Group und wechselt damit von der Werbebranche in die Tech-Branche. Der Führungswechsel markiert einen strategischen Schritt für das internationale Jobportal-Unternehmen.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "RTL bündelt publizistische Kräfte unter dem CEO",
+          "title": "Schmitter macht Journalismus zur Chefsache: RTL bündelt publizistische Kräfte unter dem CEO RTL News, ntv, stern, GEO, Capital",
           "link": "https://kress.de/news/beitrag/153007-schmitter-macht-journalismus-zur-chefsache-rtl-buendelt-publizistische-kraefte-unter-dem-ceo.html",
-          "summary": "RTL Deutschland bündelt ab Juni 2026 seine journalistischen Bereiche RTL News, ntv und die stern-Gruppe direkt unter CEO Stephan Schmitter, um die strategische Bedeutung des Journalismus im Konzern zu unterstreichen. Die operative und redaktionelle Führung bleibt bei den bisherigen Verantwortlichen wie Martin Gradl (Geschäftsführer RTL News/ntv) und Gregor Peter Schmitz (stern-Gruppe). Schmitter kündigt weitere Investitionen in Journalismus, Qualität und digitale Transformation an.",
+          "summary": "RTL Deutschland bündelt ab Juni 2026 seine journalistischen Aktivitäten (RTL News, ntv, stern-Gruppe mit stern, GEO, Capital) direkt unter CEO Stephan Schmitter, um ein strategisches Zeichen für die Bedeutung des Journalismus im Konzern zu setzen. Die operative Führung bleibt bei den bisherigen Geschäftsführern und Chefredakteuren bestehen. Schmitter kündigt weitere Investitionen in Journalismus, Qualität und digitale Transformation an und bezeichnet Journalismus als \"Rückgrat von RTL Deutschland\".",
           "score": 10
         },
         {
           "source": "kress",
-          "title": "Klambt-Verleger Rose soll Welte und Heimgartner ablösen",
-          "link": "https://kress.de/news/beitrag/153003-fuehrungswechsel-beim-zeitschriftenverband-klambt-verleger-rose-soll-welte-und-heimgartner-abloesen.html",
-          "summary": "Der Medienverband der freien Presse (MVFP) steht vor einem Führungswechsel: Lars Joachim Rose, Verleger der Mediengruppe Klambt, soll am 30. Juni 2026 zum neuen Vorstandsvorsitzenden gewählt werden und damit Philipp Welte ablösen. Rose, der seit 30 Jahren im Familienunternehmen tätig und seit 2001 Geschäftsführer ist, bringt langjährige Branchenerfahrung aus VDZ-Präsidium und MVFP-Vorstand mit. Auch Ladina Heimgartner scheidet aus den MVFP-Gremien aus, während für den siebenköpfigen Vorstand weitere Kandidaten aus namhaften Verlagen vorgeschlagen wurden.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "FAZ.NET startet KI-Suche mit Quellenangaben",
-          "link": "https://kress.de/news/beitrag/153004-nicht-mehr-039-kleinkarierte-buchhalter-039-faz-net-startet-ki-suche-mit-quellenangaben.html",
-          "summary": "FAZ.NET hat eine KI-gestützte Suchfunktion als Eigenentwicklung eingeführt, die natürlichsprachliche Anfragen versteht und Antworten aus dem redaktionellen Archiv der letzten zwölf Monate generiert. Die Lösung wurde bewusst ohne externe Technologiekonzerne entwickelt und zeichnet sich durch vollständige Transparenz mit Quellenangaben und Fußnoten zu den Originalartikeln aus. Damit positioniert sich die FAZ als Vorreiter für vertrauensvolle KI-Anwendungen im Journalismus.",
-          "score": 8
+          "title": "Nach dem RTL-Sky-Zusammenschluss: Inga Leschek formt neues Content-Powerhouse RTL Deutschland und Sky sind zusammengewachsen",
+          "link": "https://kress.de/news/beitrag/153009-nach-dem-rtl-sky-zusammenschluss-inga-leschek-formt-neues-content-powerhouse.html",
+          "summary": "Nach dem Zusammenschluss von RTL Deutschland und Sky Deutschland reorganisiert Chief Content Officer Inga Leschek den Content-Bereich und übernimmt erweiterte Verantwortung für Channels, Sport, Entertainment, Fiction und Production Management. Neu geschaffene Führungspositionen umfassen Frank Robens als EVP Sport für das gesamte Sportgeschäft und Oliver Schablitzki als EVP Channels für die plattformübergreifende Content-Steuerung von Free-TV bis Pay-TV. Ziel ist die Bündelung von Kreativität, Sport-Expertise und Produktions-Know-how zur schnelleren Entscheidungsfindung und mutigeren Investitionen.",
+          "score": 9
         },
         {
           "source": "kress",
           "title": "Im Zuge der RTL-Übernahme: Geschäftsführer Charly Classen verlässt Sky Deutschland Charly Classen kam 2020 zu Sky Deutschland und baute Sky Sport zu einem der führenden Sportrechte-Portfolios im DACH-Raum aus. Nun verlässt er das Unternehmen",
           "link": "https://kress.de/news/beitrag/152998-im-zuge-der-rtl-uebernahme-geschaeftsfuehrer-charly-classen-verlaesst-sky-deutschland.html",
-          "summary": "Charly Classen verlässt zum 1. Juni 2026 seine Position als Geschäftsführer und Executive Vice President bei Sky Deutschland im Zuge der Zusammenführung mit RTL Deutschland. Der seit 2020 bei Sky tätige Manager baute das Sportrechte-Portfolio zu einem der führenden im DACH-Raum aus und verantwortete zuletzt Sports, Customer Operations und Sky Business. Beide Seiten betonten das \"gegenseitige Einvernehmen\" bei der Trennung im Rahmen der Unternehmensintegration.",
+          "summary": "Charly Classen verlässt zum 1. Juni seine Position als Geschäftsführer und Executive Vice President bei Sky Deutschland im Zuge der Zusammenführung mit RTL Deutschland. Classen, der seit 2020 das Sportgeschäft verantwortete und Sky Sport zu einem führenden Sportrechte-Portfolio im DACH-Raum ausbaute, scheidet in gegenseitigem Einvernehmen aus dem Unternehmen aus. Der Wechsel erfolgt im Rahmen der strategischen Neuausrichtung nach der RTL-Übernahme von Sky Deutschland.",
           "score": 10
         },
         {
-          "source": "kress",
-          "title": "Wer bei RTL künftig über Bundesliga, Formel 1 und NFL entscheidet Der Zusammenschluss von RTL und...",
-          "link": "https://kress.de/news/beitrag/153000-wer-bei-rtl-kuenftig-ueber-bundesliga-formel-1-und-nfl-entscheidet.html",
-          "summary": "RTL Deutschland strukturiert nach dem Zusammenschluss mit Sky Deutschland seinen Sportbereich neu und besetzt die Führungspositionen hauptsächlich mit ehemaligen Sky-Managern. Frank Robens übernimmt ab 1. Juni als Executive Vice President Sport die Gesamtverantwortung, während Alexander Rösner (Editorial), Alessandro Reitano (Produktion) und Hans Gabbe (Rechte & Kommerzialisierung) als Senior Vice Presidents fungieren. Das umfangreiche Rechteportfolio umfasst unter anderem Bundesliga, Formel 1, DFB-Pokal, Premier League, NFL und ATP-Tennis.",
-          "score": 9
-        },
-        {
-          "source": "kress",
-          "title": "Ungewöhnlicher Wechsel: Nicholas Potter verlässt die taz und geht zur Axel Springer Premium-Gruppe Nicholas Potter ist bekannt für seine Recherchen zu Antisemitismus und demokratiefeindlichen Entwicklungen",
-          "link": "https://kress.de/news/beitrag/152914-ungewoehnlicher-wechsel-nicholas-potter-verlaesst-die-taz-und-geht-zur-axel-springer-premium-gruppe.html",
-          "summary": "Nicholas Potter wechselt zum 1. Juli 2026 von der taz als Chefreporter zur Axel Springer Premium-Gruppe, wo er für Welt, Politico Deutschland und Business Insider aus dem In- und Ausland berichten wird. Der auf Antisemitismus- und Demokratiefeindlichkeits-Recherchen spezialisierte britische Journalist plant zusätzlich den Launch eines Podcasts und wird schwerpunktmäßig über Großbritannien, die USA, den Nahen Osten sowie demokratiefeindliche Entwicklungen in Deutschland berichten.",
-          "score": 7
-        },
-        {
           "source": "meedia",
-          "title": "Gleich fünf neue Aufgaben Frank Vogel übernimmt Vermarktungsverantwortung für RTL und Sky Zum 1.",
-          "link": "https://meedia.de/news/beitrag/24215-frank-vogel-uebernimmt-vermarktungsverantwortung-fuer-rtl-und-sky.html",
-          "summary": "Frank Vogel übernimmt zum 1. Juni 2026 zusätzlich zu seiner CEO-Position bei Ad Alliance die Gesamtverantwortung für die Vermarktung von RTL Deutschland und Sky Deutschland sowie deren AdTech-Beteiligungen (smartclip, Yospace, SQL Service). Diese Bündelung soll Werbekunden und Agenturen einheitlichen Zugang zu allen Medienangeboten beider Konzerne aus einer Hand ermöglichen. Im Zuge der Integration werden Iris Plach und Matthias Trott zu Managing Directors von Sky Media ernannt.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "Neues Gesundheitsunternehmen Auch unter Kenvue-Hoheit kommt Tamponmarke o.b.",
-          "link": "https://meedia.de/news/beitrag/24217-auch-unter-kenvue-hoheit-kommt-tamponmarke-o-b-digital-first-daher.html",
-          "summary": "Kenvue (Johnson & Johnson Spin-off) startet nach einer Agenturneuordnung mit Publicis Media und Ogilvy die erste Kampagne für die Tamponmarke o.b. unter dem Motto „o.b. für alle Tage\". Die digital-first Kampagne läuft in fünf europäischen Ländern über Social Media, Online Video und DOOH in deutschen Großstädten und bewirbt eine verbesserte Produktlinie sowie ein Re-Branding. Der Mediaplan setzt verstärkt auf digitale Kanäle wie YouTube, TikTok, Meta und Streaming-Dienste.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "RTL News, ntv und \"stern\"-Gruppe RTL-Journalismus rückt unter die Verantwortung von Stephan...",
-          "link": "https://meedia.de/news/beitrag/24216-rtl-journalismus-rueckt-unter-die-verantwortung-von-stephan-schmitter.html",
-          "summary": "RTL Deutschland-CEO Stephan Schmitter übernimmt ab sofort die direkte Verantwortung für die journalistischen Marken RTL News, ntv und die \"stern\"-Gruppe, die bisher unter Chief Content Officer Inga Leschek lagen. Diese Umstrukturierung soll die strategische Bedeutung des Journalismus im Konzern stärken und ein Zeichen für unabhängigen, gesellschaftlich verantwortungsvollen Journalismus setzen. Die operative Führung bleibt bei den bisherigen Verantwortlichen wie Martin Gradl (RTL News/ntv) und den jeweiligen Chefredakteuren.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "Organisation Werbungtreibende im Markenverband Daniel Draenkow und Christoph Weber rücken in den...",
-          "link": "https://meedia.de/news/beitrag/24213-daniel-draenkow-und-christoph-weber-ruecken-in-den-vorstand-auf.html",
-          "summary": "Die Organisation Werbungtreibende im Markenverband (OWM) hat ihren Vorstand neu besetzt: Daniel Draenkow (Leiter Media Sparkassen-Finanzgruppe) und Christoph Weber (Global President Marketing Freudenberg Home and Cleaning Solutions) ersetzen Kirsten Latour und Dimitri Herber. Die Vorgänger wechselten zu neuen Positionen – Latour als Head of Sustainability bei Klosterfrau Healthcare und Herber als Managing Director bei Weischer Cinema Hamburg.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "1-Konzern als Medienpartner und Investor.",
-          "link": "https://meedia.de/news/beitrag/24208-happybrush-gewinnt-sevenventures-als-investor-und-manuel-neuer-als-markenbotschafter.html",
-          "summary": "Das Münchner Mundpflege-Startup happybrush sichert sich eine strategische Partnerschaft mit ProSiebenSat.1's SevenVentures als Investor und Medienpartner sowie Manuel Neuer als Markenbotschafter. Das Investment umfasst ein mittleres siebenstelliges Mediavolumen und zielt auf die Steigerung der Markenbekanntheit durch reichweitenstarke TV- und Streaming-Kampagnen ab. Die Kooperation beinhaltet sowohl die Weiterentwicklung der Marke mit Neuer als Testimonial als auch die gemeinsame Entwicklung neuer Produkt- und Markenkonzepte.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Gestern meistgelesen bei MEEDIA Coca Cola, Maggi, Edeka, Tedi: WM-Fan-Shirts als Real-Life-Branding Zur Fußball-WM 2026 setzen zahlreiche Unternehmen auf eine auffällige Marketingstrategie: Sie verschenken Fan-Trikots und -Shirts in den Farben der deutschen Nationalmannschaft. Das erfolgreiche Beispiel von Check24 von der EM 2024 macht offenbar Schule, wobei die Inszenierung bei den Unternehmen qualitativ sehr unterschiedlich ausfällt. Die Aktionen stoßen auf große Resonanz",
-          "link": "https://meedia.de/news/beitrag/24206-coca-cola-maggi-edeka-tedi-wm-fan-shirts-als-real-life-branding.html",
-          "summary": "Zur Fußball-EM 2024 setzen zahlreiche Unternehmen wie Coca-Cola, Edeka, Maggi und Tedi auf das erfolgreiche Real-Life-Branding-Konzept von Check24 und verschenken millionenfach Fan-Trikots in deutschen Nationalfarben mit ihren Logos. Check24 verzeichnete binnen 24 Stunden fast eine Million Bestellungen für ihre Tippspiel-App-Trikots, musste die Vergabe zeitweise stoppen. Diese Form des physischen Marketings gewinnt im KI-Zeitalter zunehmend an strategischer Bedeutung, wobei die Qualität der Umsetzung bei den verschiedenen Unternehmen stark variiert.",
-          "score": 7
+          "title": "Nach der Sky-Übernahme Michael Radelsberger führt das Consumer-Geschäft von RTL Deutschland Die...",
+          "link": "https://meedia.de/news/beitrag/24226-michael-radelsberger-fuehrt-das-consumer-geschaeft-von-rtl-deutschland.html",
+          "summary": "Michael Radelsberger, ehemaliger Chef von Sky Austria, übernimmt als neuer Chief Consumer Officer die Leitung des gesamten Consumer-Geschäfts von RTL Deutschland und wird Mitglied der Geschäftsführung. Er verantwortet künftig die strategische Weiterentwicklung von Streaming (RTL+, Wow), Pay-TV (Sky) und Distribution der linearen Sender im DACH-Raum. Die Reorganisation ist Teil der strukturellen Neuausrichtung nach RTLs Sky-Übernahme.",
+          "score": 10
         },
         {
           "source": "Guardian Media",
-          "title": "CBS News veterans urge Paramount CEO to ‘uphold editorial independence’ at 60 Minutes",
-          "link": "https://www.theguardian.com/media/2026/jun/01/cbs-news-journalists-editorial-independence-60-minutes",
-          "summary": "Dutzende CBS News-Veteranen, darunter viele ehemalige 60 Minutes-Mitarbeiter, forderten Paramount-CEO David Ellison in einem offenen Brief auf, die redaktionelle Unabhängigkeit der Sendung zu wahren, nachdem die Netzwerkleitung mehrere Führungskräfte und prominente Korrespondenten entlassen hatte. Am Donnerstag wurden der Executive Producer, Executive Editor sowie die Korrespondentinnen Sharyn Alfonsi und Cecilia Vega gefeuert, die anschließend behaupteten, die redaktionelle Unabhängigkeit sei aus politischen Gründen kompromittiert worden. Die Unterzeichner warnen, dass institutionelles Vertrauen nicht durch Eigentümerwechsel übertragen wird und die pauschale Entlassung des redaktionellen Managements die Glaubwürdigkeit der renommierten Nachrichtensendung gefährdet.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Arsenal v PSG got 16.2m illegal stream views in UK after not being free-to-air",
-          "link": "https://www.theguardian.com/football/2026/jun/01/arsenal-psg-illegal-stream-views-tnt-champions-league-final",
-          "summary": "Das Champions League-Finale zwischen Arsenal und PSG verzeichnete über 16,2 Millionen illegale Stream-Aufrufe in Großbritannien, nachdem TNT Sports erstmals seit 1992 auf eine kostenlose Übertragung verzichtete. Die Analyse von Gaming Compliance International zeigt, dass die illegalen Streams von 3,7 Millionen IP-Adressen stammten, während die legale Übertragung nur 7 Millionen Zuschauer erreichte. Diese Zahlen verdeutlichen die problematischen Auswirkungen kostenpflichtiger Exklusivrechte auf die Piraterie und stellen eine langfristige Herausforderung für Broadcaster und Rechteinhaber wie UEFA dar.",
+          "title": "UK media websites given power to block Google using their articles in AI search",
+          "link": "https://www.theguardian.com/business/2026/jun/03/uk-media-groups-power-opt-out-google-ai-search-summaries",
+          "summary": "Die britische Wettbewerbsbehörde CMA hat Google verpflichtet, UK-Medienwebsites die Möglichkeit zu geben, ihre Inhalte aus Googles KI-Suchzusammenfassungen auszuschließen, ohne gleichzeitig aus der traditionellen Google-Suche entfernt zu werden. Diese Maßnahme reagiert auf Beschwerden von Verlagen über rückläufige Click-Through-Raten und Werbeerlöse, da Nutzer zunehmend die KI-Zusammenfassungen lesen, statt auf die ursprünglichen Artikel zu klicken. Google beginnt ab Mittwoch mit Tests der neuen Kontrollmöglichkeiten bei ausgewählten UK-Medienseiten und plant eine globale Ausweitung.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "“Big Names From U.S. Reality World” In Talks For Season 2 Of World-First AI Series — Reality TV Summit UK",
-          "link": "https://deadline.com/2026/06/non-player-combat-american-reality-stars-in-talks-ai-series-1236938532/",
-          "summary": "Die weltweit erste vollständig KI-generierte Reality-TV-Serie \"Non Player Combat\" von AiMation Studios verhandelt mit prominenten US-Reality-Stars für die zweite Staffel der Show, die sechs KI-generierte Teilnehmer in einem tödlichen Kampf zeigt. Schöpfer Tom Paton plant, Season 2 mehr wie \"Big Brother\" zu gestalten mit Echtzeit-Episoden basierend auf KI-Simulationen, während globale Sender bereits Interesse am Format gezeigt haben. Jedoch zeigen sich amerikanische Networks zurückhaltend bei der Finanzierung von KI-Inhalten, insbesondere im True-Crime-Bereich aufgrund von Wahrheitsbedenken.",
+          "title": "Palestine Film Institute Returns To Sheffield DocFest With Slate Of Features &  Filmmaker Delegation",
+          "link": "https://deadline.com/2026/06/palestine-film-institute-sheffield-docfest-2026-1236939671/",
+          "summary": "Das Palestine Film Institute präsentiert beim Sheffield DocFest 2026 drei Work-in-Progress-Projekte in Zusammenarbeit mit dem Festival und dem British Council: \"Different Colors of Sabir\" über eine palästinensische Familie unter politischem Druck, \"The Story We Broke\" über eine palästinensische Journalistin an der Columbia University und \"Unboxing Gaza\" über die Wiederentdeckung eines Fotoarchivs aus Gaza der 1940er Jahre. Die Showcase findet am 13. Juni statt, wobei die Filmemacher und Produzenten der Projekte anwesend sein werden.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Netflix’s ‘American Nightmare’ Would Have Focused Far More On Perpetrator If It Was Made A Decade Ago, Says Director Felicity Morris  – Reality TV Summit UK",
-          "link": "https://deadline.com/2026/06/american-nightmare-felicity-morris-victim-focus-reality-summit-1236938510/",
-          "summary": "Regisseurin Felicity Morris erklärte auf dem Reality TV Summit UK, dass ihre Netflix-Dokumentation \"American Nightmare\" vor einem Jahrzehnt den Fokus auf den Täter gelegt hätte, während sie bewusst die Opferperspektive in den Mittelpunkt stellte. Die Serie behandelt die Entführung von Denise Huskins 2015, die zunächst als Fake-Kidnapping abgetan wurde, bevor der wahre Täter Matthew Muller gefasst wurde. Morris betonte, dass sie den Täter bewusst zur Fußnote machten und stattdessen die Erfahrungen der Opfer und deren Behandlung durch Polizei und Medien fokussierten.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "‘SNL UK’ Producer Says The Show’s Crew Used Early Skepticism To Shape Their Version Of The Comedy Series: “We Were Able To Address It In The Show” — Reality TV Summit UK",
-          "link": "https://deadline.com/2026/06/snl-uk-producer-criticism-reality-tv-summit-1236938515/",
-          "summary": "Helen Kruger Bratt von Universal Television Alternative Studio erklärte auf dem Reality TV Summit in London, dass die Produzenten von SNL UK die anfängliche Online-Skepsis und Kritik vor und während der Ausstrahlung strategisch nutzten, um ihre Version der Comedy-Serie zu formen und zu entwickeln. Die fünfjährige Entwicklungszeit der Show profitierte sowohl vom etablierten US-Format als auch vom proaktiven Eingehen auf die öffentliche Diskussion, anstatt dieser aus dem Weg zu gehen.",
+          "title": "Canal+ Begins Trading On Johannesburg Stock Exchange Fulfilling MultiChoice Acquisition Regulatory Commitment",
+          "link": "https://deadline.com/2026/06/canal-begins-trading-johannesburg-stock-exchange-1236939664/",
+          "summary": "Canal+ hat als erstes französisches Unternehmen eine Zweitnotierung an der Johannesburger Börse (JSE) aufgenommen, um regulatorische Verpflichtungen im Zusammenhang mit der 3,2 Milliarden Dollar schweren Übernahme von MultiChoice Group zu erfüllen. Die Notierung gibt lokalen Investoren Zugang zu Canal+-Aktien in Rand-Transaktionen, während die Hauptnotierung an der Londoner Börse bestehen bleibt. Canal+ positioniert sich damit als Brücke zwischen Europa und Afrika und operiert nun in über 70 Ländern mit insgesamt 41 Millionen Abonnenten.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "BFI Pleaded With Government To Exclude UK Screen Industries From Trump Trade Deal, Saying It Would Cause “Fundamental Harm”",
-          "link": "https://deadline.com/2026/06/bfi-uk-government-film-tv-deal-donald-trump-1236932021/",
-          "summary": "Das British Film Institute (BFI) warnte die britische Regierung davor, die Film- und TV-Industrie in ein Handelsabkommen mit den USA unter Trump einzubeziehen, da dies \"fundamentalen Schaden\" verursachen würde. Die BFI befürchtet, dass ein solches Abkommen die Möglichkeit britischer Steuervergünstigungen für heimische Unternehmen einschränken und die EU dazu veranlassen könnte, UK-Inhalte aus den europäischen Quotenregelungen auszuschließen. Da die EU 51% der britischen Filmexporte ausmacht (gegenüber 20% in die USA), könnte dies den wertvollsten Exportmarkt der britischen Filmindustrie gefährden.",
-          "score": 9
+          "title": "FAST Approaching: Ad-Funded Streaming Channels Becoming The Norm In Europe, Claims Rakuten Report – SXSW London",
+          "link": "https://deadline.com/2026/06/fast-channels-mainstream-rakuten-report-1236930031/",
+          "summary": "Eine neue Rakuten TV-Studie mit 750 europäischen Verbrauchern zeigt, dass FAST-Kanäle (Free Ad-Supported Television) in Europa zum Mainstream werden: 73,7% schauen täglich oder mehrmals wöchentlich, 80,1% betrachten sie als Hauptalternative zu kostenpflichtigen Streaming-Diensten. Fast die Hälfte (46%) nutzt FAST-Kanäle zur Entscheidungsfindung bei Abo-Diensten, während nur 4,3% ihre Nutzung reduzieren wollen – ein Indikator für nachhaltige Marktdurchdringung werbefinanzierter Streaming-Modelle.",
+          "score": 10
         },
         {
-          "source": "Deadline",
-          "title": "‘Stranger Things’ Creator Matt Duffer Says Young Film And TV Audiences “Are Telling Us Very Loudly That They’re Hungry For Original Stories”",
-          "link": "https://deadline.com/2026/06/stranger-things-young-film-tv-audiences-original-stories-1236938362/",
-          "summary": "Matt Duffer von \"Stranger Things\" betonte bei den Gotham TV Awards, dass junge Zuschauer deutlich nach originellen, unverfälschten Geschichten verlangen, was durch den Erfolg von YouTube-getriebenen Produktionen wie \"Backrooms\" (81 Millionen Dollar Eröffnungswochenende) und \"Obsession\" bestätigt wird. Er warnte vor der zunehmenden Dominanz von Daten und Algorithmen in der Branchenentscheidungsfindung und appellierte an Entscheidungsträger, Risiken einzugehen und neue kreative Stimmen zu fördern.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Backrooms 2’: Here’s What’s Up At This Minute With A Kane Parsons Sequel – The Dish",
-          "link": "https://deadline.com/2026/06/backrooms-sequel-kane-parsons-1236938378/",
-          "summary": "Nach dem $118M Eröffnungswochenende von A24s \"Backrooms\" bestätigt sich eine Fortsetzung, wobei Regisseur Kane Parsons aktuell einen Ko-Autor für das Drehbuch sucht. Der Film ist Teil eines erfolgreichen Trends von YouTube-Creator-Adaptionen, die das Gen Z-Publikum (88% unter 35 bei \"Backrooms\") erfolgreich ins Kino locken. Parsons hat einen Vertrag mit A24 für weitere \"Backrooms\"-Filme, konkrete Besetzung oder grünes Licht stehen jedoch noch aus.",
+          "source": "Hollywood Reporter",
+          "title": "ESPN Stars Get Turned Into ‘Toy Story’ Characters in Super Bowl LXI Campaign (Exclusive)",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/espn-toy-story-5-commercial-2027-super-bowl-1236612046/",
+          "summary": "ESPN hat eine Super Bowl LXI-Werbekampagne namens \"Toy Story 5.5\" gestartet, die prominente Sportmoderatoren wie Joe Buck, Troy Aikman, Pat McAfee und die Manning-Brüder als Toy Story-Actionfiguren darstellt. Der Spot zeigt die als Spielzeug verwandelten ESPN-Stars auf ihrer Reise vom Hauptquartier in Connecticut nach Los Angeles zum Super Bowl, wobei sie unterwegs auf Charaktere aus dem kommenden Toy Story 5 treffen. Diese Kampagne ist Teil von ESPNs \"We're Going\"-Initiative und exemplifiziert Disney-Synergien zwischen den Marken ESPN, Pixar und ABC im Vorfeld von ESPNs erster Super Bowl-Übertragung.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Netflix’s New Releases Coming in June 2026",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-june-2026-new-releases-movies-tv-1236610298/",
-          "summary": "Netflix kündigt für Juni 2026 eine vielfältige Content-Palette an, darunter die fünfte Staffel der Romance-Serie \"Sweet Magnolias\" (11. Juni) und den innovativen mexikanischen Stop-Motion-Animationsfilm \"I Am Frankelda\" (12. Juni), der als erstes vollständig in Stop-Motion produziertes mexikanisches Werk gilt. Weitere Highlights umfassen Julian Schnabels Dante-Drama \"In the Hand of Dante\", eine US-amerikanische Harlan Coben-Thriller-Adaption sowie die zweite Staffel von \"Avatar: The Last Airbender\".",
+          "title": "‘Cape Fear’ Review: Javier Bardem and Amy Adams Face Off in Apple TV’s Excessive, Sporadically Entertaining Episodic Adaptation",
+          "link": "https://www.hollywoodreporter.com/tv/tv-reviews/cape-fear-review-javier-bardem-amy-adams-apple-tv-1236608791/",
+          "summary": "Apple TV's neue 10-teilige \"Cape Fear\"-Adaption mit Javier Bardem und Amy Adams erweitert das bekannte Rache-Thriller-Material von John D. MacDonalds Roman \"The Executioners\" auf eine Länge, die laut Kritik die Grenzen der Zuschauergeduld überstrapaziert. Die Serie von Nick Antosca wird als \"exzessiv\" und \"sporadisch unterhaltsam\" beschrieben, wobei die starke Besetzung das übermäßig gewaltvolle und bombastische Material zu tragen versucht. Der Reviewer konnte die ersten acht von zehn Episoden sichten und sieht die extreme Dehnung der Erzählung als problematisch an.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Javier Bardem and Amy Adams’ ‘Cape Fear’ Is a Worthy and Disturbing Psychological Thriller: TV Review",
+          "link": "https://variety.com/2026/tv/reviews/cape-fear-review-javier-bardem-1236762380/",
+          "summary": "Die neue Apple TV+ Serie \"Cape Fear\" von Nick Antosca adaptiert John D. MacDonalds Roman \"The Executioners\" als 10-teilige Limited Series mit Javier Bardem als Max Cady und Amy Adams als Anwältin Anna Bowden. Die Adaption wird als die bisher intensivste und verstörendste Version der Geschichte beschrieben, die Verrat, Vergeltung und Familienzerstörung im modernen Savannah, Georgia thematisiert. Bardem verkörpert den nach 17 Jahren aus dem Gefängnis entlassenen verurteilten Mörder Max Cady in einer als fesselnd beschriebenen Performance.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "YouTube Music Unveils Indie ‘Foundry Class’ of 2026: Julia Wolf, RaiNao, Kelela and More",
+          "link": "https://variety.com/2026/music/news/youtube-2026-foundry-class-julia-wolf-rainao-kelela-1236765322/",
+          "summary": "YouTube Music hat seine \"Foundry Class\" 2026 mit 24 unabhängigen Künstlern aus verschiedenen Ländern angekündigt, darunter Julia Wolf, RaiNao und Kelela. Das seit 2015 bestehende Programm bietet neben Publicity auch direkte finanzielle Förderung für Content-Erstellung, Produktion und Release-Kampagnen und hat bereits über 250 Künstler wie Dua Lipa, Rosalia und Tems unterstützt.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Arsenal Star Bukayo Saka Sets Documentary ‘The Time Is Now’: It’s the ‘Chance to Tell My Story in a Way I Never Have Before’ (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/global/arsenal-star-bukayo-saka-documentary-film-the-time-is-now-1236765224/",
+          "summary": "Arsenal-Star Bukayo Saka erhält eine Dokumentation mit dem Titel \"The Time Is Now\", die im Juni auf Disney+ erscheint und von Emmy-Gewinner Robert Alexander inszeniert wird. Der Film entsteht nach Arsenals erfolgreichster Saison seit über 20 Jahren und vor der WM 2026, wobei Saka gemeinsam mit Arsenal-Legende Thierry Henry über Druck und Leistung im Spitzenfußball reflektiert. Die Dokumentation wird von WhatsApp präsentiert und in Partnerschaft mit Saka und Modern Arts produziert.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "‘California Avenue’ Producer on New BBC Drama Starring Helena Bonham Carter and Bill Nighy: ‘It’s a Love Letter to Television From the 1970s’",
+          "link": "https://variety.com/2026/tv/global/california-avenue-bbc-helena-bonham-carter-1236764011/",
+          "summary": "Hugo Blick (\"The English\", \"The Honourable Woman\") produziert für die BBC das neue Drama \"California Avenue\" mit Helena Bonham Carter, Bill Nighy, Erin Doherty und Tom Burke in den Hauptrollen. Die Serie spielt 1975 in einem englischen Wohnwagenpark, wo Doherty's Charakter Lela nach langer Abwesenheit mit ihrer 11-jährigen Tochter zurückkehrt. Blick beschreibt das Projekt als \"Liebeserklärung an das Fernsehen der 1970er Jahre\" und warme Geschichte über eine Familie auf der Flucht vor ihrer Vergangenheit.",
           "score": 8
         }
       ]
