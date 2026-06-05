@@ -1,154 +1,147 @@
 {
   "newsletters": [
     {
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Nach RTL-Übernahme: Sky-Mann Christian Asanger ist raus",
-          "link": "https://www.dwdl.de/nachrichten/106725/nach_rtluebernahme_skymann_christian_asanger_ist_raus_/",
-          "summary": "Christian Asanger, seit 2016 Vice President Entertainment bei Sky Deutschland, ist nach der RTL-Übernahme nicht mehr Teil der neu strukturierten Organisation unter Inga Leschek. Erst Mitte April hatte Asanger noch das LineUp kommender Sky-Eigenproduktionen inklusive Dokumentationen und Reality-Formaten vorgestellt. RTL Deutschland äußert sich auf Anfrage nicht zu den Personalveränderungen in der Entertainment-Sparte.",
-          "score": 9
+          "title": "ARD-Dailys \"Sturm der Liebe\" und \"Rote Rosen\" gehen weiter",
+          "link": "https://www.dwdl.de/nachrichten/106733/arddailys_sturm_der_liebe_und_rote_rosen_gehen_weiter/",
+          "summary": "Die ARD verlängert ihre Daily-Soaps \"Sturm der Liebe\" und \"Rote Rosen\" um jeweils 180 Folgen bis 2028, obwohl beide Formate kontinuierlich sinkende lineare Reichweiten verzeichnen und erstmals im einstelligen Marktanteilsbereich liegen. Der WDR-Rundfunkrat genehmigte die Verlängerung hauptsächlich aufgrund der starken Mediathek-Performance beider Serien, die zu den erfolgreichsten ARD-Online-Formaten zählen. Die Produktionsfirmen Bavaria Fiction und Studio Hamburg Serienwerft setzen auf inhaltliche Modernisierung durch Cast-Verjüngung und zeitgemäße Storylines, um dem linearen Abwärtstrend entgegenzuwirken.",
+          "score": 8
         },
         {
           "source": "DWDL",
-          "title": "\"LOL\" setzt sich an die Spitze von weltweitem Amazon-Ranking",
-          "link": "https://www.dwdl.de/nachrichten/106717/lol_setzt_sich_an_die_spitze_von_weltweitem_amazonranking/",
-          "summary": "Prime Video veröffentlicht erstmals globale Top-10-Listen seiner meistgesehenen Inhalte und zeigt damit mehr Transparenz bei Streaming-Zahlen. Die deutsche Comedy-Show \"LOL: Last One Laughing\" dominiert das Ranking der nicht-englischsprachigen Serien weltweit, während auch \"Maxton Hall\" (Platz 4) und der Film \"Der Tiger\" (Platz 10) deutsche Produktionen erfolgreich international positionieren. Dies unterstreicht die wachsende globale Reichweite deutscher Premium-Inhalte auf der Plattform.",
+          "title": "Joko & Klaas nutzen Sendezeit für mehrstündige Ukraine-Doku",
+          "link": "https://www.dwdl.de/nachrichten/106726/joko__klaas_nutzen_sendezeit_fuer_mehrstuendige_ukrainedoku/",
+          "summary": "Joko und Klaas nutzten ihre gewonnene Sendezeit bei ProSieben für eine mehrstündige Ukraine-Dokumentation unter dem Motto #dontlookaway, die ausschließlich Menschen aus der Ostukraine selbst zu Wort kommen lässt. Die Doku zeigt den Kriegsalltag von fünf Personen - darunter Soldaten, Zivilisten und medizinisches Personal - komplett in ukrainischer Sprache mit deutschen Untertiteln, ohne dass die Moderatoren selbst auftreten. ProSieben räumte dafür deutlich mehr als die ursprünglich gewonnenen 15 Minuten Sendezeit ein.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "WDR bekommt grünes Licht für \"junge Flotte\" und Cosmo-Aus",
+          "link": "https://www.dwdl.de/nachrichten/106718/wdr_bekommt_gruenes_licht_fuer_junge_flotte_und_cosmoaus/",
+          "summary": "Der WDR-Rundfunkrat hat die Umstrukturierung des jungen Radio-Angebots zur \"Jungen Flotte\" genehmigt, die neben 1Live zwei neue Programme vorsieht: 1Live Lounge als stressfreie Alltagsbegleitung und 1Live Street mit HipHop-Fokus. Gleichzeitig wurde das umstrittene Aus für den Sender Cosmo und dessen fremdsprachige Angebote beschlossen, obwohl dies auf massiven Protest stieß und Fragen zur künftigen Zielgruppenansprache von Menschen mit Migrationsgeschichte offen blieben. Die WDR-Führung begründet die Cosmo-Einstellung mit zu geringer Reichweite des bisherigen Konzepts.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Gewonnene Sendezeit im Duell mit Pro Sieben: Joko und Klaas zeigen Alltag an der ukrainischen Front in Mega-Doku",
+          "link": "https://www.horizont.net/medien/nachrichten/gewonnene-sendezeit-im-duell-mit-pro-sieben-joko-und-klaas-zeigen-alltag-an-der-ukrainischen-front-in-mega-doku-234605?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Joko und Klaas nutzten ihre bei ProSieben gewonnene Sendezeit für die Ausstrahlung der Ukraine-Dokumentation \"#dontlookaway\", die den Alltag an der Front zeigt. Die ursprünglich geplanten 15 Minuten wurden auf über drei Stunden ausgeweitet, was eine außergewöhnliche Programmänderung für den Sender darstellt.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "&quot;Experience Day&quot;: Wie die Verlage den Premieren-Erfolg ihres Gattungsevents toppen wollen",
+          "link": "https://www.horizont.net/medien/nachrichten/experience-day-wie-die-verlage-den-premieren-erfolg-ihres-gattungsevents-toppen-wollen-234536?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Publikumsverlage planen für den Herbst die zweite Auflage ihres \"Experience Day\"-Events, nachdem die Premiere erfolgreich verlaufen ist. Das Branchenevent soll Publisher-Medien fördern und echte Werbebudgets für die Gattung generieren. Die Verlage arbeiten daran, das Format zu optimieren und den Erfolg der ersten Veranstaltung zu übertreffen.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Machtwort in Großbritannien: Google muss Publishern mehr Kontrolle über ihre Inhalte geben",
+          "link": "https://www.horizont.net/medien/nachrichten/machtwort-in-grossbritannien-google-muss-publishern-mehr-kontrolle-ueber-ihre-inhalte-geben-234603?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die britische Wettbewerbsbehörde CMA hat Google neue Auflagen für dessen KI-Services erteilt, um Publishern mehr Kontrolle über die Nutzung ihrer Inhalte zu gewähren. Als Reaktion führt Google neue Steuerungsmöglichkeiten für Website-Betreiber ein, die perspektivisch global ausgerollt werden sollen.",
           "score": 9
         },
         {
-          "source": "kress",
-          "title": "Schmitter macht Journalismus zur Chefsache: RTL bündelt publizistische Kräfte unter dem CEO RTL News, ntv, stern, GEO, Capital",
-          "link": "https://kress.de/news/beitrag/153007-schmitter-macht-journalismus-zur-chefsache-rtl-buendelt-publizistische-kraefte-unter-dem-ceo.html",
-          "summary": "RTL Deutschland bündelt ab Juni seine journalistischen Bereiche RTL News, ntv und die stern-Gruppe (stern, GEO, Capital, art) direkt unter CEO Stephan Schmitter, um ein strategisches Zeichen für die Bedeutung des Journalismus im Konzern zu setzen. Die operative Führung bleibt bei den bisherigen Verantwortlichen wie Martin Gradl (RTL News/ntv) und Gregor Peter Schmitz (stern-Gruppe). Schmitter kündigt weitere Investitionen in Journalismus, Qualität und digitale Transformation an und bezeichnet Journalismus als \"Rückgrat von RTL Deutschland\".",
+          "source": "Horizont Medien",
+          "title": "HORIZONT Kongress 2026: Wie Social Media zum Treiber von Wachstum und Desinformation wird",
+          "link": "https://www.horizont.net/medien/nachrichten/horizont-kongress-2026-wie-social-media-zum-treiber-von-wachstum-und-desinformation-wird-234587?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Am HORIZONT Kongress 2026 stand das Spannungsfeld Social Media im Fokus, wobei Chancen und Risiken der Plattformen als Treiber von Wachstum und Desinformation diskutiert wurden. Den überraschendsten Moment lieferte Eckart von Hirschhausen, der spontan aus dem Publikum auf die Bühne kam und ein persönliches Anliegen vortrug.",
           "score": 7
         },
         {
           "source": "kress",
           "title": "Nicht mehr 'kleinkarierte Buchhalter': FAZ.NET startet KI-Suche mit Quellenangaben Die FAZ um Herausgeber Carsten Knop geht einen eigenen Weg bei der KI-Suche: Eigenentwicklung statt Auslagerung an externe Konzerne",
           "link": "https://kress.de/news/beitrag/153004-nicht-mehr-039-kleinkarierte-buchhalter-039-faz-net-startet-ki-suche-mit-quellenangaben.html",
-          "summary": "Die FAZ hat eine eigenentwickelte KI-gestützte Suchfunktion für FAZ.NET eingeführt, die natürlichsprachliche Anfragen versteht und kontextuelle Antworten aus dem redaktionellen Archiv der letzten zwölf Monate generiert. Im Gegensatz zu herkömmlichen Suchen, die nur exakte Begriffe finden, kann das System komplexe Zusammenhänge erfassen und versieht alle KI-generierten Antworten mit Quellenangaben zu den Originalartikeln. Die Technologie wurde bewusst intern entwickelt, ohne externe Technologiekonzerne einzubeziehen, und setzt auf maximale Transparenz durch direkte Verlinkung zu den Primärquellen.",
+          "summary": "Die FAZ.NET hat eine neue KI-gestützte Suchfunktion als Eigenentwicklung gelauncht, die natürlichsprachliche Anfragen versteht und kontextuelle Antworten aus dem redaktionellen Archiv der letzten zwölf Monate liefert. Im Gegensatz zu externen KI-Lösungen setzt die FAZ auf vollständige Transparenz durch integrierte Quellenangaben mit direkten Links zu den Originalartikeln. Die Technologie wurde intern entwickelt und von der FAZ-Tochter 3pc technisch umgesetzt, wodurch keine Abhängigkeit von externen Technologiekonzernen entsteht.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Programm für Free-TV und Joyn Filme, Serien, FAST-Channels: ProSiebenSat.1 schließt Deal mit Sony ProSiebenSat.1 baut seine Partnerschaft mit Sony Pictures Entertainment aus: Wie das Unternehmen bekannt gegeben hat, sicherte es sich die TV- und Streaming-Rechte für mehr als 100 Filme und acht Serien mit knapp 1.000 Serien-Episoden",
-          "link": "https://meedia.de/news/beitrag/24233-filme-serien-fast-channels-prosiebensat-1-schliesst-deal-mit-sony.html",
-          "summary": "ProSiebenSat.1 erweitert seine Content-Partnerschaft mit Sony Pictures Entertainment und sichert sich TV- und Streaming-Rechte für über 100 Filme und acht Serien mit rund 1.000 Episoden, darunter Free-TV-Premieren wie \"It Ends with Us\" und Klassiker wie \"Ghostbusters\". Zusätzlich werden fünf thematische FAST-Channels unter der Marke Sony One bei Joyn lanciert, die von Action Hits bis Comedy TV reichen. Der Deal stärkt sowohl das lineare Programm als auch das Streaming-Portfolio von ProSiebenSat.1 über alle Plattformen hinweg.",
-          "score": 10
-        },
-        {
-          "source": "Guardian Media",
-          "title": "What do UK watchdog’s new rules on Google AI results mean for publishers?",
-          "link": "https://www.theguardian.com/business/2026/jun/03/what-does-uk-watchdog-new-google-ai-results-rule-means-publishers",
-          "summary": "Die britische Wettbewerbsbehörde CMA hat Google verpflichtet, Verlegern die Möglichkeit zu geben, ihre Inhalte von AI Overviews und AI-Modi auszuschließen, da diese Features Traffic und Werbeeinnahmen reduzieren. Google muss außerdem sicherstellen, dass Publisher-Inhalte in AI-Ergebnissen klar gekennzeichnet und verlinkt werden. Diese Regelungen werden voraussichtlich globale Auswirkungen auf die Beziehung zwischen Tech-Plattformen und Medienunternehmen haben.",
+          "title": "Erste Kampagne der Partner Wilkinson Sword und Williams-F1-Team Wie Wilkinson Sword in neuer...",
+          "link": "https://meedia.de/news/beitrag/24237-wie-wilkinson-sword-in-neuer-smooth-kampagne-media-und-content-neuartig-verknuepft.html",
+          "summary": "Wilkinson Sword und das Williams-F1-Team haben ihre Anfang 2024 geschlossene Partnerschaft mit der Kampagne „Partners in Smooth\" aktiviert, die Media- und Content-Strategie von Beginn an parallel entwickelt und dabei die bisherige Mediaagentur umgangen hat. Die langfristig angelegte Kampagne kombiniert Storytelling mit Fan-Engagement und läuft über Sky-Sponsoring, Online-Video-Plattformen sowie Creator-Inhalte während der restlichen F1-Saison 2024. Zentrales Element ist ein „Director of Smooth\", der gemeinsam mit Williams-Teamchef James Vowles die Fahrer vor Rennen in „Topform\" bringt und so die Markenpositionierung von Wilkinson Sword als Unterstützer bei der Rennvorbereitung etabliert.",
           "score": 8
         },
         {
-          "source": "Guardian Media",
-          "title": "YouTube overtakes Netflix in average daily viewing around the world",
-          "link": "https://www.theguardian.com/technology/2026/jun/03/youtube-overtakes-netflix-in-average-daily-viewing-around-the-world",
-          "summary": "YouTube hat Netflix bei der durchschnittlichen täglichen Nutzungsdauer weltweit überholt - von 87,2 auf 99,1 Minuten pro Account (2024-2025), während Netflix von 100,5 auf 93,4 Minuten zurückfiel. Entscheidend für diesen Wandel war YouTubes verstärkte TV-Nutzung, deren Anteil von 28% auf 35% stieg, während die mobile Nutzung von 35% auf 31% sank. Analysten bezeichnen YouTubes Evolution von einer reinen Video-Plattform zu einem TV-Konkurrenten als einen der prägendsten Medienwandel des Jahrzehnts.",
+          "source": "meedia",
+          "title": "Tipps zum AI Act KI-Kennzeichnung ab August: Was Unternehmen jetzt entscheiden müssen Ab dem 2. August 2026 gilt in der EU eine Kennzeichnungspflicht für bestimmte KI-generierte Inhalte. Für viele Marketingverantwortliche klingt das nach einer abstrakten Regulierungsfrage. In Wirklichkeit ist sie Produktionslogik",
+          "link": "https://meedia.de/news/beitrag/24238-ki-kennzeichnung-ab-august-was-unternehmen-jetzt-entscheiden-muessen.html",
+          "summary": "Ab dem 2. August 2026 gilt in der EU eine Kennzeichnungspflicht für KI-generierte Bilder, Videos und Audioinhalte, die für real gehalten werden könnten. Der AI Act verpflichtet KI-Anbieter zur technischen Markierung ihrer Outputs (Wasserzeichen/Metadaten) und Unternehmen zur sichtbaren, eindeutigen Kennzeichnung bei der Veröffentlichung. Da 40-75% der Menschen KI-generierte Bilder nicht mehr von echten unterscheiden können, müssen Unternehmen ihre Produktionsprozesse entsprechend anpassen.",
           "score": 7
         },
         {
-          "source": "Deadline",
-          "title": "‘Meatballs’ TV Series Starring Robbie G.K., Mark-Paul Gosselaar Comedy ‘Bulges’ & ‘Littlest Hobo’ Reboot From Seth Rogen & Evan Goldberg On Bell Slate",
-          "link": "https://deadline.com/2026/06/meatballs-robbie-gk-mark-paul-gosselaar-seth-rogen-bell-1236930041/",
-          "summary": "Bell Media hat eine Serienadaption des Kultfilms \"Meatballs\" mit Robbie G.K. in der Hauptrolle für ihren Streaming-Dienst Crave bestellt, produziert von Blink49 Studios und Incendo. Weitere highlights der Bell-Programmankündigung 2026/27 umfassen die Comedy \"Bulges\" mit Mark-Paul Gosselaar und \"The Littlest Hobo\" - das erste Projekt aus der Entwicklungspartnerschaft mit Seth Rogen und Evan Goldbergs Point Grey Pictures. Die \"Meatballs\"-Serie wird als \"Coming-of-Age-Story\" in einem heruntergekommenen Sommercamp beschrieben und reimaginiert den 1979er Film, der Bill Murrays erste Hauptrolle markierte.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "WBD’s Gerhard Zeiler Says “We Need To Get Rid Of An Exclusivity Mindset” & Do More With YouTube",
-          "link": "https://deadline.com/2026/06/wbd-gerhard-zeiler-exclusivity-youtube-hbo-max-target-1236940703/",
-          "summary": "Warner Bros. Discovery International-Präsident Gerhard Zeiler fordert ein Ende der \"Exklusivitätsdenkweise\" und will verstärkt auf YouTube setzen, um jüngere Zielgruppen dort zu erreichen, wo sie sich aufhalten. Während Premium-Inhalte wie Euphoria weiterhin exklusiv auf HBO Max bleiben, sieht Zeiler bei Shortform-Content auf anderen Plattformen sowohl Publikums- als auch Umsatzpotenzial. HBO Max hat laut WBD UK-Chef Andrew Georgiou bereits innerhalb der ersten 60 Tage nach UK-Launch fast die Jahreszielsetzung für Abonnenten erreicht.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Netflix EMEA Boss Larry Tanz Warns Against “One Size Fits All” Approach To Rights Retention In Europe That Benefits Producers “Backed By Private Equity Or Sovereign Wealth”",
-          "link": "https://deadline.com/2026/06/netflix-larry-tanz-on-adolescence-rights-retention-1236940668/",
-          "summary": "Netflix EMEA-Chef Larry Tanz warnt vor einheitlichen europäischen Regulierungsansätzen zur Rechte-Retention, die große, von Private Equity oder Staatsfonds finanzierte Produktionsunternehmen begünstigen könnten, während kleinere Independent-Produzenten benachteiligt werden. Er kritisiert besonders die neuen deutschen Streaming-Verpflichtungen, die 8-12% Lokalinvestitionen vorschreiben und Standard-Arbeitsverträge verbieten, sowie französische Content-Quoten als innovationshemmend. Tanz plädiert für das britische Modell mit vielfältigen Marktrouten und kündigt Rekordinvestitionen in Europa an, warnt jedoch vor regulatorischen Zwängen, die Gelder in potentiell ungewollte Inhalte statt erfolgreiche Produktionen lenken könnten.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Feast Or Famine’: Adrian Choa, Michael Boccalini & Marco Pierre White Lift Lid On Quest For A Michelin Star: “It Pigeonholes Chefs” –  SXSW London",
-          "link": "https://deadline.com/2026/06/feast-famine-choa-boccalini-michelin-star-sxsw-london-1236940677/",
-          "summary": "Die Dokumentation \"Feast or Famine\" von Adrian Choa und Michael Boccalini, die bei SXSW London Premiere feierte, untersucht kritisch das Michelin-Stern-System und dessen Einfluss auf die Restaurantbranche. Der Film kontrastiert die Erfahrungen von Starkoch Marco Pierre White mit dem jungen Team des aufstrebenden italienisch-japanischen Fusionsrestaurants Angelina in London. Die Regisseure kritisieren dabei die Monopolstellung des Michelin-Guides, der Köche in eine bestimmte Richtung dränge und die Gastronomie-Szene \"in eine Schublade stecke\".",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Neon Boss Tom Quinn Hails Success Of ‘Backrooms,’ Saying It Shows Young People Are “Willing To Walk Away From Phones” — SXSW London",
-          "link": "https://deadline.com/2026/06/neon-tom-quinn-1236940645/",
-          "summary": "Neon-CEO Tom Quinn lobte den Erfolg der Filme \"Backrooms\" und \"Obsession\" als Beweis dafür, dass junge Generationen bereit sind, \"ihre Handys wegzulegen\" und ins Kino zu gehen, wobei er das Phänomen mit \"Blair Witch Project\" verglich. Er warnte jedoch vor der \"Uber-isierung\" der Filmindustrie durch Fokus auf Aktienkurse und Konsolidierung großer Studios mit Tausenden von Mitarbeitern, die seiner Ansicht nach zu einem Mangel an Kreativität führt. Quinn betonte die Bedeutung der Unabhängigkeit, obwohl Neon selbst Verkaufsgespräche mit Department M über einen Anteilsverkauf geführt hat.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Disney+ EMEA Boss Makes Case For Streamer Being Platform Of Choice For Young Adults In UK",
-          "link": "https://deadline.com/2026/06/disney-plus-emea-rivals-young-audiences-zootropolis-1236940643/",
-          "summary": "Disney+ EMEA-Chef Karl Holmes präsentierte Barb-Daten, die zeigen, dass 40% der Viewing-Hours auf Disney+ von 16-34-Jährigen stammen und damit Netflix (32%), Prime Video (27%) und Paramount+ (23%) übertreffen. Holmes betonte den Erfolg von lokalen Originals wie \"Rivals\" und kündigte verstärkte Investitionen in regionale Inhalte an. Zusätzlich hob er hervor, wie Kinoerfolge wie \"Zootropolis 2\" zu über 1 Milliarde Streaming-Stunden auf der Plattform führten.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "ITV CEO “Actively Engaged” In Sale Talks for Media Assets to Sky",
-          "link": "https://www.hollywoodreporter.com/business/business-news/itv-ceo-sky-deal-media-unit-fifa-world-cup-opportunities-1236613653/",
-          "summary": "ITV CEO Carolyn McCall bestätigte, dass das Unternehmen \"sehr aktiv\" in Verkaufsgesprächen mit Sky über die Veräußerung der Media & Entertainment-Sparte steht, die die Free-TV-Kanäle und die Streaming-Plattform ITVX umfasst. ITV Studios würde nach einem Deal als eigenständiges Unternehmen fortbestehen. McCall betonte die starke Cash-Generierung der M&E-Sparte und sieht in der anstehenden FIFA-WM eine wichtige Wachstumschance für ITV.",
+          "source": "meedia",
+          "title": "Fast 10 Prozent bei den 14- 49-Jährigen Joko & Klaas zeigen Dokumentation aus der Ostukraine auf ProSieben Mit den Worten „Vor einiger Zeit haben wir Kameras in die Ukraine geschickt und die Menschen gefragt: Was würdet ihr uns über euren Alltag erzählen? Was sollten wir sehen? Das ist es, was sie uns zeigen wollen.“ begann am Donnerstagabend um 20:15 Uhr die Sendung „Joko &amp; Klaas LIVE",
+          "link": "https://meedia.de/news/beitrag/24234-joko-amp-klaas-zeigen-dokumentation-aus-der-ostukraine-auf-prosieben.html",
+          "summary": "Joko & Klaas strahlten am Donnerstagabend statt ihrer üblichen 15-minütigen Sendezeit eine 90-minütige werbefreie Dokumentation über den Alltag von fünf Menschen im ukrainischen Kriegsgebiet auf ProSieben aus. Die Sendung \"#dontlookaway\" erreichte fast 10 Prozent Marktanteil bei den 14-49-Jährigen und ist zusätzlich auf Joyn und YouTube verfügbar. Die Dokumentation zeigt authentische Einblicke in das Leben eines Chirurgen, Polizisten, Drohnenpiloten und weiterer Personen in der Ostukraine.",
           "score": 9
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "Warner Bros. Int’l Boss Wants to End “Exclusivity” Mindset for Movies and TV Shows",
-          "link": "https://www.hollywoodreporter.com/business/business-news/wbd-intl-president-opposses-exclusivity-fragment-yourself-1236613655/",
-          "summary": "Gerhard Zeiler, Präsident International bei Warner Bros. Discovery, betonte auf der Enders TMT Leaders Live-Konferenz in London, dass Skalierung in der heutigen Medienlandschaft entscheidend sei und eine ausschließliche Fokussierung auf einen einzelnen Markt nicht mehr ausreiche. Er forderte ein Ende der \"Exklusivitäts-Denkweise\" und plädierte für verstärkte Lizenzierung und Short-Form-Content, da es besser sei, \"sich selbst zu fragmentieren als von anderen fragmentiert zu werden\", auch wenn dies zu gewisser Kannibalisierung führe.",
+          "source": "Deadline",
+          "title": "Next Wave Of European Showrunners Revealed",
+          "link": "https://deadline.com/2026/06/next-wave-of-european-showrunners-borgen-doctor-who-eu-1236941772/",
+          "summary": "Zwölf erfahrene Drehbuchautoren aus neun europäischen Ländern wurden für das EU-geförderte European Showrunner Programme ausgewählt, das von renommierten Showrunnern wie Jeppe Gjervig Gram (Borgen), Chris Chibnall (Doctor Who) und Marianne Wendt (Neumatt) geleitet wird. Das sechsmonatige Programm der Internationale Filmschule Köln zielt darauf ab, das in Europa noch wenig etablierte Showrunner-Konzept zu fördern und erfahrene Serienschreiber für diese Rolle auszubilden. Die Initiative wird durch Creative Europe finanziert und gilt als entscheidend für die Zukunft des europäischen Storytellings in der Serienlandschaft.",
           "score": 9
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "Netflix Euro Chief Warns Against Rules That “Dictate Not Just How Much We Invest But What We Make”",
-          "link": "https://www.hollywoodreporter.com/business/business-news/netflix-europe-content-chief-ai-streaming-regulations-1236613649/",
-          "summary": "Netflix-Europa-Chef Larry Tanz warnte auf einer Londoner Konferenz vor übermäßigen Regulierungen, die nicht nur Investitionshöhen, sondern auch Content-Entscheidungen vorschreiben könnten. Er argumentierte, dass \"One-size-fits-all\"-Regulierungen Netflix davon abhalten würden, Risiken mit neuen Stimmen einzugehen und stattdessen Chancen an große Medienkonzerne und Investmentfonds umleiten würden. Tanz betonte Netflix' lokale Investitionen in über 225 britische Städte seit 2016 und verwies auf Erfolge wie \"Baby Reindeer\" als Beispiele für lokal produzierte Inhalte mit globaler Reichweite.",
+          "source": "Deadline",
+          "title": "Pernel Media Takes ‘Rise And Fall Of’ Franchise To Rome",
+          "link": "https://deadline.com/2026/06/rise-and-fall-of-rome-documentary-pernel-media-1236941749/",
+          "summary": "Pernel Media erweitert seine erfolgreiche \"Rise and Fall\"-Dokumentarfilm-Franchise um \"Rise and Fall of Rome\", das die 1.200-jährige Geschichte des Römischen Reiches mit der zentralen These behandelt, dass Rom nie wirklich untergegangen ist, da seine Gesetze, Sprachen und Institutionen noch heute die Grundlage unserer Welt bilden. Die Serie kombiniert archäologische Aufnahmen vor Ort mit KI-gestützten historischen Rekonstruktionen und wird für den französischen Sender RMC Découverte produziert, während bereits internationale Vertriebsgespräche laufen. Das Franchise hat bereits über 100 Länder erreicht, darunter National Geographic und Disney+ in verschiedenen Territorien.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "HBO’s ‘Harry Potter’ Series Casting Colin Creevey For Season 2",
+          "link": "https://deadline.com/2026/06/hbo-harry-potter-colin-creevey-season-2-1236941766/",
+          "summary": "HBO castete für die zweite Staffel ihrer Harry Potter-Serie die Rolle des Colin Creevey neu, nachdem der Charakter in den ursprünglichen Filmen nach \"Die Kammer des Schreckens\" nicht weitergeführt wurde. Die Casting-Directors Lucy Bevan und Emily Brockmann führen bereits Auditions durch, da Creevey als wiederkehrende Figur in sechs Büchern eine wichtige Rolle in der geplanten vollständigen Buchadaption spielen könnte. Parallel läuft auch das Recasting für Ginny Weasley, nachdem Gracie Cochrane die Serie verlassen hat.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "BBC Studios Sends Karl Warner To L.A. For Global Formats Role",
+          "link": "https://deadline.com/2026/06/bbc-studios-karl-warner-la-global-formats-role-1236941740/",
+          "summary": "BBC Studios ernennt Karl Warner zum EVP Global Creator Partnerships & Creative Development mit Sitz in Los Angeles, wo er globale TV-Formate identifizieren und entwickeln soll. Warner, der zuvor als EVP UK Entertainment bei BBC Studios tätig war, wird als Bindeglied zwischen UK- und internationalen Produktionslabels fungieren und eng mit dem Creator-Inkubator TalentWorks zusammenarbeiten. Die Rolle ist Teil von Zai Bennetts Strategie, BBC Studios globaler auszurichten, nachdem Produktion und Vertrieb unter der neuen BBC Studios Global Content Unit zusammengelegt wurden.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "BBC ‘Newsnight’ Presenter Victoria Derbyshire Faced Workplace Conduct Investigation",
+          "link": "https://deadline.com/2026/06/bbc-newsnight-victoria-derbyshire-conduct-investigation-1236920788/",
+          "summary": "BBC Newsnight-Moderatorin Victoria Derbyshire war Gegenstand einer internen Untersuchung wegen Beschwerden über ihr Verhalten gegenüber Kollegen, nachdem die BBC 2025 Mitarbeiter zur Meldung von Fehlverhalten ermutigte. Die Untersuchung bestätigte keine Mobbing-Vorwürfe, jedoch könnte Derbyshire eine Verwarnung wegen ihres direkten und anspruchsvollen Führungsstils erhalten haben. Die BBC äußert sich nicht zu Einzelfällen, betont aber ihre Null-Toleranz-Politik bei Verhalten, das nicht den Unternehmenswerten entspricht.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "SAG-AFTRA Members Approve AMPTP Deal",
+          "link": "https://deadline.com/2026/06/sag-aftra-members-approve-amptp-deal-2026-1236941651/",
+          "summary": "SAG-AFTRA-Mitglieder haben mit 91,42% Zustimmung das 2026 TV/Theatrical Agreement mit der AMPTP ratifiziert. Der Vertrag erweitert den Schutz vor KI und digitalen Replikas, verhindert den Ersatz von Schauspielern durch synthetische Technologien und schafft einen Weg zur Zusammenlegung der SAG- und AFTRA-Pensionspläne. Die Vereinbarung beinhaltet zudem Verbesserungen bei Löhnen, Streaming-Residuals und allgemeinen Performer-Schutzmaßnahmen.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Hollywood Legal Hustle: Amazon & Vice Smacked With Defamation Suit Over Docuseries On “Millennial Madoff” & $650M Ponzi Scheme",
+          "link": "https://deadline.com/2026/06/hollywood-hustler-docuseries-lawsuit-1236941616/",
+          "summary": "Julio Hallivis, ehemaliger Geschäftspartner des zu einer Haftstrafe verurteilten Betrügers Zach Horwitz (\"Millennial Madoff\"), verklagt Amazon Studios, Vice Studios und Regisseurin Rebecca Chaikin wegen Verleumdung in Zusammenhang mit der Dokuserie \"Hollywood Hustler: Glitz, Glam, Scam\". Hallivis behauptet, er habe nichts von Horwitz' 650-Millionen-Dollar-Ponzi-Schema gewusst und sei lediglich als Produzent tätig gewesen, während die Serie ihn fälschlicherweise als Komplizen darstelle. Die Klage wurde heute vor dem Los Angeles Superior Court eingereicht und fordert Schadensersatz wegen zerstörtem Ruf und Verdienstausfall.",
           "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Disney+ EMEA Boss Touts “Growth Mode,” Hike in Local Originals, Importance of Cinema Releases",
-          "link": "https://www.hollywoodreporter.com/business/business-news/disney-plus-emea-growth-local-originals-cinema-releases-1236613016/",
-          "summary": "Disney+ EMEA-Chef Karl Holmes berichtet von starkem Wachstum mit über 25% mehr Kunden seit Jahresbeginn 2025 und 80% Anstieg der Werbeeinnahmen in Großbritannien. Die Plattform erreicht mit 39% den höchsten Anteil junger Erwachsener (16-34 Jahre) unter allen Streamingdiensten und übertrifft damit Netflix (32%), Prime Video (27%) und andere Konkurrenten deutlich.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Sky CEO: ‘SNL U.K.’ Is Example of “Symphonic Engagement” Across Assets",
-          "link": "https://www.hollywoodreporter.com/business/business-news/snl-uk-sky-symphonic-engagement-ceo-dana-strong-1236613225/",
-          "summary": "Sky CEO Dana Strong betont die Strategie \"mutiger, großer Wetten\" statt kleiner inkrementeller Veränderungen, exemplifiziert durch den Wandel von einem primär satellitenbasierten zu einem IP-gestützten Service mit über 90% neuer Kunden. Als Beispiel für \"symphonisches Engagement\" zwischen Plattformen nennt sie Saturday Night Live U.K., wo acht Mitarbeiter von Mitternacht bis 5 Uhr morgens digitale Inhalte erstellen und diese strategisch über die Woche auf verschiedenen digitalen und sozialen Medienkanälen verteilen. Die transformationalen Änderungen zielen darauf ab, Kunden mehr Wert zu bieten, unter anderem durch die Ausweitung des Sportangebots auf über 3.000 Events monatlich.",
+          "title": "SAG-AFTRA Ratifies Four-Year Deal With Studios and Streamers",
+          "link": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-ratifies-4-year-deal-studios-1236613908/",
+          "summary": "SAG-AFTRA-Mitglieder haben den vierjährigen Tarifvertrag mit Studios und Streamern mit 91,42% Zustimmung ratifiziert, nachdem die Verhandlungen im Mai abgeschlossen wurden. Der Vertrag bringt Verbesserungen bei Vergütung, KI-Schutzbestimmungen und Sozialleistungen und steht im Kontrast zu den konfliktreichen Verhandlungen von 2023, die zu einem 118-tägigen Streik führten. Die Studios sicherten sich diesmal einen längeren vierjährigen Deal statt der üblichen dreijährigen Laufzeit, um Arbeitsstabilität zu gewährleisten.",
           "score": 9
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "‘Obsession,’ ‘Teenage Sex and Death at Camp Miasma’ Lead BIFAN’s International Competition Selection",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/bifan-2026-competition-lineup-1236613609/",
-          "summary": "Das Bucheon International Fantastic Film Festival (BIFAN) hat die 11-Film-Auswahl für seine internationale Konkurrenz der 30. Edition bekannt gegeben, angeführt von Curry Barkers Psycho-Horror \"Obsession\" und Jane Schoenbrungs Cannes-Beitrag \"Teenage Sex and Death at Camp Miasma\". Die Programmauswahl konzentriert sich stark auf aktuelle Festival-Highlights aus Cannes und Sundance, wobei eine queere Sensibilität und Themen wie Körperhorror und Jugendangst durchgängige Motive darstellen. BIFAN läuft vom 2.-12. Juli in Bucheon und gilt als eine der größten asiatischen Plattformen für Horror-, Fantasy- und Thriller-Kino.",
-          "score": 7
-        },
-        {
           "source": "Variety",
-          "title": "Thierry Fremaux Reflects on Cannes 2026, Hollywood ‘Restructuring,’ ‘Club Kid’ Thriving, Netflix’s Possible Comeback and the Bolloré Controversy",
-          "link": "https://variety.com/2026/film/global/thierry-fremaux-cannes-2026-hollywood-club-kid-netflix-bollore-1236764913/",
-          "summary": "Cannes-Festivaldirektor Thierry Frémaux reflektiert nach dem Abschluss der 79. Filmfestspiele über die anhaltende Relevanz und Wettbewerbsfähigkeit von Cannes trotz weniger Hollywood-Blockbuster und dem Wandel in der Unterhaltungsindustrie. Cristian Mungius politisches Drama \"Fjord\" mit Sebastian Stan gewann die Palme d'Or, während Frémaux betont, dass amerikanisches Kino weiterhin zentral für das Festival bleibt und die USA nach wie vor das zweitstärkste Land in der Filmauswahl darstellen.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "M-Appeal Seals Cannes Deals on ‘Downtown,’ ‘The Garden We Dreamed,’ ‘Truly Naked’ (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/global/m-appeal-cannes-downtown-the-garden-we-dreamed-truly-naked-1236766268/",
-          "summary": "Das Berliner Weltvertriebsunternehmen M-Appeal hat während des Cannes Film Markets internationale Verkaufsabschlüsse für drei Filme erzielt: Michiel van Erps niederländisches Drama \"Downtown\" (verkauft an Dark Star Pictures für Nordamerika und Salzgeber für Deutschland/Österreich), Joaquín del Pasos \"The Garden We Dreamed\" und Muriel d'Ansembourgs \"Truly Naked\". \"Downtown\" behandelt die schwule Nachtclub-Szene im Amsterdam der 1980er Jahre und wird seine Weltpremiere beim Frameline Festival feiern.",
-          "score": 7
+          "title": "SAG-AFTRA Members Approve Four-Year Deal With AI Terms and Pension Merger",
+          "link": "https://variety.com/2026/film/news/sag-aftra-ratification-ai-pension-merger-1236767288/",
+          "summary": "SAG-AFTRA-Mitglieder haben mit 91,4% Zustimmung einen vierjährigen Tarifvertrag ratifiziert, der strenge Beschränkungen für den Einsatz von KI-Darstellern einführt - diese dürfen nur verwendet werden, wenn sie \"erheblichen Zusatznutzen\" gegenüber echten Schauspielern bieten. Der Vertrag baut auf den Errungenschaften des Streiks von 2023 auf und führt zusätzlich eine Fusion der beiden Pensionsfonds der Gewerkschaft durch. Die Gewerkschaftsführung betont, dass die neuen Regelungen KI-Replicas auf wenige Ausnahmefälle beschränken und Schauspieler weiterhin die Kontrolle über die Nutzung ihrer digitalen Abbilder behalten.",
+          "score": 9
         }
       ]
     }
