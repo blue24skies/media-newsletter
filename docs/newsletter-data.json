@@ -1,147 +1,245 @@
 {
   "newsletters": [
     {
-      "date": "2026-06-05",
+      "date": "2026-06-06",
       "articles": [
         {
           "source": "DWDL",
-          "title": "ARD-Dailys \"Sturm der Liebe\" und \"Rote Rosen\" gehen weiter",
-          "link": "https://www.dwdl.de/nachrichten/106733/arddailys_sturm_der_liebe_und_rote_rosen_gehen_weiter/",
-          "summary": "Die ARD verlängert ihre Daily-Soaps \"Sturm der Liebe\" und \"Rote Rosen\" um jeweils 180 Folgen bis 2028, obwohl beide Formate kontinuierlich sinkende lineare Reichweiten verzeichnen und erstmals im einstelligen Marktanteilsbereich liegen. Der WDR-Rundfunkrat genehmigte die Verlängerung hauptsächlich aufgrund der starken Mediathek-Performance beider Serien, die zu den erfolgreichsten ARD-Online-Formaten zählen. Die Produktionsfirmen Bavaria Fiction und Studio Hamburg Serienwerft setzen auf inhaltliche Modernisierung durch Cast-Verjüngung und zeitgemäße Storylines, um dem linearen Abwärtstrend entgegenzuwirken.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Joko & Klaas nutzen Sendezeit für mehrstündige Ukraine-Doku",
-          "link": "https://www.dwdl.de/nachrichten/106726/joko__klaas_nutzen_sendezeit_fuer_mehrstuendige_ukrainedoku/",
-          "summary": "Joko und Klaas nutzten ihre gewonnene Sendezeit bei ProSieben für eine mehrstündige Ukraine-Dokumentation unter dem Motto #dontlookaway, die ausschließlich Menschen aus der Ostukraine selbst zu Wort kommen lässt. Die Doku zeigt den Kriegsalltag von fünf Personen - darunter Soldaten, Zivilisten und medizinisches Personal - komplett in ukrainischer Sprache mit deutschen Untertiteln, ohne dass die Moderatoren selbst auftreten. ProSieben räumte dafür deutlich mehr als die ursprünglich gewonnenen 15 Minuten Sendezeit ein.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "WDR bekommt grünes Licht für \"junge Flotte\" und Cosmo-Aus",
-          "link": "https://www.dwdl.de/nachrichten/106718/wdr_bekommt_gruenes_licht_fuer_junge_flotte_und_cosmoaus/",
-          "summary": "Der WDR-Rundfunkrat hat die Umstrukturierung des jungen Radio-Angebots zur \"Jungen Flotte\" genehmigt, die neben 1Live zwei neue Programme vorsieht: 1Live Lounge als stressfreie Alltagsbegleitung und 1Live Street mit HipHop-Fokus. Gleichzeitig wurde das umstrittene Aus für den Sender Cosmo und dessen fremdsprachige Angebote beschlossen, obwohl dies auf massiven Protest stieß und Fragen zur künftigen Zielgruppenansprache von Menschen mit Migrationsgeschichte offen blieben. Die WDR-Führung begründet die Cosmo-Einstellung mit zu geringer Reichweite des bisherigen Konzepts.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Gewonnene Sendezeit im Duell mit Pro Sieben: Joko und Klaas zeigen Alltag an der ukrainischen Front in Mega-Doku",
-          "link": "https://www.horizont.net/medien/nachrichten/gewonnene-sendezeit-im-duell-mit-pro-sieben-joko-und-klaas-zeigen-alltag-an-der-ukrainischen-front-in-mega-doku-234605?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Joko und Klaas nutzten ihre bei ProSieben gewonnene Sendezeit für die Ausstrahlung der Ukraine-Dokumentation \"#dontlookaway\", die den Alltag an der Front zeigt. Die ursprünglich geplanten 15 Minuten wurden auf über drei Stunden ausgeweitet, was eine außergewöhnliche Programmänderung für den Sender darstellt.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "&quot;Experience Day&quot;: Wie die Verlage den Premieren-Erfolg ihres Gattungsevents toppen wollen",
-          "link": "https://www.horizont.net/medien/nachrichten/experience-day-wie-die-verlage-den-premieren-erfolg-ihres-gattungsevents-toppen-wollen-234536?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die Publikumsverlage planen für den Herbst die zweite Auflage ihres \"Experience Day\"-Events, nachdem die Premiere erfolgreich verlaufen ist. Das Branchenevent soll Publisher-Medien fördern und echte Werbebudgets für die Gattung generieren. Die Verlage arbeiten daran, das Format zu optimieren und den Erfolg der ersten Veranstaltung zu übertreffen.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Machtwort in Großbritannien: Google muss Publishern mehr Kontrolle über ihre Inhalte geben",
-          "link": "https://www.horizont.net/medien/nachrichten/machtwort-in-grossbritannien-google-muss-publishern-mehr-kontrolle-ueber-ihre-inhalte-geben-234603?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die britische Wettbewerbsbehörde CMA hat Google neue Auflagen für dessen KI-Services erteilt, um Publishern mehr Kontrolle über die Nutzung ihrer Inhalte zu gewähren. Als Reaktion führt Google neue Steuerungsmöglichkeiten für Website-Betreiber ein, die perspektivisch global ausgerollt werden sollen.",
+          "title": "\"Among Us\" überraschend bei Paramount+ gestartet",
+          "link": "https://www.dwdl.de/nachrichten/106746/among_us_ueberraschend_bei_paramount_gestartet/",
+          "summary": "Die Animationsserie \"Among Us\", basierend auf dem erfolgreichen Online-Strategiespiel, ist überraschend und ohne vorherige Ankündigung bei Paramount+ mit allen zehn Folgen gestartet. Die von Owen Dennis entwickelte und von CBS Studios produzierte Serie war bereits seit Herbst 2024 fertiggestellt, wartete aber monatelang auf ihre Veröffentlichung. Trotz des enormen Erfolgs des zugrundeliegenden Spiels mit bis zu 500 Millionen monatlich aktiven Nutzern erfolgte der Launch ohne Marketing-Vorlauf.",
           "score": 9
         },
         {
+          "source": "DWDL",
+          "title": "Neue Staffel: \"Inas Nacht\" meldet sich im Sommer zurück",
+          "link": "https://www.dwdl.de/nachrichten/106742/neue_staffel_inas_nacht_meldet_sich_im_sommer_zurueck/",
+          "summary": "\"Inas Nacht\" startet am 16. Juli 2026 mit neuen Folgen donnerstags um 22:50 Uhr im Ersten, mit Barbara Schöneberger und Campino als Gästen der Auftaktshow. Die seit 2007 laufende Kneipen-Talkshow von Beckground TV bleibt bei ihrem bewährten Konzept und erzielt weiterhin hohe Quoten sowie Kritikerpreise. Das Format wird unverändert vor 14 Zuschauern im Hamburger Schellfischposten aufgezeichnet und feiert 2027 sein 20-jähriges Jubiläum.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "ZDF dreht Comedyserie über Wohnungssuche in Berlin",
+          "link": "https://www.dwdl.de/nachrichten/106740/zdf_dreht_comedyserie_ueber_wohnungssuche_in_berlin/",
+          "summary": "Das ZDF produziert die Comedyserie \"Welcome to hell\" (Arbeitstitel) über zwei erfolglose Wohnungssuchende in Berlin, die sich als Fake-Paar ausgeben, um ihre Chancen auf dem umkämpften Wohnungsmarkt zu verbessern. Hauptdarsteller Daniel Popat führt auch Regie, das Drehbuch stammt von Nils Gustenhofen, produziert wird von Syrreal Entertainment. Die Serie entsteht im Rahmen des ZDF-Formats \"Instant Fiction\" mit verkürzten Produktionszeiten, ein Sendetermin steht noch nicht fest.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "ZDF holt Familien-Saga \"The Forsytes\" nach Deutschland",
+          "link": "https://www.dwdl.de/nachrichten/106736/zdf_holt_familiensaga_the_forsytes_nach_deutschland/",
+          "summary": "Das ZDF zeigt ab 15. Juli die sechsteilige Familiensaga \"The Forsytes - Familie verpflichtet\" basierend auf John Galsworthys Literaturklassiker, sowohl im Stream als auch linear bei ZDFneo ab 21:45 Uhr. Die Serie handelt von einer wohlhabenden Londoner Börsenmaklerfamilie im viktorianischen Zeitalter der 1880er Jahre, deren Nachfolgekampf zwischen den rivalisierenden Cousins Soames und Jolyon Jr. die Familienfassade zum Bröckeln bringt. Bereits vor der Premiere wurden eine zweite und dritte Staffel bestellt, womit langfristiger Content gesichert ist.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "BR stellt zwei Radiosender überraschend noch im Juni ein",
+          "link": "https://www.dwdl.de/nachrichten/106719/br_stellt_zwei_radiosender_ueberraschend_noch_im_juni_ein/",
+          "summary": "Der Bayerische Rundfunk stellt die Nischenprogramme BR24 live und BR Verkehr bereits am 16. Juni 2026 ein, früher als ursprünglich für 2027 geplant. Die vorzeitige Einstellung erfolgt aus logistischen Gründen im Rahmen des Umzugs der BR24-Redaktion auf den neuen BR-Campus Freimann und ist Teil der politisch verordneten ARD-Sendereduktion von 69 auf 53 Programme durch den Reformstaatsvertrag.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Mogelpackung\": Widerstand gegen die Einstellung von Cosmo",
+          "link": "https://www.dwdl.de/nachrichten/106705/mogelpackung_widerstand_gegen_die_einstellung_von_cosmo/",
+          "summary": "Der WDR plant ab April 2027 eine Neustrukturierung seiner jungen Radiowellen unter der Marke 1Live, wobei Cosmo und 1Live Diggi eingestellt und durch 1Live Street und 1Live Lounge ersetzt werden sollen. Kritiker werfen dem WDR eine \"Mogelpackung\" vor, da dieser 2025 noch versprochen hatte, zu Cosmo zu stehen, nachdem bereits 70.000 Menschen eine Petition gegen die Abschaltung unterzeichnet hatten. Die Gegner argumentieren, dass ein neuer Mainstream-HipHop-Sender den gesetzlichen Auftrag von Cosmo als altersübergreifendes, interkulturelles Programm nicht erfüllen könne.",
+          "score": 7
+        },
+        {
           "source": "Horizont Medien",
-          "title": "HORIZONT Kongress 2026: Wie Social Media zum Treiber von Wachstum und Desinformation wird",
-          "link": "https://www.horizont.net/medien/nachrichten/horizont-kongress-2026-wie-social-media-zum-treiber-von-wachstum-und-desinformation-wird-234587?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Am HORIZONT Kongress 2026 stand das Spannungsfeld Social Media im Fokus, wobei Chancen und Risiken der Plattformen als Treiber von Wachstum und Desinformation diskutiert wurden. Den überraschendsten Moment lieferte Eckart von Hirschhausen, der spontan aus dem Publikum auf die Bühne kam und ein persönliches Anliegen vortrug.",
+          "title": "Digital Markets Act: Urteil: EU-Einstufung von Metas Messenger ist rechtens",
+          "link": "https://www.horizont.net/medien/nachrichten/digital-markets-act-urteil-eu-einstufung-von-metas-messenger-ist-rechtens-234589?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Das Gericht der Europäischen Union in Luxemburg hat Metas Einstufung als \"Torwächter\" unter dem Digital Markets Act (DMA) für den Messenger-Dienst bestätigt. Gleichzeitig erklärte das Gericht jedoch die frühere DMA-Klassifizierung von Metas Online-Marktplatz \"Marketplace\" für nichtig. Die Entscheidung stärkt die Anwendung des EU-Digitalmarktrechts gegenüber großen Tech-Plattformen bei Kommunikationsdiensten.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Dieter von Holtzbrinck steigt aus: Verlagsgruppe von Holtzbrinck übernimmt Die Zeit komplett",
+          "link": "https://www.horizont.net/medien/nachrichten/dieter-von-holtzbrinck-steigt-aus-verlagsgruppe-von-holtzbrinck-uebernimmt-die-zeit-komplett-234595?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Verlagsgruppe Georg von Holtzbrinck übernimmt ab 2027 die alleinige Kontrolle über die Zeit Verlagsgruppe, nachdem sich das Unternehmen mit dem bisherigen Mit-Gesellschafter Dieter von Holtzbrinck Medien auf dessen Ausstieg geeinigt hat. Damit endet die gemeinsame Beteiligung an der einflussreichen Wochenzeitung \"Die Zeit\" und ihrer Verlagsgruppe.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "OVK-Studie: Wieso User großflächige Werbeformate bevorzugen",
+          "link": "https://www.horizont.net/medien/nachrichten/ovk-studie-wieso-user-grossflaechige-werbeformate-bevorzugen-234525?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die neue OVK-Studie des BVDW zeigt, dass User-Akzeptanz von Onlinewerbung maßgeblich durch Werbeformate, visuelle Gestaltung und die Qualität des Werbeumfelds bestimmt wird. Vermarkter prognostizieren eine zunehmende Bedeutung von \"High Impact\"-Formaten, die durch ihre großflächige Darstellung eine höhere Nutzerakzeptanz erzielen.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Nicht mehr 'kleinkarierte Buchhalter': FAZ.NET startet KI-Suche mit Quellenangaben Die FAZ um Herausgeber Carsten Knop geht einen eigenen Weg bei der KI-Suche: Eigenentwicklung statt Auslagerung an externe Konzerne",
-          "link": "https://kress.de/news/beitrag/153004-nicht-mehr-039-kleinkarierte-buchhalter-039-faz-net-startet-ki-suche-mit-quellenangaben.html",
-          "summary": "Die FAZ.NET hat eine neue KI-gestützte Suchfunktion als Eigenentwicklung gelauncht, die natürlichsprachliche Anfragen versteht und kontextuelle Antworten aus dem redaktionellen Archiv der letzten zwölf Monate liefert. Im Gegensatz zu externen KI-Lösungen setzt die FAZ auf vollständige Transparenz durch integrierte Quellenangaben mit direkten Links zu den Originalartikeln. Die Technologie wurde intern entwickelt und von der FAZ-Tochter 3pc technisch umgesetzt, wodurch keine Abhängigkeit von externen Technologiekonzernen entsteht.",
+          "title": "„Ich kann nicht nett über Höcke schreiben\": Melanie Amann und Ben Berndt ringen um den richtigen Journalismus 560.000 Aufrufe in zwei Wochen",
+          "link": "https://kress.de/news/beitrag/153015-ich-kann-nicht-nett-ueber-hoecke-schreiben-quot-melanie-amann-und-ben-berndt-ringen-um-den-richtigen-journalismus.html",
+          "summary": "Digital-Chefredakteurin Melanie Amann (Funke) diskutiert in ihrem neuen Podcast mit Ben Berndt, Host von „ungeskriptet\", über journalistische Standards im Umgang mit AfD-Politiker Höcke. Amann kritisiert Berndts unkritischen Interviewstil als Verharmlosung extremistischer Positionen, während Berndt sein Konzept authentischer Gespräche ohne intensive journalistische Vorbereitung verteidigt. Das 90-minütige Gespräch erreichte 560.000 Aufrufe und wurde zum erfolgreichsten Podcast-Start in der Funke-Geschichte.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "NOZ-Chefredakteurin Riepe beim European Publishing Congress in Wien",
+          "link": "https://kress.de/news/beitrag/153018-quot-frag-noz-quot-auf-der-buehne-noz-chefredakteurin-riepe-beim-european-publishing-congress-in-wien.html",
+          "summary": "NOZ-Chefredakteurin Louisa Riepe spricht beim European Publishing Congress 2026 in Wien über drei erfolgreiche KI-Anwendungen im Lokaljournalismus: den Chatbot \"Frag NOZ\" (12.000 Fragen in drei Wochen), automatisierte Artikelzusammenfassungen und KI-gestützte Wahlberichterstattung. Der Fokus liegt auf praktischen Erfahrungen und Hürden bei der Implementierung von KI-Tools im redaktionellen Alltag. Riepe verantwortet bei der NOZ/mh:n Mediengruppe Innovationsthemen, Paid Content und digitale Produktentwicklung.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Moser Holding und Russmedia bilden neue Regionalmediengruppe",
+          "link": "https://kress.de/news/beitrag/153017-auch-oesterreich-konsolidiert-moser-holding-und-russmedia-bilden-neue-regionalmediengruppe.html",
+          "summary": "Die österreichischen Medienhäuser Moser Holding (Tiroler Tageszeitung, tt.com, Life Radio Tirol) und Russmedia (Vorarlberger Nachrichten, VOL.AT, Antenne Vorarlberg) fusionieren zu einer neuen Regionalmediengruppe mit insgesamt 1.700 Mitarbeitenden. Russmedia übernimmt 77 Prozent der Anteile, die Regionalbank BTV beteiligt sich mit 23 Prozent, wobei die regionalen Marken und Redaktionen eigenständig erhalten bleiben sollen. Die kartellrechtlich noch zu genehmigende Transaktion wird mit den strukturellen Herausforderungen des Medienmarkts und der Notwendigkeit stärkerer Strukturen für langfristige Unabhängigkeit begründet.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Schon wieder Trouble um die OAZ",
+          "link": "https://kress.de/news/beitrag/153014-schon-wieder-trouble-um-die-oaz-der-verlag-hat-eine-einfache-erklaerung.html",
+          "summary": "Die Ostdeutsche Allgemeine Zeitung (OAZ) von Verleger Holger Friedrich korrigierte die Zahl ihrer gelisteten Autoren von 315 auf 30, nachdem sich mehrere Journalisten beschwert hatten, ohne ihr Wissen als Autoren aufgeführt zu werden. Der Verlag erklärt den Vorfall mit einem technischen Fehler im Content-Management-System, der zu falschen Zuordnungen von Autorenprofilen führte. Betroffene Journalisten wie Miray Caliskan und Martin Rücker kritisierten die unerlaubte Nutzung ihrer Namen zur Seriosität des 2026 gegründeten Magazins.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Holtzbrinck: Jetzt hat Stefan bei der Zeit allein das Sagen",
+          "link": "https://kress.de/news/beitrag/153013-holtzbrinck-jetzt-hat-stefan-bei-der-zeit-allein-das-sagen-dieter-ist-raus.html",
+          "summary": "Dieter von Holtzbrinck überträgt zum 1. Januar 2027 seinen 50-prozentigen Anteil an der Zeit Verlagsgruppe an Stefan von Holtzbrinck, der damit Alleineigentümer wird. Die Transaktion steht unter Kartellvorbehalt und war vertraglich bereits längere Zeit vorgesehen. An den organisatorischen Strukturen der Zeit ändert sich nichts, die Kooperation mit Dieter von Holtzbrincks anderen Medien (Handelsblatt, Tagesspiegel) soll fortgesetzt werden.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Stabwechsel bei UseTheNews: kress-pro-Young-Leader Bitter übernimmt von dpa-Veteran Ellers Meinolf Ellers hat die dpa ins Online-Zeitalter geführt",
+          "link": "https://kress.de/news/beitrag/153011-stabwechsel-bei-usethenews-kress-pro-young-leader-bitter-uebernimmt-von-dpa-veteran-ellers.html",
+          "summary": "Vanessa Bitter (29) übernimmt die Geschäftsführung der dpa-Tochter UseTheNews von Meinolf Ellers, der nach über 40 Jahren bei der dpa in den Ruhestand geht. Die kress-pro-Young-Leader 2024 war seit 2023 bei UseTheNews tätig und zuletzt COO der Nachrichtenkompetenzinitiative. Ellers, der maßgeblich die Digitalisierung der dpa seit Mitte der 1990er Jahre vorantrieb, bleibt der Agentur als freier Mitarbeiter für ausgewählte Projekte erhalten.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Funke gibt Edition F ab: Redaktionsleiterin Heier übernimmt im Management-Buy-out Anne-Kathrin Heier hat Edition F in den vergangenen Jahren maßgeblich geprägt",
+          "link": "https://kress.de/news/beitrag/153012-funke-gibt-edition-f-ab-redaktionsleiterin-heier-uebernimmt-im-management-buy-out.html",
+          "summary": "Funke Medien National Brands hat Edition F im Rahmen eines Management-Buy-outs an Redaktionsleiterin Anne-Kathrin Heier übergeben, die das feministische Online-Magazin in den vergangenen Jahren maßgeblich geprägt hatte. Edition F war 2022 in die Insolvenz geraten und wurde von Funke übernommen, bevor es nun wieder in die Selbstständigkeit entlassen wird. Heier will die Marke als wichtige Stimme für Gleichberechtigung weiterentwickeln und die bestehenden Netzwerke ausbauen.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "kress analysiert: Bubrowskis FAZ-Berufung",
+          "link": "https://kress.de/news/beitrag/153010-kress-analysiert-bubrowskis-faz-berufung-mutiger-schritt-oder-kontrollierte-offensive.html",
+          "summary": "Helene Bubrowski wird Anfang 2027 als erste Frau zur Herausgeberin der FAZ berufen, nachdem sie 2024 zur Chefredakteurin von Table.Media gewechselt war. Die Berufung der 44-Jährigen bringt externe Erfahrungen in das FAZ-System, dessen aktuelle Herausgeber zusammen 134 Dienstjahre im Haus vorweisen. Während die Entscheidung auf den ersten Blick mutig erscheint, deutet die Analyse darauf hin, dass es sich eher um eine \"kontrollierte Offensive\" handelt.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "„An keiner Stelle peinlich\": Medienethiker lobt KI-Enzyklika des Papstes",
+          "link": "https://kress.de/news/beitrag/153008-an-keiner-stelle-peinlich-quot-medienethiker-lobt-ki-enzyklika-des-papstes-und-erklaert-was-medien-daraus-machen-sollten.html",
+          "summary": "Medienethiker Alexander Filipovic lobt die neue KI-Enzyklika von Papst Leo XIV. für ihren „radikalen Gegenwartsbezug\" und das fundierte Technikverständnis, betont jedoch kleinere Schwächen bei der Perspektivenvielfalt. Für Medien formuliert das päpstliche Lehrschreiben eine klare Botschaft zur „radikalen Wahrheitsverpflichtung\" im Umgang mit KI und Fake News. Filipovic sieht Potenzial für gesellschaftliche Wirkung ähnlich der Klimaenzyklika „Laudato Si\", wenn Politik, Gesellschaft und Medien die päpstlichen Impulse aufgreifen.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Schmitter macht Journalismus zur Chefsache: RTL bündelt publizistische Kräfte unter dem CEO RTL News, ntv, stern, GEO, Capital",
+          "link": "https://kress.de/news/beitrag/153007-schmitter-macht-journalismus-zur-chefsache-rtl-buendelt-publizistische-kraefte-unter-dem-ceo.html",
+          "summary": "RTL Deutschland bündelt ab Juni 2026 seine journalistischen Aktivitäten direkt unter CEO Stephan Schmitter, der nun RTL News, ntv und die stern-Gruppe (stern, GEO, Capital, art) verantwortet. Diese Organisationsänderung soll die strategische Bedeutung des Journalismus im Konzern unterstreichen, während die operative Führung bei den bisherigen Managern und Chefredakteuren verbleibt. Schmitter kündigt weitere Investitionen in Journalismus, Qualität und digitale Transformation an.",
+          "score": 9
+        },
+        {
+          "source": "kress",
+          "title": "Klambt-Verleger Rose soll Welte und Heimgartner ablösen Zwei bekannte Gesichter verlassen die...",
+          "link": "https://kress.de/news/beitrag/153003-fuehrungswechsel-beim-zeitschriftenverband-klambt-verleger-rose-soll-welte-und-heimgartner-abloesen.html",
+          "summary": "Der Medienverband der freien Presse (MVFP) steht vor einem Führungswechsel: Lars Joachim Rose, Verleger der Mediengruppe Klambt, soll am 30. Juni 2026 zum neuen Vorstandsvorsitzenden gewählt werden und damit Philipp Welte ablösen, der nach vier Jahren nicht erneut kandidiert. Auch Ladina Heimgartner (Ringier Medien Schweiz) scheidet aus den MVFP-Gremien aus, während für den siebenköpfigen Vorstand weitere Branchenvertreter wie Alfons Schräder (heise group) als Schatzmeister vorgeschlagen wurden.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Erste Kampagne der Partner Wilkinson Sword und Williams-F1-Team Wie Wilkinson Sword in neuer...",
-          "link": "https://meedia.de/news/beitrag/24237-wie-wilkinson-sword-in-neuer-smooth-kampagne-media-und-content-neuartig-verknuepft.html",
-          "summary": "Wilkinson Sword und das Williams-F1-Team haben ihre Anfang 2024 geschlossene Partnerschaft mit der Kampagne „Partners in Smooth\" aktiviert, die Media- und Content-Strategie von Beginn an parallel entwickelt und dabei die bisherige Mediaagentur umgangen hat. Die langfristig angelegte Kampagne kombiniert Storytelling mit Fan-Engagement und läuft über Sky-Sponsoring, Online-Video-Plattformen sowie Creator-Inhalte während der restlichen F1-Saison 2024. Zentrales Element ist ein „Director of Smooth\", der gemeinsam mit Williams-Teamchef James Vowles die Fahrer vor Rennen in „Topform\" bringt und so die Markenpositionierung von Wilkinson Sword als Unterstützer bei der Rennvorbereitung etabliert.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Tipps zum AI Act KI-Kennzeichnung ab August: Was Unternehmen jetzt entscheiden müssen Ab dem 2. August 2026 gilt in der EU eine Kennzeichnungspflicht für bestimmte KI-generierte Inhalte. Für viele Marketingverantwortliche klingt das nach einer abstrakten Regulierungsfrage. In Wirklichkeit ist sie Produktionslogik",
-          "link": "https://meedia.de/news/beitrag/24238-ki-kennzeichnung-ab-august-was-unternehmen-jetzt-entscheiden-muessen.html",
-          "summary": "Ab dem 2. August 2026 gilt in der EU eine Kennzeichnungspflicht für KI-generierte Bilder, Videos und Audioinhalte, die für real gehalten werden könnten. Der AI Act verpflichtet KI-Anbieter zur technischen Markierung ihrer Outputs (Wasserzeichen/Metadaten) und Unternehmen zur sichtbaren, eindeutigen Kennzeichnung bei der Veröffentlichung. Da 40-75% der Menschen KI-generierte Bilder nicht mehr von echten unterscheiden können, müssen Unternehmen ihre Produktionsprozesse entsprechend anpassen.",
+          "title": "Online-Reiseportale geben Milliarden gegen Sichtbarkeitsverlust aus Künstliche Intelligenz gilt als...",
+          "link": "https://meedia.de/news/beitrag/24236-online-reiseportale-geben-milliarden-gegen-sichtbarkeitsverlust-aus.html",
+          "summary": "Online-Reiseportale wie Booking.com, Expedia und Airbnb erhöhten ihre Marketingausgaben im ersten Quartal 2024 auf Milliardenhöhe, um dem drohenden Sichtbarkeitsverlust durch KI-basierte Chatbots und intelligente Assistenten entgegenzuwirken. Die Branche befürchtet, dass KI-Tools künftig Such- und Buchungsprozesse übernehmen könnten, die bisher über die etablierten Plattformen liefen. Paradoxerweise könnten klassische Medien von dieser Entwicklung profitieren, da die OTAs verstärkt in alternative Werbekanäle investieren, um ihre Marktposition zu sichern.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Fast 10 Prozent bei den 14- 49-Jährigen Joko & Klaas zeigen Dokumentation aus der Ostukraine auf ProSieben Mit den Worten „Vor einiger Zeit haben wir Kameras in die Ukraine geschickt und die Menschen gefragt: Was würdet ihr uns über euren Alltag erzählen? Was sollten wir sehen? Das ist es, was sie uns zeigen wollen.“ begann am Donnerstagabend um 20:15 Uhr die Sendung „Joko &amp; Klaas LIVE",
-          "link": "https://meedia.de/news/beitrag/24234-joko-amp-klaas-zeigen-dokumentation-aus-der-ostukraine-auf-prosieben.html",
-          "summary": "Joko & Klaas strahlten am Donnerstagabend statt ihrer üblichen 15-minütigen Sendezeit eine 90-minütige werbefreie Dokumentation über den Alltag von fünf Menschen im ukrainischen Kriegsgebiet auf ProSieben aus. Die Sendung \"#dontlookaway\" erreichte fast 10 Prozent Marktanteil bei den 14-49-Jährigen und ist zusätzlich auf Joyn und YouTube verfügbar. Die Dokumentation zeigt authentische Einblicke in das Leben eines Chirurgen, Polizisten, Drohnenpiloten und weiterer Personen in der Ostukraine.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Next Wave Of European Showrunners Revealed",
-          "link": "https://deadline.com/2026/06/next-wave-of-european-showrunners-borgen-doctor-who-eu-1236941772/",
-          "summary": "Zwölf erfahrene Drehbuchautoren aus neun europäischen Ländern wurden für das EU-geförderte European Showrunner Programme ausgewählt, das von renommierten Showrunnern wie Jeppe Gjervig Gram (Borgen), Chris Chibnall (Doctor Who) und Marianne Wendt (Neumatt) geleitet wird. Das sechsmonatige Programm der Internationale Filmschule Köln zielt darauf ab, das in Europa noch wenig etablierte Showrunner-Konzept zu fördern und erfahrene Serienschreiber für diese Rolle auszubilden. Die Initiative wird durch Creative Europe finanziert und gilt als entscheidend für die Zukunft des europäischen Storytellings in der Serienlandschaft.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Pernel Media Takes ‘Rise And Fall Of’ Franchise To Rome",
-          "link": "https://deadline.com/2026/06/rise-and-fall-of-rome-documentary-pernel-media-1236941749/",
-          "summary": "Pernel Media erweitert seine erfolgreiche \"Rise and Fall\"-Dokumentarfilm-Franchise um \"Rise and Fall of Rome\", das die 1.200-jährige Geschichte des Römischen Reiches mit der zentralen These behandelt, dass Rom nie wirklich untergegangen ist, da seine Gesetze, Sprachen und Institutionen noch heute die Grundlage unserer Welt bilden. Die Serie kombiniert archäologische Aufnahmen vor Ort mit KI-gestützten historischen Rekonstruktionen und wird für den französischen Sender RMC Découverte produziert, während bereits internationale Vertriebsgespräche laufen. Das Franchise hat bereits über 100 Länder erreicht, darunter National Geographic und Disney+ in verschiedenen Territorien.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "HBO’s ‘Harry Potter’ Series Casting Colin Creevey For Season 2",
-          "link": "https://deadline.com/2026/06/hbo-harry-potter-colin-creevey-season-2-1236941766/",
-          "summary": "HBO castete für die zweite Staffel ihrer Harry Potter-Serie die Rolle des Colin Creevey neu, nachdem der Charakter in den ursprünglichen Filmen nach \"Die Kammer des Schreckens\" nicht weitergeführt wurde. Die Casting-Directors Lucy Bevan und Emily Brockmann führen bereits Auditions durch, da Creevey als wiederkehrende Figur in sechs Büchern eine wichtige Rolle in der geplanten vollständigen Buchadaption spielen könnte. Parallel läuft auch das Recasting für Ginny Weasley, nachdem Gracie Cochrane die Serie verlassen hat.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "BBC Studios Sends Karl Warner To L.A. For Global Formats Role",
-          "link": "https://deadline.com/2026/06/bbc-studios-karl-warner-la-global-formats-role-1236941740/",
-          "summary": "BBC Studios ernennt Karl Warner zum EVP Global Creator Partnerships & Creative Development mit Sitz in Los Angeles, wo er globale TV-Formate identifizieren und entwickeln soll. Warner, der zuvor als EVP UK Entertainment bei BBC Studios tätig war, wird als Bindeglied zwischen UK- und internationalen Produktionslabels fungieren und eng mit dem Creator-Inkubator TalentWorks zusammenarbeiten. Die Rolle ist Teil von Zai Bennetts Strategie, BBC Studios globaler auszurichten, nachdem Produktion und Vertrieb unter der neuen BBC Studios Global Content Unit zusammengelegt wurden.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "BBC ‘Newsnight’ Presenter Victoria Derbyshire Faced Workplace Conduct Investigation",
-          "link": "https://deadline.com/2026/06/bbc-newsnight-victoria-derbyshire-conduct-investigation-1236920788/",
-          "summary": "BBC Newsnight-Moderatorin Victoria Derbyshire war Gegenstand einer internen Untersuchung wegen Beschwerden über ihr Verhalten gegenüber Kollegen, nachdem die BBC 2025 Mitarbeiter zur Meldung von Fehlverhalten ermutigte. Die Untersuchung bestätigte keine Mobbing-Vorwürfe, jedoch könnte Derbyshire eine Verwarnung wegen ihres direkten und anspruchsvollen Führungsstils erhalten haben. Die BBC äußert sich nicht zu Einzelfällen, betont aber ihre Null-Toleranz-Politik bei Verhalten, das nicht den Unternehmenswerten entspricht.",
+          "title": "Internationaler Pitch Lidl stellt seine Mediaagenturen auf den Prüfstand Nach Informationen von...",
+          "link": "https://meedia.de/news/beitrag/24235-lidl-stellt-seine-mediaagenturen-auf-den-pruefstand.html",
+          "summary": "Lidl führt eine europaweite Überprüfung seiner Media-Planungs- und Einkaufsmandate durch, von der alle \"Big Five\" Werbeholdings betroffen sind. In Deutschland sind derzeit Havas und Essence Mediacom als Mediaagenturen tätig, während international die Verantwortlichkeiten unterschiedlich auf Netzwerk- und unabhängige Agenturen in über 20 Märkten verteilt sind. Das vom deutschen Procurement geleitete Review legt besonderen Wert auf das Preis-Leistungs-Verhältnis.",
           "score": 7
         },
         {
-          "source": "Deadline",
-          "title": "SAG-AFTRA Members Approve AMPTP Deal",
-          "link": "https://deadline.com/2026/06/sag-aftra-members-approve-amptp-deal-2026-1236941651/",
-          "summary": "SAG-AFTRA-Mitglieder haben mit 91,42% Zustimmung das 2026 TV/Theatrical Agreement mit der AMPTP ratifiziert. Der Vertrag erweitert den Schutz vor KI und digitalen Replikas, verhindert den Ersatz von Schauspielern durch synthetische Technologien und schafft einen Weg zur Zusammenlegung der SAG- und AFTRA-Pensionspläne. Die Vereinbarung beinhaltet zudem Verbesserungen bei Löhnen, Streaming-Residuals und allgemeinen Performer-Schutzmaßnahmen.",
+          "source": "Guardian Media",
+          "title": "Labour will make AI ‘work for the workers’, says Liz Kendall",
+          "link": "https://www.theguardian.com/technology/2026/jun/05/labour-will-make-ai-work-for-workers-liz-kendall",
+          "summary": "Technologieministerin Liz Kendall kündigt an, dass die Labour-Regierung KI so gestalten will, dass sie \"für die Arbeiter\" funktioniert, anstatt Menschen bei der Automatisierung ihrer Jobs im Stich zu lassen. Sie verspricht Unterstützung beim Jobwechsel und passt das £187m TechFirst AI-Trainingsprogramm an, sodass 40% der eine Million angestrebten Kinder aus benachteiligten Schulen kommen. Kendall betont, dass die Regierung die Art der KI-Einführung aktiv beeinflussen kann, um sicherzustellen, dass sie allen Bürgern zugute kommt, nicht nur einer \"mächtigen, nicht rechenschaftspflichtigen Minderheit\".",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Gary Lineker’s Goalhanger named UK’s fastest-growing business",
+          "link": "https://www.theguardian.com/media/2026/jun/05/gary-lineker-goalhanger-fastest-growing-business-podcasts",
+          "summary": "Gary Lineker's Medienunternehmen Goalhanger wurde zum am schnellsten wachsenden Unternehmen Großbritanniens gekürt, mit einem Umsatz von 37,9 Millionen Pfund im Jahr 2025 und einer durchschnittlichen jährlichen Wachstumsrate von 321% über drei Jahre. Das Unternehmen produziert die erfolgreiche \"The Rest is...\"-Podcast-Serie mit über 750 Millionen Hörern und generiert etwa 15 Millionen Pfund jährlich durch 250.000 zahlende Abonnenten. Mit nur 80 Mitarbeitern in London hat Goalhanger seinen Erfolg durch kostenpflichtige Abonnements und Live-Events seit der Pandemie erheblich ausgebaut.",
           "score": 9
         },
         {
           "source": "Deadline",
-          "title": "Hollywood Legal Hustle: Amazon & Vice Smacked With Defamation Suit Over Docuseries On “Millennial Madoff” & $650M Ponzi Scheme",
-          "link": "https://deadline.com/2026/06/hollywood-hustler-docuseries-lawsuit-1236941616/",
-          "summary": "Julio Hallivis, ehemaliger Geschäftspartner des zu einer Haftstrafe verurteilten Betrügers Zach Horwitz (\"Millennial Madoff\"), verklagt Amazon Studios, Vice Studios und Regisseurin Rebecca Chaikin wegen Verleumdung in Zusammenhang mit der Dokuserie \"Hollywood Hustler: Glitz, Glam, Scam\". Hallivis behauptet, er habe nichts von Horwitz' 650-Millionen-Dollar-Ponzi-Schema gewusst und sei lediglich als Produzent tätig gewesen, während die Serie ihn fälschlicherweise als Komplizen darstelle. Die Klage wurde heute vor dem Los Angeles Superior Court eingereicht und fordert Schadensersatz wegen zerstörtem Ruf und Verdienstausfall.",
+          "title": "‘Among Us’ Animated Series Based On Game Drops All Episodes On Paramount+",
+          "link": "https://deadline.com/2026/06/among-us-animated-series-game-release-date-trailer-1236941920/",
+          "summary": "Paramount+ hat überraschend eine zehnteilige Animationsserie basierend auf dem populären Social-Deduction-Spiel \"Among Us\" veröffentlicht, die von Owen Dennis (\"Infinity Train\") entwickelt und von CBS Studios sowie Innersloth produziert wurde. Die Serie mit hochkarätiger Besetzung wie Yvette Nicole Brown, Elijah Wood und Randall Park folgt einer Raumschiff-Crew, die einen Verräter in ihren Reihen identifizieren muss. Das zugrundeliegende Spiel erreichte auf seinem Höhepunkt 2020 fast 500 Millionen monatlich aktive Nutzer und generierte über 4 Milliarden YouTube-Views.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Love Island USA’ Makes Waves Yet Again On Peacock As Season 8 Sets New 3-Day Streaming Record",
+          "link": "https://deadline.com/2026/06/love-island-usa-season-8-premiere-ratings-streaming-record-1236942495/",
+          "summary": "Love Island USA Season 8 hat auf Peacock einen neuen 3-Tage-Streaming-Rekord aufgestellt mit 824 Millionen Minuten Wiedergabezeit (+74% vs. Season 7) und damit die erfolgreichste Peacock-Original-Staffel aller Zeiten in diesem Zeitraum. Die Show zeigt eine überdurchschnittlich hohe Mobile-Nutzung von 23% und generierte bereits über 43 Millionen Social-Media-Video-Views. Nach den Rekorderfolgen von Season 7, die Peacock erstmals an die Spitze der Nielsen-Streaming-Rankings brachte, setzt Season 8 den Aufwärtstrend der Reality-Dating-Show fort.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Reed Hastings Officially Exits Netflix As Shareholder Vote Confirms New Board Chairman",
+          "link": "https://deadline.com/2026/06/reed-hastings-exits-netflix-1236863466/",
+          "summary": "Netflix-Mitgründer Reed Hastings hat nach 29 Jahren offiziell alle Verbindungen zum Unternehmen beendet, nachdem die Aktionäre Jay Hoag zum neuen Vorstandsvorsitzenden gewählt haben. Hastings war bereits 2023 als CEO zurückgetreten und hatte seitdem als Executive Chairman fungiert, bevor er sich nun vollständig zurückzieht, um sich auf Immobilienprojekte und Philanthropie zu konzentrieren. Laut SEC-Unterlagen erfolgt der Abgang einvernehmlich und ohne Meinungsverschiedenheiten mit dem Unternehmen.",
           "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "SAG-AFTRA Ratifies Four-Year Deal With Studios and Streamers",
-          "link": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-ratifies-4-year-deal-studios-1236613908/",
-          "summary": "SAG-AFTRA-Mitglieder haben den vierjährigen Tarifvertrag mit Studios und Streamern mit 91,42% Zustimmung ratifiziert, nachdem die Verhandlungen im Mai abgeschlossen wurden. Der Vertrag bringt Verbesserungen bei Vergütung, KI-Schutzbestimmungen und Sozialleistungen und steht im Kontrast zu den konfliktreichen Verhandlungen von 2023, die zu einem 118-tägigen Streik führten. Die Studios sicherten sich diesmal einen längeren vierjährigen Deal statt der üblichen dreijährigen Laufzeit, um Arbeitsstabilität zu gewährleisten.",
+          "title": "Run-A-Muck Pushes Into Short Stories With Sights Set on Adaptation",
+          "link": "https://www.hollywoodreporter.com/business/digital/run-a-muck-drafting-short-stories-adaptation-1236615201/",
+          "summary": "Das Media-Startup Run-A-Muck von Condé Nast-Alumna Pamela Drucker Mann erweitert sein ad-finanziertes Kultur- und Mode-Substack \"Drafting\" um Kurzgeschichten und setzt dabei auf deren Potenzial als IP-Quelle für Film-, TV- und Multimedia-Adaptionen. Bereits etablierte Autoren wie Cody Behan (Netflix-Adaption \"The Decorator\") und Abbott Elementary-Autorin Brittani Nichols haben sich der Plattform angeschlossen. Die sieben Monate alte Publikation erreicht über 50.000 monatliche Leser und hat Premium-Advertiser wie Hermès, Moncler und eBay gewonnen.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Tonys: Apple TV, Backer of ‘Schmigadoon!’ on Screen and Stage, Poised to Become Fastest Streamer to an EGOT",
+          "link": "https://www.hollywoodreporter.com/lifestyle/arts/tonys-2026-apple-tv-schmigadoon-egot-fastest-streamer-1236615095/",
+          "summary": "Apple TV+ könnte mit einem Tony-Gewinn für \"Schmigadoon!\" (12 Nominierungen) als schnellster Streaming-Dienst ein EGOT komplettieren - nur 6,5 Jahre nach dem Launch im November 2019. Dies würde den bisherigen Rekord von Netflix um fast sechs Jahre unterbieten, nachdem Apple bereits Emmys (2020), Oscars (2022) und Grammys (2024) gewonnen hat. \"Schmigadoon!\" ist die Broadway-Adaption der Emmy-prämierten TV-Serie, die Apple sowohl als TV-Show produzierte als auch als Ko-Produzent der Bühnenversion fungiert.",
+          "score": 10
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "“Unlike Anything That’s Ever Been Done on Television Before”: ‘House of the Dragon’ Battle Secrets Revealed at SXSW London",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/house-of-the-dragon-battle-secrets-season-3-sxsw-london-1236614904/",
+          "summary": "Die dritte Staffel von \"House of the Dragon\" (Premiere 21. Juni) wird mit der Schlacht um die Bucht (\"Battle of the Gullet\") bereits in der ersten Episode das bisher aufwendigste Fernsehspektakel der Serie präsentieren, mit einem neuen Weltrekord von 23 gleichzeitig angezündeten Stuntpersonen in einer Einstellung. Showrunner Ryan Condal beschreibt die Sequenzen als \"anders als alles, was jemals im Fernsehen gemacht wurde\" und verspricht eine beispiellose Darstellung der blutigsten Seeschlacht in der Geschichte von Westeros. Die Produktion setzte dabei massive Ressourcen ein, darunter 15.000 Statisten, 3.500 Requisiten und 25 Tonnen Propangas.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "‘Love Island USA’ Season 8 Cast Revealed",
+          "link": "https://www.hollywoodreporter.com/lists/love-island-usa-season-8-cast/",
+          "summary": "Peacock hat den Cast für die achte Staffel von \"Love Island USA\" bekannt gegeben, die am 2. Juni mit Ariana Madix als Gastgeberin startete. Die Reality-Dating-Serie wurde zur meistgesehenen Originalserie des Streamers, wobei Staffel 7 über sechs Wochen 18,4 Milliarden Minuten Watchtime generierte. Die neue Staffel wird täglich während der Premierenwoche und anschließend von Donnerstag bis Dienstag ausgestrahlt, ergänzt durch die samstägliche Aftershow \"Love Island Aftersun\".",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "‘Among Us’ Surprise: Animated TV Show Drops on Paramount+",
+          "link": "https://variety.com/2026/tv/news/among-us-tv-show-surprise-drops-paramount-1236767821/",
+          "summary": "Paramount+ hat überraschend alle 10 Episoden der animierten TV-Serie \"Among Us\" basierend auf dem populären Videospiel veröffentlicht, nachdem es seit 2024 praktisch keine Updates zum Projekt gegeben hatte. Die Serie von Creator Owen Dennis wird vom Animationsstudio Titmouse produziert und verfügt über eine hochkarätige Sprecherbesetzung mit u.a. Yvette Nicole Brown, Elijah Wood, Randall Park und Dan Stevens. Die Ankündigung erfolgte überraschend auf dem Summer Game Fest in Los Angeles durch die Serienstars Brown und Liv Hewson.",
           "score": 9
         },
         {
           "source": "Variety",
-          "title": "SAG-AFTRA Members Approve Four-Year Deal With AI Terms and Pension Merger",
-          "link": "https://variety.com/2026/film/news/sag-aftra-ratification-ai-pension-merger-1236767288/",
-          "summary": "SAG-AFTRA-Mitglieder haben mit 91,4% Zustimmung einen vierjährigen Tarifvertrag ratifiziert, der strenge Beschränkungen für den Einsatz von KI-Darstellern einführt - diese dürfen nur verwendet werden, wenn sie \"erheblichen Zusatznutzen\" gegenüber echten Schauspielern bieten. Der Vertrag baut auf den Errungenschaften des Streiks von 2023 auf und führt zusätzlich eine Fusion der beiden Pensionsfonds der Gewerkschaft durch. Die Gewerkschaftsführung betont, dass die neuen Regelungen KI-Replicas auf wenige Ausnahmefälle beschränken und Schauspieler weiterhin die Kontrolle über die Nutzung ihrer digitalen Abbilder behalten.",
-          "score": 9
+          "title": "‘Love Island USA’ Season 8 Is Peacock’s Most-Watched TV Debut Ever, With 23% of Viewership on Phones and Tablets",
+          "link": "https://variety.com/2026/tv/news/love-island-usa-season-8-ratings-peacock-1236768282/",
+          "summary": "\"Love Island USA\" Season 8 erzielte mit 824 Millionen Minuten in den ersten drei Tagen den erfolgreichsten Serienstart in Peacocks Geschichte und übertraf die Vorjahresstaffel um 74%. Bemerkenswert ist der hohe Mobile-Anteil von 23% der Zuschauer auf Smartphones und Tablets, was den höchsten Wert für eine Peacock-Originalserie zum Launch darstellt.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "15 Best New Movies to Streaming in June 2026: ‘Avatar: Fire and Ash,’ ‘Hoppers,’ ‘Forbidden Fruits’ and More",
+          "link": "https://variety.com/lists/best-movies-streaming-june-2026/",
+          "summary": "Disney+ dominiert den Juni 2026 mit James Camerons \"Avatar: Fire and Ash\" (1,4 Milliarden Dollar Box Office) und Pixars \"Hoppers\" nach erfolgreichen Kinostarts. Netflix setzt auf die romantische Komödie \"Office Romance\" mit Jennifer Lopez und Brett Goldstein als Sommerhit. Beide Plattformen positionieren sich mit hochkarätigen Post-Theatrical-Releases für die Streaming-Charts.",
+          "score": 8
         }
       ]
     }
