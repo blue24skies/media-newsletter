@@ -1,119 +1,210 @@
 {
   "newsletters": [
     {
-      "date": "2026-06-07",
+      "date": "2026-06-08",
       "articles": [
         {
           "source": "DWDL",
-          "title": "TV-Comeback: Kurt Krömer bekommt neue Show im ZDF",
-          "link": "https://www.dwdl.de/nachrichten/106735/tvcomeback_kurt_kroemer_bekommt_neue_show_im_zdf/",
-          "summary": "Kurt Krömer kehrt mit der neuen Show \"Krömers letzte Stunde\" ins Fernsehen zurück und wechselt dabei überraschend vom RBB zum ZDF/ZDFneo. Die von btf produzierte Talkshow mit vier Folgen soll eine Mischung aus Gesprächen und Spielen mit jeweils zwei Gästen bieten, nachdem Krömer seine erfolgreiche RBB-Show \"Chez Krömer\" Ende 2022 nach 41 Folgen beendet hatte.",
+          "title": "ARD setzt im Sommer auf \"Das versunkene Dorf\"",
+          "link": "https://www.dwdl.de/nachrichten/106755/ard_setzt_im_sommer_auf_das_versunkene_dorf/",
+          "summary": "Die ARD zeigt ab 17. Juli in der Mediathek und ab 26. Juli linear die sechsteilige deutsch-französische Krimiserie \"Surface - Das versunkene Dorf\" mit Laura Smet und Tomer Sisley, basierend auf Olivier Noreks Bestseller. Die Serie folgt einer verletzten Pariser Polizistin, die in der südfranzösischen Provinz ein Kinderskelett in einem Chemiefass aus einem Stausee untersucht. Produziert wurde die internationale Koproduktion unter anderem in Europas größtem Wassertank in Belgien, wobei Hauptdarstellerin Smet alle Tauchszenen selbst übernahm.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Arno Müllers Nachfolger bei 104.6 RTL ist gefunden",
-          "link": "https://www.dwdl.de/nachrichten/106720/arno_muellers_nachfolger_bei_1046_rtl_ist_gefunden/",
-          "summary": "Jan Lohan (27) übernimmt ab 29. Juni die Morgensendung bei 104.6 RTL als Nachfolger des langjährigen Moderators Arno Müller, der nach 35 Jahren seinen Abschied angekündigt hat. Der gebürtige Berliner wechselt von Radio Potsdam, wo er seit 2022 die Morgenshow moderierte, und soll die Sendung unter dem neuen Titel \"Die Morgencrew - Berlins und Brandenburgs lustigste Morgenshow\" modern und digital ausrichten. Müller wird seine letzte Sendung am 26. Juni moderieren und sich danach bis Jahresende auf die Übergabe seiner Programmdirektor-Aufgaben konzentrieren.",
+          "title": "Tarifverhandlungen: WDR wird am Montag erneut bestreikt",
+          "link": "https://www.dwdl.de/nachrichten/106756/tarifverhandlungen_wdr_wird_am_montag_erneut_bestreikt/",
+          "summary": "WDR-Mitarbeiter streiken am Montag erneut aufgrund stockender Tarifverhandlungen, nachdem bereits vier Verhandlungsrunden ohne Ergebnis verliefen. Der Sender bietet eine Nullrunde für 2026 und je 1% Erhöhung ab 2027/2028 (bei Beitragserhöhung 2%), während ver.di 7% bzw. mindestens 300€ monatlich fordert und die VRFF auf gestiegene Lebenshaltungskosten verweist. Die fünfte Verhandlungsrunde ist für Dienstag angesetzt, die Gewerkschaften erwarten jedoch nur marginal verbesserte Angebote.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "US-Bundesstaaten klagen wohl gegen WBD-Übernahme",
+          "link": "https://www.dwdl.de/nachrichten/106753/usbundesstaaten_klagen_wohl_gegen_wbduebernahme_/",
+          "summary": "Mehrere US-Bundesstaaten, darunter Kalifornien und New York, bereiten laut Reuters eine Kartellklage gegen die geplante Übernahme von Warner Bros. Discovery durch Paramount Skydance vor, die in den kommenden Wochen eingereicht werden soll. Selbst bei einem Scheitern der Klage könnte diese den Deal um Monate verzögern und Paramount täglich 6,9 Millionen Dollar Entschädigung kosten, falls die Übernahme nicht bis Oktober abgeschlossen wird. Auf Bundesebene wird weniger Widerstand erwartet, auch aufgrund der engen Beziehungen von Oracle-Mitgründer Larry Ellison zu Präsident Trump.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Markus Schäfer bleibt an der Spitze von ZDF Studios",
+          "link": "https://www.dwdl.de/nachrichten/106749/markus_schaefer_bleibt_an_der_spitze_von_zdf_studios/",
+          "summary": "Markus Schäfer wurde als Sprecher der Geschäftsführung von ZDF Studios bis 2030 bestätigt und führt gemeinsam mit Co-Geschäftsführerin Karoline Meichsner-Sertl die privatwirtschaftliche ZDF-Tochter mit über 30 Beteiligungen in Produktion, Distribution und Services. Unter ihrer Leitung wurde die Unternehmensgruppe organisatorisch neu strukturiert mit Fokus auf gruppenweite Synergien, trotz jüngster Verluste durch die Insolvenz der niederländischen Beteiligung Off the Fence.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "Grasmück oder Dinges: Wer führt künftig den SR?",
+          "link": "https://www.dwdl.de/nachrichten/106738/grasmueck_oder_dinges_wer_fuehrt_kuenftig_den_sr/",
+          "summary": "Der Rundfunkrat des Saarländischen Rundfunks wählt am Montag zwischen dem amtierenden Intendanten Martin Grasmück und dem FFA-Chef Peter Dinges für die Amtszeit 2027-2033. Dinges, gebürtiger Saarbrücker und seit über 20 Jahren Leiter der nationalen Filmförderung, positioniert sich als externen Kandidaten für einen Strukturwandel beim SR, würde allerdings erst im Rentenalter antreten. Trotz fehlender Programmerfahrung sieht er seine Außenperspektive als Vorteil und will zunächst zuhören, bevor er konkrete Pläne entwickelt.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Giovanni di Lorenzo und Nils von der Kall beim HORIZONT Kongress: KI als Chance: Warum starke Marken wie die &quot;Zeit&quot; jetzt profitieren",
-          "link": "https://www.horizont.net/medien/nachrichten/giovanni-di-lorenzo-und-nils-von-der-kall-beim-horizont-kongress-ki-als-chance-warum-starke-marken-wie-die-zeit-jetzt-profitieren-234596?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Giovanni di Lorenzo und Nils von der Kall präsentierten beim HORIZONT-Kongress ihre Strategie, wie die 80 Jahre alte Medienmarke \"Zeit\" durch den Einsatz von KI ihre Relevanz in der sich wandelnden Medienbranche sichert. Sie positionieren Künstliche Intelligenz als Chance für etablierte, starke Marken, um sich im digitalen Wandel zu behaupten.",
+          "title": "#dontlookaway&quot; statt Sommermärchen: Pro Sieben und Joko &amp; Klaas zeigen Haltung in der Primetime",
+          "link": "https://www.horizont.net/medien/kommentare/dontlookaway-statt-sommermaerchen-pro-sieben-und-joko--klaas-zeigen-haltung-in-der-primetime-234621?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "ProSieben strahlte mit \"Joko & Klaas Live – #dontlookaway\" eine primetime Sendung aus, die gesellschaftliche Haltung über kommerzielle Interessen stellte. Der Sender verzichtete dabei bewusst auf Werbeeinnahmen eines ganzen Abends, um maximale Reichweite für relevante gesellschaftliche Themen zu nutzen. Dies wird als seltenes Beispiel für werteorientiertes Fernsehen jenseits reiner Unterhaltung bewertet.",
           "score": 10
         },
         {
           "source": "Horizont Medien",
-          "title": "Mediahouse Berlin: Wie Rolling Stone und Musikexpress ihre Fans bei der Stange halten",
-          "link": "https://www.horizont.net/medien/nachrichten/mediahouse-berlin-wie-rolling-stone-und-musikexpress-ihre-fans-bei-der-stange-halten-234533?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Michael Reiner, Geschäftsführer des Mediahouse Berlin, erläutert die Strategien zur Digitalisierung und Leserbindung der traditionsreichen Musikmagazine Rolling Stone, Musikexpress und Metal Hammer. Der Verlag setzt dabei verstärkt auf Events und plant den Ausbau von Paid Content-Angeboten. Seit der Trennung von Axel Springer vor drei Jahren entwickelt sich das Unternehmen eigenständig weiter.",
+          "title": "Giovanni di Lorenzo und Nils von der Kall: KI als Chance: Warum starke Marken wie Die Zeit jetzt profitieren",
+          "link": "https://www.horizont.net/medien/nachrichten/giovanni-di-lorenzo-und-nils-von-der-kall-beim-horizont-kongress-ki-als-chance-warum-starke-marken-wie-die-zeit-jetzt-profitieren-234596?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Zeit-Chefredakteur Giovanni di Lorenzo und CEO Nils von der Kall sehen KI als strategische Chance für etablierte Medienmarken und erklärten beim HORIZONT-Kongress, wie die 80 Jahre alte Marke \"Die Zeit\" durch den technologischen Wandel profitieren kann. Starke, vertrauensvolle Medienmarken können ihrer Ansicht nach im permanenten Branchenumbruch besonders von KI-Technologien profitieren, um ihre Relevanz zu erhalten und auszubauen.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Chefredakteurin Abdelaziz-Ditzow räumt mit dem Neutralitätsmythos im Journalismus auf: Gastbeitrag zur Amann/Berndt-Debatte Immer mehr Bürger fordern „neutralen\" Journalismus",
+          "link": "https://kress.de/news/beitrag/153019-chefredakteurin-abdelaziz-ditzow-raeumt-mit-dem-neutralitaetsmythos-im-journalismus-auf-gastbeitrag-zur-amann-berndt-debatte.html",
+          "summary": "Mary Abdelaziz-Ditzow, Chefredakteurin bei Finanzfluss, argumentiert in einem Gastbeitrag für kress.de, dass journalistische Neutralität weder gefordert noch möglich ist und räumt damit mit einem verbreiteten Mythos auf. Ihr Beitrag bezieht sich auf die kontroverse Debatte zwischen Funke-Digital-Chefredakteurin Melanie Amann und Podcast-Host Ben Berndt über die Rolle von Neutralität versus Einordnung im modernen Journalismus. Die Diskussion reflektiert eine grundsätzliche Spannungsfeld zwischen der öffentlichen Forderung nach neutraler Berichterstattung und der journalistischen Praxis der Einordnung und Bewertung.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Warum Leidenschaft für den Job kein Luxus ist",
+          "title": "Wie „Politiken\" die digitale Transformation geschafft hat",
+          "link": "https://kress.de/news/beitrag/153021-wie-politiken-quot-die-digitale-transformation-geschafft-hat-die-preisgekroenten-macher-erklaeren-es-beim-european-publishing-congress-in-wien.html",
+          "summary": "Die dänische Zeitung Politiken wurde 2026 als „European Digital Publisher of the Year\" ausgezeichnet und präsentiert beim European Publishing Congress in Wien ihre erfolgreiche digitale Transformation. Das Medienhaus hat einen konsequenten „Digital first\"-Workflow eingeführt, Ressourcen von Print zu Digital verlagert und die Newsroom-Kultur grundlegend neu gestaltet, während gleichzeitig eine hochwertige Printausgabe erhalten blieb. Die Jury würdigte besonders die Verbindung von journalistischer Qualität, Tiefe und Integrität mit innovativem visuellem Storytelling.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "\"Frag NOZ\" auf der Bühne: NOZ-Chefredakteurin Riepe beim European Publishing Congress in Wien 12.000 Fragen in drei Wochen",
+          "link": "https://kress.de/news/beitrag/153018-quot-frag-noz-quot-auf-der-buehne-noz-chefredakteurin-riepe-beim-european-publishing-congress-in-wien.html",
+          "summary": "NOZ-Chefredakteurin Louisa Riepe präsentiert beim European Publishing Congress 2026 in Wien drei erfolgreiche KI-Anwendungen im Lokaljournalismus: den Chatbot „Frag NOZ\" mit 12.000 Nutzeranfragen in drei Wochen, automatisierte Artikelzusammenfassungen und KI-gestützte Wahlberichterstattung. Der Vortrag fokussiert auf praktische Erfahrungen und Hürden beim Einsatz von KI-Tools in der redaktionellen Praxis der NOZ/mh:n Mediengruppe.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Berufliche Motivation: Warum Leidenschaft für den Job kein Luxus ist Wer beruflich vorankommen, überzeugen und zufrieden sein will, muss sich stärker als andere einbringen. Das erfordert Leidenschaft für das, was man jeden Tag tut",
           "link": "https://kress.de/news/beitrag/153016-berufliche-motivation-warum-leidenschaft-fuer-den-job-kein-luxus-ist.html",
-          "summary": "Karrierecoach Attila Albert argumentiert, dass berufliche Leidenschaft kein Luxus, sondern ein entscheidender Erfolgsfaktor ist, der gerade in wirtschaftlich schwierigen Zeiten Wettbewerbsvorteile verschafft. Leidenschaft verleiht der Arbeit tieferen Sinn, macht bei Bewerbungen und Projektvorschlägen überzeugender und hilft dabei, Hindernisse kraftvoller zu überwinden. Dies gilt besonders für den Medienwandel und für Freiberufler, die als Unternehmer agieren müssen.",
+          "summary": "Der Artikel argumentiert, dass berufliche Leidenschaft kein Luxus, sondern essentiell für Karriereerfolg und persönliche Zufriedenheit ist, besonders in wirtschaftlich unsicheren Zeiten. Leidenschaft verschafft Wettbewerbsvorteile bei Bewerbungen und Projekten, da sie zu überzeugenderem Auftreten und entschlossenerer Umsetzung führt. Dies gilt sowohl für Angestellte als auch für Freiberufler, die als Unternehmer agieren und mit Herausforderungen wie Akquise umgehen müssen.",
           "score": 7
         },
         {
           "source": "kress",
           "title": "Schmitter macht Journalismus zur Chefsache: RTL bündelt publizistische Kräfte unter dem CEO RTL News, ntv, stern, GEO, Capital",
           "link": "https://kress.de/news/beitrag/153007-schmitter-macht-journalismus-zur-chefsache-rtl-buendelt-publizistische-kraefte-unter-dem-ceo.html",
-          "summary": "RTL Deutschland bündelt ab Juni 2026 seine journalistischen Aktivitäten (RTL News, ntv, stern-Gruppe mit stern, GEO, Capital) direkt unter CEO Stephan Schmitter, um ein strategisches Zeichen für die Bedeutung des Journalismus im Konzern zu setzen. Die operative Führung bleibt bei den bisherigen Geschäftsführern und Chefredakteuren, während Schmitter weitere Investitionen in Journalismus und Qualität ankündigt. Diese Neustrukturierung unterstreicht RTLs Positionierung von Journalismus als \"Rückgrat\" des Unternehmens in Zeiten gesellschaftlicher Unsicherheit.",
+          "summary": "RTL Deutschland bündelt ab Juni 2026 seine journalistischen Bereiche RTL News, ntv und die stern-Gruppe (stern, GEO, Capital, art) direkt unter CEO Stephan Schmitter, um ein strategisches Zeichen für die Bedeutung des Journalismus im Konzern zu setzen. Die operative Führung bleibt bei den bisherigen Geschäftsführern und Chefredakteuren bestehen. Schmitter kündigt weitere Investitionen in Journalismus, Qualität und digitale Transformation an und bezeichnet Journalismus als \"Rückgrat von RTL Deutschland\".",
           "score": 10
         },
         {
-          "source": "kress",
-          "title": "Klambt-Verleger Rose soll Welte und Heimgartner ablösen Zwei bekannte Gesichter verlassen die...",
-          "link": "https://kress.de/news/beitrag/153003-fuehrungswechsel-beim-zeitschriftenverband-klambt-verleger-rose-soll-welte-und-heimgartner-abloesen.html",
-          "summary": "Der Medienverband der freien Presse (MVFP) steht vor einem Führungswechsel: Lars Joachim Rose, Verleger der Mediengruppe Klambt, soll am 30. Juni 2026 zum neuen Vorstandsvorsitzenden gewählt werden und damit Philipp Welte ablösen, der nach vier Jahren nicht erneut kandidiert. Auch Ladina Heimgartner (Ringier Medien Schweiz) scheidet aus den MVFP-Gremien aus, während für den siebenköpfigen Vorstand weitere Kandidaten aus namhaften Verlagshäusern wie heise group, Spiegel-Verlag und BurdaVerlag vorgeschlagen wurden.",
-          "score": 8
+          "source": "meedia",
+          "title": "Eine WM-Vorschau von Holger Hansen, Publicis Prime Time ist tot.",
+          "link": "https://meedia.de/news/beitrag/24246-prime-time-ist-tot-warum-der-fifa-world-cup-2026-zur-always-on-wm-wird.html",
+          "summary": "Die Fußball-WM 2026 wird mit 48 Teams, 104 Spielen und drei Gastgeberländern (USA, Kanada, Mexiko) zur bisher größten WM, wobei die Zeitverschiebung deutsche Zuschauer zwingt, viele Spiele nachts oder am frühen Morgen zu verfolgen. Publicis-Experte Holger Hansen prognostiziert einen Paradigmenwechsel im Sportmarketing: Weg von der klassischen Prime-Time-Fokussierung hin zu kontinuierlichen \"Always-On\"-Kampagnen, da viele Spiele erst am Folgetag als Highlights, Clips oder Memes konsumiert werden. Dies erfordert von Marken ein Umdenken von punktuellen Event-Spots zu dauerhaften Kampagnenstrategien über mehrere Wochen.",
+          "score": 7
         },
         {
           "source": "meedia",
-          "title": "„Strukturelle Veränderungen“ gab der Discounter als Grund für den Abschied an.",
-          "link": "https://meedia.de/news/beitrag/24239-ex-aldi-marketingleiter-marco-ganser-ist-bei-netto-schnell-wieder-aufgetaucht.html",
-          "summary": "Marco Ganser, ehemaliger Marketingleiter von Aldi Süd, ist nach seinem Abschied im April aufgrund \"struktureller Veränderungen\" zum 1. Juni als Leiter Marketing Strategie & Transformation zu Netto Marken-Discount gewechselt. Der Wechsel erfolgte vor dem Hintergrund von Sparmaßnahmen bei Aldi Süd, während Ganser bei der Edeka-Tochter Netto die Markenpositionierung in einem zunehmend homogenen Discount-Markt stärken will. Netto verfügt über rund 4.430 Filialen, 88.500 Beschäftigte und erzielt einen Umsatz von 17,6 Milliarden Euro.",
-          "score": 8
+          "title": "“Aus wettbewerblicher Sicht unbedenklich” NOZ darf \"Wilhelmshavener Zeitung\" und \"Jeversches...",
+          "link": "https://meedia.de/news/beitrag/24243-noz-darf-quot-wilhelmshavener-zeitung-quot-und-quot-jeversches-wochenblatt-quot-uebernehmen.html",
+          "summary": "Das Bundeskartellamt hat die Übernahme einer Mehrheitsbeteiligung (50,01%) am Medienhaus BruneMettecker durch die NOZ/mh:n-Gruppe genehmigt, da sich die Verbreitungsgebiete nicht überlappen und somit kein Wettbewerbsverhältnis besteht. BruneMettecker verlegt die \"Wilhelmshavener Zeitung\" und das \"Jeversche Wochenblatt\" in Nordost-Ostfriesland, während die NOZ-Gruppe mit der \"Neuen Osnabrücker Zeitung\" und weiteren Titeln in anderen Regionen aktiv ist. Die Übernahme erfolgte nach der Übernahme des bisherigen Partners \"Nordwest-Zeitung\" durch die Madsack-Gruppe.",
+          "score": 7
         },
         {
           "source": "meedia",
-          "title": "\"Ich träume mich nach Ecuador\" Was tun Branchenpersönlichkeiten nach Feierabend?&nbsp;Wofür geben...",
-          "link": "https://meedia.de/news/beitrag/24240-verena-gruendel-quot-ich-traeume-mich-nach-ecuador-quot.html",
-          "summary": "Verena Gründel, Gastgeberin und Director Brand & Communications der DMEXCO, wurde vom STRIVE Magazine in die Liste der 100 einflussreichsten Frauen Deutschlands aufgenommen. Sie pendelt zwischen Köln und München, nutzt Zugfahrten für Fokusarbeit und lehnt die strikte Trennung von Work-Life-Balance ab. Ihre Hobbys Wandern und Motorradfahren kommen derzeit aufgrund ihres vollen Terminkalenders zu kurz.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "‘Free of the shackles’: Michael Grade’s GB News defence raises concerns over relaxing of Ofcom rules",
-          "link": "https://www.theguardian.com/media/2026/jun/06/michael-grade-ofcom-watchdog-impartiality-rules-gb-news",
-          "summary": "Michael Grade, der ehemalige Ofcom-Vorsitzende, hat nach seinem Rücktritt in provokanten Interviews GB News verteidigt und behauptet, der rechte Sender spreche \"für die Agenda der Mehrheit\" bei Themen wie Brexit und Immigration. Grade argumentierte, dass die Einhaltung von Rundfunkregeln \"nicht schwierig\" sei und \"manchmal nur einen Satz im Skript\" erfordere, während er sogar vorschlug, Politiker könnten BBC-Sendungen moderieren. Ehemalige Regulierungsbeamte äußern Bedenken über Grades Äußerungen und sehen darin ein Missverständnis der Unparteilichkeitsregeln für britische Rundfunkanbieter.",
+          "title": "Dreieinhalb Jahre nach RBB-Abschied Neue ZDFneo-Show: Kurt Krömer kehrt ins Fernsehen zurück Vor...",
+          "link": "https://meedia.de/news/beitrag/24242-neue-zdfneo-show-kurt-kroemer-kehrt-ins-fernsehen-zurueck.html",
+          "summary": "Kurt Krömer kehrt dreieinhalb Jahre nach dem Ende seiner RBB-Show \"Chez Krömer\" mit dem neuen Format \"Krömers letzte Stunde\" ins Fernsehen zurück, das bei ZDFneo und im ZDF-Streaming-Portal ausgestrahlt wird. Die von btf produzierte Show umfasst zunächst vier Folgen und kombiniert Talk mit Spielelementen, wobei Krömer pro Folge zwei Gäste empfängt. Seine vorherige Show hatte er 2022 wegen psychischer Belastung durch konfrontative Gespräche mit unliebsamen Gästen beendet.",
           "score": 8
         },
         {
           "source": "Guardian Media",
-          "title": "Bob Harris steps down from BBC Radio 2 shows because of ill health",
-          "link": "https://www.theguardian.com/media/2026/jun/04/bob-harris-steps-down-bbc-radio-2-shows-health-cancer-treatment",
-          "summary": "Bob Harris, der 80-jährige BBC Radio 2-Moderator von \"The Country Show\" und \"Sounds of the 70s\", tritt nach 30 Jahren beim Sender zurück, um sich auf seine Genesung zu konzentrieren. Der als \"Whispering Bob\" bekannte Radiojournalist leidet an Prostatakrebs, der sich in seine Wirbelsäule ausgebreitet hat und ihn zu einer zweiwöchigen Krankenhausbehandlung mit Strahlentherapie zwang. Harris bezeichnete den Rückzug als \"eine der schwierigsten Entscheidungen seines Lebens\", da er sich vollständig auf seine Genesung fokussieren möchte.",
-          "score": 7
+          "title": "Confessions of a political liveblogger: ‘I enjoy it professionally – but, as a citizen, you can think the country’s going to hell in a handcart’",
+          "link": "https://www.theguardian.com/membership/2026/jun/07/confessions-of-political-liveblogger",
+          "summary": "Andrew Sparrow, der seit über 15 Jahren den täglichen Politik-Live-Blog des Guardian schreibt, berichtete diese Woche über die Veröffentlichung der \"Mandelson-Akten\" - eine der größten Regierungsdokument-Enthüllungen in der britischen Politikgeschichte. Die über 1.000 Dokumente beziehen sich auf Peter Mandelsons gescheiterte Ernennung zum US-Botschafter, der nach Enthüllungen über seine Verbindungen zu Jeffrey Epstein entlassen wurde. Sparrow, der das Live-Blog-Format für politische Berichterstattung beim Guardian seit 2009 pioniert hat, nutzte seine Erfahrung aus der Berichterstattung über die Irak-Krieg-Untersuchung, um die komplexen Enthüllungen in Echtzeit aufzubereiten.",
+          "score": 8
         },
         {
           "source": "Guardian Media",
-          "title": "CBS News insiders worry how 60 Minutes will endure after firings: ‘What are they going to put on the air?’",
-          "link": "https://www.theguardian.com/media/2026/jun/04/cbs-news-firings-60-minutes-future",
-          "summary": "CBS News hat drei von sieben Vollzeit-Korrespondenten der traditionsreichen Sendung \"60 Minutes\" entlassen, darunter Scott Pelley, Sharyn Alfonsi und Cecilia Vega, sowie den Executive Producer und andere Schlüsselpositionen unter der neuen Führung von Bari Weiss. Mit Anderson Cooper's bereits angekündigtem Weggang bleiben nur noch drei der ursprünglich sieben Korrespondenten übrig, was CBS-Mitarbeiter dazu veranlasst zu fragen, wie die 59. Staffel im September aussehen wird. Brancheninsider befürchten, dass die Show nach diesen dramatischen Personalwechseln nicht mehr wie das traditionelle \"60 Minutes\" wirken wird.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Scott Pelley, star of 60 Minutes, stood up for his principles and lost his job | Margaret Sullivan",
-          "link": "https://www.theguardian.com/commentisfree/2026/jun/04/scott-pelley-60-minutes-firing",
-          "summary": "Scott Pelley wurde von CBS entlassen, nachdem er in einer Mitarbeiterbesprechung kritische Wahrheiten über seinen Arbeitgeber aussprach – ein Beispiel dafür, wie Journalisten \"truth to power\" praktizieren sollten. Der langjährige 60 Minutes-Korrespondent verlor seinen Job, nachdem CEO David Ellison die umstrittene Bari Weiss zur Chefredakteurin von CBS News ernannt hatte, eine Entscheidung die als Teil einer Anti-Woke-Agenda gesehen wird. Pelley wird als integrer Journalist gewürdigt, während seine Entlassung das Ende einer Ära für die renommierte Sendung 60 Minutes markiert.",
+          "title": "Lesley Stahl, Bill Whitaker and Jon Wertheim say they’ll ‘stay and fight’ at 60 Minutes",
+          "link": "https://www.theguardian.com/global/2026/jun/05/cbs-60-minutes-lesley-stahl-bill-whitaker-jon-wertheim",
+          "summary": "Drei langjährige Korrespondenten von CBS' \"60 Minutes\" (Lesley Stahl, Bill Whitaker und Jon Wertheim) haben angekündigt, trotz der jüngsten Massenentlassungen bei der Sendung zu bleiben und zu \"kämpfen\". Die Personalumstrukturierung unter der neuen CBS News-Führung führte zur Entlassung mehrerer Senior-Korrespondenten und Produzenten, darunter Scott Pelley, der nach Kritik an der neuen Chefredakteurin Bari Weiss fristlos gekündigt wurde. Die verbliebenen Korrespondenten äußerten sich \"zutiefst verärgert\" über die Entlassungen, wollen aber verhindern, dass \"60 Minutes stirbt\".",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Netflix Film Chief Dan Lin Says Streamer Has “Accepted” It Won’t Work With Directors Who Want Theatrical Releases",
-          "link": "https://deadline.com/2026/06/netflix-films-theatrical-release-dan-lin-1236942864/",
-          "summary": "Netflix Films-Chef Dan Lin erklärt, dass der Streamer bewusst auf die Zusammenarbeit mit Regisseuren verzichtet, die auf Kinostarts bestehen, wobei Greta Gerwigs \"Narnia\" die einzige Ausnahme darstellt. Lin will den Fokus auf Mid-Budget-Produktionen wie Komödien, Romanzen und Buchadaptionen legen, um Netflix zur bevorzugten Plattform für Filmemacher zu machen. Trotz vereinzelter Kinoerfolge wie \"KPop Demon Hunters\" bleibt die grundsätzliche Anti-Kino-Haltung unverändert.",
-          "score": 10
+          "title": "‘What It Feels Like For A Girl’ Star Ellis Howard Says Selling Historic BBC Show To U.S. Is A “Revolutionary Act”",
+          "link": "https://deadline.com/2026/06/ellis-howard-what-it-feels-like-for-a-girl-prime-video-1236941762/",
+          "summary": "Ellis Howard, Star der BBC-Serie \"What It Feels Like for a Girl\" - der ersten BBC-Produktion von einer trans Person - bezeichnet Amazon Prime Videos Kauf der queeren Drama-Serie für den US-Markt als \"revolutionären Akt\" angesichts des politischen Klimas in Amerika. Die von Paris Lees adaptierte Serie, die während des Pride Month startet, reiht sich in Prime Videos queere Programm-Palette ein und soll laut Howard der LGBTQ+-Community einen sicheren Raum bieten. Der Launch erfolgt zeitgleich mit anhaltenden politischen Spannungen um LGBTQ+-Rechte in den USA.",
+          "score": 8
         },
         {
           "source": "Deadline",
-          "title": "Scott Pelley Gets Personal & Kinda Poetic; Thanks Fans After ’60 Minutes’ Firing: “So Deeply Grateful”",
-          "link": "https://deadline.com/2026/06/scott-pelley-60-minutes-firing-grateful-1236942839/",
-          "summary": "Der langjährige 60 Minutes-Korrespondent Scott Pelley wurde diese Woche von CBS News-Chefin Bari Weiss und dem neuen Executive Producer Nick Bilton gefeuert, nachdem er sich gegen deren neue Führung gestellt hatte. Pelley reagierte mit einem poetischen Instagram-Post, in dem er sich bei seinen Unterstützern bedankte und ein Foto von sich beim Segeln teilte, das über 24.000 Likes erhielt. Die Entlassung löste eine schwere Krise bei CBS News aus, die erst etwas abgemildert wurde, als die verbliebenen Korrespondenten Lesley Stahl, Bill Whitaker und Jon Wertheim beschlossen zu bleiben.",
+          "title": "Adrian J. Walker’s Novel ‘The End of The World Running Club’ To Be Adapted Into Feature Film",
+          "link": "https://deadline.com/2026/06/adrian-j-walker-the-end-of-the-world-running-club-feature-1236950083/",
+          "summary": "Candr Pictures hat die Filmrechte an Adrian J. Walkers postapokalyptischem Roman \"The End of The World Running Club\" erworben, der von Chris Reading (\"Time Travel Is Dangerous\") als Regisseur und Drehbuchautor adaptiert wird. Der Film folgt einem Edinburgher Vater auf seinem verzweifelten 500-Meilen-Lauf zu Fuß, um seine Familie vor den letzten Evakuierungsschiffen aus Großbritannien zu erreichen, nachdem katastrophale Asteroideneinschläge Europa verwüstet haben. Walker fungiert als Executive Producer des Projekts, das britischen Dark Humor mit Science-Fiction-Elementen verbinden soll.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Italian Global Series: Sally Wainwright Among Guests Set For Second Edition",
+          "link": "https://deadline.com/2026/06/italian-global-series-sally-wainwright-second-edition-2026-1236950068/",
+          "summary": "Die zweite Ausgabe der Italian Global Series findet vom 3.-6. Juli in Rimini und 7.-10. Juli in Riccione statt, mit prominenten Gästen wie Sally Wainwright (Happy Valley) und Carlton Cuse (Bates Motel). Aus über 160 weltweiten Einreichungen wurden 21 Serien aus 15 Ländern für den internationalen Wettbewerb ausgewählt, der in die Kategorien Drama, Comedy und Limited Series unterteilt ist. Zu den Premieren gehören unter anderem \"Benidorm Is Murder\" (UK/Spanien) und \"Secret Service\" mit Gemma Arterton.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Monte-Carlo TV Festival’s 65th Edition: An Inside Take On The Event’s Industry-Fan Formula",
+          "link": "https://deadline.com/2026/06/monte-carlo-tv-festival-preview-walking-dead-industry-fans-1236950044/",
+          "summary": "Das Monte-Carlo TV Festival feiert 2026 seine 65. Ausgabe und eröffnet mit Season 3 von \"The Walking Dead: Dead City\", während Kristin Scott Thomas und Kurt Russell den Crystal Nymph erhalten. Das Festival zeichnet sich durch seine einzigartige Kombination aus Industry- und Publikumsveranstaltungen aus, die über fünf Tage alle Akteure des TV-Ökosystems - von Produzenten über Talent bis hin zu Journalisten und Zuschauern - in einem gemeinsamen Setting zusammenbringt. Neben den Hauptauszeichnungen werden Golden Nymph Awards in den Kategorien Fiction, Digital sowie News und Dokumentation vergeben.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Dani Swan Action Thriller ‘Iris’ Set To Film In Spain & Japan; Toei To Assist Japanese Portion Of Shoot",
+          "link": "https://deadline.com/2026/06/dani-swan-action-drama-iris-japan-toei-spain-1236950016/",
+          "summary": "Rising Swan Entertainment entwickelt den Action-Thriller \"Iris\" mit Dani Swan in der Hauptrolle, der ab Herbst 2026 zu 40% in Japan (mit Unterstützung von Toei Company) und in Spanien gedreht wird. Lisa C. Satriano gibt ihr Regiedebüt bei dem Film, der Action Noir, psychologisches Mystery und Samurai-Mythologie zwischen dem modernen Paris und dem feudalen Japan kombiniert. Das Projekt verfügt über ein erfahrenes Crew-Team mit DoP Damien Beebe und Stunt-Koordinator Anthony Nanakornpanom.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Jamie Oliver Group Teaming With Baby Teeth For Microdrama & Wider Pact As Celebrity Chef’s Company Shifts Focus To IP",
+          "link": "https://deadline.com/2026/06/jamie-oliver-group-microdrama-baby-teeth-strategy-1236941778/",
+          "summary": "Die Jamie Oliver Group entwickelt in Partnerschaft mit der Kreativagentur Baby Teeth eine Microdrama-Serie im vertikalen Videoformat, die noch diesen Monat in Großbritannien gedreht werden soll. Der Celebrity-Koch richtet sein Medienunternehmen strategisch neu auf IP-Entwicklung und Formate aus, wobei Alison Corfield zur neuen Brand Director ernannt wurde. Die Zusammenarbeit mit Baby Teeth und einem globalen Tech-Brand signalisiert Olivers Fokus auf neue digitale Storytelling-Formate für veränderte Medienlandschaften.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "John Oliver Jokes CBS News Fired Scott Pelley For “The Crime Of Being Too Cool In A Meeting”",
+          "link": "https://deadline.com/2026/06/john-oliver-last-week-tonight-cbs-news-scott-pelley-firing-1236949860/",
+          "summary": "John Oliver kommentierte in seiner Show \"Last Week Tonight\" die Entlassung des langjährigen CBS News-Korrespondenten Scott Pelley, der nach 37 Jahren beim Sender gefeuert wurde, nachdem er in einem Meeting die Qualifikationen der neuen Führungskräfte infragestellte. Pelley hatte den neuen 60 Minutes-Produzenten Nick Bilton und Chefredakteurin Bari Weiss konfrontiert und behauptet, sie würden das traditionsreiche Nachrichtenmagazin \"ermorden\". FCC-Vorsitzender Brendan Carr kritisierte Pelleys Verhalten als völlig unangemessen, während Oliver scherzte, Pelley sei für das \"Verbrechen, zu cool in einem Meeting zu sein\" entlassen worden.",
           "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Emotions Spill Over at Town Hall of Industry Workers Opposed to Paramount-WBD Merger: “It’s the Death of a Great American Industry”",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/entertainment-workers-oppose-paramount-wbd-merger-town-hall-1236615502/",
-          "summary": "Bei einer Town Hall-Veranstaltung in Beverly Hills äußerten Hollywood-Arbeiter, Gewerkschaftsvertreter und ein FCC-Kommissar scharfe Kritik an der geplanten 111-Milliarden-Dollar-Fusion von Paramount-Skydance und Warner Bros. Die Teilnehmer befürchten, dass diese Mega-Fusion nach Pandemie und Autorenstreik den finalen Dominostein darstellen könnte, der die gesamte Branche zum Kollaps bringt. Während mehrere Generalstaatsanwälte eine Klage zur Blockierung der Fusion vorbereiten, zeigten sich viele Anwesende skeptisch bezüglich der Erfolgsaussichten rechtlicher Schritte.",
+          "title": "‘Star Trek’ 60th Anniversary Celebration, Stars Set for Italian Global Series’ Second Edition",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/star-trek-60th-anniversary-italian-global-series-festival-1236616309/",
+          "summary": "Das Italian Global Series (IGS) Festival findet vom 3.-11. Juli in Rimini und Riccione statt und feiert unter anderem das 60. Jubiläum von Star Trek sowie das 50. Jubiläum von Franco Zeffirellis \"Jesus of Nazareth\". Zu den bestätigten Gästen gehören die britischen Schauspieler John Hannah und Bertie Carvel, während das kostenlose Festival internationale Wettbewerbsbeiträge, Gespräche mit Branchenprofis und italienische Premieren präsentiert.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Tamil Blockbuster ‘Karuppu’ Set for Global Streaming Launch on Amazon Prime Video",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/tamil-karuppu-amazon-prime-video-release-date-1236616290/",
+          "summary": "Der Tamil-Blockbuster \"Karuppu\" mit Suriya startet am 12. Juni weltweit auf Amazon Prime Video, nachdem er mit über 300 Crore Rupees (ca. 35 Mio. USD) zum bisher erfolgreichsten Tamil-Film 2026 wurde. Der von RJ Balaji inszenierte Fantasy-Action-Film kombiniert Mythologie mit Gerichtsdrama und zeigt Suriya als Schutzgottheit, die als Anwalt gegen ein korruptes Rechtssystem kämpft. Prime Video wird den Film in fünf Sprachen und über 200 Ländern streamen, etwa vier Wochen nach dem Kinostart.",
           "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Palestine-German Project ‘Chentian,’ by ‘Lemon Tree,’ ‘The Syrian Bride’ Scribe Suha Arraf, Adds Jordan Co-Producer Arab Media Network (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/global/chentian-suha-arraf-may-odeh-arab-media-network-ecam-forum-1236769207/",
+          "summary": "Die palästinensisch-deutsche Koproduktion \"Chentian\" von Regisseurin Suha Arraf (\"Lemon Tree\", \"The Syrian Bride\") hat mit Jordan's Arab Media Network einen weiteren Koproduzenten gewonnen. Das Projekt der erfahrenen Produzentin May Odeh gewann bereits den €35.000 Tin Post-Production Award beim Göteborg Film Festival und wird beim ECAM Forum in Madrid gepitcht. Der Film erzählt die Geschichte palästinensischer Frauen, die für die Befreiung ihres Körpers und ihres Landes kämpfen.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Fox Wins Rights to Show NFL Games in Mexico",
+          "link": "https://variety.com/2026/tv/news/fox-nfl-rights-mexico-1236769194/",
+          "summary": "Fox Corp. hat die Übertragungsrechte für NFL-Spiele in Mexiko gesichert, einschließlich Thursday Night Football, Super Bowl und NFC-Playoffs, die über lineare TV-Kanäle sowie die Streaming-Dienste Fox One und Tubi ausgestrahlt werden. Der Deal umfasst auch vier wöchentliche NFL-Originalprogramme speziell für mexikanische Fans und erfolgt vor dem Hintergrund von Spekulationen über mögliche NFL-Vertragsausstiegsklauseln zur Neuverhandlung höherer Medienrechtegebühren. Die Vereinbarung zeigt die NFL-Strategie zur internationalen Expansion und Maximierung der Medienerlöse.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "‘Money Heist’ Producer Sonia Martínez Appointed El Estudio Director of Contents, Spain",
+          "link": "https://variety.com/2026/tv/global/sonia-martinez-el-estudio-pablo-cruz-1236769182/",
+          "summary": "Sonia Martínez, die bekannte TV-Produzentin hinter Erfolgsserien wie \"Money Heist\" und \"Locked Up\", wurde zur Director of Contents für Spanien bei El Estudio ernannt, dem 2020 gegründeten Produktionsunternehmen unter der Leitung von Pablo Cruz. In ihrer neuen Position wird Martínez die kreative Strategie, Entwicklung und Produktion von Film- und TV-Projekten sowie die Unternehmenskonsolidierung von El Estudio in Spanien verantworten. El Estudio hat bereits erfolgreich Inhalte bei Netflix, TelevisaUnivision's ViX und Amazon Prime Video platziert.",
+          "score": 8
         }
       ]
     }
