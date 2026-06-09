@@ -1,210 +1,189 @@
 {
   "newsletters": [
     {
-      "date": "2026-06-08",
+      "date": "2026-06-09",
       "articles": [
         {
           "source": "DWDL",
-          "title": "ARD setzt im Sommer auf \"Das versunkene Dorf\"",
-          "link": "https://www.dwdl.de/nachrichten/106755/ard_setzt_im_sommer_auf_das_versunkene_dorf/",
-          "summary": "Die ARD zeigt ab 17. Juli in der Mediathek und ab 26. Juli linear die sechsteilige deutsch-französische Krimiserie \"Surface - Das versunkene Dorf\" mit Laura Smet und Tomer Sisley, basierend auf Olivier Noreks Bestseller. Die Serie folgt einer verletzten Pariser Polizistin, die in der südfranzösischen Provinz ein Kinderskelett in einem Chemiefass aus einem Stausee untersucht. Produziert wurde die internationale Koproduktion unter anderem in Europas größtem Wassertank in Belgien, wobei Hauptdarstellerin Smet alle Tauchszenen selbst übernahm.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Tarifverhandlungen: WDR wird am Montag erneut bestreikt",
-          "link": "https://www.dwdl.de/nachrichten/106756/tarifverhandlungen_wdr_wird_am_montag_erneut_bestreikt/",
-          "summary": "WDR-Mitarbeiter streiken am Montag erneut aufgrund stockender Tarifverhandlungen, nachdem bereits vier Verhandlungsrunden ohne Ergebnis verliefen. Der Sender bietet eine Nullrunde für 2026 und je 1% Erhöhung ab 2027/2028 (bei Beitragserhöhung 2%), während ver.di 7% bzw. mindestens 300€ monatlich fordert und die VRFF auf gestiegene Lebenshaltungskosten verweist. Die fünfte Verhandlungsrunde ist für Dienstag angesetzt, die Gewerkschaften erwarten jedoch nur marginal verbesserte Angebote.",
+          "title": "\"LOL\" legt nochmal deutlich zu, ZDF punktet mit Fußball",
+          "link": "https://www.dwdl.de/zahlenzentrale/106774/lol_legt_nochmal_deutlich_zu_zdf_punktet_mit_fussball/",
+          "summary": "\"LOL: Last One Laughing\" steigerte seine Streaming-Reichweite in der dritten Woche auf 2,704 Millionen Nutzer (+470.000) und führt das angebotsübergreifende Ranking mit deutlichem Vorsprung von über 1,1 Millionen vor \"ntv Nachrichten\" an. Das ZDF punktete mit Sport-Content zu Champions League und Länderspiel (1,46 bzw. 1,31 Mio. Nettoreichweite) auf den Plätzen 3 und 4. Amazon-Serie \"Off Campus\" erreichte trotz leichtem Rückgang weiterhin starke 1,057 Millionen Nutzer.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "US-Bundesstaaten klagen wohl gegen WBD-Übernahme",
-          "link": "https://www.dwdl.de/nachrichten/106753/usbundesstaaten_klagen_wohl_gegen_wbduebernahme_/",
-          "summary": "Mehrere US-Bundesstaaten, darunter Kalifornien und New York, bereiten laut Reuters eine Kartellklage gegen die geplante Übernahme von Warner Bros. Discovery durch Paramount Skydance vor, die in den kommenden Wochen eingereicht werden soll. Selbst bei einem Scheitern der Klage könnte diese den Deal um Monate verzögern und Paramount täglich 6,9 Millionen Dollar Entschädigung kosten, falls die Übernahme nicht bis Oktober abgeschlossen wird. Auf Bundesebene wird weniger Widerstand erwartet, auch aufgrund der engen Beziehungen von Oracle-Mitgründer Larry Ellison zu Präsident Trump.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "Markus Schäfer bleibt an der Spitze von ZDF Studios",
-          "link": "https://www.dwdl.de/nachrichten/106749/markus_schaefer_bleibt_an_der_spitze_von_zdf_studios/",
-          "summary": "Markus Schäfer wurde als Sprecher der Geschäftsführung von ZDF Studios bis 2030 bestätigt und führt gemeinsam mit Co-Geschäftsführerin Karoline Meichsner-Sertl die privatwirtschaftliche ZDF-Tochter mit über 30 Beteiligungen in Produktion, Distribution und Services. Unter ihrer Leitung wurde die Unternehmensgruppe organisatorisch neu strukturiert mit Fokus auf gruppenweite Synergien, trotz jüngster Verluste durch die Insolvenz der niederländischen Beteiligung Off the Fence.",
+          "title": "ProSiebenSat.1-Programme sollen mit KI internationalisiert werden",
+          "link": "https://www.dwdl.de/nachrichten/106772/prosiebensat1programme_sollen_mit_ki_internationalisiert_werden_/",
+          "summary": "Seven.One Studios International hat über 500 Stunden ProSiebenSat.1-Content an internationale YouTube-Aggregatoren lizenziert, wobei KI-gestützte Technologie zur Übersetzung in 30 Sprachen eingesetzt wird. Die Deals umfassen Factual Entertainment, Serien und TV-Movies für Partner wie DubMe IO, Content Rocket, Zylo und weitere Distributoren in verschiedenen Märkten. Laut Seven.One ist die digitale Rechteverwertung auf YouTube ein Wachstumsmarkt, da KI-basierte Synchronisation die bisher kostintensiven Sprachbarrieren für internationale Verbreitung reduziert.",
           "score": 9
         },
         {
           "source": "DWDL",
-          "title": "Grasmück oder Dinges: Wer führt künftig den SR?",
-          "link": "https://www.dwdl.de/nachrichten/106738/grasmueck_oder_dinges_wer_fuehrt_kuenftig_den_sr/",
-          "summary": "Der Rundfunkrat des Saarländischen Rundfunks wählt am Montag zwischen dem amtierenden Intendanten Martin Grasmück und dem FFA-Chef Peter Dinges für die Amtszeit 2027-2033. Dinges, gebürtiger Saarbrücker und seit über 20 Jahren Leiter der nationalen Filmförderung, positioniert sich als externen Kandidaten für einen Strukturwandel beim SR, würde allerdings erst im Rentenalter antreten. Trotz fehlender Programmerfahrung sieht er seine Außenperspektive als Vorteil und will zunächst zuhören, bevor er konkrete Pläne entwickelt.",
+          "title": "Die Kleinen Brüder drehen ihren ersten Kinofilm",
+          "link": "https://www.dwdl.de/nachrichten/106773/die_kleinen_brueder_drehen_ihren_ersten_kinofilm/",
+          "summary": "Die Produktionsfirma Die Kleinen Brüder (\"Die Discounter\", \"Intimate\") dreht in Kooperation mit Constantin Film ihren ersten Kinofilm \"Aliens over Meck-Pomm\" - eine Alien-Komödie in Mecklenburg-Vorpommern unter der Regie von Bruno Alexander und Emil Belton. Der im Herbst 2026 startende Dreh wird von der Moin Filmförderung und MV Filmförderung unterstützt, Kinostart ist für 2027 geplant.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Saxonia Media will Adler-Olsen-Roman \"Alphabethaus\" verfilmen",
+          "link": "https://www.dwdl.de/nachrichten/106771/saxonia_media_will_adlerolsenroman_alphabethaus_verfilmen/",
+          "summary": "Saxonia Media entwickelt eine internationale Serienadaption von Jussi Adler-Olsens Bestseller \"Das Alphabethaus\" mit Drehbuchautor Steve Thompson und Regisseur Umut Dağ. Das Cold-War-Drama erzählt die Geschichte zweier britischer RAF-Piloten, die 1944 über Deutschland abgeschossen werden und in einer psychiatrischen SS-Klinik ums Überleben kämpfen müssen. Anders als in der Romanvorlage wird die Serie im Großbritannien der 1970er-Jahre beginnen und dann in die 1940er-Jahre zurückspringen.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "\"In dem Club bin ich gern\": Greifeneder mit Disruptor Award geehrt",
+          "link": "https://www.dwdl.de/nachrichten/106766/in_dem_club_bin_ich_gern_greifeneder_mit_disruptor_award_geehrt/",
+          "summary": "Anke Greifeneder, ehemalige Programmchefin bei TNT Serie/Comedy und aktuelle HBO Max-Verantwortliche für den deutschsprachigen Raum, wurde beim Seriencamp in Köln mit dem German TV Disruptor Award von Deadline.com ausgezeichnet. Die Ehrung würdigt ihre Pionierarbeit bei der Entwicklung der ersten deutschen Pay-TV-Serien und ihre fortgesetzte innovative Arbeit im Streaming-Bereich, unter anderem mit dem \"4 Blocks\"-Prequel. Nach Annette Hess und Philipp Käßbohrer ist sie die dritte Preisträgerin dieser von Deadline vergebenen Auszeichnung für herausragende Persönlichkeiten der deutschen TV-Branche.",
           "score": 7
         },
         {
+          "source": "DWDL",
+          "title": "\"Festival ohne Chichi\": 12. Seriencamp in Köln gestartet",
+          "link": "https://www.dwdl.de/nachrichten/106765/festival_ohne_chichi_12_seriencamp_in_koeln_gestartet/",
+          "summary": "Das 12. Seriencamp in Köln ist mit einer Eröffnungsveranstaltung im Cinenova-Kino gestartet, bei der Oberbürgermeister Torsten Burmester die Bedeutung der Medienwirtschaft für den Standort Köln betonte. Burmester hob besonders die handwerkliche Qualität der Kölner Serienproduktionen hervor und bezeichnete Storytelling als wichtig für den gesellschaftlichen Zusammenhalt und die Demokratie. Walid Nakschbandi von der Film- und Medienstiftung würdigte das besondere \"Jeföhl\" des Kölner Serienstandorts.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "Martin Grasmück als SR-Intendant im Amt bestätigt",
+          "link": "https://www.dwdl.de/nachrichten/106762/martin_grasmueck_als_srintendant_im_amt_bestaetigt/",
+          "summary": "Martin Grasmück wurde mit 22 von 24 Stimmen vom Rundfunkrat des Saarländischen Rundfunks für eine zweite sechsjährige Amtszeit als Intendant bestätigt (2027-2033). Der Gegenkandidat Peter Dinges, langjähriger FFA-Chef, erhielt nur zwei Stimmen. Trotz eines Gutachtens, das Ineffizienzen und strukturelle Probleme im Sender feststellte, zeigt das klare Votum großes Vertrauen in den SR-internen Kandidaten Grasmück.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Film & TV sind nicht nur Kulturgüter, es sind strategische Assets\"",
+          "link": "https://www.dwdl.de/nachrichten/106760/film__tv_sind_nicht_nur_kulturgueter_es_sind_strategische_assets/",
+          "summary": "Bei der Premiere von Story Vision Europe in Köln warben Branchenvertreter für verstärkte europäische Zusammenarbeit in der audiovisuellen Industrie, um kulturelle Identität zu bewahren und wirtschaftlich konkurrenzfähig zu bleiben. Michelle Müntefering (Produktionsallianz) betonte in ihrer Keynote, dass Film und TV strategische Wirtschaftsfaktoren seien, die Arbeitsplätze schaffen und Europas globale Wahrnehmung prägen. Die Zukunft der Branche liege nicht im nationalen Alleingang, sondern in grenzüberschreitenden Kooperationen und Koproduktionen.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "ntv baut Sport-News mit eigener Online-Plattform aus",
+          "link": "https://www.dwdl.de/nachrichten/106758/ntv_baut_sportnews_mit_eigener_onlineplattform_aus/",
+          "summary": "Der Nachrichtensender ntv hat kurz vor der Fußball-WM ein eigenes Sport-Nachrichtenportal \"ntv Sport\" gestartet, das als vierte zentrale Säule neben Breaking News, Nachrichten und Wirtschaft positioniert wird. Das Portal setzt auf ein starkes Video-Angebot im Free-Bereich und nutzt die Sportrechte aus dem RTL-Portfolio inklusive Sky für Highlight-Zusammenfassungen, Expertenanalysen und Live-Übertragungen. Damit entsteht eine interne Konkurrenz zum bereits bestehenden \"Sky Sport\"-Portal der RTL-Gruppe.",
+          "score": 8
+        },
+        {
           "source": "Horizont Medien",
-          "title": "#dontlookaway&quot; statt Sommermärchen: Pro Sieben und Joko &amp; Klaas zeigen Haltung in der Primetime",
-          "link": "https://www.horizont.net/medien/kommentare/dontlookaway-statt-sommermaerchen-pro-sieben-und-joko--klaas-zeigen-haltung-in-der-primetime-234621?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "ProSieben strahlte mit \"Joko & Klaas Live – #dontlookaway\" eine primetime Sendung aus, die gesellschaftliche Haltung über kommerzielle Interessen stellte. Der Sender verzichtete dabei bewusst auf Werbeeinnahmen eines ganzen Abends, um maximale Reichweite für relevante gesellschaftliche Themen zu nutzen. Dies wird als seltenes Beispiel für werteorientiertes Fernsehen jenseits reiner Unterhaltung bewertet.",
-          "score": 10
+          "title": "Saarländischer Rundfunk: Amtsinhaber Grasmück setzt sich bei Intendantenwahl durch",
+          "link": "https://www.horizont.net/medien/nachrichten/saarlaendischer-rundfunk-amtsinhaber-grasmueck-setzt-sich-bei-intendantenwahl-durch-234644?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Martin Grasmück wurde mit deutlicher Mehrheit (22 von 24 Stimmen) vom Rundfunkrat des Saarländischen Rundfunks als Intendant wiedergewählt und setzte sich gegen den FFA-Vorstand Peter Dinges durch. Der 56-Jährige, der bereits seit 2021 im Amt ist, erhält eine weitere sechsjährige Amtszeit ab Frühjahr 2027. Grasmück ist ein SR-Eigengewächs, der vom freien Mitarbeiter zum stellvertretenden Programmdirektor und schließlich zum Intendanten aufstieg.",
+          "score": 8
         },
         {
           "source": "Horizont Medien",
           "title": "Giovanni di Lorenzo und Nils von der Kall: KI als Chance: Warum starke Marken wie Die Zeit jetzt profitieren",
           "link": "https://www.horizont.net/medien/nachrichten/giovanni-di-lorenzo-und-nils-von-der-kall-beim-horizont-kongress-ki-als-chance-warum-starke-marken-wie-die-zeit-jetzt-profitieren-234596?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Zeit-Chefredakteur Giovanni di Lorenzo und CEO Nils von der Kall sehen KI als strategische Chance für etablierte Medienmarken und erklärten beim HORIZONT-Kongress, wie die 80 Jahre alte Marke \"Die Zeit\" durch den technologischen Wandel profitieren kann. Starke, vertrauensvolle Medienmarken können ihrer Ansicht nach im permanenten Branchenumbruch besonders von KI-Technologien profitieren, um ihre Relevanz zu erhalten und auszubauen.",
+          "summary": "Die Zeit-Chefredakteur Giovanni di Lorenzo und CEO Nils von der Kall diskutierten beim HORIZONT-Kongress Strategien zur Relevanz der 80 Jahre alten Medienmarke im digitalen Wandel. Sie positionierten KI als Chance für etablierte, starke Marken wie Die Zeit, um sich im permanenten Branchenumbruch zu behaupten.",
           "score": 8
         },
         {
           "source": "kress",
-          "title": "Chefredakteurin Abdelaziz-Ditzow räumt mit dem Neutralitätsmythos im Journalismus auf: Gastbeitrag zur Amann/Berndt-Debatte Immer mehr Bürger fordern „neutralen\" Journalismus",
-          "link": "https://kress.de/news/beitrag/153019-chefredakteurin-abdelaziz-ditzow-raeumt-mit-dem-neutralitaetsmythos-im-journalismus-auf-gastbeitrag-zur-amann-berndt-debatte.html",
-          "summary": "Mary Abdelaziz-Ditzow, Chefredakteurin bei Finanzfluss, argumentiert in einem Gastbeitrag für kress.de, dass journalistische Neutralität weder gefordert noch möglich ist und räumt damit mit einem verbreiteten Mythos auf. Ihr Beitrag bezieht sich auf die kontroverse Debatte zwischen Funke-Digital-Chefredakteurin Melanie Amann und Podcast-Host Ben Berndt über die Rolle von Neutralität versus Einordnung im modernen Journalismus. Die Diskussion reflektiert eine grundsätzliche Spannungsfeld zwischen der öffentlichen Forderung nach neutraler Berichterstattung und der journalistischen Praxis der Einordnung und Bewertung.",
+          "title": "Handelsblatt-Recherche: Verleger Friedrich ist Geschäftsführer einer Firma für „Public Diplomacy\" und Government Affairs Verleger Holger Friedrich ist Geschäftsführer der neu gegründeten Orbis Nova GmbH",
+          "link": "https://kress.de/news/beitrag/153023-handelsblatt-recherche-verleger-friedrich-ist-geschaeftsfuehrer-einer-firma-fuer-public-diplomacy-quot-und-government-affairs.html",
+          "summary": "Verleger Holger Friedrich (Berliner Zeitung/Ostdeutsche Medienholding) ist Geschäftsführer der neu gegründeten Orbis Nova GmbH, die ab Juli 2026 Beratungs- und Interessenvertretungsdienstleistungen im Bereich \"Public Diplomacy\" und Government Affairs anbieten wird. Als zweiter Geschäftsführer fungiert Alexander Dergay, bisher Autor der Berliner Zeitung, der seine redaktionelle Tätigkeit für die neue Firma aufgeben wird. Friedrich betont, dass 80% des Stammkapitals von seinem Family-Office stammen und seine journalistischen Medien weiterhin ausschließlich durch Leser- und Werbeerlöse finanziert werden.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Wie „Politiken\" die digitale Transformation geschafft hat",
-          "link": "https://kress.de/news/beitrag/153021-wie-politiken-quot-die-digitale-transformation-geschafft-hat-die-preisgekroenten-macher-erklaeren-es-beim-european-publishing-congress-in-wien.html",
-          "summary": "Die dänische Zeitung Politiken wurde 2026 als „European Digital Publisher of the Year\" ausgezeichnet und präsentiert beim European Publishing Congress in Wien ihre erfolgreiche digitale Transformation. Das Medienhaus hat einen konsequenten „Digital first\"-Workflow eingeführt, Ressourcen von Print zu Digital verlagert und die Newsroom-Kultur grundlegend neu gestaltet, während gleichzeitig eine hochwertige Printausgabe erhalten blieb. Die Jury würdigte besonders die Verbindung von journalistischer Qualität, Tiefe und Integrität mit innovativem visuellem Storytelling.",
+          "title": "Martin Grasmück als SR-Intendant wiedergewählt\"",
+          "link": "https://kress.de/news/beitrag/153024-22-von-24-stimmen-martin-grasmueck-als-sr-intendant-wiedergewaehlt-quot.html",
+          "summary": "Martin Grasmück wurde vom SR-Rundfunkrat mit überwältigender Mehrheit (22 von 24 Stimmen) als Intendant des Saarländischen Rundfunks für eine weitere Amtszeit bis 2033 wiedergewählt. Der 56-jährige Journalist, der seit 2021 im Amt ist, setzte sich bereits im ersten Wahlgang deutlich gegen seinen Konkurrenten Peter Dinges (FFA-Vorstand) durch. Der Rundfunkrat begründete die Entscheidung mit Grasmücks strategischer Führung bei der Organisationsreform und der Digitalisierung des Senders.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Neutral berichten? Chefredakteurin Abdelaziz-Ditzow räumt mit einem Journalismus-Mythos auf",
+          "link": "https://kress.de/news/beitrag/153019-neutral-berichten-chefredakteurin-abdelaziz-ditzow-raeumt-mit-einem-journalismus-mythos-auf.html",
+          "summary": "Mary Abdelaziz-Ditzow, Chefredakteurin bei Finanzfluss, argumentiert in einem Gastbeitrag für kress.de, dass journalistische Neutralität weder gefordert noch möglich sei und räumt damit bewusst mit einem verbreiteten Journalismus-Mythos auf. Der Beitrag reagiert auf eine Debatte zwischen Funke-Digital-Chefredakteurin Melanie Amann und Podcast-Host Ben Berndt über die Frage, ob etablierter Journalismus noch neutral berichtet oder bereits zu Aktivismus geworden ist.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Wie Politiken die digitale Transformation geschafft hat",
+          "link": "https://kress.de/news/beitrag/153021-wie-politiken-die-digitale-transformation-geschafft-hat-die-preisgekroenten-macher-erklaeren-es-beim-european-publishing-congress-in-wien.html",
+          "summary": "Politiken wurde 2026 als European Digital Publisher of the Year ausgezeichnet und wird beim European Publishing Congress in Wien erklären, wie die erfolgreiche digitale Transformation gelang. Das dänische Medienhaus implementierte 2023 einen konsequenten \"Digital first\"-Workflow, verlagerte Ressourcen von Print zu Digital und revolutionierte die Newsroom-Kultur, während gleichzeitig eine der attraktivsten Printzeitungen der Welt produziert wird. Die Transformation hob das visuelle Storytelling auf ein neues Niveau und wurde von der internationalen Jury für Journalismus höchster Qualität mit Tiefe, Integrität und klarer redaktioneller Haltung gelobt.",
           "score": 7
         },
         {
           "source": "kress",
           "title": "\"Frag NOZ\" auf der Bühne: NOZ-Chefredakteurin Riepe beim European Publishing Congress in Wien 12.000 Fragen in drei Wochen",
           "link": "https://kress.de/news/beitrag/153018-quot-frag-noz-quot-auf-der-buehne-noz-chefredakteurin-riepe-beim-european-publishing-congress-in-wien.html",
-          "summary": "NOZ-Chefredakteurin Louisa Riepe präsentiert beim European Publishing Congress 2026 in Wien drei erfolgreiche KI-Anwendungen im Lokaljournalismus: den Chatbot „Frag NOZ\" mit 12.000 Nutzeranfragen in drei Wochen, automatisierte Artikelzusammenfassungen und KI-gestützte Wahlberichterstattung. Der Vortrag fokussiert auf praktische Erfahrungen und Hürden beim Einsatz von KI-Tools in der redaktionellen Praxis der NOZ/mh:n Mediengruppe.",
-          "score": 8
+          "summary": "NOZ-Chefredakteurin Louisa Riepe präsentiert beim European Publishing Congress 2026 in Wien drei erfolgreiche KI-Anwendungen im Lokaljournalismus: den Chatbot \"Frag NOZ\" (12.000 Nutzeranfragen in drei Wochen), automatisierte Artikelzusammenfassungen und KI-gestützte Wahlberichterstattung. Der Vortrag fokussiert auf praktische Erfahrungen und Herausforderungen beim Einsatz von KI-Tools in der redaktionellen Praxis.",
+          "score": 7
         },
         {
           "source": "kress",
           "title": "Berufliche Motivation: Warum Leidenschaft für den Job kein Luxus ist Wer beruflich vorankommen, überzeugen und zufrieden sein will, muss sich stärker als andere einbringen. Das erfordert Leidenschaft für das, was man jeden Tag tut",
           "link": "https://kress.de/news/beitrag/153016-berufliche-motivation-warum-leidenschaft-fuer-den-job-kein-luxus-ist.html",
-          "summary": "Der Artikel argumentiert, dass berufliche Leidenschaft kein Luxus, sondern essentiell für Karriereerfolg und persönliche Zufriedenheit ist, besonders in wirtschaftlich unsicheren Zeiten. Leidenschaft verschafft Wettbewerbsvorteile bei Bewerbungen und Projekten, da sie zu überzeugenderem Auftreten und entschlossenerer Umsetzung führt. Dies gilt sowohl für Angestellte als auch für Freiberufler, die als Unternehmer agieren und mit Herausforderungen wie Akquise umgehen müssen.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Schmitter macht Journalismus zur Chefsache: RTL bündelt publizistische Kräfte unter dem CEO RTL News, ntv, stern, GEO, Capital",
-          "link": "https://kress.de/news/beitrag/153007-schmitter-macht-journalismus-zur-chefsache-rtl-buendelt-publizistische-kraefte-unter-dem-ceo.html",
-          "summary": "RTL Deutschland bündelt ab Juni 2026 seine journalistischen Bereiche RTL News, ntv und die stern-Gruppe (stern, GEO, Capital, art) direkt unter CEO Stephan Schmitter, um ein strategisches Zeichen für die Bedeutung des Journalismus im Konzern zu setzen. Die operative Führung bleibt bei den bisherigen Geschäftsführern und Chefredakteuren bestehen. Schmitter kündigt weitere Investitionen in Journalismus, Qualität und digitale Transformation an und bezeichnet Journalismus als \"Rückgrat von RTL Deutschland\".",
-          "score": 10
-        },
-        {
-          "source": "meedia",
-          "title": "Eine WM-Vorschau von Holger Hansen, Publicis Prime Time ist tot.",
-          "link": "https://meedia.de/news/beitrag/24246-prime-time-ist-tot-warum-der-fifa-world-cup-2026-zur-always-on-wm-wird.html",
-          "summary": "Die Fußball-WM 2026 wird mit 48 Teams, 104 Spielen und drei Gastgeberländern (USA, Kanada, Mexiko) zur bisher größten WM, wobei die Zeitverschiebung deutsche Zuschauer zwingt, viele Spiele nachts oder am frühen Morgen zu verfolgen. Publicis-Experte Holger Hansen prognostiziert einen Paradigmenwechsel im Sportmarketing: Weg von der klassischen Prime-Time-Fokussierung hin zu kontinuierlichen \"Always-On\"-Kampagnen, da viele Spiele erst am Folgetag als Highlights, Clips oder Memes konsumiert werden. Dies erfordert von Marken ein Umdenken von punktuellen Event-Spots zu dauerhaften Kampagnenstrategien über mehrere Wochen.",
+          "summary": "Karrierecoach Attila Albert argumentiert, dass berufliche Leidenschaft kein Luxus, sondern eine Notwendigkeit für Erfolg und Zufriedenheit ist, da sie bei Bewerbungen, Projektvorschlägen und der Umsetzung von Veränderungen entscheidende Wettbewerbsvorteile verschafft. Besonders in wirtschaftlich schwierigen Zeiten und beim Medienbranche-Umbruch hilft Leidenschaft dabei, Hindernisse kraftvoll zu überwinden und überzeugender aufzutreten. Dies gilt sowohl für Angestellte als auch für Freiberufler, die als Unternehmer agieren müssen.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "“Aus wettbewerblicher Sicht unbedenklich” NOZ darf \"Wilhelmshavener Zeitung\" und \"Jeversches...",
-          "link": "https://meedia.de/news/beitrag/24243-noz-darf-quot-wilhelmshavener-zeitung-quot-und-quot-jeversches-wochenblatt-quot-uebernehmen.html",
-          "summary": "Das Bundeskartellamt hat die Übernahme einer Mehrheitsbeteiligung (50,01%) am Medienhaus BruneMettecker durch die NOZ/mh:n-Gruppe genehmigt, da sich die Verbreitungsgebiete nicht überlappen und somit kein Wettbewerbsverhältnis besteht. BruneMettecker verlegt die \"Wilhelmshavener Zeitung\" und das \"Jeversche Wochenblatt\" in Nordost-Ostfriesland, während die NOZ-Gruppe mit der \"Neuen Osnabrücker Zeitung\" und weiteren Titeln in anderen Regionen aktiv ist. Die Übernahme erfolgte nach der Übernahme des bisherigen Partners \"Nordwest-Zeitung\" durch die Madsack-Gruppe.",
+          "title": "Wiederwahl mit großer Mehrheit Martin Grasmück bleibt Intendant des Saarländischen Rundfunks Er ist...",
+          "link": "https://meedia.de/news/beitrag/24347-martin-grasmueck-bleibt-intendant-des-saarlaendischen-rundfunks.html",
+          "summary": "Der Rundfunkrat des Saarländischen Rundfunks hat Martin Grasmück mit deutlicher Mehrheit (22 von 24 Stimmen) als Intendanten für eine weitere Amtszeit bis 2033 wiedergewählt. Der 56-jährige Journalist und SR-Eigengewächs setzte sich bereits im ersten Wahlgang gegen seinen Herausforderer Peter Dinges (Vorstand der Filmförderanstalt) durch, der nur zwei Stimmen erhielt. Seine neue sechsjährige Amtszeit beginnt am 1. Mai 2027.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Dreieinhalb Jahre nach RBB-Abschied Neue ZDFneo-Show: Kurt Krömer kehrt ins Fernsehen zurück Vor...",
-          "link": "https://meedia.de/news/beitrag/24242-neue-zdfneo-show-kurt-kroemer-kehrt-ins-fernsehen-zurueck.html",
-          "summary": "Kurt Krömer kehrt dreieinhalb Jahre nach dem Ende seiner RBB-Show \"Chez Krömer\" mit dem neuen Format \"Krömers letzte Stunde\" ins Fernsehen zurück, das bei ZDFneo und im ZDF-Streaming-Portal ausgestrahlt wird. Die von btf produzierte Show umfasst zunächst vier Folgen und kombiniert Talk mit Spielelementen, wobei Krömer pro Folge zwei Gäste empfängt. Seine vorherige Show hatte er 2022 wegen psychischer Belastung durch konfrontative Gespräche mit unliebsamen Gästen beendet.",
-          "score": 8
+          "title": "Fokus auf Video und Live-Inhalte RTL-Tocher ntv startet eigenes Sport-Vertical Nach der Übernahme...",
+          "link": "https://meedia.de/news/beitrag/24257-rtl-tocher-ntv-startet-eigenes-sport-vertical.html",
+          "summary": "RTL-Tochter ntv startet zur Fußball-WM ein eigenes Sport-Vertical unter ntv-sport.de mit Fokus auf Bewegtbild-Inhalte, Live-Berichterstattung und Nutzung der RTL-Sportrechte. Die strategische Ausrichtung erfolgt parallel zu den bestehenden Sportmarken Sport.de und Sky Sport, was die ohnehin schon unübersichtliche Markenstruktur nach der Sky-Übernahme weiter verkompliziert. Das neue Angebot wird als vierte zentrale Säule neben Nachrichten, Breaking News und Wirtschaft positioniert.",
+          "score": 9
         },
         {
           "source": "Guardian Media",
-          "title": "Confessions of a political liveblogger: ‘I enjoy it professionally – but, as a citizen, you can think the country’s going to hell in a handcart’",
-          "link": "https://www.theguardian.com/membership/2026/jun/07/confessions-of-political-liveblogger",
-          "summary": "Andrew Sparrow, der seit über 15 Jahren den täglichen Politik-Live-Blog des Guardian schreibt, berichtete diese Woche über die Veröffentlichung der \"Mandelson-Akten\" - eine der größten Regierungsdokument-Enthüllungen in der britischen Politikgeschichte. Die über 1.000 Dokumente beziehen sich auf Peter Mandelsons gescheiterte Ernennung zum US-Botschafter, der nach Enthüllungen über seine Verbindungen zu Jeffrey Epstein entlassen wurde. Sparrow, der das Live-Blog-Format für politische Berichterstattung beim Guardian seit 2009 pioniert hat, nutzte seine Erfahrung aus der Berichterstattung über die Irak-Krieg-Untersuchung, um die komplexen Enthüllungen in Echtzeit aufzubereiten.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Lesley Stahl, Bill Whitaker and Jon Wertheim say they’ll ‘stay and fight’ at 60 Minutes",
-          "link": "https://www.theguardian.com/global/2026/jun/05/cbs-60-minutes-lesley-stahl-bill-whitaker-jon-wertheim",
-          "summary": "Drei langjährige Korrespondenten von CBS' \"60 Minutes\" (Lesley Stahl, Bill Whitaker und Jon Wertheim) haben angekündigt, trotz der jüngsten Massenentlassungen bei der Sendung zu bleiben und zu \"kämpfen\". Die Personalumstrukturierung unter der neuen CBS News-Führung führte zur Entlassung mehrerer Senior-Korrespondenten und Produzenten, darunter Scott Pelley, der nach Kritik an der neuen Chefredakteurin Bari Weiss fristlos gekündigt wurde. Die verbliebenen Korrespondenten äußerten sich \"zutiefst verärgert\" über die Entlassungen, wollen aber verhindern, dass \"60 Minutes stirbt\".",
+          "title": "Tuesday briefing: Is a social media ban in the UK enough to help protect young people?",
+          "link": "https://www.theguardian.com/world/2026/jun/09/tuesday-briefing-first-edition-social-media-ban-young-people-online-safety-act",
+          "summary": "Die britische Regierung unter Keir Starmer plant radikale Regulierungen für Social Media, die zwar keine komplette Sperre für unter 16-Jährige vorsehen, aber dennoch weitreichende Beschränkungen nach australischem Vorbild umfassen sollen. Die Maßnahmen gehen über bisherige Ansätze hinaus und zielen darauf ab, Jugendliche vor Online-Schäden zu schützen, wobei auch neue Bedrohungen wie KI-Chatbots berücksichtigt werden. Der Schritt reflektiert einen wachsenden generationsübergreifenden Konsens über die Notwendigkeit dringender Maßnahmen zum Schutz junger Menschen in einer \"digital-first\" Welt.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘What It Feels Like For A Girl’ Star Ellis Howard Says Selling Historic BBC Show To U.S. Is A “Revolutionary Act”",
-          "link": "https://deadline.com/2026/06/ellis-howard-what-it-feels-like-for-a-girl-prime-video-1236941762/",
-          "summary": "Ellis Howard, Star der BBC-Serie \"What It Feels Like for a Girl\" - der ersten BBC-Produktion von einer trans Person - bezeichnet Amazon Prime Videos Kauf der queeren Drama-Serie für den US-Markt als \"revolutionären Akt\" angesichts des politischen Klimas in Amerika. Die von Paris Lees adaptierte Serie, die während des Pride Month startet, reiht sich in Prime Videos queere Programm-Palette ein und soll laut Howard der LGBTQ+-Community einen sicheren Raum bieten. Der Launch erfolgt zeitgleich mit anhaltenden politischen Spannungen um LGBTQ+-Rechte in den USA.",
+          "title": "CME Boss Sam Barnett On Combatting The Coming Of Netflix & YouTube In Central And Eastern Europe",
+          "link": "https://deadline.com/2026/06/cme-combat-netflix-youtube-cee-1236951200/",
+          "summary": "CME-CEO Sam Barnett warnt, dass traditionelle TV-Unternehmen in Zentral- und Osteuropa sofort gegen digitale Giganten wie Netflix und YouTube handeln müssen, um nicht ihre Zuschauer zu verlieren. Er betont, dass die geografische Fragmentierung der Region mit verschiedenen Sprachen und Kulturen zwar Konsolidierungsbarrieren für lokale Anbieter schafft, aber auch Markteintrittshürden für amerikanische Streaming-Dienste darstellt. CMEs Vier-Säulen-Strategie umfasst Premium-Content, Verteidigung des linearen TV, schnelles digitales Wachstum und Aufbau starker lokaler Marken.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "Adrian J. Walker’s Novel ‘The End of The World Running Club’ To Be Adapted Into Feature Film",
-          "link": "https://deadline.com/2026/06/adrian-j-walker-the-end-of-the-world-running-club-feature-1236950083/",
-          "summary": "Candr Pictures hat die Filmrechte an Adrian J. Walkers postapokalyptischem Roman \"The End of The World Running Club\" erworben, der von Chris Reading (\"Time Travel Is Dangerous\") als Regisseur und Drehbuchautor adaptiert wird. Der Film folgt einem Edinburgher Vater auf seinem verzweifelten 500-Meilen-Lauf zu Fuß, um seine Familie vor den letzten Evakuierungsschiffen aus Großbritannien zu erreichen, nachdem katastrophale Asteroideneinschläge Europa verwüstet haben. Walker fungiert als Executive Producer des Projekts, das britischen Dark Humor mit Science-Fiction-Elementen verbinden soll.",
+          "title": "Deadline’s German TV Disruptor Anke Greifeneder Wants To “Challenge The Status Quo” & Find Local Hits For HBO",
+          "link": "https://deadline.com/2026/06/hbo-max-germany-anke-greifeneder-local-originals-4-blocks-1236928952/",
+          "summary": "Anke Greifeneder, VP Local Original Production bei WBD für Deutschland, Österreich, Schweiz und Frankreich, erhielt den Deadline German TV Disruptor Award 2026 für ihre Arbeit an Serien wie \"4 Blocks\" und \"Arthur's Law\". Sie setzt auf eine \"kontrazyklische\" Produktionsstrategie, die bewusst gegen Trends arbeitet und Genres neu erfindet, um lokale HBO-Hits zu schaffen. Greifeneder kritisiert die risikoaverse deutsche Produktionsmentalität und sucht nach den nächsten deutschen Stimmen einer Generation wie Lena Dunham oder Richard Gadd.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Success Of YouTube Creatives Like Kane Parsons, Curry Barker, Markiplier Is Diminishing Influence Of Industry’s Older Generation, Says Robert Franke",
+          "link": "https://deadline.com/2026/06/kane-parsons-curry-barker-success-hitting-older-execs-1236951176/",
+          "summary": "YouTube-Creators wie Kane Parsons, Curry Barker und Markiplier erzielen große Kinoerfolge und schwächen dadurch den Einfluss der älteren Branchengeneration, so der deutsche Branchenveteran Robert Franke. Er warnt vor der totalen Fragmentierung der Inhalte-Landschaft und betont, dass Erfahrung und Elite-Ausbildung allein nicht mehr ausreichen, um authentische Geschichten zu erzählen. Trotz des Erfolgs von Filmen wie \"Backrooms\" (212M$ weltweit für A24) bleiben diese Creator-Projekte jedoch weiterhin systemisch in traditionellen Produktionsstrukturen verankert.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Italian Global Series: Sally Wainwright Among Guests Set For Second Edition",
-          "link": "https://deadline.com/2026/06/italian-global-series-sally-wainwright-second-edition-2026-1236950068/",
-          "summary": "Die zweite Ausgabe der Italian Global Series findet vom 3.-6. Juli in Rimini und 7.-10. Juli in Riccione statt, mit prominenten Gästen wie Sally Wainwright (Happy Valley) und Carlton Cuse (Bates Motel). Aus über 160 weltweiten Einreichungen wurden 21 Serien aus 15 Ländern für den internationalen Wettbewerb ausgewählt, der in die Kategorien Drama, Comedy und Limited Series unterteilt ist. Zu den Premieren gehören unter anderem \"Benidorm Is Murder\" (UK/Spanien) und \"Secret Service\" mit Gemma Arterton.",
-          "score": 7
+          "title": "Netflix Lands New Seasons Of ‘Masha And The Bear’",
+          "link": "https://deadline.com/2026/06/netflix-lands-new-seasons-of-masha-and-the-bear-1236951188/",
+          "summary": "Netflix hat eine Verlängerung seines Deals für die russische Animationsserie \"Masha and the Bear\" bekannt gegeben und dabei die Rechte für die Staffeln 8 und 9 sowie die Fortsetzung der Rechte für frühere Staffeln und Spin-offs in über 100 Ländern erworben. Die von Animaccord produzierte Vorschulserie, die auf einem russischen Märchen basiert, gehört mittlerweile zu den global erfolgreichsten Kinderformaten neben Cocomelon und Peppa Pig. Die neuen Episoden werden Mashas ersten Kindergartenbesuch und Winterabenteuer mit der Yeti-Familie thematisieren, während die Serie parallel weiterhin auf YouTube mit 55 Millionen Abonnenten läuft.",
+          "score": 8
         },
         {
           "source": "Deadline",
-          "title": "Monte-Carlo TV Festival’s 65th Edition: An Inside Take On The Event’s Industry-Fan Formula",
-          "link": "https://deadline.com/2026/06/monte-carlo-tv-festival-preview-walking-dead-industry-fans-1236950044/",
-          "summary": "Das Monte-Carlo TV Festival feiert 2026 seine 65. Ausgabe und eröffnet mit Season 3 von \"The Walking Dead: Dead City\", während Kristin Scott Thomas und Kurt Russell den Crystal Nymph erhalten. Das Festival zeichnet sich durch seine einzigartige Kombination aus Industry- und Publikumsveranstaltungen aus, die über fünf Tage alle Akteure des TV-Ökosystems - von Produzenten über Talent bis hin zu Journalisten und Zuschauern - in einem gemeinsamen Setting zusammenbringt. Neben den Hauptauszeichnungen werden Golden Nymph Awards in den Kategorien Fiction, Digital sowie News und Dokumentation vergeben.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Dani Swan Action Thriller ‘Iris’ Set To Film In Spain & Japan; Toei To Assist Japanese Portion Of Shoot",
-          "link": "https://deadline.com/2026/06/dani-swan-action-drama-iris-japan-toei-spain-1236950016/",
-          "summary": "Rising Swan Entertainment entwickelt den Action-Thriller \"Iris\" mit Dani Swan in der Hauptrolle, der ab Herbst 2026 zu 40% in Japan (mit Unterstützung von Toei Company) und in Spanien gedreht wird. Lisa C. Satriano gibt ihr Regiedebüt bei dem Film, der Action Noir, psychologisches Mystery und Samurai-Mythologie zwischen dem modernen Paris und dem feudalen Japan kombiniert. Das Projekt verfügt über ein erfahrenes Crew-Team mit DoP Damien Beebe und Stunt-Koordinator Anthony Nanakornpanom.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Jamie Oliver Group Teaming With Baby Teeth For Microdrama & Wider Pact As Celebrity Chef’s Company Shifts Focus To IP",
-          "link": "https://deadline.com/2026/06/jamie-oliver-group-microdrama-baby-teeth-strategy-1236941778/",
-          "summary": "Die Jamie Oliver Group entwickelt in Partnerschaft mit der Kreativagentur Baby Teeth eine Microdrama-Serie im vertikalen Videoformat, die noch diesen Monat in Großbritannien gedreht werden soll. Der Celebrity-Koch richtet sein Medienunternehmen strategisch neu auf IP-Entwicklung und Formate aus, wobei Alison Corfield zur neuen Brand Director ernannt wurde. Die Zusammenarbeit mit Baby Teeth und einem globalen Tech-Brand signalisiert Olivers Fokus auf neue digitale Storytelling-Formate für veränderte Medienlandschaften.",
+          "title": "How ‘The Flaws’, An Absurdist Comedy Series In Which Barely Anyone Speaks, Beat The Competition At Seriencamp: “We Thought Dialogue Was The Hardest Part, So Let’s Leave Out The Dialogue”",
+          "link": "https://deadline.com/2026/06/the-flaws-zdf-comedy-seriencamp-competition-analyzed-1236941921/",
+          "summary": "Die ZDF-Serie \"The Flaws\" von Bastien Reiber und dem Das Manko Collective gewann bei der Seriencamp-Konkurrenz durch ihren innovativen Verzicht auf Dialog zugunsten von Slapstick und pantomimischen Techniken, inspiriert von Chaplin und Loriot. Die absurdistische Komödie folgt inkompetenten deutschen Behördenangestellten und nutzt zirkusartige Clownerie, um moderne Arbeitswelt und deutsche Bürokratie zu persiflieren. Das 11-köpfige Theaterkollektiv entwickelte das Konzept während der Pandemie aus der Überzeugung heraus, dass Dialog der schwierigste Teil beim Drehbuchschreiben sei.",
           "score": 9
         },
         {
           "source": "Deadline",
-          "title": "John Oliver Jokes CBS News Fired Scott Pelley For “The Crime Of Being Too Cool In A Meeting”",
-          "link": "https://deadline.com/2026/06/john-oliver-last-week-tonight-cbs-news-scott-pelley-firing-1236949860/",
-          "summary": "John Oliver kommentierte in seiner Show \"Last Week Tonight\" die Entlassung des langjährigen CBS News-Korrespondenten Scott Pelley, der nach 37 Jahren beim Sender gefeuert wurde, nachdem er in einem Meeting die Qualifikationen der neuen Führungskräfte infragestellte. Pelley hatte den neuen 60 Minutes-Produzenten Nick Bilton und Chefredakteurin Bari Weiss konfrontiert und behauptet, sie würden das traditionsreiche Nachrichtenmagazin \"ermorden\". FCC-Vorsitzender Brendan Carr kritisierte Pelleys Verhalten als völlig unangemessen, während Oliver scherzte, Pelley sei für das \"Verbrechen, zu cool in einem Meeting zu sein\" entlassen worden.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "‘Star Trek’ 60th Anniversary Celebration, Stars Set for Italian Global Series’ Second Edition",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/star-trek-60th-anniversary-italian-global-series-festival-1236616309/",
-          "summary": "Das Italian Global Series (IGS) Festival findet vom 3.-11. Juli in Rimini und Riccione statt und feiert unter anderem das 60. Jubiläum von Star Trek sowie das 50. Jubiläum von Franco Zeffirellis \"Jesus of Nazareth\". Zu den bestätigten Gästen gehören die britischen Schauspieler John Hannah und Bertie Carvel, während das kostenlose Festival internationale Wettbewerbsbeiträge, Gespräche mit Branchenprofis und italienische Premieren präsentiert.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Tamil Blockbuster ‘Karuppu’ Set for Global Streaming Launch on Amazon Prime Video",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/tamil-karuppu-amazon-prime-video-release-date-1236616290/",
-          "summary": "Der Tamil-Blockbuster \"Karuppu\" mit Suriya startet am 12. Juni weltweit auf Amazon Prime Video, nachdem er mit über 300 Crore Rupees (ca. 35 Mio. USD) zum bisher erfolgreichsten Tamil-Film 2026 wurde. Der von RJ Balaji inszenierte Fantasy-Action-Film kombiniert Mythologie mit Gerichtsdrama und zeigt Suriya als Schutzgottheit, die als Anwalt gegen ein korruptes Rechtssystem kämpft. Prime Video wird den Film in fünf Sprachen und über 200 Ländern streamen, etwa vier Wochen nach dem Kinostart.",
+          "title": "HBO Max To Be Offered Through Prime Video In New Zealand",
+          "link": "https://deadline.com/2026/06/hbo-max-prime-video-new-zealand-1236950006/",
+          "summary": "HBO Max startet am 16. Juni in Neuseeland als Abonnement-Service über Prime Video, nachdem Sky New Zealand die bisherige Content-Partnerschaft nicht verlängert hat. Der Service wird in Standard- ($10,99) und Premium-Varianten ($15,99) angeboten, wobei Frühbucher-Rabatte von den regulären Preisen ($15,99/$20,99) gewährt werden. Der Launch erfolgt strategisch vor dem Start der dritten Staffel von \"House of the Dragon\" und umfasst das komplette HBO-Portfolio sowie Warner Bros.-Inhalte.",
           "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Palestine-German Project ‘Chentian,’ by ‘Lemon Tree,’ ‘The Syrian Bride’ Scribe Suha Arraf, Adds Jordan Co-Producer Arab Media Network (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/global/chentian-suha-arraf-may-odeh-arab-media-network-ecam-forum-1236769207/",
-          "summary": "Die palästinensisch-deutsche Koproduktion \"Chentian\" von Regisseurin Suha Arraf (\"Lemon Tree\", \"The Syrian Bride\") hat mit Jordan's Arab Media Network einen weiteren Koproduzenten gewonnen. Das Projekt der erfahrenen Produzentin May Odeh gewann bereits den €35.000 Tin Post-Production Award beim Göteborg Film Festival und wird beim ECAM Forum in Madrid gepitcht. Der Film erzählt die Geschichte palästinensischer Frauen, die für die Befreiung ihres Körpers und ihres Landes kämpfen.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Fox Wins Rights to Show NFL Games in Mexico",
-          "link": "https://variety.com/2026/tv/news/fox-nfl-rights-mexico-1236769194/",
-          "summary": "Fox Corp. hat die Übertragungsrechte für NFL-Spiele in Mexiko gesichert, einschließlich Thursday Night Football, Super Bowl und NFC-Playoffs, die über lineare TV-Kanäle sowie die Streaming-Dienste Fox One und Tubi ausgestrahlt werden. Der Deal umfasst auch vier wöchentliche NFL-Originalprogramme speziell für mexikanische Fans und erfolgt vor dem Hintergrund von Spekulationen über mögliche NFL-Vertragsausstiegsklauseln zur Neuverhandlung höherer Medienrechtegebühren. Die Vereinbarung zeigt die NFL-Strategie zur internationalen Expansion und Maximierung der Medienerlöse.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "‘Money Heist’ Producer Sonia Martínez Appointed El Estudio Director of Contents, Spain",
-          "link": "https://variety.com/2026/tv/global/sonia-martinez-el-estudio-pablo-cruz-1236769182/",
-          "summary": "Sonia Martínez, die bekannte TV-Produzentin hinter Erfolgsserien wie \"Money Heist\" und \"Locked Up\", wurde zur Director of Contents für Spanien bei El Estudio ernannt, dem 2020 gegründeten Produktionsunternehmen unter der Leitung von Pablo Cruz. In ihrer neuen Position wird Martínez die kreative Strategie, Entwicklung und Produktion von Film- und TV-Projekten sowie die Unternehmenskonsolidierung von El Estudio in Spanien verantworten. El Estudio hat bereits erfolgreich Inhalte bei Netflix, TelevisaUnivision's ViX und Amazon Prime Video platziert.",
-          "score": 8
         }
       ]
     }
