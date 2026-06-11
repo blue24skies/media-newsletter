@@ -1,405 +1,251 @@
 {
   "newsletters": [
     {
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Michael Souvignier erhält Carl Laemmle Produzentenpreis",
-          "link": "https://www.dwdl.de/nachrichten/106787/michael_souvignier_erhaelt_carl_laemmle_produzentenpreis/",
-          "summary": "Michael Souvignier wird 2026 mit dem Carl Laemmle Produzentenpreis ausgezeichnet, den die Produktionsallianz und die Stadt Laupheim für bedeutende Produzentenpersönlichkeiten verleihen. Die Jury würdigt sein über 40-jähriges Schaffen mit Zeitsprung Pictures, das erfolgreiche Produktionen wie \"Das Wunder von Lengende\", \"Contergan\", \"Kleo\" und \"Der Medicus 2\" hervorbrachte. Souvignier wurde bereits mit dem Grimme Preis (2010) und dem Deutschen Filmpreis (2022) ausgezeichnet.",
+          "title": "ARD schickt Mediatheken-Hit \"In höchster Not\" in Staffel 3",
+          "link": "https://www.dwdl.de/nachrichten/106804/ard_schickt_mediathekenhit_in_hoechster_not_in_staffel_3/",
+          "summary": "Die ARD hat aufgrund des großen Mediathek-Erfolgs von \"In höchster Not - Bergretter im Einsatz\" eine dritte Staffel in Auftrag gegeben, nachdem die zweite Staffel 5,8 Millionen Abrufe erzielte und damit die erste Staffel übertraf. Timeline Production hat bereits mit den Dreharbeiten begonnen, wobei die Bergwacht Oberstdorf neu hinzukommt, während Ramsau pausiert und Grainau sowie Bad Reichenhall weiterhin beteiligt bleiben. Die Dokuserie begleitet authentische Rettungseinsätze bayerischer Bergwachten mit aufwendiger Kameratechnik inklusive Bodycams und 360-Grad-Kameras unter Extrembedingungen.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Schalko, Everts, Feldhusen beim Seriencamp: Bierchen im Bahnhaus",
-          "link": "https://www.dwdl.de/nachrichten/106780/schalko_everts_feldhusen_beim_seriencamp_bierchen_im_bahnhaus/",
-          "summary": "Beim Kölner Seriencamp diskutierten die renommierten Comedy-Regisseure Arne Feldhusen („Stromberg\") und David Schalko („Aufschneider\") zusammen mit btf-Produzentin Jule Everts in entspannter Atmosphäre über „Humor als Standpunkt\". Das Panel zog deutlich mehr Besucher an als erwartet und behandelte trotz lockerer Bier-Runde analytisch tiefgreifend die Mechaniken von TV-Comedy, wobei betont wurde, dass gute Comedy weniger auf Punchlines als auf präzises Timing und Publikumsbeobachtung setzt.",
+          "title": "RTL stellt sein Team für Transformation & Strategie neu auf",
+          "link": "https://www.dwdl.de/nachrichten/106802/rtl_stellt_sein_team_fuer_transformation__strategie_neu_auf/",
+          "summary": "RTL Deutschland strukturiert nach der Sky-Übernahme sein Transformation & Strategie-Team neu, mit Max Orgonyi als Chief Transformation & AI Officer an der Spitze, der den Zusammenschluss, die KI-Agenda und Portfolio-Entwicklung verantwortet. Das Team aus vier weiteren Führungskräften soll eine integrierte Windowing-Strategie entwickeln und die angestrebten 250 Millionen Euro jährliche Synergien innerhalb von drei Jahren realisieren. Parallel übernimmt Nicolas Schreiber als SVP Strategy die langfristige Unternehmensentwicklung mit Fokus auf Sport, Live Entertainment und neue Erlösmodelle.",
           "score": 9
         },
         {
           "source": "DWDL",
-          "title": "\"Tabubruch\" im WDR? Tarifverhandlungen enden im Eklat",
-          "link": "https://www.dwdl.de/nachrichten/106779/tabubruch_im_wdr_tarifverhandlungen_enden_im_eklat_/",
-          "summary": "Die Tarifverhandlungen beim WDR endeten im Eklat, als der Sender überraschend nur mit der VRFF eine Einigung erzielte, während ver.di und DJV leer ausgingen - ein Bruch der bisherigen gemeinsamen Verhandlungspraxis. Die VRFF-Vereinbarung sieht Gehaltssteigerungen von insgesamt bis zu 5,73% über 35 Monate vor, wobei Teile der Erhöhungen an den Rundfunkbeitrag und künftige ARD-weite Flexibilisierungsregelungen gekoppelt sind. Zuvor hatten noch alle Gewerkschaften gemeinsam zum Streik aufgerufen, der das WDR-Programm erheblich beeinträchtigte.",
+          "title": "Jörg Winger wird Deutschland-Chef von Dynamic Television",
+          "link": "https://www.dwdl.de/nachrichten/106788/joerg_winger_wird_deutschlandchef_von_dynamic_television/",
+          "summary": "Jörg Winger, ehemaliger UFA-Geschäftsführer und Showrunner von \"Deutschland 83\", übernimmt als Geschäftsführer die deutschen Produktionsaktivitäten von Dynamic Television, dem internationalen Mini-Studio hinter Serien wie \"Ginny & Georgia\" und \"Harry Wild\". Dynamic Television, 2013 von Klaus Zimmermann und Dan March gegründet, hat sich vom Programmvertrieb zu einem Produktionsunternehmen entwickelt, das 2025 insgesamt elf Serien produzierte oder koproduzierte. Winger leitet nun die Berliner Niederlassung des Studios mit Hauptsitz in Los Angeles und weiteren Standorten in Paris.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Wer wird neuer ORF-Chef? Die Wahl im DWDL.de-Ticker",
+          "link": "https://www.dwdl.de/nachrichten/106799/wer_wird_neuer_orfchef_die_wahl_im_dwdldeticker/",
+          "summary": "Neun Kandidaten bewerben sich heute vor dem ORF-Stiftungsrat um die Nachfolge des zurückgetretenen Generaldirektors Roland Weißmann. Clemens Pig, langjähriger APA-Chef, steht im Mittelpunkt der Befragungen und geriet bereits mit FPÖ-Stiftungsrat Peter Westenthaler aneinander. Für die Wahl ist eine einfache Mehrheit von 18 der 35 Stimmen erforderlich.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Anne Will wird mit Stuttgarter Moderationspreis geehrt",
-          "link": "https://www.dwdl.de/nachrichten/106778/anne_will_wird_mit_stuttgarter_moderationspreis_geehrt/",
-          "summary": "Anne Will wird vom Institut für Moderation der Hochschule der Medien Stuttgart mit dem neuen Stuttgarter Moderationspreis in der Kategorie \"Vorbild Moderation\" ausgezeichnet. Die Ehrung würdigt ihre journalistische Präzision und sprachliche Klarheit während ihrer Polittalk-Karriere (2007-2023) sowie ihren Mut zur Weiterentwicklung mit dem neuen Podcast-Format \"Politik mit Anne Will\". Die Preisverleihung findet am 26. Juni statt, moderiert von Ingo Zamperoni.",
+          "title": "\"Inside Kanzleramt\": Welt mit neuem Format am Nachmittag",
+          "link": "https://www.dwdl.de/nachrichten/106794/inside_kanzleramt_welt_mit_neuem_format_am_nachmittag/",
+          "summary": "Welt startet ab Donnerstag das neue wöchentliche Format \"Inside Kanzleramt\" (donnerstags 16:15 Uhr), das mit fünf erfahrenen Ex-Politikern und Regierungssprechern einen Blick hinter die Kulissen der deutschen Bundespolitik werfen soll. Das Format wird parallel als Podcast und mit begleitenden Kolumnen auf Welt.de veröffentlicht und baut die erfolgreiche Talk-Strecke im Nachmittagsprogramm nach \"Meinungsfreiheit\" weiter aus.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Wasmuth bündelt Dieter von Holtzbrincks Medien-Reich",
-          "link": "https://www.dwdl.de/nachrichten/106775/wasmuth_buendelt_dieter_von_holtzbrincks_medienreich/",
-          "summary": "Dieter von Holtzbrinck bündelt zum 1. Januar 2027 seine Medienunternehmen Handelsblatt Media Group, Tagesspiegel Verlag und Dieter von Holtzbrinck Medien zur integrierten \"Holtzbrinck Media\" unter CEO Andrea Wasmuth. Während die Redaktionen von Handelsblatt, WirtschaftsWoche, Tagesspiegel und Background-Briefings unabhängig bleiben, werden Querschnittsfunktionen zusammengefasst und Investitionen in KI, digitale Produkte und neue Geschäftsfelder geplant. Die \"Zeit\" ist nicht Teil der neuen Struktur, da von Holtzbrinck seinen 50%-Anteil an die Verlagsgruppe Georg von Holtzbrinck abgegeben hat.",
-          "score": 8
+          "title": "\"Don't Mess with Gamers\": Wie werden Serien kreativ erfolgreich?",
+          "link": "https://www.dwdl.de/nachrichten/106791/dont_mess_with_gamers_wie_werden_serien_kreativ_erfolgreich/",
+          "summary": "Beim Kölner Seriencamp diskutierten Branchenexperten unter dem Motto \"Serien als Marken\", wie in der übersättigten Streaming-Landschaft nur noch Inhalte mit starkem IP-Fundament und Community-Bildung rentabel sind. Showrunner Steven Kane (\"Halo\") betonte die doppelte Herausforderung: \"Wenn du kreativ werden willst, darfst du dich um deine Story kümmern; wenn du sie verkaufen willst, musst du dich um deine IP kümmern.\" Games, Graphic Novels und Superhelden-Franchises gelten dabei als besonders erfolgreiche Ausgangsmaterialien für Serien-Adaptionen.",
+          "score": 9
         },
         {
           "source": "DWDL",
-          "title": "ZDFneo holt \"Böhmi brutzelt\" Mitte Juli zurück ins Programm",
-          "link": "https://www.dwdl.de/nachrichten/106763/zdfneo_holt_boehmi_brutzelt_mitte_juli_zurueck_ins_programm/",
-          "summary": "ZDFneo bringt Jan Böhmermanns Kochshow \"Böhmi brutzelt\" ab 18. Juli samstags um 19:45 Uhr mit acht neuen Folgen zurück, nachdem das Format zunächst eingestellt und dann doch verlängert wurde. Tim Mälzer ist als erster Gast bestätigt, während die Zukunft des \"ZDF Magazin Royale\" noch in Verhandlungen steht. Die Exklusivität zwischen ZDF und Böhmermann ist beendet, die weitere Zusammenarbeit wird neu ausgehandelt.",
-          "score": 7
+          "title": "Hinterhof Film gründet Label für Microdramen",
+          "link": "https://www.dwdl.de/nachrichten/106793/hinterhof_film_gruendet_label_fuer_microdramen/",
+          "summary": "Die Berliner Produktionsfirma Hinterhof Film hat das Label \"Hinterhof Verticals\" für die Entwicklung und Produktion von Microdramen gegründet, die speziell für Smartphones konzipiert sind. Das Unternehmen nutzt dabei Erfahrungen aus Koproduktionen mit südkoreanischen Partnern, um das in Asien erfolgreiche Format für den europäischen Markt zu adaptieren. Zusätzlich plant Hinterhof Film, deutsche und europäische Unternehmen beim Einstieg in dieses Segment zu unterstützen.",
+          "score": 9
         },
         {
           "source": "Horizont Medien",
-          "title": "Zeitungsvermarkter: Carsten Dorn verlässt Score Media",
-          "link": "https://www.horizont.net/medien/nachrichten/zeitungsvermarkter-carsten-dorn-verlaesst-score-media-234666?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Carsten Dorn verlässt seine Position als Geschäftsführer der Score Media Group, einem Zeitungsvermarkter. Sein neuer beruflicher Werdegang sowie die Nachfolge sind noch nicht bekannt, der Nachfolgeprozess läuft jedoch bereits.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "KI-Offensive: Was die neue Google-Suche für den Online-Markt bedeutet",
-          "link": "https://www.horizont.net/medien/nachrichten/ki-offensive-was-die-neue-google-suche-fuer-den-online-markt-bedeutet-234631?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Google positioniert seine Suchmaschine durch eine KI-Offensive als zentrale Internetschaltstelle und erhöht damit den Konkurrenzdruck auf andere Online-Angebote erheblich. Die Entwicklung wird voraussichtlich weitreichende Auswirkungen auf das Suchmaschinenmarketing haben und die Marktdynamik im digitalen Bereich grundlegend verändern.",
+          "title": "Nach Sky-Übernahme: Schlüsselrolle für Max Orgonyi: So rüstet sich RTL für das Plattform-Duell",
+          "link": "https://www.horizont.net/medien/nachrichten/nach-sky-uebernahme-schluesselrolle-fuer-max-orgonyi-so-ruestet-sich-rtl-fuer-das-plattform-duell-234684?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "RTL stellt im Zuge des Sky-Deals seine strategische Führungsebene um und ernennt Max Orgonyi zu einer Schlüsselposition. Orgonyi soll als Architekt der umfassendsten Transformation in der RTL-Unternehmensgeschichte fungieren und das Unternehmen für die Konkurrenz im Plattform-Geschäft positionieren.",
           "score": 10
         },
         {
           "source": "Horizont Medien",
-          "title": "Handelsblatt, Tagesspiegel und DvH: Dieter von Holtzbrinck bündelt seine Verlage in Holtzbrinck Media",
-          "link": "https://www.horizont.net/medien/nachrichten/handelsblatt-tagesspiegel-und-dvh-dieter-von-holtzbrinck-buendelt-seine-verlage-in-holtzbrinck-media-234655?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Dieter von Holtzbrinck reorganisiert nach dem Verkauf seines Zeit-Anteils seine Mediengruppe und führt 2027 die Handelsblatt Media Group, den Tagesspiegel Verlag und die Dachgesellschaft Dieter von Holtzbrinck Medien in der neuen Holtzbrinck Media zusammen. Die Umstrukturierung erfolgt im Rahmen einer strategischen Neuausrichtung der Verlagsgruppe.",
-          "score": 9
+          "title": "Studie Zeitungsfacetten 2026: Zeitungsleser nehmen Werbung unabhängig vom Umfeld wahr",
+          "link": "https://www.horizont.net/medien/nachrichten/studie-zeitungsfacetten-2026-zeitungsleser-nehmen-werbung-unabhaengig-vom-umfeld-wahr-234681?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die jährliche Studie \"Zeitungsfacetten 2026\" von Score Media zeigt, dass Zeitungsleser Werbung unabhängig vom redaktionellen Umfeld wahrnehmen. Die Ergebnisse liefern neue Erkenntnisse zur kontrovers diskutierten Frage nach dem Einfluss des Medienumfelds auf die Werbewahrnehmung.",
+          "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "HORIZONT-Medienmann des Jahres im Interview: Christian Schmalzl: &quot;Ein bisschen mehr Zeit in der Sonne schadet nicht&quot;",
-          "link": "https://www.horizont.net/medien/nachrichten/horizont-medienmann-des-jahres-im-interview-christian-schmalzl-ein-bisschen-mehr-zeit-in-der-sonne-schadet-nicht-234634?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Christian Schmalzl, seit 2017 Co-CEO von Ströer neben Gründer Udo Müller, wurde als HORIZONT Medienmann des Jahres ausgezeichnet. Im Interview reflektiert der scheidende Vorstand, der bis Frühjahr 2026 bei Ströer bleibt, über seinen Werdegang in der Werbebranche und seinen bevorstehenden Abschied vom Unternehmen.",
-          "score": 9
+          "title": "Studie: Deutsche geben mehr für digitale Abos aus",
+          "link": "https://www.horizont.net/medien/nachrichten/studie-deutsche-geben-mehr-fuer-digitale-abos-aus-234676?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Deutsche Haushalte steigern ihre Ausgaben für digitale Abonnements kontinuierlich, wobei bereits fast 20% mehr als 100 Euro monatlich investieren. Parallel gewinnen werbefinanzierte Modelle an Akzeptanz, sofern sie preisliche Vorteile bieten. Der Wettbewerb um Nutzeraufmerksamkeit und Zahlungsbereitschaft intensiviert sich zunehmend.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Intendantenwahl in Österreich: Wer wird neuer ORF-Chef?",
+          "link": "https://www.horizont.net/medien/nachrichten/orf-wahl-2026-showdown-am-kueniglberg-wer-wird-neuer-orf-chef-234675?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "35 ORF-Stiftungsräte entscheiden heute über die neue Intendanz des österreichischen öffentlich-rechtlichen Rundfunks, wobei neun Kandidaten in den Hearings antreten. Die Beratungen beginnen um 10 Uhr, eine Entscheidung wird erst am Abend erwartet.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Eigenes WM-Studio und neue Formate: Kicker geht zur WM in die Video-Offensive",
+          "link": "https://www.horizont.net/medien/nachrichten/eigenes-wm-studio-und-neue-formate-kicker-geht-zur-wm-in-die-video-offensive-234669?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der Kicker startet zur Weltmeisterschaft eine umfassende Video-Offensive und wird aus einem eigenen Studio in den USA berichten. Das Sportmagazin baut damit seine bereits erfolgreiche Video-Content-Strategie weiter aus und entwickelt neue Formate für die WM-Berichterstattung.",
+          "score": 8
         },
         {
           "source": "Horizont Medien",
           "title": "Giovanni di Lorenzo und Nils von der Kall: KI als Chance: Warum starke Marken wie Die Zeit jetzt profitieren",
           "link": "https://www.horizont.net/medien/nachrichten/giovanni-di-lorenzo-und-nils-von-der-kall-beim-horizont-kongress-ki-als-chance-warum-starke-marken-wie-die-zeit-jetzt-profitieren-234596?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Beim HORIZONT-Kongress diskutierten Zeit-Chefredakteur Giovanni di Lorenzo und CEO Nils von der Kall, wie die 80 Jahre alte Medienmarke durch den Einsatz von KI ihre Relevanz in der sich wandelnden Medienlandschaft sichert. Die beiden Führungskräfte sehen Künstliche Intelligenz als strategische Chance für etablierte, starke Medienmarken wie Die Zeit.",
+          "summary": "Beim HORIZONT-Kongress diskutierten Zeit-Chefredakteur Giovanni di Lorenzo und CEO Nils von der Kall die Herausforderung, eine 80 Jahre alte Medienmarke in einer sich wandelnden Branche relevant zu halten. Sie positionieren KI als Chance für starke Marken wie Die Zeit, um in der digitalen Transformation zu profitieren.",
           "score": 9
         },
         {
           "source": "kress",
-          "title": "Nach dem Zeit-Deal: Handelsblatt, WirtschaftsWoche und Tagesspiegel werden zur Holtzbrinck Media - Wasmuth an der Spitze Die Familie Holtzbrinck ordnet sich neu",
-          "link": "https://kress.de/news/beitrag/153025-nach-dem-zeit-deal-handelsblatt-wirtschaftswoche-und-tagesspiegel-werden-zur-holtzbrinck-media-wasmuth-an-der-spitze.html",
-          "summary": "Die Holtzbrinck-Familie reorganisiert ihre Medienaktivitäten: Zum 1. Januar 2027 fusionieren Handelsblatt Media Group, Tagesspiegel Verlag und Dieter von Holtzbrinck Medien zur neuen \"Holtzbrinck Media\" unter CEO Andrea Wasmuth. Parallel zur Zeit-Übernahme durch Stefan von Holtzbrinck werden die Titel Handelsblatt, WirtschaftsWoche, Tagesspiegel und Background-Briefings gebündelt, mit Investitionen in Events, Communities und KI-gestützte Angebote sowie mittleren zweistelligen Stellenaufbau geplant.",
+          "title": "FAZ löscht Voigt-Gastbeitrag wegen KI-Verdachts",
+          "link": "https://kress.de/news/beitrag/153559-diese-einlassung-genuegt-uns-nicht-quot-faz-loescht-voigt-gastbeitrag-wegen-ki-verdachts.html",
+          "summary": "Die FAZ hat einen Gastbeitrag von Thüringens Ministerpräsident Mario Voigt (CDU) zum Social-Media-Verbot für Kinder wegen KI-Verdachts gelöscht, nachdem das Portal \"Frag den Staat\" mit dem Analyseprogramm Pangram Hinweise auf KI-Einsatz gefunden hatte. Die Staatskanzlei antwortete auf FAZ-Nachfragen nur ausweichend, zudem enthält der Beitrag nicht verifizierbare Expertenquellen. Dies folgt auf einen bereits bekannt gewordenen Fall, bei dem Voigt und sein sachsen-anhaltinischer Kollege Schulze einen \"Welt\"-Gastbeitrag mithilfe von KI erstellt haben sollen.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Bauer-Media-CPO Semmler erklärt den „Liquid Publisher\" beim European Publishing Congress in Wien",
+          "link": "https://kress.de/news/beitrag/153561-wer-inhalte-am-intelligentesten-strukturiert-quot-bauer-media-cpo-semmler-erklaert-den-liquid-publisher-quot-beim-european-publishing-congress-in-wien.html",
+          "summary": "Marcel Semmler, Chief Product Officer bei Bauer Media, präsentiert beim European Publishing Congress das Konzept des „Liquid Publishers\" und fordert, KI nicht als Zusatzfunktion, sondern als grundlegende Infrastruktur zu verstehen. Seine Kernthese: Erfolgreiche Medienhäuser der Zukunft werden sich durch intelligente Content-Strukturierung statt durch Masse oder Geschwindigkeit differenzieren. Der Kongress fokussiert auf praktische KI-Anwendungen in Medienhäusern und erwartet über 500 Führungskräfte europäischer Verlage.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "250 Millionen Euro Synergien in drei Jahren: RTL Deutschland stellt Team für Sky-Integration neu auf 250 Millionen Euro Synergien, eine KI-Agenda für das gesamte Unternehmen, die Integration mit Sky",
+          "link": "https://kress.de/news/beitrag/153557-250-millionen-euro-synergien-in-drei-jahren-rtl-deutschland-stellt-team-fuer-sky-integration-neu-auf.html",
+          "summary": "RTL Deutschland strukturiert seine Führung neu und ernennt Max Orgonyi zum Chief Transformation & AI Officer, der die Integration mit Sky vorantreiben und binnen drei Jahren 250 Millionen Euro jährliche Synergien generieren soll. Unterstützt wird er von einem Team aus Sky- und RTL-Experten für Portfolio-, Business- und Integrations-Transformation sowie einem neuen VP AI. Parallel übernimmt Nicolas Schreiber als SVP Strategy die langfristige strategische Weiterentwicklung mit Fokus auf Sport, Live Entertainment und neue Erlösmodelle.",
           "score": 9
         },
         {
           "source": "kress",
-          "title": "Score Media vor Führungswechsel: Carsten Dorn geht nach acht Jahren",
-          "link": "https://kress.de/news/beitrag/153553-score-media-vor-fuehrungswechsel-carsten-dorn-geht-nach-acht-jahren-nachfolger-gesucht.html",
-          "summary": "Carsten Dorn verlässt nach acht Jahren als Geschäftsführer die Score Media Group, die Vermarktungsgesellschaft von über 420 regionalen Tageszeitungstiteln. Der ehemalige Springer-Manager hatte 2018 von Media Impact gewechselt und nach dem Abgang seines Co-Geschäftsführers Heiko Genzlinger die alleinige Unternehmensführung übernommen. Ein Headhunter sucht bereits intern und extern nach einer Nachfolgelösung, während Dorn das Unternehmen bis zu seinem Ausscheiden vollumfänglich weiterführt.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "\"Man kann Fakten nicht urheberrechtlich schützen\": CNN verklagt Perplexity",
-          "link": "https://kress.de/news/beitrag/153552-quot-man-kann-fakten-nicht-urheberrechtlich-schuetzen-quot-cnn-verklagt-perplexity-und-die-ki-firma-haelt-dagegen.html",
-          "summary": "CNN verklagt die KI-Firma Perplexity als erster großer TV-Sender wegen Urheberrechtsverletzung, da das Unternehmen über 17.000 CNN-Inhalte ohne Lizenz für das Training seiner KI-Modelle kopiert haben soll. Die Klage wirft Perplexity sowohl Rechteverletzungen beim Input (unrechtmäßiges Crawling und Extrahieren von Inhalten) als auch beim Output (Generierung identischer oder stark ähnlicher Inhalte) vor. Dies ist Teil einer breiteren rechtlichen Auseinandersetzung zwischen Medienunternehmen und KI-Firmen um faire Entschädigung für die Nutzung urheberrechtlich geschützter Inhalte.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Verleger Friedrich ist Geschäftsführer einer Firma für „Public Diplomacy\" und Government Affairs",
-          "link": "https://kress.de/news/beitrag/153023-handelsblatt-recherche-verleger-friedrich-ist-geschaeftsfuehrer-einer-firma-fuer-public-diplomacy-quot-und-government-affairs.html",
-          "summary": "Holger Friedrich, Verleger der Berliner Zeitung, ist Geschäftsführer der neu gegründeten Orbis Nova GmbH, die Beratungs- und Lobbyingdienstleistungen für Unternehmen, Verbände und Regierungen anbietet. Als zweiter Geschäftsführer fungiert Alexander Dergay, der seine redaktionelle Tätigkeit bei der Berliner Zeitung aufgibt und seine geopolitische Expertise einbringen soll. Friedrich betont, dass seine Funktion primär Compliance-bedingt sei und die journalistischen Angebote weiterhin ausschließlich durch Leser- und Werbeerlöse finanziert würden.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Nicht verordnen, sondern wachsen lassen: Zeit-KI-Projektmanagerin Seiffe beim European Publishing Congress in Wien Workshops, Impulse, Dialoge",
-          "link": "https://kress.de/news/beitrag/153028-nicht-verordnen-sondern-wachsen-lassen-zeit-ki-projektmanagerin-seiffe-beim-european-publishing-congress-in-wien.html",
-          "summary": "Laura Seiffe, KI-Projektmanagerin der Zeit Verlagsgruppe, präsentiert beim European Publishing Congress in Wien ihre Strategie zur KI-Transformation, die auf organisches Wachstum statt Verordnung setzt. Sie zeigt bewährte Formate wie Workshops und Dialoge auf und betont, dass die KI-Einführung als kultureller Wandel mit Fokus auf Transparenz und gemeinsames Lernen verstanden werden muss. Der Kongress versammelt über 500 Führungskräfte europäischer Medienhäuser zum Thema \"KI und Medien\".",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "22 von 24 Stimmen: Martin Grasmück als SR-Intendant wiedergewählt\" Martin Grasmück bleibt Intendant des Saarländischen Rundfunks",
-          "link": "https://kress.de/news/beitrag/153024-22-von-24-stimmen-martin-grasmueck-als-sr-intendant-wiedergewaehlt-quot.html",
-          "summary": "Martin Grasmück wurde mit überwältigender Mehrheit (22 von 24 Stimmen) als Intendant des Saarländischen Rundfunks für eine weitere sechsjährige Amtszeit bis 2033 wiedergewählt. Sein Gegenkandidat Peter Dinges (FFA-Vorstand) erhielt lediglich zwei Stimmen. Der Rundfunkrat begründete die Entscheidung mit Grasmücks Kompetenz, den SR durch die anstehende Organisationsreform und digitale Transformation zu führen.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Neutral berichten? Chefredakteurin Abdelaziz-Ditzow räumt mit einem Journalismus-Mythos auf Immer mehr Bürger fordern „neutralen\" Journalismus",
-          "link": "https://kress.de/news/beitrag/153019-neutral-berichten-chefredakteurin-abdelaziz-ditzow-raeumt-mit-einem-journalismus-mythos-auf.html",
-          "summary": "Mary Abdelaziz-Ditzow, Chefredakteurin bei Finanzfluss, argumentiert in einem Gastbeitrag für kress.de gegen die weit verbreitete Forderung nach \"neutralem\" Journalismus und bezeichnet diese als Mythos. Sie stellt klar, dass Neutralität weder vom Journalismus gefordert wird noch praktisch umsetzbar ist. Der Beitrag knüpft an die Debatte zwischen Funke-Chefredakteurin Melanie Amann und Podcast-Host Ben Berndt über die Abgrenzung zwischen journalistischer Einordnung und Aktivismus an.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Konsolidierung im Special-Interest-Segment: Delius Klasing übernimmt ElektroRad und Radfahren ElektroRad, Radfahren, radfahren.de, radclub.de",
-          "link": "https://kress.de/news/beitrag/153020-konsolidierung-im-special-interest-segment-delius-klasing-uebernimmt-elektrorad-und-radfahren.html",
-          "summary": "Delius Klasing hat zum 1. Juni 2026 die Special-Interest-Magazine „ElektroRad\" und „Radfahren\" sowie die digitalen Plattformen radfahren.de und radclub.de von BVA BikeMedia übernommen, wobei alle Redaktionen und Mitarbeitenden übernommen werden. Die Akquisition stärkt die Marktposition des Bielefelder Verlags im Radsport-Segment erheblich, der bereits BIKE, TOUR und MYBIKE verlegt. Die digitalen Plattformen sollen im Rahmen der Digitalisierungsstrategie weiterentwickelt und mit dem gesamten Markenportfolio sowie der Mediengruppe Klambt vernetzt werden.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Erstmals eine Redakteurin aus der Zielregion: Isha Bhatia Sanan leitet DW-Studio Neu-Delhi Indien gewinnt strategisch an Bedeutung",
-          "link": "https://kress.de/news/beitrag/153022-erstmals-eine-redakteurin-aus-der-zielregion-isha-bhatia-sanan-leitet-dw-studio-neu-delhi.html",
-          "summary": "Die Deutsche Welle hat mit Isha Bhatia Sanan erstmals eine Journalistin aus der eigenen Indien-Redaktion zur Leiterin des Studios in Neu-Delhi ernannt, die Sandra Petersmann nachfolgt. Die erfahrene Senior Editorin und TV-Moderatorin soll die strategisch wichtige Berichterstattung aus Indien für die multipolaren globalen Entwicklungen verstärken. Die Personalie unterstreicht die wachsende strategische Bedeutung Indiens für die DW, insbesondere wegen der großen, digital affinen und jungen Zielgruppe.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "\"Frag NOZ\" auf der Bühne: NOZ-Chefredakteurin Riepe beim European Publishing Congress in Wien 12.000 Fragen in drei Wochen",
-          "link": "https://kress.de/news/beitrag/153018-quot-frag-noz-quot-auf-der-buehne-noz-chefredakteurin-riepe-beim-european-publishing-congress-in-wien.html",
-          "summary": "NOZ-Chefredakteurin Louisa Riepe präsentiert beim European Publishing Congress 2026 in Wien drei erfolgreiche KI-Anwendungen im Lokaljournalismus: den Chatbot \"Frag NOZ\" (12.000 Nutzeranfragen in drei Wochen), automatisierte Artikelzusammenfassungen und KI-gestützte Wahlberichterstattung. Der Fokus liegt auf praktischen Erfahrungen und Herausforderungen beim Einsatz von KI-Tools im redaktionellen Alltag sowie deren Rolle für die Verbindung von Journalismus und Nutzerbedürfnissen.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Berufliche Motivation: Warum Leidenschaft für den Job kein Luxus ist Wer beruflich vorankommen, überzeugen und zufrieden sein will, muss sich stärker als andere einbringen. Das erfordert Leidenschaft für das, was man jeden Tag tut",
-          "link": "https://kress.de/news/beitrag/153016-berufliche-motivation-warum-leidenschaft-fuer-den-job-kein-luxus-ist.html",
-          "summary": "Karrierecoach Attila Albert argumentiert, dass berufliche Leidenschaft kein Luxus, sondern essentiell für nachhaltigen Erfolg und Zufriedenheit ist, da sie in wirtschaftlich schwierigen Zeiten entscheidende Wettbewerbsvorteile verschafft. Leidenschaftliche Mitarbeiter sind überzeugender bei Projekten und Bewerbungen, entschlossener bei der Umsetzung und besser gerüstet für Veränderungsprozesse wie den Medienumbruch. Dies gilt besonders für Freiberufler und Pauschalisten, die als Unternehmer zusätzliche Herausforderungen bei Akquise und Frustrationsbewältigung meistern müssen.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Entscheidung der EU-Kommission WhatsApp muss andere KI-Anbieter zulassen Meta hat nur fünf Werktage...",
-          "link": "https://meedia.de/news/beitrag/24362-whatsapp-muss-andere-ki-anbieter-zulassen.html",
-          "summary": "Die EU-Kommission hat Meta per einstweiliger Anordnung verpflichtet, binnen fünf Werktagen anderen KI-Anbietern wieder kostenlosen Zugang zur WhatsApp-Schnittstelle zu gewähren, nachdem Meta diesen im Oktober gesperrt und später nur gegen Gebühr wieder geöffnet hatte. Die Kommission sieht darin eine wettbewerbswidrige Praxis, die kleinere Anbieter auf dem wachsenden Markt für KI-Assistenten benachteiligt und droht bei Nichteinhaltung mit empfindlichen Strafen. Betroffen sind insbesondere Unternehmen, die KI-Chatbots für Kundenkommunikation über WhatsApp nutzen.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Sponsoring der Fußball-WM Unilever: Trotz Fokus auf Social Media bleiben klassische Medien im Mediamix Unilever sponsert mit seiner Körperpflegesparte die Fußball-WM 2026 der Männer. In diesem Rahmen werden über 35 Marken wie Dove, Rexona/Degree und Axe vor allem mit Creator und Influencern aktiv",
-          "link": "https://meedia.de/news/beitrag/24364-unilever-trotz-fokus-auf-social-media-bleiben-klassische-medien-im-mediamix.html",
-          "summary": "Unilever sponsert mit seiner Körperpflegesparte die Fußball-WM 2026 und aktiviert über 35 Marken wie Dove, Rexona und Axe primär über Creator- und Influencer-Marketing in den Bereichen Sport, Mode und Lifestyle. Das Unternehmen etabliert dafür Social-Media-Hubs (\"House of Fresh\", \"The Locker Room\") in den WM-Städten sowie digitale Teams für Real-Time-Content auf TikTok und YouTube, wobei klassische Medien wie TV weiterhin Teil des Mediamix bleiben. In Deutschland steht die Rexona-Kampagne mit Florian Wirtz im Fokus, die crossmedial auch im Fernsehen ausgespielt wird.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "1, hat Lizenzvereinbarungen mit mehreren internationalen YouTube-Aggregatoren abgeschlossen.",
-          "link": "https://meedia.de/news/beitrag/24361-prosiebensat-1-will-programme-mit-ki-hilfe-internationalisieren.html",
-          "summary": "Seven.One Studios International (ProSiebenSat.1-Tochter) hat Lizenzvereinbarungen mit internationalen YouTube-Aggregatoren für rund 500 Stunden Content abgeschlossen, die mittels KI-basierter Synchronisation und Untertitelung in bis zu 30 Sprachen verbreitet werden sollen. Partner sind u.a. das spanische Unternehmen DubMe IO, Content Rocket (UK) sowie Zylo und Canal+ Distribution (Frankreich), die Inhalte wie \"Think Big\", \"Rocky and the Cop\" und \"Galileo X-Plorer\" global monetarisieren werden. Die KI-gestützte Rechteverwertung wird als neues Wachstumsgeschäft positioniert, da bisherige Übersetzungskosten die internationale Verbreitung deutschsprachiger Inhalte behinderten.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "Interview mit Arnim Butzen, Deutsche Telekom MagentaTV: \"Wir liegen bei den Buchungen sogar über...",
-          "link": "https://meedia.de/news/beitrag/24252-magentatv-quot-wir-liegen-bei-den-buchungen-sogar-ueber-unserem-business-case-quot.html",
-          "summary": "MagentaTV setzt bei der Fußball-WM in den USA, Kanada und Mexiko auf exklusive Inhalte zur Neukundenakquisition, wobei das Unternehmen nach eigenen Angaben bei den Buchungen sogar über dem ursprünglichen Business Case liegt. Trotz hoher Rechtekosten und ungünstiger nächtlicher Anstoßzeiten sieht Senior VP Arnim Butzen das Risiko als kalkuliert an, da Fußball emotionale Markenbindung zur Telekom schaffe. Die intensive Vermarktungskampagne umfasst alle Kanäle und setzt auf bewährte Formate wie den Toralarm, angepasst an die besonderen Sendezeiten.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Creator- und Social-Agentur Whalar Whalar-Kauf durch Accenture Song: Deutsche Whalar-Chefin Claudia...",
-          "link": "https://meedia.de/news/beitrag/24357-whalar-kauf-durch-accenture-song-deutsche-whalar-chefin-claudia-fischer-bleibt-im-amt.html",
-          "summary": "Der Beratungskonzern Accenture übernimmt die US-Influencer-Agentur Whalar und gliedert sie in seine Werbesparte Accenture Song ein, wobei die deutsche Geschäftsführerin Claudia Fischer im Amt bleibt. Die Übernahme zielt darauf ab, durch KI-gestützte Content-Discovery und Echtzeit-Insights die Creator-Kompetenzen zu skalieren, basierend auf Whalars Erfahrung mit Creator-Kampagnen im Wert von über 600 Millionen US-Dollar in 40+ Ländern. Der Deal spiegelt den generellen Trend zu verstärkten Social-Media-Investitionen wider, wie ihn auch Unilever mit geplanten 50 Prozent Social-Media-Ausgaben in der Foodsparte vorantreibt.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "\"Perplexity durchsucht, extrahiert, kopiert und verbreitet rechtswidrig Inhalte\" CNN verklagt...",
-          "link": "https://meedia.de/news/beitrag/24360-cnn-verklagt-ki-firma-perplexity-wegen-streit-ums-urheberrecht.html",
-          "summary": "CNN hat die KI-Firma Perplexity wegen Urheberrechtsverletzung verklagt, nachdem Lizenzverhandlungen scheiterten - es ist die erste Klage eines großen TV-Senders gegen ein KI-Unternehmen. Laut Klage verletzt Perplexity CNNs Urheberrechte sowohl beim unbefugten Crawling und Kopieren von über 17.000 CNN-Inhalten für das Training ihrer Sprachmodelle als auch bei der Ausgabe identischer oder stark ähnlicher Inhalte. Der Fall reiht sich in die wachsende Zahl von Urheberrechtsklagen zwischen Medienunternehmen und KI-Firmen ein.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Will the BBC score an own goal by broadcasting the World Cup from Salford?",
-          "link": "https://www.theguardian.com/football/2026/jun/10/will-bbc-score-own-goal-broadcasting-fifa-world-cup-from-salford",
-          "summary": "Die BBC überträgt die FIFA-Fußball-WM 2026 aus Kostengründen von ihrem Studio in Salford, Manchester, während Konkurrent ITV und Ex-BBC-Moderator Gary Lineker ihre Berichterstattung aus glamourösen Studios in New York präsentieren. Lineker, der die BBC nach Kontroversen um Social-Media-Posts verließ, hat einen 14-Millionen-Pfund-Deal mit Netflix für seinen Podcast abgeschlossen und wird vom Times Square aus senden. Die Entscheidung wirft Fragen zur Wettbewerbsfähigkeit der BBC-Berichterstattung im Vergleich zu den aufwendigeren US-Produktionen der Konkurrenz auf.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "UK watchdog to look at Paramount’s $110bn takeover of Warner Bros Discovery",
-          "link": "https://www.theguardian.com/business/2026/jun/09/uk-watchdog-paramount-110bn-takeover-warner-bros-discover",
-          "summary": "Die britische Wettbewerbsbehörde CMA untersucht Paramounts 110 Milliarden Dollar schwere Übernahme von Warner Bros Discovery, die einen Medienkonzern mit bedeutenden Streaming-, Sport- und Content-Assets schaffen würde. Paramount setzte sich im Februar gegen Netflix durch und zahlte eine Ausstiegsgebühr von 2,8 Milliarden Dollar, steht jedoch nun vor regulatorischer Prüfung und Branchenkritik. Die CMA wird bis 7. August entscheiden, ob eine vertiefte Untersuchung wegen möglicher Wettbewerbsverzerrungen erforderlich ist.",
-          "score": 9
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Tony Livesey to ‘step back’ from BBC radio show after issues raised by Panorama",
-          "link": "https://www.theguardian.com/media/2026/jun/09/tony-livesey-step-back-bbc-radio-show",
-          "summary": "BBC-Moderator Tony Livesey tritt vorübergehend von seiner 5 Live-Radioshow zurück, nachdem eine Panorama-Untersuchung Vorwürfe bezüglich seiner früheren Rolle als Chefredakteur der Sport Newspapers von David Sullivan aufwarf. Die Untersuchung beschuldigt Sullivan sexuell ausbeuterischen Verhaltens und behauptet, Livesey habe eine Frau mit Sullivan bekannt gemacht, was dieser bestreitet. Livesey distanziert sich auch von umstrittenen redaktionellen Entscheidungen aus seiner Zeit bei der Zeitung, einschließlich eines \"Countdown to 16\"-Features.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "UK regulator orders social media firms to adopt measures to stop viral illegal content",
-          "link": "https://www.theguardian.com/media/2026/jun/09/uk-regulator-ofcom-social-media-firms-adopt-measures-stop-viral-illegal-content",
-          "summary": "Die britische Medienaufsicht Ofcom verpflichtet Social-Media-Plattformen wie X und TikTok zur Implementierung von \"Krisenprotokollen\", um die virale Verbreitung illegaler Inhalte zu stoppen. Die Maßnahmen umfassen Notfallverfahren bei steigendem Austausch gefährlicher Inhalte sowie dedizierte Kommunikationskanäle für Polizeikontakte. Die Entscheidung folgt auf Desinformationsspiralen nach den Sommerkrawallen 2024 und jüngsten Unruhen in Southampton im Zusammenhang mit dem tödlichen Messerangriff auf Henry Nowak.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Football regulator could force David Sullivan to sell West Ham stake",
-          "link": "https://www.theguardian.com/football/2026/jun/09/football-regulator-could-force-david-sullivan-sell-west-ham-stake",
-          "summary": "David Sullivan, der 38,8% von West Ham United besitzt, könnte von der geplanten Football-Regulierungsbehörde zum Verkauf seiner Anteile gezwungen werden, nachdem sieben Frauen ihm sexuell übergriffiges und räuberisches Verhalten über mehrere Jahrzehnte vorwerfen. Der 77-jährige ehemalige Pornografie-Unternehmer trat am Samstag als Direktor und Co-Vorsitzender des Vereins zurück, vor der Veröffentlichung einer gemeinsamen Untersuchung von BBC und Times. Sullivan bestreitet alle Vorwürfe kategorisch und bezeichnet sie als \"unvermeidliche falsche Anschuldigungen\" nach einem Leben in der Erwachsenenunterhaltungsbranche.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Christian leaders alarmed by climate crisis raise questions over GB News owner’s £28m church donations",
-          "link": "https://www.theguardian.com/environment/2026/jun/09/christian-leaders-alarmed-by-climate-crisis-raise-questions-over-gb-news-owners-28m-church-donations",
-          "summary": "Sir Paul Marshall, Mitinhaber von GB News und bekannt für klimaskeptische Äußerungen wie seine Behauptung, das UK leide unter einem \"Klimawahn-Syndrom\", hat zwischen 2018 und 2025 mindestens 28 Millionen Pfund an einflussreiche Church of England-Institutionen gespendet. Christliche Führungspersönlichkeiten kritisieren diese Spenden als problematisch, da Marshalls und GB News' Klimapositionen im direkten Widerspruch zur offiziellen Haltung der Church of England stehen, die Klimaschutz als wesentlichen Teil der Schöpfungsverantwortung betrachtet.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "ABC began international search to replace Justin Stevens as news director without his knowledge",
-          "link": "https://www.theguardian.com/media/2026/jun/09/abc-news-boss-justin-stevens-replacement-search-without-his-knowledge",
-          "summary": "ABC-Geschäftsführer Hugh Marks bestätigte, dass er heimlich eine internationale Suche nach einem Nachfolger für Nachrichtenchef Justin Stevens eingeleitet hatte, nachdem beide über die strategische Ausrichtung von ABC News uneins waren. Stevens, ein 19-jähriger ABC-Veteran, wurde im letzten Monat zum Rücktritt gedrängt, als Marks ihm mitteilte, dass er bereits Simon Robinson von Reuters als seinen Ersatz eingestellt hatte. Marks signalisierte umfassende Veränderungen bei ABC und kündigte an, dass alle Führungspositionen der Organisation überprüft werden.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Child sexual abuse victims in England and Wales to get help to remove online images",
-          "link": "https://www.theguardian.com/uk-news/2026/jun/09/child-sexual-abuse-victims-in-england-and-wales-to-get-help-to-remove-online-images",
-          "summary": "Das Echo-Projekt in England und Wales unterstützt Opfer von Kindesmissbrauch bei der Identifizierung und Entfernung von Missbrauchsbildern aus dem Internet, ergänzt durch Traumahilfe und rechtliche Unterstützung. Die Initiative wird von Online-Sicherheits- und Kinderschutz-Organisationen financed und arbeitet mit Polizeikräften sowie der nationalen Kindesmissbrauchsbild-Datenbank zusammen. Bei Erfolg soll das Programm global ausgeweitet werden, um das \"anhaltende Leiden der Überlebenden\" zu beenden.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Ofcom warns social media firms over online abuse during World Cup",
-          "link": "https://www.theguardian.com/football/2026/jun/08/ofcom-social-media-online-abuse-world-cup",
-          "summary": "Ofcom hat Social-Media-Unternehmen vor der WM 2026 über ihre Verantwortung bezüglich Online-Missbrauch informiert und wird deren Maßnahmen gegen illegale Hassinhalte überwachen. Die Regulierungsbehörde verweist auf Erfahrungen bei vorherigen Turnieren, bei denen verstärkt Schwarze und ethnische Minderheitenspieler sowie Personen aufgrund ihrer sexuellen Orientierung oder Behinderung Ziel von Hass, Drohungen und Belästigungen wurden. Ofcom fordert die Plattformen auf, wirksame Schutzmaßnahmen gegen den zu erwartenden Anstieg von Missbrauch während der WM zu implementieren.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Taormina: Jane Campion Talks Love Of Film Festivals As She Reunites With ‘The Piano’ Star Holly Hunter",
-          "link": "https://deadline.com/2026/06/taormina-jane-campion-love-festivals-reunites-holly-hunter-1236952468/",
-          "summary": "Jane Campion fungiert als Jury-Präsidentin beim 62. Taormina Film Festival und betonte in der Eröffnungs-Pressekonferenz die Bedeutung kleinerer Filmfestivals für die Filmgemeinschaft und tiefere Auseinandersetzung mit dem Medium. Die Regisseurin ist mit Holly Hunter wiedervereint, ihrer Hauptdarstellerin aus \"The Piano\" (1993), mit der sie gemeinsam in der Jury sitzt und eine Screening des Films begleiten wird.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Paramount-WBD Merger Cleared By Australia",
-          "link": "https://deadline.com/2026/06/paramount-wbd-mergerl-clears-australia-1236952390/",
-          "summary": "Paramount erhielt Genehmigungen für die geplante 110 Milliarden Dollar Übernahme von Warner Bros. Discovery von Wettbewerbsbehörden in Australien, Neuseeland und mehreren anderen Ländern. Entscheidende Freigaben durch das US-Justizministerium, die EU und Großbritannien stehen noch aus, wobei die britische CMA bis 7. August und die EU bis 7. Juli über Phase-2-Untersuchungen entscheiden werden. Der für Q3 2026 geplante Deal-Abschluss könnte sich durch diese noch ausstehenden regulatorischen Prüfungen verzögern.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Documentary Campus’s Donata Von Perfall On Partnering With Sunny Side Of The Doc, And “Why Factual Is More Important Than Ever”",
-          "link": "https://deadline.com/2026/06/documentary-campus-interview-donata-von-perfall-sunny-side-of-the-doc-1236952393/",
-          "summary": "Documentary Campus partniert erstmals mit dem internationalen Dokumentarfilm-Marktplatz Sunny Side of the Doc (22.-24. Juni in La Rochelle), nachdem dieser nach 37 Jahren vor der Auflösung aufgrund wegfallender EU-Förderung stand. Die Kooperation entwickelte binnen vier Wochen ein neues Konzept für den Markt, wobei Managing Director Donata von Perfall die anhaltende Bedeutung faktischer Inhalte und die Notwendigkeit starker europäischer Märkte betont. Das Event ersetzt traditionelle Pitch-Sessions durch innovative neue Formate zur Unterstützung der globalen Dokumentarfilm-Community.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Wallander’ Producer Opens Up About Heated Discussions With Lead Gustaf Skarsgård: “He Is Really Protecting The Character”",
-          "link": "https://deadline.com/2026/06/wallander-gustaf-skarsgard-arguments-on-set-glenn-lund-1236952382/",
-          "summary": "Producer Glenn Lund berichtete auf dem Seriencamp über monatelange kreative Auseinandersetzungen mit Gustaf Skarsgård während der Produktion des Wallander-Reboots, die aus dessen intensiver Beteiligung als Star und Executive Producer resultierten. Skarsgård, der Crime-Serien normalerweise nicht mag, kämpfte leidenschaftlich für die Authentizität des Charakters und hatte oft Positionen, die den Netzwerk-Vorstellungen widersprachen. Lund betonte jedoch, dass diese Konflikte produktiv waren und aus Skarsgårds tiefem Verständnis des Materials und seinem Engagement für die Rolle entstanden.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Doctor Who’ Christmas Special Canceled, As Russell T Davies & Bad Wolf Exit BBC Sci-Fi Series",
-          "link": "https://deadline.com/2026/06/doctor-who-christmas-canceled-russell-t-davies-bbc-bad-wolf-1236952398/",
-          "summary": "Die BBC hat das geplante Doctor Who Weihnachtsspecial 2026 abgesagt und Showrunner Russell T Davies sowie Produzent Bad Wolf verlassen die Serie. Die BBC wird Doctor Who in einem Ausschreibungsverfahren neu vergeben, um die langfristige Zukunft der Serie zu sichern. Diese Entscheidung erfolgt nach einer größeren Serie-Neuausrichtung von 2021 und soll eine komplette Neuerfindung der kultigen Sci-Fi-Serie ermöglichen.",
+          "title": "Fast unbemerkt: Heilbronner-Stimme-Verleger Distelbarth wird viertgrößter SWMH-Aktionär Wer kontrolliert die SWMH",
+          "link": "https://kress.de/news/beitrag/153555-fast-unbemerkt-heilbronner-stimme-verleger-distelbarth-wird-viertgroesster-swmh-aktionaer.html",
+          "summary": "Tilmann Distelbarth, Verleger der Heilbronner Stimme, ist durch den Ausbau seines Anteils auf 6,7 Prozent zum viertgrößten Aktionär der Südwestdeutschen Medienholding (SWMH) aufgestiegen, zu der die Süddeutsche Zeitung gehört. Parallel haben sich mehrere Kleinaktionäre von ihren Anteilen getrennt, wodurch die Beteiligungen der Hauptgesellschafter Medien Union und Württembergische Verleger auf rund 49,3 Prozent gestiegen sind. Die Verkäufe erfolgten zu einem Zeitpunkt, an dem die SWMH nach fast zwei Jahrzehnten ohne Dividendenausschüttung vor dem Abschluss ihrer Entschuldung steht.",
           "score": 10
         },
         {
-          "source": "Deadline",
-          "title": "Anthony And Joe Russo Talk ‘Avengers’ Theories & Why They Returned To Marvel With Fortnite Creator Donald Mustard — Deadline Live Studio",
-          "link": "https://deadline.com/2026/06/anthony-joe-russo-donald-mustard-avengers-sxsw-london-1236952381/",
-          "summary": "Die Russo-Brüder befinden sich derzeit in der Post-Produktion für \"Avengers: Doomsday\" (Dezember 2026) und Pre-Produktion für \"Avengers: Secret Wars\" (Dezember 2027), wobei erstmals ihr AGBO-Studio als Co-Produzent neben Disney und Marvel fungiert. Gemeinsam mit Fortnite-Schöpfer Donald Mustard, der nun Partner bei AGBO ist, bestätigten sie ihre Rückkehr zu Marvel aufgrund der langjährigen erfolgreichen Zusammenarbeit und ihrer Leidenschaft für das Publikumserlebnis. Die Filme markieren Robert Downey Jr.s Rückkehr ins MCU als Doctor Doom aus dem fiktiven Latveria.",
+          "source": "kress",
+          "title": "Bild-KI-Chef Böcking erklärt beim European Publishing Congress, was Hey_ wirklich kann 220...",
+          "link": "https://kress.de/news/beitrag/153556-220-millionen-fragen-spaeter-bild-ki-chef-boecking-erklaert-beim-european-publishing-congress-was-hey-wirklich-kann.html",
+          "summary": "Daniel Böcking, Head of AI bei BILD, präsentiert beim European Publishing Congress in Wien die Entwicklung des KI-Chatbots Hey_, der sich von einem einfachen Chatbot zu einem digitalen Begleiter mit 20 Millionen User-Fragen seit 2023 entwickelt hat. Hey_ bietet durch Interaktion, Dialoge und Services individuelle Orientierung im News-Umfeld und sprengt die Grenzen klassischer Artikel-Formate. BILD setzt strategisch auf diese Companion-Technologie als Antwort auf die Herausforderungen des KI-Zeitalters im Journalismus.",
           "score": 10
         },
         {
-          "source": "Deadline",
-          "title": "‘Halo’ Showrunner Steven Kane Delivers Emotional Plea To Industry Gatekeepers: “Don’t Let Data Drive The Creative”",
-          "link": "https://deadline.com/2026/06/steven-kane-on-adapting-halo-and-pressure-from-fandoms-1236952350/",
-          "summary": "Halo-Showrunner Steven Kane warnt auf dem Seriencamp in Köln vor der übermäßigen Datenabhängigkeit in der TV-Produktion und kritisiert, dass Algorithmen und Zuschauerreaktionen die kreative Autorschaft bedrohen. Er plädiert dafür, dass Showrunner zwar Daten berücksichtigen, aber nicht von ihnen dominiert werden sollten, da dies zu zynischer Pandemie und dem Verlust der \"Menschlichkeit im Storytelling\" führe. Kane betont die Notwendigkeit eines ausgewogenen Ansatzes zwischen kreativer Autorität und datenbasierter Rückmeldung.",
-          "score": 10
+          "source": "meedia",
+          "title": "Studie der Uni Hohenheim zur Fußball-WM 2026 WM-Werbung erreicht die Fans",
+          "link": "https://meedia.de/news/beitrag/24375-wm-werbung-erreicht-die-fans-loest-aber-kaum-kaufimpulse-aus.html",
+          "summary": "Eine Studie der Uni Hohenheim zeigt, dass WM-Werbung zur Fußball-WM 2026 zwar von fast einem Viertel der Befragten wahrgenommen wird und die Akzeptanz solcher Kampagnen steigt, jedoch nur etwa jeder zehnte Konsument tatsächlich zum Kauf aktiviert wird. Neben offiziellen Sponsoren profitieren auch Trittbrettfahrer-Unternehmen, die sich geschickt mit dem WM-Thema in Szene setzen. Die Wahrnehmung als Werbeplattform bewegt sich auf ähnlichem Niveau wie bei der WM 2022.",
+          "score": 9
         },
         {
-          "source": "Deadline",
-          "title": "Greece Set As Country of Honor At Cannes Marché Du Film",
-          "link": "https://deadline.com/2026/06/greece-country-honor-cannes-marche-du-film-1236952368/",
-          "summary": "Das Cannes Marché du Film hat Griechenland zum Ehrenland für 2027 ernannt und würdigt damit den Aufstieg des Landes zu einem führenden audiovisuellen Zentrum Europas. Die griechische Filmindustrie trägt €1,9 Milliarden zur Wirtschaft bei, beschäftigt 44.000 Menschen und profitiert von erfolgreichen Regisseuren wie Yorgos Lanthimos sowie attraktiven Produktionsanreizen. Die Ehrung unterstreicht Griechenlands wachsende Bedeutung als Drehort und Produktionsstandort im europäischen Filmmarkt.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Sunny Side Of The Doc Returns This Month After Dodging Near-Cancellation; Marketplace Serves Nonfiction’s Global Filmmaking Community",
-          "link": "https://deadline.com/2026/06/2026-sunny-side-of-the-doc-interview-aurelie-reman-1236952329/",
-          "summary": "Sunny Side of the Doc, der internationale Dokumentarfilm-Marktplatz in La Rochelle, konnte seine 37. Edition nur durch eine Notfinanzierung des französischen Centre National du Cinéma (CNC) und eine Partnerschaft mit Documentary Campus realisieren, nachdem eine Streichung europäischer Fördergelder beinahe zur Absage geführt hätte. Die Beinahe-Absage verdeutlichte laut Geschäftsführerin Aurélie Reman die globale Bedeutung des Events für die Dokumentarfilm-Community und die Notwendigkeit, kollektiv neue Finanzierungs- und Kooperationsmodelle zu entwickeln. Trotz anhaltend hohem Interesse an Dokumentarfilmen müssen die Branchenteilnehmer agiler werden, um den Herausforderungen in Zeiten von Konflikten und Desinformation zu begegnen.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Rupert Everett Joins Australian Crime Drama ‘Fortitude Valley’ & DCD Takes World Sales",
-          "link": "https://deadline.com/2026/06/rupert-everett-australian-crime-drama-fortitude-valley-abc-1236951350/",
-          "summary": "Rupert Everett wird in der sechsteiligen australischen Krimiserie \"Fortitude Valley\" für den öffentlich-rechtlichen Sender ABC mitspielen, die sich um Familiengeheimnisse und Machtmissbrauch in Brisbane dreht. DCD Rights übernimmt den internationalen Vertrieb und wird die Serie auf dem MIPCOM-Markt in Cannes bewerben. Die Serie stammt von den \"Harrow\"-Schöpfern Stephen M. Irwin und Leigh McGrath und wird von Moving Floor Entertainment produziert.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "‘System Crasher’ Star Helena Zengel Reflects On Her Career To Date As She Comes Of Age In ‘Westend Girl’",
-          "link": "https://deadline.com/2026/06/helena-zengel-westend-girl-child-actress-system-crasher-1236952279/",
-          "summary": "Golden Globe-nominierte Nachwuchsdarstellerin Helena Zengel (bekannt aus \"System Crasher\" und \"Neues aus der Welt\") reflektiert anlässlich ihres 18. Geburtstags über ihre Kinderstar-Vergangenheit und den Übergang zu erwachsenen Rollen. In ihrer neuen Serie \"Westend Girl\" spielt sie erstmals eine junge Erwachsene und verkörpert Ronja, die an ihrem 18. Geburtstag entdeckt, dass ihre wohlhabenden Eltern einen Drogenring betreiben. Zengel beschreibt die Parallelen zwischen ihrer eigenen Coming-of-Age-Erfahrung und der ihrer Figur als besonders bereichernd für ihre schauspielerische Entwicklung.",
+          "source": "meedia",
+          "title": "Sky-Integration, KI und neue Wachstumsfelder RTL Deutschland stellt Strategie- und...",
+          "link": "https://meedia.de/news/beitrag/24374-rtl-deutschland-stellt-strategie-und-transformationsteam-neu-auf.html",
+          "summary": "RTL Deutschland reorganisiert seine Führungsstruktur für die Integration von Sky Deutschland und ernennt Max Orgonyi zum Chief Transformation & AI Officer mit Gesamtverantwortung für den Zusammenschluss, KI-Strategie und Portfolioentwicklung. Ein neu formiertes Führungsteam aus ehemaligen Sky-Managern und RTL-Experten soll zentrale Synergiepotenziale heben, darunter plattformübergreifende Inhalteverwertung und integrierte Organisationsstrukturen. CEO Stephan Schmitter treibt damit die strategische Verschmelzung beider Medienunternehmen voran, um neue Geschäftsfelder zu erschließen und die Wettbewerbsfähigkeit zu stärken.",
           "score": 8
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "Steven Spielberg’s ‘Disclosure Day’: What the Critics Are Saying",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/steven-spielberg-disclosure-day-critics-review-roundup-1236618176/",
-          "summary": "Steven Spielbergs neuer Science-Fiction-Thriller \"Disclosure Day\" mit Emily Blunt und Josh O'Connor thematisiert eine Regierungsverschwörung zur Verheimlichung außerirdischen Lebens und erhält von Kritikern überwiegend positive Resonanz. Der Film, geschrieben von David Koepp und mit Spielbergs Stammteam (Janusz Kaminski, John Williams) produziert, erreicht aktuell 84% auf Rotten Tomatoes und 74 Punkte auf Metacritic. Die Universal Pictures-Produktion startet am 12. Juni weltweit in den Kinos.",
-          "score": 7
+          "source": "meedia",
+          "title": "Eigenes Vor-Ort-Studio und neue Doku-Formate Wie der \"kicker\" zur Fußball-WM die Video-Berichte massiv hochfährt Der „kicker“ baut seine Bewegtbild-Aktivitäten zur Fußball-WM 2026 aus. Mit einem eigenen WM-Studio in Winston-Salem, beim DFB-Mannschafts-Basiscamp, neuen Showformaten, prominenten Experten und einer umfassenden Berichterstattung über alle Kanäle will die Sportmedienmarke ihre zuletzt stark gewachsenen Video-Reichweiten weiter hochtreiben. Das Turnier wird damit zum bislang größten Multimedia-Projekt des Verlags",
+          "link": "https://meedia.de/news/beitrag/24372-wie-der-quot-kicker-quot-zur-fussball-wm-die-video-berichte-massiv-hochfaehrt.html",
+          "summary": "Der „kicker\" startet zur Fußball-WM 2026 sein bislang größtes Multimedia-Projekt mit einem eigenen Studio in Winston-Salem beim DFB-Camp, neuen Show-Formaten und prominenten Experten. Die Sportmedienmarke baut damit auf stark gewachsene Video-Reichweiten auf - im Mai wurden über 95 Millionen Abrufe verzeichnet. Das umfassende Bewegtbild-Engagement verspricht zudem erheblichen Vermarktungsschub für den Olympia-Verlag.",
+          "score": 9
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "‘Doctor Who’ Christmas Special Scrapped, Russell T. Davies and Bad Wolf Exit Show",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/doctor-who-christmas-special-scrapped-bbc-tender-1236618174/",
-          "summary": "Die BBC hat das angekündigte Doctor Who Christmas Special abgesagt und wird die Serie in einem \"competitive tender\"-Verfahren an neue Produktionsfirmen vergeben, was den Ausstieg von Showrunner Russell T. Davies und der Produktionsfirma Bad Wolf bedeutet. Die Entscheidung wurde getroffen, um die langfristige Zukunft der Serie zu sichern, anstatt die Lücke mit einem einmaligen Special zu überbrücken. Die BBC behält alle Rechte an Doctor Who und betont ihr fortgesetztes Engagement für die Serie.",
+          "source": "meedia",
+          "title": "Google Gemini haftet für Falschaussagen Gerichtsurteil: schwerer Rückschlag für KI-Chatbots Ein...",
+          "link": "https://meedia.de/news/beitrag/24373-gerichtsurteil-schwerer-rueckschlag-fuer-ki-chatbots.html",
+          "summary": "Das Landgericht München I hat entschieden, dass Google für falsche Tatsachenbehauptungen in seinen KI-generierten \"AI Overviews\" haftet, da Google als direkter Absender der Inhalte eingestuft wird - im Gegensatz zur herkömmlichen Suchfunktion. Diese Entscheidung könnte weitreichende Auswirkungen auf die Haftung von KI-Systemen haben und unterliegt sowohl dem AI-Act als auch scharfem Medienrecht. Google wird voraussichtlich in Revision gehen, da das Urteil die Zukunft generativer KI-Anwendungen erheblich beeinflussen könnte.",
           "score": 8
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "Welcome to the Oscar Race, ‘Toy Story 5’ and Taylor Swift",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/welcome-to-the-oscar-race-toy-story-5-taylor-swift-1236618102/",
-          "summary": "\"Toy Story 5\" feierte seine Weltpremiere im Dolby Theatre mit einer hochkarätigen Veranstaltung, bei der Taylor Swift überraschend ihren neuen End-Credits-Song \"I Knew It, I Knew You\" sowie ein Duett mit Randy Newman aufführte. Brancheninsider und Academy-Mitglieder zeigten sich begeistert von Film und Song, was auf eine starke Oscar-Kampagne für die Kategorien \"Bester Animationsfilm\" und \"Bester Originalsong\" hindeutet. Der Film startet am 19. Juni 2025 in den Kinos und wird als ernsthafter Awards-Kandidat gehandelt.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "‘Toy Story 5’: First Reactions From the Premiere",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/toy-story-5-first-reactions-from-premiere-1236618018/",
-          "summary": "Die ersten Reaktionen zur Weltpremiere von \"Toy Story 5\" am El Capitan Theatre waren überwiegend positiv, wobei Branchenexperten bereits Oscar-Chancen für den Film und Taylor Swift's End-Credits-Song sehen. Der fünfte Teil thematisiert die moderne Problematik der Tablet-Sucht bei Kindern: Die achtjährige Bonnie erhält ein frog-artiges Tablet namens \"Lilypad\" (gesprochen von Greta Lee), das ihre komplette Aufmerksamkeit absorbiert, während Buzz, Woody und Jessie versuchen, die Spielzeit zu retten. Offizielle Kritiken sind bis zum 16. Juni unter Embargo, doch die frühen Social-Media-Reaktionen deuten auf einen weiteren emotionalen Pixar-Erfolg hin.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Jimmy Kimmel Rents Spencer Pratt a U-Haul After He Loses L.A. Mayoral Race: ‘We Are So, So Sorry to See You Go’",
-          "link": "https://variety.com/2026/tv/news/jimmy-kimmel-rents-spencer-pratt-uhaul-la-mayoral-race-loss-1236771157/",
-          "summary": "Jimmy Kimmel machte sich in seiner Late-Night-Show über Spencer Pratts Niederlage bei der Bürgermeisterwahl in Los Angeles lustig und mietete ihm sogar einen U-Haul, nachdem der Reality-TV-Star trotz früher Führung auf den dritten Platz zurückgefallen war. Nithya Raman überholte Pratt mit 28,55% der Stimmen gegenüber seinen 25,83% und wird nun gegen die amtierende Bürgermeisterin Karen Bass (34,32%) in die Stichwahl im November gehen. Pratt, der von Donald Trump unterstützt wurde, hatte sich nach der Zerstörung seines Hauses bei den LA-Bränden für die Politik entschieden.",
-          "score": 10
-        },
-        {
-          "source": "Variety",
-          "title": "‘Desi Bling’ Producer on Why the Netflix Reality Show, About Ultra-Wealthy Indian Expats in Dubai, Is Such a Hit: People ‘Like to See Their Dreams on Screen’",
-          "link": "https://variety.com/2026/film/global/desi-bling-netflix-reality-wealthy-indian-expats-dubai-1236770124/",
-          "summary": "Die Netflix-Reality-Serie \"Desi Bling\", ein Spinoff von \"Dubai Bling\", zeigt das luxuriöse Leben superreicher indischer Expats in Dubai und hat sich seit dem Launch am 20. Mai als großer Streaming-Hit etabliert. Die siebenteilige erste Staffel erreichte Platz 1 in Indien, den VAE und einem Dutzend weiterer Länder und steht kontinuierlich in Netflixs globalen Top 10. Produziert wird die Serie von Different Productions aus Dubai, die auch die \"Shark Tank\"-Formate für die Region entwickelt.",
+          "source": "meedia",
+          "title": "Zuspruch für Regionalzeitungen bleibt hoch Verlässliche Informationen sind für die Menschen...",
+          "link": "https://meedia.de/news/beitrag/24370-62-prozent-lesen-sie-zuspruch-fuer-regionalzeitungen-bleibt-hoch.html",
+          "summary": "Die Gattungsstudie „Zeitungsfacetten 2026\" der Score Media Group zeigt, dass 62 Prozent der Deutschen weiterhin regionale Tageszeitungsmarken nutzen, wobei sich der Trend zu digitalen Angeboten verstärkt – E-Paper erreicht 33 Prozent, Online-Angebote 45 Prozent der Bevölkerung. Besonders bemerkenswert ist der 29-prozentige Anstieg bei kostenpflichtigen Digitalangeboten innerhalb eines Jahres, sodass nun neun Prozent für digitale Zeitungsinhalte zahlen. Für 71 Prozent der Leser steht die Glaubwürdigkeit und Verlässlichkeit der Informationen im Vordergrund – unabhängig vom Ausspielkanal.",
           "score": 8
         },
         {
+          "source": "meedia",
+          "title": "TV auf dem Markt, schon schaltet man zur Fußball-WM in den nächsten Gang.",
+          "link": "https://meedia.de/news/beitrag/24369-neuer-sender-dfb-tv-baut-wm-offensive-aus-highlight-rechte-von-magentatv.html",
+          "summary": "DFB.TV hat nur drei Wochen nach seinem Start ein umfangreiches WM-Rechtepaket von MagentaTV erworben, das Highlights aller 104 WM-Spiele, über 300 Spielszenen mit \"Near-Live\"-Charakter sowie Studioinhalte umfasst. Der vom DFB und der Sportainment Media Group betriebene Sender baut parallel seine Eigenberichterstattung mit täglichen Live-Schalten aus Hamburg und exklusiven Inhalten aus dem deutschen Teamquartier aus. Die WM-Offensive soll die Sichtbarkeit des neuen Senders deutlich erhöhen und das Angebot rund um die deutsche Nationalmannschaft erweitern.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Eine Billion US-Dollar Spendings Patrick Stoltze: So gewinnen Marken im WM-Jahr trotz Budgetdruck Die Fußball-Weltmeisterschaft 2026 bringt ab dem 11.",
+          "link": "https://meedia.de/news/beitrag/24371-patrick-stoltze-so-gewinnen-marken-im-wm-jahr-trotz-budgetdruck.html",
+          "summary": "Laut Dentsu wird das globale Werbevolumen zur Fußball-WM 2026 erstmals eine Billion US-Dollar überschreiten, obwohl paradoxerweise die individuellen Werbebudgets der Unternehmen von 9,1 auf 7,7 Prozent des Umsatzes gesunken sind. Patrick Stoltze von Integral Ad Science betont, dass Marken in diesem verschärften Wettbewerbsumfeld nicht mehr nur auf Sichtbarkeit setzen können, sondern jeden Werbe-Euro effizienter, intelligenter und sicherer einsetzen müssen. Die fragmentierte Medienlandschaft erfordert strategische Planung statt reiner Budgetstärke, um im medialen Getöse der WM durchzudringen.",
+          "score": 9
+        },
+        {
+          "source": "meedia",
+          "title": "Podcast Ads Report 2026 Germany Podcast-Werbung wird oft übersprungen",
+          "link": "https://meedia.de/news/beitrag/24368-podcast-werbung-wird-oft-uebersprungen-wirkt-aber-staerker-als-radio-und-streaming.html",
+          "summary": "Laut YouGov's \"Podcast Ads Report 2026 Germany\" überspringen 36% der deutschen Podcast-Hörer regelmäßig Werbung, wobei nur 30% diese als störend empfinden - deutlich weniger als bei Display- (50%) oder Video-Plattform-Werbung (47%). Deutsche Podcast-Nutzer zeigen im internationalen Vergleich eine höhere Werbeakzeptanz mit 18% aktiven Zuhörern und erreichen beeindruckende Conversion-Werte von 17% tatsächlichen Käufen nach Audio-Ads.",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "ITV says World Cup is a ‘six-week Super Bowl’ for advertising",
+          "link": "https://www.theguardian.com/business/2026/jun/11/itv-world-cup-super-bowl-tv-advertising",
+          "summary": "ITV bezeichnet die FIFA-Weltmeisterschaft 2026 als \"sechswöchigen Super Bowl\" und erwartet die kommerziell erfolgreichste Sportübertragung ihrer Geschichte, mit Werbeerlösen die etwa 30% über denen der Euro 2024 liegen. Der Sender überträgt 51 der 104 Spiele des auf 48 Teams erweiterten Turniers, wobei 30-Sekunden-Werbespots in England-Spielen bis zu £300.000 kosten können. ITV hält strategisch Premium-Werbeplätze für spätere Turnierphasen zurück, um bei einem möglichen England-Erfolg höhere Preise erzielen zu können.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "BBC Storyville Expands To Documentary Shorts",
+          "link": "https://deadline.com/2026/06/bbc-storyville-expands-documentary-shorts-sheffield-docfest-1236953561/",
+          "summary": "BBC Storyville erweitert sein renommiertes Dokumentarfilm-Programm erstmals um Premium-Kurzdokumentationen (10-40 Minuten) für BBC Four und BBC iPlayer, wie auf dem Sheffield DocFest angekündigt wurde. Die Initiative zielt darauf ab, flexibler auf aktuelle gesellschaftliche Ereignisse zu reagieren und neue Zielgruppen zu erschließen, während die BBC gleichzeitig ihre YouTube-Präsenz ausbaut. Nach fast 30 Jahren erfolgreicher Langdokumentationen, zuletzt der Oscar-nominierten \"Black Box Diaries\", positioniert sich Storyville damit strategisch im wachsenden Short-Form-Markt.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Doctor Who’ Set To Be Off Air For Years Amid A Creative Regeneration That’s Failing To Spark Early Enthusiasm Among Producers",
+          "link": "https://deadline.com/2026/06/doctor-who-off-air-for-years-creative-regeneration-1236953045/",
+          "summary": "Die BBC hat eine umfassende kreative Neuausrichtung von \"Doctor Who\" angekündigt, nachdem Showrunner Russell T Davies und Produzent Bad Wolf das Projekt verlassen haben - ein geplantes Weihnachtsspecial wurde gestrichen. Brancheninsider berichten, dass Davies kein fertiges Drehbuch und keinen Hauptdarsteller für den Doctor hatte, was zu unüberwindbaren Produktionsproblemen führte. Die Serie könnte aufgrund der notwendigen kreativen \"Operation\" bis frühestens 2028 nicht mehr im Fernsehen zu sehen sein.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Game Of Keys’: Producers Behind Prime Video Germany’s Raunchy New Series On The Benefits Of Involving Intimacy Co-Ordinators From Day One",
+          "link": "https://deadline.com/2026/06/game-of-keys-prime-video-intimacy-coordinators-ufa-fiction-1236950242/",
+          "summary": "Die Produzenten der neuen deutschen Prime Video-Serie \"Game of Keys\" (UFA Fiction) haben erstmals eine Intimacy-Koordinatorin bereits ab der Casting-Phase eingesetzt, deutlich früher als üblich. Emilia Bähr begleitete den gesamten Produktionsprozess der auf einer mexikanischen Vorlage basierenden Serie über Paare, die ihre Schlüssel tauschen, und gab bereits Feedback zu den Drehbüchern. Die Produzenten Ulrike Leibfried und Sinah Swyter betonen, dass dieser frühe Einbezug sowohl die künstlerische Gestaltung der diversen Intimszenen verbesserte als auch den Schauspielern von Beginn an einen sicheren Arbeitsraum bot.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Amazon MGM Studios Developing ‘The Girlfriend’ Follow-Up Series ‘The Boyfriend’",
+          "link": "https://deadline.com/2026/06/the-girlfriend-sequel-the-boyfriend-amazon-mgm-studios-1236951478/",
+          "summary": "Amazon MGM Studios entwickelt eine Sequel-Serie zu dem erfolgreichen Psychothriller \"The Girlfriend\" mit dem Titel \"The Boyfriend\", die als eigenständige Geschichte mit neuen Charakteren und Fokus auf Maskulinität konzipiert ist. Die ursprüngliche sechsteilige Miniserie mit Olivia Cooke und Robin Wright erzielte über 25 Millionen Views und wurde zur erfolgreichsten neuen Serie von Prime Video UK. Für \"The Boyfriend\" laufen noch Gespräche mit Autoren, ein Drehbuchautor ist noch nicht verpflichtet.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Deutschland 83’ Co-Creator Jörg Winger Joins Dynamic Television To Head Up German Arm As ZDF Puts His New Show ‘Conspiracy’ Into Development",
+          "link": "https://deadline.com/2026/06/jorg-winger-joins-dynamic-television-germany-zdf-conspiracy-1236952465/",
+          "summary": "Jörg Winger, Co-Creator der erfolgreichen Serie \"Deutschland 83\", übernimmt als Präsident die Leitung des neuen deutschen Arms von Dynamic Television und wird die Entwicklung deutscher und internationaler Scripted-Projekte verantworten. Parallel dazu befindet sich seine neue Thriller-Serie \"Conspiracy\", die er gemeinsam mit Marco Girnth entwickelt hat, beim öffentlich-rechtlichen Sender ZDF in der Entwicklung. Die Serie mit \"Deutschland 83\"-Darstellerin Svenja Jung soll der erste Schritt in Dynamic Televisions Strategie sein, eine autorengeführte Slate von Serien und Filmen mit lokaler Authentizität und internationaler Reichweite zu entwickeln.",
+          "score": 9
+        },
+        {
           "source": "Variety",
-          "title": "‘Compartment No. 6’ Director Juho Kuosmanen Adds Magnus Millang, Paprika Steen to Cast of Bittersweet Comedy ‘Dream Come True’ (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/global/juho-kuosmanen-magnus-millang-paprika-steen-1236770640/",
-          "summary": "Juho Kuosmanen („Compartment No. 6\") hat die Besetzung seiner dritten Regiearbeit „Dream Come True\" mit Magnus Millang und Paprika Steen komplettiert. Die bittersüße Komödie folgt einem dänischen Taucher, der bei einem Schiffswrack Millionen wertvolle Champagnerflaschen entdeckt und sich dadurch ein neues Leben erhofft. Der Film basiert auf einer wahren Geschichte und wird noch dieses Jahr in Finnland, Dänemark und Frankreich gedreht.",
+          "title": "‘Paper Tiger’ Producer Rodrigo Teixeira on James Gray’s Next, ‘About the U.S. Now,’ Why U.S. Directors Will Shoot in Brazil and How Independent Cinema Has Gone Global",
+          "link": "https://variety.com/2026/film/global/rodrigo-teixeira-james-gray-rt-features-jayro-bustamante-1236772328/",
+          "summary": "Produzent Rodrigo Teixeira kündigt seinen vierten Film mit Regisseur James Gray für 2027 an, der die aktuelle politische Situation in den USA thematisieren wird. Teixeira prognostiziert, dass amerikanische Filmemacher zunehmend außerhalb der USA produzieren werden, da die Finanzierung dort aufgrund politischer Ausrichtung schwieriger wird. Er sieht Brasilien als wichtigen Produktionsstandort für US-Regisseure, die unabhängige Filme realisieren wollen.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Rajinikanth’s ‘Kochadaiiyaan’ AI Remaster, ‘Tanu Weds Manu’ Sequel Lead Eros Innovation’s 15-Production, $355 Million U.K. Slate (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/news/rajinikanth-kochadaiiyaan-ai-remaster-eros-uk-slate-1236770139/",
-          "summary": "Eros Innovation kündigte eine £265 Millionen ($355,2 Millionen) Investition in Großbritannien an, die 15 Produktionen umfasst, darunter eine KI-Überarbeitung von Rajinikanths \"Kochadaiiyaan\" und eine Fortsetzung der \"Tanu Weds Manu\"-Franchise. Das Unternehmen lizenziert seinen $1,7 Milliarden schweren Kulturdatensatz an eine neue britische Niederlassung und nutzt dabei speziell auf indisches Kino trainierte Large Cultural Model-KI-Systeme. Die KI-Modelle basieren auf 1,5 Billionen rechte-bereinigten Tokens aus 11.000 Filmen und 100.000 Charakteren und sollen tiefere kulturelle und narrative Erkenntnisse bieten als allgemeine KI-Systeme.",
+          "title": "Australian Screen Producers Call for Fairness Rules to Counter Streaming Giants’ Market Power",
+          "link": "https://variety.com/2026/film/news/screen-producers-australia-fairness-rules-streaming-platforms-1236772246/",
+          "summary": "Screen Producers Australia fordert in einer 22-Punkte-Eingabe an die Regierung strukturelle Reformen zur Eindämmung der Marktmacht von Streaming-Plattformen, die kleine und mittlere Produktionsunternehmen durch unausgewogene Vertragskonditionen bedrohen. Der Verband drängt auf die Verankerung von „Fairness\"-Anforderungen in der australischen Medienregulierung, entweder durch ein Terms-of-Trade-Modell oder als Bedingung für die Qualifikation als „australischer\" Content. SPA-CEO Matthew Deaner betont die dringende regulatorische Notwendigkeit, nachdem andere Sektoren bereits ähnliche Schutzmaßnahmen gegen die Macht digitaler Plattformen erhalten haben.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "‘Toy Story 5’ First Reactions Praise Pixar’s Sequel as a ‘Deeply Profound’ and ‘Moving’ Film That ‘Ranks Right Alongside’ the Original",
-          "link": "https://variety.com/2026/film/news/toy-story-5-first-reactions-1236770390/",
-          "summary": "Die ersten Reaktionen zu \"Toy Story 5\" fallen durchweg positiv aus, wobei Kritiker den Film als \"tiefgreifend\" und \"bewegend\" bezeichnen und ihn qualitativ auf eine Stufe mit den ersten drei Filmen der Franchise stellen. Der Film wird als \"emotionale Rückkehr zur Form\" für Pixar gelobt und fokussiert sich erstmals hauptsächlich auf die Figur Jessie als Protagonistin. Besonders hervorgehoben werden die gelungene Mischung aus Humor und Herz sowie ein neuer Charakter namens Smarty Pants, gesprochen von Conan O'Brien.",
+          "title": "DR Sales Closes With WDR/Arte, VRT, NRK in Multi Buyers Pact on Norwegian Wildlife Doc ‘Frost Without Snow and Ice’ (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/markets-festivals/dr-sales-frost-without-snow-and-ice-asgeir-helgestad-nrk-1236772228/",
+          "summary": "DR Sales hat Verkaufsdeals für die norwegische Wildtierdokumentation \"Frost Without Snow and Ice\" von Asgeir Helgestad mit einem Dutzend internationaler Broadcaster und Distributoren abgeschlossen, darunter WDR/Arte, VRT, NRK und SVT. Der Film dokumentiert über 10 Jahre eine Eisbärenfamilie in Svalbards Arktis und thematisiert die Bedrohung durch den Klimawandel. Die Verkäufe erfolgten nach der Weltpremiere beim Thessaloniki Documentary Festival.",
           "score": 7
         }
       ]
