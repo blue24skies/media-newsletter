@@ -1,203 +1,189 @@
 {
   "newsletters": [
     {
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Neue Matrix-Struktur: ProSiebenSat.1 schafft die Senderchefs ab",
-          "link": "https://www.dwdl.de/nachrichten/106812/neue_matrixstruktur_prosiebensat1_schafft_die_senderchefs_ab/",
-          "summary": "ProSiebenSat.1 führt eine neue Matrix-Struktur ein und schafft die klassischen Senderchef-Rollen ab: Marc Rasmus und Hannes Hiller werden zu „brand representatives\" mit genreübergreifenden Verantwortlichkeiten für alle Ausspielwege des Konzerns. Die zentrale Senderplanung übernimmt künftig Arne Neumann im Bereich Content Strategy & Windowing, während die Content-Entwicklung crossmedial organisiert wird.",
+          "title": "Nordmedia und PROG starten neues Förderprogramm",
+          "link": "https://www.dwdl.de/nachrichten/106821/nordmedia_und_prog_starten_neues_foerderprogramm/",
+          "summary": "Nordmedia startet in Kooperation mit PROG ein neues Förderprogramm namens \"Familienzuschuss\" zur Verbesserung der Vereinbarkeit von Familie und Beruf in der Filmbranche, das mit 250.000 Euro in der Pilotphase dotiert ist. Das Programm fördert Maßnahmen wie Kinderbetreuung, Jobsharing-Modelle und die 4-Tage-Drehwoche mit Zuschüssen von bis zu 20.000 Euro für fiktionale und 5.000 Euro für dokumentarische Produktionen. Die Initiative wurde anlässlich des 25-jährigen Bestehens von Nordmedia vorgestellt und soll die Attraktivität der Filmbranche als Arbeitsumfeld stärken.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "RTL-Erfolgsshow \"Let's Dance\" wechselt die Produktionsfirma",
+          "link": "https://www.dwdl.de/nachrichten/106816/rtlerfolgsshow_lets_dance_wechselt_die_produktionsfirma/",
+          "summary": "RTL's Tanzshow \"Let's Dance\" wechselt nach 19 Jahren von der Produktionsfirma Seapoint Productions zu BBC Studios Germany, die als Rechteinhaber des Formats \"Strictly Come Dancing\" ab Staffel 21 selbst produzieren will. Die 20. Jubiläumsstaffel 2027 wird die letzte sein, die Seapoint und Produzentin Nina Klink umsetzen. Das Team wurde am Freitagvormittag am Set über das Ende der langjährigen Zusammenarbeit informiert.",
           "score": 10
         },
         {
-          "source": "DWDL",
-          "title": "Heike Raab kritisiert Einstimmigkeitsprinzip auf Länderebene",
-          "link": "https://www.dwdl.de/nachrichten/106819/heike_raab_kritisiert_einstimmigkeitsprinzip_auf_laenderebene/",
-          "summary": "Heike Raab, ehemalige Koordinatorin der Rundfunkkommission der Länder, kritisiert das Einstimmigkeitsprinzip bei medienpolitischen Entscheidungen der 16 Bundesländer als hinderlich für notwendige Reformen. Wegen fehlender Einstimmigkeit scheiterten sowohl die von der KEF empfohlenen Rundfunkbeitragserhöhungen 2020 und 2024 als auch geplante Strukturreformen wie eine ARD-Geschäftsführung. Raab plädiert für Mehrheitsentscheidungen, sieht aber das Dilemma, dass auch die Abschaffung der Einstimmigkeit selbst Einstimmigkeit erfordern würde.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Wahl-Schlacht geschlagen: Clemens Pig wird neuer ORF-Chef",
-          "link": "https://www.dwdl.de/nachrichten/106811/wahlschlacht_geschlagen_clemens_pig_wird_neuer_orfchef/",
-          "summary": "Clemens Pig, bisheriger APA-Geschäftsführer, wurde vom ORF-Stiftungsrat mit 21 von 35 Stimmen zum neuen Generaldirektor gewählt und tritt die fünfjährige Amtszeit ab 2027 an. Als prioritäre Herausforderungen nannte Pig die aktuelle Finanzierungskrise (Kürzungen von über 90 Millionen Euro), die Digitalisierungsstrategie sowie den Ausbau von ORF On durch eine Streaming-Offensive. Pig setzte sich gegen ein hochkarätiges Bewerberfeld durch, darunter Ex-ProSieben-Manager Markus Breitenecker und Ex-HBO-Max-Manager Johannes Larcher.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Dreharbeiten für neue Folgen \"Späti\" und \"Tschappel\" laufen",
-          "link": "https://www.dwdl.de/nachrichten/106810/dreharbeiten_fuer_neue_folgen_spaeti_und_tschappel_laufen/",
-          "summary": "Das ZDF produziert derzeit die zweiten Staffeln der preisgekrönten Serien \"Tschappel\" (10 Folgen, Drehschluss 7. August) und \"Späti\", wobei \"Tschappel\" um zwei Episoden gegenüber der ersten Staffel erweitert wurde. Die neue \"Tschappel\"-Staffel setzt nach Carlos einjährigem Australien-Aufenthalt an, der unverändert nach Hintervorderbach zurückkehrt und weiterhin nach seiner Lebensperspektive sucht. Produziert wird von LAX Entertainment in Kooperation mit Apollonia Film unter der Regie von Marc Philip Ginolas und Marius Beck.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Sat.1 wirft neue Feuerwehr-Daily \"Frieda\" vorzeitig raus",
-          "link": "https://www.dwdl.de/nachrichten/106809/sat1_wirft_neue_feuerwehrdaily_frieda_vorzeitig_raus/",
-          "summary": "Sat.1 setzt die neue Vorabend-Dailysoap \"Frieda - Mit Feuer und Flamme\" bereits nach einem Monat ab Ende Juni ab, obwohl die Quoten minimal besser sind als die der Vorgängerserie \"Ein Hof zum Verlieben\". Die Programmumstellung erfolgt strategisch zur Stärkung des neuen \"Landarztpraxis\"-Ablegers um 19:00 Uhr, wobei \"Lenßen übernimmt\" den 18:00 Uhr-Slot übernimmt. Mit durchschnittlich nur drei Prozent Marktanteil gilt der Versuch, eine zweite Soap-Schiene im Vorabendprogramm zu etablieren, als endgültig gescheitert.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Nein, wir haben nicht über unsere Verhältnisse gelebt\"",
-          "link": "https://www.dwdl.de/nachrichten/106806/nein_wir_haben_nicht_ueber_unsere_verhaeltnisse_gelebt/",
-          "summary": "MDR-Intendant Ralf Ludwig verteidigt im Spiegel-Interview die drastischen Sparmaßnahmen seines Senders, darunter eine dreijährige Produktionspause bei \"Tatort\" und \"Polizeiruf\" sowie die Abgabe des \"Mittagsmagazins\", als direkte Folge der ausgebliebenen Rundfunkbeitragserhöhung auf 18,94 Euro. Ludwig weist Vorwürfe zurück, der MDR habe über seine Verhältnisse gelebt, und erklärt, man spare nicht nur am Programm, sondern auch an Strukturen und Verwaltung. Zusätzliche Unsicherheit bringen die anstehenden Landtagswahlen in Sachsen-Anhalt mit sich, wo die AfD bei einem möglichen Wahlsieg die Kündigung der Rundfunkstaatsverträge angekündigt hat.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Heidi\": Auch Makatsch, Kohlund und Hübner sind dabei",
-          "link": "https://www.dwdl.de/nachrichten/106805/heidi_auch_makatsch_kohlund_und_huebner_sind_dabei/",
-          "summary": "RTL und SRF produzieren gemeinsam eine neue \"Heidi\"-Serie mit Nachwuchsdarstellerin Neah Hefti in der Titelrolle, unterstützt von einem prominenten Ensemble um Christian Kohlund, Heike Makatsch und Charly Hübner. Die Dreharbeiten laufen aktuell im schweizerischen Bergell, nachdem bereits in Köln gedreht wurde, mit geplanter Ausstrahlung 2027. Regie führen Johannes Bachmann und Isa Prahl, produziert wird von DCM (Schweiz) und Gaumont als Koproduzenten.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Joko & Klaas treten gegen Handball-Nationalmannschaft an",
-          "link": "https://www.dwdl.de/nachrichten/106803/joko__klaas_treten_gegen_handballnationalmannschaft_an/",
-          "summary": "ProSiebenSat.1 baut sein Handball-Engagement strategisch aus und kündigt als Teil der WM-Begleitprogrammierung eine Show an, in der Joko & Klaas gegen die deutsche Handball-Nationalmannschaft antreten werden. Die Sendergruppe hat sich langfristig die Free-TV-Rechte für rund 60 DHB-Länderspiele sowie die Handball-WM-Rechte 2027-2031 gesichert und damit den öffentlich-rechtlichen Rundfunk verdrängt. Ziel ist es, Handball durch crossmediale Formate in jüngeren Zielgruppen zu etablieren und weitere Spielerpersönlichkeiten zu entwickeln.",
-          "score": 7
-        },
-        {
           "source": "Horizont Medien",
-          "title": "Das ist der neue ORF-General: Clemens Pig: Ein Tiroler auf dem (vorläufigen) Karrieregipfel",
-          "link": "https://www.horizont.net/medien/nachrichten/das-ist-der-neue-orf-general-clemens-pig-ein-tiroler-am-vorlaeufigen-karrieregipfel-234693?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der 51-jährige Clemens Pig wird neuer ORF-Generaldirektor, nachdem er über zehn Jahre erfolgreich die Austria Presse Agentur (APA) als CEO geleitet hat. Der als Verbinder geltende Medienmanager aus Tirol führte die APA durch wirtschaftlich schwierige Zeiten und will nun den ORF zur \"Plattform der Gesellschaft\" entwickeln.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Verärgerung im Netz: ZDF zeigt WM-Eröffnungsshow verspätet",
-          "link": "https://www.horizont.net/medien/nachrichten/veraergerung-im-netz-zdf-zeigt-wm-eroeffnungsshow-verspaetet-234691?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Das ZDF schaltete mit mehrminütiger Verspätung zur Live-Übertragung der Fußball-WM-Eröffnungsfeier vor dem Spiel Mexiko gegen Südafrika, während bereits Künstler auf der Bühne auftraten und noch Werbung lief. Dies führte zu erheblicher Kritik in den sozialen Medien gegen den öffentlich-rechtlichen Sender.",
-          "score": 8
+          "title": "Samsung Ads: Samsung macht Startbildschirm seiner Smart TVs programmatisch buchbar",
+          "link": "https://www.horizont.net/medien/nachrichten/samsung-ads-samsung-macht-startbildschirm-seiner-smart-tvs-programmatisch-buchbar-234699?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Samsung öffnet den Startbildschirm seiner Smart TVs für programmatische Werbebuchungen und erkennt damit die wachsende Bedeutung des Homescreens als umkämpfte Werbefläche. Die prominente Platzierung auf dem Startbildschirm entscheidet maßgeblich über den Erfolg von Apps und Programmen. Durch die programmatische Buchbarkeit ermöglicht Samsung Werbetreibenden automatisierten Zugang zu dieser wertvollen Werbefläche.",
+          "score": 9
         },
         {
           "source": "Horizont Medien",
           "title": "Giovanni di Lorenzo und Nils von der Kall: KI als Chance: Warum starke Marken wie Die Zeit jetzt profitieren",
           "link": "https://www.horizont.net/medien/nachrichten/giovanni-di-lorenzo-und-nils-von-der-kall-beim-horizont-kongress-ki-als-chance-warum-starke-marken-wie-die-zeit-jetzt-profitieren-234596?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Beim HORIZONT-Kongress diskutierten Zeit-Chefredakteur Giovanni di Lorenzo und CEO Nils von der Kall, wie die 80 Jahre alte Medienmarke durch KI-Nutzung ihre Relevanz in der sich wandelnden Medienbranche sichern kann. Starke Marken wie Die Zeit können laut den Verlagsvertretern besonders von den Chancen der Künstlichen Intelligenz profitieren.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "So viel Bewegtbild wie nie Fußball-WM 2026: Hier sehen Sie alle Spiele, Highlights, Analysen und Berichte Die Fußball-WM 2026 dürfte das Turnier werden, über das auf so vielen Kanälen, Plattformen, Streamingdiensten und Sendern berichtet wird wie nie zuvor. Insbesondere mit Highlights der Nachtspiele können auch Anbieter ohne Live-Rechte punkten. Alle Live-Spiele laufen nur bei Magenta TV. ARD und ZDF sind zwar ebenfalls täglich dabei, aber längst nicht bei allen Spielen der Top-Teams. MEEDIA präsentiert die Übersicht, welche Spiele wo zu sehen sind, wie Sie an die Highlights der Nacht kommen und was ansonsten zur WM läuft",
-          "link": "https://meedia.de/news/beitrag/24382-fussball-wm-2026-hier-sehen-sie-alle-spiele-highlights-analysen-und-berichte.html",
-          "summary": "Die Fußball-WM 2026 wird erstmals über eine beispiellose Anzahl von Kanälen, Plattformen und Streamingdiensten übertragen, wobei Magenta TV alle 104 Live-Spiele exklusiv zeigt. ARD und ZDF haben sich durch Sub-Lizenzierung 60 Spiele gesichert, darunter alle deutschen Partien, aber nicht alle attraktiven Prime-Time-Spiele mit Topmannschaften. Anbieter ohne Live-Rechte können insbesondere mit Highlights der aufgrund der Zeitverschiebung nächtlichen Spiele aus Nordamerika punkten.",
-          "score": 10
-        },
-        {
-          "source": "meedia",
-          "title": "Premium-Inventar Samsung macht auch den Smart-TV-Startbildschirm programmatisch buchbar Wichtiger...",
-          "link": "https://meedia.de/news/beitrag/24386-samsung-macht-auch-den-smart-tv-startbildschirm-programmatisch-buchbar.html",
-          "summary": "Samsung öffnet erstmals die Werbeplätze auf dem Startbildschirm seiner Smart TVs für den programmatischen Mediaeinkauf über The Trade Desk und Google Display & Video 360. Diese Premium-Werbefläche wird direkt beim Einschalten des Fernsehers angezeigt und gilt als besonders aufmerksamkeitsstark, da sie vor dem eigentlichen Medienkonsum erscheint. Die technische Umsetzung erfolgt über Magnites SpringServe-Plattform und unterstreicht den Trend, dass TV-Hersteller zunehmend die Geräte-Oberflächen selbst als Werbeflächen vermarkten.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "Neues Werbeformat WDR: Allein im Werbeblock Die WDR mediagroup erweitert ihr Radio-Werbeangebot um den „WDR 2 Single Spot“.",
-          "link": "https://meedia.de/news/beitrag/24388-wdr-allein-im-werbeblock.html",
-          "summary": "Die WDR mediagroup führt ab 20. Juli den „WDR 2 Single Spot\" ein – ein neues Werbeformat, bei dem Spots maximal 25 Sekunden lang direkt vor den halbstündlichen WDR-2-Nachrichten und außerhalb klassischer Werbeblöcke platziert werden. Täglich stehen vier exklusive Platzierungen in reichweitenstarken Zeitfenstern (8-9, 9-10, 16-17 und 19-20 Uhr, montags bis freitags) zur Verfügung, die hohe Aufmerksamkeit und Glaubwürdigkeit für Markenkommunikation versprechen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Ad-Akzeptanz bei 54 Prozent der Nutzer RTL+-Studie: Warum Streaming-Werbung nicht nur Reichweite...",
-          "link": "https://meedia.de/news/beitrag/24385-rtl-studie-warum-streaming-werbung-nicht-nur-reichweite-braucht.html",
-          "summary": "Eine RTL+-Studie der Ad Alliance zeigt, dass neben der Reichweite vor allem die Art der Streaming-Nutzung entscheidend für die Werbewirkung ist. RTL+ positioniert sich als \"Alltagsbegleiter\" statt klassische Abrufplattform, wodurch 54 Prozent der Nutzer Werbung akzeptieren und diese höhere Effektivität erzielt. Die Studie unterstreicht den Branchentrend, dass Streaming-Anbieter zunehmend auf qualitative Nutzungsmerkmale statt reine Reichweitenzahlen setzen, um Werbeinventar hochwertiger zu vermarkten.",
+          "summary": "Giovanni di Lorenzo (Chefredakteur) und Nils von der Kall (CEO der Verlagsgruppe) präsentierten beim HORIZONT-Kongress ihre Strategie, wie die 80-jährige Medienmarke \"Die Zeit\" durch den Einsatz von KI ihre Relevanz in der sich wandelnden Medienbranche sichert. Sie sehen Künstliche Intelligenz als Chance, von der etablierte Marken mit starker Reputation besonders profitieren können.",
           "score": 8
         },
         {
-          "source": "meedia",
-          "title": "Analyse von Ulf Heyden Ist Web Push ein relevanter Kanal?",
-          "link": "https://meedia.de/news/beitrag/24387-ist-web-push-ein-relevanter-kanal.html",
-          "summary": "Web Push entwickelt sich zu einem strategischen Kanal für Publisher, der vollständige Kontrolle über Reichweite, Nutzerbindung und Monetarisierung ermöglicht, während deutsche Medienhäuser das Potenzial im Gegensatz zu internationalen Publishern noch nicht ausschöpfen. Die browserbasierte Technologie sendet Push-Nachrichten ohne personenbezogene Daten direkt an Nutzer und schafft eine eigene Abonnentenbasis. Der Erfolg hängt maßgeblich von einer durchdachten Implementierung ab, die über einfache Breaking-News-Hinweise hinausgeht und den Nutzen für User klar kommuniziert.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Digital-Offensive geplant Clemens Pig führt künftig den ORF Die österreichische Medienbranche hat...",
-          "link": "https://meedia.de/news/beitrag/24384-clemens-pig-fuehrt-kuenftig-den-orf.html",
-          "summary": "Clemens Pig, bisheriger APA-Chef, wurde vom ORF-Stiftungsrat mit deutlicher Mehrheit (21 von 35 Stimmen) zum neuen Generaldirektor gewählt und tritt das Amt im Januar 2027 an. Der favorisierte Ex-ProSiebenSat.1-Vorstand Markus Breitenecker erhielt überraschend nur vier Stimmen und landete hinter Pig und Ex-HBO-Manager Johannes Larcher (6 Stimmen). Die Entscheidung fiel nach einer rekordverdächtigen 15-stündigen Sitzung des Stiftungsrats.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Ein aktuelles vorläufiges Gerichtsurteil aus München könnte weit über den konkreten Einzelfall hinausreichen.",
-          "link": "https://meedia.de/news/beitrag/24373-gerichtsurteil-schwerer-rueckschlag-fuer-ki-chatbots.html",
-          "summary": "Das Landgericht München I hat in einem vorläufigen Urteil entschieden, dass Google für falsche Tatsachenbehauptungen in seinen KI-generierten \"AI Overviews\" haftet, da Google als Absender der Inhalte eingestuft wird. Im Gegensatz zur herkömmlichen Google-Suche greifen hier sowohl der AI-Act als auch verschärftes Medienrecht. Google wird voraussichtlich in Revision gehen, da die Entscheidung weitreichende Folgen für KI-Chatbots haben könnte.",
+          "source": "kress",
+          "title": "„Postkutschen-Lobby\": Döpfner provoziert FAZ mit KI-geschriebenem Kommentar Axel-Springer-Chef Mathias Döpfner antwortet auf die Depublizierung des Voigt-Gastbeitrags durch die FAZ",
+          "link": "https://kress.de/news/beitrag/153568-postkutschen-lobby-quot-doepfner-provoziert-faz-mit-ki-geschriebenem-kommentar.html",
+          "summary": "Axel-Springer-Chef Mathias Döpfner reagierte auf die FAZ-Depublizierung eines KI-generierten Gastbeitrags von Ministerpräsident Voigt mit einem bewusst vollständig KI-geschriebenen Kommentar in der Welt. Döpfner vergleicht KI-Textgenerierung mit seit Jahrzehnten üblichen Ghostwritern und kritisiert die FAZ-Haltung als \"sterbendes Dogma\" einer \"Postkutschen-Lobby\", während er die verwendete KI-Erkennungssoftware Pangram als fehleranfällig bezeichnet. Die FAZ konterte scharf auf diese bewusste Provokation.",
           "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Tagesspiegel stoppt publizistische Aktivitäten von Ex-Chefredakteur Casdorff",
+          "link": "https://kress.de/news/beitrag/153567-ich-habe-einen-riesenfehler-gemacht-quot-tagesspiegel-stoppt-publizistische-aktivitaeten-von-ex-chefredakteur-casdorff.html",
+          "summary": "Der Tagesspiegel hat seinen ehemaligen Chefredakteur und Herausgeber Stephan-Andreas Casdorff aufgefordert, alle publizistischen Aktivitäten einzustellen, nachdem bekannt wurde, dass er wiederholt KI-generierte Meinungsartikel ohne Kennzeichnung veröffentlicht hatte. Die Chefredaktion sieht darin eine Gefährdung der journalistischen Glaubwürdigkeit und hat die entsprechenden Texte offline genommen. Casdorff entschuldigte sich für seinen \"Riesenfehler\" und räumte ein, die KI-Nutzung hätte kenntlich gemacht werden müssen.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Lanz und Precht über Aktivismus im Journalismus",
+          "link": "https://kress.de/news/beitrag/153566-die-schoenen-zeiten-sind-wirklich-vorbei-quot-lanz-und-precht-ueber-aktivismus-im-journalismus.html",
+          "summary": "Im ZDF-Podcast „Lanz und Precht\" diskutieren die beiden Moderatoren den zunehmenden Aktivismus im Journalismus und führen diesen auf den Wandel der Finanzierungsstrukturen zurück: Während früher Anzeigenkunden 70% der Medienerlöse stellten und polarisierende Berichterstattung verhinderten, kommen heute 70% von Lesern, die ihre Meinung bestätigt sehen wollen. Lanz kritisiert konkret, dass auch seriöse Medien mittlerweile auf Verdachtsberichterstattung über prominente Männer setzen, da diese nachweislich hohe Abo-Zahlen generiert – ein Geschäftsmodell, das den Übergang von starker Meinungsberichterstattung zu Aktivismus befördert.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "So investieren Medienprofis intelligent in ihre berufliche Zukunft",
+          "link": "https://kress.de/news/beitrag/153562-weiterbildungen-so-investieren-medienprofis-intelligent-in-ihre-berufliche-zukunft.html",
+          "summary": "Der Artikel betont, dass Medienprofis regelmäßig in Weiterbildungen investieren müssen, um in der sich schnell wandelnden Branche wettbewerbsfähig zu bleiben, besonders im KI-Zeitalter wo veraltete Multimedia-Kenntnisse nicht mehr ausreichen. Vor jeder Weiterbildungsentscheidung sollten drei zentrale Fragen geklärt werden: Was will ich beruflich erreichen, brauche ich dafür eine Weiterbildung und wenn ja, welche? Der Autor empfiehlt neutrale Beratung durch Mentoren oder Coaches, da Weiterbildungsanbieter ihre Programme naturgemäß als sinnvoll bewerben.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Wie führt man ein Medienhaus, für das es keine Vorbilder gibt? Burda-Strategiechefin Föll beim European Publishing Congress in Wien KI verändert Medienhäuser nicht nur technologisch",
+          "link": "https://kress.de/news/beitrag/153564-wie-fuehrt-man-ein-medienhaus-fuer-das-es-keine-vorbilder-gibt-burda-strategiechefin-foell-beim-european-publishing-congress-in-wien.html",
+          "summary": "Friederike Marie Föll, Head of Business Transformation & Strategy bei Burda, spricht beim European Publishing Congress 2026 in Wien über die kulturellen Herausforderungen der KI-Transformation in Medienhäusern. Der Kongress unter dem Motto \"KI und Medien: Die erste große Bilanz\" versammelt über 500 Führungskräfte europäischer Medienhäuser, um Strategien zur KI-Nutzung und digitalen Transformation zu diskutieren. Neben Föll sprechen weitere Branchenexperten wie Daniel Böcking (Bild), Marcel Semmler (Bauer Media) und Laura Seiffe (ZEIT) über ihre Erfahrungen mit KI-Integration.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Focus Online ehrt Journalismus, der Lust auf die Zukunft macht Während die Debatte über Aktivismus...",
+          "link": "https://kress.de/news/beitrag/153563-vierter-constructive-world-award-focus-online-ehrt-journalismus-der-lust-auf-die-zukunft-macht.html",
+          "summary": "Focus Online verlieh zum vierten Mal den Constructive World Award für kritisch-konstruktiven Journalismus, der sich an den UN-Nachhaltigkeitszielen orientiert und in fünf Kategorien mit je 5.000 Euro dotiert ist. Erstmals wurde zusätzlich der Sonderpreis „Constructive Impact\" vergeben, der Menschen und Projekte für positive Veränderungen ehrt. Der Preis würdigt Journalismus, der „aus gut recherchiertem Grund Lust auf die Zukunft macht\" und Lösungsansätze für gesellschaftliche Herausforderungen sichtbar macht.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Paul Ronzheimer und die Reichelt-Affäre: Fünf Jahre Schweigen",
+          "link": "https://kress.de/news/beitrag/153560-paul-ronzheimer-und-die-reichelt-affaere-fuenf-jahre-schweigen-kress-pro-fragt-nach.html",
+          "summary": "Paul Ronzheimer, Vize-Chefredakteur der Bild-Zeitung und ehemals enger Mitarbeiter von Julian Reichelt, schweigt auch fünf Jahre nach der Reichelt-Affäre zu seiner damaligen Rolle und weicht in Interviews konsequent entsprechenden Nachfragen aus. In einem Podcast-Gespräch mit Matze Hielscher lobte Ronzheimer seinen ehemaligen Chef als \"großartigen Reporter\", distanzierte sich aber gleichzeitig mit dem Verweis, er sei \"nicht mehr der Paul von vor fünf Jahren\". Seine Weigerung, Details über das persönliche Verhältnis zu Reichelt preiszugeben, begründet er mit der Intimität des Themas und dem unpassenden öffentlichen Rahmen.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "„Diese Einlassung genügt uns nicht\": FAZ löscht Voigt-Gastbeitrag wegen KI-Verdachts Die FAZ macht ernst mit ihren KI-Regeln: Ein Gastbeitrag von Thüringens Ministerpräsident Mario Voigt wurde depubliziert",
+          "link": "https://kress.de/news/beitrag/153559-diese-einlassung-genuegt-uns-nicht-quot-faz-loescht-voigt-gastbeitrag-wegen-ki-verdachts.html",
+          "summary": "Die FAZ hat einen Gastbeitrag des thüringischen Ministerpräsidenten Mario Voigt (CDU) zum Social-Media-Verbot für Kinder wegen Verdachts auf KI-Einsatz depubliziert und aus dem Archiv entfernt. Das Portal \"Frag den Staat\" hatte mit dem Erkennungsprogramm Pangram Hinweise auf KI-Generierung gefunden und nicht verifizierbare Expertenquellen identifiziert, woraufhin die Staatskanzlei nur ausweichend antwortete. Der Fall reiht sich ein in weitere KI-Verdachtsfälle um Voigts Veröffentlichungen, nachdem bereits ein gemeinsamer Gastbeitrag mit dem sachsen-anhaltinischen Ministerpräsidenten für \"Die Welt\" unter KI-Verdacht geraten war.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "„Wer Inhalte am intelligentesten strukturiert\": Bauer-Media-CPO Semmler erklärt den „Liquid Publisher\" beim European Publishing Congress in Wien Nicht schneller produzieren, nicht mehr",
+          "link": "https://kress.de/news/beitrag/153561-wer-inhalte-am-intelligentesten-strukturiert-quot-bauer-media-cpo-semmler-erklaert-den-liquid-publisher-quot-beim-european-publishing-congress-in-wien.html",
+          "summary": "Marcel Semmler, Chief Product Officer bei Bauer Media, präsentiert beim European Publishing Congress das Konzept des „Liquid Publishers\" als Zukunftsmodell für Medienhäuser, bei dem KI nicht als Zusatzfunktion, sondern als grundlegende Infrastruktur verstanden wird. Seine Kernthese: Erfolg wird künftig nicht durch Geschwindigkeit oder Quantität der Content-Produktion bestimmt, sondern durch die intelligenteste Strukturierung von Inhalten. Der Kongress mit über 500 Führungskräften europäischer Medienhäuser steht unter dem Motto „KI und Medien: Die erste große Bilanz\" und behandelt konkrete KI-Anwendungen in Medienprozessen.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Von Bild zum stern: Tobias Render wird Ressortleiter People & Unterhaltung Tobias Render hat 15 Jahre für Bild und Bild am Sonntag über Unterhaltung geschrieben",
+          "link": "https://kress.de/news/beitrag/153554-von-bild-zum-stern-tobias-render-wird-ressortleiter-people-amp-unterhaltung.html",
+          "summary": "Tobias Render wechselt nach 15 Jahren bei Bild und Bild am Sonntag zum 1. September als Co-Ressortleiter People & Unterhaltung zum stern, wo er gemeinsam mit Lena Steeg die Leitung übernimmt. Der bisherige Co-Ressortleiter Carsten Heidböhmer kehrt als Redakteur ins Team zurück, um sich wieder auf das Schreiben zu konzentrieren. Die stern-Chefredaktion erhofft sich von Render eine Weiterführung der digitalen Transformation der Marke im Unterhaltungsbereich.",
+          "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "CBS News to hire Sky News presenter Trevor Phillips as global correspondent",
+          "title": "‘Open season’ on ABC as FCC moves up public comment process for renewals",
+          "link": "https://www.theguardian.com/media/2026/jun/13/abc-fcc-license-trump-kimmel",
+          "summary": "Die FCC hat unter der Trump-Administration ein außergewöhnlich frühes Lizenz-Erneuerungsverfahren für ABCs acht lokale TV-Stationen eingeleitet, was als eine der schärfsten regulatorischen Maßnahmen gegen ein Medienunternehmen gilt. Die Entscheidung erfolgte einen Tag nach Trumps Forderung, Jimmy Kimmels Late-Night-Show zu canceln, wobei die FCC offiziell Untersuchungen zu ABCs Diversity-Praktiken als Begründung anführt. ABC sieht darin einen politisch motivierten Vergeltungsakt gegen kritische Berichterstattung und eine Einschüchterungstaktik.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "CBS News hires Sky News presenter Trevor Phillips as global correspondent",
           "link": "https://www.theguardian.com/media/2026/jun/11/cbs-news-trevor-phillips-sky-news",
-          "summary": "CBS News plant die Einstellung des prominenten britischen Sky News-Moderators Trevor Phillips als globalen Korrespondenten, was eine bedeutende Personalentscheidung der umstrittenen Chefredakteurin Bari Weiss darstellt. Phillips, der derzeit die Sky News Sunday Morning Show moderiert, war zuvor Vorsitzender der Commission for Racial Equality und wurde 2022 für seine Arbeit im Bereich Gleichberechtigung und Menschenrechte zum Ritter geschlagen. Die Ernennung erfolgt zu einem Zeitpunkt, als CBS News' Londoner Büro personelle Umstrukturierungen durchläuft, nachdem die angesehene Büroleiter Claire Day das Unternehmen verlassen hat.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "ITV delivers feisty start to World Cup coverage – and taunts BBC from glitzy studio",
-          "link": "https://www.theguardian.com/football/2026/jun/11/itv-delivers-feisty-start-to-coverage-and-taunts-bbc-from-glitzy-studio",
-          "summary": "ITV startete seine WM-Berichterstattung mit einem kämpferischen Ansatz, indem Moderator Mark Pougatch kontroverse Themen wie Ticketpreise und die Behandlung bestimmter Teams direkt ansprach. Der Sender nutzt ein glamouröses Studio in New York mit Manhattan-Blick, um sich bewusst von der BBC abzusetzen, die aus Kostengründen von einem spartanischen Studio in Salford sendet. Dies markiert eine deutliche Konkurrenzpositionierung zwischen den beiden britischen Sendern in der WM-Berichterstattung 2026.",
+          "summary": "CBS News hat den prominenten britischen Sky News-Moderator Trevor Phillips als Senior Global Affairs Correspondent verpflichtet, eine bedeutende Personalentscheidung der umstrittenen Chefredakteurin Bari Weiss. Phillips, der derzeit die politische Sunday-Show bei Sky News moderiert, war zuvor Vorsitzender der Commission for Racial Equality und wurde 2022 geadelt, ist jedoch in den USA wenig bekannt. Die Verpflichtung erfolgt zu einer Zeit intensiver Prüfung von CBS News' Ausrichtung unter Weiss nach der Fusion von Paramount Global mit Skydance Media.",
           "score": 8
         },
         {
           "source": "Guardian Media",
           "title": "ITV says its biggest-yet World Cup is a ‘six-week Super Bowl’ for advertising",
           "link": "https://www.theguardian.com/business/2026/jun/11/itv-world-cup-super-bowl-tv-advertising",
-          "summary": "ITV bezeichnet die FIFA WM 2026 als ihren kommerziell erfolgreichsten Sportevent aller Zeiten, mit Werbeerlösen die etwa 30% über denen der Euro 2024 liegen. Der Sender überträgt 51 der 104 Spiele des erweiterten Turniers und vermarktet es als \"sechswöchigen Super Bowl-Moment\" für TV-Werbung. 30-Sekunden-Spots in England-Spielen kosten schätzungsweise bis zu £300.000, wobei ITV strategisch Prime-Slots für spätere Turnierphasen zurückhält.",
+          "summary": "ITV bezeichnet die FIFA WM 2026 als ihren kommerziell erfolgreichsten Sportevent aller Zeiten, mit Werbeerlösen die etwa 30% über denen der Euro 2024 liegen. Der Sender überträgt 51 der 104 Spiele des erweiterten Turniers und vermarktet es als \"sechswöchiges Super Bowl-Moment\" für TV-Werbung. Ein 30-Sekunden-Werbespot während England-Spielen kostet bis zu £300.000, wobei ITV strategisch Premium-Slots für spätere Turnierphasen zurückhält.",
           "score": 8
         },
         {
           "source": "Guardian Media",
-          "title": "BBC abandons plans for Doctor Who Christmas special",
-          "link": "https://www.theguardian.com/tv-and-radio/2026/jun/10/bbc-abandons-plans-for-doctor-who-christmas-special",
-          "summary": "Die BBC hat die geplante Doctor Who Weihnachtsfolge 2026 abgesagt, nachdem Showrunner Russell T. Davies seinen Ausstieg aus der Serie ankündigte. Die Produktion wird nun im Rahmen der Royal Charter-Vereinbarung ausgeschrieben, während sich der Sender auf die langfristige Zukunft der Serie konzentrieren will. Die abgesagte Episode sollte nach einem Cliffhanger vom Mai folgen, in dem Ncuti Gatwas Doctor sich in Billie Pipers Rose Tyler regenerierte.",
-          "score": 7
+          "title": "Elon Musk’s X not facing action from UK government over posts inciting violence in Belfast",
+          "link": "https://www.theguardian.com/uk-news/2026/jun/10/elon-musk-x-not-face-action-uk-government-posts-inciting-violence-belfast",
+          "summary": "Die britische Regierung wird trotz weit verbreiteter Kritik mindestens zwei Monate lang keine Maßnahmen gegen Elon Musks Plattform X wegen Posts ergreifen, die zu Gewalt in Belfast anstacheln, da entsprechende Änderungen am Online Safety Act erst ab Mitte Juli wirksam werden. Während Premierminister Starmer ein hartes Vorgehen gegen Aufwiegler ankündigte, wird eine offizielle Rüge von X zunächst dem Medienregulator Ofcom überlassen, der erst in zwei Monaten einen Compliance-Bericht der Plattform erwartet. Die Gewalt in Belfast, die als \"rassistischer Pogrom\" bezeichnet wurde, richtete sich gegen ethnische Minderheiten und wurde durch die Anklage eines sudanesischen Flüchtlings wegen versuchten Mordes ausgelöst.",
+          "score": 8
         },
         {
           "source": "Deadline",
-          "title": "‘Ludwig’ Season 2 Teaser Trailer: David Mitchell’s Puzzling Detective Returns To BBC & BritBox",
-          "link": "https://deadline.com/2026/06/ludwig-season-2-teaser-trailer-david-mitchell-bbc-britbox-1236953807/",
-          "summary": "Die BBC hat den ersten Trailer für die zweite Staffel von \"Ludwig\" veröffentlicht, der gemütlichen Krimi-Serie mit David Mitchell als rätsellösendem Detektiv, die nach ihrem erfolgreichen Debüt 2024 als größter BBC-Comedy-Start seit 2018 zurückkehrt. Zu den neuen Hauptdarstellern gehören Mark Bonnar und Sian Clifford, während Mitchell und Anna Maxwell Martin ihre Rollen fortsetzen. Die Big Talk Studios-Produktion wird erneut von Mark Brotherhood geschrieben und später in diesem Jahr auf BBC und BritBox ausgestrahlt.",
-          "score": 7
+          "title": "DGA Board Approves 4-Year AMPTP Deal That Addresses Unemployment Issues With Health Plan Increases, New AI Protections, Multi-Hyphenate Guardrails & More",
+          "link": "https://deadline.com/2026/06/dga-board-approves-amptp-4-year-deal-details-summary-1236955328/",
+          "summary": "Das Board der Directors Guild of America (DGA) hat einstimmig einen vierjährigen Tarifvertrag mit den Studios empfohlen, der nun zur Mitgliederabstimmung vor dem 30. Juni geht. Der Vertrag beinhaltet eine 24,4%ige Erhöhung der Arbeitgeberbeiträge zur Krankenversicherung über die Vertragslaufzeit, neue KI-Schutzbestimmungen und ähnliche Lohn- und Residualerhöhungen wie andere Gewerkschaften. DGA-Präsident Christopher Nolan betont, dass die drei Hauptziele - Sicherung des Gesundheitsplans, Arbeitsplatzschutz und KI-Regulierung - erfolgreich erreicht wurden.",
+          "score": 8
         },
         {
           "source": "Deadline",
-          "title": "Disney+ Reveals Dutch Version Of Strategy Game ‘Werewolves’ With NPO",
-          "link": "https://deadline.com/2026/06/werewolves-disney-plus-strategy-game-npo-wolven-1236950003/",
-          "summary": "Disney+ produziert gemeinsam mit dem niederländischen Sender NPO eine lokale Version des Strategiespiels \"Werewolves\" unter dem Titel \"Wolven: Het Spel Van List En Bedrog\", das ab 29. August gleichzeitig auf NPO 1, NPO Start und Disney+ ausgestrahlt wird. Das Format basiert auf dem kultigen Brettspiel und ähnelt \"The Traitors\", wobei versteckte \"Werwölfe\" versuchen, die anderen \"Dorfbewohner\" zu eliminieren. Diese Kooperation ist Teil von Disney+'s Strategie, Partnerschaften mit europäischen Sendern einzugehen, um lokale Inhalte für jüngere Zielgruppen zugänglich zu machen.",
-          "score": 7
+          "title": "‘What The Dead Know’ Lives On: Star Taylor Schilling Option Extended, NBC Pilot To Be Redeveloped With New Writer",
+          "link": "https://deadline.com/2026/06/what-the-dead-know-pilot-taylor-schilling-redeveloped-nbc-1236955259/",
+          "summary": "NBCs Krimi-Pilot \"What the Dead Know\" mit Taylor Schilling erhielt keine direkte Serienbestellung, wird aber aufgrund positiver Bewertungen von Schillings Performance mit neuer Autorin überarbeitet. Universal Television verlängerte die Option für die \"Orange is the New Black\"-Darstellerin, die eine Todesermittlerin in der Wolf Entertainment-Produktion spielt. Je nach Erfolg der Neuentwicklung könnte das Projekt eine direkte Serienbestellung erhalten.",
+          "score": 8
         },
         {
           "source": "Deadline",
-          "title": "Juliette Lewis Makes Surprise ‘Cape Fear’ Cameo After Starring In 1991 Movie — Plus Francesca Scorsese",
-          "link": "https://deadline.com/2026/06/juliette-lewis-cape-fear-surprise-cameo-1236954376/",
-          "summary": "Juliette Lewis, die 1991 in Martin Scorseses \"Cape Fear\" die Tochter Danielle spielte, hat einen Überraschungsauftritt in der neuen Apple TV+ Serie als mysteriöse Figur aus der Vergangenheit des Protagonisten Max Cady (Javier Bardem). Die Serie ist eine weitere Adaption von John D. MacDonalds Roman \"The Executioners\" von 1957, wobei Scorsese als ausführender Produzent fungiert und seine Tochter Francesca ebenfalls einen Cameo-Auftritt hat. Lewis' Charakter konfrontiert den Ex-Sträfling durch das Eindringen in sein Haus und hinterlässt eine Videobotschaft, die ihn in gewalttätige Wut versetzt.",
+          "title": "RuPaul In ‘Stop! That! Train!’, BTS, Maria Bakalova & ‘Amores Perros’ 4K Restoration – Specialty Preview",
+          "link": "https://deadline.com/2026/06/indie-films-opening-stop-that-train-rupaul-bts-amores-perros-1236954758/",
+          "summary": "RuPaul kehrt mit der Komödie \"Stop! That! Train!\" von Regisseur Adam Shankman auf die große Leinwand zurück, die auf 1.161 Kinos startet und 86% bei Rotten Tomatoes erreicht. Das Wochenende bringt zudem eine Reihe limitierter Indie-Veröffentlichungen, darunter Cannes-Premieren wie \"Promised Sky\" und die preisgekrönte Dokumentation \"The Gas Station Attendant\", sowie restaurierte Klassiker wie Iñárritus \"Amores Perros\" und \"The Third Man\". Parallel dazu wird BTS' Welttournee \"Arirang\" in Busan live in nordamerikanische und weltweite Kinos übertragen.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Inside the Directors Guild’s Four-Year Deal: A Focus on Jobs, the Health Plan and AI Protections",
+          "link": "https://www.hollywoodreporter.com/business/business-news/directors-guilds-four-year-deal-plan-1236620542/",
+          "summary": "Die Directors Guild of America (DGA) hat einen vierjährigen Tarifvertrag mit Hollywood-Studios abgeschlossen, der angesichts eines 35%igen Rückgangs der TV-Beschäftigung und 8-12% weniger Filmjobs 2024 neue Jobschutzmaßnahmen, KI-Regulierungen und die größte Arbeitgeberbeitragssteigerung für den Gesundheitsplan in der Gewerkschaftsgeschichte beinhaltet. Die Studios verpflichten sich, gemeinsam mit der DGA für bundesweite Steueranreize zu lobbyieren, um die Branchenstabilität zu fördern. DGA-Präsident Christopher Nolan bezeichnete die Vereinbarung als notwendig für Stabilität und Wachstumspotenzial in einer Phase der Branchenkontraktion.",
           "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Disney+, Dutch Public Broadcaster NPO Team on Local ‘Werewolves’ Adaptation ‘Wolven’",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/disney-plus-dutch-broadcaster-werewolves-adaptation-wolven-1236616279/",
-          "summary": "Disney+ und der niederländische öffentliche Rundfunk NPO produzieren gemeinsam die lokale Adaptation der Reality-Serie \"Werewolves\" unter dem Titel \"Wolven\", die ab 29. August sowohl linear auf NPO 1 als auch parallel auf Disney+ streamt. Das von Banijay Entertainment entwickelte Format, bei dem Dorfbewohner gegen versteckte \"Werwölfe\" um einen Preis kämpfen, läuft bereits erfolgreich in Frankreich und Deutschland. Die Kooperation markiert eine neue Arbeitsweise für den öffentlichen Rundfunk und ist Teil von Disney+'s europäischer Strategie der Zusammenarbeit mit Free-TV-Sendern.",
-          "score": 7
+          "title": "David Ellison’s $111 Billion Paramount-Warner Bros. Merger Greenlit by Justice Dept",
+          "link": "https://www.hollywoodreporter.com/business/business-news/justice-department-signs-off-on-paramount-warner-bros-deal-1236620844/",
+          "summary": "Das US-Justizministerium hat David Ellisons 111-Milliarden-Dollar-Fusion von Paramount und Warner Bros. genehmigt und erklärt, dass der Deal den Wettbewerb im Medien- und Unterhaltungssektor stärken wird. Die Genehmigung erfolgte ohne Auflagen für Unternehmensverkäufe oder Verhaltensänderungen und würde Paramount zum größten Kinoverleih der USA und Besitzer eines der fünf größten Streaming-Dienste machen. Weitere regulatorische Hürden bestehen jedoch noch durch Generalstaatsanwälte der Bundesstaaten, die FCC, die EU und bereits eingereichte Verbraucherklagen.",
+          "score": 8
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "ICC Women’s T20 World Cup 2026 Livestream: Here’s Where to Watch the Cricket Tournament Online",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-icc-womens-t20-world-cup-2026-live-online-1236619709/",
-          "summary": "Die ICC Women's T20 World Cup 2026 findet vom 12. Juni bis 5. Juli in England und Wales statt, mit dem Finale im Lord's Cricket Ground in London. Zwölf internationale Teams kämpfen um den Titel, wobei Australien als Favorit gilt, obwohl Neuseeland als Titelverteidiger antritt. Das Turnier kann über Willow TV sowie Streaming-Dienste wie DirecTV, Sling TV und Fubo verfolgt werden.",
+          "source": "Variety",
+          "title": "24 Hours of Le Mans 2026: Here’s Where to Watch the Endurance Motorsports Race Live Online",
+          "link": "https://variety.com/2026/shopping/news/watch-24-hours-of-le-mans-2026-motorsports-race-live-online-free-1236728063/",
+          "summary": "Das 94. 24-Stunden-Rennen von Le Mans findet am 13.-14. Juni 2026 auf dem Circuit de la Sarthe statt, mit Top-Teams wie Ferrari AF Corse, Toyota Gazoo Racing und BMW M Team WRT. Die Live-Übertragung erfolgt über truTV und verschiedene Streaming-Dienste wie DirecTV, HBO Max und Hulu + Live TV. Mehrere Anbieter bieten kostenlose Testversionen an, um das Rennen ohne Kabel-TV verfolgen zu können.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "‘The Uniform,’ From Miso Film and Fremantle, Returns for a Second Season – and Dives Into the Cracks Within the Police Force (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/global/fremantle-the-uniform-second-season-police-exclusive-1236779546/",
-          "summary": "Die dänische Polizeiakademie-Serie \"The Uniform\" von Miso Film und Fremantle wurde für eine zweite Staffel verlängert und wird nach der Premiere auf DRTV nun auch auf BBC iPlayer und BBC Four im UK ausgestrahlt. Die Serie, die derzeit beim Monte-Carlo Television Festival präsentiert wird, erforscht die Risse und Spannungen innerhalb der Polizei mit dem ursprünglichen Creative-Team bestehend aus den Schöpfern Oscar Giese und Anders August sowie Regisseur Jonas Alexander Arnby. Die erste Staffel behandelte bereits komplexe moralische Dilemmata, insbesondere durch die Figur des Youssef, der mit der Frage von Schuld und Selbstverteidigung nach einem Todesfall kämpft.",
+          "title": "DGA Deal Lands Health Plan Gains, Streaming Residual Hikes and Responds to TV Slump by Limiting Actors and Others From Taking Director Jobs",
+          "link": "https://variety.com/2026/film/news/dga-deal-terms-tv-actors-jobs-directors-1236780373/",
+          "summary": "Die Directors Guild of America (DGA) hat eine neue Vereinbarung mit der AMPTP erreicht, die als Reaktion auf einen 40%igen Rückgang der TV-Produktionsjobs Beschränkungen für Schauspieler und andere Serienmitwirkende beim Übernehmen von Regie-Episoden einführt. Der Vertrag sichert außerdem Verbesserungen bei Gesundheitsplänen, höhere Streaming-Residuals, neue KI-Bestimmungen und dauerhafte Credits für TV-Pilot-Regisseure. Die Vereinbarung liegt nun den 19.500 Gewerkschaftsmitgliedern zur Abstimmung vor.",
           "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Viral ‘Open Door’ YouTube Short to be Adapted Into Feature, Earns Six-Figure Development Deal (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/news/open-door-youtube-short-feature-development-deal-1236779948/",
+          "summary": "Der virale YouTube-Short \"Open Door\" von Kevin Cate mit fast 15 Millionen Views wird durch einen sechsstelligen Entwicklungsdeal zu einem Spielfilm adaptiert, wobei die Hauptdarsteller Sean Anthony Baker und Mia Matthews ihre Rollen aus dem dreiminütigen Sci-Fi-Original wieder aufnehmen werden. Diese Entwicklung reiht sich in den aktuellen Branchentrend ein, YouTube-Creator und jüngere Filmemacher mit etablierten Audiences zu fördern, nachdem bereits Horror-Filme wie \"Obsession\" und \"Backrooms\" erfolgreich waren. Das Drehbuch schrieb Cate gemeinsam mit \"IO\"-Autor Charles Spano, produziert wird der Film über Cates Indie-Produktionsfirma Clinging Vine Films.",
+          "score": 7
         }
       ]
     }
