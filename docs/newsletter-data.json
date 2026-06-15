@@ -1,84 +1,273 @@
 {
   "newsletters": [
     {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Ergebnis nach 15 Stunden: Die ORF-Wahl zum Nachlesen",
-          "link": "https://www.dwdl.de/nachrichten/106799/ergebnis_nach_15_stunden_die_orfwahl_zum_nachlesen/",
-          "summary": "Nach 15-stündiger Wahl wurde Clemens Pig im ersten Durchgang mit 21 Stimmen zum neuen ORF-Generaldirektor gewählt, nachdem sein Vorgänger Roland Weißmann nach Vorwürfen zurückgetreten war. Die Wahl wird von FPÖ-Vertreter Peter Westenthaler kritisiert und angefochten, der Pig vorwirft, bei Fragen zu seinen politischen Kontakten nicht wahrheitsgemäß geantwortet zu haben. Westenthaler bezeichnet den ORF weiterhin als \"Regierungspropagandafunk\" und setzt damit seine Angriffe auf die öffentlich-rechtliche Rundfunkanstalt fort.",
+          "title": "Nach 13 Jahren Zusammenarbeit: Sebastian Lege verlässt das ZDF",
+          "link": "https://www.dwdl.de/nachrichten/106844/nach_13_jahren_zusammenarbeit_sebastian_lege_verlaesst_das_zdf/",
+          "summary": "Sebastian Lege beendet nach 13 Jahren seine erfolgreiche Zusammenarbeit mit dem ZDF auf eigenen Wunsch zum 31. Dezember 2026 und wechselt voraussichtlich zu RTL Deutschland. Der Fernsehkoch hatte sich beim ZDF mit Formaten wie \"ZDF besseresser\" zum Quotenbringer entwickelt und war 2023 von DWDL.de zum Bildschirmheld des Jahres gekürt worden. Das ZDF will die Marke \"besseresser\" auch ohne Lege weiterführen, während RTL Deutschland eine Verpflichtung derzeit noch nicht kommentiert.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Fox schluckt Streaming-Plattform Roku für 22 Milliarden Dollar",
+          "link": "https://www.dwdl.de/nachrichten/106846/fox_schluckt_streamingplattform_roku_fuer_22_milliarden_dollar/",
+          "summary": "Die Fox Corporation übernimmt den Streaming-Technologie-Anbieter Roku für 22 Milliarden US-Dollar, um sich strategisch im wachstumsstarken Connected TV-Bereich zu positionieren. Roku erreicht weltweit über 100 Millionen Haushalte mit seinen Streaming-Sticks und der gleichnamigen Plattform-Software. Die Transaktion soll 2027 abgeschlossen werden und macht das fusionierte Unternehmen zum drittgrößten Akteur im US-TV-Markt, wobei Roku weiterhin als offene Plattform betrieben werden soll.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Ströer vermarktet Zattoo künftig in Deutschland",
+          "link": "https://www.dwdl.de/nachrichten/106839/stroeer_vermarktet_zattoo_kuenftig_in_deutschland/",
+          "summary": "Ströer übernimmt die Vermarktung von Zattoo in Deutschland, um das CTV-Werbegeschäft beider Unternehmen zu stärken und Werbekunden besseren Zugang zu adressierbarem TV-Inventar zu ermöglichen. Die strategische Partnerschaft fokussiert sich auf die Ausspielung von Bewegtbild-, Streaming- und FAST-Werbung vor allem auf dem Big Screen. Beide Unternehmen sehen Connected TV als zentralen digitalen Bewegtbildkanal mit hohem Wachstumspotenzial.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "ProSieben setzt die \"Promi Padel-WM\" in neuer Location fort",
+          "link": "https://www.dwdl.de/nachrichten/106838/prosieben_setzt_die_promi_padelwm_in_neuer_location_fort/",
+          "summary": "ProSieben wiederholt die \"Promi Padel-WM\" am 21. November 2026 um 20:15 Uhr mit Steven Gätjen als Moderator, verlagert die Veranstaltung jedoch vom Münchner SAP Garden in die Arena Oberhausen und tauscht das Moderationsteam teilweise aus. Die Premiere 2025 erreichte 590.000 Zuschauer (9,4% MA 14-49), was als mäßiger Quotenerfolg gewertet wurde. Zehn Promi-Sportler-Teams kämpfen erneut um den \"Padel City Cup\" in der von i&u Studios produzierten Live-Show.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Beatrice Egli wird Teil der neuen \"Landarztpraxis\" von Sat.1",
+          "link": "https://www.dwdl.de/nachrichten/106836/beatrice_egli_wird_teil_der_neuen_landarztpraxis_von_sat1/",
+          "summary": "Sat.1 hat angekündigt, dass Schlagersängerin Beatrice Egli in der neuen Vorabendserie \"Die Landarztpraxis - Team Sonnenhof\" (Start 29. Juni, werktags 19 Uhr) erstmals eine fiktionale Schauspielrolle übernimmt. Egli verkörpert die Schweizerin Céline Huber, die mit einem Geheimnis im Sonnenhof auftaucht und dort auf ihre alte Freundin Lilli Lamminger (Pina Kühr) trifft. Die Folgen mit Egli werden ab Spätsommer ausgestrahlt, nachdem sie bisher nur kurze Gastrollen als sie selbst gespielt hatte.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "ZDF erklärt verspätete WM-Eröffnung mit finanziellen Gründen",
+          "link": "https://www.dwdl.de/nachrichten/106818/zdf_erklaert_verspaetete_wmeroeffnung_mit_finanziellen_gruenden/",
+          "summary": "Das ZDF verpasste die ersten sieben Minuten der WM-Eröffnungsfeier in Mexico City, weil der Sender stattdessen Werbung ausstrahlte, während MagentaTV die komplette Show live übertrug. Der öffentlich-rechtliche Sender rechtfertigte dies mit finanziellen Zwängen und verwies auf sein Recht, täglich bis zu 20 Minuten Werbung vor 20 Uhr zu senden. Trotz der Kritik ließ das ZDF offen, warum die Werbeblöcke nicht anders geplant oder die Eröffnung zeitversetzt gezeigt wurde.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "KI im Journalismus: Warum wir über KI im Journalismus reden sollten",
+          "link": "https://www.horizont.net/medien/kommentare/ki-im-journalismus-warum-wir-ueber-ki-im-journalismus-reden-sollten-234711?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der Artikel thematisiert die rasante Entwicklung von KI-Technologien im Journalismus und kritisiert den noch unstrukturierten, teilweise chaotischen Umgang der Branche damit. Der Autor stellt provokant die Frage, wann der erste Chefredakteur entlassen wird, weil er KI nicht nutzt, und fordert klare, nachvollziehbare Regeln für den KI-Einsatz in Redaktionen.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Zuständigkeit nach Genres: Neue Aufgaben für Senderchefs von Pro Sieben Sat 1",
-          "link": "https://www.horizont.net/medien/nachrichten/zustaendigkeit-nach-genres-neue-aufgaben-fuer-senderchefs-von-pro-sieben-sat-1-234704?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "ProSiebenSat.1 reorganisiert die Führungsstruktur seiner Unterhaltungssparte und ordnet die bisherigen senderspezifischen Zuständigkeiten für ProSieben, Sat.1 und Kabel Eins neu. Künftig werden Inhalte primär nach Genres organisiert, während die Auswertung über TV-Sender und digitale Plattformen zentral koordiniert wird.",
+          "title": "Fußball-Weltmeisterschaft: Über 23 Millionen verfolgen Kantersieg gegen Curacao",
+          "link": "https://www.horizont.net/medien/nachrichten/fussball-weltmeisterschaft-ueber-23-millionen-verfolgen-kantersieg-gegen-curacao-234708?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Das deutsche Nationalteam gewann 7:1 gegen Curacao bei der Fußball-WM. Über 23 Millionen Zuschauer verfolgten das Spiel im Ersten, was zu Traumquoten für den Sender führte.",
           "score": 9
         },
         {
-          "source": "Horizont Medien",
-          "title": "YouGov Podcast Ads Report 2026: So effektiv ist Podcast-Werbung wirklich",
-          "link": "https://www.horizont.net/medien/nachrichten/yougov-podcast-ads-report-2026-podcast-werbung-wird-oft-ueber-sprungen-ist-aber-dennoch-effektiv-234700?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Laut dem YouGov Podcast Ads Report 2026 überspringen viele Podcast-Hörer zwar regelmäßig Werbepausen, dennoch wird Podcast-Werbung als weniger störend wahrgenommen als andere Werbeformate. Trotz des Skip-Verhaltens erzielt Podcast-Werbung höhere Conversion-Raten im Vergleich zu alternativen Werbeformen.",
+          "source": "kress",
+          "title": "„Herde von Holzköpfen\": Steingart rechnet mit FAZ, Tagesspiegel und Zeit in der KI-Debatte ab Gabor Steingart liest am Montag mit seinem Pioneer Morning Briefing der Branche die Leviten. FAZ, Tagesspiegel und Zeit seien eine „Herde von Holzköpfen\"",
+          "link": "https://kress.de/news/beitrag/153570-herde-von-holzkoepfen-quot-steingart-rechnet-mit-faz-tagesspiegel-und-zeit-in-der-ki-debatte-ab.html",
+          "summary": "Gabor Steingart kritisiert in seinem Pioneer Morning Briefing scharf FAZ, Tagesspiegel und Zeit für deren ablehnende Haltung zur KI-Nutzung und bezeichnet sie als „Herde von Holzköpfen\". Er prangert die Depublizierung eines KI-generierten Gastbeitrags durch die FAZ, die Entbindung von Stephan-Andreas Casdorff beim Tagesspiegel und die kritische Berichterstattung der Zeit über KI-Nutzung eines Digitalministers als rückwärtsgewandt an. Steingart argumentiert, dass KI-Einsatz als technologischer Fortschritt behandelt werden sollte, nicht als Regelverstoß.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Der Favorit gewinnt: Clemens Pig wird neuer ORF-Generaldirektor 21 von 35 Stimmen, 15 Stunden Sitzungsmarathon, ÖVP-Rückenwind im Vorfeld",
-          "link": "https://kress.de/news/beitrag/153565-der-favorit-gewinnt-clemens-pig-wird-neuer-orf-generaldirektor.html",
-          "summary": "Clemens Pig (51), ehemaliger APA-Geschäftsführer, wurde mit 21 von 35 Stimmen zum neuen ORF-Generaldirektor gewählt und übernimmt ab 1. Januar 2027 die Führung von Österreichs größtem Medienunternehmen. Der Favorit setzte sich nach einem 15-stündigen Sitzungsmarathon klar gegen Johannes Larcher (6 Stimmen), Markus Breitenecker (4 Stimmen) und andere Kandidaten durch. Pig kündigte an, den ORF strukturell und inhaltlich vom klassischen Rundfunk zu einer digitalen Public-Value-Plattform umzubauen, wobei die Sanierung der angespannten Finanzlage oberste Priorität hat.",
+          "title": "Döpfner provoziert FAZ mit KI-geschriebenem Kommentar",
+          "link": "https://kress.de/news/beitrag/153568-postkutschen-lobby-quot-doepfner-provoziert-faz-mit-ki-geschriebenem-kommentar.html",
+          "summary": "Axel-Springer-Chef Mathias Döpfner veröffentlichte einen vollständig KI-generierten Kommentar in der Welt als Reaktion auf die FAZ-Entscheidung, einen KI-geschriebenen Gastbeitrag von Thüringens Ministerpräsident Mario Voigt zu depublizieren. Döpfner argumentiert, KI ersetze lediglich menschliche Ghostwriter und kritisiert die FAZ-Haltung als \"sterbendes Dogma\" einer \"Postkutschen-Lobby\", während er die Verwendung fehleranfälliger KI-Erkennungssoftware als Entscheidungsgrundlage scharf angreift. Die FAZ konterte mit einem spitzen Kommentar gegen Döpfners Provokation.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "DJV kritisiert Döpfners KI-Provokation",
+          "link": "https://kress.de/news/beitrag/153571-wozu-noch-bezahlter-journalismus-quot-djv-kritisiert-doepfners-ki-provokation.html",
+          "summary": "Der Deutsche Journalisten-Verband kritisiert Springer-Chef Mathias Döpfner scharf für einen vollständig von KI (Google Gemini) generierten Welt-Leitartikel, den DJV-Vorsitzender Mika Beuster als \"Bärendienst am Journalismus\" bezeichnet. Die Kritik verschärft sich durch die nachträgliche Distanzierung eines Springer-Sprechers, der erklärte, der Text spiegele nicht Döpfners Meinung wider und solle \"zum Nachdenken anregen\". Der DJV warnt vor dem Ersatz menschlicher journalistischer Leistung durch KI und sieht sowohl Arbeitsplätze als auch die Glaubwürdigkeit des Journalismus gefährdet.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "„Ich habe einen Riesenfehler gemacht\": Tagesspiegel stoppt publizistische Aktivitäten von Ex-Chefredakteur Casdorff KI als Werkzeug ja",
+          "link": "https://kress.de/news/beitrag/153567-ich-habe-einen-riesenfehler-gemacht-quot-tagesspiegel-stoppt-publizistische-aktivitaeten-von-ex-chefredakteur-casdorff.html",
+          "summary": "Der Tagesspiegel hat seinen Ex-Chefredakteur und Herausgeber Stephan-Andreas Casdorff aufgefordert, alle publizistischen Aktivitäten ruhen zu lassen, nachdem bekannt wurde, dass er wiederholt KI-generierte Meinungsartikel ohne Kennzeichnung veröffentlicht hatte. Die Chefredaktion sieht darin eine Gefährdung der journalistischen Glaubwürdigkeit und betont, dass KI zwar als Werkzeug dienen könne, aber nicht den Kern journalistischer Arbeit übernehmen dürfe. Casdorff entschuldigte sich für den \"Riesenfehler\" und räumte ein, die KI-generierten Texte hätten kenntlich gemacht werden müssen.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "So investieren Medienprofis intelligent in ihre berufliche Zukunft Für den Urlaub und...",
+          "link": "https://kress.de/news/beitrag/153562-weiterbildungen-so-investieren-medienprofis-intelligent-in-ihre-berufliche-zukunft.html",
+          "summary": "Der Artikel argumentiert, dass Medienprofis regelmäßig in Weiterbildungen investieren müssen, um in der sich schnell wandelnden Branche wettbewerbsfähig zu bleiben, insbesondere im KI-Zeitalter wo veraltete Kenntnisse nicht mehr ausreichen. Vor einer Weiterbildungsentscheidung sollten drei zentrale Fragen geklärt werden: das berufliche Ziel, die tatsächliche Notwendigkeit einer Weiterbildung und die passende Art der Qualifizierung. Der Autor empfiehlt neutrale Beratung durch Mentoren oder Coaches, da Weiterbildungsanbieter ihre Programme naturgemäß als sinnvoll bewerben.",
           "score": 7
         },
         {
           "source": "kress",
           "title": "„Diese Einlassung genügt uns nicht\": FAZ löscht Voigt-Gastbeitrag wegen KI-Verdachts Die FAZ macht ernst mit ihren KI-Regeln: Ein Gastbeitrag von Thüringens Ministerpräsident Mario Voigt wurde depubliziert",
           "link": "https://kress.de/news/beitrag/153559-diese-einlassung-genuegt-uns-nicht-quot-faz-loescht-voigt-gastbeitrag-wegen-ki-verdachts.html",
-          "summary": "Die FAZ hat einen Gastbeitrag von Thüringens Ministerpräsident Mario Voigt (CDU) zum Social-Media-Verbot für Kinder wegen KI-Verdachts depubliziert, nachdem das Portal \"Frag den Staat\" mit dem Erkennungsprogramm Pangram Hinweise auf KI-Einsatz gefunden hatte. Die Staatskanzlei antwortete auf FAZ-Nachfragen nur ausweichend, woraufhin die Zeitung den Beitrag von der Webseite löschte und im Archiv sperrte. Der Fall reiht sich ein in eine Serie von KI-Verdachtsfällen um Voigt, nachdem bereits ein Gastbeitrag für \"Die Welt\" als mutmaßlich KI-generiert aufgefallen war.",
-          "score": 8
+          "summary": "Die FAZ hat einen Gastbeitrag des thüringischen Ministerpräsidenten Mario Voigt (CDU) zum Social-Media-Verbot für Kinder wegen KI-Verdachts depubliziert und aus dem Archiv entfernt. Das Portal \"Frag den Staat\" hatte mithilfe der Software Pangram Hinweise auf KI-Nutzung gefunden, woraufhin die Staatskanzlei nur ausweichend antwortete. Der Fall reiht sich ein in weitere Vorwürfe gegen Voigt bezüglich KI-generierter Texte, nachdem bereits ein Gastbeitrag in \"Die Welt\" unter Verdacht geraten war.",
+          "score": 7
         },
         {
           "source": "kress",
           "title": "„Wer Inhalte am intelligentesten strukturiert\": Bauer-Media-CPO Semmler erklärt den „Liquid Publisher\" beim European Publishing Congress in Wien Nicht schneller produzieren, nicht mehr",
           "link": "https://kress.de/news/beitrag/153561-wer-inhalte-am-intelligentesten-strukturiert-quot-bauer-media-cpo-semmler-erklaert-den-liquid-publisher-quot-beim-european-publishing-congress-in-wien.html",
-          "summary": "Bauer Media CPO Marcel Semmler präsentiert beim European Publishing Congress das Konzept des „Liquid Publishers\" und argumentiert, dass KI nicht als Zusatzfunktion, sondern als grundlegende Infrastruktur definiert werden muss. Seine Kernthese besagt, dass der Erfolg von Medienhäusern künftig nicht von Geschwindigkeit oder Quantität der Produktion abhängt, sondern von der intelligenten Strukturierung von Inhalten. Der Kongress mit über 500 erwarteten Führungskräften widmet sich der ersten großen Bilanz zur KI-Nutzung in europäischen Medienhäusern.",
-          "score": 8
+          "summary": "Bauer Media CPO Marcel Semmler präsentiert beim European Publishing Congress das Konzept des „Liquid Publishers\" und argumentiert, dass KI nicht als Zusatzfunktion, sondern als grundlegende Infrastruktur verstanden werden muss. Seine Kernthese: Der Erfolg zukünftiger Medienhäuser wird nicht durch Geschwindigkeit oder Quantität der Produktion bestimmt, sondern durch die intelligente Strukturierung von Inhalten in einer KI-gesteuerten Content-Plattform. Der Kongress beleuchtet mit über 500 Führungskräften europäischer Medienhäuser den aktuellen Stand und die Strategien im Bereich KI und digitaler Transformation.",
+          "score": 7
         },
         {
           "source": "meedia",
-          "title": "Ein aktuelles vorläufiges Gerichtsurteil aus München könnte weit über den konkreten Einzelfall hinausreichen.",
-          "link": "https://meedia.de/news/beitrag/24373-gerichtsurteil-schwerer-rueckschlag-fuer-ki-chatbots.html",
-          "summary": "Das Landgericht München I hat in einem vorläufigen Urteil entschieden, dass Google für falsche Tatsachenbehauptungen in seinen KI-generierten \"AI Overviews\" haftet, da das Gericht Google als direkten Absender der Inhalte einstuft. Diese Entscheidung unterscheidet sich grundlegend von der herkömmlichen Google-Suche und unterwirft KI-generierte Inhalte sowohl dem AI-Act als auch dem Medienrecht. Google wird voraussichtlich in Revision gehen, da das Urteil weitreichende Folgen für KI-Chatbots haben könnte.",
+          "title": "Brisante Meinungsartikel Medienhäuser zoffen sich über den korrekten Umgang mit KI-Texten Darüber,...",
+          "link": "https://meedia.de/news/beitrag/24398-medienhaeuser-zoffen-sich-ueber-den-korrekten-umgang-mit-ki-texten.html",
+          "summary": "Deutsche Medienhäuser führen eine kontroverse Debatte über den korrekten Umgang mit KI-generierten Meinungsartikeln, nachdem der frühere Tagesspiegel-Chefredakteur Stephan-Andreas Casdorff suspendiert wurde, weil er mehrfach KI-verfasste Kommentare ohne entsprechende Kennzeichnung veröffentlichte. Parallel dazu liefern sich Springer-Chef Mathias Döpfner und die FAZ einen öffentlichen Schlagabtausch, während auch das Handelsblatt von ähnlichen Problemen betroffen ist. Im Zentrum der Diskussion stehen Fragen der journalistischen Transparenz und Glaubwürdigkeit beim Einsatz von KI-Tools in der redaktionellen Meinungsbildung.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Verkaufte Standortdaten Supreme Court bestätigt FCC-Strafe gegen T-Mobile, AT&T und Verizon Die von...",
+          "link": "https://meedia.de/news/beitrag/24401-supreme-court-bestaetigt-fcc-strafe-gegen-t-mobile-at-amp-t-und-verizon.html",
+          "summary": "Der US Supreme Court bestätigte FCC-Bußgelder von 196 Millionen Dollar gegen AT&T, Verizon und T-Mobile wegen unrechtmäßiger Weitergabe von Kundenstandortdaten an Datenaggregatoren ohne ausreichende Nutzereinwilligung. Während dieser Fall für Europa aufgrund strengerer Datenschutzregelungen weniger relevant ist, zeigen ähnliche Fälle wie \"WetterOnline\", dass auch hierzulande Verbraucherschützer den Umgang mit Standortdaten kritisch überwachen. Der Fall verdeutlicht mangelnde Transparenz beim Tracking von Smartphone-Nutzerdaten durch Apps wie Navigation- oder Wetter-Anwendungen.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Unit für Kreation, Produktion, Daten, Automatisierung und Distribution Serviceplan und...",
+          "link": "https://meedia.de/news/beitrag/24400-serviceplan-und-mediamarktsaturn-starten-umfassende-werbe-einheit-momentum.html",
+          "summary": "MediaMarktSaturn und die Serviceplan Group gründen eine gemeinsame Werbeeinheit namens \"Momentum\", die Kreation, Produktion, Daten, Automatisierung und Distribution in einer integrierten Struktur zusammenführt. Ziel ist eine personalisierte, kanalübergreifende Echtzeit-Kommunikation mit Kunden durch hochautomatisierte Content-Produktion anstelle fragmentierter, manueller Prozesse. Die Kooperation startet sofort und soll die Experience-Retail-Strategie von MediaMarktSaturn vorantreiben.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Grünes Licht für den Deal Paramount darf Warner Bros. Discovery übernehmen Der Weg für eine der größten Medienfusionen der vergangenen Jahre ist frei: Das US-Justizministerium hat die Übernahme von Warner Bros. Discovery durch Paramount Skydance genehmigt",
+          "link": "https://meedia.de/news/beitrag/24396-paramount-darf-warner-bros-discovery-uebernehmen.html",
+          "summary": "Das US-Justizministerium hat die 111 Milliarden US-Dollar schwere Übernahme von Warner Bros. Discovery durch Paramount Skydance ohne Auflagen genehmigt, da keine Wettbewerbsgefährdung gesehen wird. Zehn US-Bundesstaaten unter Führung Kaliforniens prüfen jedoch noch rechtliche Schritte gegen die Fusion, die einen der größten Medienkonzerne in Film, TV und Streaming schaffen würde. Die Transaktion hat auch politische Brisanz, da hinter Paramount die Familie Ellison steht, deren Patriarch Larry Ellison als Trump-Unterstützer gilt.",
+          "score": 10
+        },
+        {
+          "source": "meedia",
+          "title": "Radikalumbau der Zuständigkeiten ProSiebenSat.1 schafft die Senderchefs ab Es ist ein Umbauprinzip,...",
+          "link": "https://meedia.de/news/beitrag/24393-prosiebensat-1-schafft-die-senderchefs-ab.html",
+          "summary": "ProSiebenSat.1 vollzieht unter CEO Marco Giordani einen radikalen Strukturwandel und schafft die klassischen Senderchefs ab. Das Unternehmen führt eine Genre-basierte Matrix-Struktur ein, die Inhalte plattformübergreifend für lineare und digitale Ausspielung aus einer Hand steuern soll. Die bisherigen Senderverantwortlichen Marc Rasmus (Sat.1) und Hannes Hiller (ProSieben) übernehmen neue senderübergreifende Aufgaben in den Genre-Teams.",
+          "score": 10
+        },
+        {
+          "source": "meedia",
+          "title": "Vermarktungspartnerschaft Ströer verkauft künftig Zattoo-Inventar Der TV-Streaming-Anbieter Zattoo...",
+          "link": "https://meedia.de/news/beitrag/24392-stroeer-verkauft-kuenftig-zattoo-inventar.html",
+          "summary": "Der TV-Streaming-Anbieter Zattoo kooperiert künftig mit Ströer bei der Vermarktung seines Video- und Connected-TV-Inventars in Deutschland. Ströer übernimmt dabei die externe Vermarktung und ermöglicht Werbekunden Zugang zu Zattoos adressierbarem Video-Inventar, das hauptsächlich auf vernetzten Fernsehgeräten ausgespielt wird. Die Partnerschaft ist Teil von Zattoos Wachstumsstrategie zur Stärkung der Position im Connected-TV-Markt.",
+          "score": 9
+        },
+        {
+          "source": "Guardian Media",
+          "title": "BBC News braces for major round of job cuts in broadcaster’s £500m cost-saving drive",
+          "link": "https://www.theguardian.com/media/2026/jun/15/bbc-news-job-cuts-cost-saving-drive",
+          "summary": "Die BBC steht vor der größten Entlassungsrunde seit 15 Jahren als Teil eines £500m-Sparplans, wobei BBC News überproportional betroffen sein wird mit Jobverlusten im Hunderte-Bereich. Der neue Generaldirektor Matt Brittin bevorzugt strategische Kürzungen ganzer Services statt gradueller Einsparungen (\"Salamitaktik\"), während die Pläne bereits vor seinem Amtsantritt entwickelt wurden. Die Ankündigung der Stellenstreichungen wird bereits diese Woche erwartet, da sich die BBC-Führung in Verhandlungen über die zukünftige Finanzierung mit der Regierung befindet.",
+          "score": 9
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Social media firms hit back as Starmer announces ban for under-16s in UK",
+          "link": "https://www.theguardian.com/media/2026/jun/15/social-media-ban-uk-under-16-starmer",
+          "summary": "Premierminister Keir Starmer kündigte ein Verbot von Social Media für unter 16-Jährige in Großbritannien an, das bis zum Frühjahr 2025 umgesetzt werden soll und Plattformen wie Facebook, Instagram, YouTube und Snapchat betrifft. Die betroffenen Tech-Konzerne kritisieren das Verbot scharf und argumentieren, es werde Jugendliche zu unsichereren, unregulierten Alternativen treiben und sie von wichtigen Online-Gemeinschaften und Schutzmaßnahmen abschneiden. Starmer begründet die Maßnahme mit den negativen Auswirkungen sozialer Medien auf das Wohlbefinden und die psychische Gesundheit von Kindern.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Starmer to announce ‘Australia plus’ ban on social media for under-16s",
+          "link": "https://www.theguardian.com/uk-news/2026/jun/14/starmer-to-announce-australia-plus-ban-on-social-media-for-under-16s",
+          "summary": "Die britische Regierung unter Premierminister Starmer wird ein umfassendes Verbot von Social-Media-Plattformen wie TikTok, Instagram und X für unter 16-Jährige nach australischem Vorbild einführen. Die \"Australia plus\"-Regelung geht über das australische Modell hinaus und umfasst zusätzliche Beschränkungen für Gaming-Apps (Entfernung von Stranger-Chat-Funktionen) sowie nächtliche Scroll-Limits für 16-18-Jährige. Die Ankündigung erfolgt am Montag als Reaktion auf anhaltenden gesellschaftlichen Druck zum Schutz von Kindern im digitalen Raum.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Why is the UK launching an ‘Australia plus’ social media ban and how will it work?",
+          "link": "https://www.theguardian.com/uk-news/2026/jun/14/what-is-uk-introducing-australia-plus-social-media-ban-how-will-it-work",
+          "summary": "Die britische Labour-Regierung plant die Einführung einer \"Australia-plus\" Regelung, die Jugendlichen unter 16 Jahren den Zugang zu schädlichen Social-Media-Apps verbietet, wobei die Altersgrenze von derzeit 13 auf 16 Jahre angehoben wird. Die Maßnahme folgt einer öffentlichen Konsultation mit über 116.000 Antworten und wird als Unterstützung für Eltern gegen Tech-Konzerne dargestellt, jedoch kritisieren Branchenquellen und Kinderschutzexperten den als \"überstürzt\" empfundenen Prozess. Eine zentrale Herausforderung bleibt die technische Umsetzung der Altersverifikation ohne invasive Maßnahmen wie die Vorlage von Ausweisdokumenten.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "UK government announces £132.5m after-school clubs package",
+          "link": "https://www.theguardian.com/education/2026/jun/13/uk-government-announces-1325m-after-school-clubs-package",
+          "summary": "Die britische Regierung stellt £132,5 Millionen für außerschulische Aktivitäten bereit, um Kindern Alternativen zur Online-Zeit zu bieten, während gleichzeitig Social-Media-Beschränkungen für unter 16-Jährige vorbereitet werden. Das Programm soll den Zugang zu Bereicherungsaktivitäten in Schulen erweitern und wird vor dem Hintergrund hoher Einsamkeitsraten unter digital vernetzten Jugendlichen eingeführt. Ofsted wird künftig das außerschulische Angebot von Schulen bei der Bewertung der Persönlichkeitsentwicklung stärker berücksichtigen.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "UK sets out AI infrastructure push at London Tech Week – how does it stack up?",
+          "link": "https://www.theguardian.com/technology/2026/jun/13/uk-ai-hardware-london-tech-week-investment-chips",
+          "summary": "Die britische Regierung kündigte auf der London Tech Week Investitionen von £1,1 Milliarden in AI-Hardware an, um \"global wettbewerbsfähige AI-Hardware-Unternehmen\" im UK aufzubauen und die AI-Souveränität zu stärken. Die Umsetzung wird jedoch komplex, da nahezu alle fortschrittlichen AI-Chips derzeit von Taiwan Semiconductor Manufacturing Corporation (TSMC) produziert werden, während selbst US-Konzerne wie Nvidia oder Google nur Designs entwickeln und die Fertigung auslagern. Der Artikel hinterfragt, wie realistisch die britischen Ambitionen angesichts der dominierenden Position von TSMC und den enormen Investitionskosten für moderne Chipproduktion sind.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Both Sides Of Fox’s $22B Roku Acquisition Call It A Streaming Win-Win, But Wall Street Has Questions",
+          "link": "https://deadline.com/2026/06/fox-roku-acquisition-streaming-wall-street-1236956272/",
+          "summary": "Fox Corp. übernimmt Roku für 22 Milliarden Dollar, was beide Unternehmen als strategischen Gewinn für das Streaming-Geschäft bezeichnen, jedoch reagierte die Wall Street skeptisch mit einem 18%-igen Kursrückgang der Fox-Aktie. Analysten äußern Bedenken über mögliche Interessenkonflikte, da Fox nun sowohl als Content-Anbieter als auch als Distributor agiert, was Verhandlungen mit Partnern wie Comcast oder YouTube komplizieren könnte. Fox-CEO Lachlan Murdoch betont, dass Roku und das bereits erworbene Tubi komplementäre Services bleiben sollen, wobei zunächst beide Plattformen als separate Marken fortgeführt werden.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Disney, Adobe, New York Times Among Members Of New AI Content Coalition Led By Netflix Alum Victoria Furniss",
+          "link": "https://deadline.com/2026/06/disney-adobe-new-ai-content-coalition-netflix-victoria-furniss-1236950437/",
+          "summary": "Eine neue Koalition namens \"Alliance for Responsible Innovation in the Arts & Media\" (ARIAM) wurde unter der Leitung der ehemaligen Netflix-Managerin Victoria Furniss gegründet, mit prominenten Mitgliedern wie Disney, Adobe, New York Times, BBC und ITV. Die in Los Angeles ansässige Organisation will globale Standards für den verantwortlichen Einsatz von KI in der Medienbranche entwickeln und entsprechende rechtliche Rahmenbedingungen vorantreiben. Dies erfolgt vor dem Hintergrund anhaltender Spannungen in der Unterhaltungsindustrie bezüglich KI-Technologien, nachdem bereits die großen Gewerkschaften DGA, WGA und SAG-AFTRA KI-Schutzbestimmungen in ihre jüngsten Verträge aufgenommen haben.",
+          "score": 10
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Only Murders In The Building’: David Tennant, Nicola Coughlan, Jodie Whittaker & Jim Broadbent Among Season 6 Cast Additions",
+          "link": "https://deadline.com/2026/06/only-murders-in-the-building-david-tennant-nicola-coughlan-1236955027/",
+          "summary": "Die sechste Staffel von Hulus \"Only Murders In The Building\" erweitert ihren Cast um prominente britische Schauspieler, darunter David Tennant, Nicola Coughlan, Jodie Whittaker und Jim Broadbent, da die Serie erstmals nach London verlegt wird. Die Comedy-Mystery-Serie mit Steve Martin, Martin Short und Selena Gomez wird derzeit im Vereinigten Königreich gedreht, wo das Trio einen neuen Fall in London untersucht. Dies markiert die erste internationale Produktion der Serie außerhalb der USA.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘Cross’ Creator Says Prime Video Drama “Can Go Forever” As Season 3 Explores Alex Cross’ Addiction To The Hunt",
-          "link": "https://deadline.com/2026/06/aldis-hodge-ben-watkins-on-cross-season-3-prime-video-1236955764/",
-          "summary": "Creator Ben Watkins bestätigte, dass die dritte Staffel der Prime Video-Serie \"Cross\" die Sucht-Thematik durch Alex Cross' obsessive Verbrecherjagd erforschen wird, während er ein vierstaffliges Konzept skizzierte, aber betonte, dass die Show \"ewig laufen könnte\". Die erste Staffel erreichte 40 Millionen Zuschauer in den ersten 20 Tagen und wurde zur drittmeist-gesehenen Premiere der Plattform 2025. Hauptdarsteller Aldis Hodge hebt hervor, dass der Charakter als intelligenter, unentschuldigender schwarzer Mann in der Polizeiwelt ohne Kompromisse bei Würde oder Menschlichkeit dargestellt wird.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Widow’s Bay’ Creator Recalls How Series Began As ‘Parks & Rec’ Episode: “Felt More Like A Spoof”",
-          "link": "https://deadline.com/2026/06/widows-bay-creator-parks-rec-episode-origins-1236955818/",
-          "summary": "Katie Dippold, Schöpferin der Apple TV+ Horror-Comedy \"Widow's Bay\", entwickelte die Serie ursprünglich als Spec-Script für eine \"Parks & Recreation\"-Episode, verwarf jedoch den deutlich comedielastigeren Ansatz, da dieser zu sehr wie eine Parodie gewirkt hätte. Stattdessen wollte sie als Horror-Fan eine immersive Atmosphäre schaffen, die Zuschauer in die isolierte New England-Inselwelt eintauchen lässt. Die Serie folgt einem Bürgermeister (Matthew Rhys), der den Tourismus ankurbeln will, während übernatürliche Ereignisse einen jahrhundertealten Fluch entfesseln.",
+          "title": "Manchester United To Be Subject Of Amazon’s Next ‘All Or Nothing’ Documentary Series",
+          "link": "https://deadline.com/2026/06/manchester-united-amazon-all-or-nothing-1236956240/",
+          "summary": "Amazon Prime Video produziert eine neue \"All or Nothing\"-Dokumentarserie über Manchester United, die den Verein während der Saison 2026/27 begleitet und nächsten Sommer ausgestrahlt wird. Die Serie verspricht unprecedented Zugang zu Old Trafford, dem neuen Carrington Training Complex und den Vorbereitungen auf die Rückkehr in die Champions League. Mit einer globalen Fanbase von 1,1 Milliarden Menschen soll die Dokumentation erstmals umfassende Einblicke hinter die Kulissen eines der prestigeträchtigsten Fußballvereine der Welt bieten.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "‘Cape Fear’ Series Creator “Always Wanted” Juliette Lewis To Star In Reboot",
-          "link": "https://deadline.com/2026/06/cape-fear-creator-always-wanted-juliette-lewis-1236955797/",
-          "summary": "Nick Antosca, Showrunner der Apple TV+ Serie \"Cape Fear\" (2026), holte gezielt Juliette Lewis für einen Gastauftritt, nachdem er bereits bei seiner Hulu-Serie \"The Act\" (2019) mit der Schauspielerin zusammengearbeitet hatte. Lewis, die in Martin Scorseses \"Cape Fear\" (1991) eine Hauptrolle spielte, tritt in der Episode \"Phantom Sensations\" als mysteriöse Stalkerin von Max Cady (Javier Bardem) auf. Die Besetzung stellt eine bewusste Hommage an die vorherige Verfilmung dar, ergänzt durch einen Cameo von Francesca Scorsese als Influencerin.",
+          "title": "Fox Corp Buying Roku In $22B Deal",
+          "link": "https://deadline.com/2026/06/fox-corp-buying-roku-1236956217/",
+          "summary": "Fox Corp übernimmt Roku für 22 Milliarden Dollar (160 Dollar pro Aktie) in einer Kombination aus Bargeld und Fox-Aktien, wobei Fox-Aktionäre 73% und Roku-Aktionäre 27% des fusionierten Unternehmens besitzen werden. Die Übernahme erweitert Fox' Streaming-Kapazitäten erheblich und kombiniert Rokus 100 Millionen globale Streaming-Haushalte mit Fox' Sport-, News- und Broadcast-Netzwerken sowie dem AVOD-Dienst Tubi. Das fusionierte Unternehmen würde zum drittgrößten US-TV-Player nach Marktanteil aufsteigen.",
+          "score": 10
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "TV’s Top Showrunners Are Reading Your Comments",
+          "link": "https://www.hollywoodreporter.com/tv/tv-features/producers-roundtable-dan-levy-erin-foster-david-e-kelley-1236620968/",
+          "summary": "Sechs prominente TV-Showrunner (darunter David E. Kelley, Dan Levy und Bill Lawrence) diskutierten in einem Hollywood Reporter Roundtable über die anhaltenden Herausforderungen ihrer Arbeit, wobei Kelley betonte, dass das Showrunning niemals einfacher wird. Die Produzenten teilten wichtige Karrierelektionen, darunter die Notwendigkeit, den Geschmack des Showrunners über den eigenen zu stellen und Perfektion zugunsten spontaner kreativer Momente loszulassen. Trotz Frustrationen mit Streaming-Plattformen und anderen Branchenproblemen betonten alle ihre Leidenschaft für das Medium.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Fox’s “Expectation” Is to Keep The Roku Channel and Tubi Separate",
+          "link": "https://www.hollywoodreporter.com/business/digital/fox-roku-channel-tubi-separate-1236621986/",
+          "summary": "Fox plant nach der geplanten 22-Milliarden-Dollar-Übernahme von Roku, die beiden AVOD-Services Tubi und The Roku Channel getrennt zu betreiben, obwohl sie zusammen die beiden größten kostenlosen, werbefinanzierten Streaming-Plattformen darstellen würden. CEO Lachlan Murdoch betonte die komplementäre Natur der Services mit nur einem Drittel Zielgruppen-Überschneidung, während der strategische Fokus auf der Schaffung einer deutlich größeren, skalierten Werbeplattform durch die Kombination von Inventar, Daten und Ad-Tech liegt. Die Services unterscheiden sich grundlegend in ihrem Angebot: Tubi setzt primär auf Video-on-Demand-Content, während Roku Channel hauptsächlich FAST-Channels anbietet.",
           "score": 9
         },
         {
           "source": "Hollywood Reporter",
-          "title": "‘Awards Chatter’ Pod: Seth MacFarlane on His ‘Ted’ TV Series, When to Expect a ‘Family Guy’ Movie and Why “The Emmys Are So F***ed Up”",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/seth-mac-farlane-interview-ted-tv-show-family-guy-film-emmy-1236619936/",
-          "summary": "Seth MacFarlane diskutiert in dem Hollywood Reporter Podcast seine aktuellen Projekte, darunter die zweite Staffel seiner \"Ted\" TV-Serie auf Peacock und die anhaltenden Erfolge von \"Family Guy\" (24. Staffel) und \"American Dad\" (22. Staffel). Der vielseitige Showrunner und Synchronsprecher äußert sich kritisch über die Emmy-Vergabe und gibt Einblicke in seine Produktionsfirma Fuzzy Door Productions sowie einen möglichen \"Family Guy\"-Film.",
-          "score": 9
+          "title": "Stephanie Ruhle Talks ‘Money, Power, Politics’ and Her New MS NOW Morning Show",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/stephanie-ruhle-new-ms-now-show-money-power-politics-launch-1236620854/",
+          "summary": "Stephanie Ruhle wechselt von ihrer 11 p.m. Show \"The 11th Hour\" zu einer neuen Morgensendung \"Money, Power, Politics\" bei MS NOW, um die Verbindungen zwischen Wirtschaft, Macht und Politik in einem umfassenden Format zu beleuchten. Der Wechsel erfolgte auf Ruhles eigene Initiative, da sie der Ansicht ist, dass Geld in der heutigen politischen Landschaft eine noch zentralere Rolle spielt als je zuvor. Die neue Show wird interaktive Elemente und ein Live-Publikum beinhalten, wobei Ali Velshi ihre bisherige Abendshow übernimmt.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "‘Ghostforce Evolution’ From ‘Miraculous’ Creator Lands at Netflix, TF1 and Super RTL (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/global/ghostforce-evolution-miraculous-creator-netflix-tf1-rtl-1236781453/",
+          "summary": "Paris-basierte Zag Entertainment expandiert ihr erfolgreiches \"Miraculous\"-Franchise mit \"Ghostforce Evolution\", einer 26-teiligen Animationsserie plus 44-minütigem Special, die von Netflix, TF1 und Super RTL lizenziert wurde. Die Serie, eine Weiterentwicklung der 2021er \"Ghostforce\"-Serie, folgt drei Teenagern in New York City, die als Geister-Superhelden übernatürliche Bedrohungen bekämpfen, wobei jede Episode eine spezifische Angst thematisiert. Die Produktion kombiniert Comedy, Action und Coming-of-Age-Elemente und setzt auf die bewährte Zag-Formel aus Teenie-Dynamiken und Superhelden-Action.",
+          "score": 10
+        },
+        {
+          "source": "Variety",
+          "title": "‘Only Murders in the Building’ Season 6 Adds David Tennant, Nicola Coughlan, Jodie Whittaker, Jim Broadbent, and More",
+          "link": "https://variety.com/2026/tv/news/only-murders-building-season-6-david-tennant-1236781418/",
+          "summary": "Die sechste Staffel von \"Only Murders in the Building\" erweitert ihren Cast um prominente britische Schauspieler wie David Tennant, Nicola Coughlan, Jodie Whittaker und Jim Broadbent in wiederkehrenden Gastrollen. Die Produktion findet aktuell in Großbritannien statt, wo die Hauptdarsteller Steve Martin, Martin Short und Selena Gomez ihre Ermittlungen zum Tod von Cinda Canning fortsetzen. Details zu den spezifischen Rollen der neuen Castmitglieder werden wie üblich geheim gehalten.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Will Fox’s Roku Buy Help Lachlan Murdoch Leapfrog Rivals in Streaming Wars?",
+          "link": "https://variety.com/2026/tv/news/fox-roku-lachlan-murdoch-streaming-wars-leapfrog-rivals-1236781372/",
+          "summary": "Fox Corp. erwirbt Roku für 22 Milliarden Dollar in bar und Aktien, was eine strategische Kehrtwende von Lachlan Murdochs bisheriger zurückhaltenden Streaming-Strategie darstellt. Die Übernahme soll Fox, das seit dem Verkauf von Studio-Assets an Disney 2019 zu den kleineren Medienkonzernen zählt, im hart umkämpften Streaming-Markt neu positionieren. Murdoch vollzieht damit den Wandel von seiner früheren Fokussierung auf traditionelle TV-Distribution und werbefinanzierte Inhalte hin zu einer aggressiveren Streaming-Strategie.",
+          "score": 8
         }
       ]
     }
