@@ -1,75 +1,40 @@
 {
   "newsletters": [
     {
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Zwei neue Investoren für Jubiläumsstaffel von \"DHDL\"",
-          "link": "https://www.dwdl.de/nachrichten/106886/zwei_neue_investoren_fuer_jubilaeumsstaffel_von_dhdl/",
+          "title": "\"Holey Moley\": UFA produziert Minigolf Extreme für Prime Video",
+          "link": "https://www.dwdl.de/nachrichten/106906/holey_moley_ufa_produziert_minigolf_extreme_fuer_prime_video/",
           "summary": "Zusammenfassung nicht verfügbar.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Warner Bros. ITVP führt neues \"Kreativ Board\" ein",
-          "link": "https://www.dwdl.de/nachrichten/106877/warner_bros_itvp_fuehrt_neues_kreativ_board_ein/",
+          "title": "SWR macht Mockumentary über einen Fußballer im Karrieretief",
+          "link": "https://www.dwdl.de/nachrichten/106898/swr_macht_mockumentary_ueber_einen_fussballer_im_karrieretief/",
           "summary": "Zusammenfassung nicht verfügbar.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Fußball-WM: Rekordzahlen für MagentaTV bei WM-Übertragungen",
-          "link": "https://www.horizont.net/medien/nachrichten/fussball-wm-rekordzahlen-fuer-magentatv-bei-wm-uebertragungen-234767?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Zusammenfassung nicht verfügbar.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "&quot;GEO Brand Impact&quot;: So will BCN Marken in KI-Antworten sichtbarer machen",
-          "link": "https://www.horizont.net/medien/nachrichten/geo-brand-impact-so-will-bcn-marken-in-ki-antworten-sichtbarer-machen-234748?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Zusammenfassung nicht verfügbar.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Fußball-WM: Abbruch von ZDF-Stream in der Schlussphase ärgert Zuschauer",
-          "link": "https://www.horizont.net/medien/nachrichten/fussball-wm-abbruch-von-zdf-stream-in-der-schlussphase-aergert-zuschauer-234764?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "title": "AI ist kein Tool mehr: 4 Praxis-Learnings für das Marketing-Betriebssystem der Zukunft",
+          "link": "https://www.horizont.net/medien/talkingheads/ai-ist-kein-tool-mehr-4-praxis-learnings-fuer-das-marketing-betriebssystem-der-zukunft-234779?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
           "summary": "Zusammenfassung nicht verfügbar.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Trotz KI-Boom: Deutsche vertrauen bei Nachrichten weiter auf klassische Medienmarken Nur fünf Prozent nutzen KI-Chatbots für Nachrichten, nur zehn Prozent lassen sich von Influencern vollständig informieren",
-          "link": "https://kress.de/news/beitrag/153577-trotz-ki-boom-deutsche-vertrauen-bei-nachrichten-weiter-auf-klassische-medienmarken.html",
-          "summary": "Zusammenfassung nicht verfügbar.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "„Die schönen Zeiten sind wirklich vorbei\": Lanz und Precht über Aktivismus im Journalismus Von Correctiv bis Berndt, von Amann bis Rosenfelder",
-          "link": "https://kress.de/news/beitrag/153566-die-schoenen-zeiten-sind-wirklich-vorbei-quot-lanz-und-precht-ueber-aktivismus-im-journalismus.html",
+          "title": "Ippen stellt sich auf Döpfners Seite",
+          "link": "https://kress.de/news/beitrag/153585-ippen-stellt-sich-auf-doepfners-seite-aber-mit-einer-bedingung.html",
           "summary": "Zusammenfassung nicht verfügbar.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Neue Zahlen der AWA 2026 Dramatische Entwicklung: fast nur Verlierer bei den Print-Reichweiten der AWA Diese Zahlen werden die Print-Vermarktung in Deutschland noch schwerer machen. Wie das Institut für Demoskopie Allensbach in seiner neuesten Allensbacher Markt- und Werbeträgeranalyse (AWA) zeigt, konnten von den 50 größten Publikumszeitschriften und Wochenzeitungen nur drei (!) Leserinnen und Leser gegenüber 2025 dazu gewinnen. Drei weitere blieben stabil, 44 verloren Reichweite",
-          "link": "https://meedia.de/news/beitrag/24435-dramatische-entwicklung-fast-nur-verlierer-bei-den-print-reichweiten-der-awa.html",
-          "summary": "Zusammenfassung nicht verfügbar.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Neues Vermarktungsprodukt BCN will Marken mit GEO Brand Impact auf KI-Plattformen sichtbar machen...",
-          "link": "https://meedia.de/news/beitrag/24432-bcn-will-marken-mit-geo-brand-impact-auf-ki-plattformen-sichtbar-machen.html",
-          "summary": "Zusammenfassung nicht verfügbar.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "‘Murder at the Gates,’ Steven Sater and James Bourne Musical, Releasing Concept Album Featuring Gaten Matarazzo, Milo Manheim, Joy Woods and More (EXCLUSIVE)",
-          "link": "https://variety.com/2026/legit/news/murder-at-the-gates-musical-concept-album-gaten-matarazzo-milo-manheim-joy-woods-1236784814/",
+          "title": "Endlich auch in Deutschland So provozierend testet Vodafone die neuen Sponsored Snaps Mit den...",
+          "link": "https://meedia.de/news/beitrag/24429-so-provozierend-testet-vodafone-die-neuen-sponsored-snaps.html",
           "summary": "Zusammenfassung nicht verfügbar.",
           "score": 7
         }
