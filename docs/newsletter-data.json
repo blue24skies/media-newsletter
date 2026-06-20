@@ -1,160 +1,20 @@
 {
   "newsletters": [
     {
-      "date": "2026-06-19",
+      "date": "2026-06-20",
       "articles": [
         {
           "source": "DWDL",
-          "title": "ZDF prüft Sanktionsklauseln in Verträgen nach Kritik",
-          "link": "https://www.dwdl.de/nachrichten/106913/zdf_prueft_sanktionsklauseln_in_vertraegen_nach_kritik/",
-          "summary": "Das ZDF überprüft nach anhaltender Kritik seine sogenannten Sanktionsklauseln in Mitwirkendenverträgen, die von Talkshow-Gästen und Experten verlangen, nicht mit auf EU-, UN- oder US-Sanktionslisten stehenden Personen oder Institutionen zusammenzuarbeiten. Besonders der Bezug auf US-Sanktionen löste Bedenken hinsichtlich der journalistischen Unabhängigkeit aus, woraufhin auch das ECCHR eine Rücknahme der Regelung forderte. Der Sender begründet die Klauseln mit rechtlich zwingenden Vorgaben sowie dem Risiko empfindlicher Strafen durch seine internationalen Geschäftsaktivitäten und Auslandsstudios.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "AGF misst künftig auch die Sport-Events von Prime Video",
-          "link": "https://www.dwdl.de/nachrichten/106908/agf_misst_kuenftig_auch_die_sportevents_von_prime_video/",
-          "summary": "Die AGF erweitert ihre Streaming-Messung künftig um Live-Sportevents von Prime Video, die bisher trotz hoher Reichweiten – wie das von über fünf Millionen Haushalten verfolgte Champions-League-Spiel PSG gegen Bayern – nicht in den Rankings erfasst wurden. Den Anfang machen Ende Juni die Wimbledon Championships, wodurch erstmals auch direkte Vergleiche mit dem Konkurrenten DAZN möglich werden. Die Erweiterung der bestehenden Server-to-Server-Integration soll laut AGF und Amazon mehr Transparenz und vergleichbare Kriterien im Markt schaffen.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "DEA-Jubiläum in Köln: Preisregen für ZDF, btf und Leonine",
-          "link": "https://www.dwdl.de/nachrichten/106902/deajubilaeum_in_koeln_preisregen_fuer_zdf_btf_und_leonine/",
-          "summary": "Beim fünften Deutschen Entertainment Award (DEA) im Kölner Carlswerk Victoria dominierte das ZDF mit mehreren Auszeichnungen, darunter \"Best Development\" für die \"heute-show extra\" über Elon Musk und \"Best Short Form\" für \"Smypathisch – Die Show\" der Kölner Produktionsfirma btf. Den Sonderpreis der Film- und Medienstiftung NRW erhielt das ZDF-Format \"Maithink X – Die Show\" mit Mai Thi Nguyen-Kim, überreicht von NRW-Medienminister Nathanael Liminski. Moderiert wurde die Gala von Anna Dushime und Micky Beisenherz, die mit pointierten Branchenkommentaren – etwa zur Abschaffung der Senderchef-Positionen bei ProSiebenSat.1",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Seven.One Media-Chef: \"Das ist kein revolutionärer Ansatz, aber…\"",
-          "link": "https://www.dwdl.de/nachrichten/106895/sevenone_mediachef_das_ist_kein_revolutionaerer_ansatz_aber/",
-          "summary": "Nicola Lussana, seit dem Führungswechsel im Oktober 2025 neuer Geschäftsführer von Seven.One Media, will trotz schwieriger wirtschaftlicher Lage Synergien mit dem Mutterkonzern MFE heben, ohne die nationalen Stärken zu vernachlässigen. Als zentrale Strategie setzt er auf mehr direkte Nähe zu Werbungtreibenden – mit mehr Gesprächen, Präsenz und Austausch auf allen Ebenen –, um der zunehmenden Institutionalisierung der Prozesse und dem wachsenden Einfluss der Plattformen entgegenzuwirken.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Prime Video: \"The Way Out\" meldet sich mit Änderungen zurück",
-          "link": "https://www.dwdl.de/nachrichten/106891/prime_video_the_way_out_meldet_sich_mit_aenderungen_zurueck/",
-          "summary": "Prime Video bringt ab dem 31. Juli die zweite Staffel der Escape-Room-Show \"The Way Out\" mit sechs Folgen im wöchentlichen Doppelpack, wobei der kritisierte Studioteil zugunsten von mehr Tempo entfällt und nun drei Duos statt zwei Viererteams gegeneinander antreten. Erneut führen Julien Bam und Joon Kim durch die von Roses Are Blue produzierte Show, an der reichweitenstarke deutsche Creator aus YouTube, Twitch und Instagram teilnehmen. Das Format läuft mittlerweile auch in Belgien, den Niederlanden und Großbritannien.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Film-Fortsetzung: Bjarne Mädel wird erneut zu \"Prange\"",
-          "link": "https://www.dwdl.de/nachrichten/106892/filmfortsetzung_bjarne_maedel_wird_erneut_zu_prange/",
-          "summary": "Nach dem Erfolg von \"Prange – Man ist ja Nachbar\" wird derzeit die Fortsetzung \"Prange 2\" gedreht, in der Bjarne Mädel erneut die Titelrolle übernimmt, begleitet von Olli Dittrich und Katharina Maria Schubert. Regie führt erneut Grimmepreisträger Lars Jessen (Florida Film), der den Film nach einer Buchvorlage von Andreas Altenburg umsetzt; thematisch geht es um Pranges Kampf gegen Gentrifizierung, Eigenbedarfskündigung und Beziehungsalltag. Die Ausstrahlung ist für Ende 2026 geplant.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Made in NRW\": Die ersten fünf geförderten Projekte stehen fest",
-          "link": "https://www.dwdl.de/nachrichten/106883/made_in_nrw_die_ersten_fuenf_gefoerderten_projekte_stehen_fest/",
-          "summary": "Die Film- und Medienstiftung NRW und der WDR haben die ersten fünf Projekte ihrer im März gestarteten Development-Initiative \"Made in NRW\" ausgewählt, die explizit für die ARD-Mediathek entwickelte Stoffe bereits in früher Entwicklungsphase mit Aussicht auf eine WDR-Umsetzung fördert. Ziel ist es, neue Talente aus NRW zu entdecken und jüngere Streaming-Zielgruppen zu erreichen. Die Resonanz war mit 73 Einreichungen hoch, wobei besonders Comedy-Projekte sowie Themen wie gesellschaftliche Polarisierung, mentale Gesundheit und Identität dominierten.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Nach Sky-Übernahme: RTL zeigt \"Diese Ochsenknechts\" sonntags",
-          "link": "https://www.dwdl.de/nachrichten/106884/nach_skyuebernahme_rtl_zeigt_diese_ochsenknechts_sonntags/",
-          "summary": "RTL bringt die fünfte Staffel der Sky-Reality \"Diese Ochsenknechts\" ab dem 5. Juli sonntags um 19:05 Uhr ins Free-TV – ein direktes Resultat der Sky-Deutschland-Übernahme, durch die RTL die Verwertungskette voll ausschöpfen und die Reichweite des Formats steigern will. Die acht Folgen begleiten die Familie Ochsenknecht auf einen Südafrika-Urlaub samt neuem Konfliktpotenzial. Künftig dürften weitere Sky-Formate den Weg zu RTL-Sendern finden, wie bereits bei der Rückkehr der Formel 1 zu beobachten war.",
-          "score": 9
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Bewegtbildmessung: AGF misst künftig auch Live-Sportevents bei Prime Video",
-          "link": "https://www.horizont.net/medien/nachrichten/bewegtbildmessung-agf-misst-kuenftig-auch-live-sportevents-bei-prime-video-234782?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die AGF Videoforschung erweitert ihre Bewegtbildmessung und erfasst künftig auch Live-Sportevents bei Prime Video. Dies stellt nach der seit November laufenden Messung der allgemeinen Prime-Video-Nutzung einen weiteren wichtigen Schritt bei der Erfassung von Eventlivestreams in Deutschland dar.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Tarifkonflikt: Warnstreiks bei ARD-Anstalten: Ausfälle und weniger Moderation",
-          "link": "https://www.horizont.net/medien/nachrichten/tarifkonflikt-warnstreiks-bei-ard-anstalten-ausfaelle-und-weniger-moderation-234781?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Warnstreiks im laufenden Tarifkonflikt führten bei mehreren ARD-Anstalten zu Programmausfällen und -einschränkungen: Beim WDR entfielen Sendungen wie die Hörfunkausgaben von \"Quarks\" und \"Lokalzeit\" sowie lokale TV-Magazine, während der BR teils unmoderierte Hörfunkprogramme sendete. Auch der NDR war betroffen – die Nachrichten im ARD-Morgenmagazin liefen ohne Sprecher im Bild, vergleichbar mit der \"Tagesschau in 100 Sekunden\".",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Die Pläne des Seven-One-Chefs: Lussanas Liaison mit den Kunden: Ein riskanter Flirt",
-          "link": "https://www.horizont.net/medien/kommentare/die-plaene-des-seven-one-chefs-lussanas-liaison-mit-den-kunden-ein-riskanter-flirt-234741?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Nicola Lussana, neuer CEO von Seven-One Media, signalisiert in seinem ersten Interview eine strategische Neuausrichtung hin zu direkten Kundenbeziehungen und stellt damit die traditionelle Mittlerrolle der großen Mediaagenturen infrage. Mit seiner marktorientierten statt senderzentrierten Perspektive forciert er einen potenziell konfliktträchtigen Kurs im deutschen Werbemarkt.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Reuters Institute Digital News Report 2026: So stark geht das Interesse an Nachrichten zurück",
-          "link": "https://www.horizont.net/medien/nachrichten/reuters-institute-digital-news-report-2026-so-stark-geht-das-interesse-an-nachrichten-zurueck-234709?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Laut dem Digital News Report 2026 des Reuters Institute sinkt das Interesse an aktuellen Nachrichten weiter – nur noch die Hälfte der erwachsenen Bevölkerung mit Internetzugang zeigt großes Interesse. Als wichtigste Nachrichtenquelle haben sich das Internet und insbesondere Social Media etabliert.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Premiere Ende Juni beim Tennis Champions League, Wimbledon & Co.: Amazon lässt...",
-          "link": "https://meedia.de/news/beitrag/24446-champions-league-wimbledon-amp-co-amazon-laesst-prime-video-livesport-von-der-agf-messen.html",
-          "summary": "Die AGF Videoforschung wird ab Ende Juni 2025 mit dem Wimbledon-Tennisturnier erstmals auch Event-Livestreams von Amazon Prime Video erfassen, nachdem bereits seit Ende 2025 die Abrufzahlen von Filmen und Serien gemessen werden. Besonders relevant wird die Erweiterung im Herbst mit dem Start der neuen Champions-League-Saison, da die von Prime Video gezeigten Dienstagsspiele künftig in den wöchentlichen und monatlichen AGF-Rankings auftauchen und somit erstmals mit den Quoten linearer TV-Sender und anderer Streamingdienste vergleichbar werden.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "ITV wins World Cup ratings battle with BBC in tournament’s first week",
-          "link": "https://www.theguardian.com/football/2026/jun/19/itv-wins-world-cup-ratings-battle-bbc-first-week-england-croatia",
-          "summary": "ITV dominiert in der ersten WM-Woche das britische TV-Quotenrennen mit vier der fünf höchsten Einschaltquoten, angeführt von Englands 4:2-Sieg gegen Kroatien (Spitzenwert: 15,4 Millionen, höchste UK-Quote des Jahres). Die BBC, die traditionell bei Live-Sport stärkere Zahlen erzielt, setzte ihre Erstauswahl-Rechte vermehrt für die K.-o.-Phase ein und dürfte dort höhere Reichweiten erzielen. Zu beachten ist, dass die Barb-Zahlen nur TV- und TV-gestütztes Streaming erfassen, nicht jedoch Laptop- und Mobile-Nutzung, bei deren Einbeziehung die BBC-Werte deutlich steigen.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "BBC to axe Radio 4’s The World Tonight after more than 50 years",
-          "link": "https://www.theguardian.com/media/2026/jun/17/bbc-boss-compulsory-redundancies-cuts",
-          "summary": "Die BBC streicht das über 50 Jahre alte Radio-4-Nachrichtenformat „The World Tonight\" im Rahmen eines umfassenden Sparprogramms, das Kosteneinsparungen von 500 Millionen Pfund über drei Jahre und den Abbau von bis zu 2.000 Stellen vorsieht. Unter Generaldirektor Matt Brittin sollen bis Ende 2027-28 bis zu 150 Programmstunden weniger produziert werden, wobei der Fokus auf der Verlagerung von Inhalten zu wachsenden digitalen Plattformen liegt und ganze TV-Kanäle sowie Radiosender auf den Prüfstand kommen. Intern wird bereits befürchtet, dass die Kürzungen – teils mit Zwangsentlassungen – zu Streiks führen könnten.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "UK social media ban ‘likely to cause £1.3bn drop’ in digital advertising spend",
-          "link": "https://www.theguardian.com/media/2026/jun/17/uk-social-media-ban-digital-advertising-snapchat-instagram-youtube",
-          "summary": "Das geplante UK-Verbot sozialer Medien für unter 16-Jährige wird laut eMarketer-Analyse zu einem Rückgang der digitalen Werbeausgaben um 1,3 Milliarden Pfund führen, womit die Prognose für 2027 auf 17 Milliarden Pfund gesenkt wurde. Da Millionen unter 16-Jähriger als Zielgruppe auf Plattformen wie YouTube, Instagram, Snapchat und Facebook wegfallen, dürften Streaming-Dienste und Familienformate als Werbekanäle profitieren. Beano-Brain-Untersuchungen zeigen die Relevanz: Ein Drittel der 7- bis 14-Jährigen entdeckt Kaufwünsche über YouTube-Werbung und Influencer.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Looming ParaBros Merger Action By State AGs Boosted By L.A. County Report On Likely Big Job Losses And Lawsuits",
-          "link": "https://deadline.com/2026/06/paramount-warner-bros-job-losses-la-county-report-1236962892/",
-          "summary": "Ein Bericht des Los Angeles County Department of Economic Opportunity warnt, dass die geplante 111-Milliarden-Dollar-Fusion zwischen Paramount und Warner Bros. Discovery rund 2.495 Arbeitsplätze im Großraum L.A. und etwa 6.000 weltweit gefährden könnte – vor allem durch redundante Rollen in Verwaltung, Technik und anderen geteilten Funktionen. Der Bericht stärkt damit die Position von Kalifornies Generalstaatsanwalt Rob Bonta und nahezu einem Dutzend weiterer Bundesstaaten, die eine rechtliche Anfechtung der Fusion erwägen, um den von David und Larry Ellison vorangetriebenen Deal zumindest vorübergehend zu stoppen.",
-          "score": 10
-        },
-        {
-          "source": "Deadline",
-          "title": "Netflix Swoops For Latest Ricky Gervais Stand-Up Special",
-          "link": "https://deadline.com/2026/06/netflix-ricky-gervais-stand-up-special-legend-1236962807/",
-          "summary": "Netflix hat sich die Rechte an Ricky Gervais' neuem Stand-up-Special „Legend\" gesichert, das während seiner ab September startenden globalen Tour aufgezeichnet wird. Es ist bereits das fünfte Gervais-Special für den Streamer nach „Humanity\", „Supernature\", „Armageddon\" und „Mortality\" und unterstreicht die langjährige Partnerschaft, die auch die am 7. August startende Animationsserie „Alley Cats\" umfasst. Laut Gervais handelt es sich um sein bislang persönlichstes Programm und finanziell um seinen bislang favorisierten Deal.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Flight Risk: Rory Kennedy’s ‘Freefall: A Reckoning For Boeing’ Argues Aircraft Maker Hasn’t Corrected Alarming Safety Problems – DC/DOX",
-          "link": "https://deadline.com/2026/06/freefall-a-reckoning-for-boeing-director-rory-kennedy-interview-1236962668/",
-          "summary": "Rory Kennedys Dokumentarfilm „Freefall: A Reckoning for Boeing\", der seine Weltpremiere beim DC/DOX-Festival feierte, ist die Fortsetzung ihres Netflix-Films „Downfall: The Case Against Boeing\" (2022) und argumentiert, dass der Flugzeughersteller trotz vorheriger Zusicherungen seine alarmierenden Sicherheitsprobleme nicht behoben hat. Als Beleg führt die Regisseurin unter anderem den Vorfall vom Januar 2024 an, bei dem an Bord eines Alaska-Airlines-Flugs ein Türfragment einer Boeing 737 Max 9 herausbrach und eine Dekompression auslöste. Kennedy zeigt sich überzeugt, dass viele der Verhaltensmuster, die zu den",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "The Global Rush to Ban Kids From Social Media Has Begun. Will It Work?",
-          "link": "https://www.hollywoodreporter.com/news/general-news/social-media-bans-uk-canada-australia-1236625997/",
-          "summary": "Weltweit führen Regierungen – angeführt von Australiens Pionier-Gesetz aus Dezember – Social-Media-Verbote für unter 16-Jährige ein, wobei nun auch Großbritannien und Kanada mit ähnlichen Gesetzesvorhaben nachziehen und Plattformen bei Verstößen empfindliche Strafen (in Australien bis zu 34,7 Mio. USD pro Fall) drohen. Die Maßnahmen stützen sich auf Studien, die problematische Social-Media-Nutzung mit psychischen Problemen, Cybermobbing und Schlafstörungen bei Jugendlichen verknüpfen. Erste Erfahrungen aus Australien zeigen jedoch Wirksamkeitsprobleme, da Jugendliche die Beschränkungen bereits über VPNs, geliehene",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Cannes Lions CEO Reveals What Keeps Him Up at Night",
-          "link": "https://www.hollywoodreporter.com/movies/movie-features/cannes-lion-ceo-interview-ai-industry-challenges-1236622498/",
-          "summary": "Cannes Lions kehrt 2025 in einer Phase tiefgreifender Unsicherheit für die globale Marketingbranche zurück, geprägt von der allgegenwärtigen Realität künstlicher Intelligenz und dem wachsenden Einfluss von Online-Creatorn auf die Markenkommunikation. Im Interview mit dem Hollywood Reporter betont CEO Simon Cook die zentrale Herausforderung, KI als „Verstärker für Kreativität statt als negative Kraft\" nutzbar zu machen. Über 500 Sprecher aus Werbung, Technologie und Entertainment nehmen teil, darunter Oprah Winfrey, die den LionHeart Award erhält, sowie Führungskräfte von Apple, Instagram, P&G und Unilever.",
+          "title": "Beste Woche aller Zeiten: MagentaTV nennt erste WM-Zahlen",
+          "link": "https://www.dwdl.de/nachrichten/106890/beste_woche_aller_zeiten_magentatv_nennt_erste_wmzahlen/",
+          "summary": "MagentaTV meldet für die ersten sieben WM-Turniertage mehr als 36 Millionen Zuschauer (kumuliert über alle Spiele) auf seinen drei Kanälen, wobei das Exklusivspiel Frankreich gegen Senegal mit 6,5 Millionen die Bestmarke setzte. Die Zahlen sind allerdings nicht mit der klassischen TV-Reichweitenmessung vergleichbar, da bereits Zuschauer ab einer Minute Sehdauer gezählt und Haushaltsdaten über einen Co-Viewing-Faktor in Personen umgerechnet werden. Begleitend erntete die Telekom viel Kritikerlob für ihre Berichterstattung mit Johannes B. Kerner sowie den Experten Müller, Klopp und Hummels.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "YouTube Creators are Making a Splash This Awards Season. Here’s a Guide to the Platform’s Top Contenders",
-          "link": "https://variety.com/2026/tv/news/youtube-awards-season-guide-emmys-top-contenders-1236786118/",
-          "summary": "YouTube etabliert sich verstärkt im Rennen um die Primetime Emmys, wobei Variety führende Creator als aussichtsreiche Kandidaten der FYC-Saison vorstellt. Zu den genannten Persönlichkeiten zählen Brittany Broski mit ihrem selbstfinanzierten Format „Royal Court“, das prominente Gäste wie Charli xcx und Harry Styles versammelt, sowie Kareem Rahma mit dem minimalistischen Interview-Format „Subway Takes“. Die Entwicklung verdeutlicht das wachsende Gewicht von Plattform-Creators im traditionellen Award-Umfeld.",
+          "title": "‘Game of Thrones’ Star Aidan Gillen on Golden Age of ‘F—ing Brilliant’ British Drama and Why There’s ‘Too Much’ Stuff on TV",
+          "link": "https://variety.com/2026/tv/global/game-of-thrones-aidan-gillen-golden-age-british-drama-1236786197/",
+          "summary": "„Game of Thrones\"- und „Peaky Blinders\"-Star Aidan Gillen kritisierte beim Transilvania International Film Festival das Überangebot an TV-Inhalten und bemängelte, dass selbst hochwertige Produktionen zunehmend auf kurzfristige „Dopamin-Hits\" ausgelegt und vereinfacht würden. Der irische Schauspieler, der dieses Jahr als Jurymitglied des internationalen Wettbewerbs fungiert, nutzte das Festival auch zur Promotion seiner aktuellen Filme „Re-Creation\" und „Gorky Resort\".",
           "score": 8
         }
       ]
