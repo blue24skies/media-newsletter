@@ -1,182 +1,119 @@
 {
   "newsletters": [
     {
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "articles": [
         {
-          "source": "DWDL",
-          "title": "Dreharbeiten zur ZDF-Serie \"Hamburg Days\" werden fortgesetzt",
-          "link": "https://www.dwdl.de/nachrichten/106967/dreharbeiten_zur_zdfserie_hamburg_days_werden_fortgesetzt/",
-          "summary": "Die ZDF/BBC-Koproduktion \"Hamburg Days\" über die frühen Beatles-Jahre setzt nach dem Tod der ursprünglichen Hauptdarstellerin Luna Jordan ihre Dreharbeiten fort, wobei Lea Drinda die Rolle der Fotografin Astrid Kirchherr übernimmt. Die sechsteilige Serie von Showrunner Christian Schwochow basiert auf der Autobiografie von Klaus Voormann und wird voraussichtlich bis Ende August in Hamburg, München und Liverpool gedreht.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Sky-Serie \"Der Pass\" kommt im Juli auch zu Nitro",
-          "link": "https://www.dwdl.de/nachrichten/106966/skyserie_der_pass_kommt_im_juli_auch_zu_nitro/",
-          "summary": "Nitro zeigt ab dem 23. Juli die preisgekrönte Sky-Serie \"Der Pass\" mit Julia Jentsch und Nicholas Ofczarek, wobei zum Auftakt vier Folgen der ersten Staffel donnerstags ab 20:15 Uhr ausgestrahlt werden. Es handelt sich um eine Sender-, jedoch keine Free-TV-Premiere, da die Serie bereits zuvor im ZDF und bei ZDFneo lief. Die Verwertung ist eine direkte Folge der jüngsten Übernahme von Sky Deutschland durch RTL, in deren Zuge die Inhalte beider Unternehmen zunehmend wechselseitig verwertet werden.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "ServusTV stellt Programmdirektor Goetz Hoefer frei",
-          "link": "https://www.dwdl.de/nachrichten/106960/servustv_stellt_programmdirektor_goetz_hoefer_frei/",
-          "summary": "ServusTV hat Programmdirektor Goetz Hoefer nach rund dreieinhalb Jahren freigestellt, wobei der Sender zu den Gründen schweigt – laut \"Salzburger Nachrichten\" soll jedoch kein Fehlverhalten vorliegen. Der frühere Spiegel-TV-Geschäftsführer kam im Januar 2023 zum Salzburger Privatsender, der sich seither – auch dank teuer eingekaufter Sportrechte wie Fußball-EM und -WM – zum erfolgreichsten Privatsender Österreichs entwickelte. Hoefer galt lange als möglicher Nachfolger von Senderchef Ferdinand Wegscheider und hatte zwischenzeitlich auch die nie klar definierte Rolle des General Managers inne.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "HBO Max holt Russell T Davies’ \"Tip Toe\" nach Deutschland",
-          "link": "https://www.dwdl.de/nachrichten/106955/hbo_max_holt_russell_t_davies_tip_toe_nach_deutschland/",
-          "summary": "Warner Bros. Discovery hat sich die Lizenzrechte an Russell T Davies' fünfteiliger Dramaserie „Tip Toe\" für HBO Max in der DACH-Region sowie Luxemburg und Liechtenstein gesichert; der Start erfolgt am 13. August mit wöchentlicher Veröffentlichung. Die mit Alan Cumming und David Morrissey besetzte Miniserie über einen eskalierenden Nachbarschaftskonflikt in Manchester lief in Großbritannien bei Channel 4 und wurde von der Kritik positiv aufgenommen. Produziert wurde sie von der ITV-Studios-Tochter Quay Street Productions, die den internationalen Vertrieb verantwortet und die Serie zuvor bereits an Starz in den USA verkaufte.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Seriesly Berlin 2026: Einige Neuerungen im dritten Jahr",
-          "link": "https://www.dwdl.de/nachrichten/106954/seriesly_berlin_2026_einige_neuerungen_im_dritten_jahr/",
-          "summary": "Das Serienfestival Seriesly Berlin findet vom 14. bis 17. September 2026 in seiner dritten Ausgabe statt und nutzt mit dem CineStar in der Kulturbrauerei erstmals einen zweiten Veranstaltungsort neben dem Fotografiska Berlin. Drei neue Initiativen erweitern das Programm: der Think Tank „Stories at Risk“ zu kreativer Freiheit, die Koproduktions-Kooperation „Beyond the East-West Co-Production Myth“ mit dem Karlovy Vary International Film Festival sowie das Konferenzprogramm „Seriesly Creators“ zu Creator-IP und neuen Serienmodellen. Projekteinreichungen für die Seriesly Berlin Pitches sind noch bis zum 30. Juni möglich.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "&quot;Elf Helden - Ein Albtraum&quot;: ARD-Doku über die WM 94 legt Rekordstart hin",
-          "link": "https://www.horizont.net/medien/nachrichten/elf-helden---ein-albtraum-ard-doku-ueber-die-wm-94-legt-rekordstart-hin-234853?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die ARD-Dokumentation \"Elf Helden - Ein Albtraum\" über die WM 1994, die durch den Effenberg-Skandal geprägt war, verzeichnete in der ARD-Mediathek einen Rekordstart. Laut ARD erreichte keine andere Doku-Reihe bislang so viele Abrufe in vergleichbar kurzer Zeit.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "State of Social Teil 6: Welche KPIs zählen wirklich in Social Media?",
-          "link": "https://www.horizont.net/medien/nachrichten/state-of-social-teil-6-welche-kpis-zaehlen-wirklich-in-social-media-234755?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Angesichts steigender Millionen-Investitionen in Social Media hinterfragen Kunden und Agenturen zunehmend die tatsächliche Werbewirkung von Ads auf Plattformen wie Facebook, Instagram und TikTok. Dabei gewinnen härtere Metriken jenseits von Views und Likes an Bedeutung, um den Erfolg von Kampagnen messbar zu machen.",
+          "source": "kress",
+          "title": "Meta kostet dem ARD/ZDF-Jugendangebot Funk 20 Prozent Reichweite",
+          "link": "https://kress.de/news/beitrag/153619-meta-kostet-dem-ard-zdf-jugendangebot-funk-20-prozent-reichweite-programmchef-schild-sucht-alternativen-im-fediverse.html",
+          "summary": "Das ARD/ZDF-Jugendangebot Funk hat durch Metas Drosselung politischer Inhalte 20 Prozent Reichweite eingebüßt und testet seit vergangener Woche das Fediverse als gemeinwohlorientierte, dezentrale Alternative zu den großen Tech-Plattformen – mit bereits 3.000 Followern in der ersten Woche. Programmgeschäftsführer Philipp Schild verfolgt eine Strategie der breiten Distribution ohne Abhängigkeit von einzelnen Konzern-Algorithmen und betont die demokratiepolitische Relevanz, da 60 Prozent der 18- bis 24-Jährigen ihre Nachrichten vorwiegend über soziale Medien beziehen.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Omnicom Media Germany und Ad Alliance entwickeln neues KI-Tool Künftig wird TV-Werbung an den Kontext angepasst",
-          "link": "https://meedia.de/news/beitrag/24480-kuenftig-wird-tv-werbung-an-den-kontext-angepasst-nahezu-in-echtzeit.html",
-          "summary": "Omnicom Media Germany und die Ad Alliance haben eine KI-gestützte Werbelösung vorgestellt, die TV-Werbung nahezu in Echtzeit an Programminhalte, Zielgruppensignale und Kontextinformationen anpasst und dabei Senderdaten mit der Acxiom-Identitätsplattform sowie KI-basierten Inhaltsanalysen kombiniert. Die Technologie überträgt die aus dem Digitalbereich bekannte Echtzeit-Optimierung erstmals auf das bislang starr geplante lineare Fernsehen und ist zudem für CTV, AVOD, BVOD und Online-Video einsetzbar. Grundlage ist die Studie „Connected Content\", wonach kontextuell passende Werbung besser wahrgenommen wird als unterbrechende Formate.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Kampagne #rauszeit gestartet Motor Presse Stuttgart baut das Marketing um Die Motor Presse...",
-          "link": "https://meedia.de/news/beitrag/24481-motor-presse-stuttgart-baut-das-marketing-um.html",
-          "summary": "Die Motor Presse Stuttgart strukturiert ihre Marketing- und Vertriebsorganisation neu und holt das Abo-Marketing wieder ins eigene Haus, um Vertrieb, Kampagnen und datengetriebene Steuerung enger zu verzahnen. Unter Leitung von Sandra Mugele (Distribution & Marketing) und Daniela Linz (Digital-Marketing) sollen digitale Kompetenzen sowie die kanalübergreifende Vermarktung ausgebaut werden, während der Dienstleister DPV seit April rund 430.000 Abonnements betreut. Als erste größere Initiative der neuen Struktur startet die markenübergreifende Kampagne #rauszeit.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "Deutschlands oberster Privatmedienaufseher DLM-Chef Thorsten Schmiege fordert „Schutzschirm für...",
-          "link": "https://meedia.de/news/beitrag/24479-dlm-chef-thorsten-schmiege-fordert-schutzschirm-fuer-lokaljournalismus.html",
-          "summary": "BLM-Präsident und DLM-Vorsitzender Thorsten Schmiege hat zur Eröffnung der Lokalmedientage in Nürnberg einen „Schutzschirm für Lokaljournalismus“ gefordert, den Politik, Branche und Medienaufsicht gemeinsam tragen sollen. Angesichts sinkender Werbeerlöse, veränderter Mediennutzung und steigender Kosten plädierte er dafür, die über 40 Jahre für den privaten Lokalrundfunk entwickelten regulatorischen und wirtschaftlichen Schutzmechanismen ins Digitalzeitalter zu überführen. Lokaljournalismus bezeichnete Schmiege dabei als „demokratische Infrastruktur“ und sprach sich zudem für einen KI-getriebenen Aufbruchsgeist aus.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Video Daily: TV-Quoten & Streaming-Charts Streaming-Premiere: \"Avatar: Fire and Ash\" stürmt auf Platz 1 bei Disney+ Während die linearen Privatsender",
-          "link": "https://meedia.de/news/beitrag/24476-streaming-premiere-quot-avatar-fire-and-ash-quot-stuermt-auf-platz-1-bei-disney.html",
-          "summary": "Der Blockbuster \"Avatar: Fire and Ash\", der nach seinem Kinostart vor einem halben Jahr über 5,5 Millionen Zuschauer erreichte, stieg bei seiner Streaming-Premiere direkt auf Platz 1 der Disney+-Charts ein. Während die großen Streamingdienste mit starken Neuheiten überzeugen, dominiert im linearen Fernsehen weiterhin die Fußball-WM: Das Spiel Schweiz-Kanada erreichte am Mittwochabend im Ersten 6,65 Millionen Zuschauer und einen Marktanteil von 34,0 Prozent.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "Cannes Lions 2026 OpenAI will bis 2030 100 Mrd.",
-          "link": "https://meedia.de/news/beitrag/24475-openai-will-bis-2030-100-mrd-dollar-mit-werbung-verdienen.html",
-          "summary": "OpenAI plant laut internen Prognosen, sein Werbegeschäft von rund 2,5 Milliarden US-Dollar (2026) auf 100 Milliarden Dollar bis 2030 auszubauen und damit zu einem der weltweit größten Werbeunternehmen aufzusteigen. Auf den Cannes Lions 2026 betonte Verkaufsleiter David Dugan die Priorität der Werbefinanzierung gegenüber Abo-Modellen, wobei Indien als nächster Zielmarkt gilt. Mitteleuropa bleibt vorerst ausgeklammert – vermutlich aufgrund regulatorischer Hürden wie DSGVO, AI-Act und Platform-Act.",
+          "title": "RTL-Tochter Sky Deutschland hat die Pay-Rechte RTL steigt mit Borussia Dortmund in die neue...",
+          "link": "https://meedia.de/news/beitrag/24490-rtl-steigt-mit-borussia-dortmund-in-die-neue-dfb-pokal-lizenzphase-ein.html",
+          "summary": "RTL steigt am 1. September mit der DFB-Pokal-Erstrundenpartie HEBC Hamburg gegen Borussia Dortmund in seinen bis 2030 laufenden Rechtevertrag ein und überträgt das Spiel live im Free-TV. Insgesamt sind vier Erstrunden-Partien frei empfangbar zu sehen – verteilt auf ZDF, ARD und RTL –, wobei Dortmund und Bayern wegen ihrer Supercup-Teilnahme erst Anfang September in den Wettbewerb einsteigen.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Cannes Lions 2026 Meta zeigt noch mehr KI-Kreativ-Tools und WPP darf testen Neue KI-Werkzeuge von...",
-          "link": "https://meedia.de/news/beitrag/24471-meta-zeigt-noch-mehr-ki-kreativ-tools-und-wpp-darf-testen.html",
-          "summary": "Meta hat auf den Cannes Lions 2026 eine neue Generation von KI-Werkzeugen vorgestellt, die nicht nur Werbemittel erstellt, sondern deren Performance analysiert und daraus eigenständig optimierte kreative Varianten generiert – ein sogenannter Closed Loop, der den Schritt zur Vollautomatisierung inklusive Kreation markiert. Als erste große Agenturgruppe testet WPP die Tools, Startkunde ist unter anderem Unilever. Das System lernt dabei laut Meta-Anzeigenchefin Nicola Mendelsohn die Identität und Tonalität einer Marke aus bestehenden Anzeigen.",
+          "title": "102 Minuten ab 22 Uhr im Ersten.",
+          "link": "https://meedia.de/news/beitrag/24485-18-5-millionen-fans-sehen-schwachen-dfb-auftritt-gegen-ecuador.html",
+          "summary": "Das dritte WM-Vorrundenspiel der DFB-Elf gegen Ecuador erreichte trotz der Niederlage starke 18,47 Millionen Zuschauer bei einem Marktanteil von 71,9 Prozent im Ersten und lag damit leicht über dem Spiel gegen die Elfenbeinküste, blieb aber hinter dem Auftaktspiel (23,43 Millionen) zurück. Als Gründe für die etwas geringere Reichweite gelten die fehlende sportliche Spannung durch den feststehenden Gruppensieg sowie die späte Anstoßzeit um 22 Uhr an einem Werktag. Für das kommende Sechzehntelfinale wird trotz noch späteren Anpfiffs ab 22.30 Uhr erneut mit über 20 Millionen Zuschauern gerechnet.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Wimbledon to stay free-to-air TV until at least 2033 after new deal with BBC",
+          "link": "https://www.theguardian.com/sport/2026/jun/25/wimbledon-free-to-air-2033-bbc-television-tennis",
+          "summary": "Die BBC und der All England Club haben eine Vertragsverlängerung um sechs Jahre unterzeichnet, wodurch Wimbledon bis mindestens 2033 im frei empfangbaren Fernsehen bleibt. Während andere Grand-Slam-Turniere zunehmend an Pay-TV-Anbieter wie TNT Sports, Sky und Amazon Prime verkauft wurden, setzt Wimbledon weiter auf die seit 1927 bestehende Partnerschaft mit der BBC, die unübertroffene Reichweite und Zuschauerzahlen bietet. Lediglich sekundäre Rechte an den Einzelfinals der Herren und Damen wurden bislang an TNT Sports veräußert.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Ajay Devgn To Star In Jio Studios & Colour Yellow Action Pic ‘Chauhaan’; October 2027 Release Date Set",
-          "link": "https://deadline.com/2026/06/ajay-devgn-chauhaan-jio-studios-colour-yellow-productions-1236967208/",
-          "summary": "Bollywood-Star Ajay Devgn übernimmt die Hauptrolle im Actionfilm „Chauhaan\" von Regisseur Neeraj Yadav, produziert von Jio Studios und Colour Yellow Productions, mit Kinostart am 1. Oktober 2027. Der in einer „düsteren und actiongeladenen Welt\" angesiedelte Film, dessen Teaser eine in Pulwama (Jammu und Kaschmir) spielende Konfrontationsszene zeigt, wird von Jyoti Deshpande, Aanand L Rai und Himanshu Sharma produziert. Die Ankündigung erfolgte am Geburtstag von Devgns verstorbenem Vater Veeru Devgan, einem bekannten Stunt-Choreografen des Hindi-Kinos.",
+          "title": "Genndy Tartakovksy’s ‘Heist Brothers’ Taken To Series At Adult Swim",
+          "link": "https://deadline.com/2026/06/heist-brothers-adult-swim-genndy-tartakovsky-annecy-1236965975/",
+          "summary": "Adult Swim hat die animierte Action-Comedy „Heist Brothers“ (zuvor „Heist Safari“) von „Dexter's Laboratory“-Schöpfer Genndy Tartakovsky offiziell als Serie bestellt – 10 Folgen à 15 Minuten befinden sich nun bei Cartoon Network Studios in Produktion. Die Serie erzählt die Geschichte dreier Froschbrüder, die eine Bank ausrauben, und reiht sich in eine kommende Slate ein, die unter anderem ein „Rick and Morty“-Spin-off sowie eine Adaption von Anthony Bourdains Graphic Novel „Get Jiro!“ umfasst.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘Peppa Pig’ Causes AI Stink: Concern As Beloved Hasbro Series Asks Child Actors To Sign Over Their Voices To Artificial Intelligence",
-          "link": "https://deadline.com/2026/06/peppa-pig-hasbro-child-actors-ai-backlash-1236967142/",
-          "summary": "Hasbro fordert von Kinderdarstellern der Animationsserie „Peppa Pig“ unter neuen Vertragsbedingungen die Übertragung ihrer Stimmrechte für KI-Zwecke, was potenziell das Klonen kindlicher Stimmen für kommerzielle Inhalte ermöglichen könnte. Knapp 1.000 Personen haben einen von der Agents of Young Performers Association (AYPA) initiierten offenen Brief unterzeichnet, der solche zunehmend verbreiteten KI-Klauseln in Kinderverträgen verurteilt – insbesondere, da diese oft als „take it or leave it“-Ultimatum präsentiert werden. Hasbro betont, sich dem Schutz minderjähriger Darsteller verpflichtet zu fühlen und KI-Themen verantwortungsvoll und",
+          "title": "Secuoya Studios & William Levy Ready Action Series & Romcom Through Renewed Development Deal",
+          "link": "https://deadline.com/2026/06/secuoya-studios-william-levy-action-series-romantic-comedy-1236968157/",
+          "summary": "Der kubanisch-amerikanische Schauspieler und Produzent William Levy hat seine Partnerschaft mit dem spanischen Produktionsriesen Secuoya Studios erneuert und entwickelt nun zwei neue Projekte, in denen er jeweils als Hauptdarsteller und Executive Producer fungiert. Geplant sind eine sechsteilige Thriller-Serie von den Autoren Carlos Portela und Roberto Serrano, die Action, Spannung und emotionales Drama verbindet, sowie ein Spielfilm, mit dem Levy ins Romantik-Komödien-Genre zurückkehrt. Die Vereinbarung baut auf früheren gemeinsamen Erfolgen wie der ViX-Serie „Under a Volcano“ auf und erfolgt kurz nach personellen Veränderungen bei Secuo",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘ViQueens’ Teaser: Animated Viking Drama Featuring Ella Purnell, Rita Ora & Norway Soccer Star Erling Haaland Unveiled In Annecy",
-          "link": "https://deadline.com/2026/06/viqueens-teaser-viking-ella-purnell-rita-ora-erling-haaland-1236967140/",
-          "summary": "Der niederländisch-norwegische Regisseur Zwart Arbeid präsentierte beim Annecy International Animation Film Festival einen Teaser zu seinem animierten Abenteuer-Comedy-Film „ViQueens“, der mit den Stimmen von Ella Purnell und Rita Ora sowie einem Gastauftritt von Fußballstar Erling Haaland besetzt ist und zwei Wikinger-Mädchen auf einer Reise entlang der Seidenstraße folgt. Im Rahmen einer Masterclass stellte Zwart zudem die selbstentwickelte Produktionsmethode „Reference Capture“ vor, die reale Performances, Kameraarbeit und physisches Staging früh in den Kreativprozess integriert, um Animationen emotional authentischer und filmisch fundierter zu gestalten – wobei jedes",
+          "title": "BBC Buys ‘Ghosts Australia’ To Sit Alongside Original British Sitcom",
+          "link": "https://deadline.com/2026/06/bbc-ghosts-australia-acquisition-1236968147/",
+          "summary": "Die BBC hat die achtteilige australische Adaption von „Ghosts\" erworben, die künftig neben der britischen Originalserie und der US-Version auf BBC iPlayer und BBC Three laufen wird. Die von BBC Studios Australia für Paramount+ produzierte Serie mit Tamala und Rowan Witt erweitert das wachsende internationale Franchise des erfolgreichen Sitcom-Formats. BBC Studios hält die Vertriebsrechte, die Produktion erfolgte mit Förderung durch Screenwest und das Western Australian Production Attraction Incentive.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "Sky & ITV Agree Terms Over $2.1B Deal With Official Announcement Expected Imminently — Report",
-          "link": "https://deadline.com/2026/06/sky-itv-agree-terms-deal-love-productions-to-itv-studios-1236967160/",
-          "summary": "Sky und ITV haben sich auf die Bedingungen einer £1,6 Mrd. ($2,1 Mrd.) schweren Übernahme von ITVs Media-&-Entertainment-Sparte (TV-Kanäle und Streamingdienst ITVX) geeinigt, wobei eine offizielle Ankündigung innerhalb der nächsten zwei Wochen erwartet wird. Im Rahmen des Deals wird der „Great British Bake Off“-Produzent Love Productions an die separat bleibende Sparte ITV Studios verkauft, was diese um wertvolles IP bereichert. Die Transaktion, bei der das Comcast-eigene Sky die Führung übernimmt, bedarf noch der Genehmigung durch Ofcom und die Competition Markets Authority.",
-          "score": 10
-        },
-        {
-          "source": "Deadline",
-          "title": "Acorn TV & ITV Buy Kiwi Cozy Crime Drama ‘Blue Murder Motel’",
-          "link": "https://deadline.com/2026/06/blue-murder-motel-acorn-tv-itv-deals-cozy-crime-1236967146/",
-          "summary": "Die neuseeländische Cozy-Crime-Serie „Blue Murder Motel\" über zwei pensionierte Polizisten, die ein Strandmotel betreiben und in Kriminalfälle verwickelt werden, wurde von Acorn TV (USA/Kanada) und ITV (UK) sowie weiteren internationalen Sendern wie BBC und Disney erworben. Die von Great Southern Television für TVNZ produzierte und von APC vertriebene Serie wurde von Kate McDermott geschaffen, mit Lucy Lawless als Regisseurin sowie Michala Banas und Brett Tucker in den Hauptrollen; eine zweite Staffel befindet sich bereits in Produktion. Die Verkäufe unterstreichen die anhaltend starke internationale Nachfrage nach leichtem Krimi-Format, das auch in Märk",
+          "title": "Norma Percy On ‘Brexit: A Very British Civil War’: Interviewing Boris Johnson And The Politicians Who Lived It",
+          "link": "https://deadline.com/2026/06/norma-percy-on-brexit-a-very-british-civil-war-boris-johnson-1236965052/",
+          "summary": "Die Veteranen-Dokumentarfilmerin Norma Percy beleuchtet in der zweiteiligen BBC-Doku „Brexit: A Very British Civil War“ (produziert von Brook Lapping, Regie: Max Stern) zum zehnten Jahrestag des EU-Referendums die Frage, wie das Leave-Lager seinen Sieg errang. Die Produktion bietet außergewöhnlichen Zugang zu Schlüsselfiguren beider Seiten, darunter David Cameron, George Osborne, Michael Gove, Nigel Farage und Boris Johnson, der in einem fast dreistündigen Interview unter anderem aussagte, er habe sich nicht aus Karrierekalkül für den Brexit entschieden.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Netflix’s ‘Dept. Q’ Adds New Cast & Rolls Cameras On Season 2",
-          "link": "https://deadline.com/2026/06/netflix-dept-q-cast-season-2-starts-production-goode-1236967138/",
-          "summary": "Netflix hat die Dreharbeiten zur zweiten Staffel des erfolgreichen Thrillers „Dept. Q“ mit Matthew Goode in der Hauptrolle als DCI Carl Morck gestartet und ergänzt das Ensemble um zahlreiche neue Darsteller, darunter Aisling Franciosi, Greg Wise und Amy Brenneman. Die auf den Romanen von Jussi Adler-Olsen basierende Serie stammt von Autor-Regisseur Scott Frank („The Queen’s Gambit“) und wird von Left Bank produziert, dem Studio hinter „The Crown“. „Dept. Q“ zählt zu den größten Netflix-Erfolgen außerhalb der USA der letzten Jahre.",
+          "title": "Labor Peace Reigns This Summer: Studios Praise “Trust” With Guilds As DGA “Overwhelmingly” Ratifies New Deal",
+          "link": "https://deadline.com/2026/06/dga-ratifies-contract-studio-streamers-1236968088/",
+          "summary": "Die DGA hat als letzte der drei großen Hollywood-Gewerkschaften einen ungewöhnlich langen Vierjahresvertrag mit der AMPTP \"überwältigend\" ratifiziert und damit den Tarifzyklus für Frühjahr 2026 abgeschlossen. Der Vertrag umfasst historische Beiträge zum Gesundheitsplan, Lohn- und Residuals-Erhöhungen, KI-Schutzmaßnahmen sowie Jobschutz für TV-Regisseure. Zudem enthält er eine unverbindliche Zusage der Studios, sich bei Trump-Administration und Kongress für ein nationales Film- und TV-Steueranreizprogramm einzusetzen – ein deutlicher Kontrast zu den schweren Streiks vor drei Jahren.",
           "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Asa Butterfield, Jonny Lee Miller and Christine Tremarco Join BBC Beatles Drama ‘Hamburg Days’",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/asa-butterfield-jonny-lee-miller-christine-beatles-hamburg-1236630442/",
-          "summary": "Die BBC besetzt ihr sechsteiliges Beatles-Drama „Hamburg Days“ mit Asa Butterfield (als Manager Brian Epstein), Jonny Lee Miller (als Jim McCartney) und Christine Tremarco (als Aunt Mimi); die Serie wird von „The Crown“-Macher Christian Schwochow und „Succession“-Autor Jamie Carragher verantwortet. Die in Hamburg gedrehte Produktion schildert die prägenden frühen 1960er-Jahre der Band in den Clubs des St.-Pauli-Viertels und ihre Begegnung mit den Künstlern Klaus Voormann und Astrid Kirchherr.",
+          "title": "Warner Bros. Reanimating 60s Cult TV Show ‘Dark Shadows’ (Exclusive)",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/warner-bros-animation-dark-shadows-series-1236630726/",
+          "summary": "Warner Bros. Animation entwickelt eine Neuauflage der Gothic-Kultserie „Dark Shadows\" aus den 1960er-Jahren als Animationsserie für Erwachsene, die die Saga der Familie Collins fortsetzt. Showrunnerin und Executive Producer ist Lisa Holdsworth („Call the Midwife\", „Discovery of Witches\"), unterstützt unter anderem von Cathy und Tracy Curtis. Das auf dem Annecy-Festival angekündigte Projekt befindet sich derzeit in der Entwicklung; ein Veröffentlichungstermin wurde noch nicht genannt.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "David Boreanaz, Former ‘SEAL Team,’ ‘Bones’ and ‘Angel’ Star, to Keynote Italian Global Series (Exclusive)",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/david-boreanaz-italian-global-series-1236630674/",
+          "summary": "David Boreanaz, bekannt aus „Buffy\", „Angel\", „Bones\" und „SEAL Team\", wird am 9. Juli als Keynote-Sprecher in der „Conversation\"-Reihe der zweiten Italian Global Series in Riccione auftreten und auf seine dreißigjährige TV-Karriere zurückblicken. Parallel dazu spielt und produziert er die Pilotfolge des „Rockford Files\"-Reboots bei NBC, in der er den Privatdetektiv James Rockford – ursprünglich von James Garner verkörpert – übernimmt.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Directors Guild Ratifies Four-Year Deal With Studios",
+          "link": "https://www.hollywoodreporter.com/business/business-news/directors-guild-ratifies-four-year-contract-studios-1236631420/",
+          "summary": "Die Directors Guild of America (DGA) hat einen Vierjahresvertrag mit Studios und Streamern ratifiziert, der mit einer Erhöhung der Arbeitgeberbeiträge zum gewerkschaftlichen Gesundheitsplan um fast 25 Prozent die größte derartige Steigerung in der Geschichte der Gewerkschaft enthält. Zur Bekämpfung des Rückgangs von Beschäftigungsmöglichkeiten für die rund 19.500 Mitglieder verpflichteten sich die Unternehmen zudem, sich in Washington für ein bundesstaatliches Filmsteueranreizprogramm einzusetzen. Mit diesem Abschluss endet ein ruhiges Verhandlungsjahr zwischen Hollywoods Gewerkschaften und den führenden Medienkonzernen.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Genndy Tartakovsky Sets ‘Conan the Barbarian’ Series with Cartoon Network Studios and Prime Video",
-          "link": "https://variety.com/2026/streaming/global/tartakovsky-conan-cartoon-network-studios-prime-video-1236790207/",
-          "summary": "Genndy Tartakovsky entwickelt eine Animationsserie zu „Conan the Barbarian\" mit Cartoon Network Studios und Prime Video, was seine Rückkehr ins Warner-Bros.-Lager nach mehreren Jahren bei Sony markiert. Die Ankündigung erfolgte beim Annecy Studio Focus; Tartakovsky betonte, er versuche bereits seit 2008, das auf Robert E. Howards Werken basierende Projekt umzusetzen, und sehe nach dem Erfolg von „Samurai Jack\" und „Primal\" nun den richtigen Zeitpunkt gekommen.",
+          "title": "New ‘Monster of Florence’ Installment From Director Stefano Sollima Set at Netflix",
+          "link": "https://variety.com/2026/tv/global/monster-of-florence-new-season-stefano-sollima-netflix-1236791073/",
+          "summary": "Netflix hat eine neue dreiteilige Fortsetzung der italienischen Original-Serie „The Monster of Florence\" unter der Regie von Genre-Spezialist Stefano Sollima in Auftrag gegeben, deren Dreharbeiten bereits laufen. Die erste vierteilige Staffel, die 2025 beim Filmfestival von Venedig Premiere feierte, stieg nach dem Streaming-Start rasch an die Spitze der globalen nicht-englischsprachigen Netflix-Charts auf. Das neue Kapitel beleuchtet Italiens berühmtesten True-Crime-Fall – die Ermittlungen zu acht Doppelmorden über 17 Jahre – aus einer neuen Perspektive.",
+          "score": 9
+        },
+        {
+          "source": "Variety",
+          "title": "‘The Bear’ Ends: Where Does Carmy Go and What Happens to the Restaurant?",
+          "link": "https://variety.com/2026/tv/news/the-bear-ending-explained-1236791040/",
+          "summary": "Im Serienfinale von „The Bear\" (Hulu) steht die finanzielle Zukunft des Restaurants auf der Kippe, nachdem Geldgeber Uncle Jimmy seine Mittel erschöpft hat. Die Episode betont die zentrale Botschaft der Serie – dass nicht das gastronomische Renommee, sondern die zwischenmenschlichen Beziehungen und das „Familien\"-Gefühl im Mittelpunkt stehen. Im Gegensatz zur vorherigen Folge, die ausschließlich an einem Abend spielte, erstreckt sich das Finale über mehrere Tage nach dem katastrophalen Service.",
+          "score": 9
+        },
+        {
+          "source": "Variety",
+          "title": "DGA Ratifies Four-Year Deal Meant to Protect Members’ Jobs Amid Historic Downturn",
+          "link": "https://variety.com/2026/film/news/dga-ratify-contract-four-year-1236789691/",
+          "summary": "Die Directors Guild of America (DGA) hat einen Vierjahresvertrag mit der AMPTP überwältigend ratifiziert, der angesichts eines historischen Produktionsrückgangs vor allem Arbeitsplätze sichern soll. Kernpunkt ist eine Begrenzung für Nicht-Regisseure (etwa Schauspieler), die künftig maximal zwei TV-Episoden pro Staffel inszenieren dürfen, um Stellen für Berufsregisseure zu schützen. Zudem sicherte die DGA die Zusage zu, dass Führungskräfte großer Studios sich strategisch für eine bundesweite Steuervergünstigung zur Produktionsförderung einsetzen.",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "Tubi to Provide Creatorverse Lineup to Amazon’s Fire TV (EXCLUSIVE)",
-          "link": "https://variety.com/2026/biz/news/tubi-creatorverse-lineup-amazon-fire-tv-exclusive-1236789738/",
-          "summary": "Tubi, Fox' werbefinanzierter Streamingdienst, bringt sein Creatorverse-Lineup mit Creator-geführten Shows und Filmen (u.a. mit Bob the Drag Queen, Keith Lee und Joey Graceffa) auf Amazons Fire-TV-Plattform und erweitert damit seine Reichweite auf Fire-TV-Geräte und -Tablets. Die im vergangenen Jahr gestartete Creator-Plattform umfasst mittlerweile über 500 Videos sowie ein Video-Podcast-Angebot über eine SiriusXM-Partnerschaft. Mit dem Deal positioniert sich Tubi als Brücke zwischen Creatorn und Hollywood und zielt zugleich auf Werbekunden, die nach neuen Streaming-Formaten suchen.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "‘Dept. Q’ Season 2 Adds Aisling Franciosi, Greg Wise and More to Cast as Production Starts in Scotland",
-          "link": "https://variety.com/2026/tv/global/dept-q-season-2-adds-cast-starts-production-1236790151/",
-          "summary": "Die zweite Staffel der Netflix-Krimiserie „Dept. Q\" hat in Edinburgh, Schottland, mit den Dreharbeiten begonnen, wobei Matthew Goode als DCI Carl Morck und sein Team zurückkehren. Zehn neue Darsteller stoßen zur Besetzung hinzu, darunter Aisling Franciosi, Greg Wise, Tony Curran und Amy Brenneman.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "Genre-Bending Stories, Trailblazing Co-Productions Head Annecy’s MIFA Feature Pitches",
-          "link": "https://variety.com/2026/film/global/mifa-feature-pitches-2026-annecy-1236786596/",
-          "summary": "Bei den MIFA Feature Pitches des Annecy Animation Festivals 2026 – einer renommierten Plattform, die zuvor Erfolgsprojekte wie „Flow“ und „Chicken for Linda!“ lancierte – wurden aus über 200 Einreichungen fünf herausragende Projekte ausgewählt. Die diesjährige Auswahl zeichnet sich durch genreübergreifende Erzählungen und internationale Koproduktionen aus, darunter Siwar Peraltas peruanisches Stop-Motion-Debüt „Pachapuriqkuna, Wanderers of Time“ sowie chinesisch-französische und indische Projekte.",
+          "title": "Crunchyroll Acquires ‘Kagurabachi’ Anime Series for April 2027 Release; Katsuyuki Konishi Joins Cast as Togo Shiba (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/news/kagurabachi-anime-crunchyroll-release-date-katsuyuki-konishi-1236790836/",
+          "summary": "Crunchyroll hat sich die internationalen Streaming-Rechte an der Anime-Adaption des erfolgreichen „Weekly Shonen Jump\"-Mangas „Kagurabachi\" gesichert, die ab April 2027 in allen Territorien außer Japan, Festlandchina, Nord- und Südkorea verfügbar sein wird. Die von Studio Cypic produzierte Serie unter der Regie von Tetsuya Takeuchi erweitert ihren japanischen Sprechercast um Katsuyuki Konishi als Togo Shiba, ergänzt durch Taihi Kimura und Tomokazu Seki in den Hauptrollen.",
           "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Comcast-Owned Sky Agrees on Terms to Buy ITV’s Broadcast and Streaming Unit (Report)",
-          "link": "https://variety.com/2026/tv/global/comcast-sky-itv-deal-terms-1236790155/",
-          "summary": "Der Comcast-Tochterkonzern Sky hat sich laut Reuters auf die Übernahme von ITVs Media- und Entertainment-Sparte (Broadcast- und Streaming-Bereich) im Wert von 1,6 Milliarden Pfund (2,1 Milliarden Dollar) geeinigt, wobei die Produktionseinheit ITV Studios nicht Teil des Deals ist. Parallel soll ITV Studios den „Great British Bake Off\"-Produzenten Love Productions für geschätzte 80 bis 120 Millionen Pfund erwerben. Nach Bekanntwerden des Berichts stiegen die ITV-Aktien um 2,9 %, was dem Konzern einen Marktwert von 3,1 Milliarden Pfund (4,08 Milliarden Dollar) bescherte.",
-          "score": 10
         }
       ]
     }
