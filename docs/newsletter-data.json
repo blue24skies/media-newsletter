@@ -1,119 +1,63 @@
 {
   "newsletters": [
     {
-      "date": "2026-06-26",
+      "date": "2026-06-27",
       "articles": [
         {
+          "source": "DWDL",
+          "title": "Nach Comeback: RTL kündigt weitere \"Lehrer\"-Staffel an",
+          "link": "https://www.dwdl.de/nachrichten/106981/nach_comeback_rtl_kuendigt_weitere_lehrerstaffel_an/",
+          "summary": "RTL verlängert nach erfolgreicher Neuauflage (bis zu 14,9 % Marktanteil bei den 14- bis 49-Jährigen) die Serie \"Der Lehrer\" mit Hendrik Duryn, produziert von MadeFor, um eine weitere Staffel, ohne bereits Details zu Umfang oder Inhalt zu nennen. Auch die RTL+-Mockumentary \"Shit Show – Welcome to Reality\" wird fortgesetzt. Darüber hinaus baut RTL sein Fiction-Portfolio mit weiteren Produktionen wie \"Dünentod\", \"Alpentod\", \"Behringer und die Toten\", einer \"Club der roten Bänder\"-Neuauflage sowie der Serien-Neuauflage von \"Die Flodders\" aus.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Adolfo Kolmerer setzt vier Fiction-Projekte mit Saxonia Media um",
+          "link": "https://www.dwdl.de/nachrichten/106970/adolfo_kolmerer_setzt_vier_fictionprojekte_mit_saxonia_media_um/",
+          "summary": "Regisseur Adolfo J. Kolmerer (\"Oderbruch\", \"Sløborn\") wird künftig als Showrunner für vier neue Fiction-Projekte der zu Bavaria Film und MDR Media gehörenden Produktionsfirma Saxonia Media tätig. Die Produktionen aus den Genres Crime & Mystery sowie Science-Fiction sollen für den nationalen und internationalen Markt konzipiert werden, wobei bislang keine konkreten Details zu den Stoffen bekannt sind. Mit der Kooperation intensiviert Saxonia Media seine Fiction-Aktivitäten.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Übernahme: Sky und ITV sollen sich einig sein",
+          "link": "https://www.dwdl.de/nachrichten/106971/uebernahme_sky_und_itv_sollen_sich_einig_sein/",
+          "summary": "Die Comcast-Tochter Sky steht laut einem Reuters-Bericht kurz vor der Übernahme des Streaming- und Sendergeschäfts von ITV für rund 1,6 Milliarden Pfund (knapp 1,9 Milliarden Euro), während der Produktionsarm ITV Studios eigenständig bleibt und im Zuge des Deals die Produktionsfirma Love Productions (\"The Great British Bake-Off\") von Sky übernimmt. Mit der Fusion würde Sky sein Pay-TV-Standbein um ein dominantes Free-TV- und Streaming-Geschäft ergänzen – analog zur RTL-Übernahme von Sky Deutschland, jedoch in deutlich größeren Dimensionen, was entsprechende kartellrechtliche Fragen aufwirft. Die offizielle Bestätigung",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "HBO Max startet neues \"Rick & Morty\"-Spinoff im Juli",
+          "link": "https://www.dwdl.de/nachrichten/106962/hbo_max_startet_neues_rick__mortyspinoff_im_juli/",
+          "summary": "HBO Max startet am 27. Juli das im \"Rick and Morty\"-Universum angesiedelte Spin-off \"President Curtis\", das zeitgleich mit dem Finale der neunten \"Rick & Morty\"-Staffel veröffentlicht wird. Die von Dan Harmon und James Siciliano als Executive Producer verantwortete Animationsserie begleitet Präsident Andre Curtis bei interdimensionalen und paranormalen Einsätzen und wird im Original von Keith David, Stephanie Beatriz und Jim Rash gesprochen.",
+          "score": 7
+        },
+        {
           "source": "kress",
-          "title": "Meta kostet dem ARD/ZDF-Jugendangebot Funk 20 Prozent Reichweite",
-          "link": "https://kress.de/news/beitrag/153619-meta-kostet-dem-ard-zdf-jugendangebot-funk-20-prozent-reichweite-programmchef-schild-sucht-alternativen-im-fediverse.html",
-          "summary": "Das ARD/ZDF-Jugendangebot Funk hat durch Metas Drosselung politischer Inhalte 20 Prozent Reichweite eingebüßt und testet seit vergangener Woche das Fediverse als gemeinwohlorientierte, dezentrale Alternative zu den großen Tech-Plattformen – mit bereits 3.000 Followern in der ersten Woche. Programmgeschäftsführer Philipp Schild verfolgt eine Strategie der breiten Distribution ohne Abhängigkeit von einzelnen Konzern-Algorithmen und betont die demokratiepolitische Relevanz, da 60 Prozent der 18- bis 24-Jährigen ihre Nachrichten vorwiegend über soziale Medien beziehen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "RTL-Tochter Sky Deutschland hat die Pay-Rechte RTL steigt mit Borussia Dortmund in die neue...",
-          "link": "https://meedia.de/news/beitrag/24490-rtl-steigt-mit-borussia-dortmund-in-die-neue-dfb-pokal-lizenzphase-ein.html",
-          "summary": "RTL steigt am 1. September mit der DFB-Pokal-Erstrundenpartie HEBC Hamburg gegen Borussia Dortmund in seinen bis 2030 laufenden Rechtevertrag ein und überträgt das Spiel live im Free-TV. Insgesamt sind vier Erstrunden-Partien frei empfangbar zu sehen – verteilt auf ZDF, ARD und RTL –, wobei Dortmund und Bayern wegen ihrer Supercup-Teilnahme erst Anfang September in den Wettbewerb einsteigen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "102 Minuten ab 22 Uhr im Ersten.",
-          "link": "https://meedia.de/news/beitrag/24485-18-5-millionen-fans-sehen-schwachen-dfb-auftritt-gegen-ecuador.html",
-          "summary": "Das dritte WM-Vorrundenspiel der DFB-Elf gegen Ecuador erreichte trotz der Niederlage starke 18,47 Millionen Zuschauer bei einem Marktanteil von 71,9 Prozent im Ersten und lag damit leicht über dem Spiel gegen die Elfenbeinküste, blieb aber hinter dem Auftaktspiel (23,43 Millionen) zurück. Als Gründe für die etwas geringere Reichweite gelten die fehlende sportliche Spannung durch den feststehenden Gruppensieg sowie die späte Anstoßzeit um 22 Uhr an einem Werktag. Für das kommende Sechzehntelfinale wird trotz noch späteren Anpfiffs ab 22.30 Uhr erneut mit über 20 Millionen Zuschauern gerechnet.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Wimbledon to stay free-to-air TV until at least 2033 after new deal with BBC",
-          "link": "https://www.theguardian.com/sport/2026/jun/25/wimbledon-free-to-air-2033-bbc-television-tennis",
-          "summary": "Die BBC und der All England Club haben eine Vertragsverlängerung um sechs Jahre unterzeichnet, wodurch Wimbledon bis mindestens 2033 im frei empfangbaren Fernsehen bleibt. Während andere Grand-Slam-Turniere zunehmend an Pay-TV-Anbieter wie TNT Sports, Sky und Amazon Prime verkauft wurden, setzt Wimbledon weiter auf die seit 1927 bestehende Partnerschaft mit der BBC, die unübertroffene Reichweite und Zuschauerzahlen bietet. Lediglich sekundäre Rechte an den Einzelfinals der Herren und Damen wurden bislang an TNT Sports veräußert.",
+          "title": "Media-Chefredakteur Markus Knall andere Schlüsse: Journalismus brauche nicht weniger, sondern mehr KI.",
+          "link": "https://kress.de/news/beitrag/153621-quot-niemand-ist-journalist-geworden-um-texte-zu-tippen-quot-ippen-media-chef-knall-fuer-mehr-ki-im-journalismus.html",
+          "summary": "Markus Knall, Chefredakteur von Ippen.Media (Netzwerk aus 70 Websites und 20 Lokalzeitungen), plädiert für deutlich mehr KI im Journalismus und lässt bereits komplette Texte ohne menschliche Kontrolle (\"Human in the Loop\") erstellen – etwa in der Wahlberichterstattung für 11.000 Gemeinden. Er sieht durch KI-gestützte Archivauswertung sogar eine Qualitätssteigerung und weniger weltanschaulichen Bias und definiert den Journalisten der Zukunft als \"KI-Komponisten\", der die KI gezielt mit Inhalten füttert. Auf menschliche Reporter will Knall dennoch nicht vollständig verzichten.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Genndy Tartakovksy’s ‘Heist Brothers’ Taken To Series At Adult Swim",
-          "link": "https://deadline.com/2026/06/heist-brothers-adult-swim-genndy-tartakovsky-annecy-1236965975/",
-          "summary": "Adult Swim hat die animierte Action-Comedy „Heist Brothers“ (zuvor „Heist Safari“) von „Dexter's Laboratory“-Schöpfer Genndy Tartakovsky offiziell als Serie bestellt – 10 Folgen à 15 Minuten befinden sich nun bei Cartoon Network Studios in Produktion. Die Serie erzählt die Geschichte dreier Froschbrüder, die eine Bank ausrauben, und reiht sich in eine kommende Slate ein, die unter anderem ein „Rick and Morty“-Spin-off sowie eine Adaption von Anthony Bourdains Graphic Novel „Get Jiro!“ umfasst.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Secuoya Studios & William Levy Ready Action Series & Romcom Through Renewed Development Deal",
-          "link": "https://deadline.com/2026/06/secuoya-studios-william-levy-action-series-romantic-comedy-1236968157/",
-          "summary": "Der kubanisch-amerikanische Schauspieler und Produzent William Levy hat seine Partnerschaft mit dem spanischen Produktionsriesen Secuoya Studios erneuert und entwickelt nun zwei neue Projekte, in denen er jeweils als Hauptdarsteller und Executive Producer fungiert. Geplant sind eine sechsteilige Thriller-Serie von den Autoren Carlos Portela und Roberto Serrano, die Action, Spannung und emotionales Drama verbindet, sowie ein Spielfilm, mit dem Levy ins Romantik-Komödien-Genre zurückkehrt. Die Vereinbarung baut auf früheren gemeinsamen Erfolgen wie der ViX-Serie „Under a Volcano“ auf und erfolgt kurz nach personellen Veränderungen bei Secuo",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "BBC Buys ‘Ghosts Australia’ To Sit Alongside Original British Sitcom",
-          "link": "https://deadline.com/2026/06/bbc-ghosts-australia-acquisition-1236968147/",
-          "summary": "Die BBC hat die achtteilige australische Adaption von „Ghosts\" erworben, die künftig neben der britischen Originalserie und der US-Version auf BBC iPlayer und BBC Three laufen wird. Die von BBC Studios Australia für Paramount+ produzierte Serie mit Tamala und Rowan Witt erweitert das wachsende internationale Franchise des erfolgreichen Sitcom-Formats. BBC Studios hält die Vertriebsrechte, die Produktion erfolgte mit Förderung durch Screenwest und das Western Australian Production Attraction Incentive.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Norma Percy On ‘Brexit: A Very British Civil War’: Interviewing Boris Johnson And The Politicians Who Lived It",
-          "link": "https://deadline.com/2026/06/norma-percy-on-brexit-a-very-british-civil-war-boris-johnson-1236965052/",
-          "summary": "Die Veteranen-Dokumentarfilmerin Norma Percy beleuchtet in der zweiteiligen BBC-Doku „Brexit: A Very British Civil War“ (produziert von Brook Lapping, Regie: Max Stern) zum zehnten Jahrestag des EU-Referendums die Frage, wie das Leave-Lager seinen Sieg errang. Die Produktion bietet außergewöhnlichen Zugang zu Schlüsselfiguren beider Seiten, darunter David Cameron, George Osborne, Michael Gove, Nigel Farage und Boris Johnson, der in einem fast dreistündigen Interview unter anderem aussagte, er habe sich nicht aus Karrierekalkül für den Brexit entschieden.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Labor Peace Reigns This Summer: Studios Praise “Trust” With Guilds As DGA “Overwhelmingly” Ratifies New Deal",
-          "link": "https://deadline.com/2026/06/dga-ratifies-contract-studio-streamers-1236968088/",
-          "summary": "Die DGA hat als letzte der drei großen Hollywood-Gewerkschaften einen ungewöhnlich langen Vierjahresvertrag mit der AMPTP \"überwältigend\" ratifiziert und damit den Tarifzyklus für Frühjahr 2026 abgeschlossen. Der Vertrag umfasst historische Beiträge zum Gesundheitsplan, Lohn- und Residuals-Erhöhungen, KI-Schutzmaßnahmen sowie Jobschutz für TV-Regisseure. Zudem enthält er eine unverbindliche Zusage der Studios, sich bei Trump-Administration und Kongress für ein nationales Film- und TV-Steueranreizprogramm einzusetzen – ein deutlicher Kontrast zu den schweren Streiks vor drei Jahren.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Warner Bros. Reanimating 60s Cult TV Show ‘Dark Shadows’ (Exclusive)",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/warner-bros-animation-dark-shadows-series-1236630726/",
-          "summary": "Warner Bros. Animation entwickelt eine Neuauflage der Gothic-Kultserie „Dark Shadows\" aus den 1960er-Jahren als Animationsserie für Erwachsene, die die Saga der Familie Collins fortsetzt. Showrunnerin und Executive Producer ist Lisa Holdsworth („Call the Midwife\", „Discovery of Witches\"), unterstützt unter anderem von Cathy und Tracy Curtis. Das auf dem Annecy-Festival angekündigte Projekt befindet sich derzeit in der Entwicklung; ein Veröffentlichungstermin wurde noch nicht genannt.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "David Boreanaz, Former ‘SEAL Team,’ ‘Bones’ and ‘Angel’ Star, to Keynote Italian Global Series (Exclusive)",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/david-boreanaz-italian-global-series-1236630674/",
-          "summary": "David Boreanaz, bekannt aus „Buffy\", „Angel\", „Bones\" und „SEAL Team\", wird am 9. Juli als Keynote-Sprecher in der „Conversation\"-Reihe der zweiten Italian Global Series in Riccione auftreten und auf seine dreißigjährige TV-Karriere zurückblicken. Parallel dazu spielt und produziert er die Pilotfolge des „Rockford Files\"-Reboots bei NBC, in der er den Privatdetektiv James Rockford – ursprünglich von James Garner verkörpert – übernimmt.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Directors Guild Ratifies Four-Year Deal With Studios",
-          "link": "https://www.hollywoodreporter.com/business/business-news/directors-guild-ratifies-four-year-contract-studios-1236631420/",
-          "summary": "Die Directors Guild of America (DGA) hat einen Vierjahresvertrag mit Studios und Streamern ratifiziert, der mit einer Erhöhung der Arbeitgeberbeiträge zum gewerkschaftlichen Gesundheitsplan um fast 25 Prozent die größte derartige Steigerung in der Geschichte der Gewerkschaft enthält. Zur Bekämpfung des Rückgangs von Beschäftigungsmöglichkeiten für die rund 19.500 Mitglieder verpflichteten sich die Unternehmen zudem, sich in Washington für ein bundesstaatliches Filmsteueranreizprogramm einzusetzen. Mit diesem Abschluss endet ein ruhiges Verhandlungsjahr zwischen Hollywoods Gewerkschaften und den führenden Medienkonzernen.",
+          "title": "“Curb In Costume”: How President Obama Persuaded Larry David To Return To TV With HBO’s ‘Life, Larry And The Pursuit Of Unhappiness’",
+          "link": "https://deadline.com/2026/06/life-larry-and-the-pursuit-of-unhappiness-larry-david-obama-1236967875/",
+          "summary": "HBO startet mit „Life, Larry and the Pursuit of Unhappiness“ eine neue Comedyserie, in der Larry David – produziert von Barack Obamas Higher Ground – in historischem Kostüm die Gründungsgeschichte der USA zum 250. Jubiläum satirisch nachzeichnet. Das von David und Obama getragene Projekt, intern „Curb in costume“ genannt, entstand auf Obamas persönliche Anfrage hin und versammelt Stars wie Jerry Seinfeld, Kathryn Hahn und Rita Wilson. Die Premiere lief am 26. Juni unter der Verantwortung von HBO-Comedychefin Amy Gravitt und Davids langjährigem Partner Jeff Schaffer.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "New ‘Monster of Florence’ Installment From Director Stefano Sollima Set at Netflix",
-          "link": "https://variety.com/2026/tv/global/monster-of-florence-new-season-stefano-sollima-netflix-1236791073/",
-          "summary": "Netflix hat eine neue dreiteilige Fortsetzung der italienischen Original-Serie „The Monster of Florence\" unter der Regie von Genre-Spezialist Stefano Sollima in Auftrag gegeben, deren Dreharbeiten bereits laufen. Die erste vierteilige Staffel, die 2025 beim Filmfestival von Venedig Premiere feierte, stieg nach dem Streaming-Start rasch an die Spitze der globalen nicht-englischsprachigen Netflix-Charts auf. Das neue Kapitel beleuchtet Italiens berühmtesten True-Crime-Fall – die Ermittlungen zu acht Doppelmorden über 17 Jahre – aus einer neuen Perspektive.",
-          "score": 9
-        },
-        {
-          "source": "Variety",
-          "title": "‘The Bear’ Ends: Where Does Carmy Go and What Happens to the Restaurant?",
-          "link": "https://variety.com/2026/tv/news/the-bear-ending-explained-1236791040/",
-          "summary": "Im Serienfinale von „The Bear\" (Hulu) steht die finanzielle Zukunft des Restaurants auf der Kippe, nachdem Geldgeber Uncle Jimmy seine Mittel erschöpft hat. Die Episode betont die zentrale Botschaft der Serie – dass nicht das gastronomische Renommee, sondern die zwischenmenschlichen Beziehungen und das „Familien\"-Gefühl im Mittelpunkt stehen. Im Gegensatz zur vorherigen Folge, die ausschließlich an einem Abend spielte, erstreckt sich das Finale über mehrere Tage nach dem katastrophalen Service.",
-          "score": 9
-        },
-        {
-          "source": "Variety",
-          "title": "DGA Ratifies Four-Year Deal Meant to Protect Members’ Jobs Amid Historic Downturn",
-          "link": "https://variety.com/2026/film/news/dga-ratify-contract-four-year-1236789691/",
-          "summary": "Die Directors Guild of America (DGA) hat einen Vierjahresvertrag mit der AMPTP überwältigend ratifiziert, der angesichts eines historischen Produktionsrückgangs vor allem Arbeitsplätze sichern soll. Kernpunkt ist eine Begrenzung für Nicht-Regisseure (etwa Schauspieler), die künftig maximal zwei TV-Episoden pro Staffel inszenieren dürfen, um Stellen für Berufsregisseure zu schützen. Zudem sicherte die DGA die Zusage zu, dass Führungskräfte großer Studios sich strategisch für eine bundesweite Steuervergünstigung zur Produktionsförderung einsetzen.",
+          "title": "‘The Bear’ Stars Jeremy Allen White and Ayo Edebiri Break Down Carmy’s ‘Ego Death’ and Passing the Torch to Sydney: ‘It’s a Heartbreaking Moment’",
+          "link": "https://variety.com/2026/tv/news/the-bear-jeremy-allen-white-ayo-edebiri-carmy-sydney-1236789524/",
+          "summary": "In der fünften Staffel von „The Bear\" (Hulu) durchläuft Carmy (Jeremy Allen White) in der Episode „Caramel\" einen entscheidenden Wendepunkt, als er erstmals ein Gericht fallen lässt – ein als „Ego Death\" beschriebener Moment, der seine charakterliche Entwicklung markiert. White und Co-Star Ayo Edebiri beleuchten in einem Variety-Interview, wie diese herzzerreißende Szene Carmy ermöglicht, Hilfe anzunehmen und symbolisch die Verantwortung an Sydney zu übergeben.",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "Crunchyroll Acquires ‘Kagurabachi’ Anime Series for April 2027 Release; Katsuyuki Konishi Joins Cast as Togo Shiba (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/news/kagurabachi-anime-crunchyroll-release-date-katsuyuki-konishi-1236790836/",
-          "summary": "Crunchyroll hat sich die internationalen Streaming-Rechte an der Anime-Adaption des erfolgreichen „Weekly Shonen Jump\"-Mangas „Kagurabachi\" gesichert, die ab April 2027 in allen Territorien außer Japan, Festlandchina, Nord- und Südkorea verfügbar sein wird. Die von Studio Cypic produzierte Serie unter der Regie von Tetsuya Takeuchi erweitert ihren japanischen Sprechercast um Katsuyuki Konishi als Togo Shiba, ergänzt durch Taihi Kimura und Tomokazu Seki in den Hauptrollen.",
-          "score": 7
+          "title": "Pablo Larraín’s Upcoming Netflix Feature ‘Once’ Gathers Top Cast and Crew (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/global/pablo-larrain-netflix-once-cast-and-crew-1236794441/",
+          "summary": "Pablo Larraín startet noch in diesem Jahr die Produktion seines neuen Netflix-Films „Once\", der in 11 verschachtelten Geschichten die 18 Stunden rund um den chilenischen Militärputsch vom 11. September 1973 und den Sturz von Präsident Salvador Allende erzählt. Für das Projekt – Larraíns nächste Zusammenarbeit mit Netflix nach „El Conde\" – konnte er hochkarätige Kräfte gewinnen, darunter Kameramann Rodrigo Prieto, Produktionsdesigner Guy Hendrix und erstmals den Oscar-prämierten VFX-Supervisor Andrew Jackson (Nolan-Stammkraft). Das Drehbuch verfasste Larraín gemeinsam mit Guillermo Calderón.",
+          "score": 8
         }
       ]
     }
