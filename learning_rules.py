@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 AUTOMATISCH GENERIERTE LERN-REGELN (CONTENT-BASIERT)
-Erstellt: 2026-06-21 22:14:49
-Anzahl Regeln: 16
+Erstellt: 2026-06-28 22:02:38
+Anzahl Regeln: 21
 
 WICHTIG: Nur Inhalte werden bewertet, NICHT Quellen!
 Keywords und Themen bekommen Boosts basierend auf Team-Feedback.
@@ -18,47 +18,36 @@ LEARNING_RULES = {
         # Wir bewerten Inhalte (Keywords/Themen), nicht Dienstleister
     },
     'keyword_boosts': {
+        'netflix': 2,
+        'neue': 1,
+        'season': 2,
+        'tiktok': 2,
+        'serie': 1,
         'media': 1,
-        'streaming': 2,
-        'roku': 1,
+        '2026': 2,
+        'beim': 2,
         'künftig': 2,
-        'social': 1,
-        'zattoo': 2,
-        'paramount': 1,
-        'netflix': 1,
-        'prime': 1,
-        'video': 2,
-        'social media': 2,
-        'prime video': 2,
-        'übernahme': 1,
-        'fusion': 1,
-        'kauf': 1,
-        'verkauf': 1,
-        'investment': 1,
-        'deal': 1,
-        'beteiligung': 1,
-        'chef': 1,
-        'ceo': 1,
-        'geschäftsführer': 1,
-        'leitung': 1,
-        'wechsel': 1,
-        'ernennung': 1,
-        'personalien': 1,
-        'promi': 1,
-        'celebrity': 1,
-        'star': 1,
-        'skandal': 1,
-        'klatsch': 1,
-        'privatleben': 1,
-        'amazon': 1,
-        'disney': 1,
-        'apple tv': 1,
-        'max': 1,
-        'hbo': 1,
+        'berlin': 2,
+        'steigt': 2,
+        'meta': 2,
+        'deutschland': 2,
+        'annecy': -1,
+        'disney': -1,
+        'studios': -1,
+        'star': -1,
+        'reach': -1,
+        'their': -1,
+        'ratifies': -1,
+        'format': 1,
+        'show': 1,
+        'sendung': 1,
+        'programm': 1,
+        'quiz': 1,
+        'game': 1,
     }
 }
 
 # Statistik
 ANZAHL_QUELLEN = 0  # Quellen werden nicht mehr bewertet
-ANZAHL_KEYWORDS = 37
-ANZAHL_REGELN_GESAMT = 16
+ANZAHL_KEYWORDS = 26
+ANZAHL_REGELN_GESAMT = 21
