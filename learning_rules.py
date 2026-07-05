@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 AUTOMATISCH GENERIERTE LERN-REGELN (CONTENT-BASIERT)
-Erstellt: 2026-06-28 22:02:38
-Anzahl Regeln: 21
+Erstellt: 2026-07-05 22:02:23
+Anzahl Regeln: 23
 
 WICHTIG: Nur Inhalte werden bewertet, NICHT Quellen!
 Keywords und Themen bekommen Boosts basierend auf Team-Feedback.
@@ -18,36 +18,38 @@ LEARNING_RULES = {
         # Wir bewerten Inhalte (Keywords/Themen), nicht Dienstleister
     },
     'keyword_boosts': {
-        'netflix': 2,
-        'neue': 1,
-        'season': 2,
-        'tiktok': 2,
-        'serie': 1,
-        'media': 1,
-        '2026': 2,
-        'beim': 2,
-        'künftig': 2,
-        'berlin': 2,
-        'steigt': 2,
-        'meta': 2,
-        'deutschland': 2,
-        'annecy': -1,
-        'disney': -1,
-        'studios': -1,
-        'star': -1,
-        'reach': -1,
-        'their': -1,
-        'ratifies': -1,
-        'format': 1,
-        'show': 1,
-        'sendung': 1,
-        'programm': 1,
-        'quiz': 1,
-        'game': 1,
+        'screenforce': 2,
+        'festival': 2,
+        'comcast': 2,
+        'nbcuniversal': 2,
+        'video': 1,
+        'deutschland': 1,
+        'plant': 2,
+        'staffel': 2,
+        'lehrer': 2,
+        'neuen': 2,
+        'streaming': 2,
+        'into': 2,
+        'split': 2,
+        'joyn': 1,
+        'setzt': 2,
+        'fußball': 2,
+        'juni': 2,
+        'marktanteile': 2,
+        'series': -1,
+        'sets': -1,
+        'screenforce festival': 2,
+        'comcast split': 2,
+        'quote': 1,
+        'marktanteil': 1,
+        'zuschauer': 1,
+        'reichweite': 1,
+        'rating': 1,
+        'millionen': 1,
     }
 }
 
 # Statistik
 ANZAHL_QUELLEN = 0  # Quellen werden nicht mehr bewertet
-ANZAHL_KEYWORDS = 26
-ANZAHL_REGELN_GESAMT = 21
+ANZAHL_KEYWORDS = 28
+ANZAHL_REGELN_GESAMT = 23
