@@ -1,63 +1,154 @@
 {
   "newsletters": [
     {
-      "date": "2026-07-04",
+      "date": "2026-07-06",
       "articles": [
         {
           "source": "DWDL",
-          "title": "\"Sendungen zu streichen ist kein nachhaltiger Reformweg\"",
-          "link": "https://www.dwdl.de/nachrichten/107067/sendungen_zu_streichen_ist_kein_nachhaltiger_reformweg/",
-          "summary": "Mit dem Regierungswechsel in Rheinland-Pfalz übernimmt Torsten Welling (CDU) den Vorsitz der Rundfunkkommission der Länder und setzt neue medienpolitische Akzente: Statt Programmstreichungen fordert er von den öffentlich-rechtlichen Anstalten mehr Eigeninitiative bei Reformen durch selbstkritisches Benchmarking und Portfoliomanagement, bei dem künftig jede Doppelung gerechtfertigt werden muss. Zudem kündigt Welling an, über den neuen Digitale-Medien-Staatsvertrag die Regulierungsdichte für klassische Medien zu verringern und das Gespräch mit der Bundesregierung zur bislang ausgebliebenen Berücksichtigung von Medien im Wettbewerbsrecht zu suchen",
+          "title": "\"The Masked Singer\" mit neuem Modus - und nicht mehr live",
+          "link": "https://www.dwdl.de/nachrichten/107077/the_masked_singer_mit_neuem_modus__und_nicht_mehr_live/",
+          "summary": "ProSieben stellt \"The Masked Singer\" ab der 13. Staffel (Herbst 2026) von Live-Ausstrahlung auf eine vorab en bloc aufgezeichnete Produktion um, was Kosten senkt und laut EVP Hannes Hiller die Verpflichtung prominenterer Kandidaten ermöglicht. Zudem wird das Format mit einem neuen Vorrunden-Modus und der Rekordzahl von 16 teilnehmenden Promis auf mehr Tempo und frühere Demaskierungen getrimmt – eine Reaktion auf die zuletzt gesunkenen Marktanteile, die 2024 in den einstelligen Bereich abgerutscht waren.",
           "score": 9
         },
         {
           "source": "DWDL",
-          "title": "Sturm führt Technologie-Bereich von RTL und Sky zusammen",
-          "link": "https://www.dwdl.de/nachrichten/107060/sturm_fuehrt_technologiebereich_von_rtl_und_sky_zusammen/",
-          "summary": "Nach Abschluss der Sky-Übernahme führt RTL Deutschland die Technologie-Organisationen beider Unternehmen unter dem bisherigen Sky-CTO Patrick Sturm zusammen, der künftig als Executive Vice President Technology an COO Andreas Fischer berichtet. Sturm verantwortet die Integration sämtlicher Technologieplattformen von Infrastruktur über Playout, Streaming und CRM bis hin zu Data und AI Enablement. Ziel ist es, technologisch mit den weltweit führenden Streaming-Plattformen auf Augenhöhe zu agieren.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Nach viel Kritik: WDR rückt vom Namen \"1Live Street\" ab",
-          "link": "https://www.dwdl.de/nachrichten/107058/nach_viel_kritik_wdr_rueckt_vom_namen_1live_street_ab/",
-          "summary": "Der WDR nimmt nach massiver Kritik von der geplanten Umbenennung des Radiosenders Cosmo in \"1Live Street\" Abstand, da der Name als klischeehafte Reduzierung migrantischer Lebensrealitäten wahrgenommen wurde. Der Sender räumt selbstkritisch ein, die Verknüpfung des Begriffs \"Street\" mit Marginalisierung und Ausgrenzung nicht ausreichend bedacht zu haben. Ein neuer Name soll voraussichtlich im Herbst feststehen, wobei künftig auch die Mitarbeitenden in den Findungsprozess einbezogen werden.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Promis, Pyrotechnik und Trailer: Das war das Screenforce Festival 2026",
-          "link": "https://www.horizont.net/medien/nachrichten/promis-pyrotechnik-und-trailer-das-war-das-screenforce-festival-2026-234959?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Das Screenforce Festival 2026 feierte nach einjähriger Pause in Düsseldorf mit rund 2000 Besuchern ein fulminantes Comeback als größtes Live-Event der klassischen TV-Gattung. Trotz der gedämpften Stimmung in Deutschland setzte die Branche mit Promis, Pyrotechnik und Trailer-Präsentationen auf Optimismus und Sommerfeeling.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Langfristige Partnerschaft: Handball-Bundesliga und Dyn verlängern den TV-Vertrag",
-          "link": "https://www.horizont.net/medien/nachrichten/langfristige-partnerschaft-handball-bundesliga-und-dyn-verlaengern-den-tv-vertrag-234929?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die Handball-Bundesliga und der Streamingdienst Dyn haben ihren TV-Vertrag vorzeitig und ohne Ausschreibung bis mindestens zur Saison 2031/32 verlängert. Der bestehende, noch drei Jahre laufende Kontrakt wird damit überraschend früh fortgeführt und umfasst unter anderem die Übertragungsrechte der 1. Liga.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Ein Tag für die Kraft des Bewegtbilds aus Deutschland Alle Screenings, Stars, Programm-News: So war...",
-          "link": "https://meedia.de/news/beitrag/24542-alle-screenings-stars-programm-news-so-war-das-screenforce-festival-2026-in-duesseldorf.html",
-          "summary": "Beim Screenforce Festival 2026 in Düsseldorf präsentierten sechs große deutsche TV- und Streaming-Vermarkter – darunter Ad Alliance, SevenOne Media, ARD Media, das neue El Cartel Brothers, Visoon und Disney – vor rund 2.000 Gästen aus Media-Agenturen und Werbewirtschaft ihre Programm-Neuheiten. Angesichts wirtschaftlicher Verunsicherung und schwindender TV-Reichweiten fielen die Innovationen geringer aus als in früheren Jahren, dennoch warben die Vermarkter gezielt für Bewegtbild aus Deutschland als Alternative zu den US-Giganten. Bemerkenswert war unter anderem der erste gemeinsame Auftritt von RTL nach der Sky-Übernahme.",
+          "title": "Mega-Merger in Großbritannien: Sky kündigt ITV-Übernahme an",
+          "link": "https://www.dwdl.de/nachrichten/107075/megamerger_in_grossbritannien_sky_kuendigt_itvuebernahme_an/",
+          "summary": "Die Comcast-Tochter Sky übernimmt in Großbritannien ITV Media & Entertainment bei einer Bewertung von bis zu 1,6 Milliarden Pfund (rund 1,87 Milliarden Euro), wobei das Produktionsgeschäft ITV Studios ausgenommen bleibt und durch den Zukauf von Sky-Tochter Love Productions (\"The Great British Bake-Off\") sogar wächst. Durch die Fusion wird Sky auf einen Schlag zum führenden Free-TV-Anbieter und stärkt gleichzeitig sein Streaming-Geschäft – strategisch vergleichbar mit der Sky-Übernahme durch RTL Deutschland. Ergänzend ist ein Produktionsdeal über 2,1 Milliarden Pfund mit ITV Studios für die kommenden fünf",
           "score": 10
         },
         {
-          "source": "meedia",
-          "title": "1 und Joyn FC Bayern eröffnet die Saison live im Free-TV Nach der WM ist vor der Bundesliga.",
-          "link": "https://meedia.de/news/beitrag/24536-fc-bayern-eroeffnet-die-saison-live-im-free-tv.html",
-          "summary": "Sat.1 und Joyn übertragen zum Start der Saison 2026/2027 drei Fußball-Highlights live im Free-TV: das Eröffnungsspiel der 2. Bundesliga zwischen VfL Bochum und Hertha BSC (7. August), den Franz Beckenbauer Supercup zwischen Borussia Dortmund und FC Bayern München (22. August) sowie das Bundesliga-Eröffnungsspiel FC Bayern gegen VfB Stuttgart (28. August). Das Auftaktspiel der Bundesliga bildet dabei eine Neuauflage des DFB-Pokalfinales.",
+          "source": "DWDL",
+          "title": "News, Screenings, Interviews: Alles zum Screenforce Festival",
+          "link": "https://www.dwdl.de/schwerpunkt/screenforce26/",
+          "summary": "Das zweite Screenforce Festival in Düsseldorf warb mit hoher Energie, jedoch wenigen echten Innovationen für das Medium TV und positionierte sich dabei kritisch gegenüber Werbeinvestitionen in soziale Netzwerke. Als Höhepunkte hervorgehoben wurden unter anderem ein überzeugender Auftritt von RTL, überraschende Impulse der ARD sowie ein starker Beitrag von Sebastian Pufpaff.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Milliardendeal: Britischer Sender ITV verkauft Mediensparte an Sky",
+          "link": "https://www.horizont.net/medien/nachrichten/milliardendeal-britischer-sender-itv-verkauft-mediensparte-an-sky-234974?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der britische Pay-TV-Anbieter Sky übernimmt die Medien- und Unterhaltungssparte des Senders ITV für 1,6 Milliarden Pfund und verpflichtet sich zusätzlich zu einem fünfjährigen Liefervertrag im Wert von 2,1 Milliarden Pfund. Ziel des Deals ist der Aufbau eines eigenen britischen Streaming-Angebots als Konkurrenz zu Netflix und anderen Anbietern. Die Vereinbarung steht noch unter dem Vorbehalt der Zustimmung durch Aktionäre und Aufsichtsbehörden.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Zum 100. Jubiläum: Miss Germany stellt Wettbewerb neu auf und baut TV-Präsenz aus",
+          "link": "https://www.horizont.net/medien/nachrichten/zum-100.-jubilaeum-miss-germany-stellt-wettbewerb-neu-auf-und-baut-tv-praesenz-aus-234964?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Zum 100-jährigen Jubiläum baut Miss Germany die Partnerschaft mit ProSieben aus: Die zweite Staffel von \"Road to Miss Germany\" wird 2027 erstmals auch auf dem Hauptsender ausgestrahlt. Zudem stellt die Marke ihren Wettbewerb inhaltlich neu auf und stärkt so ihre TV-Präsenz.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Kommentar zum Bewegtbild-Event: Screenforce Festival 2026: Nach dem Applaus beginnt die spannendste Show",
+          "link": "https://www.horizont.net/medien/kommentare/kommentar-zum-bewegtbild-event-screenforce-festival-2026-nach-dem-applaus-beginnt-die-spannendste-show-234965?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der Kommentar würdigt das Screenforce Festival 2026 als eindrucksvolle Inszenierung der Stärken von TV und Bewegtbild. Entscheidend für den Erfolg der Gattung sei jedoch nicht die Bühnenpräsentation, sondern die tatsächliche Umsetzung in den Mediaplänen der Werbetreibenden.",
           "score": 8
         },
         {
-          "source": "meedia",
-          "title": "News vom Screenforce Festival DFB-Neustart, \"Gladiators\", \"Goethe & Schiller\": die...",
-          "link": "https://meedia.de/news/beitrag/24546-dfb-neustart-quot-gladiators-quot-quot-goethe-amp-schiller-quot-die-programm-neuheiten-von-rtl-sky-fuer-die-kommende-saison.html",
-          "summary": "Nach der Sky-Übernahme präsentierte RTL beim Screenforce Festival sein Programm für die Saison 2026/27 mit einem deutlichen Fokus auf ausgeweitete Sportrechte, darunter das erste DFB-Länderspiel der Post-Nagelsmann-Ära (Ende September gegen die Niederlande) sowie sämtliche NFL-Rechte mit bis zu neun Spielen pro Woche über RTL, RTL+ und den neuen Kanal Sky Sport NFL. Als weitere Highlights setzt RTL auf die Actionshow \"Gladiators\", eine neue \"Verräter\"-Staffel und die Comedy-Serie \"Goethe & Schiller\", wobei die senderübergreifende Orchestrierung der Sport- und Programmmarken die gestärkte Marktposition des Konzerns unterst",
+          "source": "Horizont Medien",
+          "title": "Screenforce Festival: Was Sport 1 rund um den ikonischen Doppelpass zu bieten hat",
+          "link": "https://www.horizont.net/medien/nachrichten/screenforce-festival-was-sport-1-rund-um-den-ikonischen-doppelpass-zu-bieten-hat-234950?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Sport 1 präsentierte sich beim Screenforce Festival ohne eigenen Stand, betonte aber seine Sportkompetenz in einer Phase strategischer Neuausrichtung. Während der Sender sein Programm zunehmend um Entertainment-Formate erweitert und seine Geschäftsstruktur anpasst, bleiben Live-Sport und etablierte Sportmarken wie der Doppelpass zentrale Säulen der Positionierung.",
           "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Screenforce Festival: So will Visoon mit den Inhalten von Welt und Paramount punkten",
+          "link": "https://www.horizont.net/medien/nachrichten/screenforce-festival-so-will-visoon-mit-den-inhalten-von-welt-und-paramount-punkten-234926?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Visoon Video Impact hat sein Vermarktungsportfolio in den vergangenen Jahren kontinuierlich erweitert und mit der Vermarktung von Paramount+ den Sprung aus der Nische geschafft. Beim Screenforce Festival stand ein besonderer Fokus auf den Inhalten des US-Streamingdienstes sowie des Senders Welt.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Süßwarenmarkt Thomas Büchel ist neuer Marketing Director bei Fisherman’s Friend Fisherman’s Friend hat mit Thomas Büchel seit 1.",
+          "link": "https://meedia.de/news/beitrag/24557-thomas-buechel-ist-neuer-marketing-director-bei-fisherman-s-friend.html",
+          "summary": "Thomas Büchel ist seit dem 1. Juli neuer Marketing Director bei Fisherman's Friend (vertrieben von CFP Brands) und wechselt nach 16 Jahren von Kenvue bzw. der Vorgängerfirma Johnson & Johnson. Er folgt auf Dirk Hohnberg, der innerhalb der Fisherman's-Friend-Welt zum Head of Global Marketing bei der Vertriebsgesellschaft Impex Management aufsteigt und der Marke somit erhalten bleibt.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Nach der Übernahme von Sky Lisa Steiner wird Vize-Kommunikationschefin von RTL Deutschland Die...",
+          "link": "https://meedia.de/news/beitrag/24552-lisa-steiner-wird-vize-kommunikationschefin-von-rtl-deutschland.html",
+          "summary": "Im Zuge der Sky-Übernahme durch RTL Deutschland (zum 1. Juni) wird Lisa Steiner, zuvor Kommunikationschefin von Sky, stellvertretende Leiterin Kommunikation und Senior Vice President mit Fokus auf Transformations-, Integrations- und Leadership-Kommunikation. Sie berichtet an Eva Messerschmidt, die die Gesamtkommunikation des zusammengeführten Unternehmens verantwortet. In der ebenfalls gebündelten Technikorganisation übernimmt der bisherige Sky-CTO Patrick Sturm als Executive Vice President Technology die Führung.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Video Daily: TV-Quoten & Streaming-Charts Prime-Time-Sieg: RTL und ProSieben nutzen Free-TV-WM-Pause Der Sonntag war für Nicht-Magenta-TV-Kundinnen und -Kunden komplett WM-frei, auch das Prime-Time-Spiel zwischen Brasilien und Norwegen lief nur beim Angebot der Telekom. Folge: Andere Programme kämpften um den Sieg im Abendprogramm. Die Nase vorn hatten im jungen Publikum nach längerer Zeit mal wieder RTL und ProSieben",
+          "link": "https://meedia.de/news/beitrag/24551-prime-time-sieg-rtl-und-prosieben-nutzen-free-tv-wm-pause.html",
+          "summary": "Da das WM-Spiel Brasilien gegen Norwegen am Sonntag exklusiv bei Magenta TV der Telekom lief und somit im Free-TV entfiel, konnten RTL und ProSieben mit den Spielfilmen „Das Vermächtnis des Geheimen Buches“ und „The Tomorrow War“ die Prime Time beim jungen Publikum für sich entscheiden. Im Gesamtpublikum dominierte hingegen das Erste mit dem „Polizeiruf 110“ (4,40 Mio. Zuschauer, 21,0 Prozent Marktanteil), während die 20-Uhr-„Tagesschau“ mit 5,42 Millionen Zuschauern (26,2 Prozent) den Tagessieg holte.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Sky owner announces £1.6bn takeover of ITV’s broadcasting arm",
+          "link": "https://www.theguardian.com/business/2026/jul/06/sky-owner-announces-16bn-takeover-of-itvs-broadcasting-arm",
+          "summary": "Der Comcast-Konzern (Sky) übernimmt ITVs Sende- und Streaming-Sparte inklusive der Free-to-Air-Kanäle und der Plattform ITVX für 1,6 Mrd. £, um den größten kommerziellen Rundfunkanbieter Großbritanniens zu schaffen und gegen US-Streamingdienste wie Netflix und Amazon Prime zu konkurrieren. Die Produktionssparte ITV Studios bleibt als eigenständiges, an der Londoner Börse notiertes Unternehmen bestehen, wobei sich Sky zu Investitionen von mindestens 2,1 Mrd. £ zwischen 2028 und 2032 verpflichtet. Der Deal, der das Ende von 70 Jahren ITV als unabhängigem Public-Service-Broadcaster bedeuten würde",
+          "score": 10
+        },
+        {
+          "source": "Deadline",
+          "title": "ITV Studios Will Not Need A “Transformational Acquisition” After Splitting With ITV Network, Claim Bosses",
+          "link": "https://deadline.com/2026/07/itv-studios-future-after-sky-takeover-1236974580/",
+          "summary": "ITV Studios wird nach dem 2,1-Milliarden-Dollar-Verkauf des ITV-Netzwerks und Streaming-Geschäfts an Comcasts Sky erstmals als eigenständiges Produktionsstudio agieren. Die ITV-Führung um CEO Carolyn McCall betont, dass das Studio – als einer der größten unabhängigen Produzenten weltweit mit über 45% Wachstum in acht Jahren und mehr als der Hälfte des Umsatzes außerhalb Großbritanniens – bereits ausreichend Größe besitzt und keine „transformative Übernahme“ benötigt. Man setze stattdessen weiter auf die bewährte Strategie kleinerer Bolt-on-Akquisitionen, trotz einer Klausel, die 950 Millionen Pfund an die Aktionäre zurückführ",
+          "score": 10
+        },
+        {
+          "source": "Deadline",
+          "title": "Sky Chief Dana Strong Says ITV Will Remain “Deeply British” As Hollywood Tightens Grip On UK Media",
+          "link": "https://deadline.com/2026/07/sky-itv-dana-strong-deeply-british-1236974575/",
+          "summary": "Sky-CEO Dana Strong betont nach der 1,6-Milliarden-Pfund-Übernahme (2,1 Mrd. Dollar) der TV- und Streaming-Sparte von ITV, dass beide Marken „zutiefst britisch“ bleiben und einen britischen „Streaming-Champion“ formen sollen. Der Deal bringt effektiv zwei britische Public-Service-Broadcaster unter Hollywood-Kontrolle, da Sky künftig zum NBCUniversal-Imperium gehört (nach der Comcast-Abspaltung), während Paramount bereits Channel 5 besitzt und WBD-Assets im UK-Markt übernimmt. ITV-CEO Carolyn McCall verteidigt die als „historisch“ bezeichnete Transaktion als Investition in britische Inhalte und Stärkung des P",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Netflix Sets Out Why It’s Challenging French Funding Obligations & Wants A Cap On Investment Rules; Prime Video Also Lodges Appeal",
+          "link": "https://deadline.com/2026/07/netflix-challenges-french-funding-rules-calls-spending-cap-1236974549/",
+          "summary": "Netflix hat in einem Le-Monde-Gastbeitrag begründet, warum es gemeinsam mit anderen Streamingdiensten vor Frankreichs Staatsrat (Conseil d'État) gegen neue \"Diversitäts\"-Regeln klagt, die höhere Investitionen in Animation, Dokumentationen und Live-Aufführungen vorschreiben und ausschließlich Streamer – nicht klassische Sender – betreffen. Der Anbieter fordert eine Obergrenze für Investitionsverpflichtungen und kritisiert, dass die Regeln die genaue Genre-Zusammensetzung des Programmangebots gesetzlich festschreiben würden. Auch Prime Video und laut Berichten Disney+ haben Beschwerde eingelegt, wobei Prime auf die bereits EU-weit höchsten Verpfl",
+          "score": 9
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "ITV Braces for “Thorough and Comprehensive” Antitrust Review of Sky Takeover",
+          "link": "https://www.hollywoodreporter.com/business/business-news/itv-sky-antitrust-review-merger-comcast-deal-uk-us-news-1236638594/",
+          "summary": "ITV rechnet mit einer intensiven kartellrechtlichen Prüfung der geplanten Übernahme seiner Netzwerk- und Streaming-Sparte durch das Comcast-eigene Sky für 2,13 Milliarden Dollar, wobei CEO Carolyn McCall von einer 12- bis 18-monatigen Genehmigungsdauer inklusive Phase-2-Prüfung ausgeht. Der Zusammenschluss von Großbritanniens führendem Free-TV-Sender mit dem größten Pay-TV-Anbieter des Landes weckt Erinnerungen an frühere gescheiterte Fusionsversuche, die von Regulierern wegen Bedenken um Medienpluralität und Wettbewerb blockiert wurden. ITV argumentiert diesmal, der Markt habe sich durch das Aufkommen glob",
+          "score": 10
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "How the Sky-ITV Deal Will Transform British Broadcasting",
+          "link": "https://www.hollywoodreporter.com/business/business-news/sky-itv-deal-merger-comcast-us-uk-broadcasting-studios-1236638546/",
+          "summary": "Der Comcast-Tochterkonzern Sky übernimmt für 1,6 Milliarden Pfund (2,13 Milliarden Dollar) die Sender- und Streaming-Sparte von ITV, einschließlich der ITV-Kanäle und der Plattform ITVX, während ITV Studios als Produktionsarm eigenständig bleibt. Ziel ist die Schaffung eines UK-fokussierten „nationalen Streaming-Champions“, der Skys Pay-TV-Marktführerschaft mit ITVs führender Free-to-Air-Position sowie NBCs globaler Peacock-Plattform kombiniert. Der Abschluss des Deals wird nach Angaben von Sky-CEO Dana Strong etwa ein Jahr in Anspruch nehmen und bedarf noch der behördlichen Genehmigung.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Comcast’s Sky to Acquire ITV’s Networks and Streaming Businesses in $2.13 Billion Deal",
+          "link": "https://www.hollywoodreporter.com/business/business-news/sky-buy-itv-networks-streaming-business-comcast-1236521331/",
+          "summary": "Comcasts Tochter Sky übernimmt für 1,6 Milliarden Pfund (2,13 Milliarden Dollar) die Netzwerk- und Streaming-Sparte (inklusive ITVX) des britischen Senders ITV, während die Produktionseinheit ITV Studios als eigenständiges Unternehmen ausgegliedert wird. Im Rahmen des Deals stärkt ITV Studios sein IP-Portfolio durch die Übernahme von Love Productions, dem Produzenten von „The Great British Bake Off\". Der Schritt festigt Skys Position im britischen und europäischen Pay-TV- sowie Streaming-Markt und ergänzt die bestehenden Aktivitäten von Sky Studios.",
+          "score": 10
+        },
+        {
+          "source": "Variety",
+          "title": "Colombia’s Bogota Audiovisual Market Welcomes Netflix, France, Discusses the Impact of ‘One Hundred Years of Solitude’",
+          "link": "https://variety.com/2026/film/global/colombia-bogota-audiovisual-market-welcomes-france-netflix-1236801796/",
+          "summary": "Der 17. Bogotá Audiovisual Market (BAM, 6.–10. Juli) öffnet sich in diesem Jahr durch eine Allianz mit Netflix erstmals für Nachwuchsproduzenten aus Zentralamerika, der Karibik und den Andenländern – die Hälfte der 40 Teilnehmer stammt aus anderen lateinamerikanischen Ländern. Zudem startet BAM eine Premieren-Kooperation mit Unifrance und der französischen Botschaft, die zwölf führende französische Verleihagenturen (u.a. Le Pacte, MK2 Films, Celluloid Dreams) mit rund 30 lateinamerikanischen Distributoren zusammenbringt, um die Zirkulation französischer und lateinamerikanischer Filme in der Region auszubauen. Mit rund 2.300 Ak",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "ITV Boss ‘Hopeful’ Sky Acquisition Will Clear Regulators: ‘The Market Has Changed So Fundamentally’",
+          "link": "https://variety.com/2026/biz/global/itv-sky-takeover-carolyn-mccall-regulators-1236802239/",
+          "summary": "NBCUniversals Tochter Sky übernimmt den 70 Jahre alten britischen Public-Service-Sender ITV, wobei CEO Carolyn McCall Sky als bevorzugten Partner bezeichnet und sich zuversichtlich zeigt, dass die Regulierungsbehörden angesichts fundamental veränderter Marktbedingungen zustimmen werden. Der Deal umfasst eine erfolgsabhängige Zusatzzahlung von bis zu 200 Mio. £, die nur bei Überschreiten von 1,7 Mrd. £ Werbeumsatz für 2027 fällig wird, während als Bewertungsmaßstab für das Produktionsgeschäft die Banijay-All3Media-Fusion (10-faches EBITDA) sowie ITV Studios' EBITDA von 330 Mio. £ (2025)",
+          "score": 10
+        },
+        {
+          "source": "Variety",
+          "title": "Netflix France Chief Pauline Dauvin Slams Expanded Investment Obligations: ‘These New Rules Go Too Far’",
+          "link": "https://variety.com/2026/film/global/netflix-france-chief-pauline-dauvin-investment-obligations-1236802286/",
+          "summary": "Netflix France-Content-Chefin Pauline Dauvin kritisiert in einem Le-Monde-Meinungsbeitrag die erweiterten französischen Investitionsauflagen für Streamingdienste und legt Berufung ein, da diese die kulturelle Vielfalt zu einer starren „Checkliste\" degradierten und die redaktionelle Freiheit bedrohten. Konkret verpflichten die neuen Regeln Streamer wie Netflix, Prime Video und Disney+ dazu, ihre Investitionen in den Genres Animation, Dokumentationen und Live-Performance zu verdoppeln – zusätzlich zur bestehenden Auflage, 20 % der lokalen Umsätze in französische und europäische Produktionen zu investieren.",
+          "score": 8
         }
       ]
     }
