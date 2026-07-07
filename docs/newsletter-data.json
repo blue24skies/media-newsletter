@@ -1,154 +1,98 @@
 {
   "newsletters": [
     {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "articles": [
         {
-          "source": "DWDL",
-          "title": "\"The Masked Singer\" mit neuem Modus - und nicht mehr live",
-          "link": "https://www.dwdl.de/nachrichten/107077/the_masked_singer_mit_neuem_modus__und_nicht_mehr_live/",
-          "summary": "ProSieben stellt \"The Masked Singer\" ab der 13. Staffel (Herbst 2026) von Live-Ausstrahlung auf eine vorab en bloc aufgezeichnete Produktion um, was Kosten senkt und laut EVP Hannes Hiller die Verpflichtung prominenterer Kandidaten ermöglicht. Zudem wird das Format mit einem neuen Vorrunden-Modus und der Rekordzahl von 16 teilnehmenden Promis auf mehr Tempo und frühere Demaskierungen getrimmt – eine Reaktion auf die zuletzt gesunkenen Marktanteile, die 2024 in den einstelligen Bereich abgerutscht waren.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Mega-Merger in Großbritannien: Sky kündigt ITV-Übernahme an",
-          "link": "https://www.dwdl.de/nachrichten/107075/megamerger_in_grossbritannien_sky_kuendigt_itvuebernahme_an/",
-          "summary": "Die Comcast-Tochter Sky übernimmt in Großbritannien ITV Media & Entertainment bei einer Bewertung von bis zu 1,6 Milliarden Pfund (rund 1,87 Milliarden Euro), wobei das Produktionsgeschäft ITV Studios ausgenommen bleibt und durch den Zukauf von Sky-Tochter Love Productions (\"The Great British Bake-Off\") sogar wächst. Durch die Fusion wird Sky auf einen Schlag zum führenden Free-TV-Anbieter und stärkt gleichzeitig sein Streaming-Geschäft – strategisch vergleichbar mit der Sky-Übernahme durch RTL Deutschland. Ergänzend ist ein Produktionsdeal über 2,1 Milliarden Pfund mit ITV Studios für die kommenden fünf",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "News, Screenings, Interviews: Alles zum Screenforce Festival",
-          "link": "https://www.dwdl.de/schwerpunkt/screenforce26/",
-          "summary": "Das zweite Screenforce Festival in Düsseldorf warb mit hoher Energie, jedoch wenigen echten Innovationen für das Medium TV und positionierte sich dabei kritisch gegenüber Werbeinvestitionen in soziale Netzwerke. Als Höhepunkte hervorgehoben wurden unter anderem ein überzeugender Auftritt von RTL, überraschende Impulse der ARD sowie ein starker Beitrag von Sebastian Pufpaff.",
-          "score": 7
-        },
-        {
           "source": "Horizont Medien",
-          "title": "Milliardendeal: Britischer Sender ITV verkauft Mediensparte an Sky",
-          "link": "https://www.horizont.net/medien/nachrichten/milliardendeal-britischer-sender-itv-verkauft-mediensparte-an-sky-234974?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der britische Pay-TV-Anbieter Sky übernimmt die Medien- und Unterhaltungssparte des Senders ITV für 1,6 Milliarden Pfund und verpflichtet sich zusätzlich zu einem fünfjährigen Liefervertrag im Wert von 2,1 Milliarden Pfund. Ziel des Deals ist der Aufbau eines eigenen britischen Streaming-Angebots als Konkurrenz zu Netflix und anderen Anbietern. Die Vereinbarung steht noch unter dem Vorbehalt der Zustimmung durch Aktionäre und Aufsichtsbehörden.",
-          "score": 10
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Zum 100. Jubiläum: Miss Germany stellt Wettbewerb neu auf und baut TV-Präsenz aus",
-          "link": "https://www.horizont.net/medien/nachrichten/zum-100.-jubilaeum-miss-germany-stellt-wettbewerb-neu-auf-und-baut-tv-praesenz-aus-234964?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Zum 100-jährigen Jubiläum baut Miss Germany die Partnerschaft mit ProSieben aus: Die zweite Staffel von \"Road to Miss Germany\" wird 2027 erstmals auch auf dem Hauptsender ausgestrahlt. Zudem stellt die Marke ihren Wettbewerb inhaltlich neu auf und stärkt so ihre TV-Präsenz.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Kommentar zum Bewegtbild-Event: Screenforce Festival 2026: Nach dem Applaus beginnt die spannendste Show",
-          "link": "https://www.horizont.net/medien/kommentare/kommentar-zum-bewegtbild-event-screenforce-festival-2026-nach-dem-applaus-beginnt-die-spannendste-show-234965?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der Kommentar würdigt das Screenforce Festival 2026 als eindrucksvolle Inszenierung der Stärken von TV und Bewegtbild. Entscheidend für den Erfolg der Gattung sei jedoch nicht die Bühnenpräsentation, sondern die tatsächliche Umsetzung in den Mediaplänen der Werbetreibenden.",
+          "title": "Mehr Inhalte für Erwachsene: Aus Disney Channel wird Disney TV",
+          "link": "https://www.horizont.net/medien/nachrichten/mehr-inhalte-fuer-erwachsene-aus-disney-channel-wird-disney-tv-234953?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Disney positioniert seinen Free-TV-Sender Disney Channel neu: Ab Ende 2026 wird das Programm mit mehr Inhalten für Erwachsene breiter aufgestellt. Im Zuge der Neuausrichtung erfolgt zudem eine Umbenennung von Disney Channel zu Disney TV.",
           "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "Screenforce Festival: Was Sport 1 rund um den ikonischen Doppelpass zu bieten hat",
-          "link": "https://www.horizont.net/medien/nachrichten/screenforce-festival-was-sport-1-rund-um-den-ikonischen-doppelpass-zu-bieten-hat-234950?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Sport 1 präsentierte sich beim Screenforce Festival ohne eigenen Stand, betonte aber seine Sportkompetenz in einer Phase strategischer Neuausrichtung. Während der Sender sein Programm zunehmend um Entertainment-Formate erweitert und seine Geschäftsstruktur anpasst, bleiben Live-Sport und etablierte Sportmarken wie der Doppelpass zentrale Säulen der Positionierung.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Screenforce Festival: So will Visoon mit den Inhalten von Welt und Paramount punkten",
-          "link": "https://www.horizont.net/medien/nachrichten/screenforce-festival-so-will-visoon-mit-den-inhalten-von-welt-und-paramount-punkten-234926?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Visoon Video Impact hat sein Vermarktungsportfolio in den vergangenen Jahren kontinuierlich erweitert und mit der Vermarktung von Paramount+ den Sprung aus der Nische geschafft. Beim Screenforce Festival stand ein besonderer Fokus auf den Inhalten des US-Streamingdienstes sowie des Senders Welt.",
-          "score": 7
+          "source": "meedia",
+          "title": "Neue Doku-Soap RTL Zwei schickt \"Die Imbisshelden\" auf Sendung Fastfood-Nachschub: Der Privatsender RTL Zwei baut sein Factual-Entertainment-Angebot aus und startet eine neue Reihe über Deutschlands Büdchen-Kultur. „Die Imbisshelden",
+          "link": "https://meedia.de/news/beitrag/24563-rtl-zwei-schickt-quot-die-imbisshelden-quot-auf-sendung.html",
+          "summary": "RTL Zwei erweitert sein Factual-Entertainment-Portfolio mit der neuen Doku-Soap „Die Imbisshelden – Voll lecker!“, die ab dem 28. Juli wöchentlich dienstags um 21.15 Uhr ausgestrahlt wird. Die Reihe begleitet sechs Imbissbetreiber aus ganz Deutschland und verbindet kulinarische Konzepte mit persönlichen Geschichten sowie wirtschaftlichen Herausforderungen der Branche – von traditionellen Büdchen bis zu modernen Streetfood-Konzepten.",
+          "score": 9
         },
         {
           "source": "meedia",
-          "title": "Süßwarenmarkt Thomas Büchel ist neuer Marketing Director bei Fisherman’s Friend Fisherman’s Friend hat mit Thomas Büchel seit 1.",
-          "link": "https://meedia.de/news/beitrag/24557-thomas-buechel-ist-neuer-marketing-director-bei-fisherman-s-friend.html",
-          "summary": "Thomas Büchel ist seit dem 1. Juli neuer Marketing Director bei Fisherman's Friend (vertrieben von CFP Brands) und wechselt nach 16 Jahren von Kenvue bzw. der Vorgängerfirma Johnson & Johnson. Er folgt auf Dirk Hohnberg, der innerhalb der Fisherman's-Friend-Welt zum Head of Global Marketing bei der Vertriebsgesellschaft Impex Management aufsteigt und der Marke somit erhalten bleibt.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Nach der Übernahme von Sky Lisa Steiner wird Vize-Kommunikationschefin von RTL Deutschland Die...",
-          "link": "https://meedia.de/news/beitrag/24552-lisa-steiner-wird-vize-kommunikationschefin-von-rtl-deutschland.html",
-          "summary": "Im Zuge der Sky-Übernahme durch RTL Deutschland (zum 1. Juni) wird Lisa Steiner, zuvor Kommunikationschefin von Sky, stellvertretende Leiterin Kommunikation und Senior Vice President mit Fokus auf Transformations-, Integrations- und Leadership-Kommunikation. Sie berichtet an Eva Messerschmidt, die die Gesamtkommunikation des zusammengeführten Unternehmens verantwortet. In der ebenfalls gebündelten Technikorganisation übernimmt der bisherige Sky-CTO Patrick Sturm als Executive Vice President Technology die Führung.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Video Daily: TV-Quoten & Streaming-Charts Prime-Time-Sieg: RTL und ProSieben nutzen Free-TV-WM-Pause Der Sonntag war für Nicht-Magenta-TV-Kundinnen und -Kunden komplett WM-frei, auch das Prime-Time-Spiel zwischen Brasilien und Norwegen lief nur beim Angebot der Telekom. Folge: Andere Programme kämpften um den Sieg im Abendprogramm. Die Nase vorn hatten im jungen Publikum nach längerer Zeit mal wieder RTL und ProSieben",
-          "link": "https://meedia.de/news/beitrag/24551-prime-time-sieg-rtl-und-prosieben-nutzen-free-tv-wm-pause.html",
-          "summary": "Da das WM-Spiel Brasilien gegen Norwegen am Sonntag exklusiv bei Magenta TV der Telekom lief und somit im Free-TV entfiel, konnten RTL und ProSieben mit den Spielfilmen „Das Vermächtnis des Geheimen Buches“ und „The Tomorrow War“ die Prime Time beim jungen Publikum für sich entscheiden. Im Gesamtpublikum dominierte hingegen das Erste mit dem „Polizeiruf 110“ (4,40 Mio. Zuschauer, 21,0 Prozent Marktanteil), während die 20-Uhr-„Tagesschau“ mit 5,42 Millionen Zuschauern (26,2 Prozent) den Tagessieg holte.",
-          "score": 7
+          "title": "Interview im Bällebad Ad-Alliance-Chef Frank Vogel über die neue Größe von RTL Das stand auch nicht...",
+          "link": "https://meedia.de/news/beitrag/24559-ad-alliance-chef-frank-vogel-ueber-die-neue-groesse-von-rtl.html",
+          "summary": "Ad-Alliance-Chef Frank Vogel betont im Interview beim Screenforce-Festival die gestärkte Marktposition von RTL, das nach der Sky-Deutschland-Übernahme auf 12 Millionen zahlende Abonnenten und die damit verbundenen First-Party-Data für die Werbevermarktung zurückgreifen kann. Größere Zukäufe sieht Vogel vorerst als abgeschlossen an, setzt aber weiter auf Vermarktungspartnerschaften wie mit HBO Max in Deutschland. Zudem hebt er die gestiegene Resilienz von Werbewirtschaft und Medien im Umgang mit anhaltenden Krisen hervor.",
+          "score": 8
         },
         {
           "source": "Guardian Media",
-          "title": "Sky owner announces £1.6bn takeover of ITV’s broadcasting arm",
-          "link": "https://www.theguardian.com/business/2026/jul/06/sky-owner-announces-16bn-takeover-of-itvs-broadcasting-arm",
-          "summary": "Der Comcast-Konzern (Sky) übernimmt ITVs Sende- und Streaming-Sparte inklusive der Free-to-Air-Kanäle und der Plattform ITVX für 1,6 Mrd. £, um den größten kommerziellen Rundfunkanbieter Großbritanniens zu schaffen und gegen US-Streamingdienste wie Netflix und Amazon Prime zu konkurrieren. Die Produktionssparte ITV Studios bleibt als eigenständiges, an der Londoner Börse notiertes Unternehmen bestehen, wobei sich Sky zu Investitionen von mindestens 2,1 Mrd. £ zwischen 2028 und 2032 verpflichtet. Der Deal, der das Ende von 70 Jahren ITV als unabhängigem Public-Service-Broadcaster bedeuten würde",
+          "title": "Streaming storm made ITV sharing a roof with Sky sadly inevitable",
+          "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/jul/06/streaming-storm-made-itv-sharing-a-roof-with-sky-sadly-inevitable",
+          "summary": "ITV verkauft für 1,6 Mrd. £ seine Broadcasting-Sparte – nicht jedoch das wertvollere Studiogeschäft – an das Comcast-eigene Sky, was das Ende von 70 Jahren ITV-Geschichte markiert. Angesichts des Konkurrenzdrucks durch Streamingdienste wie Netflix, Disney+ und YouTube war der Deal weitgehend unvermeidlich, was sich auch am dramatischen Einbruch der Werbeeinnahmen zeigt (von 600 Mio. £ auf 234 Mio. £ Spitzengewinn). Anders als beim Sky-Einstieg 2006 blieb politischer Widerstand diesmal aus, sodass eine regulatorische Genehmigung wahrscheinlich erscheint.",
           "score": 10
         },
         {
           "source": "Deadline",
-          "title": "ITV Studios Will Not Need A “Transformational Acquisition” After Splitting With ITV Network, Claim Bosses",
-          "link": "https://deadline.com/2026/07/itv-studios-future-after-sky-takeover-1236974580/",
-          "summary": "ITV Studios wird nach dem 2,1-Milliarden-Dollar-Verkauf des ITV-Netzwerks und Streaming-Geschäfts an Comcasts Sky erstmals als eigenständiges Produktionsstudio agieren. Die ITV-Führung um CEO Carolyn McCall betont, dass das Studio – als einer der größten unabhängigen Produzenten weltweit mit über 45% Wachstum in acht Jahren und mehr als der Hälfte des Umsatzes außerhalb Großbritanniens – bereits ausreichend Größe besitzt und keine „transformative Übernahme“ benötigt. Man setze stattdessen weiter auf die bewährte Strategie kleinerer Bolt-on-Akquisitionen, trotz einer Klausel, die 950 Millionen Pfund an die Aktionäre zurückführ",
-          "score": 10
-        },
-        {
-          "source": "Deadline",
-          "title": "Sky Chief Dana Strong Says ITV Will Remain “Deeply British” As Hollywood Tightens Grip On UK Media",
-          "link": "https://deadline.com/2026/07/sky-itv-dana-strong-deeply-british-1236974575/",
-          "summary": "Sky-CEO Dana Strong betont nach der 1,6-Milliarden-Pfund-Übernahme (2,1 Mrd. Dollar) der TV- und Streaming-Sparte von ITV, dass beide Marken „zutiefst britisch“ bleiben und einen britischen „Streaming-Champion“ formen sollen. Der Deal bringt effektiv zwei britische Public-Service-Broadcaster unter Hollywood-Kontrolle, da Sky künftig zum NBCUniversal-Imperium gehört (nach der Comcast-Abspaltung), während Paramount bereits Channel 5 besitzt und WBD-Assets im UK-Markt übernimmt. ITV-CEO Carolyn McCall verteidigt die als „historisch“ bezeichnete Transaktion als Investition in britische Inhalte und Stärkung des P",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Netflix Sets Out Why It’s Challenging French Funding Obligations & Wants A Cap On Investment Rules; Prime Video Also Lodges Appeal",
-          "link": "https://deadline.com/2026/07/netflix-challenges-french-funding-rules-calls-spending-cap-1236974549/",
-          "summary": "Netflix hat in einem Le-Monde-Gastbeitrag begründet, warum es gemeinsam mit anderen Streamingdiensten vor Frankreichs Staatsrat (Conseil d'État) gegen neue \"Diversitäts\"-Regeln klagt, die höhere Investitionen in Animation, Dokumentationen und Live-Aufführungen vorschreiben und ausschließlich Streamer – nicht klassische Sender – betreffen. Der Anbieter fordert eine Obergrenze für Investitionsverpflichtungen und kritisiert, dass die Regeln die genaue Genre-Zusammensetzung des Programmangebots gesetzlich festschreiben würden. Auch Prime Video und laut Berichten Disney+ haben Beschwerde eingelegt, wobei Prime auf die bereits EU-weit höchsten Verpfl",
+          "title": "Sarajevo’s CineLink Unveils Co-Production Market & Drama Sections Lineup Plus New Partnership With Cannes’ Critics’ Week",
+          "link": "https://deadline.com/2026/07/sarajevos-cinelink-industry-days-cannes-critics-week-1236975449/",
+          "summary": "Der CineLink-Industriezweig des Sarajevo Film Festivals hat seine finale Auswahl von 16 Spielfilmprojekten und acht Dramaserien-Projekten bekanntgegeben, wobei Frauen bei neun der Co-Production-Market-Titel Regie führen oder mitwirken. Zudem wurde eine neue Partnerschaft mit der Semaine de la Critique in Cannes samt eines mit 10.000 Euro dotierten Preises vorgestellt. Zu den Neuzugängen zählen Rückkehrer wie die bulgarischen Filmemacherinnen Nadejda Koseva und Ralitza Petrova sowie zwei Gastprojekte aus der Zusammenarbeit mit dem Doha Film Institute.",
           "score": 9
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "ITV Braces for “Thorough and Comprehensive” Antitrust Review of Sky Takeover",
-          "link": "https://www.hollywoodreporter.com/business/business-news/itv-sky-antitrust-review-merger-comcast-deal-uk-us-news-1236638594/",
-          "summary": "ITV rechnet mit einer intensiven kartellrechtlichen Prüfung der geplanten Übernahme seiner Netzwerk- und Streaming-Sparte durch das Comcast-eigene Sky für 2,13 Milliarden Dollar, wobei CEO Carolyn McCall von einer 12- bis 18-monatigen Genehmigungsdauer inklusive Phase-2-Prüfung ausgeht. Der Zusammenschluss von Großbritanniens führendem Free-TV-Sender mit dem größten Pay-TV-Anbieter des Landes weckt Erinnerungen an frühere gescheiterte Fusionsversuche, die von Regulierern wegen Bedenken um Medienpluralität und Wettbewerb blockiert wurden. ITV argumentiert diesmal, der Markt habe sich durch das Aufkommen glob",
-          "score": 10
+          "source": "Deadline",
+          "title": "BBC Director General Matt Brittin Will Make First Major Industry Appearance At Final Edinburgh TV Festival",
+          "link": "https://deadline.com/2026/07/bbc-matt-brittin-edinburgh-tv-festival-1236975433/",
+          "summary": "Der neue BBC-Generaldirektor Matt Brittin, der im Mai 2025 Tim Davie ablöste und als erster DG seit Greg Dyke (2000) ohne vorherige BBC-Erfahrung antritt (zuvor Google-EMEA-Chef), wird beim Edinburgh Television Festival im August seinen ersten großen Branchenauftritt in einem „In Conversation“-Format absolvieren. Sein Erscheinen fällt in eine kritische Phase mit anstehender Charter-Erneuerung und branchenweiter Verunsicherung über die Zukunft der BBC. Zugleich markiert es die letzte Edinburgh-Ausgabe des Festivals, das ab 2027 nach Greater Manchester umzieht und damit eine 50-jährige Ära beendet.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Zinc Media Launches AI Label Cicada Focused On “Creativity That Makes People Stop Scrolling”",
+          "link": "https://deadline.com/2026/07/zinc-media-group-launches-ai-focused-label-cicada-1236975439/",
+          "summary": "Die britische Faktual-Produktionsgruppe Zinc Media Group hat mit Cicada ein KI-fokussiertes Label gegründet, das die konzernweiten KI-Aktivitäten zentralisiert und Produktionsfirmen, Branded-Content- sowie Post-Production-Einheiten unterstützt – 2025 erwirtschaftete die Gruppe bereits mehrere Millionen Pfund KI-bezogenen Umsatz. Geleitet wird Cicada von CTO Olly Strous gemeinsam mit AI Innovation Lead Jenny Springett, mit dem Ziel, sowohl aufmerksamkeitsstarke Kreativität als auch messbaren ROI zu liefern. Der Schritt reiht sich in einen Branchentrend ein, bei dem Produktionsunternehmen zunehmend formale KI",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Orbital Studios Moving To Television City In Los Angeles",
+          "link": "https://deadline.com/2026/07/orbital-studios-moving-to-television-city-los-angeles-1236975338/",
+          "summary": "Das Virtual-Production-Unternehmen Orbital Studios (Credits u.a. Netflix' „Nemesis\" und FX' „The Drop: A Snowfall Saga\") bezieht neue Räumlichkeiten in der traditionsreichen Television City in Los Angeles. Der Umzug ist Teil der globalen Expansion durch strategische Partnerschaften und zielt darauf ab, durch virtuelle Erfassung globaler Drehorte kreative Arbeit, Crew-Jobs und Produktionsausgaben in Los Angeles zu halten – dies vor dem Hintergrund, dass viele High-End-Produktionen in andere Bundesstaaten und Länder abwandern.",
+          "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "How the Sky-ITV Deal Will Transform British Broadcasting",
-          "link": "https://www.hollywoodreporter.com/business/business-news/sky-itv-deal-merger-comcast-us-uk-broadcasting-studios-1236638546/",
-          "summary": "Der Comcast-Tochterkonzern Sky übernimmt für 1,6 Milliarden Pfund (2,13 Milliarden Dollar) die Sender- und Streaming-Sparte von ITV, einschließlich der ITV-Kanäle und der Plattform ITVX, während ITV Studios als Produktionsarm eigenständig bleibt. Ziel ist die Schaffung eines UK-fokussierten „nationalen Streaming-Champions“, der Skys Pay-TV-Marktführerschaft mit ITVs führender Free-to-Air-Position sowie NBCs globaler Peacock-Plattform kombiniert. Der Abschluss des Deals wird nach Angaben von Sky-CEO Dana Strong etwa ein Jahr in Anspruch nehmen und bedarf noch der behördlichen Genehmigung.",
+          "title": "“The Slovak Woody Allen,” an Orwellian Bistro and ‘Cupid at the Kremlin Wall’: Inside Book-to-Screen at KVIFF",
+          "link": "https://www.hollywoodreporter.com/news/general-news/slovak-woody-allen-orwellian-bistro-books-to-screen-kviff-1236639684/",
+          "summary": "Beim 60. Karlovy Vary International Film Festival (KVIFF) fand im Rahmen der erweiterten KVIFF Industry Days erstmals das Format „Book-to-Screen at KVIFF“ statt, bei dem acht literarische Werke aus Mittel- und Osteuropa als potenzielle Vorlagen für Film- und TV-Adaptionen präsentiert wurden. Ziel der Initiative ist es laut Hugo Rosák, Leiter der KVIFF Film Industry Programs, einen zentral-osteuropäischen IP-Markt zu etablieren, der den Dialog zwischen Film- und Verlagsbranche fördert und ein transparenteres Umfeld für Adaptionsrechte schafft. Zu den vorgestellten Titeln zählte unter anderem „Cupid at the Kremlin Wall“ des geor",
           "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Comcast’s Sky to Acquire ITV’s Networks and Streaming Businesses in $2.13 Billion Deal",
-          "link": "https://www.hollywoodreporter.com/business/business-news/sky-buy-itv-networks-streaming-business-comcast-1236521331/",
-          "summary": "Comcasts Tochter Sky übernimmt für 1,6 Milliarden Pfund (2,13 Milliarden Dollar) die Netzwerk- und Streaming-Sparte (inklusive ITVX) des britischen Senders ITV, während die Produktionseinheit ITV Studios als eigenständiges Unternehmen ausgegliedert wird. Im Rahmen des Deals stärkt ITV Studios sein IP-Portfolio durch die Übernahme von Love Productions, dem Produzenten von „The Great British Bake Off\". Der Schritt festigt Skys Position im britischen und europäischen Pay-TV- sowie Streaming-Markt und ergänzt die bestehenden Aktivitäten von Sky Studios.",
-          "score": 10
-        },
-        {
-          "source": "Variety",
-          "title": "Colombia’s Bogota Audiovisual Market Welcomes Netflix, France, Discusses the Impact of ‘One Hundred Years of Solitude’",
-          "link": "https://variety.com/2026/film/global/colombia-bogota-audiovisual-market-welcomes-france-netflix-1236801796/",
-          "summary": "Der 17. Bogotá Audiovisual Market (BAM, 6.–10. Juli) öffnet sich in diesem Jahr durch eine Allianz mit Netflix erstmals für Nachwuchsproduzenten aus Zentralamerika, der Karibik und den Andenländern – die Hälfte der 40 Teilnehmer stammt aus anderen lateinamerikanischen Ländern. Zudem startet BAM eine Premieren-Kooperation mit Unifrance und der französischen Botschaft, die zwölf führende französische Verleihagenturen (u.a. Le Pacte, MK2 Films, Celluloid Dreams) mit rund 30 lateinamerikanischen Distributoren zusammenbringt, um die Zirkulation französischer und lateinamerikanischer Filme in der Region auszubauen. Mit rund 2.300 Ak",
+          "title": "Sarajevo Film Festival Unveils New Award, the Prix Cineplexx, Spotlighting Necessity of Theatrical Releases",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/sarajevo-film-festival-new-award-the-prix-cineplexx-1236639650/",
+          "summary": "Das Sarajevo Film Festival hat mit dem Prix Cineplexx einen neuen Publikumspreis für den besten Film im Programm Open Air Premiere eingeführt, der in Partnerschaft mit der führenden südosteuropäischen Kinokette Cineplexx vergeben wird. Der mit insgesamt 20.000 Euro dotierte Preis umfasst 15.000 Euro für eine Marketingkampagne in Cineplexx-Kinos zur Unterstützung des Kinostarts sowie 5.000 Euro in bar für den Produzenten. Ziel ist es, die Verbindung zwischen Festivalauszeichnung und der theatralischen Auswertung regionaler Filme aus dem ehemaligen Jugoslawien zu stärken.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "ITV Boss ‘Hopeful’ Sky Acquisition Will Clear Regulators: ‘The Market Has Changed So Fundamentally’",
-          "link": "https://variety.com/2026/biz/global/itv-sky-takeover-carolyn-mccall-regulators-1236802239/",
-          "summary": "NBCUniversals Tochter Sky übernimmt den 70 Jahre alten britischen Public-Service-Sender ITV, wobei CEO Carolyn McCall Sky als bevorzugten Partner bezeichnet und sich zuversichtlich zeigt, dass die Regulierungsbehörden angesichts fundamental veränderter Marktbedingungen zustimmen werden. Der Deal umfasst eine erfolgsabhängige Zusatzzahlung von bis zu 200 Mio. £, die nur bei Überschreiten von 1,7 Mrd. £ Werbeumsatz für 2027 fällig wird, während als Bewertungsmaßstab für das Produktionsgeschäft die Banijay-All3Media-Fusion (10-faches EBITDA) sowie ITV Studios' EBITDA von 330 Mio. £ (2025)",
-          "score": 10
+          "title": "‘Wolf’ Stars Serkan Çayoğlu, Özge Gürel Drill Down on Why Turkish Series Have Taken Off: It’s as Simple as Emotional Investment",
+          "link": "https://variety.com/2026/tv/global/serkan-cayoglu-ozge-gurel-italian-global-series-festival-1236803186/",
+          "summary": "Beim Italian Global Series Festival in Rimini diskutierten die türkischen Schauspieler Özge Gürel und Serkan Çayoğlu vor ausverkauftem Haus über den internationalen Erfolg türkischer Serien (Dizi), den sie primär auf die emotionale Bindung des Publikums zurückführen. Das off-screen wie on-screen zusammen agierende Paar, bekannt aus „Wolf“ und „Cherry Season“, verdeutlichte mit dem anschließenden Fan-Ansturm die enorme Popularität türkischer Produktionen in Italien und weiteren Märkten.",
+          "score": 9
         },
         {
           "source": "Variety",
-          "title": "Netflix France Chief Pauline Dauvin Slams Expanded Investment Obligations: ‘These New Rules Go Too Far’",
-          "link": "https://variety.com/2026/film/global/netflix-france-chief-pauline-dauvin-investment-obligations-1236802286/",
-          "summary": "Netflix France-Content-Chefin Pauline Dauvin kritisiert in einem Le-Monde-Meinungsbeitrag die erweiterten französischen Investitionsauflagen für Streamingdienste und legt Berufung ein, da diese die kulturelle Vielfalt zu einer starren „Checkliste\" degradierten und die redaktionelle Freiheit bedrohten. Konkret verpflichten die neuen Regeln Streamer wie Netflix, Prime Video und Disney+ dazu, ihre Investitionen in den Genres Animation, Dokumentationen und Live-Performance zu verdoppeln – zusätzlich zur bestehenden Auflage, 20 % der lokalen Umsätze in französische und europäische Produktionen zu investieren.",
-          "score": 8
+          "title": "LISTEN: ‘Minions and Monsters’ Has Tepid U.S. Opening as ‘Young Washington’ Impresses; Why Comcast’s Sky Is Buying ITV",
+          "link": "https://variety.com/2026/film/news/minions-and-monsters-young-washington-box-office-sky-itv-1236802981/",
+          "summary": "Universals und Illuminations „Minions and Monsters\" verzeichnete mit 36 Millionen Dollar das schwächste Startwochenende der „Despicable Me\"-Franchise in den USA, was auf mögliche Franchise-Müdigkeit hindeutet, während der Film international mit rund 160 Millionen Dollar global bereits solide abschneidet. Angel Studios' Indie-Produktion „Young Washington\" überzeugte hingegen mit einem starken Auftakt am US-Kinowochenende. Zusätzlich hat Comcasts Sky einen 2,1-Milliarden-Dollar-Deal zur Übernahme des britischen Senders ITV abgeschlossen.",
+          "score": 9
+        },
+        {
+          "source": "Variety",
+          "title": "Television City and Orbital Studios Partner to Bring Virtual Production Studio to L.A.’s Fairfax District",
+          "link": "https://variety.com/2026/biz/news/television-city-orbital-studios-new-virtual-production-studio-1236802430/",
+          "summary": "Television City und Orbital Studios kooperieren, um ein hochmodernes Virtual-Production-Studio mit LED-Volume am Standort 7800 Beverly Boulevard im Fairfax District von L.A. zu errichten. Die Partnerschaft läuft dem Trend der Produktionsabwanderung in andere Bundesstaaten und Länder entgegen und soll durch die Möglichkeit, globale Schauplätze ohne Ortswechsel zu realisieren, kreative Arbeit, Crew-Jobs und Produktionsausgaben in Los Angeles halten. Orbital arbeitet aktuell an der FX-Serie „The Drop: A Snowfall Saga“.",
+          "score": 7
         }
       ]
     }
