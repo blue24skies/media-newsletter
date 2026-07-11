@@ -1,90 +1,41 @@
 {
   "newsletters": [
     {
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "articles": [
         {
-          "source": "DWDL",
-          "title": "ARD ist Teil der internationalen Koproduktion \"Part Of Me\"",
-          "link": "https://www.dwdl.de/nachrichten/107126/ard_ist_teil_der_internationalen_koproduktion_part_of_me/",
-          "summary": "Die ARD beteiligt sich gemeinsam mit RTS, France Télévision, Radio-Canada und TFO an der sechsteiligen internationalen Koproduktion \"Part Of Me\" (Original: \"L'Autre Fille\"), einem Coming-of-Age-Mystery-Thriller, der noch bis Ende August in der Schweiz und Frankreich gedreht wird. Im Zentrum steht die 16-jährige Eishockeyspielerin Emma (Lilith Grasmug), die eine Doppelgängerin ihrer selbst erschafft und in Konflikt mit einem skrupellosen Pharmakonzern gerät. Für die Musik zeichnet \"The White Lotus\"-Komponist Cristóbal Tapia de Veer verantwortlich; ein Ausstrahlungstermin steht angesichts des frühen Projektstadiums no",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "MFE will seine Streaming-Plattformen technologisch angleichen",
-          "link": "https://www.dwdl.de/nachrichten/107124/mfe_will_seine_streamingplattformen_technologisch_angleichen/",
-          "summary": "Media for Europe (MFE) plant, die technologischen Infrastrukturen seiner Streaming-Plattformen bis 2027 zu verschmelzen, wobei die Architektur von Joyn als Basis dient und sich das Interface-Design am italienischen Infinity orientiert. Die aus der ProSiebenSat.1-Übernahme erwarteten Synergien fallen mit 160 Millionen Euro deutlich höher aus als die ursprünglich prognostizierten 30 Millionen Euro für 2026. Trotz der Zusammenführung sollen die unterschiedlichen Marktstrategien bestehen bleiben – Joyn setzt weiterhin auf ein werbefinanziertes Modell, während Infinity in Italien und Spanien dem abonnementbasierten RTL+-Ansatz folgt.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "Fusion von Banijay Entertainment und All3Media abgeschlossen",
-          "link": "https://www.dwdl.de/nachrichten/107121/fusion_von_banijay_entertainment_und_all3media_abgeschlossen/",
-          "summary": "Banijay Group und RedBird IMI haben ihre Entertainment-Töchter zu einem neuen, in London ansässigen Unternehmen namens Banijay Entertainment fusioniert, das mit 170 Firmen in 25 Ländern und einem Umsatz von über 4,3 Milliarden Euro (2025) als weltweit größter unabhängiger Produzent auftritt. Geführt wird der Konzern von Jeff Zucker (Chairman), Marco Bassetti (CEO) und Jane Turton (Deputy CEO), wobei im ersten Jahr Synergien von 50 Millionen Euro angestrebt werden. Die konkrete Umsetzung in den einzelnen Märkten – etwa die Integration der deutschen All3Media-Marken Filmpool Fiction, Filmpool Entertainment und South & Browse – bleibt vor",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Filmförderung soll 2027 schon wieder gekürzt werden",
-          "link": "https://www.dwdl.de/nachrichten/107120/filmfoerderung_soll_2027_schon_wieder_gekuerzt_werden/",
-          "summary": "Die erst Ende Mai 2026 beschlossene Verdopplung der staatlichen Filmförderung auf 250 Millionen Euro soll bereits 2027 wieder auf rund 200 Millionen Euro gekürzt werden, wie das Kulturstaatsministerium auf Nachfrage bestätigte. Als Grund werden globale Sparauflagen über alle Bundesministerien hinweg genannt; das Ministerium betont jedoch, dass dies gegenüber 2025 noch einen Aufwuchs von rund 70 Millionen Euro bedeute. Der Verband Technischer Betriebe für Film und Fernsehen (VTFF) hatte die drohende Kürzung zuvor öffentlich gemacht.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Dann eben U19: RTL holt Junioren-Finalspiele ins Free-TV",
-          "link": "https://www.dwdl.de/nachrichten/107119/dann_eben_u19_rtl_holt_juniorenfinalspiele_ins_freetv/",
-          "summary": "Nachdem die deutsche A-Nationalmannschaft bei der WM früh ausschied, überträgt RTL kurzfristig die U19-EM-Finalspiele ins Free-TV: Nitro zeigt das Endspiel der Juniorinnen am Freitag ab 17:30 Uhr, RTL das der Junioren am Samstag ab 19:30 Uhr – beide Teams treffen jeweils auf Spanien. Die Übertragung des Junioren-Finals dient RTL zugleich als programmliche Rampe zum WM-Viertelfinale Norwegen gegen England, das exklusiv bei MagentaTV läuft. Moderiert wird die Nitro-Ausstrahlung von Marcel Klein, die RTL-Übertragung von Florian König.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Medienboard fördert neue Joyn-Comedy \"Littis Fahrschule\"",
-          "link": "https://www.dwdl.de/nachrichten/107117/medienboard_foerdert_neue_joyncomedy_littis_fahrschule/",
-          "summary": "Das New-Media-Fördergremium des Medienboards Berlin-Brandenburg vergibt in seiner dritten Sitzung 2026 rund 1,8 Millionen Euro an 23 serielle Formate sowie Games- und XR-Projekte. Die höchste Einzelförderung im Serienbereich erhält mit 168.000 Euro die Joyn-Comedy \"Littis Fahrschule\" von und mit Kida Khodr Ramadan (JPJ Filmproductions), gefolgt von der Doku-Serie über den Malaysian-Airlines-Flug \"MH-17\" (160.000 Euro). Gefördert werden zudem mehrere internationale Koproduktionen aus Bulgarien, Finnland, Dänemark und Griechenland.",
-          "score": 9
-        },
-        {
           "source": "Horizont Medien",
-          "title": "Zwischen Youtube, TikTok und TV: Kinder lieben Video - doch das Fernsehen verliert den Erstkontakt",
-          "link": "https://www.horizont.net/medien/nachrichten/zwischen-youtube-tiktok-und-tv-kinder-lieben-video---doch-das-fernsehen-verliert-den-erstkontakt-235022?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Kinder und Jugendliche konsumieren so viel Bewegtbild wie nie zuvor, doch das klassische Fernsehen verliert seine Rolle als erster Anlaufpunkt an Social-Media-Plattformen wie YouTube und TikTok. Diese fungieren zunehmend als Programmführer der jungen Generation, was weitreichende Konsequenzen für Fernsehsender, Vermarkter und die Reichweitenforschung mit sich bringt.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "Fußball-Highlights am Freitag und Samstag RTL hievt kurzfristig beide U19-EM-Endspiele ins Free-TV...",
-          "link": "https://meedia.de/news/beitrag/24595-rtl-hievt-kurzfristig-beide-u19-em-endspiele-ins-free-tv.html",
-          "summary": "RTL Deutschland überträgt kurzfristig beide U19-EM-Endspiele der DFB-Auswahlen live im Free-TV: Das Finale der Juniorinnen läuft am Freitag (10. Juli) auf Nitro, das der Junioren am Samstag (11. Juli) auf dem Hauptsender RTL, jeweils gegen Spanien. Zusätzlich werden beide Partien kostenlos auf RTL+ sowie dem YouTube-Kanal „RTL Sport“ gestreamt. Der Sender nutzt damit den Nachwuchserfolg als Anknüpfungspunkt an die anhaltende Debatte um die deutsche A-Nationalmannschaft nach dem frühen WM-Aus.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Gespräche mit Beteiligten laufen MDR will ab 2029 wieder \"Tatort\" und \"Polizeiruf\" produzieren Der...",
-          "link": "https://meedia.de/news/beitrag/24596-mdr-will-ab-2029-wieder-quot-tatort-quot-und-quot-polizeiruf-quot-produzieren.html",
-          "summary": "Der MDR plant, ab 2029 nach einer Sparpause wieder eigene \"Tatort\"- und \"Polizeiruf 110\"-Produktionen aufzunehmen, wobei laut Intendant Ralf Ludwig aktuell Gespräche zur Bindung von Schauspielern und Regisseuren laufen. Voraussetzung sei jedoch eine Erhöhung des Rundfunkbeitrags spätestens ab 2027, da andernfalls ein weiteres Finanzloch von 30 Millionen Euro drohe. Während bei den Krimi-Reihen ein Neustart angestrebt wird, gibt der Sender das gemeinsam mit dem ZDF produzierte \"Mittagsmagazin\" komplett ab, was zu Stellenverlusten führt.",
-          "score": 9
-        },
-        {
-          "source": "meedia",
-          "title": "1 die Integration seiner europäischen TV- und Streaming-Aktivitäten voran.",
-          "link": "https://meedia.de/news/beitrag/24591-neuer-prosiebensat-1-eigner-mfe-will-europaweite-streaming-plattform-aufbauen.html",
-          "summary": "Nach der Übernahme von ProSiebenSat.1 plant MFE-Chef Pier Silvio Berlusconi den Aufbau einer europaweit einheitlichen Streaming-Plattform, die das italienische Frontend von Infinity mit der deutschen Technologie kombiniert; der Rollout soll im Januar beginnen. Die Auswirkungen auf die bisherige Joyn-Strategie und Preispolitik bleiben unklar, während der deutsche Streamer weiterhin unter Kursunsicherheit leidet. Mit der Vereinheitlichung will MFE seine Wettbewerbsposition gegenüber internationalen Anbietern sowie dem durch die Sky-Übernahme gestärkten Konkurrenten RTL ausbauen.",
+          "title": "Kontroverse zu Ikkimel im Moma: Fußball-Männer – alles Penner!?",
+          "link": "https://www.horizont.net/medien/kommentare/kontroverse-zu-ikkimel-im-moma-fussball-maenner--alles-penner-235033?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die deutsche Rapperin Ikkimel löste mit ihrem Live-Auftritt im ZDF-Morgenmagazin eine anhaltende Kontroverse in den Kommentarspalten des Senders aus. Der Kommentar wertet die Debatte als weiteres Symptom für strukturelle Probleme des öffentlich-rechtlichen Rundfunks im Umgang mit provokanten Inhalten und deren Publikumsresonanz.",
           "score": 10
         },
         {
-          "source": "meedia",
-          "title": "Video Daily: TV-Quoten & Streaming-Charts WM-Viertelfinals starten mit 8,4 Millionen Fans, \"Die Bachelors\" enden miserabel Das Spiel zwischen Frankreich und Marokko war das erste Viertelfinale der Fußball-WM 2026",
-          "link": "https://meedia.de/news/beitrag/24593-wm-viertelfinals-starten-mit-8-4-millionen-fans-quot-die-bachelors-quot-enden-miserabel.html",
-          "summary": "Das erste Free-TV-Viertelfinale der Fußball-WM 2026 zwischen Frankreich und Marokko erzielte am Donnerstagabend im Ersten herausragende 8,42 Millionen Zuschauer und einen Marktanteil von 49,1 Prozent (57,0 Prozent bei den 14- bis 49-Jährigen). Während ARD und ZDF auch zur Primetime dominierten – das ZDF-\"Traumschiff\" führte um 20.15 Uhr –, endete RTLs \"Die Bachelors\" mit schwachen 4,6 Prozent. Im Gesamtpublikum belegte das Erste mit vier Programmen die ersten vier Ränge der Tages-Charts.",
+          "source": "Deadline",
+          "title": "Oregon AG Drops Demand For Records & Motion To Delay Paramount-Warner Bros. Discovery Merger",
+          "link": "https://deadline.com/2026/07/paramount-warner-bros-oregon-attorney-general-motion-1236979773/",
+          "summary": "Der Generalstaatsanwalt von Oregon, Dan Rayfield, hat seine zivilrechtliche Auskunftsforderung sowie den Antrag zurückgezogen, die Übernahme von Warner Bros. Discovery durch Paramount um 60 Tage zu verzögern. Während Paramount die Entscheidung als Bestätigung für die Rechtmäßigkeit und wettbewerbsfördernde Wirkung der Fusion wertet, begründete das Büro des Generalstaatsanwalts den Rückzug damit, dass Paramount die Kooperation verweigert habe und man keine Ressourcen für diese „Spielchen“ verschwenden wolle. Eine Anhörung war für Montag am Multnomah County Circuit Court angesetzt.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "From ‘Kneecap’ to a Karlovy Vary Hit to Mia Hansen-Løve’s Next Film: Ireland’s Wildcard Makes Instant Splash as Producer",
-          "link": "https://variety.com/2026/film/global/how-irelands-wildcard-made-instant-splash-as-producer-1236805814/",
-          "summary": "Die Dubliner Firma Wildcard, ursprünglich 2013 als Filmverleih (Wildcard Distribution) gegründet, hat sich mit ihrem Produktionsdebüt „Kneecap\" (Regie: Rich Peppiatt) einen fulminanten Einstieg als Produzent verschafft – der Film wurde zum Sundance-2024-Hit, von Sony Pictures Classics übernommen und mit einem BAFTA sowie einer Oscar-Shortlist-Nominierung ausgezeichnet. Aufbauend auf früheren Verleiherfolgen wie „Wolfwalkers\" und „Black '47\" expandiert Wildcard nun weiter und ist unter anderem an einem Karlovy-Vary-Hit sowie dem nächsten Film von Mia Hansen-Løve beteiligt.",
+          "title": "Colombia Adds Massive Soundstage as Bogotá Audiovisual Market Attendance Soars and ‘Narcos’ Star-Led ‘Rookies’ Cleans Up in Project Prizes",
+          "link": "https://variety.com/2026/film/global/colombia-bogota-audiovisual-market-prizes-uptick-attendance-1236807107/",
+          "summary": "Der 17. Bogotá Audiovisual Market (BAM) verzeichnete mit 2.336 akkreditierten Teilnehmern, 271 Branchenaktivitäten und 882 Einzelgesprächen einen deutlichen Besucheranstieg und unterstrich damit Kolumbiens wachsende Bedeutung als Produktionsstandort. Parallel dazu stärkt das Land seine Infrastruktur, unter anderem durch die neue größte Soundstage des Landes bei TIS Studios sowie das Wachstum der VFX-Studios Folks und Loma. Bei den Projektpreisen dominierte „Rookies“ mit „Narcos“-Star Damián Álcazar und räumte mehrere Auszeichnungen ab.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Oregon D.A. Drops Motion to Delay Paramount-Warner Bros. Merger",
+          "link": "https://variety.com/2026/film/news/oregon-paramount-warner-bros-merger-drops-delay-1236807068/",
+          "summary": "Die Staatsanwaltschaft von Oregon hat ihren Antrag auf eine 60-tägige Verzögerung der 111-Milliarden-Dollar-Fusion zwischen Paramount und Warner Bros. zurückgezogen, wodurch der Deal bereits am 22. Juli abgeschlossen werden könnte. Der ursprüngliche Antrag von Attorney General Dan Rayfield basierte auf Vorwürfen mangelnder Kooperation seitens Paramount Skydance sowie Bedenken über eine möglicherweise unrechtmäßige DOJ-Genehmigung. Trotz des Rückzugs könnten mehrere Bundesstaaten, darunter Oregon und Kalifornien, weiterhin eine einstweilige Verfügung zur Blockierung der Fusion aufgrund kartellrechtlicher",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Cineverse Buys Horror-Comedy ‘Portal to Hell’ (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/news/cineverse-buys-horror-comedy-portal-to-hell-1236806935/",
+          "summary": "Cineverse und seine Horror-Sparte Bloody Disgusting haben sich die US-VOD- und Streaming-Rechte an der Horror-Komödie „Portal to Hell\" gesichert, dem Spielfilmdebüt von Woody Bess, das bei Slamdance und Frightfest Premiere feierte. Der Film mit Trey Holland, Keith David und Richard Kind erzählt von einem Schuldeneintreiber, der sich einem Dämon widersetzt, der einen Nachbarn zur Hölle schleppen will. Ein begrenzter Kinostart ist noch vor der digitalen Veröffentlichung im Sommer geplant.",
           "score": 7
         }
       ]
