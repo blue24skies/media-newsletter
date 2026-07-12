@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 AUTOMATISCH GENERIERTE LERN-REGELN (CONTENT-BASIERT)
-Erstellt: 2026-07-05 22:02:23
-Anzahl Regeln: 23
+Erstellt: 2026-07-12 21:51:26
+Anzahl Regeln: 11
 
 WICHTIG: Nur Inhalte werden bewertet, NICHT Quellen!
 Keywords und Themen bekommen Boosts basierend auf Team-Feedback.
@@ -18,38 +18,39 @@ LEARNING_RULES = {
         # Wir bewerten Inhalte (Keywords/Themen), nicht Dienstleister
     },
     'keyword_boosts': {
-        'screenforce': 2,
-        'festival': 2,
-        'comcast': 2,
-        'nbcuniversal': 2,
-        'video': 1,
-        'deutschland': 1,
-        'plant': 2,
-        'staffel': 2,
-        'lehrer': 2,
-        'neuen': 2,
-        'streaming': 2,
-        'into': 2,
-        'split': 2,
-        'joyn': 1,
-        'setzt': 2,
-        'fußball': 2,
-        'juni': 2,
-        'marktanteile': 2,
-        'series': -1,
-        'sets': -1,
-        'screenforce festival': 2,
-        'comcast split': 2,
-        'quote': 1,
-        'marktanteil': 1,
-        'zuschauer': 1,
-        'reichweite': 1,
-        'rating': 1,
-        'millionen': 1,
+        'neue': 2,
+        'streaming': 1,
+        '2026': 1,
+        'video': 2,
+        'with': -1,
+        'unveils': -1,
+        'production': -1,
+        'media': -1,
+        'chef': 1,
+        'ceo': 1,
+        'geschäftsführer': 1,
+        'leitung': 1,
+        'wechsel': 1,
+        'ernennung': 1,
+        'personalien': 1,
+        'promi': 1,
+        'celebrity': 1,
+        'star': 1,
+        'skandal': 1,
+        'klatsch': 1,
+        'privatleben': 1,
+        'netflix': 1,
+        'amazon': 1,
+        'disney': 1,
+        'apple tv': 1,
+        'paramount': 1,
+        'max': 1,
+        'hbo': 1,
+        'prime': 1,
     }
 }
 
 # Statistik
 ANZAHL_QUELLEN = 0  # Quellen werden nicht mehr bewertet
-ANZAHL_KEYWORDS = 28
-ANZAHL_REGELN_GESAMT = 23
+ANZAHL_KEYWORDS = 29
+ANZAHL_REGELN_GESAMT = 11
