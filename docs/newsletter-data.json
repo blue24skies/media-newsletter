@@ -1,91 +1,14 @@
 {
   "newsletters": [
     {
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "articles": [
         {
           "source": "DWDL",
-          "title": "ZDF unterbindet Auftritt von Danger Dan und Igor Levit in der \"Anstalt\"",
-          "link": "https://www.dwdl.de/nachrichten/107195/zdf_unterbindet_auftritt_von_danger_dan_und_igor_levit_in_der_anstalt/",
-          "summary": "Das ZDF hat kurz vor der Aufzeichnung einen geplanten Auftritt von Danger Dan und Igor Levit in der Satiresendung \"Die Anstalt\" untersagt, bei dem die Musiker ihren Song \"Keine Angst\" gegen Rechtsextremismus spielen sollten. Der Sender begründet den Eingriff in die redaktionelle Freiheit damit, dass der Songtext als Aufruf zur Gewalt verstanden werden könne und dieser Widerspruch selbst durch eine geplante Einordnung nicht auflösbar gewesen sei. Stattdessen kündigte das ZDF an, sich künftig \"dokumentarisch-journalistisch\" mit dem Lied zu befassen.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "GWB-Novelle soll Kooperationen zwischen Medien erleichtern",
-          "link": "https://www.dwdl.de/nachrichten/107185/gwbnovelle_soll_kooperationen_zwischen_medien_erleichtern/",
-          "summary": "Das Bundeskabinett hat den Entwurf zur 12. GWB-Novelle beschlossen, der neben allgemein angehobenen Umsatzschwellenwerten in der Fusionskontrolle auch branchenspezifische Erleichterungen für Medienunternehmen vorsieht. Die bislang nur Presseverlagen eingeräumten Kooperationsmöglichkeiten werden auf private sowie öffentlich-rechtliche Rundfunkanbieter und deren Zusammenarbeit ausgeweitet, wobei bei der kartellrechtlichen Prüfung künftig die Stärkung im intermedialen Wettbewerb besonders berücksichtigt wird. Zudem sollen ein beschleunigtes Verfahren beim Bundeskartellamt für Rechtsklarheit sorgen und Sanierungsfusionen im",
+          "title": "Sammelklage gegen Prime Video ist vorerst gescheitert",
+          "link": "https://www.dwdl.de/nachrichten/107208/sammelklage_gegen_prime_video_ist_vorerst_gescheitert/",
+          "summary": "Das Bayerische Oberste Landesgericht hat die Sammelklage der Verbraucherzentrale Sachsen gegen Amazon, der sich rund 330.000 Personen angeschlossen hatten, vorerst abgewiesen. Anders als das Landgericht München I in einem separaten Verfahren werteten die Richter die standardmäßige Einführung von Werbung bei Prime Video als vertraglich zulässig, da weder eine Zusage der Werbefreiheit in den Vertragsbedingungen bestehe noch eine entsprechende Vermarktung nachgewiesen werden konnte.",
           "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Pro und Contra: Warum Sat 2 ein Erfolg wird - oder auch nicht",
-          "link": "https://www.horizont.net/medien/nachrichten/pro-und-contra-warum-sat-2-ein-erfolg-wird---oder-auch-nicht-235123?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "ProSiebenSat.1 plant für das kommende Jahr den Start des frei empfangbaren Retro-Senders Sat 2. Die Erfolgsaussichten des Vorhabens werden in der Branche kontrovers diskutiert – zwischen brillantem Strategieschachzug und fragwürdiger Idee. Der HORIZONT-Beitrag beleuchtet die Argumente für und gegen einen Erfolg des neuen Senders.",
-          "score": 9
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Medienwissenschaftler Martin Andree: Wie Big Tech immer weiter wächst - und warum digitale Vielfalt eine Illusion bleibt",
-          "link": "https://www.horizont.net/medien/nachrichten/medienwissenschaftler-martin-andree-wie-big-tech-immer-weiter-waechst---und-warum-digitale-vielfalt-eine-illusion-bleibt-235060?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der Kölner Medienwissenschaftler Martin Andree warnt in seinem neuen Buch erneut vor der übermächtigen Marktdominanz großer US-Plattformen und bezeichnet die vielbeschworene digitale Vielfalt als Illusion. Zum Schutz einer freien Öffentlichkeit fordert er eine konsequente regulatorische Eindämmung der Big-Tech-Konzerne.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Nach 18 Jahren Schluss: RTLZWEI-Digitalstratege Krietsch geht Er verzahnte lineares Fernsehen mit Streaming und baute das Digitalgeschäft von RTLZWEI mit auf",
-          "link": "https://kress.de/news/beitrag/154148-nach-18-jahren-schluss-rtlzwei-digitalstratege-krietsch-geht.html",
-          "summary": "Julian Krietsch, Bereichsleiter Channel Strategy & Content Distribution und Mitglied der Geschäftsleitung, verlässt RTLZWEI nach 18 Jahren. Er verantwortete die plattformübergreifende Content-Distribution im Rahmen der Multi-Channel-Strategie sowie die strategische Entwicklung des Digitalgeschäfts und trieb dabei zentrale Streaming-Partnerschaften – insbesondere mit RTL+ – sowie den Ausbau des Video-, Social-Media- und YouTube-Geschäfts voran.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Interview über Retail Media, KI und die Zukunft des E-Commerce Marc Fischli: „Die eigentliche Schlacht wird um den Kundenzugang geführt“ LLMs, KI-Agenten und neue Werbeformate verändern den digitalen Handel grundlegend. Im Interview erklärt Marc Fischli, wie sich Criteo auf diese Entwicklung vorbereitet, warum hochwertige Commerce-Daten zum wichtigsten Wettbewerbsvorteil werden, weshalb Retailer die Kontrolle über ihre Transaktionsdaten behalten wollen",
-          "link": "https://meedia.de/news/beitrag/24654-marc-fischli-die-eigentliche-schlacht-wird-um-den-kundenzugang-gefuehrt.html",
-          "summary": "Im Interview erläutert Marc Fischli, wie sich Criteo mit dem Übergang von Retargeting hin zu Omnichannel-Kampagnen und KI-gestützten Planungstools auf den durch LLMs und KI-Agenten veränderten E-Commerce vorbereitet, wobei hochwertige Commerce-Daten zum entscheidenden Wettbewerbsvorteil avancieren. Fischli betont, dass Retailer die Kontrolle über ihre Transaktionsdaten behalten wollen, und bewertet die neuen KI-Plattformen eher als Wachstumschance denn als Bedrohung. Vor diesem Hintergrund steht Criteo zudem vor einer Verlegung des Firmensitzes in die USA sowie einem Übernahmeangebot der Investoren Robert Smith und Karim Samii.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Neue  Plattform mit The Trade Desk Dentsu will Werbungtreibende bessere Zielgruppenbeschreibungen...",
-          "link": "https://meedia.de/news/beitrag/24657-dentsu-will-werbungtreibende-bessere-zielgruppenbeschreibungen-und-optimierungsmoeglichkeiten-anbieten.html",
-          "summary": "Dentsu launcht mit „New Stream Media\" eine End-to-End-Retail-Media-Plattform, die CRM-, Transaktions- sowie Online- und Offline-Daten in einer eigenen Datenumgebung bündelt und Händlern die Monetarisierung ihrer First-Party-Daten für programmatische Kampagnen ermöglicht. Als erster Technologiepartner ist The Trade Desk angebunden, wodurch Händler ihre Daten direkt für programmatische Werbung nutzen und den Abverkaufserfolg nahezu in Echtzeit messen und optimieren können. Laut Dentsu ist es die erste Konzernlösung, die Datenmonetarisierung, Commerce Media, Technologie und Media-Services integriert.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "‘Laws were broken’: multistate effort to stop Paramount’s $111bn merger heads to court",
-          "link": "https://www.theguardian.com/media/2026/jul/17/paramount-warner-bros-merger",
-          "summary": "Zwölf demokratische Generalstaatsanwälte unter Führung Kaliforniens haben Klage gegen die 111-Milliarden-Dollar-Fusion von Paramount Skydance und Warner Bros Discovery eingereicht, da diese gegen den Clayton Act verstoße und den Wettbewerb im Film- und Kabelfernsehmarkt einschränke. Obwohl das US-Justizministerium die Fusion bereits im Juni genehmigt hatte, soll eine entscheidende Anhörung am Freitag klären, ob das Geschäft vorläufig gestoppt wird. Auffällig ist das Fehlen republikanischer Unterstützung, während eine parallele überparteiliche Koalition bereits erfolgreich die Nexstar-Tegna-Fusion vorläufig blockieren konnte.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Emmys Slice Key Writing, Directing, And Acting Categories From Primetime Show, But The Guilds Don’t Agree – Notes On The Season",
-          "link": "https://deadline.com/2026/07/emmys-writing-directing-acting-categories-primetime-show-1236997189/",
-          "summary": "Die Television Academy hat beschlossen, mehrere Schlüsselkategorien – darunter Nebendarsteller, Regie und Drehbuch für Limited Series/Anthology/TV-Movie sowie Drehbuch für Variety-Serien – aus der Primetime-Übertragung der Emmys 2026 (14. September auf NBC) in die vorgelagerten Creative-Arts-Zeremonien zu verlagern, wodurch die Hauptshow auf nur 19 Kategorien reduziert wird. Die Gewerkschaften DGA, WGA und SAG-AFTRA protestierten in einer gemeinsamen Erklärung scharf und warfen der Academy vor, mit dieser Entscheidung die Leistungen der zu ehrenden Künstler herabzuwürdigen. Bereits frühere Versuche dieser Art (2020 und",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Netflix Says It Paid $587 Million For Ben Affleck AI Firm InterPositive, Confirming Previously Reported Estimate",
-          "link": "https://deadline.com/2026/07/netflix-paid-587-million-for-ben-affleck-ai-firm-interpositive-1236997198/",
-          "summary": "Netflix hat in einem SEC-Filing bestätigt, dass es 587 Millionen US-Dollar für die Übernahme von InterPositive gezahlt hat, der 2022 gegründeten KI-Firma von Ben Affleck, der künftig in beratender Funktion tätig sein wird. Co-CEO Ted Sarandos hob dabei die Kosteneinsparungen durch generative KI hervor, die bereits Auswirkungen auf hunderte Produktionen zeige – ein angesichts der Sensibilität der Kreativbranche gegenüber KI-bedingten Umbrüchen heikles Thema.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Netflix Snaps Up Rupert Murdoch Thriller ‘Ink’ From Danny Boyle Ahead Of Venice Premiere",
-          "link": "https://deadline.com/2026/07/danny-boyle-ink-acquired-netflix-distribution-1236997234/",
-          "summary": "Netflix hat sich die Vertriebsrechte für die USA und Lateinamerika an Danny Boyles neuem Thriller „Ink“ gesichert, der am 2. September als Eröffnungsfilm der 83. Filmfestspiele von Venedig seine Weltpremiere feiert. Der Film – basierend auf dem Tony-nominierten Theaterstück von James Graham – erzählt die Geschichte rund um Rupert Murdoch (gespielt von Guy Pearce) und ein neues Zeitungskonzept, mit Jack O'Connell und Claire Foy in weiteren Hauptrollen. Studiocanal übernimmt den Kinovertrieb in seinen Kernterritorien wie Großbritannien, Frankreich und Deutschland und wickelte gemeinsam mit WME Independent den Netflix-Deal ab.",
-          "score": 9
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Netflix Paid $587 Million for Ben Affleck’s AI Company",
-          "link": "https://www.hollywoodreporter.com/business/business-news/netflix-price-ben-affleck-ai-company-revealed-1236651217/",
-          "summary": "Netflix hat laut einer neuen SEC-Meldung (Form 10-Q) 587 Millionen US-Dollar in bar für Ben Afflecks KI-Unternehmen InterPositive gezahlt, wobei die Übernahme im März 2026 abgeschlossen und als Unternehmenszusammenschluss bilanziert wurde. Das 2022 gegründete Unternehmen fokussiert sich auf KI-gestützte Visual-Effects-Lösungen, die kreative Prozesse wie Drehbuch, Regie und Schauspiel unangetastet lassen sollen. Affleck verpflichtete sich im Rahmen des Deals zudem als Senior Advisor für das Unternehmen.",
-          "score": 9
         }
       ]
     }
