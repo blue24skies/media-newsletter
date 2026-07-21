@@ -1,70 +1,119 @@
 {
   "newsletters": [
     {
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "articles": [
         {
           "source": "DWDL",
-          "title": "RTL und Springer schnüren Bundle aus RTL+ und \"Bild Plus\"",
-          "link": "https://www.dwdl.de/nachrichten/107222/rtl_und_springer_schnueren_bundle_aus_rtl_und_bild_plus/",
-          "summary": "RTL und Springer bieten künftig ein Bundle aus RTL+ Premium und \"Bild Plus\" für 9,99 Euro monatlich über bild.de an – ein Preis, der dem alleinigen RTL+ Premium-Abo entspricht. Neben dem Wachstum durch zusätzliche Abos zielt die Partnerschaft vor allem auf eine engere inhaltliche Zusammenarbeit bei Information, Unterhaltung und Live-Events ab. Der Deal reiht sich in die zunehmende Bundling-Strategie von RTL+ ein, das bereits Kooperationen mit Magenta TV und HBO Max unterhält.",
-          "score": 10
+          "title": "Paramount darf Warner-Übernahme vorerst nicht abschließen",
+          "link": "https://www.dwdl.de/nachrichten/107234/paramount_darf_warneruebernahme_vorerst_nicht_abschliessen/",
+          "summary": "Eine US-Bundesrichterin hat per einstweiliger Verfügung die rund 111 Milliarden Dollar schwere Übernahme von Warner Bros. Discovery durch Paramount vorerst für 14 Tage (verlängerbar) gestoppt, obwohl das US-Justizministerium den Deal bereits ohne wesentliche Auflagen genehmigt hatte. Hintergrund ist eine Klage von einem Dutzend Bundesstaaten unter Führung Kaliforniens, die vor höheren Preisen und einem geringeren Angebot – insbesondere im Blockbuster-Segment – warnen. Paramount argumentiert gegenteilig, dass die Fusion den Wettbewerb stärken würde.",
+          "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Armin Coerper wird neuer Leiter des ZDF-Studios in New York",
-          "link": "https://www.dwdl.de/nachrichten/107206/armin_coerper_wird_neuer_leiter_des_zdfstudios_in_new_york/",
-          "summary": "Armin Coerper, bisheriger Leiter des ZDF-Studios Moskau, übernimmt im September die Leitung des ZDF-Studios New York und folgt damit auf Nicola Albrecht. Albrecht war im Februar abgezogen worden, nachdem sie in einem \"heute-journal\"-Beitrag über ICE-Festnahmen sowohl kontextfremdes als auch KI-generiertes Bildmaterial verwendet hatte; sie wechselt nun als Redakteurin und Reporterin ins ZDF-Landesstudio Berlin. Der Fall hatte beim ZDF nicht nur wegen der KI-Bilder, sondern auch wegen des zunächst fehlerhaften Krisenmanagements für erhebliche Kritik gesorgt.",
+          "title": "ProSiebenSat.1 und ZDF machen Streaming-Deal offiziell",
+          "link": "https://www.dwdl.de/nachrichten/107235/prosiebensat1_und_zdf_machen_streamingdeal_offiziell/",
+          "summary": "ProSiebenSat.1 und das ZDF haben eine offizielle Kooperation zur Einbindung von ZDF-On-Demand-Inhalten auf der Streamingplattform Joyn vereinbart, deren operativer Start für das vierte Quartal 2026 geplant ist – die Inhalte sollen dort kostenlos und werbefrei verfügbar sein. Der Deal markiert eine deutliche Wende gegenüber dem Vorjahr, als ProSiebenSat.1 Inhalte von ARD und ZDF noch ungefragt übernommen und damit heftige Kritik sowie juristische Gegenwehr ausgelöst hatte.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "ARD ändert bei \"Nord bei Nordwest\" den Senderhythmus",
+          "link": "https://www.dwdl.de/nachrichten/107228/ard_aendert_bei_nord_bei_nordwest_den_senderhythmus/",
+          "summary": "Die ARD durchbricht ihren gewohnten Ausstrahlungsrhythmus bei der erfolgreichen Krimireihe \"Nord bei Nordwest\" und zeigt zwei neue Folgen erstmals im Spätsommer (ab 27. August, 20:15 Uhr) statt wie bisher im Januar – möglich wurde dies durch die reduzierte Folgenzahl zu Jahresbeginn. Die Reihe mit Hinnerk Schönemann erreicht regelmäßig über sechs Millionen Zuschauer und zählt damit zu den quotenstärksten Formaten des Donnerstags-Krimis. Eine weitere neue Folge (\"Zimtschwestern\") befindet sich bereits in Produktion, ihre Ausstrahlung ist jedoch erst für Herbst 2027 geplant.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Diese \"Divas\" schicken Sat.1 und Joyn in den Dschungel",
+          "link": "https://www.dwdl.de/nachrichten/107221/diese_divas_schicken_sat1_und_joyn_in_den_dschungel/",
+          "summary": "ProSiebenSat.1 startet am 3. August das Reality-Format \"Dschungel Divas – Jede Versuchung kostet\" auf Sat.1 und Joyn, bei dem zehn reality-erfahrene Teilnehmerinnen um bis zu 100.000 Euro Preisgeld kämpfen, das durch luxuriöse Verlockungen jedoch reduziert wird. Das von Redseven Entertainment produzierte Format läuft um 22:15 Uhr im Anschluss an die zweite Staffel von \"Villa der Versuchung\" und setzt mit Namen wie Micaela Schäfer und Giulia Siegel auf ein Konzept, das dem vorangestellten Programm ähnelt.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Weiter am Ball: Telekom sichert sich Rechte für die WM 2030",
+          "link": "https://www.dwdl.de/nachrichten/107216/weiter_am_ball_telekom_sichert_sich_rechte_fuer_die_wm_2030/",
+          "summary": "Die Deutsche Telekom hat sich die Medienrechte an allen 104 Partien der Fußball-WM 2030 für ihre Plattform MagentaTV gesichert und setzt damit ihre Fußball-Strategie nach der bereits erworbenen EURO 2028 fort. Free-TV-Partner sind bislang nicht bekannt, allerdings schreibt der Medienstaatsvertrag vor, dass zumindest die Spiele der deutschen Mannschaft sowie Eröffnungsspiel, Halbfinals und Endspiel frei empfangbar ausgestrahlt werden müssen. Die Entscheidung folgt auf die erfolgreichen MagentaTV-Übertragungen der diesjährigen WM, die unter anderem von den medienwirksamen Auftritten Jürgen Klopps als Experte profitierten.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Kult-Krimiserie: Nach fast 50 Jahren: ZDF stellt &quot;Ein Fall für zwei&quot; ein",
-          "link": "https://www.horizont.net/medien/nachrichten/kult-krimiserie-nach-fast-50-jahren-zdf-stellt-ein-fall-fuer-zwei-ein-235124?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Das ZDF stellt nach fast fünf Jahrzehnten seine 1981 gestartete Freitagskrimi-Serie \"Ein Fall für zwei\" ein. Die finale Staffel mit vier Episoden sowie ein Abschlussfilm sollen 2027 ausgestrahlt werden. Der Sender bezeichnet die Entscheidung als schwierig und deutet neue Programmpläne an.",
+          "title": "Everscreen AI: Diese Plattform ermöglicht CTV-Kampagnen auch für kleine Budgets",
+          "link": "https://www.horizont.net/medien/nachrichten/everscreen-ai-diese-plattform-ermoeglicht-ctv-kampagnen-auch-fuer-kleine-budgets-235129?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Alchemist Media Labs erweitert seine Ende 2025 gestartete Buchungsplattform für Streaming und Connected TV um eine Self-Service-Oberfläche, die es auch kleinen und mittelständischen Unternehmen ermöglicht, Bewegtbildkampagnen bei Anbietern wie Netflix und Prime Video umzusetzen. Damit werden CTV-Kampagnen erstmals auch für kleinere Budgets zugänglich; erste Kunden haben die Plattform bereits getestet.",
           "score": 8
         },
         {
           "source": "Horizont Medien",
-          "title": "&quot;Die Anstalt&quot;: ZDF streicht Auftritt von Danger Dan wegen Songtext",
-          "link": "https://www.horizont.net/medien/nachrichten/die-anstalt-zdf-streicht-auftritt-von-danger-dan-wegen-umstrittenem-songtext-235119?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Das ZDF hat einen geplanten gemeinsamen Auftritt der Musiker Danger Dan und Igor Levit in der Jubiläumsausgabe der Satiresendung „Die Anstalt“ kurzfristig gestrichen, da der Sender den Text des neuen Songs „Keine Angst“ als problematisch einstufte. Danger Dan kritisiert die Entscheidung als Eingriff in die Meinungs- und Kunstfreiheit.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "Hans stärkt Russland, Pantel das Buch Zwei Chefredakteurin Judith Wittwer holt sich zwei \"prägende...",
-          "link": "https://kress.de/news/beitrag/154157-sz-rueckkehrer-hans-staerkt-russland-pantel-das-buch-zwei.html",
-          "summary": "Die Süddeutsche Zeitung verstärkt ihre Redaktion durch die Rückkehr zweier erfahrener Journalisten: Julian Hans, ehemaliger Moskau-Korrespondent (2013–2018), soll die Russland-Berichterstattung stärken und zunächst die Ausgabenproduktion unterstützen. Nadia Pantel, frühere Frankreichkorrespondentin, stößt im Januar 2027 als regelmäßige Autorin zum \"Buch Zwei\" und wird Reportagen, Essays und Meinungsstücke verfassen. Chefredakteurin Judith Wittwer bezeichnet beide als \"prägende Stimmen ihres Fachs\".",
+          "title": "Nach Kartellklage: US-Richterin legt Übernahme von Warner Bros. für zwei Wochen auf Eis",
+          "link": "https://www.horizont.net/medien/nachrichten/nach-kartellklage-us-richterin-legt-uebernahme-von-warner-bros.-fuer-zwei-wochen-auf-eis-235150?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Eine US-Richterin hat die geplante Übernahme von Warner Brothers durch Paramount nach einer Kartellklage von zwölf US-Bundesstaaten für zunächst zwei Wochen ausgesetzt. Laut „Wall Street Journal“ wurde der Deal von der Ministeriumsführung genehmigt, bevor die zuständigen Behördenjuristen eine Empfehlung abgeben konnten. Für Paramount könnte die Verzögerung kostspielig werden, da dem Unternehmen zusätzliche Quartalszahlungen an die Warner-Aktionäre drohen.",
           "score": 7
         },
         {
-          "source": "kress",
-          "title": "NOZ startet Volontariatsprogramm an sieben Standorten Die Neue Osnabrücker Zeitung sucht...",
-          "link": "https://kress.de/news/beitrag/154158-job-des-tages-noz-startet-volontariatsprogramm-an-sieben-standorten.html",
-          "summary": "Die Neue Osnabrücker Zeitung startet ein Volontariatsprogramm an sieben Standorten, das journalistisches Handwerkszeug in Lokalredaktionen und überregionalen Teams sowie individuell auf die Stärken der Volontäre zugeschnittene Schulungen und Feedbackgespräche vermittelt. Gesucht werden Bewerber mit ersten journalistischen Erfahrungen, sicherem Sprachgefühl, Interesse am Lokaljournalismus sowie Führerschein und Autozugang. Geboten werden unter anderem ein kostenfreies Deutschlandticket, 30 Urlaubstage, betriebliche Altersvorsorge und umfangreiche Weiterbildungsangebote.",
+          "source": "Horizont Medien",
+          "title": "Kampf um TV-Rechte: Nach nächstem WM-Coup von MagentaTV: Was machen ARD und ZDF?",
+          "link": "https://www.horizont.net/medien/nachrichten/kampf-um-tv-rechte-nach-naechstem-wm-coup-von-magentatv-was-machen-ard-und-zdf-235137?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Telekom hat sich die exklusiven Übertragungsrechte für alle 104 Spiele der WM 2030 gesichert, die künftig ausschließlich beim kostenpflichtigen Pay-TV-Sender MagentaTV laufen sollen. Bei der WM 2026 wurden per Sub-Lizenzierung noch Spiele an ARD und ZDF weitergegeben, wobei 44 Partien – darunter zwei Halbfinals – exklusiv bei MagentaTV zu sehen waren. Der Deal verschärft den Wettbewerb um Sportrechte und stellt die öffentlich-rechtlichen Sender vor die Frage, wie sie den Zugang zu Großereignissen im Free-TV künftig sichern können.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "TV-Rechte-Vertrag perfekt: MagentaTV zeigt auch die Fußball-WM 2030",
+          "link": "https://www.horizont.net/medien/nachrichten/tv-rechte-vertrag-perfekt-fussball-wm-laeuft-auch-in-vier-jahren-komplett-bei-magentatv-235134?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Telekom hat sich die TV-Rechte für die Fußball-WM 2030 gesichert, wie Telekom-Deutschland-Chef Rodrigo Diehl vor dem WM-Finale bei MagentaTV bestätigte. Der Vertrag sei bereits unterschrieben, womit das Turnier erneut vollständig beim Streamingdienst der Telekom laufen wird.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Mit Mark Forster Die Sparkassen und S&F machen jetzt auch in Miniserie Mit einer fünfteiligen...",
-          "link": "https://meedia.de/news/beitrag/24668-die-sparkassen-und-s-amp-f-machen-jetzt-auch-in-miniserie.html",
-          "summary": "Die Sparkassen-Finanzgruppe startet gemeinsam mit ihrer Leadagentur Scholz & Friends die fünfteilige Branded-Entertainment-Miniserie „Die Neusparer“, die auf Joyn, RTL+, Amazon Prime und Social Media statt via klassischem TV-Spot ausgespielt wird. Die Serie spielt in der fiktiven Gemeinde „Neu Spardorf“, wo Filialleiterin Mareike überspitzte Charaktere für moderne Geldanlage begeistern soll. Für zusätzliche Reichweite sorgt Musiker Mark Forster, der sich selbst mit Selbstironie spielt.",
+          "title": "Interview mit RTL-Zwei-Chef Thorsten Braun \"Im Fernsehen sind wir mordsälter geworden und im...",
+          "link": "https://meedia.de/news/beitrag/24670-quot-im-fernsehen-sind-wir-mordsaelter-geworden-und-im-streaming-sind-wir-jung-quot.html",
+          "summary": "RTL-Zwei-Chef Thorsten Braun betont im turi2-Interview die getrennte Betrachtung von linearem TV und Streaming, da sich die Zielgruppen deutlich unterscheiden – während das TV-Publikum stark gealtert ist, erreicht der Sender im Streaming ein junges Publikum, wobei RTL-Zwei-Inhalte 20 Prozent der RTL+-Nutzung ausmachen. In der kommenden Saison setzt der Sender auf eine Mischung aus etablierten und neuen Formaten mit Fokus auf \"echtes Leben\" und mutet sich dabei auch schwere Themen wie Sterbehilfe zu, die er trotz zunehmend unsicherer Werbebudgets für werberelevant hält.",
+          "score": 9
+        },
+        {
+          "source": "meedia",
+          "title": "AI eine Self-Service-Plattform für die Buchung von Connected-TV- und Streaming-TV-Kampagnen vorgestellt.",
+          "link": "https://meedia.de/news/beitrag/24675-alchemist-media-labs-neue-self-service-meta-dsp-fuer-streaming-kampagnen.html",
+          "summary": "Alchemist Media Labs hat mit Everscreen.AI eine Self-Service-Meta-DSP für Connected-TV- und Streaming-Kampagnen gestartet, die das Inventar von 18 Anbietern – darunter Amazon Prime Video, Netflix, Disney+, RTL+ und Joyn – in einer Oberfläche bündelt. Die Plattform verzichtet auf Mindestbuchungsvolumina und ermöglicht laut Anbieter dank KI- und Agentic-AI-Funktionen eine Kampagnenaktivierung in unter vier Minuten. Zielgruppe sind insbesondere kleine und mittelständische Unternehmen, für die CTV-Werbung bislang durch Budgetanforderungen, fehlende Tools und fragmentierten Einkauf erschwert war.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "1 haben nun doch eine enge Zusammenarbeit im Streaming-Markt beschlossen.",
+          "link": "https://meedia.de/news/beitrag/24673-joyn-darf-jetzt-doch-zdf-inhalte-integrieren.html",
+          "summary": "ZDF und ProSiebenSat.1 haben ihren Streit um die eigenmächtige Content-Integration beigelegt und eine Kooperation beschlossen, wonach ab dem vierten Quartal 2025 On-Demand-Inhalte des ZDF kostenlos und werbefrei über die Streaming-Plattform Joyn verfügbar sein werden. Die redaktionelle Verantwortung verbleibt vollständig beim ZDF, dessen eigenes Streamingportal weiterhin die zentrale digitale Heimat des öffentlich-rechtlichen Angebots bleiben soll. Ziel der Zusammenarbeit ist es, dem wachsenden Wettbewerbsdruck durch internationale Streaming-Anbieter zu begegnen.",
+          "score": 10
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Judge orders pause on Paramount-Warner merger after challenge from 12 states",
+          "link": "https://www.theguardian.com/film/2026/jul/20/judge-pause-paramount-warner-bros-merger",
+          "summary": "Ein US-Bundesgericht hat die geplante 81-Milliarden-Dollar-Fusion zwischen Paramount und Warner Bros Discovery für mindestens zwei Wochen gestoppt, nachdem zwölf US-Bundesstaaten unter Führung Kaliforniens gegen den Deal geklagt hatten. Die Staatsanwälte argumentieren, der Zusammenschluss zweier der fünf verbliebenen Hollywood-Studios würde den Wettbewerb \"auslöschen\" und Verbrauchern weniger Auswahl bieten. Die von Richterin Araceli Martínez-Olguín erlassene einstweilige Verfügung ebnet den Weg für eine mögliche dauerhafte Untersagung der Fusion durch eine gerichtliche Verfügung.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Na Hong-Jin’s Cannes Competition Title ‘Hope’ Has Strong Opening At Korean Box Office",
-          "link": "https://deadline.com/2026/07/na-hong-jin-hope-cannes-competition-korean-box-office-1236998204/",
-          "summary": "Na Hong-Jins in Cannes im Wettbewerb gezeigter Sci-Fi-Film „Hope\" übertraf am fünftägigen Eröffnungswochenende in Korea die 2-Millionen-Zuschauer-Marke – schneller als jeder andere Film des Jahres, unterstützt durch staatliche Rabatt-Coupons. Der mit internationalem Cast (u.a. Michael Fassbender, Alicia Vikander) besetzte, als teuerster koreanischer Film aller Zeiten geltende Titel polarisiert das Publikum und müsste rund 20 Millionen Tickets verkaufen, um allein im Kino die Gewinnschwelle zu erreichen. Immerhin sicherte sich der von Plus M Entertainment vertriebene Film bereits Vorverkäufe in rund 200 internationalen Territor",
+          "title": "All3Media International’s Jonathan Hughes Exits For ITV Studios After Banijay Merger",
+          "link": "https://deadline.com/2026/07/all3media-international-sales-exit-itv-studios-post-merger-1236999084/",
+          "summary": "Jonathan Hughes verlässt All3Media International nach zehn Jahren und wechselt zu ITV Studios als Vice President, Germany and Benelux Sales, während ITVS zudem Louisa Forsyth zur Vice President, UK and Ireland Sales befördert. Der Abgang reiht sich in eine Reihe von Führungswechseln nach der Fusion von RedBird IMI und Banijay ein, darunter der Weggang von All3-CEO Louise Pedersen sowie COO Sara Geater. Die zusammengeführte Vertriebseinheit firmiert künftig als Banijay Rights unter der Leitung von Cathy Payne.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘The Rest Is Football’ Returning To Netflix For Next Two Premier League Seasons",
-          "link": "https://deadline.com/2026/07/the-rest-is-football-podcast-netflix-premier-league-lineker-1236998218/",
-          "summary": "Netflix hat den Fußball-Podcast „The Rest Is Football\" mit Gary Lineker, Alan Shearer und Micah Richards für die kommenden zwei Premier-League-Saisons verlängert, mit zwei wöchentlichen Vodcast-Folgen (montags und freitags). Der von Linekers Produktionsfirma Goalhanger produzierte Podcast erzielte während der WM-Ausstrahlung solide, wenn auch keine Rekord-Reichweiten (Spitzenfolge rund 170.000 Zuschauer) und positioniert sich als Teil von Netflix' verstärktem Sport-Engagement, das zuletzt auch Dokumentationen über Mourinho, Fury und Vardy umfasste.",
-          "score": 7
+          "title": "ZDF & ProSieben Strike Streaming Pact As Traditional Rivals Team To Fight Streamers: “A Strong, Forward-Looking Signal”",
+          "link": "https://deadline.com/2026/07/zdf-prosiebensat1-joyn-streaming-deal-1236998428/",
+          "summary": "ZDF und ProSiebenSat.1 haben eine Streaming-Partnerschaft geschlossen, durch die ZDF-Inhalte (News, Dokus, Kultur, Unterhaltung) ab dem vierten Quartal 2026 werbefrei und kostenlos in ProSiebens Streamingdienst Joyn integriert werden. Die Kooperation reiht sich in den europäischen Trend ein, dass traditionelle Rivalen ihre Ressourcen gegen globale Tech-Konzerne bündeln, und beendet zugleich einen Rechtsstreit aus dem Vorjahr über die unautorisierte Einbindung von ZDF- und ARD-Inhalten bei Joyn. Beide Partner betonen den Fokus auf journalistische und kulturelle Inhalte „Made in Germany“, während das ZDF-eigene",
+          "score": 10
+        },
+        {
+          "source": "Variety",
+          "title": "FAST Provider Wedotv Launches in India With Samsung TV Plus (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/news/wedotv-samsung-tv-plus-india-fast-channels-1236817044/",
+          "summary": "Der FAST-Anbieter Wedotv startet mit vier Kanälen (Big Stories, Cars, Movies und Sports) erstmals in Indien über Samsung TV Plus und erreicht damit Millionen Smart-TV-Nutzer. Der Deal markiert Wedotvs 13. Territorium für Samsung-TV-Plus-Kanalstarts und stärkt die internationale Asien-Expansion des Unternehmens seit 2023. Samsung TV Plus verzeichnet weltweit über 100 Millionen monatlich aktive Nutzer.",
+          "score": 9
         }
       ]
     }
