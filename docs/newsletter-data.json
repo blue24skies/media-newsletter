@@ -1,119 +1,91 @@
 {
   "newsletters": [
     {
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Paramount darf Warner-Übernahme vorerst nicht abschließen",
-          "link": "https://www.dwdl.de/nachrichten/107234/paramount_darf_warneruebernahme_vorerst_nicht_abschliessen/",
-          "summary": "Eine US-Bundesrichterin hat per einstweiliger Verfügung die rund 111 Milliarden Dollar schwere Übernahme von Warner Bros. Discovery durch Paramount vorerst für 14 Tage (verlängerbar) gestoppt, obwohl das US-Justizministerium den Deal bereits ohne wesentliche Auflagen genehmigt hatte. Hintergrund ist eine Klage von einem Dutzend Bundesstaaten unter Führung Kaliforniens, die vor höheren Preisen und einem geringeren Angebot – insbesondere im Blockbuster-Segment – warnen. Paramount argumentiert gegenteilig, dass die Fusion den Wettbewerb stärken würde.",
+          "title": "Til Schweiger soll wieder \"Der bewegte Mann\" sein",
+          "link": "https://www.dwdl.de/nachrichten/107250/til_schweiger_soll_wieder_der_bewegte_mann_sein/",
+          "summary": "Til Schweiger kehrt mit \"Der bewegte Mann – Reloaded\" in seine Kultrolle als Axel zurück; die von der Film- und Medienstiftung NRW mit 900.000 Euro geförderte Fortsetzung setzt drei Jahrzehnte nach dem Original an und wird von den Kölner Firmen Gesellschaft für Feine Filme und Peak Point Pictures (Joint Venture von MMC Studios und Zeitsprung Pictures) produziert. Unter der Regie von Hermine Huntgeburth spielen neben Schweiger auch Jan Josef Liefers, Marie Bäumer und Rufus Beck, während das Drehbuch von Judy Horney und Martin Gypkens erneut auf den Comics von Ralf König basiert.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "ProSiebenSat.1 und ZDF machen Streaming-Deal offiziell",
-          "link": "https://www.dwdl.de/nachrichten/107235/prosiebensat1_und_zdf_machen_streamingdeal_offiziell/",
-          "summary": "ProSiebenSat.1 und das ZDF haben eine offizielle Kooperation zur Einbindung von ZDF-On-Demand-Inhalten auf der Streamingplattform Joyn vereinbart, deren operativer Start für das vierte Quartal 2026 geplant ist – die Inhalte sollen dort kostenlos und werbefrei verfügbar sein. Der Deal markiert eine deutliche Wende gegenüber dem Vorjahr, als ProSiebenSat.1 Inhalte von ARD und ZDF noch ungefragt übernommen und damit heftige Kritik sowie juristische Gegenwehr ausgelöst hatte.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "ARD ändert bei \"Nord bei Nordwest\" den Senderhythmus",
-          "link": "https://www.dwdl.de/nachrichten/107228/ard_aendert_bei_nord_bei_nordwest_den_senderhythmus/",
-          "summary": "Die ARD durchbricht ihren gewohnten Ausstrahlungsrhythmus bei der erfolgreichen Krimireihe \"Nord bei Nordwest\" und zeigt zwei neue Folgen erstmals im Spätsommer (ab 27. August, 20:15 Uhr) statt wie bisher im Januar – möglich wurde dies durch die reduzierte Folgenzahl zu Jahresbeginn. Die Reihe mit Hinnerk Schönemann erreicht regelmäßig über sechs Millionen Zuschauer und zählt damit zu den quotenstärksten Formaten des Donnerstags-Krimis. Eine weitere neue Folge (\"Zimtschwestern\") befindet sich bereits in Produktion, ihre Ausstrahlung ist jedoch erst für Herbst 2027 geplant.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Diese \"Divas\" schicken Sat.1 und Joyn in den Dschungel",
-          "link": "https://www.dwdl.de/nachrichten/107221/diese_divas_schicken_sat1_und_joyn_in_den_dschungel/",
-          "summary": "ProSiebenSat.1 startet am 3. August das Reality-Format \"Dschungel Divas – Jede Versuchung kostet\" auf Sat.1 und Joyn, bei dem zehn reality-erfahrene Teilnehmerinnen um bis zu 100.000 Euro Preisgeld kämpfen, das durch luxuriöse Verlockungen jedoch reduziert wird. Das von Redseven Entertainment produzierte Format läuft um 22:15 Uhr im Anschluss an die zweite Staffel von \"Villa der Versuchung\" und setzt mit Namen wie Micaela Schäfer und Giulia Siegel auf ein Konzept, das dem vorangestellten Programm ähnelt.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Weiter am Ball: Telekom sichert sich Rechte für die WM 2030",
-          "link": "https://www.dwdl.de/nachrichten/107216/weiter_am_ball_telekom_sichert_sich_rechte_fuer_die_wm_2030/",
-          "summary": "Die Deutsche Telekom hat sich die Medienrechte an allen 104 Partien der Fußball-WM 2030 für ihre Plattform MagentaTV gesichert und setzt damit ihre Fußball-Strategie nach der bereits erworbenen EURO 2028 fort. Free-TV-Partner sind bislang nicht bekannt, allerdings schreibt der Medienstaatsvertrag vor, dass zumindest die Spiele der deutschen Mannschaft sowie Eröffnungsspiel, Halbfinals und Endspiel frei empfangbar ausgestrahlt werden müssen. Die Entscheidung folgt auf die erfolgreichen MagentaTV-Übertragungen der diesjährigen WM, die unter anderem von den medienwirksamen Auftritten Jürgen Klopps als Experte profitierten.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Everscreen AI: Diese Plattform ermöglicht CTV-Kampagnen auch für kleine Budgets",
-          "link": "https://www.horizont.net/medien/nachrichten/everscreen-ai-diese-plattform-ermoeglicht-ctv-kampagnen-auch-fuer-kleine-budgets-235129?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Alchemist Media Labs erweitert seine Ende 2025 gestartete Buchungsplattform für Streaming und Connected TV um eine Self-Service-Oberfläche, die es auch kleinen und mittelständischen Unternehmen ermöglicht, Bewegtbildkampagnen bei Anbietern wie Netflix und Prime Video umzusetzen. Damit werden CTV-Kampagnen erstmals auch für kleinere Budgets zugänglich; erste Kunden haben die Plattform bereits getestet.",
+          "title": "Neuer Titel für deutsche Erotik-Dramedy von Prime Video",
+          "link": "https://www.dwdl.de/nachrichten/107248/neuer_titel_fuer_deutsche_erotikdramedy_von_prime_video/",
+          "summary": "Prime Video benennt seine von UFA Fiction produzierte Erotik-Dramedy vom Arbeitstitel \"Game of Keys\" in \"Friends Sex and Games\" um und legt den Starttermin auf den 16. Oktober fest. Die achtteilige Serie basiert auf der mexikanischen Vorlage \"El juego de las Llaves\" und erzählt vom \"Schlüsselspiel\" innerhalb einer Freundesclique, mit Paula Kalenberg und Fridolin Sandmeyer in den Hauptrollen. Die Headautorinnen sind Vivien Hoppe und Antonia Rothe-Liermann, als Executive Producerinnen fungieren Ulrike Leibfried und Sinah Swyter.",
           "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "Nach Kartellklage: US-Richterin legt Übernahme von Warner Bros. für zwei Wochen auf Eis",
-          "link": "https://www.horizont.net/medien/nachrichten/nach-kartellklage-us-richterin-legt-uebernahme-von-warner-bros.-fuer-zwei-wochen-auf-eis-235150?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Eine US-Richterin hat die geplante Übernahme von Warner Brothers durch Paramount nach einer Kartellklage von zwölf US-Bundesstaaten für zunächst zwei Wochen ausgesetzt. Laut „Wall Street Journal“ wurde der Deal von der Ministeriumsführung genehmigt, bevor die zuständigen Behördenjuristen eine Empfehlung abgeben konnten. Für Paramount könnte die Verzögerung kostspielig werden, da dem Unternehmen zusätzliche Quartalszahlungen an die Warner-Aktionäre drohen.",
+          "source": "DWDL",
+          "title": "Leonine will mit Branded- und Creator-Entertainment wachsen",
+          "link": "https://www.dwdl.de/nachrichten/107240/leonine_will_mit_branded_und_creatorentertainment_wachsen/",
+          "summary": "Leonine bündelt seine Aktivitäten im Bereich Branded- und Creator-Entertainment im neuen Label Leonine C_, das für Marken und Content-Partner plattformgerechte, gemeinsam mit Creatorn entwickelte Formate realisieren soll. Das in Köln ansässige Label ist im Non-Fiction-Ressort von Jochen Köstler angesiedelt – eine überraschende Zuordnung, da i&u-Studios-Chef Christian Meinberger bei Leonine Studios als Chief Digital Officer fungiert.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "ZDF-Joyn-Deal: \"Ein Vorbild für das neue Miteinander\"",
+          "link": "https://www.dwdl.de/nachrichten/107238/zdfjoyndeal_ein_vorbild_fuer_das_neue_miteinander/",
+          "summary": "ZDF und ProSiebenSat.1 haben eine Kooperation vereinbart, durch die ZDF-Inhalte voraussichtlich ab dem 4. Quartal 2026 kosten- und werbefrei direkt über die Streaming-Plattform Joyn abrufbar sein sollen. Die Einigung folgt auf einen früheren Konflikt, als ProSiebenSat.1 öffentlich-rechtliche Inhalte ungefragt eingebunden hatte, und wird nun im Rahmen des neuen Medienstaatsvertrags ermöglicht, der Kooperationen zwischen öffentlich-rechtlichen und privaten Medien explizit fördert. Medienpolitiker wie NRW-Medienminister Nathanael Liminski und der bayerische Medienminister Florian Herrmann lobten den Deal als Vorbild für",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Die ersten Sky-Spots sind auf den RTL-Sendern angekommen",
+          "link": "https://www.dwdl.de/aeos/107227/die_ersten_skyspots_sind_auf_den_rtlsendern_angekommen/",
+          "summary": "Nach der Übernahme von Sky Deutschland durch RTL Deutschland sind erstmals wieder in größerer Zahl Sky-Spots im Free-TV der RTL-Sender erschienen – beworben wurde vor allem der \"Top Deal\" mit Sky Serien & Filme, Paramount+ und Netflix. Rund 45 Prozent der Bruttoreichweite entfielen dabei auf die RTL-Sender, während der große Werbestartschuss zur crossmedialen Vermarktung von RTL+ und Sky für August im Vorfeld der neuen Bundesliga-Saison erwartet wird. Das Marken-Ranking der Woche wird weiterhin klar von Ferreros \"Kinder\" vor Kaufland und REWE angeführt.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Kampf um TV-Rechte: Nach nächstem WM-Coup von MagentaTV: Was machen ARD und ZDF?",
-          "link": "https://www.horizont.net/medien/nachrichten/kampf-um-tv-rechte-nach-naechstem-wm-coup-von-magentatv-was-machen-ard-und-zdf-235137?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die Telekom hat sich die exklusiven Übertragungsrechte für alle 104 Spiele der WM 2030 gesichert, die künftig ausschließlich beim kostenpflichtigen Pay-TV-Sender MagentaTV laufen sollen. Bei der WM 2026 wurden per Sub-Lizenzierung noch Spiele an ARD und ZDF weitergegeben, wobei 44 Partien – darunter zwei Halbfinals – exklusiv bei MagentaTV zu sehen waren. Der Deal verschärft den Wettbewerb um Sportrechte und stellt die öffentlich-rechtlichen Sender vor die Frage, wie sie den Zugang zu Großereignissen im Free-TV künftig sichern können.",
-          "score": 8
+          "title": "Joyn: Pro Sieben Sat 1 und ZDF starten Streaming-Kooperation",
+          "link": "https://www.horizont.net/medien/nachrichten/joyn-pro-sieben-sat-1-und-zdf-starten-streaming-kooperation-235167?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "ZDF und ProSiebenSat.1 weiten ihre Streaming-Kooperation aus: Ausgewählte Inhalte aus dem ZDF-Streamingangebot sollen künftig auch auf der Plattform Joyn verfügbar sein. Der operative Start ist für das vierte Quartal 2026 geplant.",
+          "score": 10
         },
         {
-          "source": "Horizont Medien",
-          "title": "TV-Rechte-Vertrag perfekt: MagentaTV zeigt auch die Fußball-WM 2030",
-          "link": "https://www.horizont.net/medien/nachrichten/tv-rechte-vertrag-perfekt-fussball-wm-laeuft-auch-in-vier-jahren-komplett-bei-magentatv-235134?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die Telekom hat sich die TV-Rechte für die Fußball-WM 2030 gesichert, wie Telekom-Deutschland-Chef Rodrigo Diehl vor dem WM-Finale bei MagentaTV bestätigte. Der Vertrag sei bereits unterschrieben, womit das Turnier erneut vollständig beim Streamingdienst der Telekom laufen wird.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Interview mit RTL-Zwei-Chef Thorsten Braun \"Im Fernsehen sind wir mordsälter geworden und im...",
-          "link": "https://meedia.de/news/beitrag/24670-quot-im-fernsehen-sind-wir-mordsaelter-geworden-und-im-streaming-sind-wir-jung-quot.html",
-          "summary": "RTL-Zwei-Chef Thorsten Braun betont im turi2-Interview die getrennte Betrachtung von linearem TV und Streaming, da sich die Zielgruppen deutlich unterscheiden – während das TV-Publikum stark gealtert ist, erreicht der Sender im Streaming ein junges Publikum, wobei RTL-Zwei-Inhalte 20 Prozent der RTL+-Nutzung ausmachen. In der kommenden Saison setzt der Sender auf eine Mischung aus etablierten und neuen Formaten mit Fokus auf \"echtes Leben\" und mutet sich dabei auch schwere Themen wie Sterbehilfe zu, die er trotz zunehmend unsicherer Werbebudgets für werberelevant hält.",
+          "source": "kress",
+          "title": "ZDF-Inhalte künftig auch auf Joyn On-Demand-Inhalte des ZDF werden ab dem vierten Quartal direkt...",
+          "link": "https://kress.de/news/beitrag/154182-zdf-inhalte-kuenftig-auch-auf-joyn.html",
+          "summary": "Ab dem vierten Quartal 2026 werden On-Demand-Inhalte des ZDF kostenlos und werbefrei über die ProSiebenSat.1-Streaming-Plattform Joyn per technischer Einbindung (Embedding) verfügbar sein, wobei die redaktionelle Hoheit beim ZDF verbleibt. Entscheidend für die Einigung war laut DWDL, dass der durch ZDF-Inhalte generierte Traffic via AGF-Messung dem ZDF zugerechnet wird. Die Kooperation folgt auf einen Rechtsstreit von 2025, als der damalige ProSiebenSat.1-Vorstand Markus Breitenecker ARD- und ZDF-Inhalte ohne Zustimmung eingebunden hatte.",
           "score": 9
         },
         {
           "source": "meedia",
-          "title": "AI eine Self-Service-Plattform für die Buchung von Connected-TV- und Streaming-TV-Kampagnen vorgestellt.",
-          "link": "https://meedia.de/news/beitrag/24675-alchemist-media-labs-neue-self-service-meta-dsp-fuer-streaming-kampagnen.html",
-          "summary": "Alchemist Media Labs hat mit Everscreen.AI eine Self-Service-Meta-DSP für Connected-TV- und Streaming-Kampagnen gestartet, die das Inventar von 18 Anbietern – darunter Amazon Prime Video, Netflix, Disney+, RTL+ und Joyn – in einer Oberfläche bündelt. Die Plattform verzichtet auf Mindestbuchungsvolumina und ermöglicht laut Anbieter dank KI- und Agentic-AI-Funktionen eine Kampagnenaktivierung in unter vier Minuten. Zielgruppe sind insbesondere kleine und mittelständische Unternehmen, für die CTV-Werbung bislang durch Budgetanforderungen, fehlende Tools und fragmentierten Einkauf erschwert war.",
+          "title": "Technologie-Offensive für alle Beschäftigte Vom Tool zum Partner: Was man vom KI-Einsatz bei RTL Zwei lernen kann Nicht nur das jeweils neueste KI-Tool entscheidet über den Erfolg, sondern vor allem seine solide Verankerung im Unternehmen. RTL-Zwei-Digitalchef Johannes Ehrler blickt im exklusiven MEEDIA-Interview darauf zurück, wie er KI strategisch in München-Grünwald ausgerollt hat",
+          "link": "https://meedia.de/news/beitrag/24677-vom-tool-zum-partner-was-man-vom-ki-einsatz-bei-rtl-zwei-lernen-kann.html",
+          "summary": "RTL Zwei hat unter Digitalchef Johannes Ehrler KI nicht als Spezialistenlabor, sondern als unternehmensweiten Arbeitsstandard etabliert – inklusive breiter Lizenzzugänge wie ChatGPT Enterprise für alle Beschäftigten. Entscheidend für den Erfolg sind laut Ehrler nicht die neuesten Tools, sondern deren solide Verankerung durch Kultur, Führung und eine belastbare Datenbasis. Sein Fazit: Mit KI-Unterstützung kann ein kleines Team so effizient arbeiten wie ein Medien-Großunternehmen, wobei sich der Arbeitsfokus zunehmend von der Ausführung hin zum konzeptionellen Denken verschiebt.",
           "score": 8
         },
         {
           "source": "meedia",
-          "title": "1 haben nun doch eine enge Zusammenarbeit im Streaming-Markt beschlossen.",
-          "link": "https://meedia.de/news/beitrag/24673-joyn-darf-jetzt-doch-zdf-inhalte-integrieren.html",
-          "summary": "ZDF und ProSiebenSat.1 haben ihren Streit um die eigenmächtige Content-Integration beigelegt und eine Kooperation beschlossen, wonach ab dem vierten Quartal 2025 On-Demand-Inhalte des ZDF kostenlos und werbefrei über die Streaming-Plattform Joyn verfügbar sein werden. Die redaktionelle Verantwortung verbleibt vollständig beim ZDF, dessen eigenes Streamingportal weiterhin die zentrale digitale Heimat des öffentlich-rechtlichen Angebots bleiben soll. Ziel der Zusammenarbeit ist es, dem wachsenden Wettbewerbsdruck durch internationale Streaming-Anbieter zu begegnen.",
-          "score": 10
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Judge orders pause on Paramount-Warner merger after challenge from 12 states",
-          "link": "https://www.theguardian.com/film/2026/jul/20/judge-pause-paramount-warner-bros-merger",
-          "summary": "Ein US-Bundesgericht hat die geplante 81-Milliarden-Dollar-Fusion zwischen Paramount und Warner Bros Discovery für mindestens zwei Wochen gestoppt, nachdem zwölf US-Bundesstaaten unter Führung Kaliforniens gegen den Deal geklagt hatten. Die Staatsanwälte argumentieren, der Zusammenschluss zweier der fünf verbliebenen Hollywood-Studios würde den Wettbewerb \"auslöschen\" und Verbrauchern weniger Auswahl bieten. Die von Richterin Araceli Martínez-Olguín erlassene einstweilige Verfügung ebnet den Weg für eine mögliche dauerhafte Untersagung der Fusion durch eine gerichtliche Verfügung.",
+          "title": "\"Appell an die Branche, die eigene Stärke sichtbar zu machen\" Medientage München feiern 40.",
+          "link": "https://meedia.de/news/beitrag/24694-medientage-muenchen-feiern-40-jubilaeum-unter-dem-motto-quot-own-it-quot.html",
+          "summary": "Die Medientage München feiern vom 21. bis 23. Oktober ihr 40. Jubiläum unter dem Motto „Own it!“, das digitale Souveränität, Tech-Unabhängigkeit und die Rückgewinnung von Kontrolle im Zeitalter von KI und Plattformökonomie in den Mittelpunkt stellt. Zum runden Geburtstag wächst die Konferenz erstmals auf drei Veranstaltungsorte im Münchner Werksviertel und erwartet über 350 Speaker in mehr als 100 Formaten. Organisator Stefan Sutor versteht das Motto als Appell an die Branche, ihre eigene Stärke sichtbar zu machen und Verantwortung für die mediale Zukunft zu übernehmen.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "All3Media International’s Jonathan Hughes Exits For ITV Studios After Banijay Merger",
-          "link": "https://deadline.com/2026/07/all3media-international-sales-exit-itv-studios-post-merger-1236999084/",
-          "summary": "Jonathan Hughes verlässt All3Media International nach zehn Jahren und wechselt zu ITV Studios als Vice President, Germany and Benelux Sales, während ITVS zudem Louisa Forsyth zur Vice President, UK and Ireland Sales befördert. Der Abgang reiht sich in eine Reihe von Führungswechseln nach der Fusion von RedBird IMI und Banijay ein, darunter der Weggang von All3-CEO Louise Pedersen sowie COO Sara Geater. Die zusammengeführte Vertriebseinheit firmiert künftig als Banijay Rights unter der Leitung von Cathy Payne.",
-          "score": 7
+          "title": "Apple TV Seeking Local Language Boss",
+          "link": "https://deadline.com/2026/07/apple-tv-head-local-language-scripted-jay-hunt-tehran-1236999985/",
+          "summary": "Apple TV schafft eine neue, in London angesiedelte Position als „Head of Local Language Scripted\" innerhalb des Teams von Europa-Chef Jay Hunt, der nach den Abgängen von Morgan Wandell und Oliver Jones ein erweitertes Aufgabengebiet erhalten hat. Die Rolle soll die internationale Content-Strategie für lokalsprachige Serien definieren, dabei regionale Quoten und Compliance berücksichtigen sowie Marktlücken in wettbewerbsintensiven Territorien identifizieren. Unter Hunts Leitung produzierte Apple TV bereits erfolgreiche internationale Titel wie „Slow Horses\", „Bad Sisters\", „Liaison\" und „Where's Wanda?\".",
+          "score": 9
         },
         {
           "source": "Deadline",
-          "title": "ZDF & ProSieben Strike Streaming Pact As Traditional Rivals Team To Fight Streamers: “A Strong, Forward-Looking Signal”",
-          "link": "https://deadline.com/2026/07/zdf-prosiebensat1-joyn-streaming-deal-1236998428/",
-          "summary": "ZDF und ProSiebenSat.1 haben eine Streaming-Partnerschaft geschlossen, durch die ZDF-Inhalte (News, Dokus, Kultur, Unterhaltung) ab dem vierten Quartal 2026 werbefrei und kostenlos in ProSiebens Streamingdienst Joyn integriert werden. Die Kooperation reiht sich in den europäischen Trend ein, dass traditionelle Rivalen ihre Ressourcen gegen globale Tech-Konzerne bündeln, und beendet zugleich einen Rechtsstreit aus dem Vorjahr über die unautorisierte Einbindung von ZDF- und ARD-Inhalten bei Joyn. Beide Partner betonen den Fokus auf journalistische und kulturelle Inhalte „Made in Germany“, während das ZDF-eigene",
-          "score": 10
+          "title": "BBC Considers Locking Down iPlayer For Viewers Who Refuse To Pay Licence Fee",
+          "link": "https://deadline.com/2026/07/bbc-lock-iplayer-viewers-refuse-to-pay-licence-fee-1236999987/",
+          "summary": "Die BBC erwägt, ihren Streaming-Dienst iPlayer künftig für Nutzer zu sperren, die keine Rundfunkgebühr zahlen, um dem wachsenden Trend der Gebührenverweigerung entgegenzuwirken. Chief Customer Officer Kerris Bright betonte jedoch, dass eine solche Zugangssperre derzeit keinen Sinn ergebe, da der Großteil der iPlayer-Nutzer bereits zahle und eine Verifizierung zahlende Kunden abschrecken könnte. Die BBC hält die Option angesichts sich verbessernder Streaming-Technologie und veränderten Nutzerverhaltens (IPTV) jedoch für die Zukunft offen.",
+          "score": 7
         },
         {
           "source": "Variety",
-          "title": "FAST Provider Wedotv Launches in India With Samsung TV Plus (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/news/wedotv-samsung-tv-plus-india-fast-channels-1236817044/",
-          "summary": "Der FAST-Anbieter Wedotv startet mit vier Kanälen (Big Stories, Cars, Movies und Sports) erstmals in Indien über Samsung TV Plus und erreicht damit Millionen Smart-TV-Nutzer. Der Deal markiert Wedotvs 13. Territorium für Samsung-TV-Plus-Kanalstarts und stärkt die internationale Asien-Expansion des Unternehmens seit 2023. Samsung TV Plus verzeichnet weltweit über 100 Millionen monatlich aktive Nutzer.",
-          "score": 9
+          "title": "Venice Days Unveils Female-Centric Selection, Kicking Off With Lili Horvát’s ‘My Notes on Mars’ Starring Mackenzie Davis and Rupert Friend",
+          "link": "https://variety.com/2026/film/festivals/venice-days-lineup-lili-horvat-my-notes-on-mars-open-1236817239/",
+          "summary": "Die unabhängige Sektion Giornate degli Autori (Venice Days) der Filmfestspiele Venedig präsentiert 2026 eine weiblich geprägte Auswahl mit 25 Weltpremieren, von denen 14 von Regisseurinnen stammen, und wird von einer rein weiblichen Jury unter Vorsitz der katalanischen Regisseurin Carla Simón begleitet. Eröffnet wird die Sektion mit Lili Horváts erstem englischsprachigen Film „My Notes on Mars“ mit Mackenzie Davis und Rupert Friend, der eine Astrophysikerin porträtiert, die nach ihrem Verschwinden ohne Erinnerung – bis auf ihre Mars-Forschung – wieder auftaucht.",
+          "score": 7
         }
       ]
     }
