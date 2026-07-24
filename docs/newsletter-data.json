@@ -1,112 +1,56 @@
 {
   "newsletters": [
     {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Schwebigs Chance: Greift die RTL Group nach ITV Studios?",
-          "link": "https://www.dwdl.de/nachrichten/107255/schwebigs_chance_greift_die_rtl_group_nach_itv_studios/",
-          "summary": "Clément Schwebig übernahm Anfang Mai 2026 als neuer CEO der RTL Group, wodurch die zuvor bei Thomas Rabe in Personalunion gebündelten Führungsaufgaben wieder getrennt werden – parallel zu Thomas Coesfeld als designiertem Bertelsmann-Vorstandschef. Während RTL Deutschland unter CEO Stephan Schmitter aktuell die Sky-Übernahme vorantreibt, gilt das künftige Zusammenspiel zwischen Schwebig und Schmitter als entscheidend für die strategische Ausrichtung der unter Rabe geschrumpften RTL Group, die etwa in Frankreich weiterhin M6 veräußern möchte.",
+          "title": "Neue Spionage-Comedyserie läuft ab September bei ZDFneo",
+          "link": "https://www.dwdl.de/nachrichten/107274/neue_spionagecomedyserie_laeuft_ab_september_bei_zdfneo/",
+          "summary": "ZDFneo startet am 29. September die achtteilige Comedyserie \"Spyon\" (Doppelfolgen, dienstags 21:45 Uhr), die bereits ab dem 4. September in der ZDF-Mediathek abrufbar ist. Die von Smac Media produzierte Serie dreht sich um fünf unkonventionelle Spionage-Azubis unter Anleitung von Agentenlegende Voss (Götz Otto) und vereint ein Ensemble mit Sophie von Kessel, Alexander Beyer und Klaus Steinbacher. Regie führen Christof Pilsl und Nadine Keil, das Drehbuch stammt von Pilsl und Hannah Schopf.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "RTL streicht \"Diese Ochsenknechts\" wieder aus dem Programm",
+          "link": "https://www.dwdl.de/nachrichten/107261/rtl_streicht_diese_ochsenknechts_wieder_aus_dem_programm/",
+          "summary": "RTL nimmt die Free-TV-Ausstrahlung der Sky-Produktion \"Diese Ochsenknechts\" nach nur drei Folgen wegen schwacher Quoten (zuletzt nur 410.000 Zuschauer und 3,0 Prozent Marktanteil bei den 14- bis 49-Jährigen) mit sofortiger Wirkung aus dem Sonntagabend-Programm und setzt stattdessen auf Wiederholungen der \"Versicherungsdetektive\". Der Rückschlag erfolgt im Rahmen der wechselseitigen Verwertungsstrategie von RTL und Sky nach der Pay-TV-Übernahme; ein weiterer Free-TV-Versuch mit Sky-Content steht bereits mit der Serie \"Der Pass\" auf Nitro an.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "\"Unsere Nr.1 ist natürlich Netflix\": Neuer Deal mit Kaulitz-Brüdern",
-          "link": "https://www.dwdl.de/nachrichten/107257/unsere_nr1_ist_natuerlich_netflix_neuer_deal_mit_kaulitzbruedern/",
-          "summary": "Netflix hat auf der Premiere der dritten Staffel von „Kaulitz & Kaulitz“ nicht nur eine vierte Staffel angekündigt, sondern eine längerfristige exklusive Partnerschaft mit den Kaulitz-Brüdern verkündet. Bill und Tom Kaulitz bekräftigten den Deal mit den Worten „Unsere Nr. 1 ist natürlich Netflix“, während Non-Fiction-Director Wiebke Schodder die erfolgreiche mehrjährige Zusammenarbeit betonte.",
-          "score": 9
+          "title": "\"In aller Freundschaft\" meldet sich erst im September zurück",
+          "link": "https://www.dwdl.de/nachrichten/107252/in_aller_freundschaft_meldet_sich_erst_im_september_zurueck/",
+          "summary": "Die ARD-Krankenhausserie \"In aller Freundschaft\" legt in diesem Jahr eine ungewöhnlich lange Sommerpause von fast drei Monaten ein und kehrt erst am 1. September mit Folge 1145 zurück, wobei die Episode bereits eine Woche zuvor in der Mediathek abrufbar ist. Die Erstausstrahlungen erreichten 2026 im Schnitt rund 3,25 Millionen Zuschauer und über 15 Prozent Marktanteil. Zudem überträgt die ARD die Verleihung der \"Goldenen Henne\" nach dem quotenstarken Vorjahr (3,01 Millionen Zuschauer, 15,4 Prozent) erneut am 4. September im Hauptprogramm.",
+          "score": 7
         },
         {
           "source": "DWDL",
-          "title": "1&1 TV integriert ProSiebenSat.1-Streamingdienst Joyn",
-          "link": "https://www.dwdl.de/nachrichten/107256/11_tv_integriert_prosiebensat1streamingdienst_joyn/",
-          "summary": "1&1 hat den ProSiebenSat.1-Streamingdienst Joyn tief in seine TV-Plattform integriert, sodass Inhalte von Joyn+ direkt über die 1&1-TV-Oberfläche gesucht und gestartet werden können. Nach einmaliger Anmeldung bleiben Nutzer eingeloggt und gelangen unmittelbar zu den gewünschten Inhalten. Damit erweitert 1&1 sein Portfolio tief integrierter Streaming-Plattformen nach RTL+ und dem ZDF-Streamingportal.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Der letzte Bulle\": Sat.1 macht ohne Prime Video weiter",
-          "link": "https://www.dwdl.de/nachrichten/107251/der_letzte_bulle_sat1_macht_ohne_prime_video_weiter/",
-          "summary": "Sat.1 setzt die Neuauflage von \"Der letzte Bulle\" mit Henning Baum fort, allerdings ohne den bisherigen Partner Prime Video, der nach schwachen Streaming-Reichweiten (max. 300.000 Nettoreichweite) ausgestiegen ist. Während die Serie im linearen TV mit durchschnittlich 1,9 Millionen Zuschauern und 9,2 Prozent Marktanteil bei den 14- bis 59-Jährigen überzeugte, muss die entstandene Finanzierungslücke nun anderweitig geschlossen werden – unter anderem durch eine Förderung der Film- und Medienstiftung in Höhe von 1,5 Millionen Euro.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Mit Auflagen: EU-Kommission billigt Warner-Übernahme durch Paramount",
-          "link": "https://www.horizont.net/medien/nachrichten/mit-auflagen-eu-kommission-billigt-warner-uebernahme-durch-paramount-235178?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die EU-Kommission hat die 110 Milliarden Dollar schwere Übernahme von Warner Bros. Discovery durch Paramount Skydance unter Auflagen genehmigt. Die Bedingungen betreffen insbesondere den Vertrieb von Filmen in Europa, um wettbewerbsrechtliche Bedenken bei den beiden US-Medienkonzernen auszuräumen, die auch große Streamingdienste auf dem europäischen Markt betreiben.",
+          "title": "Zverev beflügelt Wimbledon-Reichweite bei Amazon",
+          "link": "https://www.dwdl.de/zahlenzentrale/107239/zverev_befluegelt_wimbledonreichweite_bei_amazon/",
+          "summary": "Alexander Zverevs Wimbledon-Finale gegen Jannik Sinner bescherte Amazon Prime Video mit über 3,5 Millionen Zuschauern das meistgesehene Tennis-Match seiner Geschichte, wobei die kostenfrei gezeigte Berichterstattung über das gesamte Turnier eine Nettoreichweite von mehr als fünf Millionen Personen erzielte. Im AGF-Streaming-Ranking der KW 28 landete Wimbledon damit auf Platz 3 und musste sich lediglich der Fußball-WM bei ARD (5,754 Mio.) und ZDF (5,022 Mio.) geschlagen geben. Auffällig ist die generelle Dominanz von Sportformaten im Streaming-Ranking, darunter auch die \"Sportschau Tour de France\" (1,665 Mio",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Münchner Medienholding: Leonine Studios startet Unit für Branded- und Creator-Entertainment",
-          "link": "https://www.horizont.net/medien/nachrichten/muenchner-medienholding-leonine-studios-startet-unit-fuer-branded--und-creator-entertainment-235171?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Leonine Studios erweitert sein Portfolio um eine neue Unit für Branded- und Creator-Entertainment und positioniert sich damit stärker im wachsenden Markt für markenintegrierte Inhalte und Creator-Kooperationen. Details zur genauen Bezeichnung der Einheit sowie zum konkreten Leistungsangebot für Marken und Content-Partner werden im Artikel angekündigt, sind jedoch nur nach Anmeldung vollständig einsehbar.",
-          "score": 9
-        },
-        {
-          "source": "kress",
-          "title": "Das ist der Wunschzettel des neuen MVFP-Chefs Lars Joachim Rose an die Politik Beim Sommerfest der...",
-          "link": "https://kress.de/news/beitrag/154184-das-ist-der-wunschzettel-des-neuen-mvfp-chefs-lars-joachim-rose-an-die-politik.html",
-          "summary": "Der neue MVFP-Vorsitzende Lars Joachim Rose (Klambt-Verlag) fordert von der Politik primär die Absenkung der Mehrwertsteuer für periodische Presseprodukte auf Null, die er als unbürokratischste und wirksamste Unterstützung der Verlage bezeichnet. Zudem kritisiert er den Entwurf der 12. GWB-Novelle, der die digitale Substitution und den intermedialen Wettbewerbsdruck nicht ausreichend berücksichtige, sowie Nachbesserungsbedarf beim geplanten Digitalen Medienstaatsvertrag zur Stärkung journalistisch-redaktioneller Angebote.",
+          "title": "Nations-League-Spiel gegen die Niederlande: RTL zeigt mutmaßlich erstes DFB-Länderspiel mit Jürgen Klopp",
+          "link": "https://www.horizont.net/medien/nachrichten/nations-league-spiel-gegen-die-niederlande-rtl-zeigt-mutmasslich-erstes-dfb-laenderspiel-mit-juergen-klopp-235170?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "RTL sichert sich die Übertragungsrechte am ersten DFB-Länderspiel nach dem frühen WM-Aus, das als Nations-League-Auswärtspartie gegen die Niederlande in Amsterdam stattfindet. Das Spiel markiert mutmaßlich die Premiere des designierten Bundestrainers Jürgen Klopp und stärkt damit die Sportberichterstattung des Privatsenders.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Verlag und BurdaForward verschmelzen Wie sich Burda neu aufstellt",
-          "link": "https://meedia.de/news/beitrag/24704-wie-sich-burda-neu-aufstellt-und-wer-welche-bereiche-verantwortet.html",
-          "summary": "Burda vereint BurdaVerlag und BurdaForward zu einem integrierten Medienhaus und will sich in den nächsten 12 bis 18 Monaten zu einem schlankeren, stärker KI-getriebenen Unternehmen entwickeln. Der Umbau umfasst neben dem deutschen Publishing-Geschäft auch internationale Gesellschaften und zentrale Support-Funktionen, die konsequent verschlankt werden sollen. Im Zuge der neuen Führungsstruktur verlassen mehrere prominente Führungskräfte den Konzern.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Kimi fordert ChatGPT und Anthropic heraus und erschüttert die Aktienmärkte Lange dominierten...",
-          "link": "https://meedia.de/news/beitrag/24701-moonshot-ai-kimi-fordert-chatgpt-und-anthropic-heraus-und-erschuettert-die-aktienmaerkte.html",
-          "summary": "Das chinesische Start-up Moonshot AI fordert mit seinem Sprachmodell Kimi K3 die etablierten US-Anbieter OpenAI, Google und Anthropic heraus, indem es in mehreren Benchmarks Spitzenwerte erzielt und dabei auf eine Open-Weight-Strategie setzt, die Entwicklern den eigenständigen Betrieb und die Anpassung des Modells ermöglicht. Der technologische Erfolg verunsichert Wettbewerber und Investoren gleichermaßen, doch das Unternehmen kämpft mit überlasteten Servern und muss die Tragfähigkeit seines Geschäftsmodells erst noch unter Beweis stellen.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Paramount’s £80bn takeover of Warner Brothers a step closer after EU approval",
-          "link": "https://www.theguardian.com/media/2026/jul/22/paramount-skydance-takeover-warner-brothers-eu-approval",
-          "summary": "Paramount Skydance hat für seine 80-Milliarden-Pfund-Übernahme von Warner Brothers die bedingte Freigabe der EU-Kommission erhalten, nachdem das Unternehmen zugesagt hatte, sein Filmvertriebs-Joint-Venture mit Universal Pictures innerhalb von 13 Monaten nach Abschluss zu beenden und zehn Jahre lang keine gemeinsamen Vertriebsvereinbarungen im EWR einzugehen. Der fusionierte Konzern würde bedeutende Medienassets wie CNN, Warner Brothers Pictures, TNT Sports und HBO Max kontrollieren. In den USA steht die Transaktion jedoch vor größeren Hürden, da ein Gericht kürzlich eine Aussetzung des bereits vom Justizministerium genehmigten",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Why The Polygamist is so much more than trash TV and a guilty pleasure streaming hit",
-          "link": "https://www.theguardian.com/news/2026/jul/22/why-the-polygamist-netflix-more-than-trash-tv-guilty-pleasure-and-a-guilty-pleasure",
-          "summary": "Die südafrikanische Netflix-Serie „The Polygamist\" gilt als erster afrikanischer Streaming-Erfolg des digitalen Zeitalters und erzielte über 23 Millionen Views im ersten Monat, wobei sie die Charts in Afrika anführte und es in die globalen Top 5 der nicht-englischsprachigen Serien schaffte. Trotz ihrer Oberfläche als hochglanzpolierte Telenovela über Untreue behandelt die 22-teilige Serie tiefergehende Themen wie den Konflikt zwischen Tradition und Moderne sowie die Entwicklung der afrikanischen Mittelschicht. Ihr Erfolg durchbricht kulturelle und sprachliche Barrieren und macht sie zu einem bedeutenden Phänomen für die Medienbranche.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Nine to axe 30 jobs at the Age and SMH due to ‘extreme’ AI disruption",
-          "link": "https://www.theguardian.com/media/2026/jul/21/smh-age-job-cuts-nine-sydney-morning-herald",
-          "summary": "Nine Entertainment streicht 30 Redaktionsstellen bei der Sydney Morning Herald und der Age durch freiwillige und gezielte Abfindungen und begründet dies mit der „extremen Disruption“ durch KI. Publishing-Direktorin Tory Maguire bezeichnet den Schritt als „Evolution“ hin zu digital-first, datengestützten Rollen, während Mitarbeiter umgeschult und neu eingestellt werden sollen. Die Maßnahme folgt zwei Jahre nach dem Abbau von 200 Stellen, wobei der Australian Financial Review aufgrund seiner bereits fortgeschritteneren Digitalstrategie ausgenommen bleibt.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "GB News will not be investigated over ‘no riot in Belfast’ claim",
-          "link": "https://www.theguardian.com/media/2026/jul/20/gb-news-not-investigated-over-no-belfast-riot-claim-ofcom",
-          "summary": "Die Medienaufsicht Ofcom wird trotz über 446 Beschwerden keine Untersuchung gegen GB News einleiten, nachdem Moderatorin Bev Turner behauptet hatte, es habe in Belfast im Juni keine Ausschreitungen gegeben – obwohl Autos und Häuser brannten und Familien flüchteten. Als Begründung führt Ofcom an, dass Turner während der Sendung von einem Gast herausgefordert wurde und lediglich ihre eigene Meinung geäußert habe. Der Fall verschärft die bestehende Kritik an Ofcoms Umgang mit den Anforderungen an Genauigkeit und Unparteilichkeit im Rundfunk.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Ted Lasso’ Star Toheeb Jimoh & ‘Snow White’s Dujonna Gift Leading BBC’s ‘Open Water’ Adaptation",
-          "link": "https://deadline.com/2026/07/bbc-open-water-cast-toheeb-jimoh-dujonna-gift-caleb-nelson-1237001086/",
-          "summary": "Die BBC verfilmt Caleb Azumah Nelsons gefeierten Debütroman „Open Water\", wobei Ted-Lasso-Star Toheeb Jimoh und Newcomerin Dujonna Gift („Snow White\") die Hauptrollen als Fotograf Marcus und Tänzerin Effie übernehmen. Der Autor Azumah Nelson adaptiert und inszeniert die Liebesgeschichte selbst, unterstützt von einem umfangreichen Ensemble mit Darstellern aus Produktionen wie „Top Boy\", „Bridgerton\" und „Call the Midwife\".",
-          "score": 7
+          "title": "Ziel: Bessere Personalisierung Amazon baut Prime Video mit KI-Hilfe um Streaming boomt, aber die Klagen über Entscheidungsschwäche bei der Auswahl spannender Inhalte hält ebenfalls an: Aktuell arbeitet Amazon daher an einer umfassenden Neugestaltung seines Streamingdienstes Prime Video",
+          "link": "https://meedia.de/news/beitrag/24713-amazon-baut-prime-video-mit-ki-hilfe-um.html",
+          "summary": "Amazon überarbeitet unter dem internen Codenamen „Lighthouse\" seinen Streamingdienst Prime Video grundlegend – insbesondere die Startseite – und setzt dabei auf KI-gestützte, personalisierte Empfehlungen, um die aufwändige Inhaltssuche der Nutzer zu verkürzen. Jeff Bezos treibt das Projekt laut Reuters persönlich voran, nachdem er die ursprünglichen Pläne als zu wenig KI-fokussiert kritisiert hatte; die Neuentwicklung erfolgt nun unter Designchef Kam Keshmiri. Amazon reagiert damit auf einen Branchentrend, den zuletzt auch Netflix mit verstärkten KI-Experimenten im Empfehlungssystem verfolgte.",
+          "score": 10
         },
         {
           "source": "Variety",
-          "title": "Comcast Q2 Boosted by World Cup, Profits at Peacock",
-          "link": "https://variety.com/2026/tv/news/comcast-q2-earnings-world-cup-peacock-profit-1236819033/",
-          "summary": "Comcast steigerte im zweiten Quartal 2026 die NBCUniversal-Erlöse dank der Telemundo-WM-Übertragungen um 22,9 % auf 10,7 Milliarden US-Dollar (Zusatzumsatz durch die WM: 440 Millionen US-Dollar), während der Streamingdienst Peacock erstmals seit dem Start 2020 profitabel wurde und mit zwei Millionen Neuzugängen nun 48 Millionen zahlende Abonnenten zählt. Trotz dieser Zuwächse sank der Gesamtumsatz um 1,2 % auf 29,9 Milliarden US-Dollar, und der Nettogewinn ging auf 3,5 Milliarden US-Dollar (0,99 US-Dollar je Aktie) zurück – bedingt durch den Vorjahresvergleich",
-          "score": 7
+          "title": "Sony Pictures Sets Viral X-Inspired Short-Form Thriller ‘Los Hilos del Miedo’ at Prime Video Spain (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/global/sony-pictures-los-hilos-del-miedo-prime-video-spain-1236818849/",
+          "summary": "Sony Pictures International Productions bringt mit „Los Hilos del Miedo\" seine erste Kurzformat-Serie an den Start – ein achtteiliger Psychothriller mit rund fünfminütigen Episoden für Prime Video Spanien, basierend auf viralen X-Geschichten des Autors Salvador Gutiérrez Solís. Die Serie baut auf dem Mobile-First-Piloten „El Garaje\" auf, der auf TikTok 28,4 Millionen Views erzielte, und überträgt digital-natives Storytelling in ein Premium-Format. Das Projekt vertieft zudem die Zusammenarbeit von Sony mit der Madrider TAI Arts University School und bindet junge Nachwuchskreative ein.",
+          "score": 9
         }
       ]
     }
