@@ -1,69 +1,20 @@
 {
   "newsletters": [
     {
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "articles": [
         {
-          "source": "DWDL",
-          "title": "Nach Klage: WBD-Übernahme könnte sich bis 2027 verzögern",
-          "link": "https://www.dwdl.de/nachrichten/107281/nach_klage_wbduebernahme_koennte_sich_bis_2027_verzoegern/",
-          "summary": "Die geplante Übernahme von Warner Bros. Discovery durch Paramount Skydance verzögert sich voraussichtlich um mehrere Monate, nachdem der Konzern zustimmte, den Deal bis zur Entscheidung über eine Klage von zwölf US-Bundesstaaten – spätestens jedoch bis 1. Juni 2027 – auszusetzen. Die Bundesstaaten unter Führung Kaliforniens befürchten eine Wettbewerbsverzerrung im Filmgeschäft. Die Verzögerung könnte Paramount Skydance teuer zu stehen kommen: Ab dem 30. September 2026 greift eine \"Ticking Fee\" von 7 Millionen US-Dollar täglich, die an die WBD-Aktionäre zu zahlen ist.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Bavaria Media soll Gesellschafter bei ARD Plus werden",
-          "link": "https://www.dwdl.de/nachrichten/107278/bavaria_media_soll_gesellschafter_bei_ard_plus_werden/",
-          "summary": "Bavaria Media plant den Einstieg als Gesellschafter bei der ARD Plus GmbH, der Streaming-Tochter der WDR Mediagroup; eine entsprechende Anmeldung zum Anteilserwerb liegt bereits dem Bundeskartellamt vor. Zusätzlich ist die Gründung eines Gemeinschaftsunternehmens für Content-Distribution und die Lizenzierung audiovisueller Inhalte an Endkunden geplant. Der Zusammenschluss erfolgt vor dem Hintergrund einer positiven wirtschaftlichen Entwicklung von ARD Plus, das 2024 einen Umsatz von 7,9 Millionen Euro und einen Jahresüberschuss von rund 598.000 Euro erzielte.",
+          "source": "kress",
+          "title": "\"Euroscope“ startet bei Studio 47 und vier Partnersendern Der Duisburger Regional-TV-Sender Studio...",
+          "link": "https://kress.de/news/beitrag/154185-tv-und-podcast-reihe-quot-euroscope-startet-bei-studio-47-und-vier-partnersendern.html",
+          "summary": "Der Duisburger Regional-TV-Sender Studio 47 startet gemeinsam mit den Partnersendern emsTV, Omroep Venlo, Regio8 und Tirol TV das grenzüberschreitende, vom Europäischen Parlament unterstützte Medienprojekt „Euroscope“, das in fünf Folgen konkrete regionale Projekte europäischer Zusammenarbeit – etwa zu Klimaschutz, Inklusion und nachhaltiger Landwirtschaft – beleuchtet. Die crossmedial angelegte Reihe wird durch einen wöchentlichen Podcast sowie eine gemeinsame Social-Media-Kampagne (Facebook, Instagram, LinkedIn) ergänzt und ist in deutscher und niederländischer Sprache in der Mediathek abrufbar.",
           "score": 7
         },
         {
-          "source": "DWDL",
-          "title": "ProSieben stellt \"Promi Tischtennis-WM\" auf seriöses Fundament",
-          "link": "https://www.dwdl.de/nachrichten/107265/prosieben_stellt_promi_tischtenniswm_auf_serioeses_fundament/",
-          "summary": "ProSieben erweitert seine Promi-Sport-Formate um die \"Promi Tischtennis-WM\", die auf Initiative der Tischtennis Marketing GmbH (TMG) des Deutschen Tischtennis-Bundes entwickelt wurde und von Redseven Entertainment produziert wird. In der Liveshow treten Weltklasse-Profis als Team-Kapitäne gemeinsam mit prominenten Amateuren in verschiedenen Wettbewerben – von Doppelmatches bis Trickshot-Challenges – um den Titel an. Begleitet von umfangreichem Digital- und Social-Media-Content soll das Format der Sportart mehr Sichtbarkeit verschaffen und eine langfristige Eventmarke etablieren.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Wettbewerbsproblem: US-Richterin verlängert Klageprüfung von Warner-Übernahme",
-          "link": "https://www.horizont.net/medien/nachrichten/wettbewerbsproblem-us-richterin-verlaengert-klagepruefung-von-warner-uebernahme-235192?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Eine US-Richterin hat die Prüfung der über 100 Milliarden Dollar schweren Übernahme von Warner durch Paramount bis zum 17. August verlängert, um über Anträge zur einstweiligen Verfügung zu entscheiden. Auslöser ist eine Klage von zwölf US-Bundesstaaten, die den Deal wegen befürchteter Wettbewerbsverzerrungen im Filmgeschäft und dem daraus resultierenden Druck auf Kinos stoppen wollen. Die Richterin sieht einen erheblichen gemeinsamen Marktanteil der beiden Unternehmen als hinreichenden Grund für die vorläufige Aussetzung der Fusion.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "IVW 2/2026: So unterschiedlich schlagen sich Zeit, Spiegel, SZ, Bild und Co im Lesermarkt",
-          "link": "https://www.horizont.net/medien/nachrichten/ivw-22026-so-unterschiedlich-schlagen-sich-zeit-spiegel-sz-bild-und-co-im-lesermarkt-235166?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die IVW-Zahlen für das zweite Quartal 2026 zeigen eine insgesamt schwache Vertriebsentwicklung bei den wöchentlichen Nachrichtenmagazinen und überregionalen Tageszeitungen, wobei die einzelnen Titel jedoch deutlich unterschiedlich abschneiden – insbesondere im Bereich der Digitalabos. Während die großen Newstitel und Tageszeitungen ihre Position teilweise behaupten können, stehen vor allem drei Titel unter erhöhtem Handlungsdruck.",
-          "score": 9
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Paramount agrees to pause $110bn Warner Bros merger as case plays out",
-          "link": "https://www.theguardian.com/us-news/2026/jul/24/paramount-warner-bros-merger",
-          "summary": "Paramount Skydance hat eingewilligt, seine 110-Milliarden-Dollar-Übernahme von Warner Bros Discovery bis zu einer gerichtlichen Entscheidung oder bis zum 1. Juni 2027 auszusetzen, nachdem 12 US-Bundesstaaten unter Führung Kaliforniens eine einstweilige Verfügung gegen den Zusammenschluss erwirkt hatten. Die Staaten argumentieren, der Deal würde den Wettbewerb in den Kabel- und Kinomärkten verringern, während die Verzögerung Paramount rund 7 Millionen Dollar täglich an Gebühren kosten könnte. Zusätzlich äußern Journalisten von CBS News und CNN sowie Pressefreiheitsgruppen Bedenken hinsichtlich möglicher Stellenst",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "‘Netflix has to evolve’: can the upstart survive the end of the binge-watch era?",
-          "link": "https://www.theguardian.com/media/2026/jul/24/netflix-evolve-binge-watch-era-end",
-          "summary": "Netflix sieht sich nach fast 15 Jahren mit nachlassendem Wachstum und rückläufigen Zuschauerzahlen konfrontiert – Analysen zeigen bei Top-Serien Einbrüche von 30 bis 70 % in der zweiten Staffel. Die Strategie aus massivem Content-Ausstoß und schnellen Serienabsetzungen (\"one and done\") stößt zunehmend auf Kritik, während der Konzern gleichzeitig seine Transparenz reduziert, indem er Zuschauerdaten künftig nur noch jährlich veröffentlicht. Branchenkenner sehen das ursprünglich revolutionäre Binge-Watching-Modell inzwischen als überholt und fordern eine strategische Neuausrichtung im Wettbewerb um die Aufmerksamkeit der Nutzer, insb",
-          "score": 10
-        },
-        {
-          "source": "Deadline",
-          "title": "Paramount-WBD Merger Opponents Cheer Legal Delay, Stocks Slide As Industry Absorbs Latest Plot Twist",
-          "link": "https://deadline.com/2026/07/paramount-wbd-merger-antitrust-lawsuit-delay-reactions-1237003045/",
-          "summary": "Nach der Verzögerung im Kartellrechtsverfahren gegen die 110-Milliarden-Dollar-Fusion von Paramount und Warner Bros. Discovery fielen die Aktien beider Unternehmen im nachbörslichen Handel, während Fusionsgegner den Aufschub feierten. Paramount verpflichtete sich, den Deal nicht vor dem 1. Juni 2027 oder vor einer gerichtlichen Klärung der Klage abzuschließen. Der kalifornische Generalstaatsanwalt Rob Bonta sowie die von zwölf Generalstaatsanwälten und der Writers Guild of America angeführten Aktivisten werteten dies als Teilerfolg, betonten jedoch, dass die Verhinderung der Fusion noch nicht gesichert sei.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Paramount Faces Drawn-Out Battle With State AGs: ‘They Saw the Writing on the Wall’",
-          "link": "https://variety.com/2026/film/news/paramount-state-ags-warner-bros-battle-1236820702/",
-          "summary": "Paramount hat der Aussetzung seiner 111-Milliarden-Dollar-Übernahme von Warner Bros. für mehrere Monate zugestimmt und damit faktisch eingeräumt, dass ein Sieg im bevorstehenden Streit um eine einstweilige Verfügung unwahrscheinlich war. Nachdem Richterin Martinez-Olguin bereits eine 28-tägige einstweilige Verfügung erlassen und den Bundesstaaten eine „starke Beweisführung\" hinsichtlich möglicher Wettbewerbsschäden attestiert hatte, verschiebt Paramount seine Strategie nun auf einen Sieg im Hauptverfahren. CEO David Ellison drohen dadurch erhebliche Kosten, da eine Verzögerung tägliche Millionenzahlungen an Warner-Bros.",
+          "source": "Hollywood Reporter",
+          "title": "The Doom Boom: Marvel Studios Brings ‘Doomsday’ and More to Its Most Crowded Comic-Con Panel Ever",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/marvel-studios-doomsday-comic-con-panel-recap-1236656358/",
+          "summary": "Marvel Studios inszenierte auf der Comic-Con das bislang größte Hall-H-Panel und überraschte mit einer versteckten Bühne sowie Cast-Mitgliedern aus „Thunderbolts*“ und den 2000er-X-Men-Filmen rund um Star Robert Downey Jr. Zu den zentralen Ankündigungen zählten David Jonsson als Sohn von T’Challa und neuer Black Panther in „Black Panther 3“ (Release: 15. Dezember 2028) sowie Ryan Gosling als Ghost Rider unter der Regie von Shawn Levy (2028). Ryan Reynolds sorgte zudem für einen unangekündigten Auftritt als Deadpool-Cosplayer „Ricky“.",
           "score": 7
         }
       ]
