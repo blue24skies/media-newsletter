@@ -1,70 +1,84 @@
 {
   "newsletters": [
     {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "articles": [
         {
           "source": "DWDL",
-          "title": "ARD-Dokuserie \"Nachtstreife\" verabschiedet sich aus Mainz",
-          "link": "https://www.dwdl.de/nachrichten/107322/arddokuserie_nachtstreife_verabschiedet_sich_aus_mainz/",
-          "summary": "Die ARD veröffentlicht am 19. August sechs neue Folgen der erfolgreichen Dokuserie \"Nachtstreife\" in der Mediathek – die letzte Staffel aus Mainz, bevor der SWR künftig in Ludwigshafen dreht und zusätzliche Ableger aus Hamburg (NDR) und Frankfurt (HR) entstehen. Die siebte Staffel setzt inhaltlich einen Schwerpunkt auf psychische Gesundheit und den polizeilichen Umgang mit Menschen in seelischen Krisen. Das Format verzichtet bewusst auf Off-Kommentare und setzt stattdessen auf die authentische Selbstkommentierung der Einsatzkräfte.",
+          "title": "ARD, ZDF und RTL mit höchstem Wiederholungsanteil seit 6 Jahren",
+          "link": "https://www.dwdl.de/nachrichten/107304/ard_zdf_und_rtl_mit_hoechstem_wiederholungsanteil_seit_6_jahren/",
+          "summary": "Der von DWDL erhobene \"Frische-Index\" für die acht großen Vollprogramme erreichte im Juli 2026 den niedrigsten Wert seit sechs Jahren, wobei selbst die Spitzenreiter ARD (53 %), ZDF (56 %) und RTL (42 %) deutliche zweistellige Rückgänge im Jahresvergleich verzeichneten. Ursächlich sind der wachsende Spardruck durch den rückläufigen TV-Werbemarkt und die ausbleibende Beitragserhöhung sowie eine schwächere WM-Präsenz bei ARD und ZDF, da Spiele teils exklusiv bei Magenta TV oder nachts liefen. Sat.1 folgte mit knapp einem Drittel Frische-Anteil deutlich abgeschlagen – ein starker Einbruch gegenü",
           "score": 8
         },
         {
           "source": "meedia",
-          "title": "Metricool hat fast 800.000 Videos analysiert Die YouTube-Erfolgsformel lautet: Longform,...",
-          "link": "https://meedia.de/news/beitrag/24755-die-youtube-erfolgsformel-lautet-longform-regelmaessige-veroeffentlichung-und-thematische-spezialisierung.html",
-          "summary": "Eine Metricool-Studie mit fast 800.000 analysierten Videos aus über 71.000 Kanälen zeigt, dass klassische Longform-Videos zwischen Februar 2025 und Februar 2026 einen Aufruf-Anstieg von 76 Prozent verzeichneten, während Shorts mit einem Plus von 127 Prozent noch stärker zulegten und inzwischen 61 Prozent aller YouTube-Videoaufrufe ausmachen. Trotz höherer Reichweite sanken jedoch die durchschnittliche Wiedergabedauer (-37 Prozent) und die Engagement-Rate (-45 Prozent). Als Erfolgsfaktoren identifiziert die Studie Longform-Inhalte, regelmäßige Veröffentlichung und thematische Spezialisierung.",
-          "score": 7
+          "title": "Kurvideos als Entscheidungshilfe Nach Netflix “klaut” jetzt auch HBO Max von TikTok Ab sofort gibt...",
+          "link": "https://meedia.de/news/beitrag/24765-nach-netflix-klaut-jetzt-auch-hbo-max-von-tiktok.html",
+          "summary": "HBO Max führt – nach dem Vorbild von Netflix' „Clips“ und drei Monate nach dessen Einführung – vertikale, endlos scrollbare Kurzvideo-Feeds („Shorts“) im TikTok-Stil ein, um Nutzern die Content-Discovery zu erleichtern. Beide Streamer adressieren damit das wachsende Orientierungsproblem angesichts tausender Titel und profitieren zugleich von der viralen Verbreitung „ikonischer Szenen“ über Social Media. Offen bleibt jedoch, ob dieser Ansatz die Nutzererfahrung tatsächlich verbessert oder primär das Suchtpotenzial erhöht.",
+          "score": 8
         },
         {
           "source": "meedia",
-          "title": "Video Daily: TV-Quoten & Streaming-Charts True Crime: \"Aktenzeichen XY\" siegt im TV, \"The Idaho Murders\" bei Netflix Echte Verbrechen waren am Mittwoch angesagt: Im linearen Fernsehen gewann “Aktenzeichen XY” die Prime Time mit deutlichem Vorsprung bei Jung und Alt, bei Netflix stieg der Crime-Doku-Mehrteiler “The Idaho Murders",
-          "link": "https://meedia.de/news/beitrag/24749-true-crime-quot-aktenzeichen-xy-quot-siegt-im-tv-quot-the-idaho-murders-quot-bei-netflix.html",
-          "summary": "True Crime dominierte am Mittwoch die Bewegtbild-Nutzung: Im linearen TV gewann \"Aktenzeichen XY… ungelöst\" (ZDF) die Prime Time mit 4,05 Millionen Zuschauern und einem Marktanteil von 22,5 Prozent deutlich vor der Konkurrenz. Parallel stieg bei Netflix die Crime-Doku-Serie \"The Idaho Murders – Ein College-Albtraum\" direkt auf Platz 1 der Serien-Charts ein und verdrängte damit \"Kaulitz & Kaulitz\".",
+          "title": "Ausgewählte Rennen auch im Free-TV RTL Deutschland sichert sich die exklusiven MotoGP-Rechte bis 2030 RTL Deutschland baut sein Sportrechte-Portfolio nach der Übernahme von Sky weiter aus. Aktuell hat die Gruppe die langfristigen Exklusivrechte an der MotoGP bis einschließlich 2030 gekauft. Ab der Saison 2027 werden die Motorrad-Weltmeisterschaft und ihre Nachwuchsserien erstmals exklusiv unter dem Dach von RTL Deutschland vermarktet",
+          "link": "https://meedia.de/news/beitrag/24761-rtl-deutschland-sichert-sich-die-exklusiven-motogp-rechte-bis-2030.html",
+          "summary": "RTL Deutschland hat die exklusiven MotoGP-Rechte für Deutschland, Österreich und die Schweiz bis 2030 erworben und vermarktet die Motorrad-WM samt Nachwuchsserien (Moto2, Moto3) ab der Saison 2027 sowohl im Pay-TV über Sky Sport als auch teilweise im Free-TV. Während alle Sessions live bei Sky Sport verfügbar bleiben, ist noch offen, wie viele Rennen frei empfangbar gezeigt werden und über welchen RTL-Sender die Übertragung erfolgt. Die bisherige Sublizenz von DF1 (Nachfolger von ServusTV) mit zwölf Free-TV-Rennwochenenden läuft Ende 2026 aus.",
+          "score": 10
+        },
+        {
+          "source": "meedia",
+          "title": "SevenOne zeigt Google, Meta und RTL die Zähne \"Reden weniger und liefern mehr\": Wie P7S1-Vermarkter Nicola Lussana Vertrauen zurückgewinnen will Mehr Kundennähe, einfachere TV-Buchungen für den Mittelstand und europäische Vermarktung über MFE: Seven.One-Media-CEO Nicola Lussana erklärt im MEEDIA-Interview, wie sich der Werbevermarkter neu aufstellen will, warum TV bei der Werbewirkung den US-Plattformen weit überlegen sei",
+          "link": "https://meedia.de/news/beitrag/24752-quot-reden-weniger-und-liefern-mehr-quot-wie-p7s1-vermarkter-nicola-lussana-vertrauen-zurueckgewinnen-will.html",
+          "summary": "Seven.One-Media-CEO Nicola Lussana kündigt eine strategische Neuausrichtung des P7S1-Vermarkters an, die auf mehr Kundennähe, vereinfachte TV-Buchungen für den Mittelstand und eine europäische Vermarktung über MFE setzt. Lussana positioniert TV-Werbung dabei als der Werbewirkung von US-Plattformen wie Google und Meta deutlich überlegen und erteilt einer schnellen Einführung eines einheitlichen TKP-Modells eine Absage.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Alan Cumming-Backed Block The Merger Submits Evidence To UK Culture Sec; Argues WarnerMount Will “Directly Impact UK Documentarians’ Ability To Tell Diverse Stories”",
+          "link": "https://deadline.com/2026/07/block-the-merger-submits-evidence-paramount-warner-nandy-1237014363/",
+          "summary": "Die von Alan Cumming unterstützte Koalition „Block the Merger“ hat der britischen Kulturministerin Lisa Nandy Marktdaten und Fachbelege vorgelegt, um die 110-Mrd.-Dollar-Fusion von Paramount und Warner zu verhindern. Die Gruppen argumentieren, dass WarnerMount zum drittgrößten linearen Sender Großbritanniens würde und die erstmalige Zusammenlegung der CNN- und CBS-News-Archive unter einem Eigentümer die Vielfalt britischer Dokumentarfilme gefährde. Nandy, die bereits eine Intervention in Erwägung zieht, will ihre Entscheidung frühestens am 1. September treffen – parallel gerät die Fusion in den USA durch eine Klage von zwölf Bundesstaaten unter Dru",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Fremantle Hires Katie O’Connell Marsh As Global Scripted Chief",
+          "link": "https://deadline.com/2026/07/fremantle-katie-o-connell-marsh-global-scripted-chief-1236998222/",
+          "summary": "Fremantle hat Katie O'Connell Marsh, ehemalige Chefin von Gaumont International Television und Platform One, als CEO des neu geschaffenen Fremantle Global Scripted Hub berufen, wo sie ab August die creative, kommerzielle und strategische Ausrichtung aller Scripted-Labels des Unternehmens verantworten wird. Damit ersetzt sie faktisch Christian Vesper, der im Januar als CEO of Global Drama and Film ausgeschieden war. O'Connell Marsh, die von den USA nach London umzieht, wird an Group COO Andrea Scrosati berichten und zudem das jährliche Scripted-Investitionsbudget von Fremantle steuern.",
           "score": 9
         },
         {
           "source": "Deadline",
-          "title": "Claire Foy & Matthew Macfadyen To Lead David Nicholls Novel Adaptation ‘You Are Here’ For BBC & Starz",
-          "link": "https://deadline.com/2026/07/claire-foy-matthew-macfadyen-you-are-here-bbc-starz-1237012969/",
-          "summary": "Claire Foy und Matthew Macfadyen übernehmen die Hauptrollen in „You Are Here\", einer achtteiligen Adaption von David Nicholls' Bestseller für BBC und Starz, produziert von Element Pictures („Normal People\") unter der Regie von Lenny Abrahamson. Die romantische Dramaserie spielt auf einem Küstenwanderweg vom Lake District bis nach North Yorkshire und wird im Lake District sowie in der Region Manchester gedreht. Fremantle hält die internationalen Vertriebsrechte, während De Maio Entertainment die Partnerschaft mit Starz betreut.",
+          "title": "FIFA Set To Lose Vote Over Controversial Private Investment Plan After Europe, Asia & Americas Reject  Proposal",
+          "link": "https://deadline.com/2026/07/fifa-under-fire-over-plan-to-sell-world-cup-stake-to-joshua-kushner-investment-firm-1237006418/",
+          "summary": "Die FIFA droht eine Abstimmung über einen umstrittenen Plan zu verlieren, wonach 20 % der Anteile an der Weltmeisterschaft für 4,6 Milliarden Dollar an private Investoren verkauft werden sollen. Nach den europäischen und amerikanischen Fußballverbänden hat nun auch der asiatische Verband (AFC) das Vorhaben abgelehnt, wodurch mehr als 140 Mitgliedsländer und damit eine Mehrheit gegen den Plan stehen. Als Hauptkritikpunkte gelten der Mangel an ordnungsgemäßem Verfahren, die kurze Frist sowie die fehlende Notwendigkeit privater Investitionen angesichts der rekordverdächtigen Einnahmen von 15 Milliarden Dollar bei der WM 2026.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "‘This Is Birmingham’: TV Series Adaptation Of Surprise Prime Video UK Hit In Works",
-          "link": "https://deadline.com/2026/07/this-is-birmingham-tv-series-adaptation-prime-video-uk-1237012985/",
-          "summary": "Der selbstfinanzierte Low-Budget-Actionfilm „This is Birmingham“ von Autor und Hauptdarsteller Kay S. Ubhi wurde zum überraschenden Prime-Video-UK-Hit und erreichte Platz fünf der Top-Ten-Filme. Nun ist eine Serienadaption in Entwicklung, die das Krimi-Universum zu einem größeren, charakterorientierten Drama ausbauen soll – gemeinsam mit dem Bafta-prämierten Produzenten Michael L. Cowan. Der Erfolg unterstreicht die anhaltende Nachfrage nach authentischen britischen Krimidramen sowie Birminghams Aufwind als Schauplatz nach Produktionen wie „Peaky Blinders“ und „This Town“.",
-          "score": 8
+          "title": "ITV Studios Bosses Bullish Despite U.S. & International Declines As ‘Love Island’ & ‘The Gentlemen’ Maker Prepares To Go Independent",
+          "link": "https://deadline.com/2026/07/itv-studios-confident-american-revenue-dip-sky-itv-deal-1237014334/",
+          "summary": "ITV Studios verzeichnete im ersten Halbjahr 2026 deutliche Umsatzrückgänge in den USA (-17%) und international (-24%), zeigt sich jedoch optimistisch und verweist auf ein Gesamtwachstum von 2% auf £912M ($1,2 Mrd.). Das Management führt den Rückgang auf eine „Nachfrageschwäche\" im Free-TV-Bereich zurück und setzt verstärkt auf Produktionen für Streamingdienste sowie den Ausbau der Digitalsparte Zoo 55. Nach Abschluss des Sky-ITV-Deals in etwa einem Jahr soll ITV Studios als eigenständiges börsennotiertes Unternehmen an den Markt gehen, gestützt durch Großproduktionen wie „The Gentlemen\" Staffel 2 (Net",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Singapore’s Wave Films Taps Former Cambodian Broadcasting Chief Dave Ulmer To Drive U.S. Expansion",
+          "link": "https://deadline.com/2026/07/singapore-wave-films-cambodian-broadcasting-dave-ulmer-1237013111/",
+          "summary": "Das singapurische Produktionsdienstleistungsunternehmen Wave Films hat Dave Ulmer, den ehemaligen CEO des Cambodian Broadcasting Service (CBS), als in Los Angeles ansässigen Executive Producer verpflichtet, um seine US-Expansion voranzutreiben und nordamerikanische Content-Industrien mit Südostasiens Produktionsinfrastruktur zu verbinden. Ulmer soll internationale Projekte in die Region bringen und dabei die Produktions- und Postproduktionskapazitäten von Wave Films in Malaysia, den Philippinen und Kambodscha nutzen. Das Unternehmen betreut aktuell unter anderem Pierre Morels „The Good Samaritan“ in Malaysia und war zuvor an Projekten wie dem koreanischen Drama „Kidnap",
+          "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Locarno Director Touts “Adventurous” Lineup for “Era of Algorithms” and Highlights Theme of Community",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-preview-adventurous-films-algorithm-era-stars-1236652023/",
-          "summary": "Das 79. Locarno Film Festival präsentiert unter Artistic Director Giona A. Nazzaro ein bewusst experimentierfreudiges Programm im „Zeitalter der Algorithmen“, mit Weltpremieren von Auteuren wie Hong Sangsoo, Denis Côté und Albert Serra sowie Filmklassikern wie „Taxi Driver“ und einer 4K-Restaurierung von „Dances With Wolves“. Zu den Geehrten des Festivals zählen unter anderem die Regisseure James Gray und Darren Aronofsky, Schauspielerin Virginie Efira, Make-up-Legende Rick Baker sowie Asia Argento und Isabella Rossellini. Nazzaro betont dabei die zentralen Themen Gemeinschaft und das Überraschungsmoment des Kinos.",
-          "score": 7
+          "title": "ITV Bullish in First Results Since Confirming Sky Deal, Orders Share Buyback of $135M",
+          "link": "https://www.hollywoodreporter.com/business/business-news/itv-first-results-sky-deal-sharehold-buyback-studios-tv-1236660733/",
+          "summary": "ITV meldete im ersten Halbjahr ein Umsatzwachstum von 2 Prozent und kündigte einen Aktienrückkauf von 100 Millionen Pfund (135 Mio. USD) an – als Signal an die Aktionäre nach Skys 1,6-Milliarden-Pfund-Übernahme des Netzwerk- und Streaming-Geschäfts. Der Rückkauf und eine Zwischendividende (zusammen rund 60 Mio. Pfund) stellen eine frühe Teilrückzahlung der erwarteten Netto-Barrückflüsse von 950 Millionen Pfund nach Abschluss dar. Die nicht im Deal enthaltene Produktionssparte ITV Studios (u.a. „Love Island“, „Rivals“) rückt nun in den Fokus und gilt als möglicher Übernahmek",
+          "score": 9
         },
         {
           "source": "Variety",
-          "title": "‘The Walking Dead’ Franchise to Stream on Both Netflix and AMC+ Beginning in 2027 Under New $500 Million Deal",
-          "link": "https://variety.com/2026/tv/news/the-walking-dead-stream-netflix-amc-plus-500-million-deal-1236824065/",
-          "summary": "AMC Global Media und Netflix haben einen fünfjährigen, 500 Millionen Dollar schweren Co-Exklusiv-Lizenzvertrag geschlossen, der ab 2027 die gesamte „The Walking Dead\"-Franchise – bestehend aus der Originalserie und sechs Spin-offs mit insgesamt 371 Episoden – sowohl auf Netflix als auch erstmals auf AMC+ verfügbar macht. Der Deal erweitert zudem die geografische Reichweite von Netflix auf Märkte wie Großbritannien, Italien, Australien und Neuseeland, wobei die Lizenzen je nach Territorium und Auslaufen bestehender Verträge zu unterschiedlichen Terminen starten.",
+          "title": "ITV Sees ‘Solid’ Results in First Half of 2026, Reports $26 Million Loss Due to Fast Food Advertising Regulations",
+          "link": "https://variety.com/2026/tv/global/itv-half-year-results-2026-solid-2-percent-1236824882/",
+          "summary": "ITV verzeichnete im ersten Halbjahr 2026 solide Ergebnisse mit einem konstanten Gruppenumsatz von 1,9 Milliarden Pfund und einem leichten EBITA-Anstieg von 2% auf 145 Millionen Pfund, was jedoch deutlich unter den 212 Millionen Pfund des Vorjahreszeitraums 2024 liegt. Dies sind die ersten Zahlen seit der bekanntgegebenen Veräußerung der Medien- und Unterhaltungssparte an das Comcast-Tochterunternehmen Sky, während ITV Studios als eigenständiges börsennotiertes Unternehmen ausgegliedert wird. Der Rückgang gegenüber 2024 wird auf das schwächere Abschneiden der englischen Fußballnationalmannschaft bei der WM (",
           "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "San Sebastián New Directors: Billy Lumby, Marlene Emilie Lyngstad, ‘Money Heist’ Star Jaime Lorente and More",
-          "link": "https://variety.com/2026/film/global/san-sebastian-new-directors-billy-lumby-jaime-lorente-1236824057/",
-          "summary": "Das San Sebastián Filmfestival hat seine New-Directors-Sektion bekanntgegeben, die Nachwuchsregisseure aus 13 Ländern versammelt und mit „The Bad Son\" – dem Regiedebüt von „Money Heist\"-Star Jaime Lorente – eröffnet sowie mit Billy Lumbys Spielfilmdebüt „Florid\" schließt. Zu den weiteren bemerkenswerten Beiträgen zählen die von Nordic-Talents-Gewinnerin Marlene Emilie Lyngstad, die Chile-Frankreich-Argentinien-Koproduktion „Erratics\" mit Denis Lavant sowie Arbeiten aus aufstrebenden Filmszenen wie Kasachstan und Mexiko.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Giorgio Armani Series in the Works From Fremantle-Owned Lux Vide and Iconic Designer’s Fashion House (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/global/giorgio-armani-series-fremantle-lux-vide-1236823154/",
-          "summary": "Der italienische Produzent Lux Vide (im Besitz von Fremantle) entwickelt gemeinsam mit dem Modehaus Giorgio Armani eine hochwertige, international ausgerichtete Biopic-Serie über das Leben und die Karriere des ikonischen Designers. Regie führt der türkisch-italienische Filmemacher Ferzan Ozpetek, der Armani persönlich kannte und zuletzt mit seinem Kinoerfolg „Diamonds“ (2025) internationale Aufmerksamkeit erzielte.",
-          "score": 7
         }
       ]
     }
