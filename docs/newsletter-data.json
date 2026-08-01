@@ -1,84 +1,28 @@
 {
   "newsletters": [
     {
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "articles": [
         {
           "source": "DWDL",
-          "title": "ARD, ZDF und RTL mit höchstem Wiederholungsanteil seit 6 Jahren",
-          "link": "https://www.dwdl.de/nachrichten/107304/ard_zdf_und_rtl_mit_hoechstem_wiederholungsanteil_seit_6_jahren/",
-          "summary": "Der von DWDL erhobene \"Frische-Index\" für die acht großen Vollprogramme erreichte im Juli 2026 den niedrigsten Wert seit sechs Jahren, wobei selbst die Spitzenreiter ARD (53 %), ZDF (56 %) und RTL (42 %) deutliche zweistellige Rückgänge im Jahresvergleich verzeichneten. Ursächlich sind der wachsende Spardruck durch den rückläufigen TV-Werbemarkt und die ausbleibende Beitragserhöhung sowie eine schwächere WM-Präsenz bei ARD und ZDF, da Spiele teils exklusiv bei Magenta TV oder nachts liefen. Sat.1 folgte mit knapp einem Drittel Frische-Anteil deutlich abgeschlagen – ein starker Einbruch gegenü",
+          "title": "HBO Max sichert sich Prequel-Serie zu \"Freitag der 13.\"-Filmen",
+          "link": "https://www.dwdl.de/nachrichten/107341/hbo_max_sichert_sich_prequelserie_zu_freitag_der_13filmen/",
+          "summary": "Warner Bros. Discovery hat sich für die EMEA-Region (ausgenommen Großbritannien und Irland) die Rechte an der achtteiligen A24-Serie \"Crystal Lake\" gesichert, die als Prequel zu den \"Freitag der 13.\"-Filmen noch in diesem Jahr bei HBO Max starten soll. Im Mittelpunkt steht Pamela Voorhees (Linda Cardellini), die den tragischen Tod ihres Sohnes Jason verarbeitet; verantwortlich als Creator und Showrunner ist Brad Caleb Kane (\"Es: Welcome To Derry\", \"Tokyo Vice\"). Die US-Premiere erfolgt Mitte Oktober bei Peacock.",
           "score": 8
         },
         {
-          "source": "meedia",
-          "title": "Kurvideos als Entscheidungshilfe Nach Netflix “klaut” jetzt auch HBO Max von TikTok Ab sofort gibt...",
-          "link": "https://meedia.de/news/beitrag/24765-nach-netflix-klaut-jetzt-auch-hbo-max-von-tiktok.html",
-          "summary": "HBO Max führt – nach dem Vorbild von Netflix' „Clips“ und drei Monate nach dessen Einführung – vertikale, endlos scrollbare Kurzvideo-Feeds („Shorts“) im TikTok-Stil ein, um Nutzern die Content-Discovery zu erleichtern. Beide Streamer adressieren damit das wachsende Orientierungsproblem angesichts tausender Titel und profitieren zugleich von der viralen Verbreitung „ikonischer Szenen“ über Social Media. Offen bleibt jedoch, ob dieser Ansatz die Nutzererfahrung tatsächlich verbessert oder primär das Suchtpotenzial erhöht.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Ausgewählte Rennen auch im Free-TV RTL Deutschland sichert sich die exklusiven MotoGP-Rechte bis 2030 RTL Deutschland baut sein Sportrechte-Portfolio nach der Übernahme von Sky weiter aus. Aktuell hat die Gruppe die langfristigen Exklusivrechte an der MotoGP bis einschließlich 2030 gekauft. Ab der Saison 2027 werden die Motorrad-Weltmeisterschaft und ihre Nachwuchsserien erstmals exklusiv unter dem Dach von RTL Deutschland vermarktet",
-          "link": "https://meedia.de/news/beitrag/24761-rtl-deutschland-sichert-sich-die-exklusiven-motogp-rechte-bis-2030.html",
-          "summary": "RTL Deutschland hat die exklusiven MotoGP-Rechte für Deutschland, Österreich und die Schweiz bis 2030 erworben und vermarktet die Motorrad-WM samt Nachwuchsserien (Moto2, Moto3) ab der Saison 2027 sowohl im Pay-TV über Sky Sport als auch teilweise im Free-TV. Während alle Sessions live bei Sky Sport verfügbar bleiben, ist noch offen, wie viele Rennen frei empfangbar gezeigt werden und über welchen RTL-Sender die Übertragung erfolgt. Die bisherige Sublizenz von DF1 (Nachfolger von ServusTV) mit zwölf Free-TV-Rennwochenenden läuft Ende 2026 aus.",
-          "score": 10
-        },
-        {
-          "source": "meedia",
-          "title": "SevenOne zeigt Google, Meta und RTL die Zähne \"Reden weniger und liefern mehr\": Wie P7S1-Vermarkter Nicola Lussana Vertrauen zurückgewinnen will Mehr Kundennähe, einfachere TV-Buchungen für den Mittelstand und europäische Vermarktung über MFE: Seven.One-Media-CEO Nicola Lussana erklärt im MEEDIA-Interview, wie sich der Werbevermarkter neu aufstellen will, warum TV bei der Werbewirkung den US-Plattformen weit überlegen sei",
-          "link": "https://meedia.de/news/beitrag/24752-quot-reden-weniger-und-liefern-mehr-quot-wie-p7s1-vermarkter-nicola-lussana-vertrauen-zurueckgewinnen-will.html",
-          "summary": "Seven.One-Media-CEO Nicola Lussana kündigt eine strategische Neuausrichtung des P7S1-Vermarkters an, die auf mehr Kundennähe, vereinfachte TV-Buchungen für den Mittelstand und eine europäische Vermarktung über MFE setzt. Lussana positioniert TV-Werbung dabei als der Werbewirkung von US-Plattformen wie Google und Meta deutlich überlegen und erteilt einer schnellen Einführung eines einheitlichen TKP-Modells eine Absage.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Alan Cumming-Backed Block The Merger Submits Evidence To UK Culture Sec; Argues WarnerMount Will “Directly Impact UK Documentarians’ Ability To Tell Diverse Stories”",
-          "link": "https://deadline.com/2026/07/block-the-merger-submits-evidence-paramount-warner-nandy-1237014363/",
-          "summary": "Die von Alan Cumming unterstützte Koalition „Block the Merger“ hat der britischen Kulturministerin Lisa Nandy Marktdaten und Fachbelege vorgelegt, um die 110-Mrd.-Dollar-Fusion von Paramount und Warner zu verhindern. Die Gruppen argumentieren, dass WarnerMount zum drittgrößten linearen Sender Großbritanniens würde und die erstmalige Zusammenlegung der CNN- und CBS-News-Archive unter einem Eigentümer die Vielfalt britischer Dokumentarfilme gefährde. Nandy, die bereits eine Intervention in Erwägung zieht, will ihre Entscheidung frühestens am 1. September treffen – parallel gerät die Fusion in den USA durch eine Klage von zwölf Bundesstaaten unter Dru",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Fremantle Hires Katie O’Connell Marsh As Global Scripted Chief",
-          "link": "https://deadline.com/2026/07/fremantle-katie-o-connell-marsh-global-scripted-chief-1236998222/",
-          "summary": "Fremantle hat Katie O'Connell Marsh, ehemalige Chefin von Gaumont International Television und Platform One, als CEO des neu geschaffenen Fremantle Global Scripted Hub berufen, wo sie ab August die creative, kommerzielle und strategische Ausrichtung aller Scripted-Labels des Unternehmens verantworten wird. Damit ersetzt sie faktisch Christian Vesper, der im Januar als CEO of Global Drama and Film ausgeschieden war. O'Connell Marsh, die von den USA nach London umzieht, wird an Group COO Andrea Scrosati berichten und zudem das jährliche Scripted-Investitionsbudget von Fremantle steuern.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "FIFA Set To Lose Vote Over Controversial Private Investment Plan After Europe, Asia & Americas Reject  Proposal",
-          "link": "https://deadline.com/2026/07/fifa-under-fire-over-plan-to-sell-world-cup-stake-to-joshua-kushner-investment-firm-1237006418/",
-          "summary": "Die FIFA droht eine Abstimmung über einen umstrittenen Plan zu verlieren, wonach 20 % der Anteile an der Weltmeisterschaft für 4,6 Milliarden Dollar an private Investoren verkauft werden sollen. Nach den europäischen und amerikanischen Fußballverbänden hat nun auch der asiatische Verband (AFC) das Vorhaben abgelehnt, wodurch mehr als 140 Mitgliedsländer und damit eine Mehrheit gegen den Plan stehen. Als Hauptkritikpunkte gelten der Mangel an ordnungsgemäßem Verfahren, die kurze Frist sowie die fehlende Notwendigkeit privater Investitionen angesichts der rekordverdächtigen Einnahmen von 15 Milliarden Dollar bei der WM 2026.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "ITV Studios Bosses Bullish Despite U.S. & International Declines As ‘Love Island’ & ‘The Gentlemen’ Maker Prepares To Go Independent",
-          "link": "https://deadline.com/2026/07/itv-studios-confident-american-revenue-dip-sky-itv-deal-1237014334/",
-          "summary": "ITV Studios verzeichnete im ersten Halbjahr 2026 deutliche Umsatzrückgänge in den USA (-17%) und international (-24%), zeigt sich jedoch optimistisch und verweist auf ein Gesamtwachstum von 2% auf £912M ($1,2 Mrd.). Das Management führt den Rückgang auf eine „Nachfrageschwäche\" im Free-TV-Bereich zurück und setzt verstärkt auf Produktionen für Streamingdienste sowie den Ausbau der Digitalsparte Zoo 55. Nach Abschluss des Sky-ITV-Deals in etwa einem Jahr soll ITV Studios als eigenständiges börsennotiertes Unternehmen an den Markt gehen, gestützt durch Großproduktionen wie „The Gentlemen\" Staffel 2 (Net",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Singapore’s Wave Films Taps Former Cambodian Broadcasting Chief Dave Ulmer To Drive U.S. Expansion",
-          "link": "https://deadline.com/2026/07/singapore-wave-films-cambodian-broadcasting-dave-ulmer-1237013111/",
-          "summary": "Das singapurische Produktionsdienstleistungsunternehmen Wave Films hat Dave Ulmer, den ehemaligen CEO des Cambodian Broadcasting Service (CBS), als in Los Angeles ansässigen Executive Producer verpflichtet, um seine US-Expansion voranzutreiben und nordamerikanische Content-Industrien mit Südostasiens Produktionsinfrastruktur zu verbinden. Ulmer soll internationale Projekte in die Region bringen und dabei die Produktions- und Postproduktionskapazitäten von Wave Films in Malaysia, den Philippinen und Kambodscha nutzen. Das Unternehmen betreut aktuell unter anderem Pierre Morels „The Good Samaritan“ in Malaysia und war zuvor an Projekten wie dem koreanischen Drama „Kidnap",
+          "source": "kress",
+          "title": "Christoph Eck-Schmidt wird CEO der \"Bild\"-Gruppe Axel Springer hat die Nachfolge von Carolin Hulshoff Pol geregelt: Zum 1.",
+          "link": "https://kress.de/news/beitrag/154209-christoph-eck-schmidt-wird-ceo-der-quot-bild-quot-gruppe.html",
+          "summary": "Christoph Eck-Schmidt, bisher CCO und CMO von Axel Springer sowie CEO von Bonial, wird zum 1. August 2026 CEO der \"Bild\"-Gruppe und gibt dafür seine bisherigen Führungsrollen inklusive der Geschäftsführung von Media Impact ab. Er folgt auf Carolin Hulshoff Pol, die künftig die neu übernommene britische Telegraph Media Group leitet. Sein Fokus soll auf dem Ausbau digitaler Produkte und Geschäftsmodelle sowie der Stärkung der Marktführerschaft von \"Bild\" im Werbemarkt liegen.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "ITV Bullish in First Results Since Confirming Sky Deal, Orders Share Buyback of $135M",
-          "link": "https://www.hollywoodreporter.com/business/business-news/itv-first-results-sky-deal-sharehold-buyback-studios-tv-1236660733/",
-          "summary": "ITV meldete im ersten Halbjahr ein Umsatzwachstum von 2 Prozent und kündigte einen Aktienrückkauf von 100 Millionen Pfund (135 Mio. USD) an – als Signal an die Aktionäre nach Skys 1,6-Milliarden-Pfund-Übernahme des Netzwerk- und Streaming-Geschäfts. Der Rückkauf und eine Zwischendividende (zusammen rund 60 Mio. Pfund) stellen eine frühe Teilrückzahlung der erwarteten Netto-Barrückflüsse von 950 Millionen Pfund nach Abschluss dar. Die nicht im Deal enthaltene Produktionssparte ITV Studios (u.a. „Love Island“, „Rivals“) rückt nun in den Fokus und gilt als möglicher Übernahmek",
-          "score": 9
-        },
-        {
-          "source": "Variety",
-          "title": "ITV Sees ‘Solid’ Results in First Half of 2026, Reports $26 Million Loss Due to Fast Food Advertising Regulations",
-          "link": "https://variety.com/2026/tv/global/itv-half-year-results-2026-solid-2-percent-1236824882/",
-          "summary": "ITV verzeichnete im ersten Halbjahr 2026 solide Ergebnisse mit einem konstanten Gruppenumsatz von 1,9 Milliarden Pfund und einem leichten EBITA-Anstieg von 2% auf 145 Millionen Pfund, was jedoch deutlich unter den 212 Millionen Pfund des Vorjahreszeitraums 2024 liegt. Dies sind die ersten Zahlen seit der bekanntgegebenen Veräußerung der Medien- und Unterhaltungssparte an das Comcast-Tochterunternehmen Sky, während ITV Studios als eigenständiges börsennotiertes Unternehmen ausgegliedert wird. Der Rückgang gegenüber 2024 wird auf das schwächere Abschneiden der englischen Fußballnationalmannschaft bei der WM (",
-          "score": 8
+          "title": "‘Barbie’ Sequel Stalled as Warner Bros. Tries to Reach Deals With Greta Gerwig, Margot Robbie, Ryan Gosling",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/barbie-sequel-stalls-margot-robbie-ryan-gosling-warner-bros-1236661307/",
+          "summary": "Warner Bros. steht unter Zeitdruck: Bis Dezember muss das Studio Verträge mit den „Barbie“-Stars Margot Robbie und Ryan Gosling sowie Regisseurin Greta Gerwig abschließen, bevor die Rechte an Mattel zurückfallen. Laut New York Times soll WBD-CEO David Zaslav den vorgeschlagenen Deal als „zu großzügig“ abgelehnt haben – eine Darstellung, die das Studio bestreitet und stattdessen auf ein im Mai unterbreitetes, bislang unbeantwortetes Angebot verweist. Der erste „Barbie“-Film hatte 2023 weltweit rund 1,5 Milliarden Dollar eingespielt.",
+          "score": 7
         }
       ]
     }
