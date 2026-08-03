@@ -1,21 +1,63 @@
 {
   "newsletters": [
     {
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "articles": [
         {
-          "source": "Horizont Medien",
-          "title": "Print-MA: Warum die neuen Reichweitendaten vielen Verlagen ganz recht sein dürften",
-          "link": "https://www.horizont.net/medien/nachrichten/print-ma-warum-die-neuen-reichweitendaten-vielen-verlagen-ganz-recht-sein-duerften-235249?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die neue Media-Analyse (MA) weist aktuelle Leserzahlen für Zeitschriften und Tageszeitungen aus, wobei sich vor allem Programmmagazine und Regionalzeitungen im Reichweiten-Ranking nach oben bewegen. Aufgrund methodischer Änderungen sind Vergleiche mit vorherigen Erhebungen zwar erschwert, aber grundsätzlich zulässig – eine Konstellation, die vielen Verlagen bei der Vermarktung ihrer Titel entgegenkommen dürfte.",
+          "source": "DWDL",
+          "title": "Neue Staffel bei DMAX: \"Kings of Cash\" zieht's in die USA",
+          "link": "https://www.dwdl.de/nachrichten/107360/neue_staffel_bei_dmax_kings_of_cash_ziehts_in_die_usa/",
+          "summary": "DMAX zeigt ab dem 7. September die dritte Staffel der Dokusoap \"Kings of Cash – Die Pfandleiher\", die mit 20 Folgen fünf mehr als bisher umfasst und weiterhin werktags um 19:15 Uhr am Vorabend läuft. Produziert wird das Format erneut von BluePrint Media, wobei die Karlsruher Pfandleiher Florian und Jabez erstmals auch das US-Pfandhaus Paramount Pawn in Florida besuchen.",
           "score": 7
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "Netflix’s New Releases Coming in August 2026",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-august-2026-new-releases-movies-tv-1236661354/",
-          "summary": "Netflix kündigt für August 2026 ein breites Portfolio an Eigen- und Lizenzproduktionen an, darunter die adulte Animationskomödie „Alley Cats“ von Ricky Gervais (Start 7. August), den Sci-Fi-Thriller „The Last House“ von Louis Leterrier mit Greta Lee und Wagner Moura sowie die dritte Staffel von Shane Gillis’ Comedy „Tires“. Ergänzt wird das Line-up unter anderem durch die Mourinho-Doku „Mourinho“, das finale Kapitel von „Outer Banks“ und einen Krimi-Thriller mit Robert De Niro, was Netflix' Strategie einer genreübergreifenden Content-Diversifizierung unterstreicht.",
+          "source": "Horizont Medien",
+          "title": "Der TV-Markt im Juli: ZDF dank WM weiter top, RTL schwächelt, Vox vor Pro Sieben",
+          "link": "https://www.horizont.net/medien/nachrichten/der-tv-markt-im-juli-zdf-dank-wm-weiter-top-rtl-schwaechelt-vox-vor-pro-sieben-235288?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Im Juli profitierten ARD und ZDF weiterhin von der Fußball-WM, wobei das ZDF seine Spitzenposition behaupten konnte – wenn auch mit abgeschwächtem Effekt gegenüber dem Vormonat. Bei den Privatsendern setzt sich der Abwärtstrend von RTL und Pro Sieben fort, während Vox sich vor Pro Sieben positionieren konnte.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Juli-Zahlen von Census+ AGF-Messungen: gigantische Streaming-Zahlen für die Fußball-WM und Wimbledon Der Sport dominiert die Juli-Monats-Charts der Streamingdienste, die sich von der AGF vermessen lassen. Das ZDF erreichte mit dem Fußball-WM-Finale zwischen Spanien und Argentinien via Streaming gigantische 11,423 Millionen Views, die Wimbledon-Übertragungen kamen bei Amazons Prime Video auf bis zu 3,944 Millionen Abrufe. Das stärkste Nicht-Sport-Programm läuft ebenfalls bei Prime: Der Sci-Fi-Blockbuster “Der Astronaut",
+          "link": "https://meedia.de/news/beitrag/24775-agf-messungen-gigantische-streaming-zahlen-fuer-die-fussball-wm-und-wimbledon.html",
+          "summary": "Die AGF-Streaming-Messungen (Census+) für Juli 2024 werden klar vom Sport dominiert: Das ZDF erzielte mit dem Fußball-WM-Finale Spanien gegen Argentinien 11,423 Millionen Views und stellte damit einen neuen Rekord auf, während weitere WM-Partien die Ränge 2 bis 4 belegten. Die Wimbledon-Übertragungen bei Amazon Prime Video kamen auf bis zu 3,944 Millionen Abrufe, gefolgt vom stärksten Nicht-Sport-Titel „Der Astronaut – Project Hail Mary“ mit 3,739 Millionen Views. Zu beachten ist, dass die Streaming-Views (ab einer Sekunde Nutzung) nicht mit den TV-Durchschnittsquoten vergleichb",
+          "score": 10
+        },
+        {
+          "source": "meedia",
+          "title": "TV-Quoten & Streaming-Charts Urlaubszeit lässt lineares Fernsehen abstürzen Der ohnehin rückläufige...",
+          "link": "https://meedia.de/news/beitrag/24768-urlaubszeit-laesst-lineares-fernsehen-abstuerzen.html",
+          "summary": "Der Konsum linearen Fernsehens ist in der Urlaubszeit drastisch eingebrochen: Am Samstag genügten bereits 206.000 Zuschauende der werberelevanten Zielgruppe (14–49 Jahre) für den Prime-Time-Sieg, während unter 100.000 für Platz 25 der Tages-Charts reichten. Am Wochenende dominierten Krimis das Programm, wobei am Sonntag „Tagesschau“ und „Tatort“-Wiederholung im Ersten mit jeweils über 4 Millionen Zuschauenden und Marktanteilen von mehr als 20 Prozent die Spitze bildeten.",
+          "score": 10
+        },
+        {
+          "source": "Deadline",
+          "title": "Australia’s ‘Better Man’ & ‘Eden’ Production House Forte Corp Pictures Hires Former Matchbox Exec",
+          "link": "https://deadline.com/2026/08/australia-house-forte-corp-pictures-hires-matchbox-exec-1237015648/",
+          "summary": "Die Melbourne-basierte Produktionsfirma Forte Corp Pictures („Better Man“, „Eden“) hat Brendan Campbell, ehemaliger Produktions-Manager des im Februar geschlossenen NBCUniversal-Studios Matchbox Pictures, als Head of Production verpflichtet. Campbell soll den bestehenden Entwicklungs-Slate unterstützen sowie den internationalen Arm und die physischen Produktionsservices in Australien ausbauen. Zuvor verantwortete er bei Matchbox Projekte wie „Young Rock“, „Apples Never Fall“ und zuletzt das gefeierte Drama „All Her Fault“ mit Sarah Snook.",
           "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Sarajevo Film Festival Unveils Woody Harrelson Honor & 25th Anniversary Screening For Oscar Winner ‘No Man’s Land’",
+          "link": "https://deadline.com/2026/08/sarajevo-woody-harrelson-honor-anniversary-no-mans-land-1237015637/",
+          "summary": "Das Sarajevo Film Festival zeichnet den dreifach Oscar-nominierten Schauspieler Woody Harrelson bei seiner 32. Ausgabe mit dem Honorary Heart of Sarajevo Award aus und würdigt damit seine herausragenden Beiträge zur Filmindustrie. Harrelson verbindet eine historische Beziehung zum Festival, da er 1997 in Michael Winterbottoms „Welcome to Sarajevo“ mitwirkte, der nun im Rahmen des Open-Air-Programms erneut gezeigt wird. Zu seinen weiteren Werken zählen „Three Billboards Outside Ebbing, Missouri“ und „Triangle of Sadness“; als Nächstes ist er in Apple TVs „Brothers“ zu sehen.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Nimrat Kaur, Roshan Mathew & Pavan Malhotra Star In ‘Job Trafficking’, Prime Video Series About Industrialized Online Scams",
+          "link": "https://deadline.com/2026/08/prime-videi-job-trafficking-nimrat-kaur-roshan-mathew-1237015184/",
+          "summary": "Prime Video hat mit den Dreharbeiten zur achtteiligen Hindi-sprachigen Dramaserie „Job Trafficking“ begonnen, die von Select Media Holdings und Chalkboard Entertainment produziert und von Prashant Nair inszeniert wird. Die Serie mit Nimrat Kaur, Roshan Mathew, Kavya Trehan und Pavan Malhotra beleuchtet die Welt industrialisierter Online-Betrugsmaschen („Pig Butchering“) und fokussiert dabei insbesondere junge Menschen, die durch falsche Jobangebote über Grenzen verschleppt und zu Betrügern gezwungen werden. Das Projekt ist Teil der umfangreichen Originals-Strategie von Prime Video für den indischen Markt.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "‘Peaky Blinders’ Helps U.K. Region Land Official Production Hub Status From British Film Commission",
+          "link": "https://variety.com/2026/tv/global/peaky-blinders-uk-west-midlands-official-production-hub-1236826227/",
+          "summary": "Die West Midlands rund um Birmingham wurden von der British Film Commission als achter offizieller regionaler Produktions-Hub für hochwertige Film- und TV-Produktionen im Vereinigten Königreich anerkannt – maßgeblich befördert durch Produktionen wie „Peaky Blinders“, den Spielfilm „The Immortal Man“ und ein geplantes „Peaky Blinders“-Spin-off. Damit reiht sich die Region in bestehende Hubs wie London, Glasgow, Belfast und Manchester ein, deren gemeinsames Angebot 2025 rund 5,8 Milliarden Pfund (7,8 Milliarden US-Dollar) zur britischen Wirtschaft beitrug.",
+          "score": 8
         }
       ]
     }
