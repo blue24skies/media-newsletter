@@ -1,133 +1,105 @@
 {
   "newsletters": [
     {
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Content-Sharing-Deal: TikTok-Videos kommen zu Disney+",
-          "link": "https://www.dwdl.de/nachrichten/107394/contentsharingdeal_tiktokvideos_kommen_zu_disney/",
-          "summary": "Disney und TikTok haben einen weltweit ersten Content-Sharing-Deal geschlossen, bei dem TikTok-Creator auf Material aus Hunderten Disney-Filmen und -Serien (inkl. Pixar, Marvel, Star Wars) zugreifen und eigene Videos erstellen können. Eine Auswahl dieser Videos wird nicht nur auf TikTok, sondern auch bei Disney+ ausgespielt – zunächst nur in den USA, weitere Länder sollen folgen. Ziel ist es, die Nutzerbindung durch User-Generated-Content zu erhöhen und gleichzeitig über TikTok potenzielle Neukunden ohne Disney+-Abo zu erreichen.",
-          "score": 9
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Mega-Serien, &quot;Wetten, dass..?!&quot; &amp; Co.: Diese Highlights bringt die neue TV-Saison",
-          "link": "https://www.horizont.net/medien/nachrichten/mega-serien-wetten-dass..--co.-diese-highlights-bringt-die-neue-tv-saison-235326?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die neue TV-Saison bis Jahresende wartet mit hochkarätigen Highlights auf: Als TV-Ereignis des Jahres gilt die einmalige „Wetten, dass..?!“-Ausgabe mit den Tokio-Hotel-Zwillingen Bill und Tom Kaulitz am 5. Dezember live aus Halle an der Saale. Zudem kehren Barbara Schöneberger und Stefan Raab mit neuen Ausgaben der RTL-Show „Wer weiß wie wann was war?“ zurück, ergänzt durch Serien-Highlights wie „Babylon Berlin“, „Maxton Hall“ und „Harry Potter“.",
-          "score": 10
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "&quot;All21 Roadblocking&quot;: Pro Sieben Sat 1 startet synchrones Werbeformat auf mehreren Sendern",
-          "link": "https://www.horizont.net/medien/nachrichten/all21-roadblocking-pro-sieben-sat-1-startet-synchrones-werbeformat-auf-mehreren-sendern-235293?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "ProSiebenSat.1 startet mit \"All21 Roadblocking\" ein neues Werbeformat, bei dem am Donnerstag um 21 Uhr erstmals auf allen Sendern des Konzerns synchron identische Werbespots ausgestrahlt werden. Ziel ist die Maximierung der Reichweite für Werbungtreibende, wobei sich das Format in anderen europäischen Ländern bereits als erfolgreich erwiesen hat.",
+          "title": "RTL verlagert Schnitt der Bundesliga-Highlights zu Sky",
+          "link": "https://www.dwdl.de/nachrichten/107417/rtl_verlagert_schnitt_der_bundesligahighlights_zu_sky/",
+          "summary": "Nach der Fusion von RTL Deutschland und Sky Deutschland setzt RTL zur Realisierung von Synergien (angepeiltes Potenzial: 250 Mio. Euro in drei Jahren) auf gemeinsame Produktionen im Sport – so werden die Samstagabend-Spiele der 2. Bundesliga künftig einheitlich für Free- und Pay-TV mit nur einem Team produziert. Zudem wandert der Schnitt der Bundesliga-Highlights von Köln nach Unterföhring, und das RTL+-Format \"Complete\" steht laut DWDL.de-Informationen vor dem Aus, da ausführliche Zusammenfassungen ohnehin bei Sky entstehen.",
           "score": 7
         },
         {
-          "source": "Horizont Medien",
-          "title": "Vom Kuratieren zum Generieren: So richtet Spotify sein Geschäftsmodell mit KI neu aus",
-          "link": "https://www.horizont.net/medien/nachrichten/vom-kuratieren-zum-generieren-so-richtet-spotify-sein-geschaeftsmodell-mit-ki-neu-aus-235302?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Spotify positioniert sich strategisch neu und stellt Künstliche Intelligenz in den Mittelpunkt seines Geschäftsmodells, um sich von einer reinen Streaming- zu einer interaktiven Plattform weiterzuentwickeln. Im Zuge dieser Transformation baut das Unternehmen zudem seine Werbeinfrastruktur um und vollzieht damit einen Wandel vom Kuratieren hin zum KI-gestützten Generieren von Inhalten.",
+          "source": "DWDL",
+          "title": "Streaming wächst, aber TV-Geschäft und \"Supergirl\" belasten WBD",
+          "link": "https://www.dwdl.de/nachrichten/107411/streaming_waechst_aber_tvgeschaeft_und_supergirl_belasten_wbd/",
+          "summary": "Warner Bros. Discovery verfehlte im zweiten Quartal 2026 mit 8,7 Milliarden Dollar Umsatz (minus elf Prozent) die Analystenerwartungen, belastet durch den Verlust der NBA-Rechte und den Kino-Flop \"Supergirl\", der als schwächster DC-Film seit \"Catwoman\" gilt. Positiv entwickelte sich hingegen das Streaminggeschäft mit einem Umsatzplus von zehn Prozent auf 3,1 Milliarden Dollar und einer Steigerung des operativen Ergebnisses um 75 Prozent. Die Zahlen erscheinen inmitten des juristischen Streits um die geplante 110-Milliarden-Dollar-Fusion mit Paramount, deren Kartellverhandlungen erst im März 2027 beginnen sollen.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Duell\": BR und ORF drehen Politthriller über KI",
+          "link": "https://www.dwdl.de/nachrichten/107409/duell_br_und_orf_drehen_politthriller_ueber_ki/",
+          "summary": "BR und ORF haben mit \"Duell\" (Arbeitstitel) einen Politthriller unter der Regie von Rudi Gaul abgedreht, in dem Ursina Lardi als umstrittene Gesundheitsministerin und Godehard Giese als Starjournalist in einem eskalierenden TV-Duell über eine KI-gestützte Gesundheitsüberwachung aufeinandertreffen. Produziert von Zielgerfilm München, thematisiert der Film den Konflikt zwischen Freiheit und Sicherheit sowie den Kampf um Deutungshoheit und Wahrheit. Die Ausstrahlung ist voraussichtlich im kommenden Jahr auf dem Mittwochfilm-Sendeplatz im Ersten geplant.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Masked Singer\" startet früher und verabschiedet sich vom Samstag",
+          "link": "https://www.dwdl.de/nachrichten/107408/masked_singer_startet_frueher_und_verabschiedet_sich_vom_samstag/",
+          "summary": "ProSieben verlegt \"The Masked Singer\" ab der 13. Staffel vom etablierten Samstagabend auf den Mittwoch (Start am 16. September) und damit deutlich früher als in den Vorjahren, in denen die Show erst im November lief. Hintergrund sind anhaltende Quotenprobleme mit teils einstelligen Marktanteilen in der Zielgruppe. Zudem verabschiedet sich der Sender von der bislang stolz beworbenen Live-Ausstrahlung und produziert die Staffel künftig kostensparend en bloc innerhalb von zweieinhalb Wochen.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Der Nächste: Auch der Chef von ORF III ist abberufen worden",
+          "link": "https://www.dwdl.de/nachrichten/107404/der_naechste_auch_der_chef_von_orf_iii_ist_abberufen_worden/",
+          "summary": "ORF-Generaldirektorin Ingrid Thurnher hat ORF-III-Geschäftsführer Peter Schöber infolge einer Compliance-Untersuchung abberufen und beurlaubt, wobei nun Gespräche zur Auflösung seines Dienstverhältnisses geführt werden. Schöber ist damit nach dem zurückgetretenen Generaldirektor Roland Weißmann sowie Werbechef Oliver Böhm und Manager Pius Strobl bereits der nächste hochrangige ORF-Manager, der das Unternehmen in den vergangenen Monaten verlässt. Die Untersuchung ergab laut Thurnher Verhaltensweisen, die mit der Funktion einer ORF-Führungskraft nicht vereinbar seien.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "TV-Werbung schwächelt, aber Kostensenkungen machen sich bezahlt",
+          "link": "https://www.dwdl.de/nachrichten/107398/tvwerbung_schwaechelt_aber_kostensenkungen_machen_sich_bezahlt/",
+          "summary": "ProSiebenSat.1 verzeichnete im zweiten Quartal 2026 einen Konzernumsatzrückgang von 9 Prozent auf 768 Millionen Euro (organisch -2 Prozent), wobei das klassische TV-Werbegeschäft mit einem Minus von über 10 Prozent weiter unter Druck stand und die digitalen sowie smarten Werbeerlöse (Anstieg von 77 auf 79 Millionen Euro) diese Rückgänge nur teilweise kompensieren konnten. Der Konzern führt die Rückgänge auf konjunkturelle und strukturelle Faktoren zurück, wobei Kostensenkungen dem herausfordernden Marktumfeld entgegenwirken sollen.",
           "score": 8
         },
         {
-          "source": "meedia",
-          "title": "Alle Wettbewerbe auch bei HBO Max und Discovery+ Warner Bros. Discovery steigt maximal breit in die Leichtathletik-EM ein Wer bei der Leichtathletik-EM in Birmingham (10. bis 16. August) wirklich nichts verpassen möchte, müsste mal wieder ein Streaming-Abo erwägen. Warner Bros. Discovery hat einen Deal mit der Europäischen Rundfunkunion (EBU) geschlossen, um sich die Übertragungsrechte für 45 europäische Märkte zu sichern. In Deutschland laufen viele Wettbewerbe im Free-TV auf Eurosport 1",
-          "link": "https://meedia.de/news/beitrag/24811-warner-bros-discovery-steigt-maximal-breit-in-die-leichtathletik-em-ein.html",
-          "summary": "Warner Bros. Discovery hat sich durch einen Deal mit der Europäischen Rundfunkunion (EBU) die Übertragungsrechte der Leichtathletik-EM in Birmingham (10. bis 16. August) für 45 europäische Märkte gesichert. Während in Deutschland ausgewählte Wettbewerbe im Free-TV auf Eurosport 1 sowie bei ARD und ZDF laufen, bieten die Streaming-Dienste HBO Max und Discovery+ sämtliche 50 Medaillenentscheidungen live und auf Abruf – ergänzt durch Funktionen wie \"Multiview\" und \"Key Moments\". Die deutsche Berichterstattung übernimmt das Kommentatoren-Duo Sigi Heinrich und Markus Röhrig, unterstützt von den Expert:innen Alexandra",
-          "score": 10
+          "source": "Horizont Medien",
+          "title": "Quartalsbilanz: Pro Sieben Sat 1 macht trotz rückläufigem Umsatz wieder Gewinn",
+          "link": "https://www.horizont.net/medien/nachrichten/quartalsbilanz-pro-sieben-sat-1-macht-trotz-ruecklaeufigem-umsatz-mehr-gewinn-235345?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "ProSiebenSat.1 hat im zweiten Quartal dank des eingeleiteten Sparkurses operativ wieder deutlich Gewinn gemacht und lag mit einem EBITDA von 80 Millionen Euro über den Markterwartungen. Der Umsatz blieb jedoch aufgrund des schwierigen Werbeumfelds rückläufig. Für das Gesamtjahr bekräftigte der TV-Konzern seinen bisherigen Ausblick.",
+          "score": 7
         },
         {
-          "source": "meedia",
-          "title": "Amazon-Tochter So sieht der Mediaplan der neuen Audible-Markenkampagne aus Audible hat seine neue...",
-          "link": "https://meedia.de/news/beitrag/24806-so-sieht-der-mediaplan-der-neuen-audible-markenkampagne-aus.html",
-          "summary": "Audible hat die globale Markenkampagne „Geschichten, die zu dir sprechen“ gestartet, die in Deutschland crossmedial über Video-on-Demand, Amazon DSP, Kino, lineares TV, OOH/DOOH, Paid Social, Audio sowie YouTube und Twitch ausgespielt wird. Ergänzt wird der von WPP Media (Etatgewinner 2024) verantwortete Mediaplan durch Kooperationen mit „The Voice of Germany“, dem Verlagshaus Hearst und LinkedIn sowie Influencer-Aktivierungen. Die Außenwerbung umfasst kombinierte OOH- und DOOH-Maßnahmen in mehreren Städten wie Berlin, Hamburg und München, inklusive Straßenbahn-Brandings und Megalights.",
+          "source": "Horizont Medien",
+          "title": "Gerichtsbeschluss: Prozess zu Warner-Übernahme durch Paramount erst im März",
+          "link": "https://www.horizont.net/medien/nachrichten/gerichtsbeschluss-prozess-zu-warner-uebernahme-durchparamounterst-im-maerz-235320?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Ein US-Gericht hat den Prozess zu den Wettbewerbsklagen von zwölf US-Bundesstaaten und der Drehbuchautoren-Gewerkschaft gegen die geplante Übernahme von Warner Bros. Discovery durch Paramount Skydance auf den 2. März 2027 terminiert. Die Verzögerung lässt die milliardenschwere Übernahme weiter in der Schwebe und könnte für Paramount erhebliche finanzielle Folgen haben.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Nächste Großfläche Ströer und blowUp Media nehmen neuen Digital-Screen am Kölner Neumarkt in...",
-          "link": "https://meedia.de/news/beitrag/24799-stroeer-und-blowup-media-nehmen-neuen-digital-screen-am-koelner-neumarkt-in-betrieb.html",
-          "summary": "Ströer und blowUp Media erweitern ihr Digital-Out-of-Home-Portfolio in Köln um den Standort „The Square“ am verkehrsreichen Neumarkt, der als 25 Quadratmeter großer DOOH Giant vermarktet wird. Der an einer Straßenbahnhaltestelle positionierte Screen profitiert von der Nähe zur Schildergasse mit über 21 Millionen Passanten jährlich und steht Werbungtreibenden ab dem 1. September 2026 zur Verfügung.",
+          "title": "Video Daily: TV-Quoten & Streaming-Charts \"Achtung Abzocke: Urlaubsbetrügern auf der Spur\" beschert Kabel Eins Rekordwerte Mitten in der Urlaubszeit sorgt Kabel Eins mit “Urlaubsbetrügern” für Top-Quoten. Die Reihe “Achtung Abzocke” erzielte am Donnerstagabend bei den 14- bis 49-Jährigen einen traumhaften Marktanteil von 10,4 Prozent",
+          "link": "https://meedia.de/news/beitrag/24817-quot-achtung-abzocke-urlaubsbetruegern-auf-der-spur-quot-beschert-kabel-eins-rekordwerte.html",
+          "summary": "Kabel Eins erzielte mit der Sendung \"Achtung Abzocke: Urlaubsbetrügern auf der Spur\" am Donnerstagabend einen Rekord-Marktanteil von 10,4 Prozent bei den 14- bis 49-Jährigen und damit Platz 5 der Tages-Charts. Prime-Time-Sieger in dieser Zielgruppe war RTLs \"Fast & Furious 9\", während im Gesamtpublikum die \"Nord bei Nordwest\"-Wiederholung im Ersten mit 4,00 Millionen Zuschauern und 22,4 Prozent klar dominierte.",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "FCC scraps limit on local TV ownership in win for media conglomerates",
+          "link": "https://www.theguardian.com/media/2026/aug/06/fcc-overturns-limit-local-tv-ownership",
+          "summary": "Die FCC hat mit einer 2:1-Mehrheit entlang der Parteilinien die sogenannte „National Cap\" abgeschafft, eine Regel, die verhinderte, dass ein einzelnes Unternehmen TV-Sender mit einer Gesamtreichweite von mehr als 39 % der US-Haushalte besitzt. Von der Entscheidung profitieren insbesondere große, konservativ ausgerichtete Medienkonzerne wie Sinclair Broadcast Group und Nexstar, die nun ihre landesweite Reichweite ausbauen können. FCC-Chef Brendan Carr begründete den Schritt mit der Förderung lokaler Rundfunkanstalten und „vertrauenswürdiger lokaler Nachrichten\", während Kritiker eine weitere Konsolidierung der TV-Branche befürchten.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "Darth Vader to become a TikTok star as Disney strikes deal on short video",
-          "link": "https://www.theguardian.com/technology/2026/aug/05/tiktok-disney-deal-short-video-darth-vader-spider-man",
-          "summary": "Disney hat als erstes traditionelles Medienunternehmen einen \"wegweisenden\" Deal mit TikTok geschlossen, der ausgewählten Creatorn offiziellen Zugang zu Charakteren und ikonischen Szenen aus dem Katalog von Marken wie Pixar, Marvel und Star Wars gewährt. Ein Teil dieser Inhalte soll auch auf Disneys eigenem Vertical-Video-Angebot \"Disney+ Verts\" (derzeit nur in den USA) erscheinen. Der Schritt unterstreicht die wachsende Bedeutung von Fan-Content und Kurzvideo-Formaten sowie die Marktmacht von TikTok mit über 200 Millionen US-Nutzern.",
+          "title": "Paramount concessions lead UK to approve takeover of Warner Bros",
+          "link": "https://www.theguardian.com/business/2026/aug/06/paramount-warner-bros-uk-approve-takeover-lisa-nandy",
+          "summary": "Die britische Kulturministerin Lisa Nandy hat Paramounts 110-Milliarden-Dollar-Übernahme von Warner Bros Discovery genehmigt, nachdem der Konzern erhebliche Zugeständnisse zum Schutz britischer Inhalte gemacht hat – darunter der Fortbestand von Channel 5 als öffentlich-rechtlicher Sender bis Ende 2034 sowie die redaktionelle Unabhängigkeit von Channel 5 News. Zudem haben die britische Wettbewerbsbehörde CMA und die EU dem Deal bereits zugestimmt, wobei die entscheidende letzte Hürde nun in den USA verbleibt.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "ITV’s Zandland Doc ‘Inside Iran: War & Revolution’ Goes Undercover During Anti-Regime Protests & Conflict With The U.S.",
-          "link": "https://deadline.com/2026/08/inside-iran-war-and-revolution-undercover-doc-itv-zandland-1237027530/",
-          "summary": "ITV hat die einmalige Dokumentation „Inside Iran: War & Revolution\" der britischen Doku-Produktionsfirma Zandland (unter Leitung des britisch-iranischen Filmemachers Ben Zand) beauftragt, die aus der Perspektive eines anonymen iranischen Journalisten undercover über die Proteste 2025-2026 sowie den Konflikt mit den USA berichtet. Das Filmmaterial wurde größtenteils von iranischen Bürgern unter erheblichem persönlichem Risiko aufgenommen und zeigt die Proteste, das brutale Vorgehen der Behörden sowie Szenen aus Krankenhäusern; aufgrund der Gefahr von Bestrafung oder Hinrichtung wurden Beiträge teils anonymisiert. Das Projekt folgt auf die BAFTA-",
+          "title": "Bootleg ‘The Office’ Videos Show How Chinese AI Is Still Being Used To Plunder Hollywood IP",
+          "link": "https://deadline.com/2026/08/chinese-ai-hollywood-bytedance-minimax-the-office-1237028329/",
+          "summary": "Ein neues chinesisches KI-Videomodell, Hailuo 3 (H3) von MiniMax, generiert trotz fehlender offizieller Verfügbarkeit in den USA und der EU über Drittanbieter-Plattformen wie Krea urheberrechtlich geschützte Inhalte, etwa Szenen aus „The Office“. Ein von Andreessen-Horowitz-Partnerin Justine Moore erstellter Clip zeigt, dass Copyright-Schutzmechanismen offenbar nicht ausreichend durchgesetzt werden, da Anfragen weiterhin über MiniMax-Server laufen. Der Fall verdeutlicht die anhaltende Problematik, dass chinesische KI-Tools Hollywood-IP ohne Genehmigung nutzen.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Warner Bros. Discovery Stumbles In Q2 As ‘Supergirl,’ Lack Of NBA Drag Down Results",
-          "link": "https://deadline.com/2026/08/warner-bros-discovery-q2-2026-earnings-supergirl-nba-1237027368/",
-          "summary": "Warner Bros. Discovery verfehlte im zweiten Quartal die Erwartungen der Wall Street mit einem Umsatzrückgang von 11 % auf 8,7 Milliarden Dollar, belastet durch den Flop von „Supergirl“ (nur 126 Millionen Dollar weltweit) und den Wegfall der NBA-Übertragungsrechte, die zu NBCUniversal wechselten. Während das Streaming-Geschäft mit einem Umsatzplus von 10 % und einem EBITDA-Sprung von 75 % positiv hervorstach, brachen die Werbeeinnahmen um 22 % und der Studioumsatz um 39 % ein. Zudem steht die geplante 110-Milliarden-Dollar-Fusion mit Paramount aufgrund einer Kartellklage von zwölf Bundesstaaten und",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "ReelShort On Course To Reach $1BN Revenue & First Profit In 2026 – MPA Report",
-          "link": "https://deadline.com/2026/08/microdrama-reelshort-revenue-profit-1237027492/",
-          "summary": "Laut einem Bericht von Media Partners Asia wird die Mikrodrama-Plattform ReelShort 2026 erstmals profitabel sein und ihren Umsatz um 34% auf 1,05 Mrd. USD steigern, bei einem prognostizierten Nettogewinn von rund 40 Mio. USD. Wesentlicher Treiber sind sinkende Marketing- und Nutzerakquisekosten, die von 55% des Umsatzes (2025) auf 44% bis 2028 fallen sollen – unter anderem durch erfolgreiche Franchise-Sequels, Telco-Partnerschaften und verstärkte Direktvertriebskanäle. MPA prognostiziert zudem ein starkes Marktwachstum für Mikrodramen außerhalb Chinas mit einer jährlichen Wachstumsrate von 21% auf",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "ProSiebenSat.1 Ad Sales Dented By Weak TV Market & Rivals’ World Cup Rights",
-          "link": "https://deadline.com/2026/08/prosiebensat1-h1-2026-tv-ad-slump-world-cup-1237027497/",
-          "summary": "ProSiebenSat.1 verzeichnete im ersten Halbjahr 2026 einen Umsatzrückgang von 9 % auf 1,5 Mrd. Euro, bedingt durch Desinvestitionen, den schwächelnden TV-Werbemarkt und die WM-Übertragungsrechte der Konkurrenz. Trotz dieser Herausforderungen erzielte der Konzern durch Kostensenkungen – insbesondere um 117 Mio. Euro reduzierte Personalkosten sowie angepasste Programmabschreibungen – ein EBITDA von 124 Mio. Euro und kehrte damit in die Gewinnzone zurück. Strategisch fokussiert sich das Unternehmen verstärkt auf das digitale Geschäft, wobei der Streamingdienst Joyn sowohl bei AVOD- als auch S",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Warner Bros. Discovery Q2 Content Revenue Crashes on Rough Box Office Comps",
-          "link": "https://www.hollywoodreporter.com/business/business-news/warner-bros-discovery-q2-earnings-supergirl-the-bride-bomb-1236665002/",
-          "summary": "Warner Bros. Discovery verfehlte im zweiten Quartal 2026 die Umsatzerwartungen der Wall Street (8,717 Mrd. USD statt prognostizierter 9,21 Mrd. USD), belastet durch einen Einbruch der Kinoeinnahmen um 46 Prozent (Flops von Supergirl und The Bride gegen starke Vorjahresvergleichswerte) sowie einen Rückgang der Werbeerlöse um 22 Prozent infolge des NBA-Verlusts; das Streaming-Geschäft wuchs hingegen um 9 Prozent auf 3,1 Mrd. USD. Trotz der schwachen Zahlen hält Paramount Skydance an der 111-Mrd.-USD-Übernahme fest, die jedoch auf regulatorischen Widerstand einer Koalition von zw",
+          "title": "Prime Video’s ‘Ride Or Die’ To Be Submitted As Comedy With Stars Hannah Waddingham & Octavia Spencer In Lead Actress Consideration For TV Awards",
+          "link": "https://deadline.com/2026/08/ride-or-die-submitted-comedy-awards-waddingham-spencer-1237028230/",
+          "summary": "Prime Videos Actionserie „Ride or Die\" mit Hannah Waddingham und Octavia Spencer wird nach ihrem Erfolg (Nr. 1 auf Prime Video seit dem 15. Juli, 98% auf Rotten Tomatoes) in den Comedy-Kategorien für die kommenden Awards eingereicht. Beide Hauptdarstellerinnen konkurrieren als Lead Actress in a Comedy, während die Co-Stars Ed Skrein und Bill Nighy als Supporting Actors nominiert werden. Die Einordnung als Comedy folgt einem verbreiteten Trend genreübergreifender Serien wie „The Bear\" oder „Wednesday\" im aktuellen Emmy-Zyklus.",
           "score": 7
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "Soft Ad Market, World Cup Competition Hit Germany’s ProSiebenSat.1 Results",
-          "link": "https://www.hollywoodreporter.com/business/business-news/soft-ad-market-world-cup-competition-hit-prosiebensat-1-1236665701/",
-          "summary": "ProSiebenSat.1 verzeichnete im ersten Halbjahr einen Umsatzrückgang von 9 Prozent auf 1,54 Milliarden Euro, belastet durch den schwachen deutschen TV-Werbemarkt und die Konkurrenz durch WM-übertragende Sender. Während die lineare TV-Werbung um 9 Prozent einbrach, entwickelte sich das digitale Geschäft mit einem Plus von 6 Prozent bei Digital & Smart Advertising sowie deutlichen Zuwächsen beim Streamingdienst Joyn positiv. Trotz sinkender Erlöse verbesserte sich das Ergebnis dank Kostensenkungen und laufender Restrukturierung deutlich, mit einem EBITDA-Anstieg von 152 Millionen Euro.",
-          "score": 10
-        },
-        {
-          "source": "Variety",
-          "title": "Warner Bros. Discovery Q2 Profit Slumps on NBA Ads, Movie Schedule, Write-Downs",
-          "link": "https://variety.com/2026/tv/news/warner-bros-discovery-q2-profit-slumps-nba-ads-write-downs-1236828837/",
-          "summary": "Warner Bros. Discovery verzeichnete im zweiten Quartal 2026 einen deutlichen Gewinneinbruch: Der Nettogewinn sank auf 149 Mio. USD (von 1,58 Mrd. USD im Vorjahr) bei einem Umsatzrückgang von 11 % auf 8,7 Mrd. USD, belastet durch den Verlust der NBA-Übertragungsrechte (TV-Werbeeinnahmen −22 %), einen schwächeren Studio-Lineup, einen Rückgang der Kabel-Abonnenten um 10 % sowie Abschreibungen und Restrukturierungskosten von rund 1,1 Mrd. USD. Trotz Wachstum im Streaming-Geschäft steht das Unternehmen unter Druck, da die geplante Übernahme durch Paramount Skydance der",
-          "score": 10
-        },
-        {
-          "source": "Variety",
-          "title": "Nike Drops New Air Jordan 13 Retro ‘Wings’ Sneakers: Here’s Where to Buy a Pair Online",
-          "link": "https://variety.com/2026/shopping/news/how-to-buy-nike-air-jordan-13-retro-wings-sneakers-shop-online-1236828845/",
-          "summary": "Nike bringt am 6. August um 10 Uhr ET den Air Jordan 13 Retro in der neuen „Wings\"-Colorway (schwarz) für 215 US-Dollar auf den Markt, inspiriert vom ursprünglichen Modell der NBA-Saison 1997-98. Der Schuh verfügt über Premium-Materialien wie echtes und synthetisches Leder, das ikonische „Jumpman\"-Logo, eine „Zoom Air\"-Einheit sowie ein holografisches Detail am Kragen. Nike-Mitglieder erhalten kostenlosen Versand ab 50 US-Dollar, Nicht-Mitglieder ab 75 US-Dollar.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "ReelShort on Track for $1.05 Billion Revenue, First Profit at Scale in 2026, Media Partners Asia Report Finds",
-          "link": "https://variety.com/2026/tv/news/reelshort-1-billion-revenue-profit-2026-mpa-1236828885/",
-          "summary": "Laut einem Bericht von Media Partners Asia wird die Microdrama-Plattform ReelShort 2026 einen Umsatz von 1,05 Milliarden US-Dollar (plus 34 %) erzielen und mit rund 40 Millionen US-Dollar Nettogewinn erstmals in nennenswertem Umfang profitabel werden – nach einem geschätzten Verlust von 12 Millionen US-Dollar im Vorjahr. Bis 2028 prognostiziert MPA ein Umsatzwachstum auf 1,7 Milliarden US-Dollar sowie 225 Millionen US-Dollar Nettogewinn. Der gesamte Microdrama-Markt außerhalb Chinas soll von 3,6 Milliarden US-Dollar (2026) auf 9,5 Milliarden US-Dollar bis 2031 wach",
+          "source": "Deadline",
+          "title": "‘Spider-Man: Brand New Day’ Becomes Fastest Pic To Cross Half Billion At Domestic Box Office",
+          "link": "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-fastest-half-billion-record-1237028214/",
+          "summary": "*Spider-Man: Brand New Day* (Sony/Marvel, Regie: Destin Daniel Cretton) hat mit Tom Holland und Zendaya in nur sieben Tagen die halbe Milliarde US-Dollar am nordamerikanischen Box Office überschritten und damit den bisherigen Rekord von *Avengers: Endgame* (acht Tage, 2019) unterboten. Als 23. Film überhaupt, der die 500-Millionen-Dollar-Marke inlandsseitig erreicht, steht der laufende Umsatz bei geschätzten 508,8 Millionen Dollar, während der Mittwochsumsatz von 32,7 Millionen den zweitbesten Nicht-Startwert für einen Nicht-Eröffnungstitel markiert. Zudem startet der Film nun verspätet in IMAX-Kinos –",
           "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Judge Dismisses Lawsuit From Paramount Streaming Subscribers Seeking to Block Warner Bros. Merger",
-          "link": "https://variety.com/2026/film/news/judge-dismisses-lawsuit-paramount-warner-bros-merger-1236828855/",
-          "summary": "Eine Bundesrichterin wies die Klage von fünf Paramount+-Abonnenten gegen die 111-Milliarden-Dollar-Fusion von Paramount und Warner Bros. ab, da die Kläger keine Klagebefugnis und keine nachweisbaren wirtschaftlichen Schäden im Sinne des Kartellrechts darlegen konnten. Das Gericht bemängelte insbesondere pauschale Behauptungen zu Wettbewerbsschäden ohne konkrete Faktengrundlage, gestattete den Klägern jedoch eine Überarbeitung und Neueinreichung der Klage. Richterin Martínez-Olguín wird zudem die parallelen Kartellverfahren von 12 Generalstaatsanwälten sowie der Writers Guild of America leiten.",
-          "score": 8
         }
       ]
     }
