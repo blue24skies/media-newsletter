@@ -4,67 +4,25 @@
       "date": "2026-08-17",
       "articles": [
         {
-          "source": "DWDL",
-          "title": "Wow: RTL Deutschland und das ungelöste Sky-Dilemma",
-          "link": "https://www.dwdl.de/nachrichten/107500/wow_rtl_deutschland_und_das_ungeloeste_skydilemma/",
-          "summary": "RTL Deutschland hat nach der Sky-Übernahme mit der ersten gemeinsamen Werbekampagne den Sky Q-Receiver faktisch abgelöst und setzt künftig ausschließlich auf die IPTV-Box Sky Stream, wodurch RTL zum Full-Service-TV-Provider wird. Pikant ist dabei, dass die Abos den Empfang fast aller relevanten FreeTV-Sender inklusive der ProSiebenSat.1-Kanäle umfassen, während RTL selbst als Provider in direkte Konkurrenz zum wichtigen Partner Deutsche Telekom (Magenta TV) tritt. Diese neue Positionierung schafft ein noch ungelöstes strategisches Dilemma, das CEO Stephan Schmitter bislang öffentlich nicht klar adressiert hat.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Klare Sache: Florian Hager bleibt Intendant des HR",
-          "link": "https://www.dwdl.de/nachrichten/107491/klare_sache_florian_hager_bleibt_intendant_des_hr/",
-          "summary": "Der HR-Rundfunkrat hat Florian Hager mit 29 von 30 Stimmen als einzigen Kandidaten für eine zweite Amtszeit als Intendant wiedergewählt. Seine neue, fünfjährige Amtszeit beginnt am 1. März 2027 und reicht bis 2032. Hager kündigte an, den bisherigen Kurs eines \"generationengerechten HR\" fortzusetzen und betonte die Bedeutung des direkten Kontakts zu den Menschen vor Ort.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Kavanian, Niehaus und Zymny sind Teil von \"Comedy im Spektrum\"",
-          "link": "https://www.dwdl.de/nachrichten/107488/kavanian_niehaus_und_zymny_sind_teil_von_comedy_im_spektrum/",
-          "summary": "Das ZDF hat für seine neue Social-Factual-Reihe \"Comedy im Spektrum\" (Produktion: megaherz GmbH) Rick Kavanian, Valerie Niehaus und Jan Philipp Zymny als Comedy-Coaches bestätigt, die sechs Menschen im Autismus-Spektrum bei ihrem Weg auf die Bühne begleiten. Moderiert von Leon Windscheid und wissenschaftlich begleitet von der HU Berlin, umfasst das Format vier Folgen mit einem Live-Show-Finale; die Dreharbeiten starten im September, die Ausstrahlung ist für Frühjahr 2027 geplant.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "\"Die Öffentlich-Rechtlichen müssen ihre Resilienz gegen die AfD stärken\": Beuster fordert ARD, ZDF und Co.",
-          "link": "https://kress.de/news/beitrag/154247-quot-die-oeffentlich-rechtlichen-muessen-ihre-resilienz-gegen-die-afd-staerken-quot-beuster-fordert-ard-zdf-und-co-zu-mehr-widerstand-auf.html",
-          "summary": "DJV-Bundesvorsitzender Mika Beuster unterstützt die Forderung des Initiativkreises öffentlich-rechtlicher Rundfunk (IÖR) und appelliert an ARD, ZDF und Deutschlandradio, ihre \"Resilienz gegen die AfD\" zu stärken, deren rundfunkpolitische Pläne als massiver Angriff auf die gesamte Rundfunkordnung gewertet werden. Beuster fordert die Sender auf, ihren Journalisten angesichts drohenden \"Journalistenbashings\" nach den Ost-Landtagswahlen klar den Rücken zu stärken. Die Verteidigung der Rundfunkfreiheit sei zudem Aufgabe der gesamten Zivilgesellschaft – notfalls müssten Bürger für die Pressefreiheit auf die Straße geh",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Springers Welt knackt Reichweitenrekord im Juli unter Chefredakteur Fuhst Jens Schröder hat bei Meedia die Top 100 Onlinemedien im Juli ermittelt.",
-          "link": "https://kress.de/news/beitrag/154244-springers-welt-knackt-reichweitenrekord-im-juli-unter-chefredakteur-fuhst.html",
-          "summary": "Die Springer-Website Welt erreichte im Juli 2026 unter dem neuen Chefredakteur Helge Fuhst mit 89,50 Millionen Visits einen Sechs-Jahres-Rekord und war zugleich prozentual größter Aufsteiger der Meedia-Top-Ten. Marktführer bleibt Bild mit 174,14 Millionen Visits (+4,7 Prozent), während die Nummer 2 t-online mit einem Jahresminus von 26,2 Prozent weiter deutlich verliert. Die zugrunde liegenden Similarweb-Daten beruhen allerdings nicht auf reiner Messung, sondern auf Hochrechnungen aus verschiedenen Rohdatenquellen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "TV erweitert sein Live-Sportangebot.",
-          "link": "https://meedia.de/news/beitrag/24860-dfb-tv-baut-live-angebot-aus-und-zeigt-regionalliga-fussball.html",
-          "summary": "Der Ende Mai gestartete Bezahlsender DFB.TV baut sein Live-Angebot aus und überträgt künftig regelmäßig Spiele aus drei deutschen Herren-Regionalligen – Wettbewerbe, für die bislang kein TV-Vertrag bestand. Der Auftakt erfolgt am 14. August mit der Partie SSV Ulm gegen Kickers Offenbach, zudem setzt der Sender einen Schwerpunkt auf den Frauenfußball, etwa mit dem Supercup zwischen Bayern München und VfL Wolfsburg. Die Erweiterung eröffnet auch regionalen Werbepartnern mehr Sichtbarkeit und positioniert DFB.TV verstärkt jenseits der etablierten Top-Ligen.",
-          "score": 7
-        },
-        {
           "source": "Guardian Media",
           "title": "Disney+ secures rights to Gary Neville’s Overlap content in riposte to Lineker’s Netflix deal",
           "link": "https://www.theguardian.com/football/2026/aug/13/disney-buys-rights-gary-neville-overlap-podcast-content-gary-lineker-netflix-deal",
-          "summary": "Disney+ hat sich in einem Multimillionen-Pfund-Deal die Streaming-Rechte an Gary Nevilles Overlap-Content gesichert und tritt damit in direkte Konkurrenz zu Gary Linekers Netflix-gestütztem „Rest is Football\". Die Vereinbarung umfasst 40 Episoden von „Stick to Football\" sowie 50 Folgen des neuen Formats „Stick to United\" mit Wayne Rooney und Mark Goldbridge, wobei Disney+ zusätzlich sechs exklusive Episoden erhält, während The Overlap die IP-Rechte behält. Der Deal markiert eine Eskalation im Wettbewerb der großen Streaming-Plattformen um hochwertige Sport-Podcast-Inhalte.",
+          "summary": "Disney+ hat sich in einem millionenschweren Deal die Übertragungsrechte an Gary Nevilles „Stick to Football\"-Marke gesichert und positioniert sich damit im Streaming-Wettbewerb gegen Gary Linekers Netflix-gestütztes „Rest is Football\". Die Vereinbarung umfasst 40 Episoden „Stick to Football\" sowie 50 Folgen des neuen Formats „Stick to United\" mit Wayne Rooney und Content Creator Mark Goldbridge, wobei sechs Exklusivepisoden zeitlich befristet nur für Disney+-Abonnenten verfügbar sein werden. The Overlap behält die geistigen Eigentumsrechte, während Disney+ für Branding und Distribution zahlt – ein strategischer Schritt, der die wachsende Bedeutung etablierter",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Mother of one of Alan Jones’s alleged victims told him ‘I should have protected you’, court hears",
+          "link": "https://www.theguardian.com/media/2026/aug/13/alan-jones-lawyers-accused-in-court-of-intimidating-witness-in-indecent-assault-case-ntwnfb",
+          "summary": "Im Prozess gegen den ehemaligen Radiomoderator Alan Jones, der sich in 20 Fällen wegen unzüchtiger Übergriffe und zwei Fällen sexueller Berührungen gegen sechs Kläger nicht schuldig bekannt hat, sagte die Mutter eines mutmaßlichen Opfers (Kläger J) aus, sie habe sich bei ihrem Sohn dafür entschuldigt, ihn nicht geschützt zu haben. Der als vielversprechender Schülerathlet beschriebene Sohn habe zunächst geleugnet, von Jones berührt worden zu sein, dies aber nach Jones' Verhaftung im Jahr 2024 gegenüber der Polizei und schließlich seiner Mutter offengelegt. Die Aussage der Mutter bildete den Abschluss der fast zwe",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "Prime Video Sets Global Launch Date For Indian Investigative Drama ‘Babita Singh Reporting’",
-          "link": "https://deadline.com/2026/08/babita-singh-reporting-prime-video-global-launch-date-1237040426/",
-          "summary": "Prime Video bringt am 28. August seinen nächsten indischen Originalfilm „Babita Singh Reporting\" weltweit heraus – ein Investigativ-Drama unter der Regie von Ambiecka Pandit mit Nimisha Sajayan in der Hauptrolle als suspendierte Polizistin, die den Mord an einer Kindheitsfreundin aufklären will. Produziert wird der Film von Film Squad Productions in Zusammenarbeit mit Act Three, mit Sudip Sharma als Executive Producer. Der Film setzt auf realitätsnahes Erzählen und komplexe Charaktere und unterstreicht Prime Videos Strategie, authentische lokale Inhalte aus dem indischen Markt zu fördern.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "‘Lanterns’ Premiere Shocker: Stars Kyle Chandler, Aaron Pierre and Show Creators Break Down That Time Jump and Cliffhanger",
-          "link": "https://variety.com/2026/tv/news/lanterns-premiere-how-does-hal-die-1236835653/",
-          "summary": "Die HBO-Max-Serie „Lanterns\" wagt einen ungewöhnlichen Schritt und lässt ihren Protagonisten Hal Jordan (Kyle Chandler) bereits in der Premierenfolge tot auffinden, wobei eine nicht-lineare Erzählstruktur mit Zeitsprüngen ab 1996 etabliert wird. Co-Schöpfer Damon Lindelof erklärt, dass die Serie von Beginn an als Murder-Mystery konzipiert war, in der Green Lantern (verkörpert durch John Stewart, gespielt von Aaron Pierre) den Mord aufklärt – ein für das Superhelden-Genre mutiger Cliffhanger, dessen Wirkung nun beim Publikum liege.",
-          "score": 8
+          "title": "Diane Kruger & Dany Boon Are Nazi Hunters On The Trail Of Tim Roth’s Klaus Barbie In Netflix’s ‘Projet K’",
+          "link": "https://deadline.com/2026/08/diane-kruger-dany-boon-nazi-hunt-tim-roth-projet-k-netflix-1237042784/",
+          "summary": "Netflix produziert mit „Projet K\" ein von Yvan Attal inszeniertes Drama, in dem Diane Kruger und Dany Boon die realen Nazi-Jäger Beate und Serge Klarsfeld verkörpern, die den von Tim Roth gespielten Gestapo-Chef Klaus Barbie („Schlächter von Lyon\") jagen. Die Dreharbeiten laufen bereits in Paris, Lyon, Bolivien und Belgien. Der Film ergänzt Netflix' französisches Slate, das unter anderem „Call My Agent: The Movie\" sowie Fortsetzungen von „Sous la Seine\" und „Ad Vitam\" umfasst.",
+          "score": 7
         }
       ]
     }
