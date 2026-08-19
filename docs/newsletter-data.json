@@ -1,41 +1,69 @@
 {
   "newsletters": [
     {
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "articles": [
         {
           "source": "DWDL",
-          "title": "\"Die Kanzlei\" geht mit neuen Folgen im September weiter",
-          "link": "https://www.dwdl.de/nachrichten/107514/die_kanzlei_geht_mit_neuen_folgen_im_september_weiter/",
-          "summary": "Das Erste zeigt ab dem 29. September die siebte Staffel der Anwaltsserie \"Die Kanzlei\" mit 13 neuen Folgen jeweils dienstags um 20:15 Uhr, wobei die Episoden bereits eine Woche vor der linearen Ausstrahlung in der ARD-Mediathek verfügbar sind. Erstmals geraten dabei nicht nur die Mandanten, sondern auch die Hauptfiguren Isa von Brede (Sabine Postel) und Markus Gellert (Herbert Knaup) in existenzielle persönliche und berufliche Krisen. Produziert wird die Serie von Letterbox Filmproduktion.",
+          "title": "Distributionschef Andre Prahl verlässt RTL Deutschland",
+          "link": "https://www.dwdl.de/nachrichten/107523/distributionschef_andre_prahl_verlaesst_rtl_deutschland/",
+          "summary": "Andre Prahl verlässt RTL Deutschland auf eigenen Wunsch, nur wenige Wochen nach seiner Ernennung zum Executive Vice President Distribution im Juni, in der er die plattformübergreifende Verbreitung des gebündelten RTL- und Sky-Contentportfolios verantworten sollte. Zum 1. Oktober übernimmt Moritz von Nagel als Senior Vice President Distribution und Portfolio Transformation, der an Chief Consumer Officer Michael Radelsberger sowie an Chief Transformation Officer Max Orgonyi berichtet. Prahl wird die Übergabe begleiten und RTL Deutschland weiterhin beratend unterstützen.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "\"SOKO Leipzig\" meldet sich mit neuem Ermittler zurück",
+          "link": "https://www.dwdl.de/nachrichten/107519/soko_leipzig_meldet_sich_mit_neuem_ermittler_zurueck/",
+          "summary": "Das ZDF startet die 27. Staffel der \"SOKO Leipzig\" mit 24 neuen Folgen ab dem 2. Oktober 2026 auf dem bewährten Freitagabend-Sendeplatz um 21:15 Uhr, während die Streaming-Veröffentlichung bereits ab dem 25. September erfolgt. Neu im Ensemble ist Simon Böer, der als Ermittler Dirk Trebbe die Nachfolge des langjährigen Hauptdarstellers Marco Girnth antritt und das Team um Melanie Marschke, Amy Mußul und Johannes Hendrik Langer verstärkt.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "One kündigt auf den letzten Metern noch zwei Serien an",
+          "link": "https://www.dwdl.de/nachrichten/107517/one_kuendigt_auf_den_letzten_metern_noch_zwei_serien_an/",
+          "summary": "Der ARD-Sender One stellt vor seiner Einstellung zum Jahresende – bedingt durch das Aufgehen in das neue ARD/ZDF-Gemeinschaftsangebot Neo – noch zwei letzte Serien-Starts vor. Ab dem 2. September feiert die Krimiserie \"Sherlock & Daughter\" mit David Thewlis ihre Free-TV-Premiere, ab dem 29. September folgt die zweite Staffel der britischen Familiensaga \"The Hardacres\". Beide Serien werden linear sowie parallel in der ARD-Mediathek verfügbar sein.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Gladiators\" findet bei Prime Video offenbar wenig Publikum",
+          "link": "https://www.dwdl.de/zahlenzentrale/107516/gladiators_findet_bei_prime_video_offenbar_wenig_publikum/",
+          "summary": "Die deutsche Adaption der Kultshow \"Gladiators\", eine Kooperation zwischen Prime Video und RTL, blieb nach ihrem Start am 6. August 2026 deutlich hinter den Erwartungen zurück: Das Format fiel innerhalb weniger Tage aus den Amazon-eigenen Top 10 und verpasste mit weniger als 240.000 erreichten Personen auch eine Platzierung in der AGF-Ausweisung der Programmmarken. Damit reiht sich \"Gladiators\" in eine Serie enttäuschender Sender-Streamer-Kooperationen von Prime Video ein – bereits die Neuauflage des \"Letzten Bullen\" hatte bei Amazon nur schwache Resonanz erzielt.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Dystopie \"Droneland\" startet im Oktober bei MagentaTV",
-          "link": "https://www.dwdl.de/nachrichten/107505/dystopie_droneland_startet_im_oktober_bei_magentatv/",
-          "summary": "MagentaTV startet am 8. Oktober die dystopische Thriller-Serie \"Droneland\" mit Oliver Masucci, Sophie Mousel und Sibel Kekilli, basierend auf Tom Hillenbrands Roman \"Drohnenland\" (2014). Die Produzenten Nicolas Steil und Siegfried Kamml betonten die Herausforderung, den Stoff angesichts der rasanten realen Entwicklungen bei Drohnen und KI aktuell zu halten – allein für die erste Episode entstanden 39 Drehbuchfassungen. Inhaltlich thematisiert die Serie Überwachung, Künstliche Intelligenz und digitale Utopien anhand einer Mordermittlung in einem drohnenüberwachten Europa der nahen Zukunft.",
+          "title": "RTL Group: Clément Schwebig baut sein Führungsteam aus",
+          "link": "https://www.dwdl.de/nachrichten/107513/rtl_group_clment_schwebig_baut_sein_fuehrungsteam_aus/",
+          "summary": "RTL Group-CEO Clément Schwebig stellt sein Führungsteam neu auf: Jan Peter Lacher wechselt in die neu geschaffene Position des Senior Advisor des CEO und fokussiert sich künftig ausschließlich auf das strategisch zentrale Thema Künstliche Intelligenz. Seine bisherige Rolle als EVP Strategy, Transformation & Business Development übernimmt Hendrik von der Linden, der von RTL Deutschland zur Gruppe wechselt und dort unter anderem für Unternehmensstrategie, M&A-Bewertungen sowie die Koordination der Synergy Committees verantwortlich sein wird.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Neo Match Up\": 2. Staffel mit mehr Folgen",
+          "link": "https://www.dwdl.de/nachrichten/107492/neo_match_up_2_staffel_mit_mehr_folgen/",
+          "summary": "Das ZDF setzt seine Show \"Neo Match Up\" mit Moderatorin Parshad Esmaeili fort und weitet die zweite Staffel von vier auf sechs Folgen aus, die Anfang September in Berlin aufgezeichnet werden. Als Gäste des Zuordnungsduells sind unter anderem Teddy Teclebrhan, Enissa Amani und Ali Burmaye bestätigt, während ein Ausstrahlungstermin noch aussteht.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Content, Daten, Distribution: Das Streaming-Prinzip Streaming-Plattformen haben neben der Mediennutzung auch die Spielregeln für Werbung verändert.",
-          "link": "https://meedia.de/news/beitrag/24837-dmexco-2026-content-daten-distribution-das-streaming-prinzip.html",
-          "summary": "Streaming-Plattformen wie Netflix, Spotify oder die ARD Mediathek haben die Werberegeln durch ein integriertes System aus Content, Daten und Distribution verändert, das die gesamte User Journey statt einzelner Kanäle optimiert. Für Vermarkter, Mediaagenturen und Advertiser ergeben sich daraus zentrale Lektionen: Distribution wird zum entscheidenden Faktor der Werbewirkung, da Umfeld und Nutzungssituation die Aufmerksamkeit maßgeblich beeinflussen, während First-Party-Daten durch die Analyse des Nutzungsverhaltens strategische Relevanz und Wettbewerbsvorteile schaffen.",
+          "title": "Zusätzliche Aufgabe Moritz von Nagel verantwortet bei RTL jetzt auch die Distribution Zum 1.",
+          "link": "https://meedia.de/news/beitrag/24880-moritz-von-nagel-verantwortet-bei-rtl-jetzt-auch-die-distribution.html",
+          "summary": "Moritz von Nagel übernimmt zum 1. Oktober bei RTL Deutschland zusätzlich zu seiner bisherigen Verantwortung für Portfolio Transformation die Leitung des Distributionsgeschäfts als Senior Vice President und berichtet dabei an Chief Consumer Officer Michael Radelsberger. Er folgt auf Andre Prahl, der das Unternehmen auf eigenen Wunsch verlässt, die Übergabe jedoch begleiten und RTL künftig beratend zur Seite stehen wird. Von Nagel kam von Sky zu RTL, wo er zuletzt als Vice President Strategy & Strategic Collaborations tätig war.",
           "score": 7
         },
         {
-          "source": "Deadline",
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B WW – Global Top 10 Box Office Update",
-          "link": "https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-2-1237042050/",
-          "summary": "„Spider-Man: Brand New Day“ (Sony/Marvel) hat nach 17 Tagen die 2-Milliarden-Dollar-Marke überschritten und ist damit nach „Avengers: Endgame“ (11 Tage) der zweitschnellste Film, der diesen Meilenstein erreicht – als insgesamt erst achter Film überhaupt. Der aktuelle weltweite Gesamtumsatz liegt bei 2,024 Mrd. USD (786,5 Mio. USD in den USA/Kanada, viertbestes Inlandsergebnis aller Zeiten; 1,238 Mrd. USD international). Der Film ist zudem in 36 internationalen Märkten der umsatzstärkste Sony-Release aller Zeiten.",
-          "score": 7
+          "source": "Guardian Media",
+          "title": "Why Australia has lost almost half its children’s TV as drama disappears behind paywalls",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/aug/19/australian-childrens-tv-drama-plummets-research-finds",
+          "summary": "Ein neuer Screen-Australia-Report (Screen Currency 2026) zeigt, dass die durchschnittliche Sendezeit für australisch produziertes Kinderfernsehen im Zeitraum 2021–2024 auf 65 Stunden jährlich gesunken ist – ein Rückgang von 42 % gegenüber dem Durchschnitt der Jahre 2000–2020. Ursächlich ist vor allem der Wegfall der staatlichen Quote von 260 Stunden, woraufhin die kommerziellen Sender Seven, Nine und Ten die Beauftragung von Kinderprogrammen faktisch eingestellt haben. Erstausstrahlungen von Kinder-TV stammen inzwischen überwiegend vom öffentlich-rechtlichen ABC, während auch australische TV-Dramen zunehmend hinter die B",
+          "score": 8
         },
         {
           "source": "Variety",
-          "title": "Vin Diesel Says ‘Fast Forever’ Starts Shooting in December",
-          "link": "https://variety.com/2026/film/news/vin-diesel-fast-forever-starts-shooting-december-1236836906/",
-          "summary": "Vin Diesel kündigte beim 25-Jahre-Jubiläumsscreening von „The Fast and the Furious\" an, dass die Dreharbeiten zum finalen Franchise-Film „Fast Forever\" im Dezember beginnen sollen – nach vier Jahren Entwicklung und vier verschiedenen Autorenteams. Der elfte und letzte Hauptfilm der Reihe, die mit 7,3 Milliarden Dollar weltweitem Umsatz Universals profitabelste Franchise ist, soll am 17. März 2028 in die Kinos kommen. Bemerkenswert ist, dass Regisseur Louis Leterrier laut eigener Aussage das Drehbuch noch nicht gelesen hat, während Diesel es bereits als emotional bewegend beschreibt.",
+          "title": "‘House of the Dragon’ Directing Mentorship Alum Marcus Anthony Thomas Sets Cast for British Psychological Thriller ‘Cast Me!’ (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/global/marcus-anthony-thomas-psychological-thriller-cast-me-1236837237/",
+          "summary": "Marcus Anthony Thomas, Absolvent des Regie-Mentorship-Programms von Warner Bros. Discovery bei „House of the Dragon\", hat mit den Dreharbeiten zu seinem Spielfilmdebüt begonnen: dem in London produzierten psychologischen Thriller „Cast Me!\". Der von Jordi Morera für 2020Films produzierte Film wird von Newcomerin IIniki Mariano angeführt, unterstützt von einem Ensemble mit Samuel Adewunmi, Stella Gonet, Dean-Charles Chapman und Clare Holman. Die Handlung folgt einer jungen Schauspielerin, deren Suche nach Antworten nach einer widerrufenen Besetzungsentscheidung in eine Obsession umschlägt, die die Grenzen zwischen Ambition, Performance und Realität",
           "score": 7
         }
       ]
