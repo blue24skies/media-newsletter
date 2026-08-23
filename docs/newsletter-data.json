@@ -1,91 +1,35 @@
 {
   "newsletters": [
     {
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Lege-Abschied: Das ZDF hat einen neuen \"Besseresser\"",
-          "link": "https://www.dwdl.de/nachrichten/107563/legeabschied_das_zdf_hat_einen_neuen_besseresser/",
-          "summary": "Nach 13 Jahren verlässt Sebastian Lege das ZDF und wechselt exklusiv zu RTL Deutschland, wo er bereits bei Vox aktiv war. Das ZDF hält jedoch an der erfolgreichen Marke \"Besseresser\" fest, die neben starken YouTube-Zahlen auch bei jüngeren TV-Zuschauern punktet. Als Nachfolger für das bestehende Team um Florian Reza, Lilly Temme und Nelson Müller wurde nun der bekannte Food-Creator Tim Armann (\"brot.mit.ei\", über 500.000 Instagram-Follower) verpflichtet.",
+          "title": "\"Helene Fischer Show\" kehrt nach Babypause zurück",
+          "link": "https://www.dwdl.de/nachrichten/107553/helene_fischer_show_kehrt_nach_babypause_zurueck/",
+          "summary": "Nach babybedingter Pause kehrt die \"Helene Fischer Show\" am 1. Weihnachtsfeiertag (25. Dezember) ins ZDF zurück; die Aufzeichnung erfolgt Ende Oktober an zwei Abenden in Düsseldorf mit nationalen und internationalen Stars. Die Show erzielte in der Vergangenheit stets hohe Quoten, fuhr jedoch 2024 mit 3,80 Millionen Zuschauern (16,2 Prozent Marktanteil beim Gesamtpublikum) die bislang geringste Reichweite ein – nach zuvor teils über 20 Prozent.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "RTL zeigt im Free-TV nur 25 Minuten vom \"HeidiFest\"",
+          "link": "https://www.dwdl.de/nachrichten/107529/rtl_zeigt_im_freetv_nur_25_minuten_vom_heidifest/",
+          "summary": "RTL überträgt das diesjährige \"HeidiFest\" mit Heidi Klum am 17. September ab 20:15 Uhr nur 25 Minuten lang im Free-TV, während die vollständige Show auf RTL+ läuft – das lineare Programm dient somit primär als Schaufenster für den Streamingdienst. Grund für die verkürzte Ausstrahlung ist die parallele Übertragung der Europa League ab 21:00 Uhr. Die Premiere der Show erzielte 2025 bei ProSieben mit 830.000 Zuschauern und 6,3 Prozent Marktanteil in der Zielgruppe eher mäßige Quoten.",
           "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "BKM jubelt nach Förderstopp und spricht von \"Erfolgsjahr\"",
-          "link": "https://www.dwdl.de/nachrichten/107561/bkm_jubelt_nach_foerderstopp_und_spricht_von_erfolgsjahr/",
-          "summary": "Der Kulturstaatsminister Wolfram Weimer (BKM) bezeichnet den Förderstopp der FFA – ausgelöst durch die vorzeitige Ausschöpfung der auf 250 Millionen Euro aufgestockten Bundesfilmförderung – als Beleg für ein \"Erfolgsjahr\" und die Wirksamkeit der Förderung. Die Produktionsbranche kritisiert dagegen die mangelnde Planbarkeit, insbesondere die für 2026 vorgesehene Absenkung auf 200 Millionen Euro, obwohl bereits die höhere Summe nicht ausreichte. Zudem gerät die eigentliche Branchenforderung nach einem Steueranreizmodell mit Investitionsverpflichtung zunehmend in den Hintergrund.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Finde mich\": ZDFneo arbeitet an neuer Young-Romance-Serie",
-          "link": "https://www.dwdl.de/nachrichten/107557/finde_mich_zdfneo_arbeitet_an_neuer_youngromanceserie/",
-          "summary": "ZDFneo produziert mit Anthill Road Productions und Real Film Berlin die sechsteilige Young-Romance-Serie \"Finde mich\" (Arbeitstitel), die auf dem gleichnamigen Roman von Kathinka Engel basiert und derzeit noch bis Ende Oktober auf Teneriffa gedreht wird. In den Hauptrollen der College-Romanze um eine Studentin und einen ehemaligen Häftling spielen Hannah Gharib, Lucy Gartner und Pablo Elias Vuletić, Regie führen Antonia Leyla Schmidt und Stephan Rick.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "ProSiebenSat.1-Tochter macht neues Koch-Format für den SWR",
-          "link": "https://www.dwdl.de/nachrichten/107556/prosiebensat1tochter_macht_neues_kochformat_fuer_den_swr/",
-          "summary": "Die ProSiebenSat.1-Tochter Just Friends Productions entwickelt für den SWR das neue Factual-Entertainment-Format \"Ein Teller Kindheit\" (Arbeitstitel), in dem Koch Sören Anders in zunächst sechs Folgen mit Prominenten wie Natalia Wörner und Marc Marshall deren Kindheitsgerichte in der jeweiligen Heimatregion des Südwestens aufspürt und im Kochduell mit lokalen Köchen nachkocht. Mit der Übernahme der Produktion des Kabel-Eins-Erfolgsformats \"Mein Lokal, Dein Lokal\" hat sich die von Sylvia Fahrenkrog-Petersen geführte Firma bereits als versierter Produzent im Koch-Genre etabliert.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Antragsstopp: Mittel für Filmförderung schon ausgeschöpft",
-          "link": "https://www.dwdl.de/nachrichten/107545/antragsstopp_mittel_fuer_filmfoerderung_schon_ausgeschoepft/",
-          "summary": "Die Filmförderanstalt FFA hat einen Antragsstopp für die Fördertöpfe DFFF und GMPF verhängt, da das für 2026 verfügbare Volumen mit einer historischen Höchstsumme vollständig ausgeschöpft ist – zuletzt wurden 13 weitere Anträge angenommen, Projekte mit Drehstart 2026 können nun nicht mehr berücksichtigt werden. Branchenverbände wie Produktionsallianz und Deutsche Filmakademie kritisierten die kurz zuvor erfolgte Verschärfung scharf als \"Bankrotterklärung der Filmpolitik\" und mahnen mehr Transparenz und Planbarkeit an. Einreichungen für Projekte mit Drehstart 2027 sollen voraussichtlich ab November möglich sein.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Milk Pictures, Jünglinge Film und LiseLotte Films im Rennen",
-          "link": "https://www.dwdl.de/nachrichten/107544/milk_pictures_juenglinge_film_und_liselotte_films_im_rennen/",
-          "summary": "Für den Carl Laemmle VFF Talentpreis wurden in diesem Jahr drei Nachwuchsproduktionen nominiert: „Kalter Hund\" (Milk Pictures), „Staatsschutz\" (Jünglinge Film) und „Babystar\" (LiseLotte Films). Der reguläre Carl Laemmle Produzentenpreis für langjähriges Schaffen geht 2026 an Michael Souvignier.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Historische Dramedy \"Vienna Game\" startet im November",
-          "link": "https://www.dwdl.de/nachrichten/107538/historische_dramedy_vienna_game_startet_im_november/",
-          "summary": "Die von Satel Film produzierte historische Miniserie \"Vienna Game\" startet am 18. November mit sechs Folgen bei Disney+ und inszeniert vor der Kulisse des Wiener Kongresses 1814 ein Machtspiel europäischer Eliten rund um Wilhelmine von Sagan und Fürst Metternich. Die opulente Period-Dramedy setzt auf ein großes, prominentes Ensemble mit Marlene Tanczik, Daniel Donskoy, Heike Makatsch und Axel Milberg; verantwortlich zeichnen Produzentin Bettina Kuhn, Creator Stefan Brunner und Regisseur Hannu Salonen.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "SWR bringt neues Retter-Format in die ARD-Mediathek",
-          "link": "https://www.dwdl.de/nachrichten/107536/swr_bringt_neues_retterformat_in_die_ardmediathek/",
-          "summary": "Der SWR startet mit \"Die Heli Retter - Ulmer Notärzte im Einsatz\" ein neues, von movingpicturez produziertes Doku-Format über die Crew des Rettungshubschraubers \"Christoph 22\", das ab 23. September in der ARD-Mediathek und ab 12. Oktober linear im SWR Fernsehen läuft. Das Format, das aus einer ursprünglichen \"Landesschau\"-Reportage entwickelt wurde, verzichtet nach dem Vorbild erfolgreicher Retter-Formate wie \"Feuer & Flamme\" auf einen Off-Sprecher und setzt stattdessen auf authentisches Material via 360-Grad-, Body- und Actioncams sowie Funkdurchsagen und nachträgliche Interviews.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "KI-Bots greifen immer aggressiver auf Inhalte zu KI-Unternehmen benötigen gewaltige Mengen...",
-          "link": "https://meedia.de/news/beitrag/24898-studie-ki-bots-greifen-immer-aggressiver-auf-inhalte-zu.html",
-          "summary": "Laut TollBits „State of the Bots“-Report für das erste Halbjahr 2026 identifizierte das Unternehmen bei über 987 Milliarden analysierten Website-Besuchen mehr als 22 Milliarden KI-Bot-Zugriffe, von denen rund 1,9 Milliarden die robots.txt-Vorgaben umgingen. Besonders europäische Publisher sind betroffen: Sie werden im Schnitt viermal häufiger ausgelesen als nordamerikanische, wobei die Scraping-Zugriffe um knapp 20 Prozent stiegen und robots.txt-Anweisungen fast dreimal häufiger ignoriert wurden. Für Publisher verschärft sich damit das Kernproblem, dass Bots Inhalte abgreifen und Server-Kosten verursachen, aber kaum Besucher zur",
-          "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs",
-          "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-          "summary": "Angesichts eines Beschäftigungseinbruchs in der Filmbranche nehmen erfahrene Hollywood-Kreative – darunter preisgekrönte Autoren, Regisseure und Produzenten – Gig-Aufträge an, um KI-Modelle für Unternehmen wie Anthropic und OpenAI in Fähigkeiten wie Drehbuchschreiben und Produktionsplanung zu trainieren, bezahlt mit 12 bis 200 Dollar pro Stunde. Die Betroffenen empfinden diese Tätigkeit als zwiespältig – eine verglich es damit, „das Grab des eigenen Berufs zu schaufeln“ –, während KI zunehmend Rollen von Schauspielern, Cuttern und VFX-Künstlern übernimmt (Netflix setzte 2026 in 300 von 1.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "Secret Hollywood Group’s AI Plan Focuses on Defining How AI Is Used — While Keeping Humans in Control",
-          "link": "https://variety.com/2026/biz/news/secret-hollywood-groups-ai-plan-protecting-copyrighted-work-1236840245/",
-          "summary": "Eine seit November 2023 geheim tagende Koalition aus rund 120 Hollywood-Größen – initiiert von LucasFilm-Ikone Kathleen Kennedy und AFI-Dekanin Susan Ruskin – hat gemeinsam mit Silicon-Valley-Führungskräften ein Framework entwickelt, das den bestehenden Einsatz von KI in der Filmindustrie definiert und Wege aufzeigt, wie Menschen die kreative Kontrolle behalten können. Ziel ist es, KI als additives Werkzeug im human-gesteuerten Schaffensprozess zu etablieren und dabei potenziell urheberrechtlich schützbare Werke zu ermöglichen, während zugleich Branchenängste bezüglich Modelltraining und generativer KI adressiert werden. Zu den Teilnehmern zählen",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
-          "link": "https://variety.com/2026/digital/news/vertical-media-150-billion-tiktok-microdramas-owl-co-1236840519/",
-          "summary": "Der Vertical-Media-Sektor (u.a. Microdramas) wird laut einer Studie von Owl & Co. 2026 außerhalb Chinas voraussichtlich 150 Milliarden US-Dollar Umsatz generieren – ein Plus von 42 % gegenüber 2025 –, wobei 131 Milliarden davon aus Werbeeinnahmen stammen. Meta, ByteDance und YouTube dominieren den Markt mit einem projizierten Anteil von 94 % der Vertical-Umsätze außerhalb Chinas. Trotz des Booms kämpft die Branche mit einem überfüllten Content-Umfeld und hohen Kosten für die Neukundengewinnung.",
+          "title": "Auntie v influencers: why YouTubers are ready for battle with the BBC",
+          "link": "https://www.theguardian.com/media/2026/aug/22/auntie-v-influencers-why-youtubers-are-ready-for-battle-with-the-bbc",
+          "summary": "Britische Content-Creator und YouTuber wehren sich gegen einen Regierungsvorschlag, der Inhalte traditioneller Sender wie BBC, ITV und Channel 4 in den Algorithmen von YouTube und TikTok bevorzugen würde, um britische Qualitätsinhalte zu schützen. Angesichts der Tatsache, dass Video-Plattformen bereits 74 % der Sehzeit bei 16- bis 24-Jährigen ausmachen, bevorzugt die Regierung eine freiwillige Vereinbarung mit den Plattformen, schließt aber gesetzliche Maßnahmen nicht aus.",
           "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "HBO Max Is Free Right Now For 7 Days With This Prime Video Promo",
+          "link": "https://variety.com/2026/shopping/news/best-hbo-max-deal-offer-1235439129/",
+          "summary": "HBO Max bietet über Prime Channels von Amazon eine 7-tägige kostenlose Testphase an, die ohne Promo-Code oder Vertragsbindung für alle Prime-Mitglieder verfügbar ist. Die Aktion zielt darauf ab, angesichts der jüngsten Preiserhöhung und starker Neustarts wie „Lanterns“ sowie preisverdächtiger Serien („Hacks“, „The Pitt“) neue Abonnenten zu gewinnen. Nach Ablauf der Testphase geht das werbefinanzierte Abo automatisch in den regulären Preis von 10,99 USD/Monat über.",
+          "score": 8
         }
       ]
     }
