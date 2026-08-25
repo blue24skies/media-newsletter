@@ -1,41 +1,62 @@
 {
   "newsletters": [
     {
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "articles": [
         {
-          "source": "meedia",
-          "title": "Sport-Streamer Wie DAZN immer mehr Werbung im Live-Sportumfeld platziert Live-Sport bietet...",
-          "link": "https://meedia.de/news/beitrag/24903-wie-dazn-immer-mehr-werbung-im-live-sportumfeld-platziert.html",
-          "summary": "DAZN erweitert seine Werbevermarktung im Live-Sport durch nutzerverhaltensbasierte Formate wie Pause Ads, vertikale Videos in Stories und die Fanzone, um trotz begrenzten klassischen Werbeinventars zusätzliche Kontaktpunkte zu schaffen. Laut Patrick Kettenbach, Head of Business Planning Central Europe, orientiert sich die Strategie primär am tatsächlichen Nutzerverhalten – etwa dem parallelen Konsum von Clips oder Diskussionen auf Social Media – und bündelt diese Aktivitäten auf der eigenen Plattform.",
+          "source": "DWDL",
+          "title": "Schwarzbild und Funkstille: MDR positioniert sich gegen AfD-Pläne",
+          "link": "https://www.dwdl.de/nachrichten/107590/schwarzbild_und_funkstille_mdr_positioniert_sich_gegen_afdplaene/",
+          "summary": "Der MDR startete in Sachsen-Anhalt eine Kampagne mit Schwarzbildern und Sendepausen, um vor den Folgen einer möglichen Kündigung des MDR-Staatsvertrags durch die AfD nach der Landtagswahl zu warnen. Intendant Ralf Ludwig betonte, viele Bürger seien sich der Konsequenzen nicht bewusst, und erklärte bereits zuvor, bei einer absoluten AfD-Mehrheit mit einer Vertragskündigung zu rechnen. Aufgrund der zweijährigen Kündigungsfrist würden konkrete Veränderungen jedoch erst 2029 spürbar werden.",
           "score": 7
         },
         {
-          "source": "Deadline",
-          "title": "Bonta Cancels Paramount Settlement Meeting; CA AG Accuses Ellison Of “Playing Games” In WBD Merger Talks",
-          "link": "https://deadline.com/2026/08/bonta-cancels-paramount-settlement-meeting-1237048537/",
-          "summary": "Der kalifornische Generalstaatsanwalt Rob Bonta hat ein für Montag geplantes Vergleichstreffen mit Paramount abgesagt und wirft dem von David Ellison geführten Unternehmen vor, mangelnde Verhandlungsbereitschaft zu zeigen und den Inhalt vertraulicher Gespräche durchgesickert und verfälscht zu haben. Im Zentrum des Streits steht die 111-Milliarden-Dollar-Fusion mit Warner Bros Discovery, gegen die eine Koalition von zwölf Generalstaatsanwälten am 13. Juli eine Kartellklage eingereicht hat. Zu den Forderungen der Bundesstaaten zählten unter anderem der Verkauf lukrativer WBD-Kabelsender sowie eine Beschränkung von Ellisons Mach",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Netflix Posts $2.8B Revenues In UK To Overtake ITV For First Time",
-          "link": "https://deadline.com/2026/08/netflix-uk-revenues-overtake-itv-1237048522/",
-          "summary": "Netflix hat mit einem Umsatz von £2,06 Mrd. (2,81 Mrd. $) für das Geschäftsjahr 2025 erstmals ITV überholt, dessen Media- und Entertainment-Sparte £1,9 Mrd. erzielte und aktuell an Sky verkauft wird. Das Wachstum von 11,3 % gegenüber dem Vorjahr beruht primär auf einem Anstieg der zahlenden Abonnenten um 7 % sowie höheren Durchschnittserlösen pro Nutzer, bei einem operativen Gewinn von £44,9 Mio. Der Meilenstein befeuert vor dem Hintergrund der Krise des BBC-Lizenzgebührenmodells die Debatte über eine mögliche verpflichtende Beteiligung von Streamern an der Finanzierung britischer Public",
+          "source": "DWDL",
+          "title": "Plattform-Ranking: Amazon schlägt ARD und ZDF, RTL+ klar vor Joyn",
+          "link": "https://www.dwdl.de/zahlenzentrale/107584/plattformranking_amazon_schlaegt_ard_und_zdf_rtl_klar_vor_joyn/",
+          "summary": "Die AGF veröffentlicht künftig monatlich vergleichbare Streaming-Kennzahlen (Nutzungsvolumen, Tages- und kumulierte Nettoreichweite) für alle teilnehmenden Anbieter, wobei das Ranking auf dem Nutzungsvolumen in Stunden basiert. Im Juli führte Amazon Prime Video mit rund 124 Millionen gestreamten Stunden vor der ARD-Mediathek (104 Mio.) und dem ZDF-Portal (96 Mio.). Bei den Nettoreichweiten liegen ARD und ZDF hingegen vor Amazon – sie erreichen mehr Menschen, die die Angebote jedoch kürzer nutzen.",
           "score": 9
         },
         {
-          "source": "Deadline",
-          "title": "Paramount & AGs Settlement Meeting Monday More Show Than Substance As Cable Channel Sell-Offs & Curbing Ellison’s Power Put On The Table",
-          "link": "https://deadline.com/2026/08/paramount-lawsuit-settlement-meeting-details-1237048499/",
-          "summary": "Ein für Montag angesetztes Treffen zwischen der Paramount-Führung und mehreren US-Generalstaatsanwälten zu David Ellisons umstrittener 111-Milliarden-Dollar-Übernahme von Warner Bros Discovery gilt Brancheninsidern zufolge eher als PR-Manöver denn als ernsthafte Vergleichsverhandlung, wobei der kalifornische AG Rob Bonta entschlossen bleibt, den Fall im März 2027 vor Gericht zu bringen. Die Generalstaatsanwälte fordern als strukturelle Auflagen unter anderem den Verkauf mehrerer WBD-Kabelsender sowie eine getrennte Führung der Filmstudios, während Paramount mit einem möglichen Wegzug aus Kalifornien droht.",
+          "source": "DWDL",
+          "title": "Erstmals konvergente Quoten: Gute Zeiten für RTL-Soaps",
+          "link": "https://www.dwdl.de/zahlenzentrale/107583/erstmals_konvergente_quoten_gute_zeiten_fuer_rtlsoaps/",
+          "summary": "Die AGF veröffentlicht erstmals eine \"Konvergenz-Hitliste\", die die durchschnittliche Sehbeteiligung von TV und Streaming vergleichbar macht und als Summe ausweist – anders als bisherige Streaming-Zahlen, die auf nicht vergleichbaren Netto- oder Bruttoreichweiten basierten. Die monatliche Top 50 umfasst die TV-Nutzung (inklusive drei Tagen zeitversetzter Nutzung), die Streaming-Nutzung (zwei Wochen vor und nach Ausstrahlung) sowie den konvergenten Gesamtwert, wird jedoch nach der höchsten Streaming-Nutzung gerankt. Der Wegfall der Vergleichbarkeit zu YouTube & Co. wird dabei zugunsten sinnvoller TV-",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "ARD und ZDF starten im Oktober zwei neue Mysteryserien",
+          "link": "https://www.dwdl.de/nachrichten/107580/ard_und_zdf_starten_im_oktober_zwei_neue_mysteryserien/",
+          "summary": "ARD und ZDF bringen Anfang Oktober zwei neue Mysteryserien heraus: Den Auftakt macht die ZDFneo-Serie \"Die Düsteren\" (ab 3. Oktober in der Mediathek, lineare Ausstrahlung ab 21. Oktober), die von den erfahrenen \"Club der roten Bänder\"-Machern Scharf und Nolting stammt und im Rahmen der internationalen Kooperation New8 produziert wurde. Kurz darauf folgt \"House of Yang\", die 2024 aus dem SWR-Ideenwettbewerb \"Tief im Südwesten\" als Siegerkonzept hervorging.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Neue AGF-Auswertung: Plattformen von ARD und ZDF liegen klar vor Prime Video &amp; Co.",
+          "link": "https://www.horizont.net/medien/nachrichten/neue-agf-auswertung-plattformen-von-ard-und-zdf-liegen-klar-vor-prime-video--co.-235532?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die AGF hat erstmals Reichweiten der von ihr gemessenen technischen Plattformen veröffentlicht, wobei die Portale von ARD und ZDF bei der monatlichen Reichweite klar vor privaten Anbietern wie Prime Video liegen. Beim Nutzungsvolumen führt hingegen ein anderer Dienst das Ranking an. Die Daten ergänzen die zeitgleich präsentierten ersten konvergenten TV-Zahlen der AGF.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Neue Auswertung: Was die neuen AGF-Konvergenzdaten über die TV-Nutzung verraten",
+          "link": "https://www.horizont.net/medien/nachrichten/neue-auswertung-was-die-neuen-agf-konvergenzdaten-ueber-die-tv-nutzung-verraten-235527?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die AGF hat erstmals TV-Konvergenzdaten veröffentlicht, die Aufschluss über das Zusammenspiel von linearer und gestreamter TV-Nutzung geben. Die Auswertung zeigt insbesondere, welche Formate bevorzugt über Streaming konsumiert und welche weiterhin klassisch linear geschaut werden.",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Netflix, Disney+ and Amazon price rises in western Europe ‘highest in world’",
+          "link": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
+          "summary": "Laut einer Studie von Ampere Analysis verzeichneten Streaming-Abonnenten von Netflix, Disney+ und Amazon Prime Video in Westeuropa mit durchschnittlich 1,86 US-Dollar über drei Jahre die weltweit höchsten Preissteigerungen – noch vor dem US-Markt (1,70 US-Dollar). Die Anbieter haben ihre Geschäftsmodelle grundlegend umgestellt, indem sie günstigere werbefinanzierte Basis-Tarife einführten und gleichzeitig zahlungsbereite Premium-Nutzer stärker monetarisieren, um Content-Produktion und Profite zu finanzieren. Regionale Preisunterschiede werden dabei von Faktoren wie lokalem Wettbewerb und Haushaltseinkommen beeinflusst, w",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "California Attorney General Cancels Paramount Settlement Talks Over $111 Billion Warner Bros. Discovery Deal, Says He’ll Meet When They ‘Stop Playing Games’",
-          "link": "https://variety.com/2026/film/global/california-ag-bonta-cancels-paramount-settlement-talks-1236841379/",
-          "summary": "Der kalifornische Generalstaatsanwalt Rob Bonta hat geplante Vergleichsgespräche mit Paramount über die 111-Milliarden-Dollar-Übernahme von Warner Bros. Discovery abgesagt und dem Unternehmen vorgeworfen, durch das Durchsickern und die Falschdarstellung vertraulicher Verhandlungsinhalte in bösem Glauben zu handeln. Bonta führt eine Koalition von zwölf Bundesstaaten an, die die Fusion gerichtlich blockieren wollen, da sie dem fusionierten Unternehmen eine zu große Marktmacht im Kabelfernsehen und in der Filmproduktion verschaffen würde. Weitere Gespräche stellte er nur in Aussicht, sofern Paramount aufhöre, „Spielchen zu spielen“",
+          "title": "Epstein Files Documentary ‘Diabolical’ Lands at HBO Max in International Deal",
+          "link": "https://variety.com/2026/tv/news/epstein-files-documentary-diabolical-hbo-max-1236842225/",
+          "summary": "Warner Bros. Discovery hat die internationalen Vertriebsrechte an der ABC-Dokumentation „Diabolical: The Epstein Files“ für HBO Max erworben, deren Ausstrahlung ab dem 3. September in Territorien wie Großbritannien, Italien und den Niederlanden startet. Die Doku zeichnet Jeffrey Epsteins Aufstieg, sein Missbrauchs- und Menschenhandelsnetzwerk sowie dessen Zusammenbruch nach und beleuchtet institutionelle Versäumnisse von Polizei und Justiz. Zu Wort kommen unter anderem Überlebende, Ermittler, Rechtsexperten sowie Epsteins Bruder Mark Epstein und Anwalt David Schoen.",
           "score": 8
         }
       ]
