@@ -1,63 +1,70 @@
 {
   "newsletters": [
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Schwarzbild und Funkstille: MDR positioniert sich gegen AfD-Pläne",
-          "link": "https://www.dwdl.de/nachrichten/107590/schwarzbild_und_funkstille_mdr_positioniert_sich_gegen_afdplaene/",
-          "summary": "Der MDR startete in Sachsen-Anhalt eine Kampagne mit Schwarzbildern und Sendepausen, um vor den Folgen einer möglichen Kündigung des MDR-Staatsvertrags durch die AfD nach der Landtagswahl zu warnen. Intendant Ralf Ludwig betonte, viele Bürger seien sich der Konsequenzen nicht bewusst, und erklärte bereits zuvor, bei einer absoluten AfD-Mehrheit mit einer Vertragskündigung zu rechnen. Aufgrund der zweijährigen Kündigungsfrist würden konkrete Veränderungen jedoch erst 2029 spürbar werden.",
+          "title": "\"Nine to Five\": ZDFneo startet neue Büro-Comedy im Herbst",
+          "link": "https://www.dwdl.de/nachrichten/107601/nine_to_five_zdfneo_startet_neue_buerocomedy_im_herbst/",
+          "summary": "ZDFneo startet am 27. Oktober die achtteilige Mockumentary-Comedy \"Nine to Five – Das Amt\", die im Streaming bereits ab dem 2. Oktober komplett verfügbar ist und mit Friederike Kempter in der Hauptrolle den absurden Alltag eines Berliner Bürgeramts inszeniert. Die von Pyjama Pictures produzierte Serie basiert auf den Figuren von Tülin Sezgin (\"Conny from the Block\") und setzt im Unterschied zu Vorbildern wie \"Stromberg\" verstärkt auf improvisierte Dialoge und Szenen.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Plattform-Ranking: Amazon schlägt ARD und ZDF, RTL+ klar vor Joyn",
-          "link": "https://www.dwdl.de/zahlenzentrale/107584/plattformranking_amazon_schlaegt_ard_und_zdf_rtl_klar_vor_joyn/",
-          "summary": "Die AGF veröffentlicht künftig monatlich vergleichbare Streaming-Kennzahlen (Nutzungsvolumen, Tages- und kumulierte Nettoreichweite) für alle teilnehmenden Anbieter, wobei das Ranking auf dem Nutzungsvolumen in Stunden basiert. Im Juli führte Amazon Prime Video mit rund 124 Millionen gestreamten Stunden vor der ARD-Mediathek (104 Mio.) und dem ZDF-Portal (96 Mio.). Bei den Nettoreichweiten liegen ARD und ZDF hingegen vor Amazon – sie erreichen mehr Menschen, die die Angebote jedoch kürzer nutzen.",
+          "title": "Disney TV statt Disney Channel: Der Rebranding-Fahrplan steht",
+          "link": "https://www.dwdl.de/nachrichten/107599/disney_tv_statt_disney_channel_der_rebrandingfahrplan_steht/",
+          "summary": "Der Disney Channel wird zum 1. Dezember 2026 in Disney TV umbenannt und vollzieht damit den Wandel vom klassischen Kindersender zum Vollprogramm für ein erwachsenes Publikum. Künftig setzt der Sender tagsüber auf Drama- und Comedyserien, während in der Primetime Action-, Crime- und Drama-Formate sowie feste Programmblöcke zu FX, Marvel Studios und \"Star Wars\" das Angebot prägen. Franchises sollen dabei an festen Wochentagen eigene Programmflächen erhalten.",
           "score": 9
         },
         {
           "source": "DWDL",
-          "title": "Erstmals konvergente Quoten: Gute Zeiten für RTL-Soaps",
-          "link": "https://www.dwdl.de/zahlenzentrale/107583/erstmals_konvergente_quoten_gute_zeiten_fuer_rtlsoaps/",
-          "summary": "Die AGF veröffentlicht erstmals eine \"Konvergenz-Hitliste\", die die durchschnittliche Sehbeteiligung von TV und Streaming vergleichbar macht und als Summe ausweist – anders als bisherige Streaming-Zahlen, die auf nicht vergleichbaren Netto- oder Bruttoreichweiten basierten. Die monatliche Top 50 umfasst die TV-Nutzung (inklusive drei Tagen zeitversetzter Nutzung), die Streaming-Nutzung (zwei Wochen vor und nach Ausstrahlung) sowie den konvergenten Gesamtwert, wird jedoch nach der höchsten Streaming-Nutzung gerankt. Der Wegfall der Vergleichbarkeit zu YouTube & Co. wird dabei zugunsten sinnvoller TV-",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "ARD und ZDF starten im Oktober zwei neue Mysteryserien",
-          "link": "https://www.dwdl.de/nachrichten/107580/ard_und_zdf_starten_im_oktober_zwei_neue_mysteryserien/",
-          "summary": "ARD und ZDF bringen Anfang Oktober zwei neue Mysteryserien heraus: Den Auftakt macht die ZDFneo-Serie \"Die Düsteren\" (ab 3. Oktober in der Mediathek, lineare Ausstrahlung ab 21. Oktober), die von den erfahrenen \"Club der roten Bänder\"-Machern Scharf und Nolting stammt und im Rahmen der internationalen Kooperation New8 produziert wurde. Kurz darauf folgt \"House of Yang\", die 2024 aus dem SWR-Ideenwettbewerb \"Tief im Südwesten\" als Siegerkonzept hervorging.",
+          "title": "Launchdatum für neue Serie des \"Liebes Kind\"-Teams steht",
+          "link": "https://www.dwdl.de/nachrichten/107592/launchdatum_fuer_neue_serie_des_liebes_kindteams_steht/",
+          "summary": "Netflix veröffentlicht ab dem 13. Oktober die sechsteilige Miniserie \"Die Falle\", eine Adaption des gleichnamigen Psychothriller-Bestsellers von Melanie Raabe, produziert von Constantin Film mit dem \"Liebes Kind\"-Team um Tom Spiess, Friederich Oetker und Isabel Kleefeld. Im Zentrum steht die von Friederike Becht gespielte Schriftstellerin Lisa Konrad, die dem mutmaßlichen Mörder ihrer Schwester eine Falle stellt, wobei sie selbst als Köder dient. Zum hochkarätigen Team zählen zudem Oscar-Gewinner Volker Bertelmann (Musik) sowie Darsteller wie Matthias Brandt und Anna Schudt.",
           "score": 8
         },
         {
           "source": "Horizont Medien",
-          "title": "Neue AGF-Auswertung: Plattformen von ARD und ZDF liegen klar vor Prime Video &amp; Co.",
-          "link": "https://www.horizont.net/medien/nachrichten/neue-agf-auswertung-plattformen-von-ard-und-zdf-liegen-klar-vor-prime-video--co.-235532?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die AGF hat erstmals Reichweiten der von ihr gemessenen technischen Plattformen veröffentlicht, wobei die Portale von ARD und ZDF bei der monatlichen Reichweite klar vor privaten Anbietern wie Prime Video liegen. Beim Nutzungsvolumen führt hingegen ein anderer Dienst das Ranking an. Die Daten ergänzen die zeitgleich präsentierten ersten konvergenten TV-Zahlen der AGF.",
+          "title": "Werbekonjunktur: Krisen, Plattformmacht, Trading: Wohin steuert der Werbemarkt?",
+          "link": "https://www.horizont.net/medien/nachrichten/werbekonjunktur-krisen-plattformmacht-trading-wohin-steuert-der-werbemarkt-235542?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die deutsche Werbewirtschaft verharrt aufgrund geopolitischer und wirtschaftlicher Belastungsfaktoren – darunter Zollkonflikte mit den USA, der Nahost-Krieg sowie das Niedrigwasser in Deutschland – weiterhin im Krisenmodus. Mediaagenturen und Vermarkter beurteilen ihre Marktaussichten daher derzeit überwiegend verhalten.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "One Media setzt weiter auf die Kombination aus linearem Fernsehen, Streaming und zusätzlichen digitalen Angeboten.",
+          "link": "https://meedia.de/news/beitrag/24922-der-januar-gehoert-prosieben.html",
+          "summary": "Seven.One Media, der Vermarkter von ProSiebenSat.1, verfolgt weiterhin eine crossmediale Strategie aus linearem TV, Streaming (Joyn) und digitalen Angeboten, ergänzt durch den neuen Sender Sat.2 zur Reichweitensteigerung. CRO Lennart Harendza setzt zudem auf innovative Werbeformate wie das „All 21“-Roadblocking, bei dem donnerstags um 21 Uhr Spots simultan auf sieben Sendern laufen. Als werblichen Schwerpunkt der kommenden Saison nennt er den Sportbereich, insbesondere die Handball-WM im Januar 2027.",
           "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "Neue Auswertung: Was die neuen AGF-Konvergenzdaten über die TV-Nutzung verraten",
-          "link": "https://www.horizont.net/medien/nachrichten/neue-auswertung-was-die-neuen-agf-konvergenzdaten-ueber-die-tv-nutzung-verraten-235527?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die AGF hat erstmals TV-Konvergenzdaten veröffentlicht, die Aufschluss über das Zusammenspiel von linearer und gestreamter TV-Nutzung geben. Die Auswertung zeigt insbesondere, welche Formate bevorzugt über Streaming konsumiert und welche weiterhin klassisch linear geschaut werden.",
+          "source": "Hollywood Reporter",
+          "title": "Sky U.K.’s Meghan Lyvers Discusses IP, Original Content Mix and “Increasing the Emotional Stakes”",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/sky-uk-original-content-interview-jackal-dragon-tattoo-ip-1236679890/",
+          "summary": "Meghan Lyvers, Managing Director Scripted Originals bei Sky U.K., erläutert im Interview die Content-Strategie des Comcast-Unternehmens, das parallel zur geplanten 2,13-Milliarden-Dollar-Übernahme von ITVs Netzwerk- und Streaminggeschäft verstärkt in Eigenproduktionen investiert. Zum Portfolio zählen hochkarätige Serien wie das Rechtsdrama „War“ mit Sienna Miller und Dominic West (Koproduktion mit HBO), die zweite Staffel von „Sweetpea“ (Partner Starz) sowie eine zeitgenössische Neuinterpretation von „The Girl With the Dragon Tattoo“. Lyvers betont dabei den Fokus auf durchsetzungsfähige Stoffe und die Bedeutung",
           "score": 8
         },
         {
-          "source": "Guardian Media",
-          "title": "Netflix, Disney+ and Amazon price rises in western Europe ‘highest in world’",
-          "link": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
-          "summary": "Laut einer Studie von Ampere Analysis verzeichneten Streaming-Abonnenten von Netflix, Disney+ und Amazon Prime Video in Westeuropa mit durchschnittlich 1,86 US-Dollar über drei Jahre die weltweit höchsten Preissteigerungen – noch vor dem US-Markt (1,70 US-Dollar). Die Anbieter haben ihre Geschäftsmodelle grundlegend umgestellt, indem sie günstigere werbefinanzierte Basis-Tarife einführten und gleichzeitig zahlungsbereite Premium-Nutzer stärker monetarisieren, um Content-Produktion und Profite zu finanzieren. Regionale Preisunterschiede werden dabei von Faktoren wie lokalem Wettbewerb und Haushaltseinkommen beeinflusst, w",
-          "score": 8
+          "source": "Hollywood Reporter",
+          "title": "Dominic West and Sienna Miller Star in Image From Sky and HBO Legal Thriller ‘War’ (Exclusive)",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/hbo-sky-show-war-sienna-miller-dominic-west-photo-exclusive-1236679668/",
+          "summary": "Sky und HBO haben mit „War\" eine von George Kay (Hijack, Lupin) entwickelte Legal-Drama-Serie in Auftrag gegeben, die Dominic West und Sienna Miller als sich scheiden lassendes Prominentenpaar besetzt und im Oktober Premiere feiert. Die Serie erhielt ein Zwei-Staffel-Commitment und dreht sich um einen skandalösen Scheidungsfall, bei dem zwei rivalisierende Londoner Anwaltskanzleien aufeinandertreffen. Zur weiteren Besetzung gehören unter anderem Phoebe Fox, James McArdle, Nina Sosanya und Pip Torrens; Regie führt Ben Taylor (Sex Education).",
+          "score": 7
         },
         {
           "source": "Variety",
-          "title": "Epstein Files Documentary ‘Diabolical’ Lands at HBO Max in International Deal",
-          "link": "https://variety.com/2026/tv/news/epstein-files-documentary-diabolical-hbo-max-1236842225/",
-          "summary": "Warner Bros. Discovery hat die internationalen Vertriebsrechte an der ABC-Dokumentation „Diabolical: The Epstein Files“ für HBO Max erworben, deren Ausstrahlung ab dem 3. September in Territorien wie Großbritannien, Italien und den Niederlanden startet. Die Doku zeichnet Jeffrey Epsteins Aufstieg, sein Missbrauchs- und Menschenhandelsnetzwerk sowie dessen Zusammenbruch nach und beleuchtet institutionelle Versäumnisse von Polizei und Justiz. Zu Wort kommen unter anderem Überlebende, Ermittler, Rechtsexperten sowie Epsteins Bruder Mark Epstein und Anwalt David Schoen.",
-          "score": 8
+          "title": "Italy’s RAI Cinema International Boards Edoardo De Angelis’ ‘The Fire Within You’ Ahead of Venice Launch, Reveals First Clip (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/festivals/rai-cinema-international-edoardo-de-angelis-fire-within-you-1236842662/",
+          "summary": "RAI Cinema International Distribution hat sich die Weltrechte an Edoardo De Angelis' dunkler Tragikomödie „The Fire Within You\" gesichert, die im Wettbewerb um den Goldenen Löwen in Venedig starten wird. Der Film basiert auf dem preisgekrönten autobiografischen Buch „Il fuoco che ti porti dentro\" von Antonio Franchini und thematisiert den Einfluss einer toxischen neapolitanischen Mutter auf ihre Nachkommen. Für den Neapolitaner De Angelis, der bereits mit „Indivisible\" (2016) und „Comandante\" (2023) in Venedig vertreten war, markiert dies eine intimere Rückkehr auf den Lido.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "‘Tall Tales & Murder’ First Look: Ella Lily Hyland and Aidan Gillen Star in Wild Comedic Crime Drama From ‘Veep’ Director and ‘Love/Hate’ Creator (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/news/tall-tales-murder-first-look-ella-lily-hyland-aidan-gillen-1236843597/",
+          "summary": "Die BBC bringt mit „Tall Tales & Murder\" eine sechsteilige, düster-komödiantische Krimiserie von „Love/Hate\"-Schöpfer Stuart Carolan und „Veep\"-Regisseur Chris Addison, die in Irland gedreht wurde und im Herbst auf BBC One ausgestrahlt wird. Die Serie – eine Co-Produktion von BBC Northern Ireland und RTÉ in Zusammenarbeit mit Avalon und Metropolitan Pictures – verbindet eine Bonnie-und-Clyde-artige Verbrechergeschichte mit einer mittelalterlichen Erzählung über Mönche und Wikinger. In den Hauptrollen sind Ella-Lily Hyland („Black Doves\") als unkonventionelle Nachtschwester und Aidan Gillen zu seh",
+          "score": 7
         }
       ]
     }
