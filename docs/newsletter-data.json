@@ -1,34 +1,104 @@
 {
   "newsletters": [
     {
-      "date": "2026-08-30",
+      "date": "2026-08-31",
       "articles": [
         {
-          "source": "Horizont Medien",
-          "title": "Weniger Geld für TV-Werbung: So heftig sind die TV-Vermarkter im Juli unter die Räder gekommen",
-          "link": "https://www.horizont.net/medien/nachrichten/weniger-geld-fuer-tv-werbung-so-heftig-sind-die-tv-vermarkter-im-juli-unter-die-raeder-gekommen-235590?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Nach dem WM-bedingten Kurzzeit-Hoch ist der TV-Werbemarkt im Juli deutlich eingebrochen, was besonders die TV-Vermarkter mit spürbar gesunkenen Werbeumsätzen trifft. Eine exklusive Advision-Analyse für HORIZONT dokumentiert das Ausmaß der Rückgänge bei den einzelnen Vermarktern sowie die Budgetkürzungen der werbetreibenden Unternehmen.",
-          "score": 9
+          "source": "DWDL",
+          "title": "Frische-Ranking: ZDF weit vorn, Sat.1 schließt fast zu RTL auf",
+          "link": "https://www.dwdl.de/nachrichten/107649/frischeranking_zdf_weit_vorn_sat1_schliesst_fast_zu_rtl_auf/",
+          "summary": "Im August 2026 zeigten alle acht großen Vollprogramme im Abendprogramm (20:15–24 Uhr) wieder mehr Erstausstrahlungen als im schwachen Juli, wobei das ZDF mit einem Frische-Anteil von 80 Prozent (+24 Prozentpunkte) das Ranking klar vor dem Ersten (69 Prozent) anführte. Bei den Privatsendern behauptete RTL mit 57 Prozent zwar die Spitzenposition, doch Sat.1 rückte mit 53 Prozent ungewöhnlich nah heran, während die Sender der zweiten Generation – Kabel Eins, RTLzwei und Vox – mit rund 80 Prozent Wiederholungsanteil weiterhin deutlich zurückblieben.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Eine Daily weniger: RTL setzt \"Unter uns\"-Produktion nicht fort",
+          "link": "https://www.dwdl.de/nachrichten/107641/eine_daily_weniger_rtl_setzt_unter_unsproduktion_nicht_fort/",
+          "summary": "RTL Deutschland stellt zum Jahresende die Produktion der Daily-Soap „Unter uns“ nach 32 Jahren ein, wobei die aktuelle Staffel noch bis März 2027 ausgestrahlt wird. Als Gründe nennt der Sender veränderte wirtschaftliche Rahmenbedingungen für tägliche fiktionale Formate sowie die Nutzungsentwicklung. Durch die frühzeitige Kommunikation soll Produzent UFA die Chance erhalten, einen neuen Partner zur Fortführung der Serie zu finden; die UFA-Dailys „GZSZ“ und „Alles was zählt“ bleiben bei RTL im Programm.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Dolly\": HaRiBos machen historische Krimiserie für Netflix",
+          "link": "https://www.dwdl.de/nachrichten/107643/dolly_haribos_machen_historische_krimiserie_fuer_netflix/",
+          "summary": "Netflix produziert mit der sechsteiligen historischen Krimiserie „Dolly“ (Arbeitstitel) ein zu 100 Prozent in Deutschland gedrehtes Projekt, realisiert von BetaBerlin Productions und Candy Shop GmbH mit dem „Kleo“-Autorenteam. Die im Berlin des Jahres 1899 angesiedelte Serie erzählt mit spannungsgeladener, augenzwinkernder Tonalität die Geschichte der rebellischen Dolly Pinkus (Derya Akyol), die einem Serienmörder entkommt und selbst zu ermitteln beginnt. Die Dreharbeiten laufen seit August im Raum Berlin/Brandenburg sowie in Görlitz und Potsdam und reihen sich in Netflix' wachsenden Trend historischer Stoff",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "ProSieben verlängert mit Jenke und gibt ihm neuen Sendeplatz",
+          "link": "https://www.dwdl.de/nachrichten/107639/prosieben_verlaengert_mit_jenke_und_gibt_ihm_neuen_sendeplatz/",
+          "summary": "ProSiebenSat.1 hat die exklusive Zusammenarbeit mit Jenke von Wilmsdorff um mehrere Jahre verlängert und verschiebt dessen Info-Abend im Herbst vom Montag auf den Donnerstag, wo bislang \"The Voice of Germany\" lief. Im Zuge umfangreicher Umstrukturierungen des Programmschemas – künftig samstags \"The Voice\" und werktags \"The Masked Singer\" – starten ab dem 8. Oktober sieben neue Jenke-Filme, darunter das Experiment \"Schlaflos\" zum Thema Schlafstörungen. Verantwortlich für die Formate ist nun Marc Rasmus in seiner neuen Position als \"EVP Factual, Factual Entertainment, Fiction, Reality & Sat.1\".",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Führungstrio der neuen ARD-Geschäftsstelle ab 2027 steht",
+          "link": "https://www.dwdl.de/nachrichten/107619/fuehrungstrio_der_neuen_ardgeschaeftsstelle_ab_2027_steht/",
+          "summary": "Die ARD strukturiert ihr bisheriges Generalsekretariat zum Jahreswechsel 2026/27 in eine neue, enger an den ARD-Vorsitz angebundene Geschäftsstelle in Berlin um, die administrative Aufgaben zentral übernehmen und mehr Kontinuität über die alle zwei Jahre wechselnden Vorsitze hinweg gewährleisten soll. Die Umstrukturierung basiert auf den Vorgaben des neuen ARD-Staatsvertrags und zielt darauf ab, den wiederkehrenden Teamaufbau bei jedem Vorsitzwechsel zu ersetzen. Als Gesamtleiter wurde Christoph Rosenthal benannt, der bereits seit 2018 im Generalsekretariat tätig war.",
+          "score": 8
         },
         {
           "source": "Horizont Medien",
-          "title": "Werbeumsätze: Vor dem wichtigen 4. Quartal: Vermarkter üben sich in Zuversicht",
-          "link": "https://www.horizont.net/medien/nachrichten/werbeumsaetze-vor-dem-wichtigen-4.-quartal-vermarkter-ueben-sich-in-zuversicht-235576?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Angesichts der Prognosen der Mediaagenturen, wonach Wachstum im Werbemarkt vorrangig den digitalen Plattformen zugutekommt, äußern sich Vermarktungschefs klassischer Medien vor dem umsatzstarken vierten Quartal dennoch zuversichtlich. HORIZONT hat verschiedene Vermarktungsverantwortliche zu ihrer Einschätzung der aktuellen Marktlage und zu einem vorsichtigen Ausblick auf das Gesamtjahr befragt.",
+          "title": "UFA prüft Alternativen: RTL trennt sich von Daily Soap &quot;Unter uns&quot;",
+          "link": "https://www.horizont.net/medien/nachrichten/ufa-prueft-alternativen-rtl-trennt-sich-von-daily-soap-unter-uns-235609?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "RTL beendet nach über drei Jahrzehnten die Produktion der Daily Soap „Unter uns“ zum Jahresende 2026, die Ausstrahlung läuft noch bis Anfang 2027 weiter. Die verantwortliche Produktionsfirma UFA prüft angesichts des Aus derzeit alternative Verwertungsmöglichkeiten für das Format.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "dpa-Chef Kropsch fordert neues Selbstverständnis der Verlage",
+          "link": "https://kress.de/news/beitrag/155282-quot-radikale-nuetzlichkeit-quot-dpa-chef-kropsch-fordert-neues-selbstverstaendnis-der-verlage.html",
+          "summary": "dpa-CEO Peter Kropsch forderte beim MVFP-Nord-Sommerfest in Hamburg ein neues Selbstverständnis der Verlage: Medienunternehmen müssten die Opferrolle gegenüber Plattformen ablegen, aktiv Akteure werden und ihre Angebote plattformunabhängig auf \"radikale Nützlichkeit\" sowie Member Value statt kurzfristiger Gewinnmaximierung ausrichten. Angesichts von KI liege die verteidigbare Position des Journalismus in der Erstellung von Originalen – eigener Recherche, Verifikation und investigativer Arbeit –, weshalb Kropsch von einem neuen \"Zeitalter der Reporter\" sprach. MVFP-Nord-Vorsitzender Peter Strahlendorf bezeichnete KI in diesem Z",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "UFA prüft \"neue Perspektiven\" Ende nach 32 Jahren: RTL beendet \"Unter uns\" Die lange Geschichte der Daily-Soap “Unter uns” wird",
+          "link": "https://meedia.de/news/beitrag/24950-ende-nach-32-jahren-rtl-beendet-quot-unter-uns-quot.html",
+          "summary": "RTL beendet die Daily-Soap \"Unter uns\" nach über 32 Jahren: Die Produktion läuft zum Jahresende 2026 aus, die letzten neuen Folgen sind im März 2027 bei RTL und RTL+ zu sehen. Als Grund gelten sinkende Reichweiten sowohl im linearen Fernsehen als auch beim Streamingdienst RTL+, wo die Soap hinter Formaten wie \"GZSZ\" zurückblieb. Produzent UFA prüft nun eine mögliche Fortführung an anderer Stelle.",
+          "score": 9
+        },
+        {
+          "source": "meedia",
+          "title": "Connected TV The Trade Desk setzt verstärkt auf Kontext The Trade Desk integriert die Programmdaten von Gracenote in seine Einkaufsplattform (DSP) für Connected-TV-Werbung. Damit sollen Werbekunden nicht mehr nur wissen, wer eine Werbung sieht, sondern auch, was gerade auf dem Bildschirm läuft. Für Europa ist der Schritt grundsätzlich relevant",
+          "link": "https://meedia.de/news/beitrag/24947-the-trade-desk-setzt-verstaerkt-auf-kontext.html",
+          "summary": "The Trade Desk integriert die Programmdaten von Gracenote (Nielsen) in seine CTV-Einkaufsplattform und erweitert damit sein bislang ID-fokussiertes Portfolio um kontextbasiertes, nicht-adressierbares Targeting. Werbekunden können künftig gezielt nach Genres, Themen und Programmeigenschaften einkaufen, diese mit vorhandenen Zielgruppendaten kombinieren und nach der Kampagne nachvollziehen, in welchen Sendungen ihre Werbung tatsächlich ausgespielt wurde. Für den europäischen Markt ist der Schritt grundsätzlich relevant, wobei die verfügbaren Daten bislang überwiegend aus den USA stammen.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "HBO Lands Hot Drama Spec ‘Imposter’ By DWA Assistant Kalos Chu With Lauren LeFranc Producing",
+          "link": "https://deadline.com/2026/08/hbo-imposter-drama-spec-assistant-kalos-chu-lauren-lefranc-1237063182/",
+          "summary": "HBO hat sich in einem Bietergefecht gegen Netflix und Amazon das Drama-Spec „Imposter\" des DreamWorks-Animation-Assistenten Kalos Chu gesichert, das ursprünglich zehn Angebote erhielt. Das dunkle Mystery-Projekt über einen Außenseiter an einer Elite-Universität markiert das Debüt des Harvard-Absolventen Chu als Autor. Als Executive Producer fungiert „The Penguin\"-Showrunnerin Lauren LeFranc über ihre Produktionsfirma Acid and Tender im Rahmen ihres HBO-Overall-Deals.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Christine Boylan Strikes First-Look Deal With Paramount TV Studios",
+          "link": "https://deadline.com/2026/08/christine-boylan-first-look-deal-paramount-tv-studios-1237062333/",
+          "summary": "Paramount Television Studios hat einen First-Look-Deal mit Autorin und Executive Producerin Christine Boylan („Avatar: The Last Airbender\", „The Punisher\", „Poker Face\") abgeschlossen, unter dem sie originäre Serien entwickeln und produzieren wird. Der Deal folgt nur wenige Tage nach dem Overall-Deal mit „Wheel of Time\"-Schöpfer Rafe Judkins und ist Teil der Strategie des von David Ellison geführten Unternehmens, sein Genre-Portfolio auszubauen und die TV-Studio-Produktion signifikant zu erweitern.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Inside the Global Rise of CJ ENM’s ‘The Legend of Kitchen Soldier’",
-          "link": "https://variety.com/2026/tv/news/legend-of-kitchen-soldier-cj-enm-global-success-1236846772/",
-          "summary": "CJ ENMs 12-teilige TVING-Originalserie „The Legend of Kitchen Soldier“ (Studio Dragon), die einen zum Armeekoch werdenden Soldaten in einer Genre-Mischung aus Militärdrama und Videospiel-Quest-Elementen begleitet, hat sich vom kalkulierten kreativen Risiko zum internationalen Erfolg entwickelt und beim Fifth Blue Dragon Series Awards als beste Dramaserie ausgezeichnet. Die Serie erzielte starke Platzierungen auf mehreren globalen Plattformen, darunter Platz 2 bei Disney+ Japan, Top-3-Positionen bei HBO Max in 17 Ländern (besonders in Südostasien) sowie Top-5-Ränge bei Rakuten Viki in den Amerikas, Europa",
-          "score": 8
+          "title": "‘Tires’ Renewed for Season 4 at Netflix (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/news/tires-season-4-netflix-1236847085/",
+          "summary": "Netflix hat die Shane-Gillis-Sitcom „Tires\" wenige Wochen nach dem Start der dritten Staffel für eine vierte Season verlängert. Die Workplace-Comedy um die Belegschaft einer Autowerkstattkette begann 2019 als unabhängiges YouTube-Projekt, bevor Netflix 2024 Distribution und Finanzierung übernahm. Die Verlängerung folgt auf eine umfassende Kreativpartnerschaft zwischen Gillis, Co-Creator John McKeever und Netflix, die auch zwei neue Stand-up-Specials umfasst.",
+          "score": 7
         },
         {
           "source": "Variety",
-          "title": "Final Emmy Predictions in 116 Categories: HBO Max Poised to Dominate With ‘The Pitt’ as ‘Widow’s Bay’ and ‘Hacks’ Chase Opposite All-Time Records",
-          "link": "https://variety.com/lists/2026-emmys-predictions/",
-          "summary": "Bei den Emmy-Prognosen 2026 in 116 Kategorien zeichnet sich eine Dominanz von HBO Max mit der Medizinserie „The Pitt\" im Drama-Bereich ab, während Apple TVs Horror-Comedy „Widow's Bay\" mit prognostizierten 15 Emmy-Gewinnen (inklusive „Outstanding Comedy Series\") einen neuen Rekord aufstellen könnte. Zeitgleich stellt „Hacks\" mit 24 Nominierungen zwar einen Allzeitrekord auf, wird laut Prognose in seiner finalen Staffel jedoch nur einen einzigen Preis gewinnen.",
+          "title": "HBO to Develop Mystery Series ‘Imposter’ From Kalos Chu, ‘Penguin’ Creator Lauren LeFranc to Produce",
+          "link": "https://variety.com/2026/tv/news/hbo-imposter-kalos-chu-penguin-creator-lauren-lefranc-1236847360/",
+          "summary": "HBO entwickelt die düstere Mystery-Serie „Imposter\" von Nachwuchsautor Kalos Chu, die einem Außenseiter zu Beginn seines ersten Studienjahres an einer Elite-Universität folgt. Als Produzentin fungiert „Penguin\"-Schöpferin Lauren LeFranc über ihre Firma Acid and Tender, die aktuell einen Overall-Deal bei HBO hat – es ist das erste Originalprojekt unter dieser Vereinbarung. Das Projekt wurde Anfang August am Markt platziert, stieß auf großes Interesse und wäre bei einer Serienbestellung Chus erstes professionelles Drehbuchcredit.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Sony Aims to Connect Advertisers to PlayStation Users With Launch of ‘Live TV on PS5’ (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/news/sony-playstation-advertisers-fast-channels-live-1236847258/",
+          "summary": "Sony hat mit „Live TV on PS5\" ein Angebot von über 100 werbefinanzierten (FAST) Kanälen gestartet, das direkt über die PlayStation-5-Konsole zugänglich ist und zunächst in den USA verfügbar ist, gefolgt von Kanada. Ziel ist es, Werbetreibenden Zugang zu der schwer erreichbaren Gaming-Zielgruppe zu verschaffen, die traditionelle TV-Angebote häufig meidet. Eine Ausweitung auf Sonys Bravia-Fernseher sowie zusätzliche Kanäle, thematische Programme und Live-Events ist noch für dieses Jahr geplant.",
           "score": 7
         }
       ]
