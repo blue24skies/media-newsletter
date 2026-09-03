@@ -1,146 +1,139 @@
 {
   "newsletters": [
     {
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "articles": [
         {
           "source": "DWDL",
-          "title": "High View startet FAST-Channels mit Paramount-Serien",
-          "link": "https://www.dwdl.de/nachrichten/107686/high_view_startet_fastchannels_mit_paramountserien/",
-          "summary": "Die High View-Gruppe erweitert ihr FAST-Channel-Portfolio durch einen Lizenzdeal mit Paramount und startet drei Single-IP-Channels mit den Marken \"Beverly Hills, 90210\", \"Lucky Dog – Der Hundetrainer\" und \"Rauchende Colts\" auf Samsung TV Plus, vermarktet über die Tochter Goldvertise. Bemerkenswert ist der Deal, da Paramount mit Pluto TV eine eigene etablierte FAST-Plattform betreibt und somit die Kompetenz zum Channel-Betrieb im eigenen Haus hätte.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "ZDF baut Streaming-Angebot mit neuen Channels aus",
-          "link": "https://www.dwdl.de/nachrichten/107675/zdf_baut_streamingangebot_mit_neuen_channels_aus/",
-          "summary": "Das ZDF erweitert sein Streaming-Portal um mehr als 15 werbefreie \"ZDF-Channels\", die sich am FAST-Channel-Trend orientieren und Inhalte thematisch kuratiert im Leanback-Modus präsentieren – darunter Genres wie Krimis, Naturdokumentationen sowie ein dedizierter \"Bares für Rares\"-Kanal. Die algorithmisch befüllten und sich täglich verändernden Kanäle sind prominent unter dem Menüpunkt \"Live & TV\" eingebunden und sollen das klassische TV-Zapping mit den Vorteilen des Streamings verbinden.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "ZDF zeigt \"Quiz-Champion\" erstmals im Twitch-Stream",
-          "link": "https://www.dwdl.de/nachrichten/107672/zdf_zeigt_quizchampion_erstmals_im_twitchstream/",
-          "summary": "Das ZDF überträgt am kommenden Samstag erstmals eine XXL-Ausgabe des \"Quiz-Champion\" mit Johannes B. Kerner parallel im Twitch-Stream, moderiert von den Hosts Rosemondy und Tim Horus mit eigenem Begleitprogramm. Das \"Spenden-Special\" zugunsten der Deutschen Krebshilfe läuft ab 20:15 Uhr linear, während die nächtliche \"Spenden-Challenge\" mit Content-Creatorn im ZDF-Streamingportal sowie ab 1:00 Uhr auch im Hauptprogramm zu sehen ist. Produziert wird die Show von Riverside Entertainment.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Die Verräter\" knacken bisherigen Streaming-Rekord deutlich",
-          "link": "https://www.dwdl.de/zahlenzentrale/107670/die_verraeter_knacken_bisherigen_streamingrekord_deutlich/",
-          "summary": "Die vierte Staffel von \"Die Verräter\" erzielte trotz zunächst schwacher linearer Quoten einen neuen Streaming-Rekord bei RTL+: Die Nettoreichweite stieg von 0,521 Millionen in Woche 1 über 0,665 Millionen auf 0,946 Millionen in Woche 3 – parallel zum Start der linearen Ausstrahlung. Damit erreichte das Format Platz 7 im anbieterübergreifenden Ranking und war das reichweitenstärkste Reality-Format der KW 34, während die Gesamtspitze von der Prime-Video-Serie \"Reacher\" angeführt wurde.",
+          "title": "VDS reicht Beschwerde beim Bundeskartellamt gegen Netflix ein",
+          "link": "https://www.dwdl.de/nachrichten/107702/vds_reicht_beschwerde_beim_bundeskartellamt_gegen_netflix_ein/",
+          "summary": "Der Verband Deutscher Sprecher:innen (VDS) hat beim Bundeskartellamt Beschwerde gegen Netflix eingereicht und unterstützt zudem eine Datenschutzbeschwerde mehrerer Synchronsprecher bei der Berliner Datenschutzbeauftragten. Hintergrund ist Netflix' Forderung nach neuen KI-Klauseln in Sprecherverträgen, die eine vergütungsfreie Nutzung der Aufnahmen zu KI-Trainingszwecken vorsehen und bei Verweigerung zur Neubesetzung von Stimmen führen. Während die Schauspielgewerkschaft BFFS bereits 2025 eine Einigung mit Netflix erzielte, sind die Fronten zwischen VDS und dem Streamingdienst weiterhin verhärtet.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "\"Bettys Diagnose\" bekommt eine neue Hauptdarstellerin",
-          "link": "https://www.dwdl.de/nachrichten/107656/bettys_diagnose_bekommt_eine_neue_hauptdarstellerin/",
-          "summary": "Die ZDF-Vorabendserie \"Bettys Diagnose\" erhält mit Antonia Jungwirth eine neue Hauptdarstellerin, die als vierte \"Betty\" auf Henrike Hahn folgt, welche die Serie auf eigenen Wunsch zum Ende der 13. Staffel verlässt. Der Wechsel vollzieht sich innerhalb der 13. Staffel (Ausstrahlung ab 18. September bis Frühjahr 2027), ab der 14. Staffel im Herbst 2027 übernimmt Jungwirth als Stationsleiterin der Aachener \"Karlsklinik\" dauerhaft. Produziert wird die Serie weiterhin von Network Movie unter Produzent Wolfgang Cimera.",
+          "title": "RTL testet das KI-\"Strafgericht\" kommende Woche",
+          "link": "https://www.dwdl.de/nachrichten/107687/rtl_testet_das_kistrafgericht_kommende_woche/",
+          "summary": "RTL Deutschland setzt ab dem 7. September erstmals KI im Programm ein und zeigt werktags ab 15:55 Uhr KI-modifizierte Folgen von \"Ulrich Wetzel – Das Strafgericht\", bei denen alte Episoden durch Bildbearbeitung, Sprachsynthese und Lipsync-Anpassungen zu völlig neuen Storylines mit veränderten Figuren, Handlungen und Urteilen umgestaltet wurden. Die Umsetzung erfolgte gemeinsam mit der Produktionsfirma Constantin Entertainment, wobei RTL betont, dass jede Folge redaktionell verantwortet, juristisch geprüft und die erforderlichen Rechte mit den beteiligten Personen geklärt wurden. Das Projekt ist Teil der im Frühjahr angekündig",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Neue Wege\": Stephan Neumann verlässt Riverside Entertainment",
+          "link": "https://www.dwdl.de/nachrichten/107692/neue_wege_stephan_neumann_verlaesst_riverside_entertainment/",
+          "summary": "Stephan Neumann, einer von drei Geschäftsführern der Studio-Hamburg-Tochter Riverside Entertainment, verlässt das Unternehmen nach fast acht Jahren und verlängert seinen Vertrag nicht. Unter seiner Führung etablierte Riverside seit 2019 einen Kölner Standort sowie zahlreiche Formate wie den \"Quiz-Champion\" und machte sich zudem als Produzent großer Preisverleihungen wie dem Deutschen Fernsehpreis einen Namen.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "Sat.1 zeigt \"Promi Big Brother\" durchgängig um 20:15 Uhr",
+          "link": "https://www.dwdl.de/nachrichten/107694/sat1_zeigt_promi_big_brother_durchgaengig_um_2015_uhr/",
+          "summary": "Sat.1 zeigt die neue Staffel von \"Promi Big Brother\" ab dem 5. Oktober durchgängig zur Primetime um 20:15 Uhr – ein strategischer Wechsel gegenüber dem Vorjahr, als die meisten Ausgaben spätabends liefen, und eine Angleichung an das RTL-Modell beim Dschungelcamp. Zum diesjährigen Cast unter dem Motto \"Garten\" zählen prominente Reality-Neulinge wie Box-Legende Axel Schulz und Ex-Fußballprofi Christian Lell sowie bekannte Namen wie Nadja Benaissa und Gedeon Burkhard. Im Anschluss an die von Jochen Schropp und Marlene Lufen moderierten Ausgaben läuft zudem die \"Late Night Show\".",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Mediengattungen bündeln Kräfte für Demokratie-Initiative",
+          "link": "https://www.dwdl.de/nachrichten/107674/mediengattungen_buendeln_kraefte_fuer_demokratieinitiative/",
+          "summary": "Erstmals in Deutschland schließen sich journalistische Medien verschiedener Gattungen – darunter ARD, ZDF, RTL, ProSiebenSat.1 sowie mehrere Presseverbände wie BDZV und VAUNET – unter dem Leitgedanken \"Demokratie braucht viele Stimmen\" zu einer gemeinsamen Initiative zusammen. Vom 14. bis 19. September, rund um den Internationalen Tag der Demokratie, planen sie eine bundesweite Aktionswoche mit Beiträgen in Print, Radio, TV, Podcasts und digitalen Angeboten sowie Dialogveranstaltungen, um für die Bedeutung glaubwürdiger Informationen und professionellen Journalismus zu werben. Die Kampagne setzt bewusst auf Medienvielfalt statt Eigen",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Zunächst fünf Folgen: RTL produziert neue &quot;Strafgericht&quot;-Folgen mithilfe von KI",
+          "link": "https://www.horizont.net/medien/nachrichten/zunaechst-fuenf-folgen-rtl-produziert-neue-strafgericht-folgen-mithilfe-von-ki-235664?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "RTL produziert gemeinsam mit Constantin Entertainment zunächst fünf KI-generierte Folgen des Gerichtsformats „Das Strafgericht\", die auf bestehenden Episoden basieren. Mithilfe verschiedener KI-Verfahren wurden die ursprünglichen Geschichten verändert und dramaturgisch neu erzählt, sodass es sich nicht um bloße Wiederholungen handelt. Das Projekt markiert einen vorsichtigen Einstieg des Privatsenders in den KI-gestützten Produktionsprozess.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Vor der Landtagswahl in Sachsen-Anhalt: Die neue AfD-Medienwelt und die Verantwortung der Plattformen",
+          "link": "https://www.horizont.net/medien/kommentare/vor-der-landtagswahl-in-sachsen-anhalt-die-neue-afd-medienwelt-und-die-verantwortung-der-plattformen-235654?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die AfD hat abseits der klassischen Medienlandschaft ein eigenes Kommunikationsökosystem aus politischen Streamern und Creatorn etabliert, das Reichweite und Gegenöffentlichkeit erzeugt. Der Kommentar argumentiert, dass die Medienbranche diese Entwicklung unterschätzt und fordert, die Plattformen stärker in die Verantwortung zu nehmen.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "&quot;ZDF Channels&quot;: ZDF startet digitale Themenkanäle",
-          "link": "https://www.horizont.net/medien/nachrichten/zdf-channels-zdf-startet-digitale-themenkanaele-235648?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Das ZDF erweitert sein Streaming-Portal um rund 20 neue „ZDF Channels“, die als kuratierte Themenkanäle bereits vorhandene On-Demand-Inhalte in einem fortlaufenden Stream bündeln. Die Kanäle sortieren ihre Inhalte täglich neu und ergänzen damit das bestehende Angebot aus On-Demand-Inhalten und Live-Streams.",
-          "score": 9
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Zu viele Inhalte, zu wenig Überblick: Das sind die zentralen Herausforderungen für Streaminganbieter",
-          "link": "https://www.horizont.net/medien/nachrichten/zu-viele-inhalte-zu-wenig-ueberblick-b4p-erforscht-neue-herausforderungen-fuer-streaminganbieter-235645?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der neue Trendreport der Studie Best for Planning identifiziert die wachsende Angebotsflut im Bewegtbildmarkt als zentrale Herausforderung, da das Streaming-Angebot schneller wächst als die Nutzeraufmerksamkeit. Orientierung wird damit zum entscheidenden Wettbewerbsfaktor für Streaminganbieter – eine Entwicklung, von der laut Studie auch Werbungtreibende profitieren könnten.",
-          "score": 9
+          "title": "Großer Deal: Bertelsmann schließt Fusion von Musiktochter BMG mit Concord ab",
+          "link": "https://www.horizont.net/medien/nachrichten/grosser-deal-bertelsmann-schliesst-fusion-von-musiktochter-bmg-mit-concord-ab-235643?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Bertelsmann hat die Fusion seiner Musiktochter BMG mit dem US-Unternehmen Concord nach Zustimmung der Wettbewerbsbehörden abgeschlossen. Das gemeinsame Unternehmen startet zum 1. September unter dem Namen BMG, wobei Bertelsmann 67 Prozent der Anteile hält und es damit vollständig in seine Bilanz aufnimmt. Die bisherigen Concord-Eigentümer behalten die verbleibenden 33 Prozent.",
+          "score": 7
         },
         {
           "source": "kress",
-          "title": "dpa-Chef Kropsch fordert neues Selbstverständnis der Verlage Weg von der Opferrolle gegenüber...",
-          "link": "https://kress.de/news/beitrag/155282-quot-radikale-nuetzlichkeit-quot-dpa-chef-kropsch-fordert-neues-selbstverstaendnis-der-verlage.html",
-          "summary": "dpa-CEO Peter Kropsch fordert von Medienunternehmen ein neues Selbstverständnis: Statt in der Opferrolle gegenüber Plattformen zu verharren, sollten Verlage selbst zu Akteuren werden und auf „radikale Nützlichkeit\", Plattform-Unabhängigkeit und Member Value statt kurzfristiger Gewinnmaximierung setzen. Angesichts von KI liege die verteidigbare Position journalistischer Medien dort, wo Originale durch eigene Recherche, Verifikation und investigative Arbeit entstehen – Kropsch spricht von einem neuen „Zeitalter der Reporter\". MVFP-Nord-Vorsitzender Peter Strahlendorf bezeichnete KI dabei als „Game Changer\" und tiefgreifende Zäsur für die Verlags",
+          "title": "Welt startet Talk \"Unter Vier\" Anna Schneider und Sebastian Vorbach ordnen im neuen Welt-Talk...",
+          "link": "https://kress.de/news/beitrag/156088-ohne-politiker-mit-journalisten-welt-startet-talk-quot-unter-vier-quot.html",
+          "summary": "Die Welt startet am 3. September das zweimal wöchentlich (montags und donnerstags, 16:15 Uhr) ausgestrahlte Live-Talk-Format \"Unter Vier\", das bewusst auf Politiker-Gäste verzichtet und stattdessen die Hosts Anna Schneider und Sebastian Vorbach mit wechselnden Kolumnisten und Politikjournalisten die aktuelle politische Lage einordnen lässt. Das Konzept setzt auf journalistische Analyse statt inszenierter Disput-Konstellationen und beginnt jeden Themenblock mit einer neutralen Nachrichtenpräsentation. Zu den ersten Gästen zählen unter anderem Daniel Friedrich Sturm (Tagesspiegel), Claudius Seidl (SZ) und Jörg Thadeusz (RBB",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Sony baut die PlayStation zur Entertainment-Plattform aus Mehr als 100 FAST-Kanäle auf der...",
-          "link": "https://meedia.de/news/beitrag/24972-mehr-als-100-fast-kanaele-auf-der-playstation-5.html",
-          "summary": "Sony startet mit „Live TV on PS5“ einen werbefinanzierten FAST-Streamingdienst direkt auf der PlayStation 5, der zum US-Start über 100 lineare Kanäle sowie On-Demand-Inhalte aus Bereichen wie Serien, Anime (via Crunchyroll), Sport und Creator-Formaten bündelt. Der Dienst ist ohne Zusatz-Apps über den Media-Bereich der Konsole zugänglich und eröffnet Sony eine direkt kontrollierbare Werbeumgebung. Ein Termin für den Deutschlandstart wurde bislang nicht kommuniziert.",
+          "title": "KI macht's möglich: RTL verpasst alten Gerichtsshows neue Handlung Der Fernsehsender RTL greift mit Künstlicher Intelligenz in alte Doku-Soaps ein und verändert deren Handlung. Bei bereits ausgestrahlten Folgen der Reihe \"Ulrich Wetzel",
+          "link": "https://meedia.de/news/beitrag/24983-rtl-verpasst-alten-gerichtsshows-neue-handlung.html",
+          "summary": "RTL Deutschland und Constantin Entertainment nutzen KI-Technologien (Bildbearbeitung, Sprachsynthese, Lipsync), um bereits ausgestrahlte Folgen der Doku-Soap \"Ulrich Wetzel – Das Strafgericht\" nachträglich in Handlung, Figuren und Urteilen zu verändern – bis hin zum Geschlechtswechsel der Hauptfigur. Der als Praxistest deklarierte Einsatz, bei dem Rechte mit den Schauspielern geklärt und jede Folge redaktionell sowie juristisch geprüft wurden, soll neue Auswertungsmöglichkeiten bestehender Inhalte erschließen. Fünf bearbeitete Folgen laufen kommende Woche werktäglich um 15.55 Uhr.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Push für neue Versandapotheke dm macht mal wieder einen Ausflug in die TV-Werbung Mit etwa 12...",
+          "link": "https://meedia.de/news/beitrag/24974-dm-macht-mal-wieder-einen-ausflug-in-die-tv-werbung.html",
+          "summary": "dm-drogerie markt, der mit rund 12 Milliarden Euro Jahresumsatz größte Drogeriemarkt Deutschlands, startet ausnahmsweise eine TV-Kampagne, um seine neue Versandapotheke dm-med zu bewerben. Unter dem Claim „Alles zusammen. Einfach bestellt“ wird seit dem 1. September auf öffentlich-rechtlichen und privaten Sendern (u.a. Das Erste, Sat.1, RTL, Vox, ProSieben) sowie im Connected TV die kombinierte Bestellung von Drogerie- und Apothekenprodukten über die dm-App und dm.de beworben.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Nicola Coughlan, Luke Evans & Hugh Bonneville Are Speaking Out Against AI Voice Cloning, But Is The Government Listening?",
+          "link": "https://deadline.com/2026/09/nicola-coughlan-save-our-voices-now-campaign-ai-1237066698/",
+          "summary": "Britische Schauspieler wie Nicola Coughlan, Luke Evans und Hugh Bonneville unterstützen die Kampagne „Save Our Voices Now\", die von der Regierung ein durchsetzbares Urheberrecht für Einzelpersonen an ihrer eigenen Stimme fordert, um unerlaubtes AI-Voice-Cloning zu verhindern. Die von Schauspieler Peter Caulfield und Hörbuch-Sprecherin Alice Sockett initiierte Petition hat über 4.000 Unterschriften gesammelt, stößt jedoch bislang eher auf regierungsseitige Untätigkeit als auf konkrete Maßnahmen. Der Vorstoß erfolgt vor dem Hintergrund einer bereits Ende 2024 gestarteten Regierungskonsultation zum Urheberrecht",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "French TV In Focus: Screenings & Shows To Watch At The Unifrance Rendez-Vous",
+          "link": "https://deadline.com/2026/09/unifrance-rendez-vous-french-tv-screenings-shows-to-watch-1237066639/",
+          "summary": "Beim Unifrance Rendez-Vous präsentieren französische Vertriebe ihre Programme internationalen Einkäufern – einen Monat vor der MIPCOM und in vergleichsweise intimem Rahmen. Zu den offiziellen Screenings zählen die KI-gestützte Doku „Beasts of the Colosseum“ (Balanga), das Historiendrama „Swapped“ (France TV Distribution) sowie die Stendhal-Adaption „The Red and the Black“ (Wild Bunch). Das Marktangebot reicht von Dokumentationen über Animation bis zu Drama, wobei das bei Käufern beliebte Genre „Cozy Crime“ eine zentrale Rolle spielt.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Tubi Turns To Football Freestylers Woody & Kleiny For First UK Original From Creators Program",
+          "link": "https://deadline.com/2026/09/tubi-wheel-of-misfortune-woody-kleiny-uk-creators-original-1237066596/",
+          "summary": "Der Streaming-Anbieter Tubi hat mit „Wheel of Misfortune\" seine erste britische Originalproduktion mit Creators bestellt – umgesetzt von den Football-Freestylern Woody & Kleiny, die zusammen fast 16 Millionen YouTube-Follower zählen. Die Serie, in der die beiden ein Glücksrad drehen und skurrile Herausforderungen absolvieren, entsteht im Rahmen der „Tubi for Creators\"-Initiative und markiert das erste TV-Engagement des Duos. Der Schritt unterstreicht Tubis strategischen Fokus auf Creator-Content, der in UK bereits über 10 % der gesamten Sehzeit ausmacht und besonders Gen-Z- und Millennial-Zuschauer anspricht.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Sandra Hüller To Star As Celebrated Late Male German Artist Wolfgang Herrndorf’s In Maria Schrader’s ‘Work And Structure’",
+          "link": "https://deadline.com/2026/09/sandra-huller-male-artist-wolfgang-herrndorf-schrader-1237066632/",
+          "summary": "Die Oscar-nominierte Schauspielerin Sandra Hüller wird in Maria Schraders Verfilmung „Arbeit und Struktur“ den verstorbenen deutschen Schriftsteller und Künstler Wolfgang Herrndorf verkörpern – eine geschlechterübergreifende Besetzung, die zwei der renommiertesten deutschen Filmschaffenden zusammenbringt. Das Drehbuch, das Schrader gemeinsam mit Jan Schomburg adaptiert, basiert auf Herrndorfs posthum erschienenem Werk, das seine Auseinandersetzung mit einer tödlichen Hirntumor-Diagnose dokumentiert und als eines der prägenden Werke der zeitgenössischen deutschen Literatur gilt.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Unifrance’s Rendez-Vous Brings French Sellers & Global Buyers Together Amid Industry Shifts",
+          "link": "https://deadline.com/2026/09/unifrance-rendez-vous-le-havre-2026-1237066589/",
+          "summary": "Unifrance veranstaltet zum dritten Mal in Folge sein jährliches Rendez-Vous in Le Havre, den größten französischsprachigen TV-Markt des Jahres, mit rund 135 erwarteten internationalen Käufern – überwiegend aus Europa. Das Format setzt neben Screenings und Dealmaking bewusst auf ein dichtes Programm sozialer Events, um in einer sich schnell wandelnden Branche Networking und Ideenaustausch zu fördern. Executive Director Daniela Elstner betont, dass die Schaffung eines gemeinschaftlichen Rahmens zentral sei, um den veränderten Erwartungen an Märkte gerecht zu werden.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Hollywood Veterans Launch aTwist Microdrama Platform With Horror, Comedy and Animated Series",
+          "link": "https://www.hollywoodreporter.com/business/digital/hollywood-veterans-atwist-microdrama-platform-1236688362/",
+          "summary": "Die von den Hollywood-Veteranen Jana Winograde, Susan Rovner und Lloyd Braun gegründete Microdrama-Plattform aTwist ist in den USA und sieben weiteren Ländern mit zehn Originalserien gestartet, die Genres wie Horror, Comedy und Animation abdecken. Im Gegensatz zu den romance-dominierten Vertical-Plattformen setzt aTwist auf Genre-Vielfalt und ein Hybrid-Monetarisierungsmodell aus werbefinanzierten Gratis-Episoden, virtueller Währung („Coins“) und Abonnements. Zu den Machern zählen etablierte Produzenten wie Bradley Bell (The Bold and the Beautiful) und Jonathan Stern (Abominable Pictures).",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Microseries Studio and Platform aTwist Officially Launches With First Slate of Originals",
+          "link": "https://variety.com/2026/tv/news/microseries-studio-platform-atwist-launches-first-slate-1236848859/",
+          "summary": "Das von TV-Veteranen Jana Winograde, Susan Rovner und Lloyd Braun gegründete Microseries-Studio und -Plattform aTwist startete offiziell mit einer Palette an Scripted-, Unscripted- und Animations-Originalen über verschiedene Genres wie Comedy, Drama, Horror und Romance. Der Launch umfasst Produktionspartnerschaften mit Programmern wie BET und Kevin Harts Hartbeat sowie einen Marktstart in acht Ländern, darunter die USA, Großbritannien, Indien und Australien. Die Inhalte sind über aTwist.com und eine plattformübergreifende App verfügbar, wobei neue Programme jeweils donnerstags veröffentlicht werden.",
           "score": 9
         },
         {
-          "source": "Deadline",
-          "title": "David Oyelowo & Nate Parker’s Mansa Studios Debuts Slate Of TikTok Microdramas",
-          "link": "https://deadline.com/2026/09/david-oyelowo-nate-parker-tiktok-microdramas-mansa-studios-1237065179/",
-          "summary": "David Oyelowo und Nate Parkers Mansa Studios lanciert drei vertikale Microdramas (\"My Twin Sister Stole My Man\", \"I Married the King of the Streets\" und \"The Love Contract\") erstmals direkt über die TikTok-Minis-Plattform. Die nach monatelanger Zusammenarbeit mit TikTok entstandenen Formate sind Teil der laufenden Investitionsstrategie von Mansa in mobile-first, kulturell resonante Vertical-Entertainment-Inhalte im Jahr 2026.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "‘East Of Eden’ Trailer: Evil Lurks “Cloaked In Goodness” In Zoe Kazan’s Limited Series Take On John Steinbeck’s Novel",
-          "link": "https://deadline.com/2026/09/east-of-eden-trailer-netflix-florence-pugh-mike-faist-1237064845/",
-          "summary": "Netflix hat den vollständigen Trailer zur Limited-Series-Adaption von John Steinbecks „East of Eden“ veröffentlicht, die am 1. Oktober startet. Die von Zoe Kazan verantwortete Verfilmung erzählt die generationenübergreifende Saga der Trask-Familie mit Fokus auf die Antiheldin Cathy Ames (Florence Pugh) und greift dabei das biblische Motiv von Kain und Abel auf. Zur hochkarätigen Besetzung zählen zudem Christopher Abbott, Mike Faist, Tracy Letts, Ciarán Hinds und Martha Plimpton.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Hot Docs Promotes Diana Sanchez, Hires Mara Gourd-Mercado As Festival Seeks To “Future-Proof” Itself",
-          "link": "https://deadline.com/2026/09/hot-docs-promotes-diana-sanchez-hires-mara-gourd-mercado-1237064962/",
-          "summary": "Das Toronto-Dokumentarfilmfestival Hot Docs befördert Diana Sanchez zur Präsidentin und holt Mara Gourd-Mercado (bisher Head of Industry bei CPH:DOX) als deren Nachfolgerin auf den Posten der Executive Director, die ab dem 19. Oktober an Sanchez berichten wird. Die Umstrukturierung soll das Festival nach der pandemiebedingten Finanzkrise, die Hot Docs vor zwei Jahren beinahe zur Aufgabe zwang, langfristig „zukunftssicher“ machen. Zusätzlich übernehmen Julie Bristow den Vorsitz und Aaron Zeghers den stellvertretenden Vorsitz des Vorstands.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Jasmine Jobson Teases Details About Netflix’s ‘Top Boy’ Spin-Off Series ‘Jaq’: “She’s Going Down A Crazy Rabbit Hole”",
-          "link": "https://deadline.com/2026/09/jasmine-jobson-netflix-top-boy-jaq-crazy-rabbit-hole-1237065177/",
-          "summary": "Netflix erweitert das \"Top Boy\"-Universum mit der sechsteiligen Sequel-Serie \"Jaq\", in der Jasmine Jobson ihre BAFTA-prämierte Rolle wieder aufnimmt und als Executive Producer fungiert. Die Handlung setzt fünf Jahre nach dem Serienfinale an und zeigt Jaq in einer Küstenstadt, bevor das Verschwinden einer nahestehenden Person sie zurück in die kriminelle Welt zieht. Die Serie wird nächstes Jahr gedreht und entsteht in Zusammenarbeit mit Autor Ryan Calais Cameron; parallel entwickelt Netflix mit \"Jonny Boy\" (mit Barry Keoghan) ein weiteres Prequel.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Kill Jackie’: Catherine Zeta-Jones Is On The Run In Prime Video & AMC+’s Pulsating Thriller Series; Launch Date Set",
-          "link": "https://deadline.com/2026/09/kill-jackie-trailer-catherine-zeta-jones-launch-date-1237065133/",
-          "summary": "Die achtteilige Actionthriller-Serie „Kill Jackie“ mit Catherine Zeta-Jones als ehemalige Drogenschmugglerin auf der Flucht vor Elite-Auftragskillern startet im Oktober bei Prime Video, AMC+ und Stan; sie basiert auf Nick Harkaways Bestseller „The Price You Pay“ und stammt vom Kreativteam hinter „Killing Eve“ und „Gangs of London“. Distributor Fremantle sicherte weitere internationale Verkäufe an Sender wie Sky Italia, Globoplay (Brasilien) und Yes (Israel), während Prime Video zahlreiche europäische Territorien sowie Kanada übernimmt und AMC+ die US-Rechte hält.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Netflix Unveils Tense Trailer for ‘East of Eden’ Series Adaptation Starring Florence Pugh",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-east-of-eden-trailer-1236687277/",
-          "summary": "Netflix hat den offiziellen Trailer zu seiner siebenteiligen Limited-Series-Adaption von John Steinbecks Klassiker „East of Eden\" veröffentlicht, mit Florence Pugh in der Hauptrolle als Cathy Ames neben Christopher Abbott und Mike Faist. Die Serie wurde von Zoe Kazan geschrieben und mitproduziert, wobei Jeb Stuart als Co-Showrunner fungiert und Fifth Season sowie Anonymous Content die Produktion verantworten. Der Trailer betont die düsteren, spannungsgeladenen Themen von Familiengeschichte und der Ambivalenz von Gut und Böse.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "George Clooney Tackles Paramount-Warner Bros. Merger, Mark Ruffalo, AI and State of U.S. Politics",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/george-clooney-poliitics-hollywood-venice-film-festival-2026-1236687873/",
-          "summary": "George Clooney erhält beim Venedig Filmfestival 2026 den Goldenen Löwen für sein Lebenswerk und äußerte sich auf der Eröffnungspressekonferenz zu zahlreichen aktuellen Branchen- und Gesellschaftsthemen. Der 65-Jährige nahm dabei Stellung zur geplanten Fusion von Paramount und Warner Bros. Discovery, zur politischen Lage in den USA sowie zu Herausforderungen durch KI, Deepfakes und den Zustand des Journalismus. Trotz der als \"unglücklich\" bezeichneten politischen Situation zeigte sich Clooney optimistisch, dass diese Phase überwunden werde.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Forget the Red Carpet — Venice’s Real Stars Are in the Documentaries This Year",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/venice-2026-real-stars-are-documentaries-1236687293/",
-          "summary": "Das Filmfestival Venedig 2026 setzt mit einem außergewöhnlich starken Dokumentarfilm-Programm ein deutliches Zeichen und etabliert sich als führende Plattform für hochkarätige nonfiktionale Cinema-Werke. Zu den Highlights zählen Alex Gibneys vierstündige Elon-Musk-Analyse, Disneys Oasis-Reunion-Film, die politisch brisante Gaza-Doku „NAZA“ sowie Wim Wenders' 14 Jahre in Arbeit befindliches Porträt des Architekten Peter Zumthor, das Brad Pitt als Executive Producer unterstützt. Branchenexperten werten dieses Engagement inmitten von Budgetkürzungen und Studiokonsolidierung als strategisch klugen und optimistischen Schritt des Festiv",
-          "score": 7
-        },
-        {
           "source": "Variety",
-          "title": "Apple TV Inks Deal With Yahoo Sports for Free Alt-Casts of MLS Matches and MLB Games (but Only the First Two Innings)",
-          "link": "https://variety.com/2026/tv/news/apple-tv-yahoo-sports-altcast-mls-mlb-games-1236848624/",
-          "summary": "Apple hat eine Kooperation mit Yahoo Sports geschlossen, im Rahmen derer über zwei Monate hinweg kostenlose Alt-Casts von vier Apple-TV-Spielen (zwei MLB- und zwei MLS-Partien) mit exklusiven Kamerawinkeln auf der Yahoo-Sports-Website und -App gestreamt werden. Bei den Baseballspielen werden allerdings nur die ersten beiden Innings übertragen, wobei jeder Livestream einen direkten Link zur Apple-TV-App enthält, um Fans zum Abonnement zu bewegen. Die Marketing-Strategie zielt primär darauf ab, das Live-Sport-Angebot von Apple TV bekannter zu machen und Zuschauer zur Hauptplattform zu leiten.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "George Clooney Defends Mark Ruffalo’s ‘Ability to Speak Freely’ About Paramount-Warner Bros. Deal and Doesn’t See How the Merger ‘Financially Ends Up Making Sense’",
-          "link": "https://variety.com/2026/film/festivals/george-clooney-defends-mark-ruffalo-paramount-warner-bros-merger-1236848168/",
-          "summary": "George Clooney verteidigte bei der Eröffnung der Filmfestspiele von Venedig, wo er den Goldenen Löwen für sein Lebenswerk erhielt, das Recht von Mark Ruffalo auf freie Meinungsäußerung, nachdem dieser von Paramount wegen seiner Kritik an der geplanten Fusion mit Warner Bros. mit „antisemitischen Klischees“-Vorwürfen konfrontiert wurde. Clooney äußerte zudem Zweifel daran, dass der Zusammenschluss finanziell sinnvoll sei. Im Rahmen der Pressekonferenz sprach er außerdem über die politische Lage in den USA und den Aufstieg der künstlichen Intelligenz.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Ruben Östlund’s Plattform Produktion Boards Jessica Hausner’s Satirical Drama ‘Toxic’ Ahead of Venice Gap-Financing Market (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/global/ruben-ostlund-plattform-produktion-jessica-hausner-toxic-1236837048/",
-          "summary": "Ruben Östlunds Produktionsfirma Plattform Produktion ist der paneuropäischen Koproduktion von Jessica Hausners satirischem Arbeitsplatz-Drama „Toxic\" beigetreten, das während des Venice Gap-Financing Market (4.–6. September) präsentiert wird. Neben Plattform Produktion (Schweden) sind Schubert (Österreich), Essential Films (Deutschland) und Société Parisienne de Production (Frankreich) beteiligt, wobei die Coproduction Office den internationalen Vertrieb übernimmt. Der in vier Kapiteln erzählte Film nach einem von Hausner und Jessica Lind verfassten Drehbuch untersucht die Widersprüche des Kapitalismus und die wechselseitige Abhängigkeit zwischen Arbeitnehmern und Arbe",
+          "title": "‘Jet Lag: The Game’ Season 19 Finale Heads to Regal, Picturehouse Movie Theaters as Nebula Expands Cineworld Partnership (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/news/jet-lag-the-game-finale-theatrical-release-season-19-1236849680/",
+          "summary": "Die Web-Serie „Jet Lag: The Game\" bringt ihr Staffel-19-Finale am 3. Oktober 2026 in ausgewählte Kinos der Cineworld-Gruppe (Regal, Picturehouse) in den USA und Großbritannien, wobei der Ticketverkauf am 8. September startet. Der Kinoevent markiert eine erweiterte Partnerschaft zwischen dem Indie-Streamer Nebula und Cineworlds Regal Global Entertainment, die zuvor bereits einen Oscar-qualifizierenden Kinolauf für den Nebula-Kurzfilm „Power Trip\" vereinbart hatten.",
           "score": 7
         }
       ]
