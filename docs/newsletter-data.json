@@ -1,139 +1,97 @@
 {
   "newsletters": [
     {
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "articles": [
         {
           "source": "DWDL",
-          "title": "VDS reicht Beschwerde beim Bundeskartellamt gegen Netflix ein",
-          "link": "https://www.dwdl.de/nachrichten/107702/vds_reicht_beschwerde_beim_bundeskartellamt_gegen_netflix_ein/",
-          "summary": "Der Verband Deutscher Sprecher:innen (VDS) hat beim Bundeskartellamt Beschwerde gegen Netflix eingereicht und unterstützt zudem eine Datenschutzbeschwerde mehrerer Synchronsprecher bei der Berliner Datenschutzbeauftragten. Hintergrund ist Netflix' Forderung nach neuen KI-Klauseln in Sprecherverträgen, die eine vergütungsfreie Nutzung der Aufnahmen zu KI-Trainingszwecken vorsehen und bei Verweigerung zur Neubesetzung von Stimmen führen. Während die Schauspielgewerkschaft BFFS bereits 2025 eine Einigung mit Netflix erzielte, sind die Fronten zwischen VDS und dem Streamingdienst weiterhin verhärtet.",
+          "title": "ARD veröffentlicht bald Miniserie über Breitscheidplatz-Anschlag",
+          "link": "https://www.dwdl.de/nachrichten/107718/ard_veroeffentlicht_bald_miniserie_ueber_breitscheidplatzanschlag/",
+          "summary": "Die ARD veröffentlicht ihre sechsteilige Miniserie \"Breitscheidplatz 19/12\" über den Terroranschlag vom 19. Dezember 2016 am 30. Oktober in der Mediathek, gefolgt von einer linearen Ausstrahlung an zwei Abenden (1. und 6. November) im Ersten. Die von der NeueSuper produzierte Serie mit Albrecht Schuch beleuchtet ab 2015 die Radikalisierung des Attentäters Anis Amri und das Behördenversagen im Vorfeld des Anschlags, der 13 Todesopfer forderte.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "RTL testet das KI-\"Strafgericht\" kommende Woche",
-          "link": "https://www.dwdl.de/nachrichten/107687/rtl_testet_das_kistrafgericht_kommende_woche/",
-          "summary": "RTL Deutschland setzt ab dem 7. September erstmals KI im Programm ein und zeigt werktags ab 15:55 Uhr KI-modifizierte Folgen von \"Ulrich Wetzel – Das Strafgericht\", bei denen alte Episoden durch Bildbearbeitung, Sprachsynthese und Lipsync-Anpassungen zu völlig neuen Storylines mit veränderten Figuren, Handlungen und Urteilen umgestaltet wurden. Die Umsetzung erfolgte gemeinsam mit der Produktionsfirma Constantin Entertainment, wobei RTL betont, dass jede Folge redaktionell verantwortet, juristisch geprüft und die erforderlichen Rechte mit den beteiligten Personen geklärt wurden. Das Projekt ist Teil der im Frühjahr angekündig",
-          "score": 8
+          "title": "Personality-Doku mit Motsi und Oti Mabuse kommt im Oktober",
+          "link": "https://www.dwdl.de/nachrichten/107716/personalitydoku_mit_motsi_und_oti_mabuse_kommt_im_oktober/",
+          "summary": "Die ARD veröffentlicht am 19. Oktober die sechsteilige Personality-Doku \"Motsi & Oti. Meet the Mabuses\", produziert von ITV Studios Germany im Auftrag von WDR und HR, die die Schwestern abseits des Rampenlichts in London, Kelkheim und Südafrika begleitet. Zudem startet ab dem 14. Oktober die dreiteilige Doku-Serie \"No Angels – Das sind wir\" in der Mediathek (lineare Ausstrahlung am 17. Oktober im Ersten). Der ebenfalls angekündigte Female-Empowerment-Titel mit Motsi Mabuse hat hingegen noch keinen Veröffentlichungstermin.",
+          "score": 7
         },
         {
           "source": "DWDL",
-          "title": "\"Neue Wege\": Stephan Neumann verlässt Riverside Entertainment",
-          "link": "https://www.dwdl.de/nachrichten/107692/neue_wege_stephan_neumann_verlaesst_riverside_entertainment/",
-          "summary": "Stephan Neumann, einer von drei Geschäftsführern der Studio-Hamburg-Tochter Riverside Entertainment, verlässt das Unternehmen nach fast acht Jahren und verlängert seinen Vertrag nicht. Unter seiner Führung etablierte Riverside seit 2019 einen Kölner Standort sowie zahlreiche Formate wie den \"Quiz-Champion\" und machte sich zudem als Produzent großer Preisverleihungen wie dem Deutschen Fernsehpreis einen Namen.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Sat.1 zeigt \"Promi Big Brother\" durchgängig um 20:15 Uhr",
-          "link": "https://www.dwdl.de/nachrichten/107694/sat1_zeigt_promi_big_brother_durchgaengig_um_2015_uhr/",
-          "summary": "Sat.1 zeigt die neue Staffel von \"Promi Big Brother\" ab dem 5. Oktober durchgängig zur Primetime um 20:15 Uhr – ein strategischer Wechsel gegenüber dem Vorjahr, als die meisten Ausgaben spätabends liefen, und eine Angleichung an das RTL-Modell beim Dschungelcamp. Zum diesjährigen Cast unter dem Motto \"Garten\" zählen prominente Reality-Neulinge wie Box-Legende Axel Schulz und Ex-Fußballprofi Christian Lell sowie bekannte Namen wie Nadja Benaissa und Gedeon Burkhard. Im Anschluss an die von Jochen Schropp und Marlene Lufen moderierten Ausgaben läuft zudem die \"Late Night Show\".",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Mediengattungen bündeln Kräfte für Demokratie-Initiative",
-          "link": "https://www.dwdl.de/nachrichten/107674/mediengattungen_buendeln_kraefte_fuer_demokratieinitiative/",
-          "summary": "Erstmals in Deutschland schließen sich journalistische Medien verschiedener Gattungen – darunter ARD, ZDF, RTL, ProSiebenSat.1 sowie mehrere Presseverbände wie BDZV und VAUNET – unter dem Leitgedanken \"Demokratie braucht viele Stimmen\" zu einer gemeinsamen Initiative zusammen. Vom 14. bis 19. September, rund um den Internationalen Tag der Demokratie, planen sie eine bundesweite Aktionswoche mit Beiträgen in Print, Radio, TV, Podcasts und digitalen Angeboten sowie Dialogveranstaltungen, um für die Bedeutung glaubwürdiger Informationen und professionellen Journalismus zu werben. Die Kampagne setzt bewusst auf Medienvielfalt statt Eigen",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Zunächst fünf Folgen: RTL produziert neue &quot;Strafgericht&quot;-Folgen mithilfe von KI",
-          "link": "https://www.horizont.net/medien/nachrichten/zunaechst-fuenf-folgen-rtl-produziert-neue-strafgericht-folgen-mithilfe-von-ki-235664?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "RTL produziert gemeinsam mit Constantin Entertainment zunächst fünf KI-generierte Folgen des Gerichtsformats „Das Strafgericht\", die auf bestehenden Episoden basieren. Mithilfe verschiedener KI-Verfahren wurden die ursprünglichen Geschichten verändert und dramaturgisch neu erzählt, sodass es sich nicht um bloße Wiederholungen handelt. Das Projekt markiert einen vorsichtigen Einstieg des Privatsenders in den KI-gestützten Produktionsprozess.",
+          "title": "Prime Video 2026/27: Viel LOL, viel Liebe und bekannte Marken",
+          "link": "https://www.dwdl.de/nachrichten/107700/prime_video_202627_viel_lol_viel_liebe_und_bekannte_marken/",
+          "summary": "Prime Video setzt für 2026/27 auf eine Bewährungsstrategie und baut sein Programm mit etablierten Marken sowie bekannten Formaten aus, darunter die achte Staffel von „LOL: Last One Laughing“, die zweite Staffel von „LOL Next“ und die Comedy-Serie „Perfekt Zusammen?!“ mit Anke Engelke und Bastian Pastewka. Der Fokus liegt zunehmend auf der Bindung des bestehenden Publikums – inklusive über 17 Millionen monatlicher werbegestützter Nutzer – statt auf riskanten Experimenten. Im Bereich Romantik sticht die BookTok-Bestseller-Verfilmung „This Could Be Love“ nach dem Roman von Lilly Lucas hervor, die erste Prime-Video-Produktion aus d",
           "score": 10
         },
         {
-          "source": "Horizont Medien",
-          "title": "Vor der Landtagswahl in Sachsen-Anhalt: Die neue AfD-Medienwelt und die Verantwortung der Plattformen",
-          "link": "https://www.horizont.net/medien/kommentare/vor-der-landtagswahl-in-sachsen-anhalt-die-neue-afd-medienwelt-und-die-verantwortung-der-plattformen-235654?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die AfD hat abseits der klassischen Medienlandschaft ein eigenes Kommunikationsökosystem aus politischen Streamern und Creatorn etabliert, das Reichweite und Gegenöffentlichkeit erzeugt. Der Kommentar argumentiert, dass die Medienbranche diese Entwicklung unterschätzt und fordert, die Plattformen stärker in die Verantwortung zu nehmen.",
+          "source": "DWDL",
+          "title": "AXN Black holt preisgekröntes \"Blue Lights\" nach Deutschland",
+          "link": "https://www.dwdl.de/nachrichten/107703/axn_black_holt_preisgekroentes_blue_lights_nach_deutschland/",
+          "summary": "AXN Black sichert sich die Pay-TV- und Streaming-Rechte an der BAFTA-prämierten britischen Polizeiserie \"Blue Lights\" und bringt die erste Staffel ab dem 15. November sowohl on demand als auch als linearen Marathon nach Deutschland; die bereits erworbene zweite Staffel folgt ohne konkreten Termin. Parallel kündigt Schwestersender AXN White die deutschsprachige Premiere der elften Staffel von \"Murdoch Mysteries\" ab dem 2. November an, eingeleitet durch ein 90-minütiges Weihnachtsspecial.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Großer Deal: Bertelsmann schließt Fusion von Musiktochter BMG mit Concord ab",
-          "link": "https://www.horizont.net/medien/nachrichten/grosser-deal-bertelsmann-schliesst-fusion-von-musiktochter-bmg-mit-concord-ab-235643?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Bertelsmann hat die Fusion seiner Musiktochter BMG mit dem US-Unternehmen Concord nach Zustimmung der Wettbewerbsbehörden abgeschlossen. Das gemeinsame Unternehmen startet zum 1. September unter dem Namen BMG, wobei Bertelsmann 67 Prozent der Anteile hält und es damit vollständig in seine Bilanz aufnimmt. Die bisherigen Concord-Eigentümer behalten die verbleibenden 33 Prozent.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Welt startet Talk \"Unter Vier\" Anna Schneider und Sebastian Vorbach ordnen im neuen Welt-Talk...",
-          "link": "https://kress.de/news/beitrag/156088-ohne-politiker-mit-journalisten-welt-startet-talk-quot-unter-vier-quot.html",
-          "summary": "Die Welt startet am 3. September das zweimal wöchentlich (montags und donnerstags, 16:15 Uhr) ausgestrahlte Live-Talk-Format \"Unter Vier\", das bewusst auf Politiker-Gäste verzichtet und stattdessen die Hosts Anna Schneider und Sebastian Vorbach mit wechselnden Kolumnisten und Politikjournalisten die aktuelle politische Lage einordnen lässt. Das Konzept setzt auf journalistische Analyse statt inszenierter Disput-Konstellationen und beginnt jeden Themenblock mit einer neutralen Nachrichtenpräsentation. Zu den ersten Gästen zählen unter anderem Daniel Friedrich Sturm (Tagesspiegel), Claudius Seidl (SZ) und Jörg Thadeusz (RBB",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "KI macht's möglich: RTL verpasst alten Gerichtsshows neue Handlung Der Fernsehsender RTL greift mit Künstlicher Intelligenz in alte Doku-Soaps ein und verändert deren Handlung. Bei bereits ausgestrahlten Folgen der Reihe \"Ulrich Wetzel",
-          "link": "https://meedia.de/news/beitrag/24983-rtl-verpasst-alten-gerichtsshows-neue-handlung.html",
-          "summary": "RTL Deutschland und Constantin Entertainment nutzen KI-Technologien (Bildbearbeitung, Sprachsynthese, Lipsync), um bereits ausgestrahlte Folgen der Doku-Soap \"Ulrich Wetzel – Das Strafgericht\" nachträglich in Handlung, Figuren und Urteilen zu verändern – bis hin zum Geschlechtswechsel der Hauptfigur. Der als Praxistest deklarierte Einsatz, bei dem Rechte mit den Schauspielern geklärt und jede Folge redaktionell sowie juristisch geprüft wurden, soll neue Auswertungsmöglichkeiten bestehender Inhalte erschließen. Fünf bearbeitete Folgen laufen kommende Woche werktäglich um 15.55 Uhr.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Push für neue Versandapotheke dm macht mal wieder einen Ausflug in die TV-Werbung Mit etwa 12...",
-          "link": "https://meedia.de/news/beitrag/24974-dm-macht-mal-wieder-einen-ausflug-in-die-tv-werbung.html",
-          "summary": "dm-drogerie markt, der mit rund 12 Milliarden Euro Jahresumsatz größte Drogeriemarkt Deutschlands, startet ausnahmsweise eine TV-Kampagne, um seine neue Versandapotheke dm-med zu bewerben. Unter dem Claim „Alles zusammen. Einfach bestellt“ wird seit dem 1. September auf öffentlich-rechtlichen und privaten Sendern (u.a. Das Erste, Sat.1, RTL, Vox, ProSieben) sowie im Connected TV die kombinierte Bestellung von Drogerie- und Apothekenprodukten über die dm-App und dm.de beworben.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Nicola Coughlan, Luke Evans & Hugh Bonneville Are Speaking Out Against AI Voice Cloning, But Is The Government Listening?",
-          "link": "https://deadline.com/2026/09/nicola-coughlan-save-our-voices-now-campaign-ai-1237066698/",
-          "summary": "Britische Schauspieler wie Nicola Coughlan, Luke Evans und Hugh Bonneville unterstützen die Kampagne „Save Our Voices Now\", die von der Regierung ein durchsetzbares Urheberrecht für Einzelpersonen an ihrer eigenen Stimme fordert, um unerlaubtes AI-Voice-Cloning zu verhindern. Die von Schauspieler Peter Caulfield und Hörbuch-Sprecherin Alice Sockett initiierte Petition hat über 4.000 Unterschriften gesammelt, stößt jedoch bislang eher auf regierungsseitige Untätigkeit als auf konkrete Maßnahmen. Der Vorstoß erfolgt vor dem Hintergrund einer bereits Ende 2024 gestarteten Regierungskonsultation zum Urheberrecht",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "French TV In Focus: Screenings & Shows To Watch At The Unifrance Rendez-Vous",
-          "link": "https://deadline.com/2026/09/unifrance-rendez-vous-french-tv-screenings-shows-to-watch-1237066639/",
-          "summary": "Beim Unifrance Rendez-Vous präsentieren französische Vertriebe ihre Programme internationalen Einkäufern – einen Monat vor der MIPCOM und in vergleichsweise intimem Rahmen. Zu den offiziellen Screenings zählen die KI-gestützte Doku „Beasts of the Colosseum“ (Balanga), das Historiendrama „Swapped“ (France TV Distribution) sowie die Stendhal-Adaption „The Red and the Black“ (Wild Bunch). Das Marktangebot reicht von Dokumentationen über Animation bis zu Drama, wobei das bei Käufern beliebte Genre „Cozy Crime“ eine zentrale Rolle spielt.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Tubi Turns To Football Freestylers Woody & Kleiny For First UK Original From Creators Program",
-          "link": "https://deadline.com/2026/09/tubi-wheel-of-misfortune-woody-kleiny-uk-creators-original-1237066596/",
-          "summary": "Der Streaming-Anbieter Tubi hat mit „Wheel of Misfortune\" seine erste britische Originalproduktion mit Creators bestellt – umgesetzt von den Football-Freestylern Woody & Kleiny, die zusammen fast 16 Millionen YouTube-Follower zählen. Die Serie, in der die beiden ein Glücksrad drehen und skurrile Herausforderungen absolvieren, entsteht im Rahmen der „Tubi for Creators\"-Initiative und markiert das erste TV-Engagement des Duos. Der Schritt unterstreicht Tubis strategischen Fokus auf Creator-Content, der in UK bereits über 10 % der gesamten Sehzeit ausmacht und besonders Gen-Z- und Millennial-Zuschauer anspricht.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Sandra Hüller To Star As Celebrated Late Male German Artist Wolfgang Herrndorf’s In Maria Schrader’s ‘Work And Structure’",
-          "link": "https://deadline.com/2026/09/sandra-huller-male-artist-wolfgang-herrndorf-schrader-1237066632/",
-          "summary": "Die Oscar-nominierte Schauspielerin Sandra Hüller wird in Maria Schraders Verfilmung „Arbeit und Struktur“ den verstorbenen deutschen Schriftsteller und Künstler Wolfgang Herrndorf verkörpern – eine geschlechterübergreifende Besetzung, die zwei der renommiertesten deutschen Filmschaffenden zusammenbringt. Das Drehbuch, das Schrader gemeinsam mit Jan Schomburg adaptiert, basiert auf Herrndorfs posthum erschienenem Werk, das seine Auseinandersetzung mit einer tödlichen Hirntumor-Diagnose dokumentiert und als eines der prägenden Werke der zeitgenössischen deutschen Literatur gilt.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Unifrance’s Rendez-Vous Brings French Sellers & Global Buyers Together Amid Industry Shifts",
-          "link": "https://deadline.com/2026/09/unifrance-rendez-vous-le-havre-2026-1237066589/",
-          "summary": "Unifrance veranstaltet zum dritten Mal in Folge sein jährliches Rendez-Vous in Le Havre, den größten französischsprachigen TV-Markt des Jahres, mit rund 135 erwarteten internationalen Käufern – überwiegend aus Europa. Das Format setzt neben Screenings und Dealmaking bewusst auf ein dichtes Programm sozialer Events, um in einer sich schnell wandelnden Branche Networking und Ideenaustausch zu fördern. Executive Director Daniela Elstner betont, dass die Schaffung eines gemeinschaftlichen Rahmens zentral sei, um den veränderten Erwartungen an Märkte gerecht zu werden.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Hollywood Veterans Launch aTwist Microdrama Platform With Horror, Comedy and Animated Series",
-          "link": "https://www.hollywoodreporter.com/business/digital/hollywood-veterans-atwist-microdrama-platform-1236688362/",
-          "summary": "Die von den Hollywood-Veteranen Jana Winograde, Susan Rovner und Lloyd Braun gegründete Microdrama-Plattform aTwist ist in den USA und sieben weiteren Ländern mit zehn Originalserien gestartet, die Genres wie Horror, Comedy und Animation abdecken. Im Gegensatz zu den romance-dominierten Vertical-Plattformen setzt aTwist auf Genre-Vielfalt und ein Hybrid-Monetarisierungsmodell aus werbefinanzierten Gratis-Episoden, virtueller Währung („Coins“) und Abonnements. Zu den Machern zählen etablierte Produzenten wie Bradley Bell (The Bold and the Beautiful) und Jonathan Stern (Abominable Pictures).",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "Microseries Studio and Platform aTwist Officially Launches With First Slate of Originals",
-          "link": "https://variety.com/2026/tv/news/microseries-studio-platform-atwist-launches-first-slate-1236848859/",
-          "summary": "Das von TV-Veteranen Jana Winograde, Susan Rovner und Lloyd Braun gegründete Microseries-Studio und -Plattform aTwist startete offiziell mit einer Palette an Scripted-, Unscripted- und Animations-Originalen über verschiedene Genres wie Comedy, Drama, Horror und Romance. Der Launch umfasst Produktionspartnerschaften mit Programmern wie BET und Kevin Harts Hartbeat sowie einen Marktstart in acht Ländern, darunter die USA, Großbritannien, Indien und Australien. Die Inhalte sind über aTwist.com und eine plattformübergreifende App verfügbar, wobei neue Programme jeweils donnerstags veröffentlicht werden.",
+          "title": "Streamingriese: Netflix erhöht Preise in Deutschland",
+          "link": "https://www.horizont.net/medien/nachrichten/streamingriese-netflix-erhoeht-preise-in-deutschland-235680?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Netflix hat die Preise für alle Abonnement-Modelle in Deutschland erhöht – das Premium-Abo mit 4K-Bildqualität und 3D-Sound kostet nun 21,99 Euro statt bisher 19,99 Euro monatlich. Es ist die erste Preisanpassung seit April 2024.",
           "score": 9
         },
         {
+          "source": "Horizont Medien",
+          "title": "Joyn, Studio 71, Seven-One Audio: Silke Kuisle übernimmt digitales Wachstumsgeschäft von P7S1",
+          "link": "https://www.horizont.net/medien/nachrichten/joyn-studio-71-seven-one-audio-silke-kuisle-uebernimmt-digitales-wachstumsgeschaeft-von-p7s1-235634?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Silke Kuisle kehrt als neue Chief Digital Business Officer zu ProSiebenSat.1 nach Unterföhring zurück und verantwortet in dieser Rolle die digitale Strategie des Medienkonzerns sowie den Bereich Growth & Digital Business. Damit übernimmt sie die Leitung des digitalen Wachstumsgeschäfts, zu dem unter anderem Joyn, Studio 71 und Seven.One Audio zählen.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Briefings bekommt eine neue Chefredaktion.",
+          "link": "https://meedia.de/news/beitrag/24992-clara-pfeffer-und-christoph-hickmann-wechseln-in-die-table-briefings-chefredaktion.html",
+          "summary": "Der Newsletter-Dienst Table.Briefings stellt seine Chefredaktion neu auf: Christoph Hickmann (bislang Leiter des Hauptstadtbüros beim „Spiegel“) übernimmt als Chefredakteur, Clara Pfeffer (zuvor ntv) wird Mitglied der Chefredaktion. Gemeinsam mit Till Hoppe bilden sie künftig die neue Führung und ersetzen Helene Bubrowski und Michael Bröcker, die zur „F.A.Z.“ bzw. zu Axel Springer wechseln.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Ein Kommentar von Erik Siekmann Warum Springer und OpenAI nicht Reichweite kaufen, sondern einen...",
+          "link": "https://meedia.de/news/beitrag/24990-warum-springer-und-openai-nicht-reichweite-kaufen-sondern-einen-platz-am-tisch.html",
+          "summary": "Axel Springer beteiligt sich am Londoner Live-Tech-Talk ETN, während OpenAI kurz zuvor das US-Format TBPN übernommen hat – beide Formate überzeugen nicht durch hohe Reichweite, sondern durch Zugang zu einem kleinen, aber entscheidungsstarken Publikum aus Investoren und Marktführern. Der Kommentar von Erik Siekmann argumentiert, dass klassische reichweitenbasierte Medienbewertungen ausgedient haben und stattdessen der „Platz am Tisch\" relevanter Zielgruppen zählt. Als Beispiel dient der Wagniskapitalgeber a16z, der sich mit seiner Publikationsplattform und dem Zukauf des Podcast-Netzwerks Turpentine bewusst als Medienunternehmen positioniert.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Video Daily: TV-Quoten & Streaming-Charts \"Die Flodders\" überzeugen bei RTL überhaupt nicht Kuriose Idee, die 1990er-Jahre-Serie “Flodder",
+          "link": "https://meedia.de/news/beitrag/24988-quot-die-flodders-quot-ueberzeugen-bei-rtl-ueberhaupt-nicht.html",
+          "summary": "Das RTL-Spin-Off der 1990er-Kultserie \"Die Flodders\" enttäuschte bei der linearen Ausstrahlung deutlich: Alle sechs am Stück gezeigten Folgen erzielten unterdurchschnittliche und im Verlauf sinkende Marktanteile. Klarer Quotensieger des Donnerstagabends war stattdessen die ARD-Krimireihe \"Nord bei Nordwest\", die mit 6,46 Millionen Zuschauern einen Marktanteil von 31,3 Prozent erreichte.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Wahl in Sachsen-Anhalt Kündigung der Medienstaatsverträge betrifft auch die Privatsender Ein Ende...",
+          "link": "https://meedia.de/news/beitrag/24989-kuendigung-der-medienstaatsvertraege-betrifft-auch-die-privatsender.html",
+          "summary": "Die von der AfD angekündigte Kündigung der Medienstaatsverträge würde laut Medienrechtler Hubertus Gersdorf nicht nur den öffentlich-rechtlichen Rundfunk, sondern das gesamte duale Mediensystem einschließlich der Privatsender und der Medienaufsicht betreffen, da damit die bundeseinheitliche Rechtsgrundlage entfiele. Das Bundesverfassungsgericht verlangt einheitliche Regelungen für private und öffentlich-rechtliche Sender, sodass ohne diese Verträge etwa für RTL keine länderübergreifend verlässliche rechtliche Basis mehr bestünde.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Netflix Hikes UK Prices, With Cheapest Plan Jumping A Third",
+          "link": "https://deadline.com/2026/09/netflix-hikes-uk-prices-cheapest-plan-up-a-third-1237067976/",
+          "summary": "Netflix hat zum 3. September seine UK-Preise erhöht, wobei das günstigste werbefinanzierte Paket (Standard with Ads) um 33,4 % von £5,99 auf £7,99 stieg, während die Standard- und Premium-Tarife um 7,7 % bzw. 10,5 % zulegten. Die Erhöhung gilt für Neu- und Bestandskunden – Netflix hat über 18 Millionen Abonnenten in Großbritannien – und begründet sich laut Unternehmen mit verbesserter Servicequalität und Reinvestitionen in Inhalte. Die Anpassung erfolgt zeitgleich mit dem verschärften Wettbewerb im britischen Markt, etwa durch VodafoneThrees neuen TV-Dienst, der ab Oktober Free-Kanäle mit Netflix und HBO",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Lorenzo Mieli Talks Grappling With AI For Diesel Founder Renzo Rosso Bio-Doc ‘Be Brave’: “We Need To Master It, Rather Than Let AI Master Us” – Venice",
+          "link": "https://deadline.com/2026/09/lorenzo-mieli-ai-diesel-renzo-rosso-biodoc-be-brave-1237067492/",
+          "summary": "Der italienische Produzent Lorenzo Mieli präsentiert mit „Be Brave\" die erste mit KI produzierte Dokumentation in der offiziellen Auswahl der Filmfestspiele von Venedig – ein Bio-Doc über Diesel-Gründer Renzo Rosso, dessen eigene Interview-Beiträge sowie das meiste „Archivmaterial\" vollständig KI-generiert sind, während Interviews mit Größen wie Anna Wintour und John Galliano authentisch bleiben. Beim CAA- und Finch-&-Partners-Forum „The Future of… Creativity\" plädiert Mieli für einen bewussten Umgang mit der Technologie: „Wir müssen sie beherrschen, statt uns von ihr beherrschen zu lassen.\"",
+          "score": 7
+        },
+        {
           "source": "Variety",
-          "title": "‘Jet Lag: The Game’ Season 19 Finale Heads to Regal, Picturehouse Movie Theaters as Nebula Expands Cineworld Partnership (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/news/jet-lag-the-game-finale-theatrical-release-season-19-1236849680/",
-          "summary": "Die Web-Serie „Jet Lag: The Game\" bringt ihr Staffel-19-Finale am 3. Oktober 2026 in ausgewählte Kinos der Cineworld-Gruppe (Regal, Picturehouse) in den USA und Großbritannien, wobei der Ticketverkauf am 8. September startet. Der Kinoevent markiert eine erweiterte Partnerschaft zwischen dem Indie-Streamer Nebula und Cineworlds Regal Global Entertainment, die zuvor bereits einen Oscar-qualifizierenden Kinolauf für den Nebula-Kurzfilm „Power Trip\" vereinbart hatten.",
+          "title": "Manisha Koirala Attached to Star in ‘Cowgirls & Indians,’ Set for November Texas Shoot (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/news/manisha-koirala-cowgirls-indians-1236851458/",
+          "summary": "Bollywood-Star Manisha Koirala („Heeramandi\", „1942: A Love Story\") wird die Hauptrolle im Indie-Film „Cowgirls & Indians\" übernehmen, der ab November rund um Austin, Texas, gedreht wird. Der von Nicholl-Fellow Tejal Desai geschriebene und inszenierte Film basiert auf deren preisgekröntem Kurzfilm „Cowboys and Hindus\" und erzählt die Geschichte einer indischen Frau mittleren Alters, die zwischen kultureller Entwurzelung und Resilienz ihre Identität sucht. Produzentin ist Kirtana Banskota („The World's Happiest Man\").",
           "score": 7
         }
       ]
