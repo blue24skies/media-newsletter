@@ -1,97 +1,34 @@
 {
   "newsletters": [
     {
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "articles": [
         {
           "source": "DWDL",
-          "title": "ARD veröffentlicht bald Miniserie über Breitscheidplatz-Anschlag",
-          "link": "https://www.dwdl.de/nachrichten/107718/ard_veroeffentlicht_bald_miniserie_ueber_breitscheidplatzanschlag/",
-          "summary": "Die ARD veröffentlicht ihre sechsteilige Miniserie \"Breitscheidplatz 19/12\" über den Terroranschlag vom 19. Dezember 2016 am 30. Oktober in der Mediathek, gefolgt von einer linearen Ausstrahlung an zwei Abenden (1. und 6. November) im Ersten. Die von der NeueSuper produzierte Serie mit Albrecht Schuch beleuchtet ab 2015 die Radikalisierung des Attentäters Anis Amri und das Behördenversagen im Vorfeld des Anschlags, der 13 Todesopfer forderte.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Personality-Doku mit Motsi und Oti Mabuse kommt im Oktober",
-          "link": "https://www.dwdl.de/nachrichten/107716/personalitydoku_mit_motsi_und_oti_mabuse_kommt_im_oktober/",
-          "summary": "Die ARD veröffentlicht am 19. Oktober die sechsteilige Personality-Doku \"Motsi & Oti. Meet the Mabuses\", produziert von ITV Studios Germany im Auftrag von WDR und HR, die die Schwestern abseits des Rampenlichts in London, Kelkheim und Südafrika begleitet. Zudem startet ab dem 14. Oktober die dreiteilige Doku-Serie \"No Angels – Das sind wir\" in der Mediathek (lineare Ausstrahlung am 17. Oktober im Ersten). Der ebenfalls angekündigte Female-Empowerment-Titel mit Motsi Mabuse hat hingegen noch keinen Veröffentlichungstermin.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Prime Video 2026/27: Viel LOL, viel Liebe und bekannte Marken",
-          "link": "https://www.dwdl.de/nachrichten/107700/prime_video_202627_viel_lol_viel_liebe_und_bekannte_marken/",
-          "summary": "Prime Video setzt für 2026/27 auf eine Bewährungsstrategie und baut sein Programm mit etablierten Marken sowie bekannten Formaten aus, darunter die achte Staffel von „LOL: Last One Laughing“, die zweite Staffel von „LOL Next“ und die Comedy-Serie „Perfekt Zusammen?!“ mit Anke Engelke und Bastian Pastewka. Der Fokus liegt zunehmend auf der Bindung des bestehenden Publikums – inklusive über 17 Millionen monatlicher werbegestützter Nutzer – statt auf riskanten Experimenten. Im Bereich Romantik sticht die BookTok-Bestseller-Verfilmung „This Could Be Love“ nach dem Roman von Lilly Lucas hervor, die erste Prime-Video-Produktion aus d",
+          "title": "Netflix erhöht Preise: Günstigster Tarif wird 40% teurer",
+          "link": "https://www.dwdl.de/nachrichten/107705/netflix_erhoeht_preise_guenstigster_tarif_wird_40_teurer/",
+          "summary": "Netflix erhöht in Deutschland erneut seine Abo-Preise: Das Premium-Abo steigt auf 21,99 Euro, das Standard-Abo auf 15,99 Euro, während der werbefinanzierte Einstiegstarif mit einem Sprung von 4,99 auf 6,99 Euro rund 40 Prozent teurer wird. Das werbefreie Basis-Abo für Bestandskunden wird eingestellt, sodass diese entweder in einen werbefinanzierten oder einen teureren werbefreien Tarif wechseln müssen. Vor dem Hintergrund steigender Investitionen in Sportrechte stellt sich für Netflix und Wettbewerber wie Prime Video, Paramount und HBO Max zunehmend die Grundsatzfrage, ob ein einheitliches „Abo für alles“ künftig noch",
           "score": 10
         },
         {
-          "source": "DWDL",
-          "title": "AXN Black holt preisgekröntes \"Blue Lights\" nach Deutschland",
-          "link": "https://www.dwdl.de/nachrichten/107703/axn_black_holt_preisgekroentes_blue_lights_nach_deutschland/",
-          "summary": "AXN Black sichert sich die Pay-TV- und Streaming-Rechte an der BAFTA-prämierten britischen Polizeiserie \"Blue Lights\" und bringt die erste Staffel ab dem 15. November sowohl on demand als auch als linearen Marathon nach Deutschland; die bereits erworbene zweite Staffel folgt ohne konkreten Termin. Parallel kündigt Schwestersender AXN White die deutschsprachige Premiere der elften Staffel von \"Murdoch Mysteries\" ab dem 2. November an, eingeleitet durch ein 90-minütiges Weihnachtsspecial.",
-          "score": 7
-        },
-        {
           "source": "Horizont Medien",
-          "title": "Streamingriese: Netflix erhöht Preise in Deutschland",
-          "link": "https://www.horizont.net/medien/nachrichten/streamingriese-netflix-erhoeht-preise-in-deutschland-235680?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Netflix hat die Preise für alle Abonnement-Modelle in Deutschland erhöht – das Premium-Abo mit 4K-Bildqualität und 3D-Sound kostet nun 21,99 Euro statt bisher 19,99 Euro monatlich. Es ist die erste Preisanpassung seit April 2024.",
-          "score": 9
+          "title": "Machtprobe um öffentlich-rechtlichen Rundfunk: Was eine AfD-Regierung in Sachsen-Anhalt für die Medien bedeuten würde",
+          "link": "https://www.horizont.net/medien/nachrichten/machtprobe-um-den-oeffentlich-rechtlichen-rundfunk-was-eine-afd-regierung-in-sachsen-anhalt-fuer-die-medien-bedeuten-wuerde-235614?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der Artikel analysiert die medienpolitischen Pläne der AfD in Sachsen-Anhalt, darunter die Abschaffung des Rundfunkbeitrags, den Umbau des MDR sowie die Umstellung von einer Grundversorgung auf einen reduzierten „Grundfunk\". Anhand einer Einschätzung von MDR-Landesfunkhausdirektor Tim Herden wird geprüft, welche dieser Vorhaben im Falle einer AfD-Regierungsbeteiligung tatsächlich realisierbar wären und welche rechtlichen sowie strukturellen Hürden bestehen.",
+          "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "Joyn, Studio 71, Seven-One Audio: Silke Kuisle übernimmt digitales Wachstumsgeschäft von P7S1",
-          "link": "https://www.horizont.net/medien/nachrichten/joyn-studio-71-seven-one-audio-silke-kuisle-uebernimmt-digitales-wachstumsgeschaeft-von-p7s1-235634?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Silke Kuisle kehrt als neue Chief Digital Business Officer zu ProSiebenSat.1 nach Unterföhring zurück und verantwortet in dieser Rolle die digitale Strategie des Medienkonzerns sowie den Bereich Growth & Digital Business. Damit übernimmt sie die Leitung des digitalen Wachstumsgeschäfts, zu dem unter anderem Joyn, Studio 71 und Seven.One Audio zählen.",
+          "source": "kress",
+          "title": "MDR-Chef Ludwig über die AfD-Pläne",
+          "link": "https://kress.de/news/beitrag/156152-quot-ich-schlafe-weniger-als-ich-moechte-quot-mdr-chef-ludwig-ueber-die-afd-plaene.html",
+          "summary": "MDR-Intendant Ralf Ludwig äußert sich im t-online-Interview besorgt über die AfD-Ankündigung, im Falle einer Regierungsübernahme in Sachsen-Anhalt die Rundfunkstaatsverträge zu kündigen, und verteidigt die umstrittene Protestaktion des Senders mit schwarzen Bildschirmen als sachliche Reaktion auf ein „Informationsdefizit“ des Publikums. Zwar wertet Ludwig eine Kündigung nach demokratischer Wahl als rechtlich vorgesehen und „per se nichts Undemokratisches“, kritisiert das Vorgehen der Partei jedoch als beispiellos radikalen Angriff auf einen „Grundpfeiler der Demokratie“.",
           "score": 7
         },
         {
-          "source": "meedia",
-          "title": "Briefings bekommt eine neue Chefredaktion.",
-          "link": "https://meedia.de/news/beitrag/24992-clara-pfeffer-und-christoph-hickmann-wechseln-in-die-table-briefings-chefredaktion.html",
-          "summary": "Der Newsletter-Dienst Table.Briefings stellt seine Chefredaktion neu auf: Christoph Hickmann (bislang Leiter des Hauptstadtbüros beim „Spiegel“) übernimmt als Chefredakteur, Clara Pfeffer (zuvor ntv) wird Mitglied der Chefredaktion. Gemeinsam mit Till Hoppe bilden sie künftig die neue Führung und ersetzen Helene Bubrowski und Michael Bröcker, die zur „F.A.Z.“ bzw. zu Axel Springer wechseln.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Ein Kommentar von Erik Siekmann Warum Springer und OpenAI nicht Reichweite kaufen, sondern einen...",
-          "link": "https://meedia.de/news/beitrag/24990-warum-springer-und-openai-nicht-reichweite-kaufen-sondern-einen-platz-am-tisch.html",
-          "summary": "Axel Springer beteiligt sich am Londoner Live-Tech-Talk ETN, während OpenAI kurz zuvor das US-Format TBPN übernommen hat – beide Formate überzeugen nicht durch hohe Reichweite, sondern durch Zugang zu einem kleinen, aber entscheidungsstarken Publikum aus Investoren und Marktführern. Der Kommentar von Erik Siekmann argumentiert, dass klassische reichweitenbasierte Medienbewertungen ausgedient haben und stattdessen der „Platz am Tisch\" relevanter Zielgruppen zählt. Als Beispiel dient der Wagniskapitalgeber a16z, der sich mit seiner Publikationsplattform und dem Zukauf des Podcast-Netzwerks Turpentine bewusst als Medienunternehmen positioniert.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Video Daily: TV-Quoten & Streaming-Charts \"Die Flodders\" überzeugen bei RTL überhaupt nicht Kuriose Idee, die 1990er-Jahre-Serie “Flodder",
-          "link": "https://meedia.de/news/beitrag/24988-quot-die-flodders-quot-ueberzeugen-bei-rtl-ueberhaupt-nicht.html",
-          "summary": "Das RTL-Spin-Off der 1990er-Kultserie \"Die Flodders\" enttäuschte bei der linearen Ausstrahlung deutlich: Alle sechs am Stück gezeigten Folgen erzielten unterdurchschnittliche und im Verlauf sinkende Marktanteile. Klarer Quotensieger des Donnerstagabends war stattdessen die ARD-Krimireihe \"Nord bei Nordwest\", die mit 6,46 Millionen Zuschauern einen Marktanteil von 31,3 Prozent erreichte.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Wahl in Sachsen-Anhalt Kündigung der Medienstaatsverträge betrifft auch die Privatsender Ein Ende...",
-          "link": "https://meedia.de/news/beitrag/24989-kuendigung-der-medienstaatsvertraege-betrifft-auch-die-privatsender.html",
-          "summary": "Die von der AfD angekündigte Kündigung der Medienstaatsverträge würde laut Medienrechtler Hubertus Gersdorf nicht nur den öffentlich-rechtlichen Rundfunk, sondern das gesamte duale Mediensystem einschließlich der Privatsender und der Medienaufsicht betreffen, da damit die bundeseinheitliche Rechtsgrundlage entfiele. Das Bundesverfassungsgericht verlangt einheitliche Regelungen für private und öffentlich-rechtliche Sender, sodass ohne diese Verträge etwa für RTL keine länderübergreifend verlässliche rechtliche Basis mehr bestünde.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Netflix Hikes UK Prices, With Cheapest Plan Jumping A Third",
-          "link": "https://deadline.com/2026/09/netflix-hikes-uk-prices-cheapest-plan-up-a-third-1237067976/",
-          "summary": "Netflix hat zum 3. September seine UK-Preise erhöht, wobei das günstigste werbefinanzierte Paket (Standard with Ads) um 33,4 % von £5,99 auf £7,99 stieg, während die Standard- und Premium-Tarife um 7,7 % bzw. 10,5 % zulegten. Die Erhöhung gilt für Neu- und Bestandskunden – Netflix hat über 18 Millionen Abonnenten in Großbritannien – und begründet sich laut Unternehmen mit verbesserter Servicequalität und Reinvestitionen in Inhalte. Die Anpassung erfolgt zeitgleich mit dem verschärften Wettbewerb im britischen Markt, etwa durch VodafoneThrees neuen TV-Dienst, der ab Oktober Free-Kanäle mit Netflix und HBO",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Lorenzo Mieli Talks Grappling With AI For Diesel Founder Renzo Rosso Bio-Doc ‘Be Brave’: “We Need To Master It, Rather Than Let AI Master Us” – Venice",
-          "link": "https://deadline.com/2026/09/lorenzo-mieli-ai-diesel-renzo-rosso-biodoc-be-brave-1237067492/",
-          "summary": "Der italienische Produzent Lorenzo Mieli präsentiert mit „Be Brave\" die erste mit KI produzierte Dokumentation in der offiziellen Auswahl der Filmfestspiele von Venedig – ein Bio-Doc über Diesel-Gründer Renzo Rosso, dessen eigene Interview-Beiträge sowie das meiste „Archivmaterial\" vollständig KI-generiert sind, während Interviews mit Größen wie Anna Wintour und John Galliano authentisch bleiben. Beim CAA- und Finch-&-Partners-Forum „The Future of… Creativity\" plädiert Mieli für einen bewussten Umgang mit der Technologie: „Wir müssen sie beherrschen, statt uns von ihr beherrschen zu lassen.\"",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Manisha Koirala Attached to Star in ‘Cowgirls & Indians,’ Set for November Texas Shoot (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/news/manisha-koirala-cowgirls-indians-1236851458/",
-          "summary": "Bollywood-Star Manisha Koirala („Heeramandi\", „1942: A Love Story\") wird die Hauptrolle im Indie-Film „Cowgirls & Indians\" übernehmen, der ab November rund um Austin, Texas, gedreht wird. Der von Nicholl-Fellow Tejal Desai geschriebene und inszenierte Film basiert auf deren preisgekröntem Kurzfilm „Cowboys and Hindus\" und erzählt die Geschichte einer indischen Frau mittleren Alters, die zwischen kultureller Entwurzelung und Resilienz ihre Identität sucht. Produzentin ist Kirtana Banskota („The World's Happiest Man\").",
+          "source": "kress",
+          "title": "Kloeppel rechnet mit AfD-Plänen für den MDR ab Fernsehpreis-Ehrenpreisträger Peter Kloeppel äußert...",
+          "link": "https://kress.de/news/beitrag/156087-kurz-vor-der-wahl-kloeppel-rechnet-mit-afd-plaenen-fuer-den-mdr-ab.html",
+          "summary": "Anlässlich der Verleihung des Ehrenpreises des Deutschen Fernsehpreises kritisiert Peter Kloeppel im DWDL-Interview scharf die AfD-Pläne in Sachsen-Anhalt, im Falle einer Regierungsübernahme den MDR-Staatsvertrag zu kündigen. Angriffe auf verfassungsrechtlich verankerte Medien-Institutionen – ob öffentlich-rechtlich oder privat – dürfe es nicht geben, betont der frühere „RTL aktuell“-Anchorman und ruft dazu auf, Meinungsvielfalt und Informationsfreiheit zu verteidigen („Wehret den Anfängen!“). Unabhängigen, kritischen Journalismus bezeichnet Kloeppel als unverzichtbaren Bestandteil einer demokratisch",
           "score": 7
         }
       ]

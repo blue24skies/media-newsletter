@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-05",
+  "articles": [
+    {
+      "source": "DWDL",
+      "title": "Netflix erhöht Preise: Günstigster Tarif wird 40% teurer",
+      "link": "https://www.dwdl.de/nachrichten/107705/netflix_erhoeht_preise_guenstigster_tarif_wird_40_teurer/",
+      "summary": "Netflix erhöht in Deutschland erneut seine Abo-Preise: Das Premium-Abo steigt auf 21,99 Euro, das Standard-Abo auf 15,99 Euro, während der werbefinanzierte Einstiegstarif mit einem Sprung von 4,99 auf 6,99 Euro rund 40 Prozent teurer wird. Das werbefreie Basis-Abo für Bestandskunden wird eingestellt, sodass diese entweder in einen werbefinanzierten oder einen teureren werbefreien Tarif wechseln müssen. Vor dem Hintergrund steigender Investitionen in Sportrechte stellt sich für Netflix und Wettbewerber wie Prime Video, Paramount und HBO Max zunehmend die Grundsatzfrage, ob ein einheitliches „Abo für alles“ künftig noch",
+      "score": 10
+    },
+    {
+      "source": "Horizont Medien",
+      "title": "Machtprobe um öffentlich-rechtlichen Rundfunk: Was eine AfD-Regierung in Sachsen-Anhalt für die Medien bedeuten würde",
+      "link": "https://www.horizont.net/medien/nachrichten/machtprobe-um-den-oeffentlich-rechtlichen-rundfunk-was-eine-afd-regierung-in-sachsen-anhalt-fuer-die-medien-bedeuten-wuerde-235614?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+      "summary": "Der Artikel analysiert die medienpolitischen Pläne der AfD in Sachsen-Anhalt, darunter die Abschaffung des Rundfunkbeitrags, den Umbau des MDR sowie die Umstellung von einer Grundversorgung auf einen reduzierten „Grundfunk\". Anhand einer Einschätzung von MDR-Landesfunkhausdirektor Tim Herden wird geprüft, welche dieser Vorhaben im Falle einer AfD-Regierungsbeteiligung tatsächlich realisierbar wären und welche rechtlichen sowie strukturellen Hürden bestehen.",
+      "score": 8
+    },
+    {
+      "source": "kress",
+      "title": "MDR-Chef Ludwig über die AfD-Pläne",
+      "link": "https://kress.de/news/beitrag/156152-quot-ich-schlafe-weniger-als-ich-moechte-quot-mdr-chef-ludwig-ueber-die-afd-plaene.html",
+      "summary": "MDR-Intendant Ralf Ludwig äußert sich im t-online-Interview besorgt über die AfD-Ankündigung, im Falle einer Regierungsübernahme in Sachsen-Anhalt die Rundfunkstaatsverträge zu kündigen, und verteidigt die umstrittene Protestaktion des Senders mit schwarzen Bildschirmen als sachliche Reaktion auf ein „Informationsdefizit“ des Publikums. Zwar wertet Ludwig eine Kündigung nach demokratischer Wahl als rechtlich vorgesehen und „per se nichts Undemokratisches“, kritisiert das Vorgehen der Partei jedoch als beispiellos radikalen Angriff auf einen „Grundpfeiler der Demokratie“.",
+      "score": 7
+    },
+    {
+      "source": "kress",
+      "title": "Kloeppel rechnet mit AfD-Plänen für den MDR ab Fernsehpreis-Ehrenpreisträger Peter Kloeppel äußert...",
+      "link": "https://kress.de/news/beitrag/156087-kurz-vor-der-wahl-kloeppel-rechnet-mit-afd-plaenen-fuer-den-mdr-ab.html",
+      "summary": "Anlässlich der Verleihung des Ehrenpreises des Deutschen Fernsehpreises kritisiert Peter Kloeppel im DWDL-Interview scharf die AfD-Pläne in Sachsen-Anhalt, im Falle einer Regierungsübernahme den MDR-Staatsvertrag zu kündigen. Angriffe auf verfassungsrechtlich verankerte Medien-Institutionen – ob öffentlich-rechtlich oder privat – dürfe es nicht geben, betont der frühere „RTL aktuell“-Anchorman und ruft dazu auf, Meinungsvielfalt und Informationsfreiheit zu verteidigen („Wehret den Anfängen!“). Unabhängigen, kritischen Journalismus bezeichnet Kloeppel als unverzichtbaren Bestandteil einer demokratisch",
+      "score": 7
+    }
+  ]
+}
