@@ -1,55 +1,202 @@
 {
   "newsletters": [
     {
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "articles": [
         {
-          "source": "Horizont Medien",
-          "title": "Vaunet-Studie über Pay-TV: Der Streamingmarkt wächst, die Strategien driften auseinander",
-          "link": "https://www.horizont.net/medien/nachrichten/vaunet-studie-ueber-pay-tv-der-streamingmarkt-waechst-die-strategien-driften-auseinander-235813?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Laut der aktuellen Vaunet-Studie bleiben die Umsätze mit Pay-TV und kostenpflichtigen Video-Streamingdiensten in Deutschland auf Rekordniveau, wobei für 2026 ein weiterer Anstieg prognostiziert wird. Weder die zunehmende Marktfragmentierung noch die gestiegenen Lebenshaltungskosten beeinträchtigen bislang die Zahlungsbereitschaft der Verbraucher spürbar. Gleichzeitig zeigt sich eine wachsende Divergenz in den strategischen Ausrichtungen der Marktakteure.",
-          "score": 10
+          "source": "DWDL",
+          "title": "Wolfram Weimer bringt Privatisierung des ZDF ins Spiel",
+          "link": "https://www.dwdl.de/nachrichten/107848/wolfram_weimer_bringt_privatisierung_des_zdf_ins_spiel/",
+          "summary": "Kulturstaatsminister Wolfram Weimer hat bei einer nicht-öffentlichen Konferenz der Konrad-Adenauer-Stiftung eine mögliche Privatisierung des ZDF sowie die Zusammenlegung von ARD-Anstalten auf nur noch vier bis fünf Rundfunkanstalten ins Gespräch gebracht. Er verwies dabei auf gewachsene Doppelstrukturen und beschrieb den Medienmarkt als Duopol aus Big Tech und Öffentlich-Rechtlichen, unter dem private Anbieter wie RTL Deutschland litten. Formal ist der BKM für diese Fragen zwar nicht zuständig, dennoch dürften die Äußerungen – etwa zur Eigenständigkeit von Radio Bremen und dem Saarländischen Rundfunk –",
+          "score": 9
         },
         {
-          "source": "Horizont Medien",
-          "title": "Reality TV: Die Geissens wechseln von RTL Zwei zu Pro Sieben Sat 1",
-          "link": "https://www.horizont.net/medien/nachrichten/reality-tv-die-geissens-wechseln-von-rtl-zwei-zu-pro-sieben-sat-1-235810?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Nach 15 Jahren beenden RTLzwei und die Reality-TV-Familie Geiss ihre Zusammenarbeit; der Sender strahlt zum Abschluss eine finale Staffel der Doku-Soap \"Die Geissens – Eine schrecklich glamouröse Familie\" aus. Künftig wird das Format bei ProSiebenSat.1 zu sehen sein.",
+          "source": "DWDL",
+          "title": "Telekom-Sender DabeiTV hat neuen Namen erhalten",
+          "link": "https://www.dwdl.de/nachrichten/107847/telekomsender_dabeitv_hat_neuen_namen_erhalten/",
+          "summary": "Der von Sporttotal.TV betriebene Telekom-Sender DabeiTV wurde in Moments TV umbenannt – angelehnt an das Bonusprogramm Magenta Moments –, wobei sich inhaltlich zunächst nichts an der Mischung aus Dokumentationen, Talks und Sport geändert hat. Gründe für die Umbenennung nannte die Telekom nicht, jedoch wird laut DWDL.de-Informationen bereits an einer inhaltlichen Neuausrichtung gearbeitet, deren Umsetzung allerdings noch dauern dürfte.",
           "score": 7
         },
         {
+          "source": "DWDL",
+          "title": "ZDF dreht neue \"Herzkino\"-Reihe über Anwältin mit Tourette",
+          "link": "https://www.dwdl.de/nachrichten/107845/zdf_dreht_neue_herzkinoreihe_ueber_anwaeltin_mit_tourette/",
+          "summary": "Das ZDF produziert derzeit zwei Folgen der neuen \"Herzkino\"-Reihe \"Partner wider Willen\" (Arbeitstitel) mit Laura Storz, Leo Reisinger und Wayne Carpendale in den Hauptrollen, gedreht in München, Garmisch-Partenkirchen und Umgebung. Im Zentrum steht eine Anwältin mit Tourette, die eine Kanzlei in der bayerischen Provinz übernimmt und sich dort gegen Widerstände beweisen muss. Verantwortlich für die Produktion ist Keshet Fiction Germany unter der Regie von Sebastian Stern; ein Ausstrahlungstermin steht noch nicht fest.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "\"logo!\"-Redaktion reagiert auf Kritik nach AfD-Interview",
+          "link": "https://www.dwdl.de/nachrichten/107846/logoredaktion_reagiert_auf_kritik_nach_afdinterview/",
+          "summary": "Nach anhaltender Kritik an einem unmoderierten AfD-Interview in der ZDF-Kindernachrichtensendung \"logo!\" vor der Landtagswahl in Sachsen-Anhalt räumt der Sender redaktionelle Fehler ein und ändert sein Konzept: Für die Wahl in Mecklenburg-Vorpommern werden Interviewaussagen künftig in einem redaktionellen Beitrag eingeordnet. Der Deutsche Journalisten-Verband begrüßt die Kurskorrektur als \"einzig richtige Entscheidung\" und betont die Notwendigkeit journalistischer Einordnung gerade gegenüber jungem Publikum angesichts der Medienstrategie der AfD.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Sommerhaus der Stars\" bleibt im Streaming stabil",
+          "link": "https://www.dwdl.de/zahlenzentrale/107844/sommerhaus_der_stars_bleibt_im_streaming_stabil/",
+          "summary": "Das \"Sommerhaus der Stars\" erreichte in der zweiten Staffelwoche eine stabile Streaming-Nettoreichweite von 1,056 Millionen Menschen (Platz 6 im Programmmarken-Ranking der KW 36) und übersprang damit erneut die Millionen-Marke. Anders als im Vorjahr blieb jedoch der Reichweitenanstieg ab Woche zwei aus, sodass die RTL+-Realityshow deutlich von neuen Rekorden entfernt bleibt. Konkurrierende Reality-Formate wie \"Are You The One\" (881.000), \"Ex on the Beach\" (778.000) und Joyns \"Villa der Versuchung\" (668.000) rangierten klar dahinter.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "ARD plant das \"größte Weihnachtssingen aller Zeiten\"",
+          "link": "https://www.dwdl.de/nachrichten/107843/ard_plant_das_groesste_weihnachtssingen_aller_zeiten/",
+          "summary": "Die ARD überträgt am 23. Dezember 2026 um 20:15 Uhr erstmals die Live-Show \"O du fröhliche – Deutschland singt!\" aus der Düsseldorfer Merkur-Spielarena, bei der neben dem Hauptort auch weitere Stadien und Zuschauer zu Hause gemeinsam Weihnachtslieder anstimmen sollen. Prominente Gäste wie Sarah Connor und Jonas Kaufmann sorgen für die musikalische Gestaltung. Produziert wird das als \"größtes Weihnachtssingen aller Zeiten\" angekündigte Format von der DEF Media in Zusammenarbeit mit NDR, WDR und BR unter Federführung des NDR.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Black Forest Studios startet Microdrama-Plattform",
+          "link": "https://www.dwdl.de/nachrichten/107842/black_forest_studios_startet_microdramaplattform/",
+          "summary": "Die Black Forest Studios von Nina und Sebastian Weiland starten am 1. November mit Snäxx eine der ersten europäischen Microdrama-Plattformen für Vertical-Serien, die zeitgleich auf iOS und Android verfügbar sein wird. Anders als die vorwiegend aus den USA und China stammenden, kostengünstigen Vorbilder setzt Snäxx auf \"Premium Microdrama\" und kombiniert eigene Originals mit Inhalten unabhängiger Produzenten. Ab 2027 werden zehn bis 15 Serien pro Jahr angepeilt, wobei die genaue Zusammensetzung des begleitenden Management-Boards bislang noch offen ist.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "Niehaus übernimmt Hauptrolle in neuer ZDF-Krimireihe",
+          "link": "https://www.dwdl.de/nachrichten/107836/niehaus_uebernimmt_hauptrolle_in_neuer_zdfkrimireihe/",
+          "summary": "Das ZDF produziert mit \"Eine Brise Mord\" (Arbeitstitel) eine neue Samstagskrimi-Reihe für den Sendeplatz um 20:15 Uhr, in der Valerie Niehaus als Schweriner Kommissarin Jana Stoehr die Hauptrolle übernimmt. Gedreht wird bis voraussichtlich 5. Oktober in Ahrenshoop und Wustrow auf dem Fischland sowie in Hamburg; vorerst ist ein einzelner Film geplant, eine Fortsetzung bei Erfolg gilt als wahrscheinlich.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "ProSiebenSat.1 wird ab Sommer 2027 neue Heimat der Geissens",
+          "link": "https://www.dwdl.de/nachrichten/107828/prosiebensat1_wird_ab_sommer_2027_neue_heimat_der_geissens/",
+          "summary": "ProSiebenSat.1 hat einen neuen Vertrag mit der Familie Geiss geschlossen, die ab der zweiten Jahreshälfte 2027 von RTLzwei zur Unterföhringer Sendergruppe wechselt. Geplant sind jeweils 20 neue Doppelfolgen der von Geiss TV produzierten Familien-Doku pro Jahr, wobei Sender, Format und Titel noch offen sind. Der Wechsel beendet die 16-jährige Zusammenarbeit mit RTLzwei.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Wachstumsraten der Pay-Branche schwächen sich spürbar ab",
+          "link": "https://www.dwdl.de/nachrichten/107827/wachstumsraten_der_paybranche_schwaechen_sich_spuerbar_ab/",
+          "summary": "Der VAUNET-Verband meldet für den deutschen Pay-TV- und VoD-Markt eine Stagnation bei 5,5 Milliarden Euro Umsatz im Jahr 2025, womit die frühere Prognose von 5,8 Milliarden deutlich verfehlt wurde. Für 2026 wird nur ein leichtes Wachstum auf 5,6 Milliarden Euro erwartet, das ausschließlich aus dem SVoD-Bereich stammt, während klassische Pay-TV-Sender leicht verlieren. Trotz stagnierender Umsätze steigt die Zahl der abgeschlossenen Abos weiter, wobei der Verband politische Rahmenbedingungen wie die geplante Investitionsverpflichtung für Streamingdienste kritisiert.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Nach 15 Jahren: RTLzwei und die Geissens trennen sich",
+          "link": "https://www.dwdl.de/nachrichten/107824/nach_15_jahren_rtlzwei_und_die_geissens_trennen_sich/",
+          "summary": "Nach 15 Jahren beenden RTLzwei und die Familie Geiss ihre Zusammenarbeit: Die Dokusoap „Die Geissens“, seit 2011 ein Aushängeschild des Senders, läuft mit einer finalen Staffel inklusive der 500. Folge aus, deren Ausstrahlung sich noch bis 2027 erstreckt. Betroffen ist auch das Format „Davina & Shania - We love Monaco“ der Töchter, während bereits ausgestrahlte Folgen weiterhin über RTLzwei bzw. RTL+ abrufbar bleiben.",
+          "score": 9
+        },
+        {
           "source": "Horizont Medien",
-          "title": "Sport-Streamingdienst: Alice Mascia verlässt DAZN, Felix Krause übernimmt",
-          "link": "https://www.horizont.net/medien/nachrichten/sport-streamingdienst-alice-mascia-verlaesst-dazn-felix-krause-uebernimmt-235806?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Alice Mascia gibt zum Jahresende ihre Position als DACH-Chefin von DAZN ab. Ihr Nachfolger wird Felix Krause, der den Streamingdienst im deutschsprachigen Raum bereits mit aufgebaut hatte und zuletzt das Digitalgeschäft von ProSiebenSat.1 verantwortete.",
+          "title": "Branded Entertainment: Thorsten Beyer wird Geschäftsführer Sales &amp; Brand Partnerships von Banijay Media",
+          "link": "https://www.horizont.net/medien/nachrichten/branded-entertainment-thorsten-beyer-wird-geschaeftsfuehrer-sales--brand-partnerships-von-banijay-media-235835?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Banijay Media baut den Bereich Branded Entertainment aus und ernennt den Verkaufs- und Mediaexperten Thorsten Beyer zum neuen Geschäftsführer Sales & Brand Partnerships. Parallel dazu wird das Sales-Team des Unternehmens personell weiter verstärkt.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "In einer nicht öffentlichen Rede Medienstaatsminister Weimer denkt über Privatisierung des ZDF nach...",
+          "link": "https://meedia.de/news/beitrag/25060-medienstaatsminister-weimer-denkt-ueber-privatisierung-des-zdf-nach.html",
+          "summary": "Medienstaatsminister Wolfram Weimer (parteilos) hat bei einer internen Rede vor der Konrad-Adenauer-Stiftung einen radikalen Umbau des öffentlich-rechtlichen Rundfunks angeregt, einschließlich einer möglichen Privatisierung des ZDF und der Zusammenlegung kleinerer ARD-Anstalten wie Radio Bremen und des Saarländischen Rundfunks. Weimer kritisierte die bestehenden Doppelstrukturen von ARD und ZDF sowie die Wettbewerbsbelastung privater Anbieter durch die beitragsfinanzierten Sender und beschrieb den Medienmarkt als „Duopol\" aus Big Tech und Öffentlich-Rechtlichen. Als Alternative brachte er ein „Kleeblatt-System\" aus n",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Ausbau der Zusammenarbeit mit Mediaagenturen Banijay Media mit Thorsten Beyer als neuem...",
+          "link": "https://meedia.de/news/beitrag/25056-banijay-media-mit-thorsten-beyer-als-neuem-geschaeftsfuehrer-fuer-sales-amp-brand-partnerships.html",
+          "summary": "Banijay Media Germany beruft Thorsten Beyer zum Geschäftsführer für Sales & Brand Partnerships, um das Direktkundengeschäft weiterzuentwickeln und die Zusammenarbeit mit Mediaagenturen systematisch auszubauen. Ziel ist es, Branded Entertainment frühzeitig in die Mediaplanung zu integrieren und als skalierbare Kommunikationslösung zu etablieren. Beyer bringt über 20 Jahre Branchenerfahrung mit, unter anderem als CCO und Managing Director von dentsu Austria, und verantwortet die Maßnahmen im Rahmen der Wachstumsstrategie „Brand Horizon“.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "TV-Quoten & Streaming-Charts \"Wer wird Millionär?\" und \"Höhle der Löwen\" legen kräftig zu Ohne...",
+          "link": "https://meedia.de/news/beitrag/25046-quot-wer-wird-millionaer-quot-und-quot-hoehle-der-loewen-quot-legen-kraeftig-zu.html",
+          "summary": "Ohne starken ZDF-Krimi und Wahlnachberichte im Ersten konnte die private Konkurrenz am Montagabend deutlich zulegen: \"Wer wird Millionär?\" gewann mit 15,6 Prozent Marktanteil die Prime Time bei den 14- bis 49-Jährigen und verfehlte den Gesamtsieg (2,84 Mio. Zuschauer) nur knapp gegenüber dem ZDF (2,94 Mio., 14,1 Prozent). Auch \"Die Höhle der Löwen\" sowie das Wetterformat mit Sven Plöger überzeugten insbesondere beim jungen Publikum.",
+          "score": 9
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Channel 4 poaches Paramount’s £300m-plus TV ad sales business from Sky",
+          "link": "https://www.theguardian.com/media/2026/sep/15/channel-4-paramount-tv-ad-sales-sky",
+          "summary": "Channel 4 hat Paramounts über £300 Mio. schweres TV-Werbevermarktungsgeschäft (u.a. Channel 5, MTV, Comedy Central, Nickelodeon) von Sky übernommen – erstmals werden damit die Werbeverkäufe zweier Public-Service-Broadcaster gemeinsam vermarktet. Der Deal ist ein bedeutender Erfolg für Channel 4, das rund 90% seiner £1 Mrd. Umsätze aus Werbung erzielt und kürzlich den größten Stellenabbau seiner Geschichte (340 Jobs) ankündigte. Nicht enthalten sind hingegen die Werbeverkäufe der Streamingdienste Paramount+ und Pluto TV.",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Stories in Gaza documentary pulled by BBC still need to be aired, director says",
+          "link": "https://www.theguardian.com/media/2026/sep/15/stories-gaza-documentary-pulled-bbc-need-aired-director-says",
+          "summary": "Regisseur Jamie Roberts verteidigt die Inhalte der von der BBC zurückgezogenen Dokumentation „Gaza: How to Survive a Warzone\", räumt jedoch einen „schwerwiegenden Fehler\" ein, nachdem bekannt wurde, dass der 13-jährige Erzähler Sohn eines Hamas-Funktionärs war. Eine BBC-Untersuchung stellte fest, dass die Produktion gegen Genauigkeitsrichtlinien verstieß, jedoch die BBC nicht vorsätzlich getäuscht wurde; beide Seiten tragen laut Bericht Mitverantwortung. Roberts' Produktionsfirma Hoyo Films habe daraufhin ihre redaktionellen Prozesse überarbeitet, während Roberts nun eine neue Channel-4-Doku z",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Jack Thorne warns some fellow scriptwriters are using AI ‘to cheat’",
+          "link": "https://www.theguardian.com/stage/2026/sep/14/jack-thorne-scriptwriters-ai-artificial-intelligence",
+          "summary": "Der erfolgreiche Drehbuchautor Jack Thorne (\"Adolescence\", \"Harry Potter and the Cursed Child\") warnt, dass einige Autoren KI heimlich nutzen, um vollständige Skripte zu generieren, statt sie lediglich als Hilfsmittel einzusetzen, und fordert Gesetze gegen diese verdeckte Praxis. Zugleich kritisiert er die Untätigkeit der britischen Regierung unter Keir Starmer beim Schutz von Urheberrechten gegenüber dem massenhaften Daten-Scraping der KI-Industrie. Thorne betont, dass Autoren \"absolut integer\" bleiben müssen, um nicht Studios und Streamern einen Vorwand für den unkontrollierten Umgang mit Content zu liefern.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Jon Cohen Named President Of Lipovsky & Stein’s Wonderlab Banner",
-          "link": "https://deadline.com/2026/09/lipovsky-stein-name-jon-cohen-president-wonderlab-1237099558/",
-          "summary": "Jon Cohen, zuvor Head of Film bei J.J. Abrams' Bad Robot, wurde zum President von Wonderlab ernannt, der neu gegründeten Produktionsfirma der \"Final Destination: Bloodlines\"-Regisseure Zach Lipovsky und Adam Stein. Cohen bringt umfangreiche Genre-Erfahrung mit, unter anderem als Produzent von Titeln wie \"10 Cloverfield Lane\", \"Overlord\" und dem kommenden Sony-Film \"Skeletons\". Die Zusammenarbeit zielt auf die Entwicklung origineller, gehobener und unterhaltsamer Genrefilme ab.",
+          "title": "‘Slow Horses’ Renewed For Season 8 At Apple TV",
+          "link": "https://deadline.com/2026/09/slow-horses-renewed-season-8-apple-tv-emmys-1237103708/",
+          "summary": "Apple TV hat seine Erfolgsserie „Slow Horses\" mit Gary Oldman um eine achte Staffel verlängert, die auf dem neunten Band von Mick Herrons „Slough House\"-Reihe („Clown Town\") basiert und in Kürze in Produktion geht. Die Ankündigung folgt auf einen weiteren Emmy-Gewinn (Drama Directing für Saul Metzstein) sowie den Start der sechsten Staffel und die bereits bestätigte siebte Staffel. Im Zentrum von Staffel 8 steht die bislang heftigste Konfrontation zwischen Jackson Lamb (Oldman) und Diana Taverner (Kristin Scott Thomas), produziert von See-Saw Films.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Killing Eve’ Origin Story ‘Honey’ To World Premiere At MIPCOM",
+          "link": "https://deadline.com/2026/09/killing-eve-honey-world-premiere-mipcom-1237103736/",
+          "summary": "Die BBC-ZDF-Koproduktion „Honey\", ein Prequel zu „Killing Eve\", feiert am Montag der MIPCOM in Cannes seine Weltpremiere und erzählt die Cold-War-Geschichte der MI6-Agentin Martha (Ann Skelly), die 1982 in Ost-Berlin in eine gefährliche Dreiecksbeziehung gerät. Laut Deadline handelt es sich um eine Origin-Story der von Fiona Shaw gespielten Figur Carolyn Martens, auch wenn BBC und ZDF dies bislang nicht bestätigt haben. Vertrieben wird die Serie mit Stars wie Nate Mann, Jannis Niewöhner und Rory Kinnear von Fifth Season und zählt zu den größten Titeln der Messe.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Netflix NFL Opener In Australia Draws 18.5M Viewers, Extending League’s Muted Start To Season",
+          "link": "https://deadline.com/2026/09/netflix-nfl-australia-viewers-soft-start-to-season-1237103793/",
+          "summary": "Netflix erreichte mit der Live-Übertragung des ersten in Australien ausgetragenen NFL-Spiels (49ers gegen Rams) durchschnittlich 18,5 Millionen Zuschauer und damit dasselbe Niveau wie das Vorjahres-Spiel aus Brasilien via YouTube. Bemerkenswert ist das gestiegene internationale Publikum mit 3,2 Millionen Zuschauern außerhalb der USA (gegenüber 1,2 Millionen im Vorjahr), was die verstärkte globale Expansionsstrategie der Liga unterstreicht. Insgesamt fügt sich das Ergebnis jedoch in einen verhaltenen Saisonstart ein, nachdem bereits das Eröffnungsspiel auf NBC und Peacock um 11 % gegenüber dem Vorjahr",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "SkyShowtime May Be Sold or Shut Down, Board Warns In Memo Shared With Staff (Exclusive)",
-          "link": "https://www.hollywoodreporter.com/business/business-news/comcast-paramount-review-strategic-options-skyshowtime-1236698105/",
-          "summary": "Comcast und Paramount Skydance haben eine „Prüfung strategischer Optionen\" für ihren europäischen Streaming-Joint-Venture SkyShowtime eingeleitet, wobei eine Abwicklung des Dienstes ausdrücklich zu den Möglichkeiten zählt. Der in über 20 europäischen Ländern aktive Dienst, der Inhalte von NBCUniversal, Sky Studios und Paramount bündelt und mehrere Millionen Abonnenten zählt, steht damit vor einem möglichen Verkauf oder einer Einstellung. Hintergrund sind das hochkompetitive Marktumfeld sowie die veränderten Strategien der Medienkonzerne – nicht zuletzt David Ellisons Paramount-Übernahme und dessen laufendes Kaufinteresse an Warner Bros. Discov",
-          "score": 9
+          "title": "Keri Russell Confronts a “Culture of Consistent Lawlessness” in ‘The Diplomat’ Season 4 Trailer",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/the-diplomat-season-4-trailer-keri-russell-allison-janney-1236702047/",
+          "summary": "Netflix veröffentlicht am 15. Oktober die vierte Staffel des politischen Thrillers „The Diplomat“, deren neuer Trailer den Fokus von persönlichen Beziehungsthemen hin zu geopolitischen Konflikten verlagert. Im Zentrum steht Keri Russells Figur Kate Wyler, die Vizepräsident Hal (Rufus Sewell) und Präsidentin Grace Penn (Allison Janney) mit deren aggressiver Außenpolitik und dem in Staffel drei enthüllten Diebstahl einer russischen Atomwaffe konfrontiert. Janney gewann für ihre Nebenrolle in der Serie erst kürzlich einen Emmy.",
+          "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Netflix, YouTube and Amazon Launch a Streaming Public Policy Group",
-          "link": "https://www.hollywoodreporter.com/business/digital/netflix-youtube-amazon-launch-streaming-public-policy-saca-1236700459/",
-          "summary": "Netflix, YouTube und Amazon haben in Washington D.C. mit der Streaming Access and Choice Alliance (SACA) eine neue Interessenvertretung für Streaming-Plattformen gegründet, die unter Leitung von TechNet und dessen Manager Mike Ward operiert. Die Allianz will sich für Verbraucherzugang, Wahlfreiheit und innovationsfördernde Politik einsetzen und schließt damit eine Lücke, da Streaming-Dienste bislang – anders als Big Tech und die klassische Filmindustrie – nicht dediziert in Washington repräsentiert waren. Der Schritt erfolgt vor dem Hintergrund wachsenden öffentlichen und politischen Drucks aufgrund steigender Preise und der zunehmenden Fragmentierung von Inhalten über zahlreiche Plattform",
-          "score": 9
+          "title": "‘Slow Horses’ Renewed for Season 8 at Apple TV",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/slow-horses-renewed-season-8-apple-tv-gary-oldman-series-1236698180/",
+          "summary": "Apple TV+ hat seine Spionage-Serie „Slow Horses“ mit Gary Oldman um eine achte Staffel verlängert, die auf Mick Herrons neuntem Roman „Clown Town“ basiert und eine eskalierende Konfrontation zwischen Jackson Lamb und Diana Taverner (Kristin Scott Thomas) in Aussicht stellt. Die sechsteilige Staffel folgt auf einen Emmy-Gewinn für die beste Regie (Saul Metzstein) bei insgesamt neun Nominierungen. Zudem sorgt Co-Star Jack Lowden als möglicher nächster James-Bond-Darsteller für Schlagzeilen, wobei eine finale Casting-Entscheidung laut THR noch aussteht.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "‘The Test’ Season 4 Among Prime Video’s New Australian Originals",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/amazon-prime-video-australia-originals-the-test-wieambilla-1236700486/",
+          "summary": "Amazon Prime Video hat drei neue australische Original-Doku-Serien in Auftrag gegeben, darunter eine vierte Staffel der erfolgreichen Cricket-Serie „The Test“, die das australische Herrenteam während seiner Saison 2026-27 mit Touren nach Südafrika, Indien sowie der Ashes-Tour 2027 begleitet. Die Serie, eine Koproduktion von Amazon MGM Studios, Cricket Australia und Whooshka Media, wird weltweit gestreamt, ein Erscheinungsdatum steht jedoch noch aus. Zu den weiteren Auftragsproduktionen zählt die True-Crime-Doku „Free Spirits: The Backpacker Poisonings“ über eine tödliche Vergiftung von Rucksacktouristen in Laos.",
+          "score": 7
         },
         {
           "source": "Variety",
-          "title": "SkyShowtime Could Be Shut Down, Warns Board of Comcast-Paramount Joint Venture",
-          "link": "https://variety.com/2026/tv/global/skyshowtime-could-be-shut-down-warn-paramount-comcast-1236861228/",
-          "summary": "Der Vorstand des von Comcast und Paramount Skydance betriebenen Joint Ventures SkyShowtime hat in einem Schreiben an CEO Monty Sarhan eine Prüfung strategischer Optionen angekündigt, die auch eine mögliche Abwicklung des europäischen Streamingdienstes einschließt. Der 2022 gestartete Dienst, der Inhalte von Peacock, Paramount+ und Sky in über 20 europäischen Märkten bündelt, steht angesichts des hart umkämpften Marktes und der Unsicherheit durch den bevorstehenden Paramount-WBD-Deal unter Druck. Eine endgültige Entscheidung sei laut Vorstand jedoch noch nicht gefallen.",
+          "title": "‘The Diplomat’ Season 4 Trailer Brings Keri Russell to Brink of War With the White House",
+          "link": "https://variety.com/2026/tv/news/the-diplomat-season-4-trailer-keri-russell-1236861536/",
+          "summary": "Netflix hat den ersten Trailer zur vierten Staffel von „The Diplomat\" veröffentlicht, die am 15. Oktober mit acht Episoden startet. Im Zentrum steht Keri Russells Figur Kate Wyler, die mit den Folgen einer verdeckten Aktion von Präsidentin Grace Penn (Allison Janney) und Vizepräsident Hal Wyler (Rufus Sewell) gegen Russland und Großbritannien konfrontiert wird. Die von Debora Cahn kreierte Serie führt die USA an den Rand eines Krieges, während Kate parallel um ihre zerbrechende Ehe kämpft.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Method Man to Guest Star on CBS Drama ‘Cupertino’ as Rapper Suing AI Music Studio (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/news/method-man-cbs-cupertino-rapper-ai-1236861711/",
+          "summary": "Method Man (Cliff Smith) übernimmt eine Gastrolle in der CBS-Rechtsdrama-Serie „Cupertino\" als Rapper „Yungwood\", der ein AI-Musikstudio verklagt, weil dieses seine Streaming-Einnahmen schmälert. Die von Robert und Michelle King („The Good Wife\", „The Good Fight\") produzierte David-gegen-Goliath-Serie folgt einem Anwalt (Mike Colter), der gegen die Tech-Elite des Silicon Valley kämpft. Die Besetzung umfasst zudem Rachel Keller, Busy Philipps und Renée Elise Goldsberry.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "‘Slow Horses’ Renewed for Season 8 at Apple TV",
+          "link": "https://variety.com/2026/tv/global/slow-horses-renewed-season-8-apple-tv-1236862689/",
+          "summary": "Apple TV hat die Spionage-Serie „Slow Horses\" für eine achte Staffel verlängert, die auf dem neunten Roman „Clown Town\" aus Mick Herrons „Slough House\"-Reihe basiert und Gary Oldman erneut als Jackson Lamb zeigt. Die sechsteilige Staffel folgt auf einen Emmy-Gewinn für die beste Regie in einer Dramaserie und wird eine Konfrontation zwischen Lamb und Diana Taverner (Kristin Scott Thomas) inszenieren. Während Staffel 6 in Kürze anläuft und Staffel 7 bereits bestätigt ist, unterstreicht die frühe Verlängerung den anhaltenden internationalen Erfolg des Formats.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "HBO Max Supports French Animation and Documentary Investment Quotas as Netflix, Disney and Amazon Push Back",
+          "link": "https://variety.com/2026/tv/global/hbo-max-french-animation-and-documentary-investment-quotas-1236862852/",
+          "summary": "HBO Max unterstützt als einziger großer Streamingdienst die neuen französischen Sub-Quoten, die einen Teil der verpflichtenden Investitionen in französische und europäische Inhalte gezielt für Dokumentationen und Animation vorschreiben. Konkurrenten wie Netflix, Prime Video und Disney+ haben hingegen Beschwerde beim Conseil d'État, Frankreichs höchstem Gericht, eingelegt und argumentieren, die Regeln seien ohne ausreichende Verhandlung eingeführt worden und benachteiligten Streamingdienste gegenüber klassischen Sendern. Die Regelung baut auf dem SMAD-Dekret auf, das seit 2021 eine Investitionsquote von 20% der lokalen Einnahmen in europäische Produktionen verlangt und Ende 2025 ver",
           "score": 10
         }
       ]
