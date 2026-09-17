@@ -1,62 +1,132 @@
 {
   "newsletters": [
     {
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Simon Verhoeven dreht für Netflix auf dem Oktoberfest",
-          "link": "https://www.dwdl.de/nachrichten/107863/simon_verhoeven_dreht_fuer_netflix_auf_dem_oktoberfest/",
-          "summary": "Regisseur Simon Verhoeven dreht mit „Oktoberfest“ (Arbeitstitel) erstmals einen Film für Netflix – eine Romantic Comedy rund um eine junge Wiesnkellnerin, produziert von Wiedemann & Berg Film unter Quirin Berg. Die Dreharbeiten starten rechtzeitig zum Oktoberfest auf der Theresienwiese sowie im Studio Penzing, wo das Festzelt mit rund 4.000 Komparsen nachgebaut wird. Der Cast, zu dem deutsche und teils internationale Darsteller gehören sollen, sowie weitere Handlungsdetails wurden bislang nicht bekanntgegeben.",
+          "title": "Lineare \"Cobra 11\"-Ausstrahlung lässt weiter auf sich warten",
+          "link": "https://www.dwdl.de/nachrichten/107877/lineare_cobra_11ausstrahlung_laesst_weiter_auf_sich_warten/",
+          "summary": "Im Rahmen der RTL-Disney-Kooperation erscheinen zwei zunächst exklusiv bei Disney+ gestartete \"Cobra 11\"-Filme (\"Bedingungslos\" und \"Sterbensschön\") ab dem 9. Oktober auf RTL+ sowie ab dem 10. Oktober bei Wow und Sky. Die lineare Free-TV-Premiere aller vier 2026 veröffentlichten Filme erfolgt laut RTL jedoch erst im kommenden Jahr. Begleitend veröffentlicht RTL ab dem 9. Oktober die jeweils ersten acht Minuten beider Filme kostenlos auf dem erfolgreichen \"Cobra 11\"-YouTube-Kanal (über 55.000 Abonnenten).",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "RTL Deutschland kündigt Abbau von 500 weiteren Stellen an",
+          "link": "https://www.dwdl.de/nachrichten/107875/rtl_deutschland_kuendigt_abbau_von_500_weiteren_stellen_an_/",
+          "summary": "RTL Deutschland plant im Zuge der Sky-Übernahme den Abbau von weiteren 500 Stellen bis Ende 2027, wovon 150 durch auslaufende Verträge und nicht nachbesetzte Stellen wegfallen sollen. Ziel des Zusammenschlusses sind jährliche Synergien von 250 Millionen Euro, die vor allem durch die Optimierung von Inhalte- und Sachkosten sowie den Abbau von Doppelstrukturen erreicht werden sollen. Der Stellenabbau soll sozialverträglich und in Abstimmung mit den Betriebsräten erfolgen, um betriebsbedingte Kündigungen zu vermeiden.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Bei P7S1 sinken die MFE-Werbeeinnahmen stärker als anderswo",
+          "link": "https://www.dwdl.de/nachrichten/107874/bei_p7s1_sinken_die_mfewerbeeinnahmen_staerker_als_anderswo/",
+          "summary": "Die MFE-Gruppe (ProSiebenSat.1-Mutter) verzeichnete im ersten Halbjahr 2026 einen Umsatzrückgang von 6,1 Prozent auf 2,95 Milliarden Euro, steigerte durch strikte Kostendisziplin jedoch den Nettogewinn deutlich auf 50,5 Millionen Euro sowie das Adjusted EBIT auf 145,7 Millionen Euro. Besonders auffällig ist die uneinheitliche regionale Entwicklung der Netto-Werbeeinnahmen: Im deutschsprachigen Raum brachen diese mit 8,9 Prozent (auf 714 Millionen Euro) deutlich stärker ein als in Italien (-3,4 Prozent) und Spanien (-1,6 Prozent). Konzernchef Pier Silvio",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Harry Potter\" übernimmt den Samstagabend bei RTL",
+          "link": "https://www.dwdl.de/nachrichten/107871/harry_potter_uebernimmt_den_samstagabend_bei_rtl/",
+          "summary": "Die \"Harry Potter\"-Filmreihe wechselt nach über einem Jahrzehnt von ProSiebenSat.1 zu RTL, wo ab dem 10. Oktober alle acht Filme samstags um 20:15 Uhr ausgestrahlt werden. Mit dieser Programmierung fährt RTL seine Samstagabendshows im Herbst massiv zurück und setzt – ergänzend zum bereits etablierten Live-Fußball der 2. Liga – bis Anfang Dezember überwiegend auf die bewährten Zauberlehrling-Geschichten.",
           "score": 9
         },
         {
           "source": "DWDL",
-          "title": "Sport1 verzeichnet wieder mehr (Brutto-)Werbeeinnahmen",
-          "link": "https://www.dwdl.de/nachrichten/107864/sport1_verzeichnet_wieder_mehr_bruttowerbeeinnahmen/",
-          "summary": "Sport1 verzeichnete im August 2026 Brutto-Werbeeinnahmen von 15,4 Millionen Euro – ein Plus von 22,1 Prozent gegenüber dem Vorjahr und damit die größte prozentuale Steigerung seit langem, was eine echte Trendumkehr für den Sender markiert. Der gesamte TV-Werbemarkt lag hingegen 4,9 Prozent unter dem Vorjahresniveau, wobei die großen Vermarkter Ad Alliance (-6,0 %), Seven.One Media (-4,4 %) und El Cartel Brothers (-6,9 %) allesamt im Minus lagen, während Visoon (+6,2 %) und Disney (+12,6 %) zulegten. Zu beachten ist, dass die Nielsen-Zahlen auf Listenpreisen basieren und",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Länder wollen strenge Werberegeln für TV-Sender lockern",
-          "link": "https://www.dwdl.de/nachrichten/107861/laender_wollen_strenge_werberegeln_fuer_tvsender_lockern/",
-          "summary": "Die Bundesländer planen im Rahmen des zweiten Digitale-Medien-Staatsvertrags weitreichende Lockerungen der TV-Werberegeln, insbesondere die bislang stark eingeschränkte regionalisierte Werbung in bundesweiten Programmen. Als Gegenleistung sollen Sender zur regionalen oder lokalen Medienvielfalt beitragen, etwa durch eigene Inhalte oder Kooperationen mit regionalen Medien. Der entsprechende Entwurf soll von der Rundfunkkommission beschlossen und anschließend in die öffentliche Anhörung gegeben werden.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "Christian Rach kehrt als \"Restauranttester\" zurück",
-          "link": "https://www.dwdl.de/nachrichten/107859/christian_rach_kehrt_als_restauranttester_zurueck/",
-          "summary": "RTL setzt für Frühjahr 2027 auf ein Comeback von Christian Rach mit neuen Folgen der Kult-Dokusoap \"Rach, der Restauranttester\", produziert von Filmpool Entertainment; die Dreharbeiten starten noch im September 2026. Der 69-Jährige begründet seine Rückkehr mit dem wachsenden wirtschaftlichen Druck in der Gastronomie und will kämpfende Restaurants gezielt unterstützen. Das Format hatte zwischen 2005 und 2013 Spitzenquoten erzielt und erreichte auch bei der Neuauflage 2017 noch durchweg zweistellige Marktanteile in der Zielgruppe.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Verbraucherschutzverein geht gegen Sky, Netflix und Apple TV vor",
-          "link": "https://www.dwdl.de/nachrichten/107857/verbraucherschutzverein_geht_gegen_sky_netflix_und_apple_tv_vor/",
-          "summary": "Der österreichische Verbraucherschutzverein VSV hat Verbandsklagen gegen Netflix, Apple TV und den Sky-Streamer Wow angekündigt, da diese Preiserhöhungen laufender Abos auf Basis von AGB-Klauseln ohne gesonderte Kundenzustimmung vorgenommen hätten. Der VSV strebt Rückzahlungen zwischen 200 und 700 Euro pro Kunde an und arbeitet dabei mit einer Berliner Kanzlei sowie einem Prozessfinanzierer zusammen, der im Erfolgsfall 9,9 Prozent des Erlöses erhält. Während Sky die Klage bestätigt und prüft, verweist Netflix darauf, dass die Klage noch nicht zugestellt wurde und widerspricht der Darstellung des VSV.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Comeback für Christian Rach: RTL bringt &quot;Rach, der Restauranttester&quot; zurück",
-          "link": "https://www.horizont.net/medien/nachrichten/comeback-fuer-christian-rach-rtl-bringt-rach-der-restauranttester-zurueck-235853?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "RTL belebt das Erfolgsformat \"Rach, der Restauranttester\" mit Christian Rach wieder, das in den frühen 2000ern zahlreiche ähnliche TV-Sendungen zum Testen und Retten von Restaurants inspirierte. Der genaue Sendetermin und weitere Details zur Neuauflage gehen aus dem Artikel nicht hervor.",
+          "title": "Entwarnung: Keine klassische Werbung im Premium-Abo von Disney+",
+          "link": "https://www.dwdl.de/nachrichten/107872/entwarnung_keine_klassische_werbung_im_premiumabo_von_disney/",
+          "summary": "Eine missverständlich formulierte Aktualisierung der Disney+-Nutzungsbedingungen sorgte für Berichte, wonach künftig auch in den werbefreien Tarifen Standard und Premium Werbung gezeigt werde. Disney stellt jedoch klar, dass sich für Abonnenten werbefreier Optionen nichts ändert – gemeint seien lediglich Sponsoring bei Live-Sport sowie Trailer zu Disney-Eigenproduktionen, die bereits zuvor eingesetzt wurden. Klassische Werbung externer Marken bleibt somit dem Tarif „Standard mit Werbung“ vorbehalten.",
           "score": 8
         },
         {
           "source": "Horizont Medien",
-          "title": "Line Extension: &quot;Sportschau&quot; bekommt einen Unterhaltungs-Ableger",
-          "link": "https://www.horizont.net/medien/nachrichten/line-extension-sportschau-bekommt-einen-unterhaltungs-ableger-235844?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die ARD erweitert ihre etablierte Marke \"Sportschau\" um einen unterhaltungsorientierten Ableger namens \"Sportschau tonight\", moderiert von Alexander Schlüter und Benni Zander. Das neue Format wird von der Produktionsfirma Crunchtime Studios der beiden Moderatoren realisiert und positioniert sich als Sport-Unterhaltungssendung.",
+          "title": "TV-Krise: RTL Deutschland und Sky streichen rund 500 Stellen",
+          "link": "https://www.horizont.net/medien/nachrichten/tv-krise-rtl-deutschland-und-sky-streichen-rund-500-stellen-235876?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "RTL Deutschland und Sky wollen nach ihrem Zusammenschluss bis Ende 2027 rund 500 Stellen abbauen, wobei der Großteil des Stellenabbaus bereits im Jahr 2026 erfolgen soll. Die Maßnahme verdeutlicht den anhaltenden Konsolidierungs- und Kostendruck in der deutschen TV-Branche.",
+          "score": 9
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Wegen Preiserhöhungen: Verbraucherschutzverein reicht Klage gegen Netflix, Apple TV und Wow ein",
+          "link": "https://www.horizont.net/medien/nachrichten/wegen-preiserhoehungen-verbraucherschutzverein-reicht-klage-gegen-netflix-apple-tv-und-wow-ein-235830?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der Verbraucherschutzverein VSV hat in Deutschland drei Verbandsklagen gegen die Streaming-Anbieter Netflix, Apple TV und Wow (Sky) eingereicht. Die Klagen richten sich gegen aus Sicht des Vereins unrechtmäßige Preiserhöhungen, die die Dienste in regelmäßigen Abständen vornehmen.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "RTL/Sky-Fusion kostet 500 weitere Stellen",
+          "link": "https://kress.de/news/beitrag/156408-rtl-sky-fusion-kostet-500-weitere-stellen-gesamtabbau-bei-1-100.html",
+          "summary": "Im Zuge der Fusion von RTL Deutschland und Sky Deutschland sollen bis Ende 2027 rund 500 weitere Vollzeitstellen wegfallen – der überwiegende Teil bereits 2026 –, wodurch sich der Gesamtabbau zusammen mit den bereits Ende 2025 gestrichenen 600 Stellen auf etwa 1.100 Arbeitsplätze summiert. Grund ist der Wegfall von Doppelstrukturen, wobei diesmal erstmals auch Sky in ähnlichem Umfang betroffen ist. RTL-Chef Stephan Schmitter kündigte einen sozialverträglichen Abbau ohne betriebsbedingte Kündigungen an, gestützt auf ein Freiwilligenprogramm mit Abfindungen sowie nicht nachbesetzte und",
           "score": 8
         },
         {
           "source": "meedia",
-          "title": "“Sportschau Tonight” werde zunächst “vorrangig” für die ARD-Mediathek produziert, so ihre Ankündigung.",
-          "link": "https://meedia.de/news/beitrag/25064-produktionsfirma-kuendigt-ard-show-quot-sportschau-tonight-quot-an.html",
-          "summary": "Die Moderatoren Alexander Schlüter und Benni Zander produzieren mit ihrer Firma Crunchtime Studios den auf Unterhaltung ausgerichteten „Sportschau“-Ableger „Sportschau Tonight“ für die ARD, der als etwa 90-minütige Mischung aus Talk und Spiel mit jeweils einem prominenten Gast konzipiert ist. Die Show wird zunächst vorrangig für die ARD-Mediathek produziert; eine lineare Ausstrahlung sowie der Starttermin stehen laut ARD noch nicht fest.",
+          "title": "100 RTL/Sky-Fusion kostet 500 weitere Stellen RTL-Chef Stephan Schmitter informierte die Belegschaft am Donnerstag über einen weiteren Stellenabbau.",
+          "link": "https://meedia.de/news/beitrag/25080-rtl-sky-fusion-kostet-500-weitere-stellen.html",
+          "summary": "Im Zuge der geplanten Fusion von RTL Deutschland und Sky Deutschland werden bis Ende 2027 rund 500 weitere Vollzeitstellen (Vollzeitäquivalente) abgebaut, wobei erstmals auch Sky-Mitarbeitende in ähnlichem Umfang betroffen sind. Zusammen mit dem bereits Ende 2025 erfolgten Abbau von etwa 600 Stellen summieren sich die Streichungen damit auf insgesamt rund 1.100 Stellen. Das Unternehmen strebt einen sozialverträglichen Abbau über auslaufende Verträge, unbesetzte Stellen und ein Freiwilligenprogramm mit Abfindungen an, um betriebsbedingte Kündigungen zu vermeiden.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Audio-Einsatz für den ZDF-\"Bergdoktor\" Raab Entertainment startet eine Podcast-Reihe mit Hans Sigl Das von Stefan Raab und Daniel Rosemann geführte Produktionsunternehmen Raab Entertainment, hauptsächlich mit Raabs RTL-Shows wie “Jet Ski WM” dick im Geschäft, baut sein Podcast-Portfolio aus: Unter der Marke Re*play startet das Unternehmen den neuen Podcast „Betreff Leben",
+          "link": "https://meedia.de/news/beitrag/25078-raab-entertainment-startet-eine-podcast-reihe-mit-hans-sigl.html",
+          "summary": "Raab Entertainment erweitert unter seiner Marke Re*play das Podcast-Portfolio um das wöchentliche Format „Betreff Leben – die Sprechstunde mit Hans Sigl“, das immer mittwochs erscheint. Der als „Bergdoktor“ bekannte ZDF-Schauspieler verbindet dabei persönliche Promi-Gespräche mit Community-Interaktion, indem Hörerinnen und Hörer eigene Fragen und Themen einreichen können. Das Konzept setzt bewusst auf tiefergehende, persönliche Einblicke statt auf klassische Promi-Interviews.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Die Nielsen-Bilanz Januar bis August Deutscher Werbemarkt: Fernsehsender bleiben deutlich unter...",
+          "link": "https://meedia.de/news/beitrag/25074-deutscher-werbemarkt-fernsehsender-bleiben-deutlich-unter-vorjahr-online-und-out-of-home-wachsen.html",
+          "summary": "Der deutsche TV-Werbemarkt bleibt im August mit brutto 977,0 Millionen Euro 4,9 Prozent unter dem Vorjahresmonat und liegt im Gesamtjahr 2,3 Prozent im Minus – erstmals ohne die zuvor angeführte WM-Begründung. Während das lineare Fernsehen trotz weiterhin höchstem Marktanteil rückläufig ist, verzeichnen Online-Vermarkter, Out-of-Home und Kino deutliche Zuwächse, sodass der Gesamtmarkt mit brutto 2,39 Milliarden Euro noch ein leichtes Plus von 0,9 Prozent erzielt.",
+          "score": 9
+        },
+        {
+          "source": "meedia",
+          "title": "TV-Quoten & Streaming-Charts ZDF punktet mit \"XY gelöst\", RTL mit Bayer Leverkusen und Disney+ mit...",
+          "link": "https://meedia.de/news/beitrag/25070-zdf-punktet-mit-quot-xy-geloest-quot-rtl-mit-bayer-leverkusen-und-disney-mit-quot-city-of-blood-quot.html",
+          "summary": "Am Mittwochabend dominierte das ZDF die Prime-Time mit der True-Crime-Reihe \"XY gelöst\", die mit bis zu 3,68 Millionen Zuschauern und Marktanteilen von 16,6 bzw. 18,1 Prozent klar vorne lag. RTL erzielte mit dem Europa-League-Auftakt von Bayer Leverkusen gegen NK Celje solide 10,8 Prozent (2,17 Millionen), verlor in der zweiten Halbzeit jedoch Zuschauer. Im Streaming stieg die Serie \"City of Blood\" direkt auf Platz 1 der Disney+-Charts ein.",
+          "score": 9
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Sky closes in on broadcast rights for first women’s British & Irish Lions tour",
+          "link": "https://www.theguardian.com/sport/2026/sep/16/womens-rugby-union-sky-broadcast-rights-first-british-irish-lions-tour",
+          "summary": "Sky Sports steht kurz vor dem Erwerb der Live-Übertragungsrechte für die erste Frauen-Tour der British & Irish Lions, die im September 2027 mit fünf Spielen (drei Tests gegen die Black Ferns plus zwei Tourspiele) in Neuseeland stattfindet. Der Sender hält bereits seit 1997 die Rechte an den Männer-Lions und verhandelt zudem über eine Vertragsverlängerung für die Männer-Tour 2029. Der Einstieg gilt als wichtiger Impuls für den Frauensport, insbesondere vor dem Hintergrund der Kritik am eingeschränkten BBC-Coverage der Red-Roses-Heimspiele.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Dhar Mann, Sean Atkins Set For MIPCOM’s First-Ever Pre-Opening Keynote",
+          "link": "https://deadline.com/2026/09/dhar-mann-studios-sean-atkins-mipcom-cannes-appearance-1237106226/",
+          "summary": "Digital-Produzent Dhar Mann und Sean Atkins, CEO von Dhar Mann Studios, halten am 11. Oktober die erste Pre-Opening-Keynote in der Geschichte der MIPCOM Cannes und erläutern das Modell eines audience-first Creator-Business. Dhar Mann Studios verfügt über 170 Millionen Follower und 300 Millionen wöchentliche Views sowie Partnerschaften mit Disney, Fox Entertainment und Marken wie der NFL und Microsoft. Der Auftritt unterstreicht die wachsende Konvergenz zwischen Creator-Ökonomie und traditioneller Entertainment-Branche.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Roku Adds 30 New Bundles To Premium Subscriptions, Offering Combos With AMC+, Fox One, Starz & More",
+          "link": "https://deadline.com/2026/09/roku-adds-30-new-streaming-bundles-1237105830/",
+          "summary": "Roku erweitert seine Premium Subscriptions erstmals um 30 anpassbare Bundle-Kombinationen (u.a. AMC+, Fox One, Starz) in den USA und zwei in Mexiko, die Einsparungen von bis zu 30 % gegenüber Einzelabos bieten. Laut Antenna-Daten sind 76 % der Premium-Subscription-Anmeldungen inkrementell und 98 % der Abonnenten neu für den jeweiligen Dienst. Der Vorstoß erfolgt parallel zum branchenweiten Bundling-Trend und der geplanten 22-Milliarden-Dollar-Übernahme von Roku durch Fox Corp., die in der ersten Hälfte 2027 abgeschlossen werden soll.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "The Old & New Hollywood Guard Wielding AI’s Might",
+          "link": "https://variety.com/2026/film/news/ai-hollywood-particle-6-higgsfield-innovative-runway-1236865085/",
+          "summary": "Der Variety-Artikel porträtiert 10 Unternehmen – etablierte Branchengrößen wie Netflix (das Ben Afflecks Start-up InterPositive übernahm), Amazon MGM und Lionsgate ebenso wie neue, disruptive Player –, die KI-Technologie in praxistaugliche Werkzeuge für die Filmindustrie verwandeln wollen. Im Fokus stehen konkrete Anwendungsfälle, die Kreative in der Kontrolle halten und Urheberrechte respektieren, während die Branche weiterhin zwischen KI-Befürwortern und Skeptikern gespalten bleibt, die eine „Cinema-Illiteracy“ und die Verdrängung menschlicher Arbeit befürchten.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "‘Tyson’ Trailer: Mike Tyson Chronicles His Journey From Dropout to Heavyweight Champion in Netflix Docuseries",
+          "link": "https://variety.com/2026/tv/news/mike-tyson-trailer-netflix-docuseries-1236865087/",
+          "summary": "Netflix veröffentlichte den Trailer zur vierteiligen Doku-Serie „Tyson“, die ab dem 13. Oktober den Werdegang des Boxlegende Mike Tyson vom chaotischen Aufwachsen in Brooklyn bis zum jüngsten Schwergewichts-Champion sowie seinen Aufstieg, Fall und seine Rückkehr nachzeichnet. Ergänzend startet am 3. November das Comedy-Special „Mike Tyson: Return of the Mike“, in dem sich Tyson als überraschend humorvoller One-Man-Show-Performer präsentiert.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "BBC, Bobby Prod, Folivari, Gao Shan Pictures Honored by Europe’s Animation Industry at Cartoon Forum",
+          "link": "https://variety.com/2026/tv/markets-festivals/bbc-bobby-prod-folivari-gao-shan-cartoon-forum-2026-1236863982/",
+          "summary": "Beim Cartoon Forum in Toulouse zeichnete Europas Animationsbranche mit den diesjährigen Cartoon Tributes die BBC (Broadcaster), einen Investor/Distributor sowie Bobby Prod aus Frankreich als Producer of the Year für die Social-Media-basierte, mit ARTE France koproduzierte Serie „The Broos“ aus. Erstmals wurde zudem der neue Ecoprod Cartoon Tribute vergeben, den Gao Shan Pictures für sein Engagement für Nachhaltigkeit in der Animation erhielt.",
           "score": 7
         }
       ]
