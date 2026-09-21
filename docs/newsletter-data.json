@@ -1,49 +1,140 @@
 {
   "newsletters": [
     {
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "articles": [
         {
+          "source": "DWDL",
+          "title": "PROG fordert vom ZDF mehr Transparenz bei Auftragsvergabe",
+          "link": "https://www.dwdl.de/nachrichten/107927/prog_fordert_vom_zdf_mehr_transparenz_bei_auftragsvergabe/",
+          "summary": "Der Produzentenverband PROG Producers of Germany fordert das ZDF zu mehr Transparenz bei der Auftragsvergabe an seine Sendertöchter auf, da der bisherige Auftragsvergabebericht nicht nach Formaten oder Sendeplätzen differenziert. Konkret sei damit nicht überprüfbar, ob die ZDF-eigene Regel, weniger als ein Drittel der Beauftragungen und Lizenzen an verbundene Unternehmen zu vergeben, in den Bereichen Fiktion und Dokumentarfilm eingehalten wird. PROG-Geschäftsführerin Julia Maier-Hauff beklagt eine Verschiebung der Vergabepraxis zulasten unabhängiger Produzent*innen und fordert im Sinne einer faktenbasierten Debatte die Aufarbe",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Nacht von Paris\" und \"Nürnberg 45\" erhalten den Blauen Panther",
+          "link": "https://www.dwdl.de/nachrichten/107917/nacht_von_paris_und_nuernberg_45_erhalten_den_blauen_panther/",
+          "summary": "Die Sky-Dokumentation \"Die Nacht von Paris – Terror am Stade de France\" (Leonine Documentaries) erhält den Blauen Panther als bester Dokumentarfilm; ausgezeichnet werden Markus Brauckmann (Drehbuch) und Christian Twente (Regie). In der Kategorie \"Bestes Dokumentationsdrama\" gewinnen Michael Souvignier und Till Derenbach für die ARD-Produktion \"Nürnberg 45 – Im Angesicht des Bösen\" (Zeitsprung Pictures in Koproduktion mit Spiegel TV). Beide Werke setzen sich laut Jury auf eindringliche Weise mit dem Terrorismus der Gegenwart bzw. der NS-Terrorherrschaft auseinander.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Werbemärkte im Wandel: Was die 12. GWB-Novelle für Kooperationen im Rundunk bedeuten könnte",
+          "link": "https://www.horizont.net/medien/kommentare/werbemaerkte-im-wandel-was-die-12.-gwb-novellefuer-kooperationen-im-rundunk-bedeuten-koennte-235893?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die 12. GWB-Novelle könnte künftig Kooperationen im deutschen Rundfunkbereich erleichtern, die aufgrund der aktuellen kartellrechtlichen Rahmenbedingungen für Fernsehen und Hörfunk bislang schwierig umzusetzen sind. In einem Gastbeitrag erläutert Simon Schmauder, Rechtsanwalt und Partner bei BRP RENAUD in Stuttgart, die geltende Rechtslage sowie die möglichen Änderungen durch die Novelle.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "AGF-Forum 2026: Digital Omnibus, Adfraud, RTL-Stellenabbau: Es geht ans Eingemachte",
+          "link": "https://www.horizont.net/medien/nachrichten/agf-forum-2026-digital-omnibus-adfraud-rtl-stellenabbau-es-geht-ans-eingemachte-235900?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Das AGF-Forum 2026 in Frankfurt widmete sich Zukunftsfragen der Reichweitenmessung und Medienvielfalt, während RTL Deutschland zeitgleich den Abbau von weiteren 500 Stellen ankündigte. Beide Ereignisse verdeutlichen die zunehmend enger werdenden wirtschaftlichen Spielräume in der Medienbranche. Weitere Schwerpunkte der Diskussion waren regulatorische Themen wie der Digital Omnibus sowie die Problematik von Adfraud.",
+          "score": 9
+        },
+        {
+          "source": "kress",
+          "title": "ZDF Magazin Royale endet",
+          "link": "https://kress.de/news/beitrag/156413-zdf-magazin-royale-endet-boehmermann-will-quot-noch-mal-eine-andere-sendung-machen-quot.html",
+          "summary": "Das ZDF beendet das \"ZDF Magazin Royale\" zum Jahresende nach über sechs Jahren und 187 Sendungen, da Jan Böhmermann laut eigener Aussage \"noch mal eine andere Sendung machen\" möchte. Der Sender bestätigt laufende Gespräche über ein neues Show-Konzept und betont den Willen zur Fortsetzung der Zusammenarbeit. Damit setzt sich die Entwicklung von Böhmermanns Formaten fort, die 2013 als \"Neo Magazin\" begann und 2020 ins Hauptprogramm wechselte.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Trio tritt am 1. Januar an Das Führungsteam von Holtzbrinck Media steht “Handelsblatt”, “Tagesspiegel” und DvH Medien wachsen bekanntlich zur neuen Holtzbrinck Media zusammen",
+          "link": "https://meedia.de/news/beitrag/25099-das-fuehrungsteam-von-holtzbrinck-media-steht.html",
+          "summary": "Zum 1. Januar 2027 übernehmen Andrea Wasmuth (Vorsitz), Sebastian Christensen und Stefan Buhr die Geschäftsführung der neuen Holtzbrinck Media, in der Handelsblatt Media Group, Tagesspiegel-Gruppe und DvH Medien aufgehen. Im Zuge der Fusion verlässt der bisherige Tagesspiegel-Geschäftsführer Nicolas Köhn das Unternehmen zum Jahresende, unter dessen Führung der Titel seine Digitaltransformation vorantrieb und die Tagesspiegel-Plus-Abos von rund 30.000 auf über 50.000 steigerte.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Agent-to-Agent-Kommunikation BCN und PubMatic verbinden Publisher-Signale direkt mit Programmatic-Deals BCN stellt zur DMEXCO den „Signals Agent“ vor.",
+          "link": "https://meedia.de/news/beitrag/25095-bcn-und-pubmatic-verbinden-publisher-signale-direkt-mit-programmatic-deals.html",
+          "summary": "BCN präsentiert zur DMEXCO den KI-gestützten „Signals Agent“, der über 1.500 Audience- und Kontextsignale aus einem Publisher-Netzwerk mit mehr als 80 Millionen consentbasierten Profilen per natürlicher Sprache zugänglich macht. In Kooperation mit PubMatic lassen sich ausgewählte Signale über Agent-to-Agent-Kommunikation innerhalb weniger Minuten direkt in buchbare Programmatic Deals überführen. Mehr als die Hälfte der Signale basiert auf datenschutzkonformen deterministischen IDs und verknüpft so KI-Prozesse mit First-Party-Daten.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "The Guardian view on the last instalment of the Seven Up! series: growing up in public | Editorial",
+          "link": "https://www.theguardian.com/commentisfree/2026/sep/20/the-guardian-view-on-the-last-instalment-of-the-seven-up-series-growing-up-in-public",
+          "summary": "Die britische Dokumentarreihe „Seven Up!“, die seit 1963 die Lebenswege von 14 Kindern in Sieben-Jahres-Intervallen begleitet, findet mit „70 Up“ auf ITV ihren Abschluss. Ursprünglich als Kritik am britischen Klassensystem konzipiert, entwickelte sich das Format zu einer bewegenden Studie über das Leben selbst, wirft jedoch schwierige ethische Fragen zum langfristigen Dokumentieren realer Personen auf.",
+          "score": 8
+        },
+        {
           "source": "Deadline",
-          "title": "Mark Ruffalo Urges AG Bonta “Do Not Cave” On Paramount Deal, Suggests Protest Outside Oakland Office: “The People Don’t Want It!”",
-          "link": "https://deadline.com/2026/09/mark-ruffalo-urges-ag-bonta-do-not-cave-paramount-deal-1237108548/",
-          "summary": "Schauspieler Mark Ruffalo übt öffentlich Druck auf den kalifornischen Attorney General Rob Bonta aus, den mit dem Ellison-geführten Paramount verhandelten Vergleich im Rahmen der Warner-Bros.-Discovery-Fusion abzulehnen, und verweist dabei auf über 75.000 Unterschriften sowie 5.670 Filmemacher gegen den Deal. Ruffalo ruft zudem zu einer Protestaktion vor Bontas Büro in Oakland auf, da er befürchtet, der AG könnte vor der für März 2027 angesetzten Kartellrechtsverhandlung nachgeben. Die Auseinandersetzung ist Teil eines breiteren Widerstands, dem sich auch Senatorin Elizabeth Warren angeschlossen hat.",
+          "title": "Done! Paramount Settles Antitrust Suit, Set To Seal Deal For Warner Bros. Discovery",
+          "link": "https://deadline.com/2026/09/paramount-settles-antitrust-suit-to-seal-warner-bros-deal-1237109223/",
+          "summary": "Paramount hat einen von zwölf Generalstaatsanwälten unter Führung Kaliforniens angeführten Kartellrechtsstreit beigelegt und damit das letzte Hindernis für die Übernahme von Warner Bros. Discovery zu 31 US-Dollar je Aktie ausgeräumt. Die Einigung umfasst Zugeständnisse wie CNN-Schutzmechanismen, Vertragsstrafen bezüglich CEO David Ellisons Zusage von 30 Filmen jährlich sowie eine zeitweise Trennung der Studios – ohne dass Kabelnetze verkauft werden müssen. Nach der Nachricht stiegen die Paramount-Aktien um 9 % und die von WBD um 10 %.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Parasite’ Producer Barunson E&A Launches Sales On Indonesian Adaptation Of ‘Descendants Of The Sun’",
+          "link": "https://deadline.com/2026/09/descendants-of-the-sun-reza-dian-parasite-barunson-ea-1237109068/",
+          "summary": "Der südkoreanische Produzent Barunson E&A („Parasite\") startet auf dem Asian Contents & Film Market in Busan den internationalen Vertrieb der zweiteiligen indonesischen Kinoadaption des Korea-Wave-Klassikers „Descendants Of The Sun\" mit den Stars Reza Rahadian und Dian Sastrowardoyo. Die von Regisseur Hanung Bramantyo inszenierte Verfilmung verlegt die Romanze in einen indonesischen Kontext; Teil eins ist für die erste Jahreshälfte 2027 als Kinostart in Indonesien geplant. Das Projekt markiert zugleich das zehnjährige Jubiläum der Originalserie, die weltweit in über 30 Länder verkauft wurde und in China mehr als 2 Milliarden Views erzielte.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Networks Halt TV Pool Coverage Of Trump In Protest Of President’s Ban On CNN",
+          "link": "https://deadline.com/2026/09/trump-white-house-ban-network-pool-boycott-1237109198/",
+          "summary": "Als Reaktion auf Trumps Ban gegen CNN, Politico und MS NOW vom White-House-Zugang haben die fünf großen TV-Pool-Netzwerke (CNN, Fox News, ABC, NBC, CBS) die TV-Poolberichterstattung über den Präsidenten ausgesetzt, solange die Restriktionen bestehen. Der Boykott fällt zeitlich mit wichtigen Terminen zusammen, darunter Trumps UN-Generalversammlungsrede und ein Staatsbesuch des chinesischen Präsidenten Xi Jinping. CNN, MS NOW und Politico kündigten zudem an, gegen den Ban rechtlich vorzugehen.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "BBC Drama ‘Ministry Of Time’ Adds Adeel Akhtar, Ciaran Hinds & Eight More To Cast",
+          "link": "https://deadline.com/2026/09/ministry-of-time-akhtar-ciaran-hinds-more-cast-bbc-a24-1237109124/",
+          "summary": "Die A24-Produktion \"Ministry of Time\" für BBC iPlayer und BBC One erweitert ihre Besetzung um zehn Darsteller, darunter BAFTA-Gewinner Adeel Akhtar und Oscar-Nominierten Ciarán Hinds, die neben Aoife Hinds und Billy Howle spielen. Die sechsteilige Serie basiert auf Kaliane Bradleys gleichnamigem Debütroman, wird von Alice Birch (\"Normal People\") adaptiert und von Aneil Karia (\"Top Boy\") als leitendem Regisseur inszeniert. Die Handlung folgt einer über Jahrhunderte reichenden verbotenen Liebesgeschichte, die durch die düsteren wahren Absichten des Ministeriums bedroht wird.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘Ride Or Die’ Canceled By Prime Video After One Season, Being Shopped By Paramount TV Studios",
-          "link": "https://deadline.com/2026/09/ride-or-die-canceled-prime-video-shopped-1237108506/",
-          "summary": "Prime Video hat die Buddy-Spy-Comedy \"Ride Or Die\" mit Hannah Waddingham und Octavia Spencer trotz starker Zuschauerzahlen überraschend nach nur einer Staffel abgesetzt – die Serie hatte bei ihrem Start im Juli 2026 Platz 1 der US-Charts erreicht und übertraf mit 927.000 Views die anderen Sommer-Titel des Senders deutlich. Lead-Studio Paramount Television Studios bietet die Serie nun anderen Käufern an. Bemerkenswert ist, dass Amazon deutlich weniger Marketingbudget in den Titel investierte als in seine parallel gestartete und komplett verlängerte YA-Sommerreihe.",
+          "title": "Eagle Eye Drama Acquires ‘The Great Dictator’, Matthew Sweet’s Biography Of Barbara Cartland",
+          "link": "https://deadline.com/2026/09/barbara-cartland-biography-tv-adaptation-eagle-eye-drama-1237109132/",
+          "summary": "Eagle Eye Drama, ein Tochterunternehmen von ITV Studios, hat die Adaptionsrechte an Matthew Sweets Biografie „The Great Dictator“ über die exzentrische Bestsellerautorin Dame Barbara Cartland erworben und plant eine Scripted-Serie. Sweet, Co-Autor der Serie „Bookish“, erhielt für sein bei Hodder & Stoughton erschienenes Werk umfassenden Zugang zum Familienarchiv der als „Queen of Romance“ bekannten Cartland, deren Romane weltweit fast eine Milliarde Mal verkauft wurden. Laut Eagle-Eye-CCO Jo McGrath bietet die zwiespältig wahrgenommene Autorin – zugleich Stiefgroßmutter von Prinzessin Diana – eine ideale",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Block The Merger & Elizabeth Warren Call Out AGs For Betrayal In Deal Talks With Paramount: “A Win Only For David Ellison”",
-          "link": "https://deadline.com/2026/09/paramount-settlement-opposition-1237108466/",
-          "summary": "Senator Elizabeth Warren und die Aktivistengruppe \"Block the Merger\" kritisieren scharf die laufenden Vergleichsverhandlungen zwischen Paramount, einer Koalition von Generalstaatsanwälten (angeführt von Kaliforniens Rob Bonta) und der Writers Guild of America zur Beendigung des Kartellverfahrens gegen die 111-Milliarden-Dollar-Fusion mit Warner Bros Discovery. Die Gegner bezeichnen einen möglichen Deal – der Garantien zur redaktionellen Unabhängigkeit von CNN, Verkäufe und Arbeitsplatzzusagen umfassen könnte – als \"nicht durchsetzbare Zugeständnisse\" und Sieg allein für Paramount-Chef David Ellison. Ein erfolgreicher Vergle",
-          "score": 7
+          "title": "Paramount Settlement Talks Prospects Dim For Now As Gang Of Four AGs Resist Quick Ellison Deal",
+          "link": "https://deadline.com/2026/09/paramount-settlement-latest-opposition-bonta-1237109024/",
+          "summary": "Vier der zwölf klagenden Bundesstaaten – angeführt von Minnesotas AG Keith Ellison sowie New Yorks Letitia James, Connecticuts William Tong und Washingtons Nick Brown – stellen sich gegen die von Kaliforniens AG Rob Bonta favorisierte schnelle Beilegung der Kartellklage gegen Paramounts 111-Milliarden-Dollar-Übernahme von Warner Bros Discovery. Die „Gang of Four\" hält die bisherigen Vergleichsbedingungen für „zu nachgiebig gegenüber Paramount\" und fordert, sich nicht durch Drohungen eines möglichen Abzugs aus Kalifornien unter Druck setzen zu lassen. Vor dem Hintergrund wachsenden politischen und öffentlichen Widerstands – auch von Pr",
+          "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Mark Ruffalo Urges California AG to Not Settle Antitrust Suit Against Paramount-Warner Bros. Merger: “Do Not Cave”",
-          "link": "https://www.hollywoodreporter.com/business/business-news/mark-ruffalo-urges-california-ag-to-not-settle-antitrust-suit-against-paramount-warner-bros-merger-do-not-cave-1236706258/",
-          "summary": "Schauspieler Mark Ruffalo fordert den kalifornischen Generalstaatsanwalt Rob Bonta öffentlich auf, die von 12 Bundesstaaten geführte Kartellklage gegen die Übernahme von Warner Bros. Discovery durch Paramount nicht per Vergleich beizulegen. Laut Wall Street Journal stehen Paramount und die Bundesstaaten kurz vor einer Einigung, während Ruffalo unter Verweis auf über 75.000 Unterzeichner einer Petition sowie 5.670 Filmemacher zum Widerstand gegen den Deal aufruft. Der Schauspieler hatte sich bereits zuvor bei einer Senatsanhörung und in einem offenen Brief gegen die Fusion positioniert.",
+          "title": "There’s a Deal, Now It’s All About the Details. Paramount, 12 States to Settle Warner Bros. Fight",
+          "link": "https://www.hollywoodreporter.com/business/business-news/paramount-antitrust-suit-settlement-deal-state-ags-warners-1236704473/",
+          "summary": "Paramount Skydance und die von Kaliforniens Generalstaatsanwalt Rob Bonta angeführten 12 Bundesstaaten haben sich im Kartellrechtsstreit um die 111-Milliarden-Dollar-Übernahme von Warner Bros. Discovery auf einen Vergleich geeinigt, der die offizielle Bekanntgabe am Montag erwarten lässt. Die Einigung ermöglicht Paramount den Abschluss des Deals innerhalb der nächsten rund zehn Tage und vermeidet damit die ab dem 1. Oktober anfallende Strafgebühr von 7 Millionen Dollar täglich. Vorausgegangen waren monatelange öffentliche Auseinandersetzungen, darunter Abwanderungsdrohungen Kaliforniens sowie Klagen der Writers Guild of America",
+          "score": 9
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "“It Fills Me With Pride”: How the Basque Country Is Nurturing Its Next Generation of Filmmakers",
+          "link": "https://www.hollywoodreporter.com/movies/movie-features/basque-films-san-sebastian-javier-giner-nitya-harvester-tv-1236706458/",
+          "summary": "Das Baskenland hat sich durch massive Steueranreize (60 Prozent Rückerstattung, 70 Prozent für Produktionen in baskischer Sprache) zu einem florierenden Filmstandort entwickelt, was sich in rekordverdächtigen 45 Goya-Nominierungen und 31 baskischen Titeln beim 74. Filmfestival von San Sebastián widerspiegelt. Um diesen Erfolg langfristig zu sichern, investiert die Region gezielt in die Förderung von Nachwuchstalenten, wie etwa Nitya López Saitua mit ihrem Debütfilm „Family Drill“. Zwölf der gezeigten Titel sind Dokumentarfilme, was einen bedeutenden Moment für das baskische Dokumentarfilmschaffen markiert.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Ready, SETT, Go: SETT Execs Drill Down on the Spanish Sovereign Venture Capital Fund That Will Drive Industry Conversation at San Sebastián",
-          "link": "https://variety.com/2026/tv/global/sett-javier-ponce-maria-coronado-how-sett-works-and-why-1236869707/",
-          "summary": "SETT, der staatliche Venture-Capital-Fonds des spanischen Ministeriums für digitale Transformation, steht mit einem Investitionsvolumen von 521 Millionen US-Dollar im Zentrum der Branchengespräche beim Filmfestival San Sebastián (18.–26. September). Der über den EU-Fonds Next Generation finanzierte Spain Audiovisual Hub Fund soll strategische Investitionen in die spanische Audiovisualbranche lenken, um Wachstum, Beschäftigung, Innovation und Talentförderung voranzutreiben sowie global wettbewerbsfähige Unternehmen aufzubauen.",
+          "title": "Reza Rahadian, Dian Sastrowardoyo Starrer ‘Descendants of the Sun’ Heads to Busan Market as Barunson E&A Launches Sales",
+          "link": "https://variety.com/2026/film/global/reza-rahadian-dian-sastrowardoyo-descendants-of-the-sun-busan-market-1236870902/",
+          "summary": "Barunson E&A, Produzent des Oscar-Gewinners „Parasite\", startet beim Asian Contents & Film Market in Busan (10.-13. Oktober) den internationalen Vertrieb der indonesischen Kinoadaption der koreanischen Erfolgsserie „Descendants of the Sun\" mit Reza Rahadian und Dian Sastrowardoyo in den Hauptrollen. Beide Teile des Films wurden bereits back-to-back abgedreht, wobei Teil eins einen indonesischen Kinostart Mitte 2027 anstrebt. Die Adaption erscheint zum zehnjährigen Jubiläum der Originalserie, die mit Einschaltquoten von 38,8 %, über zwei Milliarden Streams in China und Vertrieb in mehr als 30 Ländern maßgeblich zur globalen Verbre",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Mark Ruffalo Tells Rob Bonta ‘Don’t You Dare’ Settle the Antitrust Lawsuit Against Paramount: ‘Do Not Cave’",
-          "link": "https://variety.com/2026/film/news/mark-ruffalo-rob-bonta-dont-settle-lawsuit-paramount-1236869774/",
-          "summary": "Schauspieler Mark Ruffalo fordert den kalifornischen Generalstaatsanwalt Rob Bonta und dessen Koalition aus 11 weiteren Bundesstaaten öffentlich auf, die Antitrust-Klage gegen die geplante Übernahme von Warner Bros. Discovery durch Paramount Skydance (Wert: 111 Mrd. USD) nicht durch einen Vergleich beizulegen. Ruffalo verweist auf über 75.000 Unterschriften und rund 5.670 Filmemacher, die sich gegen den Deal positioniert haben, den das US-Justizministerium bereits im Juni genehmigte, der jedoch aufgrund der Klage aktuell auf Eis liegt.",
-          "score": 8
+          "title": "Paramount Settles Antitrust Case With State AGs, Removing Obstacle to Warner Bros. Deal",
+          "link": "https://variety.com/2026/film/news/paramount-warner-bros-merger-settlement-1236819465/",
+          "summary": "Paramount hat sich mit einer Koalition von 12 US-Bundesstaaten unter Führung des kalifornischen Generalstaatsanwalts Rob Bonta auf einen Vergleich geeinigt und damit ein zentrales Hindernis für die 111-Milliarden-Dollar-Übernahme von Warner Bros. Discovery – die größte Fusion der Hollywood-Geschichte – beseitigt. Die Einigung erfolgte kurz vor Beginn einer täglichen \"Ticking Fee\" von 7 Millionen Dollar am 1. Oktober und macht den für März 2027 angesetzten Kartellprozess hinfällig. Der Vergleich erfordert Berichten zufolge keine größeren Veräußerungen, umfasste jedoch Zusagen zu Paramounts Verbleib in Kalifornien, Produktion",
+          "score": 9
+        },
+        {
+          "source": "Variety",
+          "title": "Peter Krause’s ‘Line of Fire’ Is a Promising and Engaging NBC Procedural Drama: TV Review",
+          "link": "https://variety.com/2026/tv/reviews/line-of-fire-review-nbc-1236861470/",
+          "summary": "NBCs neue Procedural-Serie „Line of Fire\" von „Quantico\"-Schöpfer Joshua Safran, lose basierend auf den Erfahrungen von Executive Producer Jenna Bush Hager mit dem Secret Service, folgt der Familie Hollingsworth, deren Mitglieder in verschiedenen US-Strafverfolgungsbehörden arbeiten und dabei berufliche wie private Grenzen überschreiten. Mit Peter Krause und Hope Davis in den Hauptrollen kombiniert die zehnteilige erste Staffel intensive Familiendynamik mit fesselnden Fällen und einem Hauch von Soap-Elementen. Laut Variety-Kritikerin Aramide Tinubu hat die Serie das Potenzial, zu einem Klassiker des Genres zu werden.",
+          "score": 7
         }
       ]
     }
