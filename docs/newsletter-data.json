@@ -1,195 +1,181 @@
 {
   "newsletters": [
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "articles": [
         {
           "source": "DWDL",
-          "title": "\"Kein Selbstzweck\": UFA startet KI-Chatbot und will mehr eigene IPs",
-          "link": "https://www.dwdl.de/nachrichten/107924/kein_selbstzweck_ufa_startet_kichatbot_und_will_mehr_eigene_ips/",
-          "summary": "Die UFA hat ihren Chief-of-Staff Christian Rohde zum \"Chief Transformation & AI Officer\" befördert und eine dreistufige KI-Governance-Struktur (AI Board, AI-Team, AI Implementation Manager) etabliert. Zentrales Element ist der inhouse entwickelte Chatbot \"UFA Nova AI\", der Enterprise-Versionen gängiger Tools wie ChatGPT, Gemini und DeepL gruppenweit bündelt. Laut Rohde dient KI dabei nicht als Selbstzweck oder Geschäftsmodell, sondern der Prozessvereinfachung, Team-Entlastung und Erweiterung kreativer Spielräume – flankiert vom strategischen Ziel, mehr eigene IPs zu entwickeln.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "MIP London ist nach zwei Jahren schon wieder Geschichte",
-          "link": "https://www.dwdl.de/nachrichten/107954/mip_london_ist_nach_zwei_jahren_schon_wieder_geschichte/",
-          "summary": "Nach nur zwei Jahren stellt RX France die Fernsehmesse MIP London ein, da sie sich neben den etablierten London TV Screenings keine eigenständige Existenzberechtigung erarbeiten konnte – bereits zuvor war 2024 die traditionsreiche MIPTV in Cannes nach 61 Jahren beendet worden. Als Ersatz für den Frühjahrstermin plant RX France im März 2027 mit den \"MIP Talks\" ein reines Konferenzformat zu Branchentrends, das sich an die konzerneigene London Book Fair anlehnt und mit einer klassischen Fernsehmesse nichts mehr gemein hat.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Christian Sieh wird Head of AI Transformation bei der SHPG",
-          "link": "https://www.dwdl.de/nachrichten/107953/christian_sieh_wird_head_of_ai_transformation_bei_der_shpg/",
-          "summary": "Die Studio Hamburg Production Group (SHPG) schafft mit dem Geschäftsbereich AI Transformation eine neue Struktur zur Bündelung ihrer KI-Kompetenzen und beruft Christian Sieh zum Head of AI Transformation. Sieh, der seit Oktober 2025 bei der Riverside-Tochter AlwaysOn Production eine KI-Unit für KI-generierte Videoinhalte aufgebaut hat, soll den KI-Einsatz künftig über alle zwölf Produktionstöchter hinweg vorantreiben – mit dem Ziel, neben Effizienzsteigerung auch neue Produktionsmöglichkeiten und Geschäftsfelder zu erschließen. Seine bisherige Unit wird von Ari Flieger weitergeführt.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "MFE führt länderübergreifendes Werbe-Roadblocking ein",
-          "link": "https://www.dwdl.de/nachrichten/107941/mfe_fuehrt_laenderuebergreifendes_werberoadblocking_ein/",
-          "summary": "Media for Europe (MFE) erweitert sein bislang national angebotenes ALL21-Roadblocking zu einem länderübergreifenden Angebot namens „ALL21 Total Video Europe\", das synchronisierte Werbeblöcke um 21 Uhr über 24 Fernsehsender in Deutschland, Italien und Spanien ermöglicht. Ergänzt wird die lineare TV-Ausstrahlung durch Digitalvideo über Joyn (Deutschland) und Mediaset Infinity (Italien/Spanien), womit laut Konzern über 14 Millionen Menschen erreicht werden können. Der Schritt markiert MFEs Strategie zum Aufbau einer integrierten europäischen Werbeplattform und vertieft die Verzahnung von ProSiebenSat.1 mit dem Mutterkonzern.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Stephan Neumann wird Geschäftsführer von Flow Köln",
-          "link": "https://www.dwdl.de/nachrichten/107940/stephan_neumann_wird_geschaeftsfuehrer_von_flow_koeln/",
-          "summary": "Stephan Neumann, zuvor einer von drei Geschäftsführern bei Riverside Entertainment, wird zum 15. November Geschäftsführer der Flow Köln und übernimmt zugleich standortübergreifend die Leitung des Geschäftsbereichs Entertainment & Events. Mit der Verpflichtung des erfahrenen Show-Produzenten setzt die zuletzt stark gewachsene Flow Media Company auf weiteres Wachstum und die konsequent mehrkanalige, digitale Weiterentwicklung ihrer Entertainment-Formate.",
+          "title": "WDR Mediagroup und Bavaria Media bündeln Distribution",
+          "link": "https://www.dwdl.de/nachrichten/107972/wdr_mediagroup_und_bavaria_media_buendeln_distribution/",
+          "summary": "Die WDR Mediagroup und Bavaria Media bündeln ihre kommerziellen Verwertungsaktivitäten für Film- und TV-Rechte bei der ARD Plus GmbH, wobei Bavaria Media ihr Content-Distribution-Geschäft samt Rechtestock einbringt und im Gegenzug Anteile übernimmt – die Mehrheit bleibt aber bei der WDR Mediagroup. Die weiterhin von Ingo Vandré geleitete ARD Plus GmbH wird künftig mit den Bereichen \"Product & Channels\" und \"Distribution\" an den Standorten Köln und München agieren und neben dem Streaming-Geschäft verstärkt auf nationalen und internationalen Programmvertrieb sowie Koproduktionen setzen. Die Transaktion, für die bereits die kartellrechtlichen",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "\"Gravierendes Umsetzungsproblem\": VAUNET feiert und übt Kritik",
-          "link": "https://www.dwdl.de/nachrichten/107948/gravierendes_umsetzungsproblem_vaunet_feiert_und_uebt_kritik/",
-          "summary": "VAUNET-Vorstandsvorsitzender Claus Grewenig kritisierte beim Verbands-Get-together, dass private Medien trotz ihrer Rolle als Treiber der digitalen Transformation am Werbemarkt benachteiligt werden – 72 Prozent der digitalen Erlöse fließen laut Prognose an globale Big-Tech-Plattformen, während aktuelle Gesetzgebungsverfahren neue Belastungen statt Entlastung brächten. Adressiert wurde vor allem Medien-Staatssekretär Torsten Welling, der bei der Forderung nach erleichterten Medienfusionen Zustimmung signalisierte, während Grewenig beim Digitale-Medien-Staatsvertrag (DMStV) eine zügige und konsequente Umsetzung anmahnte.",
-          "score": 8
+          "title": "Starttermin für finale Staffel von \"Die Kaiserin\" steht fest",
+          "link": "https://www.dwdl.de/nachrichten/107969/starttermin_fuer_finale_staffel_von_die_kaiserin_steht_fest/",
+          "summary": "Netflix hat den Starttermin für die dritte und finale Staffel von \"Die Kaiserin\" auf den 12. November festgelegt, wobei Devrim Lingnau Islamoğlu und Philip Froissant erneut das Kaiserpaar verkörpern. Die international erfolgreiche Serie – Staffel zwei erreichte in 84 Ländern die Netflix-Top-10 und gewann einen International Emmy – wird weiterhin von Showrunnerin Katharina Eyssen verantwortet und von Sommerhaus Serien produziert. Inhaltlich fokussiert das Finale die kriselnde Ehe des Kaiserpaares nach Franz' Rückkehr aus dem Krieg gegen Napoleon.",
+          "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Blauer Panther für \"In höchster Not\" und \"Hunde-Mafia\"-Doku",
-          "link": "https://www.dwdl.de/nachrichten/107945/blauer_panther_fuer_in_hoechster_not_und_hundemafiadoku/",
-          "summary": "Beim Blauen Panther 2026 werden Franz Hinterbrandner und Max Reichel für die ARD-Reihe \"In höchster Not – Bergretter im Einsatz\" in der Kategorie \"Bestes Factual-Entertainment-Format\" ausgezeichnet; die Jury lobt insbesondere den Einsatz von Bodycams und 360-Grad-Kameras zur Erzeugung eines fesselnden Live-Gefühls. Den Preis für die beste investigative Leistung erhält Nathan Goldblat für die Dokuserie \"How to kill a puppy and get rich – Die Hunde-Mafia\", produziert mit Film Five für Joyn/ProSieben.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "HBO Max nun auch über die Deutsche Telekom buchbar",
-          "link": "https://www.dwdl.de/nachrichten/107942/hbo_max_nun_auch_ueber_die_deutsche_telekom_buchbar/",
-          "summary": "HBO Max ist ab sofort direkt über die TV-Plattform MagentaTV der Deutschen Telekom buchbar, wobei zum Start sechs Zubuchoptionen mit Laufzeiten zwischen einem Monat und einem Jahr angeboten werden. Der Launch erfolgt passend zum Start der deutschen Eigenproduktion \"4 Blocks Zero\" und wird durch anstehende Highlights wie die neue \"Harry Potter\"-Serie zu Weihnachten flankiert. Die Partnerschaft verbindet die Reichweite von MagentaTV mit dem Premium-Content von Warner Bros. Discovery und soll den Zugang zu HBO Max für mehr Kunden vereinfachen.",
+          "title": "Banijay macht erstmals \"Schlag den Star\" als Creator-Version",
+          "link": "https://www.dwdl.de/nachrichten/107960/banijay_macht_erstmals_schlag_den_star_als_creatorversion/",
+          "summary": "Banijay Germany bringt mit \"Schlag den Aaron\" erstmals eine Creator-Version des ProSieben-Formats \"Schlag den Star\", die am 26. Oktober zur TV-Primetime live auf YouTube und Twitch statt bei einem klassischen Sender ausgestrahlt wird. Angetreten sind Aaron Troschke und Marvin Wildhage gegen Zarbex und Max Schradin, produziert wird das Event weiterhin von Brainpool, während Banijay Media die Vermarktung mit brandbaren Einzelspielen übernimmt. Ziel ist es zudem, die Communities der Creator aktiv in die Show einzubinden.",
           "score": 10
         },
         {
           "source": "DWDL",
-          "title": "ARD und ZDF suchen nach Format für gesellschaftlichen Dialog",
-          "link": "https://www.dwdl.de/nachrichten/107943/ard_und_zdf_suchen_nach_format_fuer_gesellschaftlichen_dialog/",
-          "summary": "ZDFkultur und ARD Kultur haben eine gemeinsame Ausschreibung für ein non-fiktionales Streaming-Format gestartet, das gesellschaftliche Konfliktlinien, Polarisierung und Verständigungsräume mit Deutschlandbezug thematisiert und sich an die Zielgruppe der 25- bis 45-Jährigen richtet. Das Format soll partizipative Beteiligungs- und Dialogangebote sowie die Tools des Public Spaces Incubators integrieren, ohne den erzählerischen Kern zu ersetzen. Einreichungen sind bis zum 3. November möglich, die Entscheidung fällt im Dezember.",
-          "score": 8
+          "title": "VideoDays Festival diskutiert neue Medienökonomie in Köln",
+          "link": "https://www.dwdl.de/nachrichten/107959/videodays_festival_diskutiert_neue_medienoekonomie_in_koeln/",
+          "summary": "Das VideoDays Festival bringt am 29. Oktober rund 1.500 Content Creator*innen, Plattformen (u.a. YouTube, Meta, Snapchat, Substack), Medienhäuser und Marken im Kölner Palladium zusammen, um die Professionalisierung der Creator- und Community-Economy zu diskutieren. Im Fokus steht die Machtverschiebung von der klassischen Distribution hin zu communitygetriebener Relevanz mit Folgen für IP und Geschäftsmodelle – ein Trend, der zunehmend auch größere Medienhäuser anzieht. Neben Keynotes, Panels und einer Matchmaking Area werden bei der abendlichen VD Award Gala Creator*innen in 20 Kategorien sowie die beste Creator-Marken-Kooperation ausgezeichnet.",
+          "score": 9
         },
         {
           "source": "DWDL",
-          "title": "Max Ballauf macht Schluss: Ende einer \"Tatort\"-Ära",
-          "link": "https://www.dwdl.de/nachrichten/107935/max_ballauf_macht_schluss_ende_einer_tatortaera/",
-          "summary": "Klaus J. Behrendt beendet nach fast 30 Jahren seine Rolle als \"Tatort\"-Kommissar Max Ballauf und verabschiedet sich 2027 aus persönlichen Gründen mit der 100. Kölner Folge, die noch in diesem Jahr gedreht wird. Sein Partner Dietmar Bär bleibt dem Format als Freddy Schenk erhalten, wobei der WDR noch offenlässt, ob und wie die Rolle Ballaufs nachbesetzt wird.",
+          "title": "Zwei deutsche Produktionen für International Emmy nominiert",
+          "link": "https://www.dwdl.de/nachrichten/107958/zwei_deutsche_produktionen_fuer_international_emmy_nominiert/",
+          "summary": "Bei den International Emmys 2026 (64 Nominierungen in 16 Kategorien aus 22 Ländern) sind zwei deutsche Produktionen im Rennen: der Dokumentarfilm \"Der talentierte Mr. F\" (Neue Flimmer) in der Kategorie \"Arts Programming\" sowie die Kinder-Animationsserie \"Lenas Hof\" (Studio Film Bilder/Minya Film & Animation). Beide Produktionen wurden bereits in diesem Jahr in Marl ausgezeichnet – mit einem Grimme-Preis Spezial bzw. dem Publikumspreis der Marler Gruppe. Die meisten Nominierungen entfielen erneut auf Großbritannien (14).",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Sabrina Ilski pausiert ab sofort bei \"Deutschland am Morgen\"",
+          "link": "https://www.dwdl.de/nachrichten/107955/sabrina_ilski_pausiert_ab_sofort_bei_deutschland_am_morgen/",
+          "summary": "RTL-Moderatorin Sabrina Ilski (38) pausiert aufgrund ihrer Schwangerschaft und des damit verbundenen Nachtarbeitsverbots ab sofort beim Frühmagazin \"Deutschland am Morgen\", das sie seit dem Sendungsstart im Mai mit Jörg Boecker moderierte. Beim Format \"Punkt 12\" bleibt sie hingegen bis zum Beginn ihres Mutterschutzes vor und hinter der Kamera aktiv. Ihr zweites Kind wird für Anfang des kommenden Jahres erwartet.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Disney-Advertising-Chefin im Interview: Julia Schörner: &quot;Wir wollen der Vermarkter sein, mit dem man am liebsten zusammenarbeitet&quot;",
+          "link": "https://www.horizont.net/medien/nachrichten/disney-advertising-chefin-im-interview-julia-schoerner-wollen-der-vermarkter-sein-mit-dem-man-am-liebsten-zusammenarbeitet-235950?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Disney schließt mit dem Start der Werbevermarktung in Österreich noch in diesem Jahr die letzte Lücke in der DACH-Region. Vermarktungschefin Julia Schörner erläutert im Interview die strategische Bedeutung des Marktes und den Anspruch des Konzerns, sich als bevorzugter Vermarktungspartner zu positionieren.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "All21 Total Video Europe: Benvenuti in Europa: MFE startet länderübergreifendes Werbeformat",
-          "link": "https://www.horizont.net/medien/nachrichten/all21-total-video-europe-benvenuti-in-europa-mfe-startet-laenderuebergreifendes-werbeformat-235930?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Media For Europe (MFE) startet zur Dmexco mit \"All21 Total Video Europe\" ein länderübergreifendes Werbeformat, das Kunden gebündelten Zugriff auf TV- und Streaming-Reichweiten in Deutschland, Italien und Spanien ermöglicht. Rund ein Jahr nach der Übernahme von ProSiebenSat.1 macht MFE damit die versprochenen paneuropäischen Vermarktungssynergien konkret nutzbar.",
+          "title": "Dmexco 2026: Wie TV auch im KI-Zeitalter relevant bleiben will",
+          "link": "https://www.horizont.net/medien/nachrichten/dmexco-2026-wie-tv-auch-im-ki-zeitalter-relevant-bleiben-will-235964?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Auf der Future TV Stage der Dmexco 2026 stand die Frage im Mittelpunkt, wie das Fernsehen angesichts KI-getriebener digitaler Plattformen seine Relevanz im Werbemarkt behaupten kann. Die TV-Vermarkter setzten dabei neben klassischen Argumenten wie Reichweite und Relevanz vor allem auf neue datengetriebene Produkte sowie aktuelle Studienergebnisse zur Werbewirkung.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "de berichtete) bezieht Bertelsmann-Chef Thomas Rabe erstmals Stellung.",
+          "link": "https://kress.de/news/beitrag/156432-quot-wir-schneiden-nicht-in-die-substanz-quot-rabe-verteidigt-rtl-stellenabbau.html",
+          "summary": "Bertelsmann-Chef Thomas Rabe verteidigt im Handelsblatt den Abbau von 500 Stellen bei RTL und Sky als notwendige Maßnahme zum Abbau von Doppelstrukturen infolge des RTL-Sky-Deals und betont, dass dabei nicht in die Substanz geschnitten werde. Parallel treibt der Konzern seine Expansion voran: Die geplante Fusion der brasilianischen Bildungsanbieter Afya und Yduqs soll die Bildungssparte deutlich stärken und zu einem prognostizierten Konzernumsatz von 23 Milliarden Euro sowie einem Ergebnis von über vier Milliarden Euro beitragen. Rabe kündigte zudem ein bis zwei weitere größere Transaktionen an, wobei der Fokus auf einer Lösung",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Welt startet \"Hard Talk\" mit Gordon Repinski Strikt 25 Minuten, keine ausweichenden Antworten: Welt...",
+          "link": "https://kress.de/news/beitrag/156430-quot-ich-lasse-keine-floskeln-durchgehen-quot-welt-startet-quot-hard-talk-quot-mit-gordon-repinski.html",
+          "summary": "Der Nachrichtensender Welt startet mit \"Hard Talk mit Gordon Repinski\" ein neues, konfrontatives Interviewformat, das in strikt limitierten 25 Minuten Politik- und Wirtschaftsentscheider mit Widersprüchen und früheren Aussagen konfrontiert und über die Rubrik \"Klartext\" zu klaren Positionierungen zwingen soll. Die Auftaktsendung am 24. September 2026 hat den SPD-Fraktionsvorsitzenden Matthias Miersch zu Gast; moderiert wird das anlassbezogen ausgestrahlte Format von Repinski, der als International Political Anchor und Chief Political Analyst für die Axel-Springer-Premium-Marken (Welt, Politico Deutschland, Business Insider) tätig ist.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "KI trainiert und imitiert journalistischen Stil: So setzt Falkemedia erfolgreich KI ein Der Special-Interest-Verlag Falkemedia nutzt bestehende KI-Tools konsequent",
+          "link": "https://kress.de/news/beitrag/156436-ki-trainiert-und-imitiert-journalistischen-stil-so-setzt-falkemedia-erfolgreich-ki-ein.html",
+          "summary": "Der Special-Interest-Verlag Falkemedia hat für sein Magazin „Sylt Fräulein\" eine KI-Redaktionsassistenz entwickelt, die auf über 300 veröffentlichten Texten sowie einer Sentiment-Analyse der Community-Kommentare trainiert wurde und dadurch den markentypischen Stil in Satzbau, Rhythmus und Wortwahl reproduziert. Im Workflow übermittelt Chefredakteurin Finja Schulze vor Ort Notizen, Audio und Fotos an das System, das daraus Rohfassungen im Markenton erstellt, welche die Redaktion anschließend prüft und freigibt. Entscheidend für den Erfolg ist laut Verlag eine möglichst umfangreiche Trainingsbasis, wobei die KI die journalistische Kernarbeit nic",
           "score": 8
         },
         {
           "source": "meedia",
-          "title": "1 baut im November einen Primetime-Abend rund um den Anwalt Ingo Lenßen.",
-          "link": "https://meedia.de/news/beitrag/25119-sat-1-holt-ingo-lenssen-in-die-prime-time.html",
-          "summary": "Sat.1 etabliert ab dem 2. November einen wöchentlichen Primetime-Montag rund um Anwalt Ingo Lenßen, bestehend aus der dreiteiligen Film-Reihe „Lenßen: Anklage Mord“ (20.15 Uhr) und der zurückkehrenden Ratgebershow „Lenßen Live“ (22.15 Uhr), in der Zuschauer per Hotline oder WhatsApp Rechtsfragen stellen können. Der Schritt reiht sich in den Trend ein, kostengünstiges Format-Programm – etwa auch mit TV-Richter Alexander Hold – verstärkt in die Prime Time zu bringen, während parallel bei Konkurrent RTL ebenfalls Gerichtsformate an Bedeutung gewinnen.",
-          "score": 7
+          "title": "Die Similarweb-Zahlen aus dem August 2026 Top 100 Onlinemedien: starker Monat für \"Ruhr 24\" und \"Tag24\", \"t-online\", \"Chip\" und \"Chefkoch\" weit unter Vorjahr Die knappe Mehrzahl der 100 laut Similarweb Traffic-stärksten deutschen Onlinemedien büßte im August Visits ein. Besonders deutlich gegenüber dem Vorjahres-August verloren haben u.a. “t-online”, “Chip” und “Chefkoch”. Zu den Gewinnern des Monats zählen “Ruhr 24” aus dem Ippen-Konzern, “Tag24” und die Website des mdr",
+          "link": "https://meedia.de/news/beitrag/25127-top-100-onlinemedien-starker-monat-fuer-quot-ruhr-24-quot-und-quot-tag24-quot-quot-t-online-quot-quot-chip-quot-und-quot-chefkoch-quot-weit-unter-vorjahr.html",
+          "summary": "Laut Similarweb-Hochrechnungen verlor im August 2026 die knappe Mehrheit der 100 traffic-stärksten deutschen Onlinemedien an Visits, wobei \"t-online\" (-28,2 %), \"Chip\" (-32,3 %) und \"Chefkoch\" (-28,7 %) besonders deutlich unter dem Vorjahr lagen; \"Bild\" blieb mit 166,32 Millionen Visits klar Marktführer. Zu den Gewinnern zählen mit \"Ruhr 24\", \"Merkur.de\" und der \"FR\" gleich drei stark Google-getriebene Ippen-Titel sowie \"Tag24\" und der \"mdr\", die jeweils ihre besten Werte der letzten 13 Monate erzielten – ein Hinweis darauf, dass KI-Tools den Google-Traffic in Deutschland bisl",
+          "score": 8
         },
         {
           "source": "meedia",
-          "title": "Befragung durch BVDW und Die Mediaagenturen e.V. Trendmonitor Mediaagenturen: „Zeitenwende“ dank...",
-          "link": "https://meedia.de/news/beitrag/25081-trendmonitor-mediaagenturen-zeitenwende-dank-ki-werbung-und-conversational-ads.html",
-          "summary": "Der gemeinsame Trendmonitor 2026 von BVDW und Die Mediaagenturen e.V. prognostiziert eine „Zeitenwende“ im Werbemarkt: KI-Werbung und Conversational Ads sollen in fünf Jahren an Bedeutung stark zulegen (von 58 auf 94 Prozent), während klassisches SEA deutlich verlieren wird (von 77 auf 39 Prozent). Die Stimmung im digitalen Werbemarkt ist mit 70 Prozent starker Nachfrage (Vorjahr: 40 Prozent) positiv, und für 2027 wird ein Wachstum von acht Prozent erwartet. ID-Lösungen gelten als entscheidend für die übergreifende Kampagnensteuerung, jedoch mangelt es laut Studie an Mut für entsprechende Testk",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "BBC to axe sports bulletins on its news channel",
-          "link": "https://www.theguardian.com/media/2026/sep/23/bbc-to-axe-sports-bulletins-on-its-news-channel",
-          "summary": "Die BBC streicht die Sport-Nachrichten auf ihrem News-Kanal und baut sieben Stellen im Sportjournalismus ab – darunter vier Führungspositionen –, da nicht genügend freiwillige Kündigungen zustande kamen. Die Maßnahme ist Teil eines konzernweiten Sparprogramms von 500 Mio. £ und dem Abbau von bis zu 2.000 Stellen bis 2028. Hintergrund ist die strategische Neuausrichtung von Sportdirektor Alex Kay-Jelski, der Ressourcen zunehmend auf Online-Analysen, klubspezifische Inhalte sowie digitale Plattformen wie YouTube und Social Media verlagert.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "The Washington press corps needs to boycott White House events   | Margaret Sullivan",
-          "link": "https://www.theguardian.com/commentisfree/2026/sep/21/white-house-press-corps-boycott",
-          "summary": "Kolumnistin Margaret Sullivan fordert die Washingtoner Pressekorps auf, aus Solidarität White-House-Veranstaltungen zu boykottieren, nachdem CNN, MS Now und Politico wegen kritischer Berichterstattung ihre Akkreditierung entzogen wurde. Die drei Medienhäuser verklagen Trump und bezeichnen die Aussperrung als „direkten Angriff auf den First Amendment\", wobei Rechtsexperten von unzulässiger „viewpoint discrimination\" sprechen. Sullivan argumentiert, dass rechtliche Schritte allein nicht ausreichen und einflussreiche Medien wie New York Times, Washington Post und die großen TV-Netzwerke kollektiven Druck ausüben sollten.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "‘You Can See Everything’ Full Trailer: Elizabeth Holmes Gets Vulnerable In A24 Film Ahead Of October 16 Release",
-          "link": "https://deadline.com/2026/09/you-can-see-everything-trailer-elizabeth-holmes-a24-1237111173/",
-          "summary": "A24 hat den vollständigen Trailer zur Dokumentation „You Can See Everything\" veröffentlicht, die am 16. Oktober startet und in der Nathan Fielder gemeinsam mit Lance Oppenheim einen Monat mit Theranos-Gründerin Elizabeth Holmes vor deren Haftantritt verbringt, während sie ihre Unschuld beteuert. Der 174-minütige Film, der bereits beim Telluride Film Festival Premiere feierte, wird von Deadline-Kritiker Pete Hammond als ungewöhnliches Werk gelobt, in dem der Comedian Fielder als hartnäckiger, deadpan-artiger Interviewer eine Hauptrolle einnimmt.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "French Film & TV Sectors Sound Alarm Over Cuts To State Broadcaster Budget; Say They Are At Odds With Macron’s Lumière Summit Pledges",
-          "link": "https://deadline.com/2026/09/french-film-tv-alarm-cuts-state-broadcaster-1237111142/",
-          "summary": "Frankreichs Film- und TV-Branche protestiert in einem offenen Brief der Produzentenverbände (Le SPI, l'USPA, AnimFrance) gegen geplante Kürzungen der staatlichen Mittel für France Télévisions um 47 Mio. € für 2027. Die Verbände werfen der Regierung vor, mit diesem „brutalen Sozialplan“ den Zusagen von Präsident Macron beim Lumière-Gipfel zur strategischen Bedeutung der Bildindustrie und kulturellen Souveränität zu widersprechen. France-Télévisions-Präsidentin Delphine Ernotte Cunci warnt vor einem Gesamtdefizit von 90 Mio. € für 2027 und davor, dass künftig ausländische Plattformen die größten Investoren in französische Kreativproduktionen werden könnten",
+          "title": "Neue Creator-Version ohne TV-Sender Brainpool bringt \"Schlag den Star\"-Ableger auf YouTube und...",
+          "link": "https://meedia.de/news/beitrag/25125-brainpool-bringt-quot-schlag-den-star-quot-ableger-auf-youtube-und-twitch.html",
+          "summary": "Brainpool bringt mit „Schlag den Aaron“ am 26. Oktober einen Creator-Ableger der ProSieben-Marke „Schlag den Star“ ohne TV-Sender direkt auf YouTube und Twitch, wobei Aaron Troschke, Marvin Wildhage, Zarbex und Max Schradin gegeneinander antreten und die Distribution über die jeweiligen Creator-Kanäle läuft. Die Vermarktung übernimmt Banijay Media Germany. Der Schritt verdeutlicht einen wachsenden Trend, bei dem sich Produktionsfirmen zunehmend von klassischen Sendern lösen und Verbreitung sowie Vermarktung selbst in die Hand nehmen.",
           "score": 9
         },
         {
           "source": "Deadline",
-          "title": "Tubi’s Brett Takeshita Joins Canada’s Enlighten Content",
-          "link": "https://deadline.com/2026/09/brett-takeshita-joins-enlighten-content-from-tubi-1237109910/",
-          "summary": "Der kanadisch-amerikanische Produzent Enlighten Content hat Tubi-Executive Brett Takeshita als Senior VP, Development & Production verpflichtet, wo er die Entwicklung und Produktion einer Reihe von Spielfilmen verantworten wird. Während seiner vierjährigen Tätigkeit bei Tubi arbeitete Takeshita an über 130 Projekten, darunter die Sidelined-Trilogie und der Taye-Diggs-Film Stepfather. Sein Wechsel folgt auf den Abgang der früheren Tubi-Kollegin Ashla Soter, die kürzlich zu Digital Sword gestoßen war.",
+          "title": "Terence Winter To Adapt Jay Stratton’s ‘Out Of The Shadows’ Memoir About Investigating Unidentified Anomalous Phenomena As TV Series",
+          "link": "https://deadline.com/2026/09/terence-winter-jay-stratton-out-of-the-shadows-tv-series-1237112244/",
+          "summary": "Terence Winter (*Boardwalk Empire*, *Tulsa King*) entwickelt gemeinsam mit Dan Farah, Regisseur der UAP-Dokumentation *The Age of Disclosure*, eine TV-Serie auf Basis der kommenden Memoiren „Out of the Shadows“ des ehemaligen US-Geheimdienstoffiziers Jay Stratton. Stratton, einst zentrale Figur bei der US-Regierungsuntersuchung unidentifizierter anomaler Phänomene (UAP), schildert darin seine geheime Ermittlungsarbeit und persönliche Doppelexistenz. Winter produziert über seine Firma Cold Front Productions und vergleicht den Stoff mit Werken wie *Homeland*, *The Americans* und *Spotlight*.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "link": "https://deadline.com/2026/09/capa-sally-blake-sean-connery-doc-international-1237112340/",
+          "summary": "Die Pariser Produktionsfirma CAPA (Teil der Studio-TF1-Gruppe) entwickelt mit „Sean Connery: The Untold Story\" eine Doku über den verstorbenen Bond-Star, die von seiner Enkelin Stéphanie Renouvin inszeniert wird und als Koproduktion mit Canal Plus, Sky, Embankment und Boy 313 entsteht. Das Projekt gilt als Musterbeispiel für die Strategie der neu ernannten CAPA-Vizedirektorin Sally Blake, die die Aktivitäten des Unternehmens internationalisieren und neue Märkte sowie Finanzierungsquellen erschließen soll.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "BBC Cuts Latest: Around 150 Tech Staff Expected To Take Voluntary Redundancy, Saving Millions",
+          "link": "https://deadline.com/2026/09/bbc-cuts-150-tech-staff-voluntary-redundancy-1237112301/",
+          "summary": "Die BBC plant im Rahmen ihres umfassenden Sparprogramms den Abbau von rund 151 Stellen (etwa 4%) in der Technikeinheit BBC Media Tech, die Dienste wie iPlayer und BBC Sounds betreibt, wodurch Einsparungen von 14,5 Millionen Pfund erzielt werden sollen. Diese freiwilligen Abgänge sind Teil eines größeren Plans zum Abbau von 2.000 Arbeitsplätzen und Einsparungen von 500 Millionen Pfund inmitten einer Finanzierungskrise, wobei zusätzlich Netzwerkschließungen (möglicherweise BBC Three) und Kürzungen im Sportbereich erwartet werden. Zudem gibt es Überlegungen zum sogenannten \"Bumping\" sowie zum bislang",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Paramount UK’s 5 Launches Linear Drama Network With ‘All Creatures Great And Small’, ‘Gilmore Girls’ & ‘Home And Away’ Plus BBC Drama ‘Waterloo Road’",
+          "link": "https://deadline.com/2026/09/channel-5-drama-network-all-creatures-gilmore-girls-1237112303/",
+          "summary": "Paramount UK startet am 21. Oktober mit 5Drama einen neuen linearen Drama-Sender, der das bisherige 5Select ersetzt und britische Originals wie „All Creatures Great and Small“, US-Importe wie „Gilmore Girls“ und „Columbo“ sowie die australische Soap „Home and Away“ und die ersten zehn Staffeln der BBC-Serie „Waterloo Road“ zeigt. Entgegen dem Branchentrend zum linearen Rückzug – die BBC plant Sender-Schließungen – setzt 5 unter Content-Chef Ben Frow weiter erfolgreich auf lineares Fernsehen und ist der einzige Sender mit wachsenden Marktanteilen. Der Launch fällt zeitlich mit dem 110-Milliarden-Dollar-Deal zwischen Param",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "‘Where’s Wanda’ Season 2: Watch Trailer For Apple TV’s Darkly Comic German Series From UFA Fiction",
-          "link": "https://deadline.com/2026/09/wheres-wanda-season-2-trailer-ufa-fiction-interview-1237110259/",
-          "summary": "Apple TV veröffentlicht am 21. Oktober global die zweite Staffel der deutschsprachigen Dark Comedy „Where's Wanda?\" von UFA Fiction, mit wöchentlichen Episodenveröffentlichungen bis zum 9. Dezember. Die neue Staffel mit Heike Makatsch und Axel Stein knüpft an die erste an: Tochter Wanda (Lea Drinda) wird nach einem mutmaßlichen Mord inhaftiert, woraufhin ihre Eltern alles daransetzen, ihre Unschuld zu beweisen. Laut Executive Producer Nataly Kudiabor stehen dabei die Auswirkungen der Inhaftierung auf die Familie und ihre Stellung in der Kleinstadt Sundersheim im Fokus.",
-          "score": 9
+          "title": "Streaming & Local Film Propel Major Asian Markets To $15B Content Spend This Year – MPA",
+          "link": "https://deadline.com/2026/09/stremaing-local-film-up-media-partners-asia-report-1237112292/",
+          "summary": "Laut dem MPA-Report „Asia Video Content Dynamics 2026\" steigen die Content-Investitionen in sieben großen asiatischen Märkten von 14,8 Mrd. USD (2025) auf über 15 Mrd. USD in diesem Jahr, wobei nahezu das gesamte Wachstum aus Streaming und Film stammt, während die TV-Budgets rückläufig sind. Korea (6,9 Mrd. USD) und Indien (5 Mrd. USD) dominieren die Ausgaben, wobei in Indien Streaming das lineare TV bereits überholt hat (46 % vs. 42 %). Trotz großer Reichweiten warnt der Report, dass viele etablierte Medienunternehmen unter Buchwert gehandelt werden und sich künftig jene durchsetzen, die Kosten rationalisieren und echte",
+          "score": 10
         },
         {
           "source": "Deadline",
-          "title": "Brad Pitt Praises Streamers For Creating Opportunities & Says He Believes The Indie Film Space Is Currently Just As Strong As In The ’90s — San Sebastián",
-          "link": "https://deadline.com/2026/09/brad-pitt-streaming-indie-film-1990s-san-sebastian-1237111090/",
-          "summary": "Beim San Sebastián Film Festival zeigte sich Brad Pitt optimistisch über die aktuelle Indie-Film-Landschaft, die er dank Streaming-Plattformen als ebenso stark wie in den 1990er-Jahren bewertet, da diese neue kreative Möglichkeiten für Schauspieler, Autoren und Regisseure schaffen. Zugleich warnte er vor der zunehmend schwierigen Marktsituation für mittelgroße Filmproduktionen (Budgets von rund 30 bis 60 Millionen), die für Studios schwer refinanzierbar seien. Pitt präsentierte auf dem Festival seinen neuen Film „Heart of the Beast“, eine späte Ergänzung des diesjährigen Programms.",
+          "title": "Samsung TV Plus Strikes Creator Channel Deals With Fearne Cotton & More; Expand Mark Rober Reach",
+          "link": "https://deadline.com/2026/09/samsung-tv-plus-fearne-cotton-mark-rober-creator-channels-1237112284/",
+          "summary": "Samsung TV Plus baut sein Creator-Angebot mit neuen FAST-Channels aus: In UK starten in Partnerschaft mit 208 Studios die Kanäle Happy Place (Fearne Cotton), Golf Life und Joe Media, während in mehreren asiatisch-pazifischen Märkten „Luke Nguyen's World\" und in Brasilien und Mexiko eine synchronisierte Version von „Mark Rober TV\" hinzukommen. Damit vertieft der kostenlose, in Samsung-Smart-TVs integrierte Streaming-Dienst seinen strategischen Fokus auf die Creator Economy und reiht sich neben bestehende Kanäle wie Dhar Mann und Michelle Khare ein.",
           "score": 8
         },
         {
-          "source": "Deadline",
-          "title": "Studiocanal Announces Wrap Of Final Film In Ambitious German-Language ‘Woodwalkers’ Trilogy",
-          "link": "https://deadline.com/2026/09/studiocanal-wraps-woodwalkers-trilogy-release-date-1237111096/",
-          "summary": "Studiocanal hat die Dreharbeiten zum finalen Teil der erfolgreichen deutschsprachigen „Woodwalkers\"-Trilogie abgeschlossen und einen Kinostart in Deutschland für den 28. Januar 2027 angekündigt. Die auf den Bestseller-Romanen von Katja Brandis basierende Koproduktion mit Blue Eyes Fiction verzeichnete mit den ersten beiden Teilen über zwei Millionen Kinobesucher, wobei „Woodwalkers 2\" als erfolgreichster deutscher Familienfilm des Jahres 2026 gilt. Regie führte erneut Florian Sigl, mit Rückkehrern wie Emile Chérif, Oliver Masucci und Martina Gedeck; gedreht wurde in Rumänien und Bayern.",
-          "score": 9
+          "source": "Hollywood Reporter",
+          "title": "YouTube Bets That a Slew of AI-Powered Features Can Maintain Its Video Domination",
+          "link": "https://www.hollywoodreporter.com/business/digital/youtube-ai-tools-coming-soon-creators-viewers-1236708783/",
+          "summary": "YouTube hat auf seinem jährlichen „Made on YouTube\"-Event in New York eine Reihe neuer KI-gestützter Funktionen für Zuschauer und Creator vorgestellt, um seine marktführende Position im Videobereich zu sichern. Zentrale Neuerungen für Nutzer sind „Custom Feeds\", die personalisierte Inhalte basierend auf Texteingaben generieren, sowie erweiterte Suchfunktionen bei „Ask YouTube\". Für Creator bietet YouTube Studio künftig KI-basierte Vorschläge zu Tempo und Struktur, automatisiertes A/B-Testing von Thumbnails und Videos sowie einen konversationellen Bearbeitungsassistenten.",
+          "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "‘Variations on Violence’ Wins Best Film at Oldenburg",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/variations-on-violence-best-film-2026-oldenburg-1236708307/",
-          "summary": "Beim Oldenburg Film Festival, Deutschlands führendem Indie-Filmfestival, gewann Zachary Nichols' „Variations on Violence\" – die Geschichte eines traumatisierten Militär-Drohnenpiloten – den German Independence Award für den besten Film. Der Publikumspreis „Spirit of Cinema\" ging an Boris Mojsovskis kanadisches Drama „Foreign Tongue\", während Marjorie Conrads „The Joyless Economy\" mit dem Award für Originalität und Wagemut ausgezeichnet wurde.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Meet One of the Key Republicans Championing a Federal Film and TV Tax Credit",
-          "link": "https://www.hollywoodreporter.com/news/politics-news/brian-jack-federal-film-tv-tax-credit-1236707858/",
-          "summary": "Der republikanische Kongressabgeordnete Brian Jack (R-GA) zählt zu den konservativen Befürwortern eines bundesweiten Steueranreizes für Film- und Fernsehproduktionen und arbeitet dabei mit Jon Voight, Gewerkschaften und Studios zusammen. Der Vorstoß, den Präsident Trump am 31. August mit der Aufforderung an den Kongress bekräftigte, unterläuft das Klischee, wonach Hollywood ausschließlich von liberalen Politikern unterstützt werde. Jacks Wahlkreis umfasst zudem die Trilith Studios in Fayetteville, die zuletzt unter der Verlagerung großer Disney/Marvel-Produktionen nach Großbritannien litten.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Broadcast TV Bounces Back: More Orders as Network Fare Drives Streaming Ratings",
-          "link": "https://www.hollywoodreporter.com/tv/tv-features/broadcast-tv-orders-streaming-ratings-1236707741/",
-          "summary": "Trotz struktureller Herausforderungen durch Streaming, DVR und sinkender On-Air-Quoten (nur ~21 Prozent der TV-Nutzung in den USA) erlebt das Broadcast-TV ein Comeback, da Network-Inhalte auf Streaming-Plattformen erhebliche Reichweiten erzielen und beide Vertriebswege sich gegenseitig stützen. Medienkonzerne, die sowohl Networks als auch Streaming-Dienste besitzen, profitieren von diesem Zusammenspiel, während Kreative die Planbarkeit des Network-Modells mit festen Sendeplänen und 12 bis 22 Episoden pro Staffel zunehmend schätzen.",
-          "score": 9
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "MIP London Ends After 2 Years, Replaced by London Book Fair Event",
-          "link": "https://www.hollywoodreporter.com/business/business-news/mip-london-talks-ends-london-book-fair-event-rx-france-1236708252/",
-          "summary": "RX France stellt MIP London nach zwei Jahren ein und ersetzt es durch MIP Talks, eine zweitägige Konferenz (16.–17. März 2027), die im Rahmen der London Book Fair im London ExCel stattfinden wird. Das neu ausgerichtete Format geht über klassisches Fernsehen und Content hinaus und fokussiert sich unter dem Leitthema „From IP to Fandom — and Fandom to Global Business“ auf kulturelle, kreative, technologische und kommerzielle Umbrüche der globalen Entertainment-Branche. Die kuratierte, redaktionell geführte Programmierung umfasst hochkarätige Gespräche, globale Trends, Daten und Fallstudien.",
+          "title": "Terence Winter Teams With  ‘Age of Disclosure’ Director to Adapt UFO Insider’s Story",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/terence-winter-age-of-disclosure-ufo-1236708412/",
+          "summary": "Emmy-Gewinner Terence Winter (\"The Sopranos\", \"The Wolf of Wall Street\") adaptiert gemeinsam mit \"The Age of Disclosure\"-Regisseur Dan Farah die kommende Memoiren \"Out of the Shadows\" des ehemaligen hochrangigen US-Geheimdienstmitarbeiters Jay Stratton, der die angebliche Regierungsvertuschung rund um UFOs und nicht-menschliche Intelligenz enthüllen will. Das Projekt, das als politischer Thriller angelegt ist, befindet sich derzeit auf der Suche nach einem Vertriebspartner.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Production Surge in Spain Confirmed by Olsberg SPI Study, but Headwinds Approach",
-          "link": "https://variety.com/2026/film/global/spain-production-spend-2025-6-6-billion-olsberg-spi-study-1236872765/",
-          "summary": "Eine von der Spain Film Commission beauftragte Studie von Olsberg SPI belegt einen anhaltenden Aufschwung der spanischen Audiovisualbranche mit erwarteten Produktionsausgaben von 5,68 Milliarden Euro (6,6 Milliarden Dollar) im Jahr 2025 – ein Anstieg von 45 % gegenüber 2022. Die Analyse erfasst Ausgaben für Film, Video und Fernsehen (inkl. Waren, Dienstleistungen und Personal), schließt jedoch Bereiche wie Vertrieb, Ausstrahlung und Videospiele aus. Als potenzielles Risiko gilt die mögliche Einführung eines föderalen Steueranreizes in den USA, wobei Branchenvertreter aufgrund steigender US-Kosten dennoch Verlag",
+          "title": "Paramount to Raise $7.5 Billion More in Debt to Fund Warner Bros. Deal",
+          "link": "https://variety.com/2026/film/news/paramount-7-5-billion-more-debt-warner-bros-merger-1236874269/",
+          "summary": "Paramount Skydance nimmt weitere 7,5 Milliarden Dollar über vorrangig besicherte Term-Loan-B-Kredite auf, um die 111-Milliarden-Dollar-Fusion mit Warner Bros. Discovery zu finanzieren und bestehende Schulden abzulösen. Insgesamt plant das Unternehmen unter David Ellison die Aufnahme von rund 44,4 Milliarden Dollar zusätzlicher besicherter Schulden, wodurch die von Morgan Stanley auf 77,2 Milliarden Dollar geschätzte Nettoverschuldung des fusionierten Konzerns voraussichtlich nach oben korrigiert wird. Die Transaktion steht kurz vor dem Abschluss, nachdem eine kartellrechtliche Einigung mit zwölf Generalstaatsan",
           "score": 9
         },
         {
           "source": "Variety",
-          "title": "‘Ray Gunn’ Trailer: Sam Rockwell and Scarlett Johansson Star in Netflix’s Sci-Fi Murder Mystery From ‘Incredibles’ Director",
-          "link": "https://variety.com/2026/film/news/ray-gunn-trailer-netflix-scarlett-johansson-sam-rockwell-1236803988/",
-          "summary": "Netflix veröffentlicht den Trailer zu „Ray Gunn\", einem Neo-Noir-Sci-Fi-Krimi von „Incredibles\"-Regisseur Brad Bird, mit Sam Rockwell als Privatdetektiv und Scarlett Johansson als skandalgeplagtem Popstar in den Hauptrollen. Das langjährige Herzensprojekt Birds, ursprünglich schon in den 1990ern bei Turner Feature Animation geplant, wurde nach seinem 2021 geschlossenen Deal mit Skydance Animation realisiert und vereint ihn erneut mit John Lasseter sowie den Skydance-Führungskräften David Ellison und Dana Goldberg.",
+          "title": "Brazil’s Desvia Filmes Enters New Era With Doubled Focus on Indie and Rachel Daisy Ellis’ San Sebastián Co-Pro Forum’s Buzzy ‘The Last Cruise’",
+          "link": "https://variety.com/2026/film/global/desvia-filmes-rachel-daisy-ellis-new-era-the-last-cruise-1236870939/",
+          "summary": "Die brasilianische Produktionsfirma Desvia Filmes tritt unter Leitung der britischen Produzentin Rachel Daisy Ellis in eine neue Ära ein, nachdem Mitgründer Gabriel Mascaro das Unternehmen verlassen hat, um mit Paula Cosenza das auf internationale Koproduktionen fokussierte Label Trema zu gründen. Desvia verstärkt nun seinen Fokus auf Independent-Produktionen und präsentiert das mit Spannung erwartete Projekt „The Last Cruise“ beim Co-Production Forum von San Sebastián. Bemerkenswert ist die außergewöhnliche Bilanz der Firma: Alle 16 bisherigen Spielfilme feierten ihre Premieren auf renommierten Festivals wie Berlin, Cannes und Locarno.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Terence Winter, Dan Farah Team to Develop Series Based on UAP Memoir ‘Out of the Shadows’",
+          "link": "https://variety.com/2026/tv/news/terence-winter-dan-farah-uap-memoir-out-of-the-shadows-1236874218/",
+          "summary": "Terence Winter (Cold Front Productions) und Dan Farah (Farah Films) entwickeln als Executive Producer eine Serie basierend auf den Memoiren „Out of the Shadows“ des ehemaligen US-Geheimdienstoffiziers Jay Stratton, die am 13. Oktober bei HarperCollins-Imprint William Morrow erscheinen. Stratton, früher Chief of Air & Space Warfare der Defense Intelligence Agency und Mitbegründer der ersten offiziellen US-Regierungsprogramme zur UAP-Untersuchung (AAWSAP und UAPTF), schildert darin seine Erfahrungen mit unidentifizierten anomalen Phänomenen und behauptet, eine 80-jährige Vertuschung außerirdischer Intelligenz aufgedeckt zu haben.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Mexico’s Sula Films Boards Tatiana Huezo’s Anticipated ‘Galerna,’ a Top Industry Award Winner at San Sebastián (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/global/mexico-sula-films-tatiana-huezo-galerna-pimienta-elastica-1236873783/",
+          "summary": "Die mexikanische Produktionsfirma Sula Films steigt als Co-Produzent bei Tatiana Huezos mit Spannung erwartetem Spielfilm „Galerna\" ein, der auf dem San Sebastián Festival den renommierten Egeda Platino Industria Award (dotiert mit 30.000 Euro) in der WIP Latin America Sektion gewann. Der Film ist Huezos zweite fiktionale Arbeit nach „Prayers for the Stolen\" und entsteht in Zusammenarbeit mit Pimienta Films („Roma\"). Die während des Festivals geschlossene Co-Produktions-Vereinbarung markiert bereits die zweite Kollaboration der beiden Firmen nach Amat Escalantes „Lost in the Night\" (2023).",
           "score": 7
         }
       ]
