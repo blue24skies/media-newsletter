@@ -1,111 +1,125 @@
 {
   "newsletters": [
     {
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Programmumbau, Personalabbau: So will Vernau den WDR verändern",
-          "link": "https://www.dwdl.de/nachrichten/107984/programmumbau_personalabbau_so_will_vernau_den_wdr_veraendern/",
-          "summary": "WDR-Intendantin Katrin Vernau hat weitreichende Umbaumaßnahmen angekündigt, um den Sender stärker auf digitale Ausspielwege auszurichten und dabei Strukturen in Programm, Produktion, Technik und Verwaltung neu aufzustellen sowie Personalkosten zu senken. Hintergrund ist der früher als erwartet erreichte Kipppunkt in der Mediennutzung, bei dem die nonlineare Nutzung erstmals die lineare übersteigt – während derzeit noch rund drei Viertel der Ressourcen im klassischen linearen Programm gebunden sind. Trotz sinkender Reichweite verweist Vernau auf steigende Akzeptanzwerte, insbesondere bei den 14- bis 29-Jährigen, von denen 78 Prozent den WDR als gesellsch",
-          "score": 8
+          "title": "Großer Werbe-Rollout von Netflix kommt im März 2027",
+          "link": "https://www.dwdl.de/nachrichten/107993/grosser_werberollout_von_netflix_kommt_im_maerz_2027/",
+          "summary": "Netflix erweitert sein werbefinanziertes Abo zum 1. März 2027 auf 15 weitere Länder und vervollständigt damit den DACH-Raum durch die Aufnahme von Österreich und der Schweiz, die künftig aus Deutschland gesteuert werden. Neben dem DACH-Markt kommen unter anderem die Niederlande, Skandinavien, Polen sowie mehrere Märkte in Lateinamerika und Asien hinzu. Netflix positioniert sich damit laut eigenen Angaben nicht länger als kleiner Herausforderer, sondern als etablierter Player im Werbemarkt mit gewonnener Akzeptanz und Reichweite.",
+          "score": 10
         },
         {
-          "source": "Horizont Medien",
-          "title": "ARD-Anstalt: WDR stellt 76 Angebote ein und plant Stellenabbau",
-          "link": "https://www.horizont.net/medien/nachrichten/ard-anstalt-wdr-stellt-76-angebote-ein-und-plant-stellenabbau-235992?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der WDR als größter ARD-Sender stellt bis Ende 2025 insgesamt 76 lineare und digitale Angebote ein, darunter Fernsehsendungen, Podcasts und Social-Media-Formate. Zusätzlich plant der Sender einen erheblichen Personalabbau, bei dem jede dritte frei werdende Stelle nicht neu besetzt werden soll. Der Schritt markiert einen umfassenden strukturellen Umbau des öffentlich-rechtlichen Rundfunks.",
+          "source": "DWDL",
+          "title": "Aus für Rateshow: HR beendet \"Straßenstars\" nach 22 Jahren",
+          "link": "https://www.dwdl.de/nachrichten/107983/aus_fuer_rateshow_hr_beendet_strassenstars_nach_22_jahren/",
+          "summary": "Der Hessische Rundfunk stellt seine Ratesendung \"Straßenstars\" nach 22 Jahren und mehr als 680 Folgen ein, da die Anpassung des linearen Formats an digitale Nutzungsgewohnheiten nicht ausreichend gelang. Die finale Staffel mit dem langjährigen Moderator Roberto Cappelluti wird ab dem 22. Oktober donnerstags um 22:00 Uhr ausgestrahlt, während frühere Ausgaben weiterhin in der ARD-Mediathek abrufbar bleiben.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Termin steht fest: \"Krank Berlin\" kommt endlich ins Free-TV",
+          "link": "https://www.dwdl.de/nachrichten/107980/termin_steht_fest_krank_berlin_kommt_endlich_ins_freetv/",
+          "summary": "Die vom ZDF und Apple TV koproduzierte Krankenhausserie \"Krank Berlin\" wird ab dem 25. November erstmals im Free-TV ausgestrahlt – konkret mittwochs um 21:45 Uhr in Doppelfolgen bei ZDFneo, während der Streaming-Abruf in der ZDF-Mediathek bereits ab dem 6. November startet. Die achtteilige erste Staffel thematisiert die Überlastung des Gesundheitssystems am Beispiel einer Berliner Notaufnahme und wurde von Headautor Samuel Jefferson, einem ehemaligen Notarzt, verfasst. In den Hauptrollen sind Haley Louise Jones und Slavko Popadić zu sehen; verantwortlich für die Produktion zeichnen Real Film Berlin und Violet Pictures.",
           "score": 9
         },
         {
+          "source": "DWDL",
+          "title": "Undone befördert Marlen Klaws in die Geschäftsleitung",
+          "link": "https://www.dwdl.de/nachrichten/107973/undone_befoerdert_marlen_klaws_in_die_geschaeftsleitung/",
+          "summary": "Das Berliner Produktionshaus Undone befördert Marlen Klaws mit sofortiger Wirkung zur Head of Production und beruft sie in die Geschäftsleitung. Die seit 2024 für das Unternehmen tätige Journalistin verantwortete bislang mehrere Doku-Podcast-Produktionen wie \"Pleasant Island\" und \"Land Unter\" und soll künftig Produktionsstrukturen sowie strategische Ausrichtung mitgestalten. Der Schritt erfolgt im Rahmen einer Wachstumsphase, in der Undone unter anderem sein Film-Portfolio und neue Formate ausbaut.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "ProSieben lässt Kiwi, Jenke und Chris Tall durch Europa jagen",
+          "link": "https://www.dwdl.de/nachrichten/107967/prosieben_laesst_kiwi_jenke_und_chris_tall_durch_europa_jagen/",
+          "summary": "ProSieben startet mit \"Catch Us – Jagd durch Europa\" eine neue Abenteuer-Show, in der Prominente wie Andrea Kiewel, Chris Tall und Jenke von Wilmsdorff fünf Tage lang durch eine europäische Großstadt fliehen und dabei per Joyn-App von der Community gejagt werden können. Das auf dem niederländischen Format \"Catch Us If You Can\" basierende Programm wird an drei aufeinanderfolgenden Tagen (10.–12. November) in der Primetime ausgestrahlt, wobei der Auftakt strategisch im Anschluss an das erfolgreiche \"TV Total\" platziert wird.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Couple Challenge\" geht schon bald mit Halloween-Staffel weiter",
+          "link": "https://www.dwdl.de/nachrichten/107965/couple_challenge_geht_schon_bald_mit_halloweenstaffel_weiter/",
+          "summary": "RTLzwei setzt sein Reality-Format \"Couple Challenge\" mit einer Halloween-Edition fort, die ab dem 9. Oktober zunächst exklusiv bei RTL+ mit wöchentlich zwei neuen Folgen startet; ein Termin für die lineare Ausstrahlung steht noch aus. Sechs Pärchen kämpfen in einem \"düsteren Camp in Sachsen\" um 66.600 Euro und müssen dabei neben klassischen Challenges erstmals sogenannte \"Rituale\" bewältigen, die als Fluch weitreichende Folgen haben sollen. Produziert wird das Format erneut von RTL Studios; das Teilnehmerfeld wurde bislang nicht bekanntgegeben.",
+          "score": 7
+        },
+        {
           "source": "Horizont Medien",
-          "title": "TV-Quoten: Starke Reichweite bei Klopps DFB-Debüt gegen die Niederlande",
-          "link": "https://www.horizont.net/medien/nachrichten/tv-quoten-starke-reichweite-fuer-klopps-dfb-debuet-gegen-die-niederlande-235984?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Jürgen Klopps Debüt als DFB-Bundestrainer beim 1:1 gegen die Niederlande bescherte RTL mit durchschnittlich 10,63 Millionen Zuschauern in der ersten und 10,76 Millionen in der zweiten Halbzeit die höchste Tagesreichweite. Der Marktanteil lag in der ersten Halbzeit bei starken 43,7 Prozent.",
+          "title": "Yieldhub: Warum Funke bei Programmatic nun auch Fremdvermarkter wird",
+          "link": "https://www.horizont.net/medien/nachrichten/yieldhub-warum-funke-bei-programmatic-nun-auch-fremdvermarkter-wird-235951?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Funke Mediengruppe erweitert ihre eigene Programmatic-Vermarktung und tritt künftig auch als Fremdvermarkter auf. Damit agiert der Medienkonzern auf zwei Ebenen zugleich, da er gleichzeitig 30-Prozent-Gesellschafter und Mandant des Crossmedia-Werbevermarkters BCN ist. Diese Doppelrolle im Adtech-Geschäft markiert eine strategische Ausweitung der Programmatic-Aktivitäten von Funke.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Ein Drittel der Medienhäuser hat mit KI noch gar nicht begonnen kress pro-Chefredakteur Markus...",
+          "link": "https://kress.de/news/beitrag/156440-ein-drittel-der-medienhaeuser-hat-mit-ki-noch-gar-nicht-begonnen.html",
+          "summary": "Laut einer Einschätzung des Beraters Christoph Mayer in kress pro hat rund ein Drittel der Medienhäuser die Arbeit mit KI noch gar nicht begonnen, wobei vor allem kleinere Häuser den hohen Initialaufwand scheuen. Der wirtschaftliche Nutzen bleibt bislang begrenzt, da viele KI-Anwendungen eher Convenience-Charakter haben und kaum messbare Erträge liefern – zumal steigende Preise der KI-Plattformen kleinere Anwendungen langfristig unrentabel machen könnten. Als Wachstumshebel gelten neue KI-basierte Produkte sowie der Verkauf von Inhalten an KI-Unternehmen, während aktuell vor allem Dienstleister und Berater vom KI-Boom profitieren.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "\"Basketball noch populärer und sichtbarer machen\" Magenta holt sich die Basketball Champions League...",
-          "link": "https://meedia.de/news/beitrag/25134-magenta-holt-sich-die-basketball-champions-league.html",
-          "summary": "Die Telekom sichert sich ab der Saison 2026/27 die exklusiven Rechte an der Basketball Champions League (BCL) für Deutschland und überträgt auf Magenta Sport bis zu 64 Live-Spiele, darunter alle Partien der vier deutschen Teilnehmer (Alba Berlin, Bamberg, Bonn, Vechta) sowie ab dem Viertelfinale den gesamten Wettbewerb inklusive Final Four. Mit diesem Rechteerwerb baut die Telekom nach der verlängerten DBB-Kooperation ihre Position als zentrale Plattform für internationalen Basketball weiter aus und untermauert ihren Anspruch als „Home of Basketball“.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Fußball/Rugby und Tischtennis Sportdigital und Dyn bauen ihr internationales Sportangebot aus Auf...",
-          "link": "https://meedia.de/news/beitrag/25132-sportdigital-und-dyn-bauen-ihr-internationales-sportangebot-aus.html",
-          "summary": "Sportdigital erweitert sein Portfolio durch eine Rechtevereinbarung mit der Agentur IMG, die unter anderem die südamerikanischen Wettbewerbe Conmebol Libertadores und Sudamericana (rund 80 Partien), den Gulf Cup 2026, die australisch-neuseeländische A-League sowie NWSL-Playoffs, Scottish Cup und Rugby-League-Weltmeisterschaften umfasst. Parallel sichert sich Dyn bis 2028 ein umfangreiches Rechtepaket der European Table Tennis Union (ETTU). Beide Anbieter bauen damit ihr internationales Live-Sportangebot für den deutschen Markt deutlich aus.",
+          "title": "Zwei Buchungswege zusammengeführt ARD Media bündelt Radio und Digital Audio programmatisch Der...",
+          "link": "https://meedia.de/news/beitrag/25115-ard-media-buendelt-radio-und-digital-audio-programmatisch.html",
+          "summary": "ARD Media startet im Oktober mit „Audionited“ ein programmatisches Angebot, das lineares Radio und digitales Audio inklusive Podcasts erstmals in einer gemeinsamen Buchung zusammenführt. In Zusammenarbeit mit dem Dienstleister Amily.One werden die Reichweiten kontaktbasiert über einen einheitlichen Tausend-Kontakt-Preis abgerechnet und in einem einzigen Bid Request beide Gattungen umfasst. Für Agenturen ergeben sich damit vereinfachte Prozesse mit einem Deal, einem Team, einer Rechnung und einem Reporting.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "TikTok drops appeal against £12.7m fine for not keeping under-13s off platform",
-          "link": "https://www.theguardian.com/technology/2026/sep/24/tiktok-drops-appeal-over-fine-for-not-keeping-under-13s-off-platform",
-          "summary": "TikTok hat seine Berufung gegen ein 2023 vom britischen Information Commissioner's Office (ICO) verhängtes Bußgeld von 12,7 Mio. Pfund fallen gelassen und wird dieses zahlen. Die Strafe erfolgte, weil die Plattform ihre Altersgrenze von 13 Jahren im Zeitraum 2018–2020 unzureichend durchsetzte – bis zu 1,75 Millionen unter 13-jährige britische Kinder nutzten den Dienst – und zudem gegen Datenschutzvorgaben verstieß. TikTok widerspricht dem Urteil, verwies jedoch auf zwischenzeitlich eingeführte Jugendschutzmaßnahmen und zog auch eine weitere Berufung gegen eine ICO-Informationsanfrage zurück.",
+          "title": "The comedians turning AI anxiety into punchlines: ‘It’s so good, it’ll completely alter our grasp on reality’",
+          "link": "https://www.theguardian.com/technology/2026/sep/25/ai-anxiety-comedy",
+          "summary": "Eine wachsende Zahl von Comedians und Humoristen greift die Ängste rund um künstliche Intelligenz auf und persifliert über verschiedene Medienformate – von Social-Media-Sketches über Standup bis zu gefälschten U-Bahn-Werbeplakaten – die Bemühungen der Techbranche, KI als allgegenwärtig und unausweichlich darzustellen. Die Comedy dekonstruiert dabei gezielt das Narrativ der Tech-CEOs, wonach KI den Höhepunkt der Menschheit markiere, allmächtig sei und zugleich existenzielle Risiken berge. Bemerkenswert ist, dass diese Inhalte bewusst von KI inspiriert, aber ausdrücklich nicht KI-generiert sind.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "Price hikes, ads and lower quality: has ‘streamflation’ ruined the TV experience?",
-          "link": "https://www.theguardian.com/tv-and-radio/2026/sep/24/streaming-services-inflation-ads",
-          "summary": "Mehrere große Streaming-Anbieter wie Disney+, Hulu, Apple und Peacock haben ihre Preise wiederholt erhöht, ohne einen entsprechenden Mehrwert zu bieten – ein Phänomen, das zunehmend als „Streamflation“ bezeichnet wird. Verschärfend kommt hinzu, dass Anbieter wie Disney sich das Recht vorbehalten, selbst in werbefreien Premium-Tarifen Werbung vor und nach Programmen einzublenden. In der Folge beginnen US-Konsumenten, sich vermehrt von Streaming-Diensten abzuwenden.",
+          "title": "Judge seems inclined to side with media outlets who were banned from White House in lawsuit",
+          "link": "https://www.theguardian.com/media/2026/sep/23/white-house-media-ban-lawsuit",
+          "summary": "Ein US-Bundesrichter deutete bei einer Anhörung an, zugunsten der Medienorganisationen CNN, MS Now und Politico zu entscheiden, die nach ihrem Ausschluss aus dem Weißen Haus durch Präsident Trump geklagt hatten. Der Richter bemängelte, dass beim Entzug der Presseausweise kein rechtsstaatliches Verfahren (Due Process) eingehalten wurde, da die Organisationen keine vorherige Benachrichtigung über mutmaßliche Verstöße erhielten. Während Trump ursprünglich „Fake News“ als Grund anführte, beriefen sich die formellen Ausschlussschreiben nachträglich auf Verstöße gegen Professionalitäts- und Sicherheitsstandards.",
           "score": 9
         },
         {
           "source": "Deadline",
-          "title": "BBC Boss Matt Brittin On Expected Service Closures: “No Program Or Channel Will Exist Forever”",
-          "link": "https://deadline.com/2026/09/bbc-matt-brittin-service-channel-closures-1237113684/",
-          "summary": "BBC-Generaldirektor Matt Brittin hat angedeutet, dass der Sender im Rahmen geplanter Einsparungen von 500 Millionen Pfund TV- und Radiokanäle schließen könnte, wobei keine Garantie für den Fortbestand einzelner Programme oder Sender gegeben werde. Als Begründung nennt Brittin die Verlagerung des Publikums hin zu On-Demand-Diensten wie iPlayer sowie den Auftrag, den Gebührenzahlern ein gutes Preis-Leistungs-Verhältnis zu bieten. Entsprechende Ankündigungen könnten laut Deadline bereits kommende Woche erfolgen, wobei insbesondere über die Zukunft von BBC Three spekuliert wird.",
+          "title": "Cinetic Launches Vertical Leap, Investment Vehicle & Producing Pathway For Pro Athletes — Zurich Summit",
+          "link": "https://deadline.com/2026/09/cinetic-launches-vertical-leap-pathway-pro-athletes-1237114425/",
+          "summary": "John Sloss' Cinetic Media hat mit Vertical Leap ein Investment- und Produktionsprogramm für Profisportler gestartet, das für eine Jahresgebühr von 25.000 US-Dollar Zugang zu mindestens zehn Dokumentarfilmprojekten sowie kreativen Einblick und Branchenberatung bietet. Bereits zehn prominente Athleten sind angemeldet, wobei die stärkste Nachfrage aus der NFL und NBA kommt und eine Erweiterung auf bis zu 50 aktive und ehemalige Sportler geplant ist. Das Angebot fokussiert sich derzeit auf Dokumentarfilme, doch Mitglieder zeigen bereits Interesse an Investments in andere Projektformate.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "International Insider: Deep BBC Cuts Begin; Ali G Under Fire; San Sebastian Report",
-          "link": "https://deadline.com/2026/09/international-insider-deep-bbc-cuts-begin-1237112429/",
-          "summary": "Die BBC hat mit tiefgreifenden Sparmaßnahmen begonnen, um zusätzliche 500 Mio. £ einzusparen (zusätzlich zu bereits geplanten 1,5 Mrd. £): Betroffen sind 41 Stellen im Sport, rund 150 im Technikbereich sowie möglicherweise die Schließung von Sendern wie BBC3. Hintergrund ist die Krise des Rundfunkgebührenmodells, da zwar 94% der Briten BBC-Dienste nutzen, aber weniger als 80% dafür zahlen. Die Einsparungen der bisher angekündigten Kürzungen (ca. 17 Mio. £) decken nur einen Bruchteil des Gesamtbedarfs, weshalb weitere, noch drastischere Maßnahmen erwartet werden.",
+          "title": "‘Sunshine’ Director Antoinette Jadaone Launches Ilaya Ilaya; Women-Led Slate Headed By Angelica Panganiban, Kaila Estrada, Eugene Domingo & Maris Racal",
+          "link": "https://deadline.com/2026/09/maris-racal-sunshine-antoinette-jadaone-ilaya-ilaya-1237113584/",
+          "summary": "Die philippinische Regisseurin Antoinette Jadaone („Sunshine\") gründet zusammen mit Produzentin Reign Anne De Guzman die neue Produktionsfirma Ilaya Ilaya, die sich auf frauengeführte Geschichten, unterschätzte Genres und filmische Außenseiterprojekte konzentriert. Das erste Slate umfasst unter anderem den Found-Footage-Horrorfilm „Birdsong\" (Regie: Pam Miras, ausgezeichnet beim Bangkok International Content Market 2026) sowie die übernatürliche Komödie „Chandra Catacutan And The Curse Of The Fuchsia Moon\" mit Eugene Domingo. Zum weiteren Talentpool gehören Angelica Panganiban, Kaila Estrada und Maris Racal.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Noel Hedges Joins Boat Rocker Studios In Global Acquisitions Role",
-          "link": "https://deadline.com/2026/09/noel-hedges-joins-boat-rocker-studios-1237113006/",
-          "summary": "Der TV-Branchenveteran Noel Hedges (u.a. DRG, ITV Studios, Cineflix und eOne) wechselt zu Boat Rocker Studios und übernimmt dort die neu geschaffene Position des Senior VP, Global Acquisitions and Content Strategy mit Sitz in London. In seiner Rolle, in der er an Jon Rutherford (President, Global Content & Rights) berichtet, soll er den langfristigen Wert des Content-Portfolios durch IP-Akquisitionen, Rechtedeals und Koproduktionen steigern. Sein Start ist für Anfang Oktober geplant; erstmals öffentlich auftreten wird er mit dem Team auf der MIPCOM.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "BBC Studios Names Mediawan’s Sally Habbershaw President Of Global Distribution",
-          "link": "https://deadline.com/2026/09/bbc-studios-names-sally-habbershaw-president-distribution-1237113669/",
-          "summary": "BBC Studios hat Sally Habbershaw als President of Global Distribution verpflichtet, die nach weniger als einem Jahr von Mediawan wechselt und ab dem 29. September das weltweite Content-Sales-Geschäft von London aus leiten wird, berichtend an Zai Bennett. Die Position war seit dem Abgang der US-basierten Janet Brown im Januar unbesetzt, da BBC Studios seine Distributionsaktivitäten näher an den britischen Hauptsitz verlagern wollte. Habbershaw bringt Erfahrung aus früheren Führungsrollen bei Mediawan und All3Media International mit.",
+          "title": "Paramount To Move Its Class B Shares From Nasdaq To New York Stock Exchange In Early October",
+          "link": "https://deadline.com/2026/09/paramount-moves-class-b-shares-nasdaq-new-york-stock-exchange-1237114159/",
+          "summary": "Paramount verlegt die Notierung seiner Class-B-Aktien ab dem 6. Oktober von der Nasdaq an die New York Stock Exchange, wobei der Handel an der Nasdaq zum Börsenschluss am 5. Oktober endet. Der Zeitplan steht in engem Zusammenhang mit der noch ausstehenden 110-Milliarden-Dollar-Fusion mit Warner Bros Discovery, die CEO David Ellison zufolge voraussichtlich um den 5. Oktober abgeschlossen sein könnte. Ein Bundesrichter prüft am Montag den erzielten Vergleich, den Fusionsgegner in Amicus-Briefen weiterhin ablehnen.",
           "score": 9
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Streaming Ratings: ‘Reacher’ Tops 1 Billion Viewing Minutes for Fifth Straight Week",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-sept-7-13-2026-1236709681/",
-          "summary": "Prime Videos \"Reacher\" behauptet sich in Staffel vier weiterhin als erfolgreichster Streaming-Titel der USA und überschritt laut Nielsen in der Woche vom 7.–13. September mit 1,18 Milliarden Minuten die Milliardengrenze zum fünften Mal in Folge. Auf den weiteren Plätzen folgten \"The Big Bang Theory\" (971 Mio. Minuten) sowie Tyler Perrys Netflix-Film \"Why Did I Get Married Again?\" (908 Mio. Minuten), während Neuzugänge wie \"The Secret Lives of Mormon Wives\" (Hulu) und \"Major Crimes\" (Netflix/Pluto TV) in die Charts einstiegen.",
+          "title": "Calls From the Dead, a Madrid Dystopia and Kids Swap Among Writers’ Show Pitches as Iberseries",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/iberseries-platino-industria-writers-show-pitches-preview-1236696391/",
+          "summary": "Bei der sechsten Ausgabe von Iberseries & Platino Industria in Madrid präsentieren sieben Drehbuchautoren am 1. Oktober sechs neue Serienprojekte im Rahmen einer Kooperation mit der Fundación SGAE, um Produzenten, Käufer und Investoren zu gewinnen. Die Pitching-Veranstaltung zielt darauf ab, Finanzierung und internationale Reichweite neuer Fiktionsprojekte zu fördern und kreative Talente mit Akteuren der ibero-amerikanischen Audiovisualbranche zu vernetzen. Zu den vorgestellten Projekten gehört unter anderem „La librera“, das die Geschichte der ersten LGBT-Buchhandlung Spaniens erzählt.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "SCAD Savannah Film Fest: Directors of 10 of 2026’s Top Documentaries Set for ‘Docs to Watch’ Panel (Exclusive)",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/scad-savannah-film-fest-2026-docs-to-watch-panel-1236705876/",
-          "summary": "Das SCAD Savannah Film Festival und The Hollywood Reporter haben für die 13. Ausgabe ihres renommierten „Docs to Watch“-Panels die Regisseure von zehn herausragenden Dokumentarfilmen des Jahres 2026 angekündigt, darunter Ron Howards „Avedon“ (Netflix), Rory Kennedys „The Trial of Alec Baldwin“ (Abramorama) sowie Nathan Fielder und Lance Oppenheims „You Can See Everything“ (A24). Das Panel gilt als bedeutende Station auf dem Weg zu den Oscars: In den vergangenen zwölf Jahren erhielten 27 dort vertretene Filme eine Oscar-Nominierung als bester Dokumentarfilm, acht gewannen die Auszeichnung.",
+          "title": "What ‘60 Minutes’ Was Missing In Its First Two New Episodes, According to Its Ex-Managing Editor",
+          "link": "https://www.hollywoodreporter.com/business/business-news/what-60-minutes-was-missing-in-its-first-two-new-episodes-according-to-its-ex-managing-editor-1236709835/",
+          "summary": "Guy Campanile, ehemaliger Managing Editor von „60 Minutes\" und 34-jähriger CBS-News-Veteran, kritisiert in einem Interview mit The Hollywood Reporter, dass sich die ersten Episoden der 59. Staffel trotz angekündigter Veränderungen kaum von früheren Ausgaben unterscheiden. Er hinterfragt damit die Notwendigkeit der Umstrukturierung, insbesondere da die Sendung in der Vorsaison ihre Zuschauerzahlen um neun Prozent steigern konnte. Campanile war im Mai zusammen mit weiteren Kollegen entlassen worden, nachdem sie sich nach eigenen Angaben geweigert hatten, an der „Zerstörung\" des renommierten Nachrichtenformats mitzuwirken.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "‘Fire at Sea’ Producer Donatella Palermo Boards Eryk Rocha’s Buzzy Doc ‘Elza’ Ahead of Rio Film Festival Premiere (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/global/fire-at-sea-elza-rio-film-festival-premiere-1236875384/",
-          "summary": "Die oscar-nominierte italienische Produzentin Donatella Palermo („Fire at Sea\") steigt als Production Associate bei Eryk Rochas mit Spannung erwarteter Dokumentation „Elza\" über die brasilianische Sängerlegende Elza Soares ein. Der Film, der auf seltenem Archivmaterial und intimen Gesprächen aus Soares' letzten Lebensjahren basiert, feiert seine Weltpremiere beim Rio Film Festival und seine internationale Premiere in Rom. Zu den beteiligten Partnern zählen unter anderem Globo Filmes, RAI Cinema und Maria Farinha Filmes.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/festivals/turkish-baska-sinema-ai-generated-a-woman-asleep-1236871817/",
-          "summary": "Der türkische Arthouse-Verleih Baska Sinema hat sich die nationalen Kinorechte an „A Woman Asleep“ gesichert, einem experimentellen englischsprachigen KI-Spielfilm der KI-Kunst-Pionierin Vikki Bardot, der von der türkischen KI-Produktionsfirma Spongeworthy produziert wurde. Der 80-minütige Film, inspiriert vom französischen Kultfilm „The Man Who Sleeps“ (1974), thematisiert zeitgenössische Entfremdung in einer hypervernetzten Welt und soll im Frühjahr 2027 in 20 türkischen Städten in die Kinos kommen. Der Fall stellt eine seltene reguläre Kinoauswertung eines vollständig KI-generierten Spielfilms dar.",
+          "title": "Tilly Norwood Would Love to Work With Tom Holland and Olivia Colman, ‘but Only If It Were Their Digital Twins’ on an ‘AI Production’",
+          "link": "https://variety.com/2026/film/global/tilly-norwood-tom-holland-olivia-colman-ai-production-1236876240/",
+          "summary": "Ein Jahr nach der kontroversen Vorstellung der KI-Schauspielerin Tilly Norwood am Zurich Film Festival zieht Schöpferin Eline van der Velden (Particle6) Bilanz und berichtet trotz des öffentlichen Gegenwinds von einem achtfachen Unternehmenswachstum in Bereichen wie KI-Werbung, Film/TV und KI-Beratung. Norwood bleibt bewusst ohne Agentur-Vertretung, und van der Velden äußert den Wunsch nach Kollaborationen mit Stars wie Tom Holland und Olivia Colman – allerdings ausschließlich in Form ihrer digitalen Zwillinge im Rahmen einer KI-Produktion.",
           "score": 7
         }
       ]
