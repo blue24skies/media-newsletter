@@ -1,55 +1,195 @@
 {
   "newsletters": [
     {
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Dümmel sucht die \"Millionenidee\" überraschend am Vorabend",
-          "link": "https://www.dwdl.de/nachrichten/107990/duemmel_sucht_die_millionenidee_ueberraschend_am_vorabend/",
-          "summary": "Sat.1 zeigt seine neue Erfindershow \"Die Millionenidee - mit Ralf Dümmel\" ab dem 8. November überraschend nicht in der Primetime, sondern sonntags um 18:15 Uhr im Vorabendprogramm. Der ungewöhnliche Sendeplatz ermöglicht es, dass die Gewinnerprodukte bereits am Folgetag beim Handelspartner Lidl – online und in allen Filialen – erhältlich sind. Anders als bei \"Höhle der Löwen\" genügt eine bloße Idee, die Dümmel auf eigenes Risiko zur Marktreife entwickelt und deren Gewinn 50:50 geteilt wird; produziert wird die Eigenentwicklung von Endemol Shine Germany.",
-          "score": 8
+          "title": "Heidi Klum will wieder ein Live-Finale bei \"GNTM\"",
+          "link": "https://www.dwdl.de/nachrichten/108007/heidi_klum_will_wieder_ein_livefinale_bei_gntm/",
+          "summary": "Die 22. Staffel von \"Germany's Next Topmodel\" wird regulär bei ProSieben ausgestrahlt, womit Wechselspekulationen zu RTL – befeuert durch Heidi Klums \"HeidiFest\"-Auftritt – vorerst ausgeräumt sind. Klum kündigte auf Instagram die Rückkehr zu einem Live-Finale an, nachdem die vorab aufgezeichnete Vorjahres-Ausgabe durch den Kooperationspartner \"Harper's Bazaar\" zu einem vorzeitigen Leak der Gewinner geführt hatte. ProSieben wollte die Live-Pläne jedoch bislang nicht offiziell bestätigen, sodass die Aussagen der Beteiligten voneinander abweichen.",
+          "score": 7
         },
         {
           "source": "DWDL",
-          "title": "ZDF baut barrierefreie Angebote auch mithilfe von KI aus",
-          "link": "https://www.dwdl.de/nachrichten/107985/zdf_baut_barrierefreie_angebote_auch_mithilfe_von_ki_aus/",
-          "summary": "Mit der Roadmap \"Access 2028\" baut das ZDF seine barrierefreien Angebote systematisch aus: Neue Inhalte sollen grundsätzlich untertitelt werden, die Audiodeskription wird gezielt erweitert und ab 2027 kommen reichweitenstarke Formate wie \"Der Bergdoktor\", \"Die Bergretter\" und \"Markus Lanz\" in Deutscher Gebärdensprache hinzu. Um den Ausbau zu bewältigen, setzt der Sender verstärkt auf KI – etwa bei der Untertitelung von Livestreams (Standard ab Ende 2027) sowie bei der KI-gestützten Audiodeskription, die bereits bei \"Terra X\" und \"Einfach Mensch\" eingesetzt und bis 2028 auf weitere Doku-Formate ausgeweitet wird",
+          "title": "Studio Babelsberg eröffnet neue Studios für hybride Filmproduktion",
+          "link": "https://www.dwdl.de/nachrichten/108004/studio_babelsberg_eroeffnet_neue_studios_fuer_hybride_filmproduktion/",
+          "summary": "Studio Babelsberg hat im fx.center zwei neue Studios für hybride Filmproduktion eröffnet: Die \"LEDCave\" kombiniert Echtzeit-Filmaufnahmen mit Cloud-Technologien und generativer KI und verfügt über umfangreiche LED-Flächen inklusive beweglicher LED-Decke, während die \"Grey Stage\" klassische Dreharbeiten um Greenscreen, Motion Capture und 3D/4D-Scanning ergänzt. Mit der Investition positioniert sich das Unternehmen als Hightech-Campus, der Filmhandwerk mit neuen Technologien verbindet, um anspruchsvolle nationale und internationale Content-Produktionen zu ermöglichen.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Richter Alexander Hold\" feiert sein Comeback Ende Oktober",
+          "link": "https://www.dwdl.de/nachrichten/108001/richter_alexander_hold_feiert_sein_comeback_ende_oktober/",
+          "summary": "Sat.1 bringt nach über 13 Jahren die Gerichtsshow \"Richter Alexander Hold\" zurück ins Programm, die trotz Holds heutigem Mandat als Vizepräsident im Bayerischen Landtag von Filmpool Entertainment neu produziert wurde. Der Start erfolgt am 26. Oktober mit dem Primetime-Film \"Der Prozess seines Lebens\", ab dem 27. Oktober laufen die regulären Folgen werktags um 18 Uhr – auf dem Sendeplatz, den bislang Ingo Lenßen belegte. Die Rückkehr reiht sich in den Trend wiederbelebter Gerichtsformate ein, nachdem RTL bereits Ulrich Wetzel und Barbara Salesch zurückgeholt hatte.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Nach Sendefähig-Insolvenz: Labo M wächst gegen den Trend",
+          "link": "https://www.dwdl.de/nachrichten/107994/nach_sendefaehiginsolvenz_labo_m_waechst_gegen_den_trend/",
+          "summary": "Die Berliner Produktionsfirma Labo M übernimmt aus der Insolvenzmasse der abgewickelten sendefähig GmbH deren Entwicklungspipeline mit rund acht Projekten in unterschiedlichen Reifegraden sowie die beiden Ex-Geschäftsführer Christian Tipke (Festanstellung) und Manuel Möglich (Freelancer). Zu den übernommenen Projekten zählen ein \"Y-Kollektiv\"-Film für den SWR, ein WDR-Doku-Projekt und eine ZDF-Pilotierung; die Transaktion gilt als weiteres Zeichen der anhaltenden Branchenkonsolidierung.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "2,15 Milliarden Möglichkeiten: ARD Media öffnet nationale Radio-Kombi für Werbekunden",
+          "link": "https://www.horizont.net/medien/nachrichten/215-milliarden-moeglichkeiten-ard-media-oeffnet-nationale-radio-kombi-fuer-werbekunden-235999?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "ARD Media führt mit der \"Flex-Kombi\" ein neues Vermarktungsmodell ein, das Werbungtreibenden erstmals die individuelle Konfiguration nationaler Radio-Kampagnen aus 2,15 Milliarden Kombinationsmöglichkeiten ermöglicht. Der Ansatz überträgt digitale Planungslogiken auf das lineare Audio-Geschäft und ist Teil des von Ralf Hape vorangetriebenen strategischen Umbaus des Vermarktungsgeschäfts.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "TV-Quoten: Knapp 11 Millionen sehen Klopps Heimniederlage gegen Griechenland",
+          "link": "https://www.horizont.net/medien/nachrichten/tv-quoten-knapp-11-millionen-sehen-klopps-heimniederlage-gegen-griechenland-236000?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Trotz der 0:1-Heimniederlage der deutschen Fußball-Nationalmannschaft gegen Griechenland verfolgten am Sonntagabend durchschnittlich 10,969 Millionen Zuschauer die Nations-League-Partie im Ersten. Das erste Heimspiel unter Trainer Jürgen Klopp bestätigt dessen Rolle als Quotengarant für die ARD.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Verlagsgruppe Georg von Holtzbrinck: Bundeskartellamt gibt Übernahme der Zeit frei",
+          "link": "https://www.horizont.net/medien/nachrichten/verlagsgruppe-georg-von-holtzbrinck-bundeskartellamt-gibt-uebernahme-der-zeit-frei-235975?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Das Bundeskartellamt hat die vollständige Übernahme des Zeitverlags Gerd Bucerius durch die Verlagsgruppe Georg von Holtzbrinck freigegeben. Holtzbrinck erwirbt dazu die bisher von der Dieter von Holtzbrinck Medien GmbH gehaltene 50-prozentige Beteiligung und wird damit künftig alleiniger Eigentümer hinter der Wochenzeitung „Die Zeit“.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "WDR plant massiven Umbau",
+          "link": "https://kress.de/news/beitrag/156441-133-stellen-und-76-angebote-weniger-wdr-plant-massiven-umbau.html",
+          "summary": "Der WDR streicht bis Ende 2027 insgesamt 76 Angebote – darunter TV-Sendungen wie \"Frau tv\", Podcasts und Social-Media-Formate – und baut bis 2030 rund 133 Stellen ab, indem jede dritte durch Verrentung frei werdende Position nicht nachbesetzt wird. Ziel der von Intendantin Katrin Vernau angekündigten Maßnahmen ist eine stärkere Verlagerung der Ressourcen ins Digitale, begründet mit verändertem Mediennutzungsverhalten, steigenden Kosten und unsicherer Finanzierung. Das lineare TV-Programm soll sich künftig auf die reichweitenstarke Kernzeit zwischen 17 und 22.15 Uhr konzentrieren, während Dokumentationen zunächst für die ARD-",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Kartellamt gibt grünes Licht für Holtzbrinck-Übernahme Das Bundeskartellamt hat die alleinige...",
+          "link": "https://kress.de/news/beitrag/156437-zeit-deal-amtlich-kartellamt-gibt-gruenes-licht-fuer-holtzbrinck-uebernahme.html",
+          "summary": "Das Bundeskartellamt hat die Übernahme der alleinigen Kontrolle über den Zeitverlag durch die Verlagsgruppe Georg von Holtzbrinck freigegeben, wobei die bislang von der Dieter von Holtzbrinck Medien GmbH gehaltene 50-prozentige Beteiligung übergeht. Die Freigabe wurde als „wettbewerblich unbedenklich\" eingestuft und markiert einen zentralen Schritt der im Juni angekündigten Neuordnung der Holtzbrinck-Gruppe. Künftig wird Stefan von Holtzbrinck alleiniger Eigentümer der Zeit, während Dieter von Holtzbrinck seine übrigen Häuser (Handelsblatt, Tagesspiegel, Wirtschaftswoche) in der neuen Holtzbrin",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Kerstin Niederauer-Kopf über die Zukunft der TV-Quoten und drohende EU-Regulierung. “Wir räumen unser AGF-Haus bis aufs Fundament ab” Im Rahmen des AGF Forums hat die AGF Videoforschung verkündet, ihr Messsystem mit einem “Upgrade” weiterzuentwickeln. U.a. sollen eine Integration von Rückkanaldaten via HbbTV und erstmals “synthetisch generierte Fälle” in einem “virtuellen Panel” implementiert werden. Im Video-Interview mit dem MEEDIA-Schwestermedium “turi2” spricht AGF-Chefin Kerstin Niederauer-Kopf über die Pläne",
+          "link": "https://meedia.de/news/beitrag/25142-wir-raeumen-unser-agf-haus-bis-aufs-fundament-ab.html",
+          "summary": "Die AGF Videoforschung plant einen grundlegenden Neubau ihres TV-Messsystems und integriert dabei erstmals HbbTV-Rückkanaldaten von bis zu acht Millionen Geräten sowie synthetisch generierte Fälle in einem virtuellen Panel. AGF-Chefin Kerstin Niederauer-Kopf warnt zugleich, dass neue EU-Datenschutzstandards die plattformübergreifende Reichweitenmessung existenziell gefährden könnten.",
+          "score": 10
+        },
+        {
+          "source": "meedia",
+          "title": "Vom 8. November an auf Sat.1 Ralf Dümmels \"Millionenidee\" läuft am Sonntagvorabend Bald bekommt...",
+          "link": "https://meedia.de/news/beitrag/25139-ralf-duemmels-quot-millionenidee-quot-laeuft-am-sonntagvorabend.html",
+          "summary": "Sat.1 startet am 8. November die Erfindershow „Die Millionenidee\" mit „Höhle der Löwen\"-Investor Ralf Dümmel – bewusst auf dem erfolgreichen Vorabendsendeplatz sonntags um 18.15 Uhr statt in der Prime Time. Kern des Formats ist eine Kooperation mit dem Discounter Lidl, bei der die siegreiche Produktidee bereits am Folgetag in allen deutschen Filialen erhältlich sein soll. Dümmel trägt dabei das volle finanzielle Risiko, der Gewinn wird nach Kostenabzug hälftig geteilt.",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "BBC ‘risks entering inescapable doom spiral’ as further cuts hit TV and radio",
+          "link": "https://www.theguardian.com/media/2026/sep/24/bbc-doom-spiral-cuts-hit-tv-and-radio",
+          "summary": "Die BBC steht vor massiven Einsparungen von 500 Millionen Pfund und dem Abbau von bis zu 2.000 Stellen, wobei die Schließung von TV- und Radioprogrammen sowie der Abbau lokaler Spezialkorrespondenten-Rollen bevorstehen. Gewerkschaften warnen vor einer „Abwärtsspirale\" aus endlosen Kürzungen und schwindender öffentlicher Unterstützung, während die Belegschaftsmoral als extrem niedrig beschrieben wird und Streiks über Bezahlung und Stellenabbau drohen. Betroffen sind unter anderem der mögliche zweite Rückzug des Senders BBC Three aus dem Fernsehen sowie die Streichung von 350 bis 400 Stunden Audioinhalt bis zum Ende des nächsten",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Film Execs Ponder Federal Film Tax Credit Impact, Timeline & Potential Price Rises — Zurich Summit",
-          "link": "https://deadline.com/2026/09/federal-film-tax-incentives-impact-timeline-price-rises-1237114676/",
-          "summary": "Beim Zurich Summit bewerteten Filmfinanciers den neu vorgestellten überparteilichen Gesetzentwurf für einen US-Bundessteueranreiz von 20 % (mit Boni bis 30 %) überwiegend positiv, warnten jedoch, dass die Umsetzung drei bis vier Jahre dauern könnte und internationale Steueranreize dadurch verstärkt unter Wettbewerbsdruck geraten würden. Zwar zielt der Entwurf auf Produktionen ab 2027, ein konkreter Starttermin steht jedoch noch aus. Experten wie Andrea Scarso von IPR.VC warnten zudem vor dem Risiko steigender Produktionskosten, wie es in einigen ausländischen Märkten nach Einführung solcher Anreize zu beobachten war.",
+          "title": "‘Resident Evil’ Producer Carter Swan Developing Keenspot Comic Book ‘The Crying Boy’ For Film",
+          "link": "https://deadline.com/2026/09/the-crying-boy-movie-resident-evil-producer-carter-swan-1237115414/",
+          "summary": "Carter Swan, Produzent von Zach Creggers erfolgreicher „Resident Evil\"-Verfilmung, entwickelt eine Filmadaption der Keenspot-Comicserie „The Crying Boy\" von Niall O'Rourke und Rob Moran, deren Drehbuch Rona Mark verfasst. Die 2024 erschienene Horror-Geschichte handelt von einer trauernden Witwe in Queens, die ihren Sohn vor einem uralten Dämon retten muss, der in einem Gemälde eines weinenden Kindes gebunden ist. Swan war fast acht Jahre als Senior Producer bei PlayStation Productions tätig und erhielt für „The Last of Us\" zwei Emmy-Nominierungen.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘Star Wars’ Is Continuing Skywalker Saga With ‘Spider-Man’ Director Jon Watts",
-          "link": "https://deadline.com/2026/09/star-wars-continuing-skywalker-saga-director-jon-watts-1237114584/",
-          "summary": "Lucasfilm hat Jon Watts (Regisseur der „Spider-Man\"-Trilogie mit Tom Holland und Co-Schöpfer von „Skeleton Crew\") als Regisseur für den ersten Teil einer neuen Skywalker-Saga-Trilogie verpflichtet, deren Drehbuch von Simon Kinberg stammt. Nach acht Jahren kehrt die Franchise damit zur Skywalker-Familie zurück, wobei Daisy Ridley Berichten zufolge erneut als Rey auftreten soll. Das Projekt hat bislang jedoch noch kein offizielles Greenlight von Disney erhalten.",
+          "title": "Ben Hardy To Lead Prime Video’s ‘Stillwater’ As Daniel West",
+          "link": "https://deadline.com/2026/09/ben-hardy-stillwater-prime-video-series-1237115379/",
+          "summary": "Ben Hardy („Bohemian Rhapsody\", „The Conjuring: Last Rites\") übernimmt die Hauptrolle des Ex-Häftlings Daniel West in der Prime-Video-Serie „Stillwater\", einem Mystery-Horror-Thriller nach der Skybound-Graphic-Novel von Chip Zdarsky und Ramón K Pérez. Die achtteilige Serie stammt von Berlanti Productions, Warner Bros. Television, Skybound Entertainment und Amazon MGM Studios, wobei Greg Berlanti und Carly Wray als Executive Producer fungieren und gemeinsam die Pilotfolge verfasst haben.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "BBC Tech Teams Hit With Fresh $50M Round Of Cuts, Including 110 Compulsory Layoffs",
+          "link": "https://deadline.com/2026/09/bbc-tech-teams-cuts-110-compulsory-layoffs-1237115260/",
+          "summary": "Die BBC-Abteilung Media Tech, verantwortlich für Online-Dienste wie iPlayer, kündigt eine weitere Sparrunde von 37 Millionen Pfund (50 Mio. USD) an, die 110 betriebsbedingte Kündigungen sowie rund 180 freiwillige Abgänge umfasst. Damit trägt die Tech-Sparte 102 Millionen Pfund zum Gesamtsparziel des Senders von 500 Millionen Pfund bei, das durch rückläufige Einnahmen aus der Rundfunkgebühr notwendig wurde. Zur Kostensenkung setzt die BBC verstärkt auf KI, fokussiert sich auf weniger Produkte und will Ressourcen gezielt in die Verbesserung des iPlayer investieren.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Shawn Levy Moves To Disney’s 20th Television With Overall Deal After Long Tenure At Netflix",
+          "link": "https://deadline.com/2026/09/shawn-levy-disney-20th-tc-overall-deal-leaving-netflix-1237115308/",
+          "summary": "Regisseur und Produzent Shawn Levy wechselt mit seiner Produktionsfirma 21 Laps Entertainment nach dem Ende von \"Stranger Things\" von Netflix zu Disneys 20th Television und unterzeichnet einen mehrjährigen Overall-Deal. Der Wechsel wird durch Levys bestehende Zusammenarbeit mit Disney im Filmbereich begünstigt, wo er unter anderem \"Deadpool & Wolverine\" inszenierte und aktuell an \"Star Wars: Starfighter\" arbeitet. 20th Television konnte damit in den vergangenen Monaten – neben Levy auch mit Quinta Brunson und Sue Naegle – hochkarätige Talente von Konkurrenzstudios abwerben.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Ohio House of Horrors Doc Set At Oxygen",
+          "link": "https://deadline.com/2026/09/ohio-house-of-horrors-doc-oxygen-1237114246/",
+          "summary": "Der Sender Oxygen (Versant) hat mit KT Studios die 90-minütige True-Crime-Dokumentation „The Siders 16: Ohio House of Horrors“ (Regie: Stephanie Lydecker) greengelightet, die den Fall von 16 unter katastrophalen Bedingungen in Ohio aufgefundenen Kindern und die Verhaftung ihrer Eltern und Großeltern behandelt. Die Doku, die noch in diesem Jahr auf Oxygen True Crime Premiere feiert, wird von einem zehnteiligen Companion-Podcast begleitet – dem ersten seiner Art für den Sender. Sie knüpft an den Erfolg von „The Hooters Murders: Deadly Shift“ an, der meistgesehenen Oxygen-Doku-Premiere seit über zwei Jahren.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "James Gray on Broader Takeaways From Personal Film ‘Paper Tiger’: “What Connects Us Is What Matters”",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/paper-tiger-james-gray-takeaways-ending-1236712649/",
-          "summary": "Regisseur James Gray präsentierte auf dem New York Film Festival 2026 seinen neuen Film „Paper Tiger“, ein von seiner Familiengeschichte inspiriertes Krimidrama über eine Queens-Familie der 1980er-Jahre, die sich mit der russischen Mafia verstrickt (Hauptrollen: Miles Teller und Adam Driver). Anders als sein semi-autobiografisches Werk „Armageddon Time“ verfolge dieser Film einen „hitchcockianischeren“, dramatisch intensiveren Ansatz. Gray betont als zentrale Botschaft die Bedeutung zwischenmenschlicher Beziehungen und der Liebe.",
+          "title": "Shawn Levy Inks Overall Deal With Disney’s 20th Television",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/shawn-levy-overall-tv-deal-disney-1236713548/",
+          "summary": "Der Produzent und Regisseur Shawn Levy hat mit seiner Produktionsfirma 21 Laps Entertainment einen umfangreichen Overall-Deal mit Disneys 20th Television unterzeichnet, der ab Oktober 2027 in Kraft tritt und seinen Wechsel von Netflix markiert, wo er seit 2017 ansässig war. Für Levy bedeutet der Deal zugleich eine Rückkehr zu Disney, da er seine Karriere einst mit der Regie von Disney-Channel-Serien wie „The Famous Jett Jackson“ und „So Weird“ begann. Die Partnerschaft wird auch durch seine langjährige berufliche Beziehung zu Disney-Chefin Dana Walden aus gemeinsamen Fox-Zeiten gestärkt.",
+          "score": 9
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Daisy Jelley and Connor Simos Tapped to Lead Netflix Hockey Romance ‘Icebreaker’",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/daisy-jelley-connor-simos-cast-netflix-icebreaker-1236713498/",
+          "summary": "Netflix hat Daisy Jelley und Connor Simos als Hauptdarsteller für die College-Romantik-Serie „Icebreaker\" gecastet, basierend auf Hannah Graces Bestseller-Roman über die Beziehung zwischen einer Eiskunstläuferin und einem Hockeyspieler. Als Showrunnerin fungiert Amanda Lasher („Gossip Girl\"), während Alex Coopers Unwell Productions die Serie produziert. Der Greenlight erfolgt im Zuge des Erfolgs anderer Hockey-Romance-Serien wie „Heated Rivalry\" bei Crave und HBO Max und positioniert Netflix im wachsenden Sub-Genre der Hockey-Romantik.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "What Will David Ellison Name His Mega Hollywood Studio?",
+          "link": "https://www.hollywoodreporter.com/business/business-news/david-ellison-name-paramount-warner-skydance-1236712904/",
+          "summary": "David Ellison steht nach seiner 111-Milliarden-Dollar-Fusion vor der Entscheidung, wie der neue Medienkonzern aus Paramount, Skydance und Warner Bros. Discovery benannt werden soll – bislang kursieren inoffizielle Bezeichnungen wie „WarnerMount\" oder „ParaBros\". Die Namenswahl gilt als strategisch bedeutsames Signal an Branche und Wall Street, da sie zeigt, ob Ellison sich zukunftsorientiert als Herausforderer der Tech-Giganten oder eher nostalgisch als traditioneller Hollywood-Player positioniert. Eine offizielle Bekanntgabe steht noch aus, Paramount enthält sich jeglicher Kommentare.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Madrid’s Iberseries & Platino Industria Bosses Tout Expansion and Innovation: “The Key Is Usefulness”",
+          "link": "https://www.hollywoodreporter.com/business/business-news/iberseries-platino-industria-2026-preview-ai-usefulness-1236697465/",
+          "summary": "Die sechste Ausgabe von Iberseries & Platino Industria bringt in Madrid Produzenten, Kreative und Führungskräfte aus Europa, Lateinamerika und den USA zusammen, um Chancen im spanisch- und portugiesischsprachigen Content-Markt zu erörtern. Im Fokus der viertägigen Veranstaltung stehen Themen wie KI, Microdramas, Koproduktionen und literarische Adaptionen, ergänzt durch Keynotes, Panels und Pitching-Sessions. Zu den prominenten Sprechern zählen Regisseurin Katina Medina Mora, NBCUniversal-Telemundo-Chef Luis Fernández sowie YouTube-EMEA-Vizepräsident Pedro Pina.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Italy’s Fandango Distribution Acquires Zurich Doc Jury President’s ‘Rescue’, RTS Joins as Broadcaster (Exclusive)",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/fandango-zurich-rescue-documentary-rts-film-jury-president-1236713457/",
+          "summary": "Die italienische Fandango Distribution hat sich alle Rechte an Sine Plambechs Dokumentarfilm „Rescue\" gesichert, während RTS als Sender zu den Pre-Sale-Partnern DR, VPRO, SVT und NRK stößt – vermittelt durch den Weltvertrieb Autlook Filmsales. Der 80-minütige Film erzählt die Geschichte einer jemenitischen Mutter, die nach einer Rettungsaktion im Mittelmeer um die Wiedervereinigung ihrer Familie kämpft, und wurde mit seltenem Zugang an Bord der Geo Barents von Ärzte ohne Grenzen gedreht. Nach der Weltpremiere beim TIFF feiert der Film nun seine Europapremiere beim Zurich Film Festival, wo Plambech als Präsidentin der",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Amazon to Develop ‘Shadow Work’ Series Based on Adrienne Miller Short Story, Marc Resteghini to Produce (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/news/amazon-shadow-work-adrienne-miller-short-story-resteghini-1236877358/",
+          "summary": "Amazon MGM Studios hat sich in einem kompetitiven Bieterverfahren die Rechte an einer einstündigen Serienadaption der Kurzgeschichte „Shadow Work\" von Adrienne Miller gesichert, die selbst den Piloten schreibt und als Executive Producer fungiert. Die Serie erzählt von der Elite-Ghostwriterin Genevieve Pearce, die Geheimnisse der Reichen und Mächtigen verwaltet und deren Erzählungen umschreibt. Produziert wird das Projekt zudem vom ehemaligen Amazon-Manager Marc Resteghini über Jack Tar Pictures, das einen Overall-Deal bei Amazon MGM Studios hat.",
+          "score": 9
+        },
+        {
+          "source": "Variety",
+          "title": "‘Stillwater’: Amazon Series Based on Graphic Novel Casts Ben Hardy in Lead Role",
+          "link": "https://variety.com/2026/tv/news/stillwater-amazon-series-graphic-novel-cast-ben-hardy-1236875992/",
+          "summary": "Amazon Prime Video hat Ben Hardy als Hauptdarsteller für die achtteilige Serienadaption der Skybound-Graphic-Novel „Stillwater“ besetzt, die im Juli 2026 greenlit wurde. Der als „mind-bending Horror-Thriller“ beschriebene Stoff folgt dem Ex-Häftling Daniel West, der in einer Kleinstadt landet, in der niemand altert, stirbt oder entkommt. Als Autoren und Executive Producer fungieren Greg Berlanti und Carly Wray.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "‘Crew Girl’ Star Miku Martineau on the Show’s Love Triangle and Her Hopes for an All-Girls Team in Season 2",
+          "link": "https://variety.com/2026/tv/features/crew-girl-miku-martineau-love-triangle-season-2-1236875227/",
+          "summary": "Die Netflix-YA-Sportserie „Crew Girl\" mit Hauptdarstellerin Miku Martineau hält sich seit ihrer Veröffentlichung am 10. September 2026 in den englischsprachigen TV-Top-10 und erzielte in den ersten zwei Wochen über 16 Millionen Views. Die Serie thematisiert eine Liebesdreieck-Handlung zwischen den Figuren, während sich die Darsteller zur Vorbereitung einem zweiwöchigen Ruder-Intensivtraining in British Columbia unterzogen. Martineau äußerte im Interview zudem ihre Hoffnung auf ein reines Frauen-Team für eine mögliche zweite Staffel.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
-          "link": "https://variety.com/2026/film/festivals/jia-zhangke-mamma-dunhuang-ai-production-1236876776/",
-          "summary": "Regisseur Jia Zhangke bereitet mit „Mamma Dunhuang\" ein Road Movie vor, das erneut seine langjährige Hauptdarstellerin Zhao Tao besetzt und im Frühwinter gedreht werden soll; die Handlung folgt einer Frau, die vom westchinesischen Dunhuang bis zur Ostküste fährt. Bemerkenswert ist Jias klare Absage an KI in der Produktion – künstliche Intelligenz spielt lediglich als Element innerhalb der Geschichte eine Rolle, in der die Protagonistin sie als Reisehilfe nutzt. Die Ankündigung erfolgte anlässlich der 10. Ausgabe des von Jia gegründeten Pingyao International Film Festivals.",
-          "score": 7
+          "title": "Shawn Levy Enters Disney Overall Deal After Nearly a Decade at Netflix",
+          "link": "https://variety.com/2026/tv/news/shawn-levy-disney-deal-netflix-1236877441/",
+          "summary": "Regisseur und Produzent Shawn Levy wechselt mit seiner Produktionsfirma 21 Laps Entertainment zu Disneys 20th Television und beginnt dort ab Oktober 2027 mit der Entwicklung neuer Projekte, nachdem sein seit 2017 bestehender Deal bei Netflix ausläuft. Trotz des Wechsels bleibt Levy Netflix über die „Stranger Things“-Franchise erhalten, an der er weiterhin mit den Duffer-Brüdern zusammenarbeitet. Die Verbindung zu Disney ist nicht neu – Levy inszenierte zuletzt den MCU-Erfolg „Deadpool & Wolverine“ (2024) und war bereits früh bei Disney-Produktionen wie den „Nachts im Museum“-Filmen aktiv.",
+          "score": 9
         },
         {
           "source": "Variety",
-          "title": "‘Godzilla Minus Zero’ Director Champions Franchise’s First R Rating as Sequel Rocks NYFF at World Premiere: ‘Censoring’ the Action ‘Was Not an Option’",
-          "link": "https://variety.com/2026/film/news/godzilla-minus-zero-r-rated-takashi-yamazaki-nyff-1236876643/",
-          "summary": "„Godzilla Minus Zero\", die Fortsetzung des Erfolgsfilms „Godzilla Minus One\" von 2023, feierte beim New York Film Festival eine umjubelte Weltpremiere und erhielt als erster Film der 72-jährigen Franchise-Geschichte ein R-Rating (wegen „gewalttätiger Inhalte/blutiger Bilder\"). Regisseur Takashi Yamazaki verteidigt die Einstufung als „essenziell\" für den Film und betont, dass eine Zensur oder Kürzung bestimmter Schlüsselszenen für ihn keine Option gewesen sei – trotz der kommerziellen Risiken, die eine R-Einstufung traditionell für Blockbuster mit breiter Zielgruppe mit sich bringt.",
+          "title": "Media Company HardScope Launches With Studio Built Around Creator-Led IP, Sets Digital Series Slate (EXCLUSIVE)",
+          "link": "https://variety.com/2026/digital/news/hardscope-media-company-creator-ip-studio-1236874682/",
+          "summary": "Das neu gegründete Medienunternehmen HardScope unter CEO Matt Kalish startet am 30. September mit einem YouTube-Kanal und einer Slate digitaler Serien, die auf creator-geführtem geistigem Eigentum basieren. Das Geschäftsmodell sieht vor, Creator als Equity-Partner an den von ihnen mitentwickelten IPs zu beteiligen, um Original-Franchises für Markenpartnerschaften, Live-Events, Lizenzierung und Distribution auszubauen. Das erste Serienpaket – darunter „R3born With N3on“ und „Unpacked With Matcrackz“ – wird mit knapp 4 Millionen US-Dollar an Produktions- und Entwicklungsinvestitionen zwischen September und November veröffentlicht.",
           "score": 7
         }
       ]
