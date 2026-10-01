@@ -1,126 +1,154 @@
 {
   "newsletters": [
     {
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "articles": [
         {
-          "source": "DWDL",
-          "title": "ProSieben und Sat.1 reduzieren Wiederholungsrate im September",
-          "link": "https://www.dwdl.de/nachrichten/108023/prosieben_und_sat1_reduzieren_wiederholungsrate_im_september/",
-          "summary": "Nach der sommerbedingten Wiederholungsflaute stieg im September 2026 der Anteil an Erstausstrahlungen im Abendprogramm bei allen Sendern wieder an, wobei ZDF, RTL und Das Erste mit rund 85 Punkten im Frische-Index nahezu gleichauf an der Spitze liegen. ProSieben und Sat.1 verzeichneten mit jeweils +15 Prozentpunkten gegenüber dem Vorjahr die stärkste Verbesserung, folgen aber mit etwa 20 Punkten Abstand deutlich dahinter. Über das gesamte Jahr betrachtet bleibt die Wiederholungsrate jedoch bei allen Sendern höher als im Vorjahreszeitraum – am deutlichsten stieg sie bei Sat.1 (-15 Punkte im J",
+          "source": "Horizont Medien",
+          "title": "Formel-1-Legende: &quot;Schumacher &#039;94&quot;: Das bietet die neue Schumi-Doku auf Netflix",
+          "link": "https://www.horizont.net/medien/nachrichten/formel-1-legende-schumacher-94-das-bietet-die-neue-schumi-doku-auf-netflix-236073?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Netflix veröffentlicht am 2. Oktober 2026 weltweit die Dokumentation „Schumacher '94 – Die Geburt einer Legende\", die Michael Schumachers erste Weltmeister-Saison chronologisch nacherzählt. Der Film beleuchtet dabei insbesondere die verletzliche Seite des Rennfahrers, die dieser öffentlich nie zeigen wollte.",
           "score": 8
         },
         {
-          "source": "DWDL",
-          "title": "Produzenten-Allianz \"The Creatives\" wird zur Holding",
-          "link": "https://www.dwdl.de/nachrichten/108029/produzentenallianz_the_creatives_wird_zur_holding/",
-          "summary": "Die europäische Produzenten-Allianz \"The Creatives\", bestehend aus neun Produktionsfirmen mit insgesamt 17 Produzenten, überführt ihr bisheriges Koproduktionsnetzwerk in eine formalisierte Holding-Struktur, wobei Anton Studios als europäischer Minderheitsinvestor einsteigt. Die kreative und geschäftliche Kontrolle sowie Namen, Teams und Projektentscheidungen verbleiben bei den einzelnen Produzenten, während die Holding als gemeinsamer Ansprechpartner mehr Gewicht gegenüber internationalen Auftraggebern, Streamingdiensten und Vertrieben erhalten soll. Geleitet wird das Vorhaben von CEO Romain Bessi, dem früheren Chairman und CEO von Newen Studios (heute",
+          "source": "Horizont Medien",
+          "title": "Personalie: Paramount holt Mattel-Chef in die Führungsspitze",
+          "link": "https://www.horizont.net/medien/nachrichten/personalie-paramount-holt-mattel-chef-in-die-fuehrungsspitze-236070?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Kurz vor dem Abschluss der Warner-Brothers-Übernahme verstärkt Paramount seine Führungsspitze mit Mattel-Chef Ynon Kreiz, dem Kopf hinter dem „Barbie\"-Erfolg. Kreiz soll als Co-CEO neben David Ellison das operative Geschäft verantworten und den erwarteten umfassenden Umbau des neuen Hollywood-Giganten steuern.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Der TV-Markt im September: RTL und Das Erste legen dank Fußball-Länderspielen zu",
+          "link": "https://www.horizont.net/medien/nachrichten/der-tv-markt-im-september-rtl-und-das-erste-legen-dank-fussball-laenderspielen-zu-236063?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Fußball-Länderspiele Ende September bescherten RTL und dem Ersten starke Einschaltquoten und führten zu positiven Monatsbilanzen beider Sender. Die Zugewinne der großen Kanäle beendeten zugleich den vorherigen Aufwärtstrend vieler kleinerer Sender.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Streaming: Der Fall Amazon Prime: BGH prüft Preiserhöhung",
+          "link": "https://www.horizont.net/medien/nachrichten/streaming-der-fall-amazon-prime-bgh-prueft-preiserhoehung-236057?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der BGH verhandelt über die Rechtmäßigkeit der Amazon-Prime-Preiserhöhung von 2022, bei der der Jahrespreis um mehr als 20 Euro angehoben wurde, ohne die ausdrückliche Zustimmung der betroffenen Millionen Kunden einzuholen. Die Verbraucherzentrale NRW hält das Vorgehen für rechtswidrig; bei einer Niederlage drohen Amazon Rückzahlungen in Millionenhöhe. Das Urteil könnte wegweisend für die gesamte Streaming-Branche und deren Preisgestaltungspraxis sein.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "&quot;Sehr einsame Entscheidung&quot;: Warum Jan Böhmermann mit dem &quot;ZDF Magazin Royale&quot; Schluss macht",
+          "link": "https://www.horizont.net/medien/nachrichten/sehr-einsame-entscheidung-jan-boehmermann-hat-aus-fuer-zdf-magazin-royale-selbst-beschlossen-236019?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Jan Böhmermann beendet das \"ZDF Magazin Royale\" aus eigenem Entschluss, wie er im Podcast \"Fest & Flauschig\" betont. Als Grund nennt der Satiriker, dass ihm die Sendung aktuell noch Spaß mache, er dies aber für die Zukunft nicht garantieren könne. Ein Nachfolgeformat befindet sich bereits in Planung.",
           "score": 9
         },
         {
-          "source": "DWDL",
-          "title": "Sachsen-Anhalt: Staatsminister Rainer Robra tritt zurück",
-          "link": "https://www.dwdl.de/nachrichten/108027/sachsenanhalt_staatsminister_rainer_robra_tritt_zurueck/",
-          "summary": "Rainer Robra, langjähriger Staatsminister und Chef der Staatskanzlei in Sachsen-Anhalt, tritt zum 5. Oktober 2026 kurz vor seinem 75. Geburtstag zurück und geht in den Ruhestand. Als zentrale Figur der Medienpolitik forderte er wiederholt tiefgreifende Reformen von ARD und ZDF und trug maßgeblich dazu bei, dass das Beitragsfestsetzungsverfahren in die Krise geriet – zuletzt sorgte er mit dem offenen Eingeständnis für Aufsehen, dass die Blockade der Beitragserhöhung politisch aus Angst vor der AfD motiviert sei.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Ex-P7S1-Vorstand Breitenecker wird Group CEO der DEAG",
-          "link": "https://www.dwdl.de/nachrichten/108022/exp7s1vorstand_breitenecker_wird_group_ceo_der_deag/",
-          "summary": "Markus Breitenecker, ehemaliger COO von ProSiebenSat.1, wird zum 1. November Group CEO der Deutschen Entertainment AG (DEAG) und übernimmt zugleich Unternehmensanteile. Der langjährige Medien- und Entertainment-Manager soll die paneuropäische Expansion des im Live-Entertainment tätigen Unternehmens vorantreiben, neue Geschäftsfelder erschließen und die technologische Weiterentwicklung der Ticketing-Plattform verantworten.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "&quot;Inside CDU&quot;: Eine ZDF-Doku und ihre Folgen",
-          "link": "https://www.horizont.net/medien/nachrichten/inside-cdu-eine-zdf-doku-und-ihre-folgen-236040?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die zweite Staffel der ZDF-Doku \"Inside CDU\", seit dem 22. September im ZDF-Streaming-Portal verfügbar, hat eine Debatte über Auftreten und Kommunikation der Partei ausgelöst. Besonders kritisiert wurde eine Szene mit Staatsminister Philipp Amthor und einem privat finanzierten Strandkorb im Kanzleramt, die exemplarisch für die Frage nach authentischer politischer Selbstdarstellung steht.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "10 Jahre ARD/ZDF-Jugendangebot: KI zwingt Funk zur Neuerfindung",
-          "link": "https://www.horizont.net/medien/nachrichten/10-jahre-ardzdf-jugendangebot-ki-zwingt-funk-zur-neuerfindung-236020?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Das ARD/ZDF-Jugendangebot funk feiert sein zehnjähriges Bestehen und muss sich nach Einschätzung seiner Programmmacher angesichts des KI-Zeitalters neu erfinden. Das für die Zielgruppe der 14- bis 29-Jährigen konzipierte Online-Netzwerk erneuert sich kontinuierlich, um mit den sich stetig wandelnden Nutzungsgewohnheiten der jungen Zielgruppe Schritt zu halten.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "ID-Offensive: Warum OWM-Vorstand Florian Bluhm die Mediaagenturen in der Pflicht sieht",
-          "link": "https://www.horizont.net/medien/nachrichten/interview-id-offensive-warum-owm-vorstand-florian-bluhm-die-mediaagenturen-in-der-pflicht-sieht-235974?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der OWM-Vorstand Florian Bluhm setzt sich gemeinsam mit Kristina Bulle (Procter & Gamble) für den Ausbau deterministischer IDs wie NetID und Utiq ein, um Reichweiten im Open Web besser zu erschließen. Im HORIZONT-Interview nimmt er dabei besonders die Mediaagenturen in die Pflicht und gibt einen Überblick über den aktuellen Stand der ID-Offensive.",
-          "score": 7
-        },
-        {
           "source": "kress",
-          "title": "Christian Sieh leitet neue Stabstelle bei Studio Hamburg Christian Sieh soll künstliche Intelligenz...",
-          "link": "https://kress.de/news/beitrag/156451-vom-ndr-satire-chef-zum-ki-vorreiter-christian-sieh-leitet-neue-stabstelle-bei-studio-hamburg.html",
-          "summary": "Die Studio Hamburg Production Group richtet die neue unternehmensweite Stabstelle \"AI Transformation\" ein, deren Leitung Christian Sieh als Head of AI Transformation übernimmt und den KI-Einsatz über alle zwölf Produktionstöchter hinweg vorantreiben soll. Ziel ist es dabei nicht nur, Effizienz zu steigern, sondern auch neue Produktionsmöglichkeiten und Geschäftsfelder zu erschließen. Sieh bringt einschlägige Erfahrung mit: Zuvor baute er bei Alwayson Production eine KI-Unit für KI-generierte Videoinhalte auf und war beim NDR unter anderem als stellvertretender Redaktionsleiter von \"Extra 3\" tätig.",
-          "score": 8
-        },
-        {
-          "source": "kress",
-          "title": "\"Fliegende Autos\" und Johnny Depp: Berthold übernimmt ARD-Studio Prag Nach 15 Jahren übergibt Danko Handrick die Leitung des ARD-Auslandsstudios.",
-          "link": "https://kress.de/news/beitrag/156446-quot-fliegende-autos-quot-und-johnny-depp-berthold-uebernimmt-ard-studio-prag.html",
-          "summary": "Zum 1. Oktober 2026 übernimmt André Berthold (41) die Leitung des ARD-Studios Prag und folgt damit auf Danko Handrick, der das Studio insgesamt 15 Jahre leitete und künftig für die MDR-Chefredaktion sowie das \"ARD-Mittagsmagazin\" tätig sein wird. Berthold, zuvor Reporter und Chef vom Dienst bei \"MDR Aktuell\" und dem \"ARD-Mittagsmagazin\", gehört bereits zum Studioteam und soll den Standort laut MDR-Chefredakteurin Christin Bohmann crossmedial weiterentwickeln. Das seit über 60 Jahren bestehende Studio zählt zu den ältesten ARD-Auslandsstudios und wird seit 1993 vom MDR verantwortet.",
+          "title": "Was machen US-Medien mit KI schon besser? Ulrike Langer zeigt es beim kress Innovation Day Ulrike...",
+          "link": "https://kress.de/news/beitrag/154264-was-machen-us-medien-mit-ki-schon-besser-ulrike-langer-zeigt-es-beim-kress-innovation-day.html",
+          "summary": "Beim kress Innovation Day 2026 am 8. Oktober (Online-Event, 9:30–12:30 Uhr) zum Thema „KI in der Medienbranche“ präsentiert US-Korrespondentin Ulrike Langer in ihrem Vortrag „Wohin geht die Reise? – Tech-Trends aus den USA“, welche US-Medien ihre Workflows bereits erfolgreich mit KI optimiert haben und worauf sich Medienhäuser künftig einstellen sollten. Weitere Sprecher sind Kassian A. Goukassian (Falkemedia) und Johannes Sommer (Retresco), der sein Konzept „Liquid Content“ vorstellt.",
           "score": 7
         },
         {
-          "source": "kress",
-          "title": "WDR plant massiven Umbau Fernsehsendungen, Podcasts, Social-Media-Angebote: Der WDR stellt bis Ende 2027 gleich 76 Angebote ein.",
-          "link": "https://kress.de/news/beitrag/156441-133-stellen-und-76-angebote-weniger-wdr-plant-massiven-umbau.html",
-          "summary": "Der WDR streicht bis Ende 2027 insgesamt 76 Angebote – darunter Fernsehsendungen wie \"Frau tv\", Podcasts und Social-Media-Formate – und baut bis 2030 rund 133 Stellen ab, indem jede dritte durch Verrentung frei werdende Position nicht nachbesetzt wird. Ziel ist eine stärkere Verlagerung der Ressourcen ins Digitale, wobei das Portfolio von rund 600 auf 300 Angebote reduziert und das lineare TV-Programm künftig auf die Kernzeit zwischen 17 und 22:15 Uhr konzentriert wird. Als Begründung nennt Intendantin Katrin Vernau die veränderte Mediennutzung, steigende Kosten und eine ungewisse Finanzierung.",
+          "source": "meedia",
+          "title": "Die Streaming-Charts für den September Prime Video pulverisiert mit erster von der AGF gemessener...",
+          "link": "https://meedia.de/news/beitrag/25163-prime-video-pulverisiert-mit-erster-von-der-agf-gemessener-champions-league-partie-die-streaming-konkurrenz.html",
+          "summary": "Erstmals wurden Prime Videos Champions-League-Übertragungen von der AGF gemessen: Borussia Dortmunds Sieg gegen Villarreal erreichte 4,605 Millionen Views und übertraf damit deutlich die restliche Streaming-Konkurrenz, die maximal 2,808 Millionen erzielte. Prime Video dominierte den September mit acht der ersten elf Plätze in den AGF-Charts, wobei neben der Champions League auch die Serie „Reacher\" und RTLs „Sommerhaus der Stars\" vorne lagen. Für kommende Top-Partien wie Atletico Madrid gegen Bayern oder die K.O.-Runde werden noch höhere Reichweiten erwartet.",
+          "score": 9
+        },
+        {
+          "source": "meedia",
+          "title": "CEO Thorsten Braun baut um Jörg Neunecker übernimmt die Marken-Verantwortung bei RTL Zwei Der Privatsender RTL Zwei stellt seine Organisation neu auf.",
+          "link": "https://meedia.de/news/beitrag/25161-joerg-neunecker-uebernimmt-die-marken-verantwortung-bei-rtl-zwei.html",
+          "summary": "RTL Zwei stellt seine Organisation unter CEO Thorsten Braun neu auf, mit dem Ziel, TV, Streaming und Social Media stärker zu verzahnen, datenbasierte Entscheidungen zu fördern und neue Geschäftsfelder schneller zu entwickeln. Jörg Neunecker, bisher Direktor Kommunikation, steigt auf die EVP-Ebene auf und übernimmt als Senior Vice President die neu formierte Unit Brand & Communications, die Markenstrategie, Corporate Identity, Kampagnenarchitektur, Media und Kommunikation bündelt.",
           "score": 10
         },
         {
-          "source": "Deadline",
-          "title": "HBO Max Developing Spanish Series About Mysterious Tor Mountain Community Produced By ‘La Bola Negra’ Directors",
-          "link": "https://deadline.com/2026/09/hbo-max-series-tor-community-la-bola-negra-javis-1237143163/",
-          "summary": "HBO Max entwickelt eine spanische Mystery-Serie über die abgelegene Bergsiedlung Tor, wo drei bis heute ungeklärte Morde stattfanden, die bereits durch die Doku-Serie von Journalist Carles Porta (2024) Aufmerksamkeit erlangten. Als Executive Producer fungieren die Cannes-prämierten „La Bola Negra“-Regisseure Javier Calvo und Javier Ambrossi (Die Javis) zusammen mit den Goya-Gewinnern Fran Araújo und Eduard Sola, produziert von Suma Content und Luminol Media. Das Projekt ist Teil der wachsenden europäischen Originals-Strategie von HBO Max unter dem lokalen Produktionschef Guillermo Farré.",
-          "score": 8
+          "source": "meedia",
+          "title": "die Marktanteile von 114 TV-Sendern TV-Monat September: Kabel Eins und Welt stark wie lang nicht...",
+          "link": "https://meedia.de/news/beitrag/25160-tv-monat-september-kabel-eins-und-welt-stark-wie-lang-nicht-mehr-vox-gewinnt-aeltere-und-verliert-juengere.html",
+          "summary": "Im TV-Monat September 2024 erzielten Kabel Eins (stärkster Wert seit Dezember 2024) und Welt (bester Stand seit März 2022) deutliche Zugewinne beim jungen Publikum (14-49 Jahre), während Vox in dieser Zielgruppe spürbar Marktanteile einbüßte, im Gesamtpublikum aber leicht zulegte. Das ZDF behauptete mit 14,5 Prozent seine Spitzenposition vor dem Ersten, das u.a. dank des Fußball-Länderspiels gegen Griechenland um 0,7 Punkte zulegte und sich RTL näherte.",
+          "score": 10
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Scottish screen sector boom brings questions over jobs and overtourism",
+          "link": "https://www.theguardian.com/uk-news/2026/sep/30/crews-filming-in-scotland-told-to-hire-local-as-industry-booms",
+          "summary": "Schottlands Screen-Sektor boomt und soll bis 2030 einen Wert von 1 Mrd. £ für die Wirtschaft erreichen, angetrieben durch Produktionen wie The Traitors, Outlander sowie Großfilme von Indiana Jones und Batman. Trotz der wirtschaftlichen Vorteile – allein The Traitors brachte seit 2022 rund 21,8 Mio. £ – kritisieren Branchenvertreter den geringen Anteil lokaler Fachkräfte (nur etwa 6 % Schotten bei Staffel 3 von The Traitors) sowie die Herausforderungen durch Overtourism an gezeigten Drehorten.",
+          "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Dubai’s MForMedia & Arcana Labs Sign AI Production Pact For Middle East",
-          "link": "https://deadline.com/2026/09/mformedia-arcana-labs-sign-ai-production-pact-1237143000/",
-          "summary": "Das Dubaier Produktionsunternehmen MForMedia hat eine strategische Partnerschaft mit Arcana Labs geschlossen, um KI-gestützte Workflows in seine Produktionen, arabischsprachigen Koproduktionen und Mitarbeiterschulungen zu integrieren. Ziel ist der Aufbau KI-nativer Film- und TV-Produktionskapazitäten in der MENA-Region, um premium arabischsprachige Inhalte schneller und kosteneffizienter direkt vor Ort zu erstellen. Die Kooperation umfasst zudem gemeinsam produzierte Originalinhalte für MENA-Zuschauer sowie einen fünftägigen Schulungsworkshop und folgt auf den strategischen Pivot von MForMedia hin zu KI-Produktion und Originalcontent.",
+          "title": "‘The Grid Unplugged’ Clip: Devastating Doc Explores Failing Power Grids That Sparked California Wildfires — Watch",
+          "link": "https://deadline.com/2026/10/the-grid-unplugged-exclusive-clip-california-wildfires-watch-1237144074/",
+          "summary": "Die Dokumentation „The Grid Unplugged\" von Regisseur Rick Cutter feiert ihre Weltpremiere beim Hamptons International Film Festival und untersucht am Beispiel der kalifornischen Waldbrände das systemische Versagen überlasteter und veralteter Stromnetze angesichts steigender Nachfrage. Unter Einbeziehung von Interviews mit Energieexperten, Innovatoren und politischen Entscheidungsträgern beleuchtet der Film sowohl die wachsenden Risiken als auch mögliche Lösungsansätze zur Modernisierung der Infrastruktur. Zu den Produzenten zählen Meghan Walsh und Cutter, als Executive Producer ist unter anderem Ed Begley Jr. beteiligt.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Nicolas Cage, Michael Sheen, Jordi Mollà, Emilio Sakraya & Adrian Topol Leading Cyber-Thriller ‘C.L.A.Y.’",
+          "link": "https://deadline.com/2026/10/nicolas-cage-michael-sheen-starring-in-clay-movie-1237144344/",
+          "summary": "Nicolas Cage, Michael Sheen, Jordi Mollà, Emilio Sakraya und Adrian Topol übernehmen die Hauptrollen im psychologischen Cyber-Thriller „C.L.A.Y.“, dem Regiedebüt von Simon Afram, der auch Drehbuch und Produktion verantwortet. Die Handlung folgt einem sozial unsichtbaren Computer-Wunderkind, das in ein Hacker-Kollektiv („Clowns Laughing At You“) hineingezogen wird, dessen Aktivitäten die Aufmerksamkeit von Geheimdiensten, kriminellen Syndikaten und rivalisierenden Hackern auf sich ziehen. Der Dreh beginnt im November 2026 in London; die Produktion erfolgt über Clay Pictures Ltd. mit Teilen",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "‘No One Will Miss Us’ Returning For Season 3 On Prime Video",
+          "link": "https://deadline.com/2026/10/no-one-will-miss-us-renewed-season-3-prime-video-1237144259/",
+          "summary": "Prime Video verlängert die mexikanische YA-Serie „No One Will Miss Us“ (Nadie Nos Va a Extrañar) um eine dritte Staffel, deren Produktion im ersten Quartal 2027 unter Regisseur Samuel Kishi und Showrunnerin Silvana Aguirre beginnt. Die Ankündigung erfolgte beim IberSeries-Branchentreffen in Madrid und unterstreicht den Erfolg der von The Immigrant (minderheitlich von Fremantle unterstützt) produzierten Serie, die in Mexiko regelmäßig in Prime Videos Top 10 vertreten ist.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "AGC Studios Launches Digital Division Focused On Creator-Led IP",
+          "link": "https://deadline.com/2026/10/agc-studios-digital-division-creators-1237144176/",
+          "summary": "AGC Studios gründet mit AGC Digital eine neue Division, die sich auf creator-geführte Inhalte konzentriert und digitale Creator dabei unterstützt, ihre Ideen und Communitys in Entertainment-Franchises (Spielfilme, Scripted- und Unscripted-Formate) zu überführen, ohne dass diese die Kontrolle über ihr geistiges Eigentum verlieren. Geleitet wird die Division von Jared Jacobs als SVP, der zuvor bei Night Studios mit Top-Talenten wie MrBeast und Kai Cenat arbeitete und an Joel Zimmer, President von AGC, berichtet. CEO Stuart Ford positioniert AGC Digital als unabhängigen Studiopartner mit Finanzierungs-, Produktions- und globaler Distributionskraft, der Creatorn",
           "score": 9
         },
         {
           "source": "Deadline",
-          "title": "Fremantle International Commercial Strategy VP Jill Kellie Exits After Four Years",
-          "link": "https://deadline.com/2026/09/fremantle-international-jill-kellie-exits-1237143001/",
-          "summary": "Jill Kellie, VP of Commercial Strategy bei Fremantle, verlässt das Unternehmen nach über vier Jahren, in denen sie maßgeblich die digitale Distributionsstrategie über YouTube, FAST und AVOD vorantrieb. Ihr Abgang reiht sich in weitere Personalabgänge ein, darunter Vasha Wallace und der langjährige Commercial-and-International-COO Bob McCourt. Fremantle, das im August Halbjahresumsätze von 835 Mio. € meldete, geht mit Titeln wie Kill Jackie und Baywatch zur MIPCOM in Cannes.",
+          "title": "Hearst Renews CBS Weekend Series ‘The Visioneers With Zay Harding’ Through 2028",
+          "link": "https://deadline.com/2026/10/hearst-renews-cbs-weekend-series-visioneers-zay-harding-1237143841/",
+          "summary": "Hearst Media Production Group hat die CBS-Wochenend-Bildungsserie „The Visioneers with Zay Harding\" um zwei weitere Staffeln bis 2028 verlängert; die dritte Staffel des 30-minütigen Öko-Adventure-Formats, das in Partnerschaft mit der VoLo Foundation produziert wird, startet am kommenden Samstag im CBS-WKND-Programmblock. Die von Explorer Zay Harding moderierte Show porträtiert Wissenschaftler, Ingenieure und Privatpersonen, die nachhaltige Umweltlösungen entwickeln, und begrüßt in der neuen Staffel Gäste wie Schauspieler Edward Norton und Ex-NFL-Spieler Kelvin Beachum.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "‘Unmasking a Monster’: Star, EP, and ID President on Using AI Masks to Perfect Their Aileen Wuornos Look",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/unmasking-a-monster-aileen-wuornos-defending-its-ai-use-1236709653/",
-          "summary": "Investigation Discovery setzt in seiner Doku-Serie „Unmasking a Monster: Aileen Wuornos\" erstmals in der Branche ein KI-Masken-Tool ein, das in der Post-Production zehn Schauspieler mittels fortschrittlicher Motion-Capture-Technologie in exakte Ebenbilder realer Personen verwandelt. Executive Producer Stephen Dost begründet den Einsatz mit dem begrenzten Archivmaterial zu Wuornos sowie der erzählerischen Relevanz ihres Gesichts, während ID-Präsident Jason Sarlanis auf das wachsende Publikumsbedürfnis nach Realismus und die Schwächen klassischer Reenactments verweist.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "From ‘F1’ to ‘Slow Horses’ to ‘Call My Agent!’: Mediawan Executives Take Madrid Spotlight",
-          "link": "https://www.hollywoodreporter.com/business/business-news/from-f1-to-slow-horses-to-call-my-agent-mediawan-executives-1236714360/",
-          "summary": "Die französische Mediengruppe Mediawan (u.a. beteiligt an Erfolgsproduktionen wie „Slow Horses“, „Adolescence“ und „F1“) präsentierte auf der Iberseries & Platino Industria in Madrid ihre Strategie für kreative Unabhängigkeit und globale Expansion in Zeiten von Mega-Mergers. Content-Chefin Elisabeth d’Arvieu betonte dabei die Notwendigkeit, durch starke internationale Distribution und flexible Co-Produktionsmodelle wettbewerbsfähig zu bleiben. Als zentralen Vorteil hob sie die Gap-Finanzierung hervor, mit der Mediawan seinen Produzenten rund ein Drittel des Zielbudgets bereitstellt und die Projekte anschließend über Mediawan Rights welt",
+          "title": "What Ratings Issues? NBCU Telemundo Chair Touts World Cup Success for Live TV",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/nbcu-telemundo-exec-touts-world-cup-live-linear-tv-sports-1236718105/",
+          "summary": "Luis Fernández, Chairman von NBCUniversal Telemundo Enterprises, präsentierte auf der Iberseries & Platino Industria in Madrid die FIFA WM 2026 als meistgesehenes spanischsprachiges Sportereignis in den USA und hob die erfolgreiche Verzahnung von linearem TV (Telemundo) und Streaming (Peacock) hervor, wo fünf der zehn meistgesehenen Programme WM-Events waren. Auf Basis dieser Reichweite rechnet das Werbeverkaufsteam mit stärkerem Momentum für die Olympischen Sommerspiele 2028 in Los Angeles, wobei Fernández die Notwendigkeit kontinuierlicher Neuerfindung der Medienbranche betonte.",
           "score": 9
         },
         {
-          "source": "Variety",
-          "title": "Former CW Bosses Dawn Ostroff and Mark Pedowitz Look Back at the Network’s First 20 Years",
-          "link": "https://variety.com/2026/tv/news/cw-bosses-dawn-ostroff-mark-pedowitz-look-back-20-years-1236880544/",
-          "summary": "Anlässlich des 20-jährigen Bestehens des CW blicken die ehemaligen Führungskräfte Dawn Ostroff und Mark Pedowitz auf die überraschende Fusion von WB und UPN im Januar 2006 zurück, die die Branche unvorbereitet traf. Der Sender etablierte sich über zwei Jahrzehnte als Heimat erfolgreicher Young-Adult-Serien wie \"Supernatural\", \"Gossip Girl\", \"The Vampire Diaries\" und \"Riverdale\". Unter der neuen Eigentümerschaft von Nexstar vollzieht der CW nun einen strategischen Wandel, wobei \"All American\" als letztes Drama der ursprünglichen Ära endete.",
+          "source": "Hollywood Reporter",
+          "title": "Bennington College, Alma Mater of Brett Easton Ellis and Donna Tartt, Launches Screenwriting MFA",
+          "link": "https://www.hollywoodreporter.com/news/general-news/bennington-college-launches-screenwriting-mfa-1236717178/",
+          "summary": "Das für seine literarischen Absolventen wie Brett Easton Ellis und Donna Tartt bekannte Bennington College startet ein zweijähriges Low-Residency-MFA-Programm für Drehbuchschreiben, das vier zehntägige Präsenzphasen in Vermont und Los Angeles mit acht Online-Kursen kombiniert. Der erste Jahrgang umfasst nur sechs Studierende, die unter Anleitung etablierter Branchenprofis wie David Hemingson („The Holdovers“) und Janet Lin („Bridgerton“) Spielfilmskripte, Spec-Episoden sowie einen Original-Piloten und eine Series Bible erarbeiten.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Globoplay Greenlights Adaptation of Raphael Montes’ ‘Uma Mulher no Escuro,’ From Banijay Entertainment’s A Fábrica Brazilian Banner (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/global/banijay-raphael-montes-uma-mulher-no-escuro-globoplay-1236893376/",
-          "summary": "Banijay Entertainment hat über sein brasilianisches Scripted-Label A Fábrica – in Partnerschaft mit Raphael Montes' Entwicklungsstudio Casa Montes – die Adaption des Krimis „Uma Mulher no Escuro\" für Globoplay greenlighted. Montes gilt als einer der erfolgreichsten IP-Generatoren Brasiliens und lieferte bereits Hits wie „Good Morning, Verônica\" (Netflix) und „Perfect Days\" (Globoplay). Die offizielle Ankündigung erfolgte im Rahmen einer Banijay-Fiction-Präsentation beim Iberseries & Platino Industria in Madrid.",
+          "title": "Theaters Re-Invest $2.7 Billion to Bring In Moviegoers With Heated Reclining Seats, Full-Service Bars, Immersive Sound and More",
+          "link": "https://variety.com/2026/film/news/theaters-2-7-billion-heated-seats-bars-plfs-1236894080/",
+          "summary": "Nordamerikanische Kinoketten haben laut dem Cinema Investment Report von Cinema United in den vergangenen zwei Jahren 2,7 Milliarden US-Dollar in Modernisierungen und Premium-Erlebnisse investiert, davon allein 1,2 Milliarden im letzten Jahr. Die acht größten Kinobetreiber steuerten dabei 840 Millionen Dollar bei, wobei der Fokus auf Premium Large Formats, erweiterten Gastronomieangeboten, beheizten Liegesitzen und immersiven Technologien liegt. Diese Investitionsoffensive fällt mit einem Rekord-Sommerboxoffice zusammen und zielt darauf ab, das Publikum langfristig an die Kinos zu binden.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Paramount, CNN Chief Mark Thompson in ‘Early Stages’ of Discussions to Keep Him in Post",
+          "link": "https://variety.com/2026/tv/news/paramount-cnn-chief-mark-thompson-discussions-1236894869/",
+          "summary": "Paramount Skydance und CNN-Chef Mark Thompson befinden sich laut einer mit der Angelegenheit vertrauten Person in frühen Gesprächen über einen Verbleib Thompsons an der Spitze des Nachrichtensenders – ein Hinweis darauf, dass das Unternehmen CBS News und CNN im Zuge der Übernahme von Warner Bros. Discovery zunächst getrennt führen dürfte. Thompsons Vertrag läuft voraussichtlich 2027 aus, und er fordert eine redaktionell unabhängige Führung von CNN, während Paramount im Rahmen eines Vergleichs mit mehreren Generalstaatsanwälten ein Aufsichtsgremium zur Wahrung der Unabhängigkeit seiner Nachrichtensparten eingerichtet hat. Die Nachricht",
           "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "‘La Bola Negra’ Star Guitarricadelafuente to Receive Discovery Award at SCAD Savannah Film Festival (EXCLUSIVE)",
+          "link": "https://variety.com/2026/awards/awards/la-bola-negra-guitarricadelafuente-award-scad-savannah-film-festival-1236894165/",
+          "summary": "Der spanische Musiker Guitarricadelafuente wird beim SCAD Savannah Film Festival mit dem Discovery Award für sein Spielfilm-Debüt im Oscar-gehandelten Drama „La Bola Negra“ ausgezeichnet, in dem er einen Soldaten im Spanischen Bürgerkrieg verkörpert. Der von Los Javis (Javier Calvo und Javier Ambrossi) inszenierte Film verwebt drei Geschichten queerer Männer über fast ein Jahrhundert spanischer Geschichte hinweg. Die Preisverleihung erfolgt am 24. Oktober im Anschluss an eine Vorführung des Films.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Rome MIA Market to Kick Off New Format With Rich Roster of Projects and Guests Including Edward Berger, Asif Kapadia, Kim Longinotto",
+          "link": "https://variety.com/2026/film/global/rome-mia-market-edward-berger-asif-kapadia-kim-longinotto-1236894587/",
+          "summary": "Der Rom MIA Market startet seine 12. Ausgabe mit einem neuen Format, das die Veranstaltungsorte auf mehrere Hotels an der Via Veneto ausweitet und erstmals eine zeitliche Überschneidung mit dem Rome Film Festival (13.-25. Oktober) herstellt, wobei MIA selbst vom 19.-23. Oktober läuft. Ziel der neuen Synergie ist es, Rom während dieses Zeitraums als bedeutendes Film- und TV-Industriezentrum zu etablieren, unter anderem indem Einkäufer automatisch eine Akkreditierung für das Festival erhalten. Zu den präsentierten Projekten und Gästen zählen hochkarätige Namen wie Edward Berger, Asif Kapadia und Kim Longinotto sowie die High-End-Serie „",
+          "score": 10
         }
       ]
     }
