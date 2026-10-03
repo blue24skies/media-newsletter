@@ -1,195 +1,139 @@
 {
   "newsletters": [
     {
-      "date": "2026-10-02",
+      "date": "2026-10-03",
       "articles": [
         {
           "source": "DWDL",
-          "title": "ZDFneo holt \"The Summer I Turned Pretty\" ins Free-TV",
-          "link": "https://www.dwdl.de/nachrichten/108062/zdfneo_holt_the_summer_i_turned_pretty_ins_freetv/",
-          "summary": "ZDFneo bringt die erfolgreiche Prime-Video-Serie \"The Summer I Turned Pretty\" ab dem 15. November ins Free-TV, startend mit einem Doppelfolgen-Auftakt zur besten Sendezeit am Sonntag; die Folgen stehen bereits ab dem 14. November online zum Abruf bereit. Das ZDF plant die Ausstrahlung aller drei Staffeln, wobei konkrete Termine für Staffel zwei und drei noch offen sind. Die Kooperation reiht sich in frühere ZDF-Zweitverwertungen von Prime-Video-Produktionen wie \"Die Ringe der Macht\" oder \"Escort Boys\" ein.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Frank Vogel neuer Aufsichtsrats-Vize bei der AGF",
-          "link": "https://www.dwdl.de/nachrichten/108057/frank_vogel_neuer_aufsichtsratsvize_bei_der_agf/",
-          "summary": "Frank Vogel, seit Juni 2026 Vermarktungsverantwortlicher für RTL und Sky sowie Chef der Ad Alliance, wurde zum neuen stellvertretenden Vorsitzenden des Aufsichtsrats der AGF Videoforschung gewählt und folgt damit auf Carsten Schwecke, der sein Mandat nach seinem Ausscheiden bei RTL niederlegte. Der Aufsichtsratsvorsitz bleibt bei Matthias Eckert (Hessischer Rundfunk). Vogel soll insbesondere die Weiterentwicklung der medienübergreifenden Bewegtbild- und Werbemessung in einem zunehmend konvergenten Markt begleiten.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Amazon dominiert mit Champions League die Streaming-Charts",
-          "link": "https://www.dwdl.de/zahlenzentrale/108054/amazon_dominiert_mit_champions_league_die_streamingcharts/",
-          "summary": "Amazon Prime Video dominierte im September 2026 erstmals die AGF-Streaming-Charts mit der Champions-League-Übertragung BVB gegen Villarreal, die 4,605 Millionen Views in der Census+-Messung erzielte – deutlich vor weiteren Fußball-Inhalten von ARD-Mediathek und DAZN. Auch abseits des Sports lag Prime Video mit der Serie \"Reacher\" (2,8 Millionen Abrufe) und dem Ableger \"Neagley\" (über 2,5 Millionen) vorn, während RTL+ mit dem \"Sommerhaus der Stars\" (bis zu 2,7 Millionen Views) konkurrieren konnte. Zu beachten ist, dass Views aufgrund von Mehrfachstarts nicht mit der klassischen TV-Sehbeteiligung vergle",
+          "title": "Aus Paramount und WBD wird nach der Fusion Skydance",
+          "link": "https://www.dwdl.de/nachrichten/108068/aus_paramount_und_wbd_wird_nach_der_fusion_skydance/",
+          "summary": "Nach Vollzug der Fusion von Paramount Skydance und Warner Bros. Discovery (WBD), die voraussichtlich ab dem 6. Oktober wirksam wird, soll der neue Medienkonzern laut CEO David Ellison künftig unter dem Namen Skydance firmieren, während die etablierten Studiomarken Paramount und Warner Bros. erhalten bleiben. Zum Konzern gehören zahlreiche weitere Marken wie CBS, CNN, MTV und Nickelodeon. Offen bleibt die künftige Streaming-Strategie: Die zuvor angekündigte Zusammenlegung von HBO Max und Paramount+ steht angesichts neuer Gerüchte über einen getrennten Weiterbetrieb derzeit infrage.",
           "score": 10
         },
         {
           "source": "DWDL",
-          "title": "ZDF blickt in neuer Serie hinter die \"Heile Welt\" des Schlagers",
-          "link": "https://www.dwdl.de/nachrichten/108049/zdf_blickt_in_neuer_serie_hinter_die_heile_welt_des_schlagers/",
-          "summary": "Das ZDF und der ORF drehen derzeit die sechsteilige Serie \"Heile Welt\" (Produktion: Zeitsprung Pictures), die mit Mercedes Müller in der Hauptrolle die Schattenseiten der Schlagerbranche beleuchtet. Die Dreharbeiten in Köln, Bayern und Wien laufen noch bis Mitte Dezember, zur Besetzung gehören unter anderem Désirée Nosbusch, Tobias Moretti und Peter Lohmeyer. Ein konkreter Ausstrahlungstermin steht noch nicht fest.",
-          "score": 8
+          "title": "\"Die Mafuds\": ZDF arbeitet an neuer Family-Sitcom",
+          "link": "https://www.dwdl.de/nachrichten/108067/die_mafuds_zdf_arbeitet_an_neuer_familysitcom/",
+          "summary": "Das ZDF produziert mit \"Die Mafuds\" eine achtteilige Family-Sitcom über eine syrisch-kurdisch-jesidische Familie in Stuttgart-Nord, die derzeit in Wien und Stuttgart gedreht wird. In den Hauptrollen spielen unter anderem Korkmaz Arslan, Dorka Gryllus und Annette Frier, während Schiar Ahmad Simo als Headautor fungiert und die Kojoten Filmproduktion GmbH die Umsetzung verantwortet. Inhaltlich thematisiert die Serie humorvoll das selbstverständliche Nebeneinander deutscher und kurdischer Identität im Familienalltag.",
+          "score": 10
         },
         {
           "source": "DWDL",
-          "title": "Duryn, Hegemann, Klaußner und Berteloot für Panther nominiert",
-          "link": "https://www.dwdl.de/nachrichten/108048/duryn_hegemann_klaussner_und_berteloot_fuer_panther_nominiert/",
-          "summary": "Für die Kategorie Bester Schauspieler beim Blauen Panther 2026 sind Hendrik Duryn (\"Der Lehrer\"), Johannes Hegemann (\"Olivia\") sowie – als Besonderheit gemeinsam – Burghart Klaußner und Jean-Yves Berteloot für ihre Darstellung von Adenauer und De Gaulle in \"An einem Tag im September\" nominiert. Die Preisverleihung findet am 21. Oktober in München statt.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "So stellt RTLzwei seine Organisationsstruktur neu auf",
-          "link": "https://www.dwdl.de/nachrichten/108044/so_stellt_rtlzwei_seine_organisationsstruktur_neu_auf/",
-          "summary": "RTLzwei hat zum 1. Oktober 2026 seine Organisationsstruktur neu aufgestellt und bündelt dabei erstmals sämtliche kreativen Kompetenzen – von Longform- und Shortform-Formaten über Marketing-Content bis zum Fremdprogrammerwerb – in der neuen Unit Content unter Leitung von Konstanze Beyer und Malte Kruber. Eng damit verzahnt wird die Unit Data & Distribution unter Johannes Ehrler (EVP und Deputy COO), die plattformübergreifende, datenbasierte Distributionsstrategien und den Einsatz von KI vorantreiben soll. Zudem werden PR und Marketing in der neuen Unit Brand & Communications unter Jörg Neunecker wieder zusammengeführt.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Zweite \"Hungry\"-Staffel kommt im November zu ZDFneo",
-          "link": "https://www.dwdl.de/nachrichten/108043/zweite_hungrystaffel_kommt_im_november_zu_zdfneo/",
-          "summary": "Die zweite Staffel der ZDF-Serie \"Hungry\" mit sechs rund 14-minütigen Folgen startet am 12. November im ZDF-Streamingportal, die lineare Ausstrahlung bei ZDFneo folgt am 18. November. Die Serie thematisiert anhand der magersüchtigen Protagonistin Ronnie (Zoe Magdalena, auch verantwortlich für die Drehbücher) Jugendthemen wie Essstörungen, psychische Erkrankungen und Social Media. Produziert wird \"Hungry\" von Network Movie im Auftrag von ZDF und Arte, Regie führte Sorina Gajewski.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Böhmermann: \"Nun steht Vertrauensarbeit mit dem ZDF an\"",
-          "link": "https://www.dwdl.de/nachrichten/108033/boehmermann_nun_steht_vertrauensarbeit_mit_dem_zdf_an/",
-          "summary": "Jan Böhmermann hat in einem ausführlichen \"Spiegel\"-Interview bekräftigt, dass das Ende des \"ZDF Magazin Royale\" im Dezember seine eigene Entscheidung war, und betont das Prinzip der \"natürlichen Endlichkeit\" von Unterhaltungsformaten. Zugleich wurde deutlich, dass das Verhältnis zum Sender zuletzt gelitten hat – Böhmermann spricht von anstehender \"Vertrauensarbeit mit dem ZDF\" und wünscht sich ein neues Format mit mehr Unterhaltungswert, nachdem die Sendung zuletzt zu textlastig geworden sei. Konkrete Gespräche über ein Nachfolgeformat laufen bereits.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Sportvermarktung: Wieso DAZN auf das Ökosystem statt auf Exklusivität setzt",
-          "link": "https://www.horizont.net/medien/nachrichten/sportvermarktung-dazn-setzt-auf-das-oekosystem-statt-auf-exklusivitaet-236067?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "DAZN erweitert seine Vermarktungsstrategie über das klassische Streaming hinaus und setzt dabei auf ein breites Ökosystem mit zusätzlichen Touchpoints wie Highlights bei Kicker, eigenen Kanälen auf Samsung TV Plus sowie Werbung auf den eigenen Plattformen. Statt auf reine Exklusivität zu setzen, verfolgt der Anbieter das Ziel, Marken mehr Reichweite und vielfältigere Kontaktpunkte zu bieten.",
-          "score": 9
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Liminski: Online-Plattformen sollen stärker reguliert werden",
-          "link": "https://www.horizont.net/medien/nachrichten/liminski-online-plattformen-sollen-staerker-reguliert-werden-236072?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "NRW-Medienminister Nathanael Liminski (CDU) fordert eine stärkere Regulierung großer Online-Plattformen zum Schutz der Meinungsvielfalt. Künftig sollen diese Plattformen ähnlichen regulatorischen Anforderungen unterliegen wie klassische Medien.",
+          "title": "BGH erklärt Amazon Prime-Preiserhöhung von 2022 für unwirksam",
+          "link": "https://www.dwdl.de/nachrichten/108051/bgh_erklaert_amazon_primepreiserhoehung_von_2022_fuer_unwirksam/",
+          "summary": "Der BGH hat die Amazon Prime-Preiserhöhung vom September 2022 (Monatspreis von 7,99 auf 8,99 Euro, Jahrespreis von 69 auf 89,90 Euro) wegen intransparenter AGB-Klausel für unwirksam erklärt, da für Kunden nicht eindeutig erkennbar war, ob sie der Erhöhung nur durch Kündigung oder durch Vertragsfortsetzung zum alten Preis widersprechen konnten. Betroffene Kunden mit unveränderten Abos von vor dem 15. September 2022 werden zunächst auf den alten Preis zurückgestuft, eine automatische Rückerstattung für die seit Herbst 2022 gezahlten Beträge erfolgt jedoch nicht. Amazon kündigte an, das Urteil umzusetzen, ze",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "ZDF-Format: Böhmermann zu Magazine Royale: &quot;Joghurtbecher ist ausgekratzt&quot;",
-          "link": "https://www.horizont.net/medien/nachrichten/zdf-format-boehmermann-zu-magazine-royale-joghurtbecher-ist-ausgekratzt-236042?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Satiriker Jan Böhmermann hat im ARD-Podcast „Deutschland3000 mit Eva Schulz“ das Ende seiner Show „ZDF Magazin Royale“ bekräftigt und mit der Metapher „Der Joghurtbecher ist ausgekratzt“ begründet. Er signalisiert damit den Wunsch nach einem inhaltlichen Neuanfang nach dem Auslaufen des erfolgreichen ZDF-Formats.",
+          "title": "Report von SevenOne Audio: Podcast-Nutzung legt weiter zu - vor allem bei jungen Hörern",
+          "link": "https://www.horizont.net/medien/nachrichten/report-von-sevenone-audio-podcast-nutzung-legt-weiter-zu---vor-allem-bei-jungen-hoerern-236025?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Laut dem aktuellen Podcast-Report von SevenOne Audio ist der ursprüngliche Hype um Podcasts zwar abgeflacht, die Nutzung der Audioformate steigt jedoch weiterhin – insbesondere bei jungen Hörerinnen und Hörern. Für diese Generation sind Podcasts mittlerweile fester Bestandteil des Alltags.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Rund 1.000 Beschäftigte könnten von Kündigung der Staatsverträge betroffen sein",
+          "link": "https://kress.de/news/beitrag/156681-mdr-intendant-ludwig-rund-1-000-beschaeftigte-koennten-von-kuendigung-der-staatsvertraege-betroffen-sein.html",
+          "summary": "Der MDR warnt vor den Folgen einer möglichen Kündigung der Medienstaatsverträge durch eine potenzielle AfD-geführte Regierung in Sachsen-Anhalt, wodurch dem Sender rund 150 Millionen Euro Beitragseinnahmen (inklusive Werbung 160-170 Millionen Euro) entgehen und etwa ein Viertel des Personals – rund 1.000 Mitarbeitende – betroffen sein könnten. Intendant Ralf Ludwig und Justiziar Jens-Ole Schröder verweisen auf rechtliche Gegenmittel über andere Staatsvertragsländer, das Bundesverfassungsgericht oder die Verwaltungsgerichte und bezeichnen die von der AfD angekündigte Rundfunk-Alternative als „sehr nebulös\". Größere",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Analyse der August-Zahlen Top 100 Podcasts nach Spotify-Plays: \"ungeskriptet\" und \"Amann...",
-          "link": "https://meedia.de/news/beitrag/25170-top-100-podcasts-nach-spotify-plays-quot-ungeskriptet-quot-und-quot-amann-un-framed-quot-punkten-mit-afd-gespraechen.html",
-          "summary": "\"Gemischtes Hack\" von Felix Lobrecht und Tommi Schmitt dominiert das MEEDIA-Ranking der August-Top-100-Podcasts mit über 1,75 Millionen Plays pro neuer Episode, gefolgt von \"Kaulitz Hills\" (über 1 Mio.) und \"Mordlust\" (mindestens 975.000). Als Aufsteiger profitierten \"{ungeskriptet}\" und \"Amann [un]framed\" von kontroversen Gesprächen mit AfD-Politikern. Zu beachten ist, dass Spotify lediglich Mindestzahlen und keine exakten Play-Werte veröffentlicht.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Frank Vogel ist Vize-Vorsitzender des Aufsichtsrats Frank Vogel, CEO der Ad Alliance, bekommt noch...",
-          "link": "https://meedia.de/news/beitrag/25169-agf-videoforschung-frank-vogel-ist-vize-vorsitzender-des-aufsichtsrats.html",
-          "summary": "Frank Vogel, CEO der Ad Alliance (RTL-Vermarkter), wurde zum stellvertretenden Vorsitzenden des Aufsichtsrats der AGF Videoforschung gewählt und folgt damit auf Carsten Schwecke, der nach seinem RTL-Abgang zum 1. November Geschäftsführer von MediaMarktSaturn Marketing wird. Vorsitzender des Gremiums bleibt Matthias Eckert vom Hessischen Rundfunk. Laut AGF-Geschäftsführerin Kerstin Niederauer-Kopf sei Vogels Erfahrung in Vermarktung und Marktforschung angesichts der bevorstehenden Weiterentwicklung der Messsysteme und Standards besonders wertvoll.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Shakira live aus Madrid Amazon baut seine Musik-Livestreams zum umfassenden Fan-Erlebnis aus Amazon weitet sein Geschäft mit Live-Musik aus und bringt am 3. Oktober ein vollständiges Konzert von Shakira weltweit auf die Bildschirme",
-          "link": "https://meedia.de/news/beitrag/25157-amazon-baut-seine-musik-livestreams-zum-umfassenden-fan-erlebnis-aus.html",
-          "summary": "Amazon streamt am 3. Oktober das Abschlusskonzert der Shakira-Tournee aus Madrid in voller Länge weltweit über alle eigenen Plattformen (in Deutschland u.a. Prime Video, Fire TV, Amazon-Music-App und Twitch). Das Event ist Teil der Strategie, Amazon Music zur zentralen Anlaufstelle für die „Fan Experience“ auszubauen, indem Livestreams mit Musikangeboten, Merchandise und weiteren Produkten verknüpft werden. Damit setzt das Unternehmen den bereits beim Superbloom-Festival erprobten Plattform-übergreifenden Ansatz fort.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Buchungsempfehlungen von Rakuten und Omnicom Wie man die Werbewirkung bei CTV-Kampagnen gezielt...",
-          "link": "https://meedia.de/news/beitrag/25156-wie-man-die-werbewirkung-bei-ctv-kampagnen-gezielt-steigern-kann.html",
-          "summary": "Eine gemeinsame Studie von Rakuten TV Enterprise und Omnicom Media Germany belegt, dass Multi-Touch-Strategien im Connected TV (CTV) die Werbewirkung gegenüber einer einzelnen Pre-Roll-Ausspielung deutlich steigern. Bei der Befragung von 750 deutschen CTV-Nutzern wurden drei Szenarien verglichen – ein Einzelkontakt sowie vier wiederholte bzw. vier sequentielle Kontakte über verschiedene Touchpoints (Homescreen, Startseite, Pre-Roll, Pause-Werbung). Insbesondere bei der Werbeerkennung zeigten sich signifikante Vorteile: Während im Einzelkontakt-Szenario 63 Prozent mindestens eine Anzeige korrekt erkannten,",
+          "title": "Preiserhöhung für Prime-Abos im Jahr 2022 Amazon unterliegt auch vor dem BGH Gestützt auf einen...",
+          "link": "https://meedia.de/news/beitrag/25167-amazon-unterliegt-auch-vor-dem-bgh.html",
+          "summary": "Der Bundesgerichtshof hat die 2022 von Amazon für Prime-Abos vorgenommene Preiserhöhung als unwirksam eingestuft, da die zugrundeliegende Preisanpassungsklausel in den AGB gegen das Transparenzgebot verstößt und es ihr an Klarheit und Verständlichkeit mangelt. Geklagt hatte die Verbraucherzentrale Nordrhein-Westfalen; mit dem Urteil in letzter Instanz werden die vorangegangenen Entscheidungen des LG und OLG Düsseldorf bestätigt. Das Urteil stärkt den Verbraucherschutz vor unkalkulierbaren Preiserhöhungen und dürfte Signalwirkung für die Gestaltung von Preisanpassungsklauseln bei Abo-Modellen haben.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Für Werbekunden mit schmalem Budget Wie Crossvertise Addressable TV zum Self-Service-Medium machen...",
-          "link": "https://meedia.de/news/beitrag/25155-wie-crossvertise-addressable-tv-zum-self-service-medium-machen-moechte.html",
-          "summary": "Der Münchner Media-Dienstleister Crossvertise hat einen neuen Self-Service-ATV-Planer vorgestellt, mit dem kleinere und mittlere Unternehmen regionale Addressable-TV-Kampagnen ab einem Budget von 5.000 Euro eigenständig planen, optimieren und buchen können. In vier Schritten legen Nutzer Region, Budget, Laufzeit und Zielgruppe fest und erhalten Echtzeit-Prognosen zu Einblendungen und Tausendkontaktpreis. Statt eines klassischen TV-Spots kommt das Bannerformat SwitchIn XXL zum Einsatz, ergänzt durch eine automatische Kampagnenoptimierung – gezielt für Unternehmen ohne eigene TV-Planungsexpertise.",
+          "title": "Wavemaker verliert den Auftrag L’Oréal vergibt DACH-Mediaetat an Omnicom Media Group L’Oréal hat...",
+          "link": "https://meedia.de/news/beitrag/25147-l-oreal-vergibt-dach-mediaetat-an-omnicom-media-group.html",
+          "summary": "L'Oréal hat seinen DACH-Mediaetat – von Comvergence auf rund 411 Millionen US-Dollar (über 350 Millionen Euro) netto für 2025 beziffert – nach einem Pitch von Wavemaker an die Omnicom Media Group vergeben, die Zusammenarbeit startet im Januar 2027. Für Omnicom ist der Kosmetikkonzern mit Marken wie Lancôme, Maybelline und La Roche-Posay ein weiterer prominenter Neukundengewinn nach Erfolgen bei Adidas und IBM. Wavemaker, das den Etat vor rund fünf Jahren übernommen hatte, konnte das Mandat somit nicht verteidigen.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "Staff fears grow that BBC will shut its Three and Scotland channels next week",
-          "link": "https://www.theguardian.com/media/2026/oct/02/bbc-shut-three-scotland-channels-redundancy",
-          "summary": "Die BBC hat in ihrer TV- und Streaming-Abteilung ein Freiwilligen-Programm zum Stellenabbau eingeleitet, was Befürchtungen verstärkt, dass Generaldirektor Matt Brittin kommende Woche die Schließung der linearen Kanäle BBC Three und BBC Scotland ankündigt. Hintergrund ist ein Sparplan über 500 Mio. Pfund mit bis zu 2.000 Stellenstreichungen, bei dem Kanäle mit hohen Kosten pro Zuschauer im Fokus stehen – BBC Three würde damit zum zweiten Mal in ein Online-only-Angebot überführt.",
-          "score": 9
+          "title": "Celebrity Traitors debut draws almost 9m viewers and more than half of TV audience",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/oct/02/celebrity-traitors-debut-9m-viewers-more-than-half-tv-audience",
+          "summary": "Die Debütfolge der neuen Staffel von „Celebrity Traitors\" erreichte durchschnittlich 8,9 Millionen Zuschauer und einen Marktanteil von 54,9 % – rund 3 Millionen mehr als beim Auftakt der Vorjahresstaffel (6,1 Millionen, 46,4 %). Besonders bemerkenswert ist der Erfolg bei der jungen Zielgruppe: Trotz des generellen Rückgangs des linearen TV-Konsums bei der Gen Z erzielte die Show einen außergewöhnlichen Marktanteil von 83,5 % bei den 16- bis 34-Jährigen. Das Format etabliert sich damit als eines der wenigen BBC-Programme, die noch ein echtes Massenpublikum mobilisieren können.",
+          "score": 8
         },
         {
           "source": "Deadline",
-          "title": "‘A Different World’ Renewed For Season 2 At Netflix",
-          "link": "https://deadline.com/2026/10/a-different-world-renewal-season-2-netflix-1237145174/",
-          "summary": "Netflix hat die Revival-Serie „A Different World\" von Showrunnerin Felicia Pride für eine zweite Staffel verlängert. Die Serie folgt Deborah (Maleah Joi Moon), der jüngsten Tochter der Originalcharaktere Dwayne Wayne (Kadeem Hardison) und Whitley Gilbert (Jasmine Guy), während ihres Studiums am Hillman College und verbindet eine neue Generation von Darstellern mit zurückkehrenden Originaldarstellern. In Staffel 2 kehren Deborah und ihre Kommilitonen nach prägenden Sommern mit neuen Vorsätzen für ihr zweites Studienjahr zurück.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Josh Greenstein & Dana Goldberg Poised To Run Combined Paramount Warner Bros Film Unit,  Setting Up Likely Michael De Luca & Pamela Abdy Exit",
-          "link": "https://deadline.com/2026/10/michael-de-luca-pamela-abdy-exit-warner-bros-paramount-merger-1237145206/",
-          "summary": "Nach der Fusion von Paramount und Warner Bros unter dem neuen Namen Skydance sollen die aktuellen Paramount-Filmchefs Josh Greenstein und Dana Goldberg die vereinte Filmsparte leiten, was den Abgang der Warner-Bros-Chefs Michael De Luca und Pamela Abdy wahrscheinlich macht. Beide erfuhren offenbar erst aus Medienberichten von ihrem Ausschluss und erhielten keinen direkten Anruf von Paramount-Co-CEO David Ellison, der als Loyalist gegenüber seinen langjährigen Kollegen Goldberg und Greenstein gilt. Erschwerend kommt für De Luca und Abdy ein kostspieliger Flop hinzu: Der Tom-Cruise-Film „Digger“ (Budget: 125–",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Canal+ Calls VAT Hike “A Direct Attack” On Its Operations In France As Guilds Protest Move",
-          "link": "https://deadline.com/2026/10/canal-plus-france-protests-vat-hike-attack-1237145327/",
-          "summary": "Canal+ bezeichnet die im französischen Haushaltsentwurf 2027 geplante Verdopplung der Mehrwertsteuer auf TV-Abonnements von 10 % auf 20 % als „direkten Angriff\" und warnt vor jährlichen Einbußen von bis zu 200 Mio. € bei Umsatz und operativer Marge, während der Staat weniger als ein Viertel davon einnehmen würde. Der Entwurf, Teil eines 43-Mrd.-€-Sparpakets zur Eindämmung der Staatsverschuldung, sieht zudem eine Halbierung des Steuerabzugs für Plattformen wie YouTube, TikTok und Meta bei ihren Beiträgen an das nationale Filmzentrum CNC vor, was rund 60 Mio. € zusätzlich einbringen soll.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Paramount-WBD Will Now Be Called Skydance, David Ellison Reveals",
-          "link": "https://deadline.com/2026/10/paramount-warner-bros-skydance-david-ellison-1237143716/",
-          "summary": "Nach Abschluss ihrer 110-Milliarden-Dollar-Fusion werden Paramount und Warner Bros. Discovery künftig gemeinsam unter dem Namen Skydance firmieren, wie CEO David Ellison bekanntgab. Der am Dienstag erwartete Abschluss folgt auf eine zweimonatige Verzögerung durch Kartellklagen von 12 US-Bundesstaaten und der Writers Guild of America. Die traditionsreichen Marken Paramount und Warner Bros. sollen dabei als eigenständige Einheiten unter dem Skydance-Dach erhalten bleiben.",
+          "title": "‘Real Time’: Bill Maher Tells New Skydance Bosses “Don’t Believe What Trump Is Tweeting About Me”",
+          "link": "https://deadline.com/2026/10/real-time-bill-maher-tells-skydance-bosses-dont-believe-trump-1237145929/",
+          "summary": "Nach dem Abschluss der 110-Milliarden-Dollar-Fusion von Paramount und Warner Bros. Discovery – das kombinierte Unternehmen firmiert künftig unter dem Namen Skydance unter CEO David Ellison – wandte sich Bill Maher in seiner HBO-Sendung „Real Time“ mit einem ironischen Appell an seine neuen Chefs, den Ellisons, sie sollten Trumps abfällige Äußerungen über ihn und seine Einschaltquoten nicht ernst nehmen. Der Seitenhieb verweist auf die enge Verbindung der Eigentümerfamilie zu Trump und wirft damit Fragen zur redaktionellen Unabhängigkeit unter der neuen Konzernstruktur auf, in der Paramount und Warner Bros. sowie die Marken Paramount+",
           "score": 10
         },
         {
           "source": "Deadline",
-          "title": "‘Night Of The Living Dead’ Vertical Microdrama Readied For Horror-Focused App Room418",
-          "link": "https://deadline.com/2026/10/room418-microdrama-app-night-of-the-living-dead-1237145205/",
-          "summary": "Das L.A.-basierte Start-up Room418 unter CEO Dylen Postnikoff (ehemals Blink49, CBC, Shaftesbury) positioniert sich als horrorfokussierte Microdrama-Plattform und -Studio mit vertikalen Originalinhalten und lizenziertem Content in verschiedenen Formaten. Zum Auftakt adaptiert das Unternehmen den gemeinfreien Genre-Klassiker „Night of the Living Dead“ als vertikale Neuinterpretation – eines von zehn optionierten Projekten in der Entwicklungspipeline. Eine Invite-only-Beta-Version der App startet in diesem Herbst, gefolgt vom kommerziellen Launch mit zunächst lizenzierten Horror-Inhalten.",
-          "score": 7
+          "title": "Post-Merger Skydance Keeping Both HBO Max & Paramount+ Streaming Brands",
+          "link": "https://deadline.com/2026/10/skydance-hbo-max-paramount-streaming-bundle-1237145362/",
+          "summary": "Nach dem Abschluss der WBD-Übernahme (6. Oktober) wird das zu Skydance umbenannte Unternehmen seine beiden Flaggschiff-Streamingdienste HBO Max und Paramount+ voraussichtlich als Bundle anbieten, statt sie vollständig zu einer einzigen Plattform zu fusionieren. Darauf deuten sowohl die Aufnahme beider Marken in die von CEO David Ellison präsentierte Übersicht der wertvollsten Konzernmarken als auch Äußerungen von HBO-Chef Casey Bloys hin, der auf das erfolgreiche HBO-Max-Disney-Bundle als mögliches Vorbild verwies. Die Streaming-Operation soll künftig unter der Leitung von Casey Bloys stehen.",
+          "score": 10
         },
         {
           "source": "Deadline",
-          "title": "International Insider: Merger Approved!; RTS London’s AI Buzz; Deadline @ Zurich",
-          "link": "https://deadline.com/2026/10/international-insider-paramount-warner-merger-approved-1237144212/",
-          "summary": "Der $110 Milliarden schwere Mega-Merger zwischen Paramount und Warner Bros. Discovery wurde nach anfänglichen regulatorischen Bedenken in den USA, UK und Europa final genehmigt, wobei das neue Unternehmen am 6. Oktober startet und von David Ellison sowie dem überraschend berufenen Co-CEO Ynon Kreiz (ehemals Endemol/Mattel) geführt wird. Auf C-Suite-Ebene zeichnen sich erste Konsequenzen ab: Streaming-Chefin Cindy Holland verlässt das Unternehmen und wird voraussichtlich durch HBO-Boss Casey Bloys ersetzt, der künftig die Streaming-Strategie beider Konzerne verantwortet. Im internationalen Geschäft bleiben Gerhard Zei",
-          "score": 7
+          "title": "Michael De Luca & Pamela Abdy: When They Are Leaving Warner Bros & What’s Next For Them",
+          "link": "https://deadline.com/2026/10/warner-bros-michael-de-luca-pam-abdy-whats-next-1237145671/",
+          "summary": "Michael De Luca und Pamela Abdy verlassen Warner Bros. zum Tag des Zusammenschlusses mit Skydance (ehemals Paramount-WBD) nach einem schwachen Kinojahr mit nur 448,4 Mio. USD Inlandseinspielergebnis gegenüber 4,3 Mrd. USD im Vorjahr sowie dem Tom-Cruise-Flop „Digger\". Co-CEO David Ellison entschied sich im Rahmen seiner Kostensenkungs- und Schuldenabbau-Strategie, stattdessen die Paramount-Pictures-Co-Chairs Dana Goldberg und Josh Greenstein mit der Leitung aller Warner-Bros.-Kinomarken zu betrauen. Das Duo wurde Berichten zufolge überrascht und verärgert durch Presseber",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Skydance Putting All 3 TV Studios Under George Cheeks: Warner Bros. TV, CBS Studios, PTVS – The Dish",
+          "link": "https://deadline.com/2026/10/skydance-tv-studios-george-cheeks-wbtv-cbs-studios-ptvs-1237145674/",
+          "summary": "Im Zuge der bevorstehenden Fusion von Paramount und Warner Bros Discovery zum neuen Unternehmen Skydance wird George Cheeks, Chair of TV Media, die Verantwortung für alle drei TV-Studios des kombinierten Konzerns übernehmen: Warner Bros Television, CBS Studios und Paramount Television Studios. Die bisherigen Führungskräfte Channing Dungey (WBTV) und Matt Thunell (PTVS) bleiben an Bord und berichten künftig an Cheeks, dessen erweiterte Rolle zudem eine gewisse Aufsicht über die Kabelmarken auf WBD-Seite umfassen soll. Diese Konsolidierung folgt dem Muster vergleichbarer Zusammenführungen im Konzern, etwa im Filmbereich unter Greenstein und",
+          "score": 10
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Michael De Luca, Pamela Abdy Out at Warner Bros.",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/michael-de-luca-pamela-abdy-warner-bros-1236720848/",
-          "summary": "Michael De Luca und Pamela Abdy verlassen ihre Führungsposition bei der Warner Bros. Motion Picture Group im Zuge der 111-Milliarden-Dollar-Fusion mit Paramount Skydance, die am 6. Oktober abgeschlossen werden soll; künftig sollen die Paramount-Filmchefs Dana Goldberg und Josh Greenstein beide Studios leiten. Ihre seit 2022 andauernde Amtszeit war von Erfolgen wie dem Minecraft-Film und Oscar-Gewinnen für „Sinners“ sowie kostspieligen Flops wie „Digger“ geprägt. Berichten zufolge befinden sich beide bereits in Gesprächen über eine mögliche neue Position bei Netflix.",
-          "score": 7
+          "title": "Will ‘The Shards’ Return? FX Show Tests Ryan Murphy’s Sway In Disney Empire",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/shards-renew-fx-show-ryan-murphy-1236721306/",
+          "summary": "Die FX-Serie „The Shards\" von Ryan Murphy, basierend auf dem semi-autobiografischen Roman von Bret Easton Ellis, verbleibt mehr als drei Wochen nach dem Staffelfinale ohne Entscheidung über eine Verlängerung im Ungewissen. Trotz des Cliffhanger-Endes ist die Verzögerung kein zwingend negatives Signal, da FX bekanntermaßen bei Renewal-Entscheidungen Zeit benötigt und eine enge, vertrauensvolle Arbeitsbeziehung mit Murphy pflegt. Anders als bei Murphys Anthologie-Serien wie „American Horror Story\" oder „Feud\" ist „The Shards\" jedoch als fortlaufende Serie mit durchgängiger Handlung konzipiert.",
+          "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "It’s Skydance: David Ellison Brands Combined Paramount-Warner Bros. With His Studio’s Title",
-          "link": "https://www.hollywoodreporter.com/business/business-news/david-ellison-paramount-warner-bros-name-scalled-kydance-1236720826/",
-          "summary": "David Ellison hat bekanntgegeben, dass das aus Paramount und Warner Bros. Discovery entstehende Unternehmen den Namen seines 2006 gegründeten Studios „Skydance\" tragen wird, während Paramount und Warner Bros. als eigenständige Sub-Marken fortbestehen. Der neue Konzern positioniert sich damit als einer der größten Branchenakteure neben Disney und Netflix. Die Namensentscheidung beantwortet eine der zentralen offenen Fragen nach dem Zusammenschluss, auch wenn Dachmarken im Mediengeschäft für Konsumenten oft von untergeordneter Bedeutung sind.",
+          "title": "How a 100-Year-Old Indie Movie Theater Stays In Business",
+          "link": "https://www.hollywoodreporter.com/business/business-news/indie-cinema-cranford-theater-1236720444/",
+          "summary": "Die Cranford Theater in New Jersey, das letzte unabhängige und familiengeführte Kino in Union County, feiert sein 100-jähriges Bestehen und wird von Doreen Sayegh geführt, die bereits als Kind im Kinogeschäft ihres Vaters aufwuchs. Trotz der Herausforderungen durch die Pandemie, die kurz nach der Wiedereröffnung 2019 einsetzte, setzt Sayegh auf eine Kombination aus Würdigung der historischen Tradition und innovativer Programmgestaltung, um das Kino langfristig wettbewerbsfähig zu halten.",
           "score": 9
         },
         {
           "source": "Variety",
-          "title": "Disney Licenses Slew of Titles to Netflix, Including All Five ‘Ice Age’ Movies, ‘Percy Jackson and the Olympians,’ ‘Felicity,’ ‘Will Trent,’ ‘Elio’ and More (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/news/disney-licenses-titles-netflix-ice-age-movies-will-trent-percy-jackson-and-the-olympians-felicity-1236897256/",
-          "summary": "Disney und Netflix haben ein umfangreiches, nicht-exklusives Lizenzabkommen geschlossen, das sowohl Bibliothekstitel als auch aktuelle Serienstaffeln für unterschiedliche Zeiträume auf Netflix verfügbar macht. Trotz der Konkurrenz um Streaming-Abonnenten nutzt Disney die über 325 Millionen Netflix-Nutzer zur Monetarisierung und Promotion eigener Inhalte – etwa durch dreimonatige Werbefenster für „Percy Jackson and the Olympians“ (vor Staffel 3) und alle fünf „Ice Age“-Filme (vor dem sechsten Teil im Februar 2027).",
+          "title": "Skydance Blasts Off: Can David Ellison Make Paramount-Warner Bros. Merger Fly?",
+          "link": "https://variety.com/2026/film/news/skydance-david-ellison-paramount-warner-bros-merger-debt-1236898108/",
+          "summary": "David Ellison hat mit der 111-Milliarden-Dollar-Übernahme von Warner Bros. Discovery durch Skydance einen Entertainment-Giganten geschaffen, dessen Fusion am 6. Oktober 2026 abgeschlossen wird und fortan unter dem Namen Skydance Corp. firmiert. Das neue Führungsteam unter Ellison und Co-CEO Ynon Kreiz (zuvor Mattel) steht vor der Herausforderung, massive Schulden abzubauen und profitables Wachstum über Film, lineares TV und Streaming zu erzielen. Zugleich muss es mit erheblichem Widerstand aus der Kreativbranche umgehen, die sich gegen den polarisierenden Mega-Deal positioniert hat.",
           "score": 10
         },
         {
           "source": "Variety",
-          "title": "‘A Different World’ Renewed for Season 2 at Netflix",
-          "link": "https://variety.com/2026/tv/news/a-different-world-renewed-season-2-netflix-1236897429/",
-          "summary": "Netflix hat den Reboot der Kultserie „A Different World\" für eine zweite Staffel verlängert, die eine neue Generation von Studierenden am fiktiven HBCU Hillman College begleitet, angeführt von Maleah Joi Moon als Tochter der Originalfiguren Dwayne und Whitley. Showrunnerin und Creatorin ist Felicia Pride, während Serienlegende Debbie Allen als Regisseurin und Executive Producer zurückkehrt und Original-Darsteller wie Jasmine Guy und Kadeem Hardison ihre Rollen reprisieren.",
+          "title": "George Cheeks May Be Poised for Expanded TV Role at Skydance Post Paramount-Warner Bros. Merger",
+          "link": "https://variety.com/2026/tv/news/george-cheeks-tv-role-skydance-paramount-warner-bros-merger-1236897948/",
+          "summary": "George Cheeks, aktueller CBS- und Paramount-TV-Chef, soll nach der Fusion von Paramount und Warner Bros. unter dem neuen Namen \"Skydance\" eine erweiterte Aufsichtsrolle im TV-Bereich übernehmen. Als einziger der ehemaligen drei Co-CEOs von Paramount Global schaffte er den Übergang in das neue Unternehmen und gilt als starker Vertrauter von Skydance-Chef David Ellison. Noch offen ist, wie sich die Rollen im Verhältnis zu Warner-Bros.-TV-Chefin Channing Dungey gestalten werden, während die Streaming-Struktur bereits mit HBO-Chef Casey Bloys an der Spitze geklärt wurde.",
+          "score": 10
+        },
+        {
+          "source": "Variety",
+          "title": "John Leguizamo Has a Message for David Ellison: ‘Think of What Americans Need and What the Industry Needs’",
+          "link": "https://variety.com/2026/film/news/john-leguizamo-message-david-ellison-what-americans-need-1236897710/",
+          "summary": "Schauspieler John Leguizamo appellierte bei der Verleihung des Career Achievement Award der Critics Choice Association öffentlich an Skydance-Chef David Ellison, bei der Paramount-Warner-Bros.-Fusion das Wohl der Branche und nicht nur eigene finanzielle Interessen zu berücksichtigen. Die im Fusionsvertrag enthaltene Klausel, die den Verkauf der kalifornischen Studiogelände für mindestens fünf Jahre untersagt, kritisierte Leguizamo als unzureichend, da die zeitliche Befristung den Beschäftigten keine langfristige Planungssicherheit biete.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Skydance Shuffle: David Ellison Addresses Troops About New Name, Says Adieu to Mike and Pam and Sets Table for ‘Barbie 2’",
+          "link": "https://variety.com/2026/film/news/david-ellison-skydance-name-mike-pam-barbie-2-1236897929/",
+          "summary": "David Ellison hat in einem internen Memo bekannt gegeben, dass die aus der Fusion von Paramount und Warner Bros. Discovery entstehende Muttergesellschaft den Namen „Skydance\" tragen wird, während etablierte Marken wie Warner Bros., Paramount und HBO erhalten bleiben. Im Zuge der Übernahme kommt es zu personellen Umstrukturierungen: Dana Goldberg und Josh Greenstein von Paramount Pictures rücken in erweiterte kreative Führungspositionen auf, während Michael De Luca und Pamela Abdy Warner Bros. verlassen.",
+          "score": 10
+        },
+        {
+          "source": "Variety",
+          "title": "17 Best New Movies Streaming in October: ’The Invite,’ ‘Disclosure Day,’ ‘Evil Dead Burn’ and More",
+          "link": "https://variety.com/lists/best-movies-streaming-october-2026/",
+          "summary": "Variety präsentiert eine Übersicht der 17 wichtigsten Filme-Neustarts auf Streaming-Plattformen im Oktober 2026, darunter die Horror-Titel „Evil Dead Burn\" (HBO Max) und „Teenage Sex and Death at Camp Miasma\" (Mubi) passend zur Halloween-Saison. Zu den weiteren Highlights zählen die Sommer-Blockbuster „Disclosure Day\" (Spielbergs Alien-Film) und „Minions and Monsters\" auf Peacock sowie A24s kommerziell erfolgreiche Komödie „The Invite\" von Olivia Wilde, die mit Oscar-Buzz am 23. Oktober auf HBO Max startet.",
           "score": 7
         }
       ]
