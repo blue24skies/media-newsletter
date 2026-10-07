@@ -1,231 +1,161 @@
 {
   "newsletters": [
     {
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Verleger-Verbände: Gemeinsam gegen die Tech-Riesen",
-          "link": "https://www.dwdl.de/nachrichten/108098/verlegerverbaende_gemeinsam_gegen_die_techriesen/",
-          "summary": "Die Verlegerverbände BDZV und MVFP intensivieren im \"Bündnis Freie Presse\" ihre Zusammenarbeit, um gemeinsam gegen die wachsende Marktmacht von Tech-Konzernen wie Google und Meta vorzugehen. Im Zentrum stehen Forderungen nach stärkerer Plattformregulierung, der Schutz journalistischer Inhalte vor KI-Ausbeutung sowie das Leistungsschutzrecht. Die Verbände wollen politische Positionen enger abstimmen und sich auf nationaler wie europäischer Ebene geschlossener für faire Wettbewerbsbedingungen einsetzen.",
+          "title": "sagamedia-Gründerin und TV-Produzentin Iris Bettray verstorben",
+          "link": "https://www.dwdl.de/nachrichten/108111/sagamediagruenderin_und_tvproduzentin_iris_bettray_verstorben/",
+          "summary": "Die TV-Produzentin und sagamedia-Mitgründerin Iris Bettray ist am 5. Oktober 2026 im Alter von nur 63 Jahren verstorben. Nach Karrierestationen bei Sat.1, RTL und AZ Media baute sie gemeinsam mit Jutta Pinzler die Produktionsfirma sagamedia auf, die in ihrem Nachruf auf LinkedIn Bettrays prägende Rolle und den von ihr geschaffenen besonderen Zusammenhalt würdigt. Noch Anfang 2025 hatte sie in einem DWDL-Interview trotz aller Härten des Geschäfts dazu ermutigt, den Schritt in die Selbstständigkeit zu wagen.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "RTL blickt hinter Kulissen - und macht sich selbst Konkurrenz",
+          "link": "https://www.dwdl.de/nachrichten/108110/rtl_blickt_hinter_kulissen__und_macht_sich_selbst_konkurrenz/",
+          "summary": "RTL setzt seine erfolgreiche \"Inside\"-Reihe ab dem 4. November mit vier neuen Folgen (u.a. Aldi, dm/Rossmann, Dr. Oetker, Lindt) mittwochs um 20:15 Uhr fort, nachdem im Frühjahr teils über 20 Prozent Marktanteil beim jungen Publikum erzielt wurden. Bemerkenswert ist, dass Schwestersender Vox zeitgleich mit der zweiteiligen Reportage \"Ready for Take-Off - Hinter den Kulissen von Eurowings\" eine thematisch ähnliche Doku platziert und damit konzernintern direkte Konkurrenz schafft. Dies überrascht insbesondere, da die Programmplanung bei RTL Deutschland mittlerweile senderübergreifend im Bereich von O",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Lege und der Vox-Lieferdienst melden sich im November zurück",
+          "link": "https://www.dwdl.de/nachrichten/108109/lege_und_der_voxlieferdienst_melden_sich_im_november_zurueck/",
+          "summary": "Sebastian Lege, der ab 2027 exklusiv zu RTL Deutschland wechselt, kehrt ab dem 2. November mit der vierten Staffel von \"Lege kommt auf den Geschmack\" montags um 20:15 Uhr auf Vox zurück, inklusive verschärfter Jury-Regeln (Dreiviertelmehrheit) und einer Sonderfolge zu viralen Foodtrends. Bereits am 1. November startet zudem der \"Vox-Lieferdienst\" mit wechselnden Besetzungen – den Auftakt machen Tim Mälzer und Philipp Vogel in Lüneburg, gefolgt von \"Herrmann & Zacherl\" in Dortmund. Ergänzend laufen am 3. und 10. November zwei neue Folgen von \"Doc Caros Körperkenner\".",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "RTLzwei zeigt den \"Promihof\" künftig erst am späteren Abend",
+          "link": "https://www.dwdl.de/nachrichten/108104/rtlzwei_zeigt_den_promihof_kuenftig_erst_am_spaeteren_abend/",
+          "summary": "RTLzwei verschiebt die zweite Staffel von \"Der Promihof\" vom Vorabend-Sendeplatz um 20:15 Uhr auf 22:15 Uhr donnerstags, nachdem die erste Staffel zwar bei RTL+ erfolgreich lief, aber lineare Quoten enttäuschte. Der Start erfolgt am 22. Oktober bei RTL+ und ab dem 29. Oktober im linearen Programm, das Konzept bleibt unverändert. Zum Cast zählen unter anderem Reality-Neulinge wie Spitzbua Markus und Thomas Dragunski sowie einige Teilnehmer, die zum Ausstrahlungszeitpunkt bereits bei \"Promi Big Brother\" präsent sind.",
           "score": 8
         },
         {
-          "source": "DWDL",
-          "title": "Skydance in Deutschland: 18 Sender, 4 Streamer, 2 Vermarkter",
-          "link": "https://www.dwdl.de/nachrichten/108097/skydance_in_deutschland_18_sender_4_streamer_2_vermarkter/",
-          "summary": "Die Übernahme von Warner Bros. Discovery durch Paramount Skydance bündelt auf dem deutschen Markt 18 TV-Sender (davon acht im Free-TV wie DMAX, Tele 5, MTV und Nickelodeon) sowie vier Streamingdienste (Paramount+, HBO Max, Discovery+ und Pluto TV), wobei sich die bisher komplementären Portfolios ohne großen Anpassungsdruck ergänzen. Offene Fragen ergeben sich vor allem bei der Vermarktung, da Skydance in zwei konkurrierende Joint Ventures eingebunden ist: Visoon (mit Axel Springer) für die Paramount-Angebote und El Cartel Brothers (mit RTLzwei) für das Warner-Bros.-Discovery-Portfolio.",
-          "score": 10
+          "source": "Horizont Medien",
+          "title": "Verlegerverbände: BDZV und MVFP intensivieren Zusammenarbeit",
+          "link": "https://www.horizont.net/medien/nachrichten/verlegerverbaende-bdzv-und-mvfp-intensivieren-zusammenarbeit-236132?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die beiden Verlegerverbände BDZV und MVFP intensivieren ihre Zusammenarbeit, bleiben aber organisatorisch unabhängig. Ein zentrales gemeinsames Ziel ist der Einsatz für eine strengere Regulierung großer Digitalplattformen. Die Kooperation war zuvor bereits vom neuen MVFP-Vorsitzenden Lars Rose angekündigt worden.",
+          "score": 9
         },
         {
-          "source": "DWDL",
-          "title": "Es ist vollbracht: Paramount und Warner sind jetzt Skydance",
-          "link": "https://www.dwdl.de/nachrichten/108096/es_ist_vollbracht_paramount_und_warner_sind_jetzt_skydance/",
-          "summary": "Paramount Skydance hat am 6. Oktober 2026 die Übernahme von Warner Bros. Discovery für rund 111 Milliarden Dollar abgeschlossen; das fusionierte Unternehmen firmiert künftig unter dem Namen Skydance, während die Studiomarken Paramount und Warner Bros. vorerst eigenständig weitergeführt werden. Trotz erwarteter Synergien von sechs Milliarden Dollar über drei Jahre steht das Unternehmen vor erheblichen Herausforderungen, insbesondere durch den auf rund 80 Milliarden Dollar gestiegenen Schuldenberg bei einem erwarteten Jahresumsatz von etwa 70 Milliarden Dollar.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "Streaming-Rekord für \"The Voice\", \"Babylon Berlin\" weiter stark",
-          "link": "https://www.dwdl.de/zahlenzentrale/108095/streamingrekord_fuer_the_voice_babylon_berlin_weiter_stark/",
-          "summary": "\"The Voice of Germany\" erzielte mit rund 511.000 Personen Streaming-Nettoreichweite auf Joyn (KW 39) erstmals seit 2024 einen Wert über 500.000 und war damit stärkste Joyn-Marke der Woche. Im anbieterübergreifenden Ranking dominierte jedoch die ARD mit der \"Sportschau\" (1,767 Mio., u.a. durch das Länderspiel gegen Griechenland) sowie \"Babylon Berlin\" (1,75 Mio.), das trotz leichtem Rückgang stärkstes Fiction-Angebot blieb. Im Reality-Segment führt weiterhin das \"Sommerhaus der Stars\" mit 1,217 Millionen erreichten Personen.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "Mit diesem Programm startet das neue Disney TV im Dezember",
-          "link": "https://www.dwdl.de/nachrichten/108094/mit_diesem_programm_startet_das_neue_disney_tv_im_dezember/",
-          "summary": "Disney baut seinen Kinderkanal Disney Channel zum 1. Dezember zum generalistischen Sender „Disney TV“ um, der sich verstärkt an ein erwachsenes Publikum richtet. Das Programm umfasst Drama- und Comedy-Serien wie „Modern Family“, „Scrubs“ und die Free-TV-Premiere von „Tracker“ sowie in der Primetime Blockbuster, Disney-Klassiker und Marvel-Filme. Zudem sollen künftig Inhalte aus den Welten von Hulu, FX, Star Wars, Pixar und 20th Century Studios sowie ausgewählte Dokumentationen gezeigt werden.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "Fußball-Länderspiele der Frauen bleiben bei ARD und ZDF",
-          "link": "https://www.dwdl.de/nachrichten/108091/fussballlaenderspiele_der_frauen_bleiben_bei_ard_und_zdf/",
-          "summary": "ARD und ZDF sichern sich über ihre Sportrechte-Agentur SportA die exklusiven Medienrechte an sämtlichen Länderspielen der deutschen Fußball-Frauen bis 2031, einschließlich Nations League sowie Qualifikations- und Vorbereitungsspielen für EM 2029 und WM 2031. Die Rechte umfassen die Live- und Nachverwertung auf allen Verbreitungswegen; die nächsten Übertragungen sind das ZDF-Spiel gegen Australien (9. Oktober) und die ARD-Partie gegen Japan (13. Oktober).",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Nominierte für Bremer Fernseh- und Digitalpreis 2026 stehen fest",
-          "link": "https://www.dwdl.de/nachrichten/108078/nominierte_fuer_bremer_fernseh_und_digitalpreis_2026_stehen_fest/",
-          "summary": "Aus 172 Einreichungen wurden 19 Projekte für den Bremer Fernseh- und Digitalpreis 2026 nominiert, wobei der NDR mit fünf und der WDR mit vier Nominierungen führen und sich diesmal kein privater Sender platzieren konnte. Die Preisverleihung findet am 13. November statt und wird erstmals von ARD-Korrespondentin Gudrun Engel moderiert, während Hans Helmich (Deutsche Welle) den Jury-Vorsitz übernimmt – beide treten damit die Nachfolge des zuvor in Personalunion agierenden Frank Plasberg an.",
+          "source": "Horizont Medien",
+          "title": "P7S1 Ad Manager: Pro Sieben Sat 1 startet Self-Service-Tool für den Mittelstand",
+          "link": "https://www.horizont.net/medien/nachrichten/p7s1-ad-manager-pro-sieben-sat-1-startet-self-service-tool-fuer-den-mittelstand-236114?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "ProSiebenSat.1 bringt mit dem P7S1 Ad Manager erstmals ein Self-Service-Tool für TV-Werbung in Deutschland an den Start, das gezielt mittelständische Unternehmen adressiert. Die von MFE Advertising entwickelte Self-Booking-Lösung setzt die im Sommer vom Seven-One-CEO Nicola Lussana angekündigte Strategie um, kleineren Werbekunden den Zugang zu Bewegtbildwerbung zu erleichtern.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Mega-Deal: Paramount schließt Warner-Übernahme ab",
-          "link": "https://www.horizont.net/medien/nachrichten/mega-deal-paramount-schliesst-warner-uebernahme-ab-236124?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Paramount hat die Übernahme von Warner Brothers für über 110 Milliarden Dollar abgeschlossen und bündelt beide Unternehmen unter dem neuen Namen Skydance. Der Konzern wird von der Familie des Tech-Milliardärs Larry Ellison kontrolliert, wodurch einer der größten Medienzusammenschlüsse der jüngeren Geschichte entsteht.",
-          "score": 10
+          "title": "OOH-Unternehmer im Interview: Ströer-Chef Udo Müller: &quot;Wer sich ausruht, wird überrollt&quot;",
+          "link": "https://www.horizont.net/medien/nachrichten/ooh-unternehmer-im-interview-stroeer-chef-udo-mueller-wer-sich-ausruht-wird-ueberrollt-236093?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Im HORIZONT-Interview skizziert der zurückgekehrte Ströer-Gründer und Miteigentümer Udo Müller eine zugleich vielversprechende wie bedrohliche Zukunft, in der traditionelle Marktgewissheiten schwinden und auch etablierte Unternehmen kontinuierlich um ihre Relevanz ringen müssen. Sein zentrales Credo: Stillstand ist keine Option – wer sich ausruht, werde vom Markt überrollt. Der Beitrag ist allerdings kostenpflichtig und erst nach Anmeldung vollständig zugänglich.",
+          "score": 8
         },
         {
           "source": "Horizont Medien",
-          "title": "BDZV: Zeitungsverleger-Chef fordert Zusagen von der Bundesregierung",
-          "link": "https://www.horizont.net/medien/nachrichten/bdzv-zeitungsverleger-chef-fordert-zusagen-von-der-bundesregierung-236111?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "BDZV-Vorstandsvorsitzender Matthias Ditzen-Blanke fordert von der Bundesregierung konkrete Zusagen zur Stärkung journalistischer Medien. Der Appell des Zeitungsverleger-Verbands richtet sich an die Politik, verbindliche Maßnahmen zur Unterstützung der Branche zu ergreifen.",
+          "title": "KI-Werbung: So baut OpenAI das Werbeangebot von ChatGPT aus",
+          "link": "https://www.horizont.net/medien/nachrichten/ki-werbung-so-baut-openai-das-werbeangebot-von-chatgpt-aus-236127?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "OpenAI hat seit Ende August Werbung in ChatGPT auf 31 europäische Länder einschließlich Deutschland ausgeweitet und arbeitet an der zügigen Professionalisierung des Angebots. Im Fokus stehen dabei vereinfachte Zugänge für Werbungtreibende sowie Lösungen zur Erfolgsmessung, während in den USA bereits neue Werbeformate getestet werden.",
+          "score": 9
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "HORIZONT Sportbusiness Awards: Plattform des Jahres: Was Magenta TV so erfolgreich macht",
+          "link": "https://www.horizont.net/medien/nachrichten/horizont-sportbusiness-awards-plattform-des-jahres-was-magenta-tv-so-erfolgreich-macht-236053?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Magenta TV wurde bei den HORIZONT Sportbusiness Awards als \"Plattform des Jahres\" ausgezeichnet, nachdem die Fußball-Weltmeisterschaft 2026 mit über 1000 Stunden Programm Rekordwerte erzielte. Im Interview erläutern Magenta-TV-Chef Arnim Butzen, Produktverantwortlicher Joachim Abel und Vermarkter Jörg Richartz die Faktoren hinter dem Erfolg der Plattform.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "BDZV und MVFP wollen gemeinsam Google & Co. einheizen",
+          "link": "https://kress.de/news/beitrag/156694-bdzv-und-mvfp-wollen-gemeinsam-google-amp-co-einheizen.html",
+          "summary": "Die Verlegerverbände BDZV und MVFP wollen ihre Zusammenarbeit über das 2025 gegründete „Bündnis Zukunft Presse“ ausbauen, um gegenüber Digitalkonzernen wie Google und Meta gemeinsam für faire Wettbewerbsbedingungen auf nationaler und europäischer Ebene einzutreten. Geplant ist die Bündelung von Expertise und Ressourcen bei politischer Kommunikation, gemeinsamen Initiativen und medienpolitischen Grundsatzfragen, wobei konkrete Konzepte in den kommenden Monaten erarbeitet werden sollen. Eine Fusion der beiden eigenständigen Verbände ist jedoch weiterhin nicht vorgesehen.",
           "score": 7
         },
         {
           "source": "kress",
           "title": "NRW-Medienminister Liminski widerspricht Weimer Vor wenigen Wochen sorgte Medienstaatsminister...",
           "link": "https://kress.de/news/beitrag/156683-zdf-privatisierung-nrw-medienminister-liminski-widerspricht-weimer.html",
-          "summary": "NRW-Medienminister Nathanael Liminski (CDU) widerspricht dem Vorschlag von Medienstaatsminister Wolfram Weimer zur Privatisierung des ZDF und hält den Zeitpunkt für eine solche Debatte für ungeeignet. Zudem äußerte sich Liminski zu den Risiken eines möglichen AfD-Ministerpräsidenten in Sachsen-Anhalt und betonte, dass zwar die Medienstaatsverträge kündbar seien, das Grundgesetz jedoch eine auskömmliche Finanzierung des öffentlich-rechtlichen Rundfunks vorschreibe. Die Rundfunkkommission der Länder bereite sich auf eine mögliche Kündigung vor, wobei Liminski zugleich zu Zurückhaltung mahnte.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Jörg Neunecker übernimmt zentrale Rolle bei RTL Zwei Der Sender RTL Zwei bündelt mehrere bislang getrennte Kompetenzen.",
-          "link": "https://kress.de/news/beitrag/156685-joerg-neunecker-uebernimmt-zentrale-rolle-bei-rtl-zwei.html",
-          "summary": "RTL Zwei bündelt im Rahmen einer umfassenden Neuorganisation seine Kommunikations- und Marketingaktivitäten und überträgt dem bisherigen Direktor Kommunikation, Jörg Neunecker, eine zentrale Schnittstellenfunktion für die strategische Markenpositionierung. Ziel der von CEO Thorsten Braun vorangetriebenen Umstrukturierung ist die engere Verzahnung von TV, Streaming und Social Media sowie eine stärker datenbasierte, plattformübergreifende Ausrichtung. Zugleich entstehen neue Units wie „Content“ (geführt von Konstanze Beyer und Malte Kruber) und „Data & Distribution“ (unter Johannes Ehrler), die kreative und distributive Kompetenzen erstmals zentral zusammenführen.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Rund 1.000 Beschäftigte könnten von Kündigung der Staatsverträge betroffen sein Wie solidarisch ist...",
-          "link": "https://kress.de/news/beitrag/156681-mdr-intendant-ludwig-rund-1-000-beschaeftigte-koennten-von-kuendigung-der-staatsvertraege-betroffen-sein.html",
-          "summary": "MDR-Intendant Ralf Ludwig warnt, dass eine mögliche AfD-geführte Regierung in Sachsen-Anhalt durch die angekündigte Kündigung der Medienstaatsverträge dem Sender rund 150 bis 170 Millionen Euro an Einnahmen entziehen und bis zu 1.000 Beschäftigte (ein Viertel des Personals) gefährden könnte. Rechtlich wäre für eine Kündigung ein Mehrheitsbeschluss des Parlaments erforderlich; der MDR prüft dagegen alle juristischen Wege, etwa über das Bundesverfassungsgericht, Verwaltungsgerichte oder die übrigen Staatsvertragsländer. Großproduktionen wie „Tatort“ oder „Polizeiruf“ stünden bei einem Wegfall eben",
+          "summary": "NRW-Medienminister Nathanael Liminski (CDU) widerspricht dem Vorschlag von Medienstaatsminister Wolfram Weimer zur Privatisierung des ZDF und hält den aktuellen Zeitpunkt für ungeeignet, eine solche Debatte zu führen. Zudem betont Liminski mit Blick auf einen möglichen AfD-Ministerpräsidenten in Sachsen-Anhalt, dass zwar die Medienstaatsverträge kündbar seien, das Grundgesetz jedoch eine auskömmliche Finanzierung des öffentlich-rechtlichen Rundfunks vorschreibe. Die Rundfunkkommission der Länder bereite sich zwar auf eine mögliche Kündigung vor, zugleich mahnt er zur Zurückhaltung im Umgang mit der AfD",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "First-Party-Daten im E-Commerce Wer seine Kundendaten nicht nutzt, verschenkt Umsatz First-Party-Daten sind für Händler aber auch Medienhäuser weit mehr als Newsletter-Adressen und Kundenkarten. Richtig eingesetzt, können sie Kunden zurückgewinnen, personalisierte Services ermöglichen und die Abhängigkeit von Google und Meta reduzieren. Auch der Einsatz von KI macht die eigenen Daten wertvoller",
-          "link": "https://meedia.de/news/beitrag/25179-wer-seine-kundendaten-nicht-nutzt-verschenkt-umsatz.html",
-          "summary": "First-Party-Daten werden von vielen E-Commerce-Händlern und Medienhäusern unterschätzt und meist nur für Newsletter und Loyalty-Programme statt als strategischer Vermögenswert genutzt, obwohl sie erhebliches Umsatzpotenzial durch Kundenrückgewinnung und personalisierte Services bieten. Laut Custobar-Gründer Aleksi Montonen reduziert ihr gezielter Einsatz zudem die Abhängigkeit von Google und Meta, während der zunehmende KI-Einsatz die Bedeutung sauberer eigener Daten weiter steigert.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "ChatGPT Ads OpenAI baut Messung und Werbeformate aus OpenAI erweitert sein Werbegeschäft um neue...",
-          "link": "https://meedia.de/news/beitrag/25191-openai-baut-messung-und-werbeformate-aus.html",
-          "summary": "OpenAI baut sein Werbegeschäft ChatGPT Ads mit neuen Messmöglichkeiten, einem breiten Netzwerk etablierter Messpartner (u.a. LiveRamp, AppsFlyer, Adjust, Tealium) sowie einem visuellen Anzeigenformat aus. Der starke Fokus auf Attribution, Conversion-Messung, Incrementality und Brand Safety zeigt, dass OpenAI gezielt die Anforderungen von Advertisern und Agenturen adressiert. Die Erweiterung erfolgt parallel zum internationalen Rollout, wobei ChatGPT Ads mittlerweile auch in Europa verfügbar ist.",
+          "title": "One Media will kleineren mittelständischen Unternehmen den Einstieg in TV-Werbung erleichtern.",
+          "link": "https://meedia.de/news/beitrag/25195-seven-one-media-gibt-mittelstaendlern-ein-self-service-buchungstool-an-die-hand.html",
+          "summary": "Seven.One Media, der TV-Vermarkter von ProSiebenSat.1, führt mit dem „ProSiebenSat.1 AdManager“ ein Self-Service-Tool ein, mit dem kleinere mittelständische Unternehmen Addressable-TV-Kampagnen auf Connected TVs selbstständig planen und ausspielen können. Das bereits aus Italien und Spanien bekannte MFE-Tool ermöglicht insbesondere die Buchung von SwitchIn-Formaten in L-Form und soll die Einstiegshürde für TV-Werbung senken. Vermarktungschef Nicola Lussana zielt damit gezielt auf den Mittelstand als bislang unerschlossene Kundengruppe für reichweitenstarke Big-Screen-Werbung.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts \"Promi Big Brother\" startet gut, verliert aber gegen die...",
-          "link": "https://meedia.de/news/beitrag/25180-quot-promi-big-brother-quot-startet-gut-verliert-aber-gegen-die-quot-3-millionen-euro-woche-quot-von-quot-wer-wird-millionaer-quot.html",
-          "summary": "Beim TV-Showdown am Montagabend setzte sich der ZDF-Krimi \"Nord Nord Mord\" mit herausragenden 31,4 Prozent Marktanteil (7,07 Mio. Zuschauer) im Gesamtpublikum klar durch. In der werberelevanten Zielgruppe der 14- bis 49-Jährigen fiel das Rennen deutlich enger aus: Hier gewann \"Wer wird Millionär?\" mit dem Start der \"3-Millionen-Euro-Woche\" knapp vor dem Staffelauftakt von \"Promi Big Brother\" und den ARD-Infosendungen.",
-          "score": 8
+          "title": "Gemeinsam mit Hochschule Düsseldorf entwickelt Neuer Index von Unbound Media: Wie „selbstbestimmt“...",
+          "link": "https://meedia.de/news/beitrag/25200-neuer-index-von-unbound-media-wie-selbstbestimmt-sind-media-und-daten-setups-wie-abhaengig-sind-sie.html",
+          "summary": "Die Düsseldorfer Agentur Unbound Media hat gemeinsam mit der Hochschule Düsseldorf den Media Sovereignty Index (MSI) entwickelt, ein zweistufiges Self-Assessment-Tool, das anhand von sechs Dimensionen die Selbstbestimmtheit von Werbungtreibenden bei ihrem Media- und Daten-Setup bewertet. Vor dem Hintergrund zunehmender Plattformkonzentration, Automatisierung und KI-gestützter Blackbox-Entscheidungen soll der Index Abhängigkeiten und Transparenzlücken sichtbar machen und Faktoren wie Datenkontrolle, Kosten und eigene Handlungsspielräume in den Fokus rücken. Der Quick-Check umfasst zwölf Fragen zur ersten Einordnung",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Schulterschluss auf der Buchmesse Frankfurter Appell: 140 Verlage fordern mehr Transparenz von...",
+          "link": "https://meedia.de/news/beitrag/25199-frankfurter-appell-140-verlage-fordern-mehr-transparenz-von-ki-unternehmen.html",
+          "summary": "Zum Auftakt der Frankfurter Buchmesse fordern 140 Verlage und Branchenorganisationen in einem gemeinsamen \"Frankfurter Appell\" strengere Regeln für den Umgang von KI-Unternehmen mit urheberrechtlich geschützten Werken, insbesondere mehr Transparenz über die für das KI-Training verwendeten Inhalte sowie bessere Durchsetzungsmöglichkeiten für Rechteinhaber. Kritisiert wird, dass KI-Anbieter geschützte Werke ohne Einwilligung oder Vergütung nutzen und erklärte Nutzungsvorbehalte oft sanktionslos ignorieren. Die Initiative des Börsenvereins spiegelt eine Debatte wider, die auch Medienhäuser und deren Verbände (MVFP, BDZV)",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "TV-Quoten & Streaming-Charts Enger Dreikampf zwischen \"TV total\", \"Wer wird Millionär?\" und \"Promi...",
+          "link": "https://meedia.de/news/beitrag/25194-enger-dreikampf-zwischen-quot-tv-total-quot-quot-wer-wird-millionaer-quot-und-quot-promi-big-brother-quot.html",
+          "summary": "Im Gesamtpublikum dominierten am Dienstagabend die ARD-Serien \"Die Kanzlei\" (3,93 Mio., 18,8 % Marktanteil) und \"In aller Freundschaft\" (3,02 Mio.), während \"Wer wird Millionär?\" mit 2,47 Mio. ebenfalls starke Werte erzielte und das ZDF mit \"Terra X History\" (1,79 Mio., 8,7 %) unter Normalniveau blieb. Bei den 14- bis 49-Jährigen entwickelte sich hingegen ein knapper Dreikampf, den \"TV total\" (0,44 Mio.) vor \"Wer wird Millionär?\" (0,41 Mio.) und \"Promi Big Brother\" (0,39 Mio.) für sich entschied.",
+          "score": 9
         },
         {
           "source": "Guardian Media",
-          "title": "Paramount completes $111bn acquisition of Warner Bros to form new media empire Skydance",
-          "link": "https://www.theguardian.com/business/2026/oct/06/paramount-warner-bros-skydance-merger",
-          "summary": "Paramount hat die 111 Milliarden Dollar schwere Übernahme von Warner Bros Discovery abgeschlossen und unter dem Namen Skydance eines der größten Medienunternehmen der Branche geschaffen, das Filmstudios, HBO Max, CBS News und CNN vereint. Geführt wird der Konzern von David Ellison und Ex-Mattel-CEO Ynon Kreiz als Co-Executives. Zur Beilegung kartellrechtlicher Klagen mehrerer US-Bundesstaaten verpflichtete sich Skydance in einem Vergleich, jährlich mindestens 30 Filme und über 180 TV-Serien zu produzieren.",
+          "title": "Goodbye Warner, hello Skydance: how will the major merger really impact Hollywood?",
+          "link": "https://www.theguardian.com/film/2026/oct/07/paramount-warner-bros-skydance-merger-explainer",
+          "summary": "Nach einem turbulenten Übernahmeprozess – inklusive gescheitertem Netflix-Gebot – hat Skydance unter David Ellison Warner Bros und Paramount für 111 Milliarden Dollar zu einem neuen Medienkonzern vereint, wodurch sich Hollywoods „Big Five“ auf vier Großstudios (neben Sony, Disney und Universal) reduzieren. Die Fusion umfasst zudem die geplante Zusammenlegung der Streamingdienste HBO Max und Paramount+ sowie die Bündelung zahlreicher TV-Sender (u.a. HBO, CBS, CNN, MTV, Nickelodeon) unter einem Dach. Besondere Aufmerksamkeit erregt die Einbindung von CNN, da nach früheren redaktionellen Eingriffen bei CBS News",
           "score": 10
         },
         {
+          "source": "Guardian Media",
+          "title": "Disney accuses Trump officials of ‘blatant violations’ of constitution amid FCC battle",
+          "link": "https://www.theguardian.com/media/2026/oct/06/disney-trump-abc-fcc",
+          "summary": "Disney wirft der Trump-Regierung vor Gericht \"eklatante Verstöße gegen die US-Verfassung\" und Zensur vor, nachdem die FCC unter dem Trump-ernannten Vorsitzenden Brendan Carr eine vorzeitige Überprüfung der acht lokalen TV-Sendelizenzen von ABC angeordnet hat. Die Anwälte argumentieren, die Maßnahme ziele darauf ab, die redaktionelle Freiheit des Senders zu beschneiden (\"chilling effect\"), während die Regierung die Anordnung mit einer Untersuchung der Einstellungspraktiken von Disney rechtfertigt. Richterin Loren AliKhan zeigte sich während der etwa zweistündigen Anhörung von den Argumenten der Regierung wenig überzeugt.",
+          "score": 7
+        },
+        {
           "source": "Deadline",
-          "title": "Paramount Enlists Steven Spielberg In Primary Creative Producer Role For Next ‘Transformers’ Movie, With Michael Bay In Early Talks To Direct",
-          "link": "https://deadline.com/2026/10/steven-spielberg-transformers-movie-michael-bay-1237125679/",
-          "summary": "Paramount und Hasbro reaktivieren ihre Transformers-Reihe und holen Steven Spielberg zusammen mit Produzent Lorenzo di Bonaventura in eine federführende kreative Rolle für den achten Live-Action-Film, während Michael Bay in frühen Gesprächen zur Rückkehr als Regisseur steht. Das Projekt basiert auf einem Drehbuch von Jason Fuchs, spielt in der Gegenwart und knüpft damit an das Erfolgsteam der ersten Filme an, die weltweit über 5,4 Milliarden US-Dollar einspielten. Die Produktion befindet sich in einer frühen Entwicklungsphase, konkrete Besetzungs- und Handlungsdetails sind noch nicht bekannt.",
+          "title": "David Brindley Confirmed As Channel 4 Content Chief",
+          "link": "https://deadline.com/2026/10/david-brindley-named-channel-4-content-chief-1237147700/",
+          "summary": "David Brindley wurde zum neuen Director of Programmes bei Channel 4 ernannt und übernimmt damit die Verantwortung für alle Scripted- und Unscripted-Genres sowie einen Sitz im Vorstand. Er ersetzt den scheidenden Ian Katz und soll laut CEO Priya Dogra im Rahmen der strategischen Neuausrichtung des Senders verstärkt in markante britische Inhalte und kreative Talente investieren. In der neu strukturierten Commissioning-Führung arbeitet Brindley eng mit News- und Digital-Chefin Louisa Compton sowie Content-Strategie-Leiter Kiran Nataraja zusammen.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "David Ellison, Ynon Kreiz Praise Staff, Lay Out Priorities For New Skydance: “Getting Here Has Been Quite A Journey”",
-          "link": "https://deadline.com/2026/10/david-ellison-skydance-merger-staff-memo-1237147828/",
-          "summary": "Skydance hat die historische 110-Milliarden-Dollar-Fusion von Paramount und Warner Bros. Discovery abgeschlossen und schafft damit einen potenziellen Konkurrenten für Netflix, Disney und Amazon. In einem Mitarbeiter-Memo dankten CEO David Ellison und Co-CEO Ynon Kreiz der Belegschaft und skizzierten Prioritäten wie kreative Exzellenz und technologische Führung, räumten aber angesichts von 80 Milliarden Dollar Schulden und angestrebten 6 Milliarden Dollar Einsparungen auch anstehende Stellenabbauten ein. Der neutrale Name „Skydance“ wurde bewusst gewählt, um keine der beiden Traditionsmarken zu bevorzugen.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "NHL All-Star P.K. Subban To Star In & Produce Canadian Animated Ice Hockey Series ‘Screech Owls’ For CBC, Radio-Canada & TFO",
-          "link": "https://deadline.com/2026/10/screech-owls-animated-series-pk-subban-1237146878/",
-          "summary": "NHL-Star P.K. Subban übernimmt als Executive Producer und Sprecher der Trainerfigur die Hauptrolle in der animierten Action-Adventure-Serie „Screech Owls\", die in Koproduktion von Shaftesbury, Sphere Media, der NHL und Boat Rocker entsteht und ab Herbst 2027 auf CBC (englisch) sowie Winter 2028 auf Radio-Canada und TFO (französisch) startet. Die auf Roy MacGregors Buchreihe und der Live-Action-Serie von 2001 basierende Produktion ist als Multiplattform-Franchise konzipiert und soll über TV und Bücher hinaus auf interaktives Gaming, Merchandising und globales Licensing ausgeweitet werden. Die US- und Nordics-Vertriebsrechte liegen exklusiv bei",
+          "title": "The Set Up To Adapt Lisa Wilkinson Novel ‘The Titanic Story Of Evelyn’ For TV",
+          "link": "https://deadline.com/2026/10/titanic-story-of-evelyn-lisa-wilkinson-tv-adaptation-1237148890/",
+          "summary": "Die neue TV-Produktionsfirma The Set Up von Bruna Papandrea, Steve Hutensky und Alison Hurbert-Burns kooperiert mit der australischen Autorin Lisa Wilkinson für die TV-Adaption ihres Sachbuch-Bestsellers „The Titanic Story of Evelyn“. Das im April 2026 erschienene Buch erreichte sofort Platz eins der australischen Bestsellerliste und erzählt die wahre Geschichte von Evelyn Marsden, der einzigen in Australien geborenen Titanic-Überlebenden.",
           "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Netflix Appoints IMG To Produce FIFA Women’s World Cup 2027",
-          "link": "https://deadline.com/2026/10/netflix-appoints-img-fifa-womens-world-cup-2027-1237147701/",
-          "summary": "Netflix hat IMG mit der Produktion der FIFA Frauen-WM 2027 beauftragt, die vom 24. Juni bis 25. Juli in Brasilien stattfindet und exklusiv in den USA und Kanada gestreamt wird. IMG produziert dabei die Übertragung aller 64 Spiele sowie über 100 Stunden Studioprogramm in mehreren Sprachen. Das Turnier markiert Netflix' ersten Einstieg in die exklusive Live-Fußball-Übertragung, wobei der Streamingdienst auch die Rechte an der Ausgabe 2031 hält.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Lucy Hale To Headline ‘Scarlett Holmes’ Limited Series At Roku",
-          "link": "https://deadline.com/2026/10/lucy-hale-scarlett-holmes-roku-limited-series-1237147043/",
-          "summary": "Roku hat die Limited Series „Scarlett Holmes\" bestellt, in der Lucy Hale als Hauptdarstellerin und Executive Producer fungiert; die von Jaggi Entertainment produzierte Serie soll 2027 exklusiv auf The Roku Channel starten. Die romantische Neuinterpretation des Sherlock-Holmes-Stoffs zeigt eine moderne Nachfahrin, die statt Verbrechen Liebes- und Beziehungsprobleme löst, während jede Episode von einer bekannten Romantikkomödie inspiriert ist. Mit diesem Projekt setzt Roku auf die Kombination der bei seinen Nutzern beliebten Genres Romance und Mystery.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Amazon Strikes Six-Year Global Deal For Emmys Worth More Than $20M Per Year, Will Make Event Free To View",
-          "link": "https://deadline.com/2026/10/amazon-emmys-six-year-global-deal-1237147189/",
-          "summary": "Amazon hat sich die globalen Streaming-Rechte an den Emmys für sechs Jahre gesichert – der Deal wird auf über 120 Mio. US-Dollar bzw. 20-25 Mio. jährlich beziffert und löst damit das seit 1995 bestehende Rotationssystem der US-Broadcaster (ABC, CBS, Fox, NBC) ab, die bislang 8-10 Mio. pro Jahr zahlten. Die Verleihung wird ab September kostenlos auf Prime Video verfügbar sein, wobei Amazon durch den globalen Zugang ein jüngeres Publikum erschließen und die Reichweite international ausbauen will.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Skydancing At Last: $110B Merger Of Paramount And Warner Bros Discovery Officially Closes",
-          "link": "https://deadline.com/2026/10/skydance-merger-paramount-warner-bros-discovery-1237147750/",
-          "summary": "Die 110-Milliarden-Dollar-Fusion von Paramount und Warner Bros. Discovery wurde offiziell abgeschlossen, wodurch mit Skydance ein neuer Medienriese entsteht, dessen Aktien künftig an der New Yorker Börse gehandelt werden. Das neue Unternehmen startet mit rund 80 Milliarden Dollar Schulden und dem ehrgeizigen Ziel, sich von einem traditionellen Medienkonzern zu einem technologieorientierten Wettbewerber auf Augenhöhe mit Netflix, Amazon und Disney zu wandeln. Geführt wird Skydance vom 43-jährigen David Ellison als Chairman und CEO, unterstützt von seinem Vater und Oracle-Mitgründer Larry Ellison.",
-          "score": 10
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Steven Spielberg Returns to ‘Transformers’ Franchise, Michael Bay in Talks to Direct for Paramount",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/steven-spielberg-transformers-new-movie-michael-bay-1236723336/",
-          "summary": "Steven Spielberg kehrt als Executive Producer zur Transformers-Franchise von Paramount zurück, während Michael Bay, der bereits die ersten fünf Filme inszenierte, Verhandlungen über die Regie des achten Live-Action-Teils führt. Der im modernen Setting angesiedelte Film basiert auf einem Drehbuch von Jason Fuchs und wird gemeinsam mit Produzent Lorenzo di Bonaventura entwickelt. Franchise-Star Shia LaBeouf wird dem Vernehmen nach nicht zurückkehren, und das Projekt entsteht im Kontext der kürzlich abgeschlossenen Fusion von Paramount mit Warner Bros. Discovery.",
+          "title": "Disney+ Will Stream the 2027 Super Bowl and ‘New Year’s Rockin’ Eve’",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/disney-plus-stream-2027-super-bowl-new-years-rockin-eve-1236724428/",
+          "summary": "Disney bringt den Super Bowl LXI erstmals via Disney+ als englisch- und spanischsprachigen Streaming-Simulcast parallel zur ABC-Übertragung – es wird der erste Super Bowl unter dem ESPN-Branding überhaupt. Zusätzlich kommen zwei Monday-Night-Football-Spiele sowie Dick Clark's New Year's Rockin' Eve auf die Plattform, um Streaming-Nutzer an ESPN heranzuführen. Die Strategie zeigt, wie Disney mit seinem gesamten Portfolio (Themenparks, Filme, Produkte) voll auf das Großereignis setzt und Disney+ als zweitgrößten US-Streamingdienst nach Netflix positioniert.",
           "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Inside the Shocking Decision to End ‘Young Sheldon’ at Its Peak (Exclusive Excerpt)",
-          "link": "https://www.hollywoodreporter.com/tv/tv-features/young-sheldon-ending-drama-book-excerpt-1236702479/",
-          "summary": "Die CBS-Erfolgsserie „Young Sheldon\" endete 2024 nach sieben Staffeln auf ihrem Höhepunkt, wobei die Cast-Mitglieder die überraschende Entscheidung über das Serienende im Rahmen einer Zoom-Konferenz mit Chuck Lorre und den Produzenten erfuhren – nur vier Tage nach dem Ende des Schauspielerstreiks. Die Beweggründe werden detailliert in Jessica Radloffs Buch „Young Sheldon: The (Juicier-Than-Meemaw's-Brisket) Inside Story of the Hit Comedy\" aufgearbeitet, das am 20. Oktober bei Grand Central Publishing erscheint und exklusive Interviews sowie Hintergründe zur emotionalen Entscheidung bietet.",
-          "score": 7
+          "title": "Pixar, Lionsgate and Paramount Nab $100 Million in California Tax Credits",
+          "link": "https://www.hollywoodreporter.com/business/business-news/pixar-lionsgate-paramount-california-tax-credits-1236724236/",
+          "summary": "Kaliforniens Filmförderprogramm vergab in der jüngsten Runde 226,1 Millionen US-Dollar an Steuergutschriften an 35 Filmproduktionen, die rund 635,3 Millionen US-Dollar über 1.049 Drehtage im Bundesstaat ausgeben werden. Die höchsten Zuwendungen gingen an Pixar (40,1 Mio. USD für einen animierten Spielfilm), Lionsgate (30,8 Mio. USD für die Michael-Jackson-Biopic-Fortsetzung) und Paramount (29,3 Mio. USD für einen Krimi-Thriller), wobei Animationsprojekte aufgrund ihrer arbeitsintensiven Produktion und des günstigen Jobs-Verhältnisses zunehmend vom Programm profitieren.",
+          "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Ava DuVernay Returns With One of Netflix’s Most Political Docs Ever: “This Movie Kicked My Butt”",
-          "link": "https://www.hollywoodreporter.com/movies/movie-features/ava-duvernay-interview-netflix-political-doc-14th-1236722858/",
-          "summary": "Ava DuVernay kehrt mit „14th\" zurück, einer Netflix-Dokumentation über den 14. Verfassungszusatz und dessen umkämpfte Rolle im amerikanischen politischen Leben, die als Begleitstück zu ihrer Oscar-nominierten Doku „13th\" (2016) konzipiert ist und beim New York Film Festival Premiere feiert. Der Film folgt auf ihr kritisch gelobtes, aber kommerziell enttäuschendes Drama „Origin\" (2023), wobei DuVernay auf einen Ratschlag von Steven Spielberg verweist, trotz Rückschlägen stets weiterzuarbeiten.",
+          "title": "‘The Cadburys’: BritBox Drops First Look at Chocolate Empire Drama (Exclusive)",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/the-cadburys-britbox-chocolate-tv-show-series-show-regbo-1236724287/",
+          "summary": "BritBox und UKTV haben erste Bilder zur sechsteiligen Historienserie „The Cadburys“ veröffentlicht, die 2027 in Nordamerika (BritBox) und Großbritannien (U) startet und den Aufstieg der Schokoladendynastie Cadbury im Birmingham der 1860er Jahre erzählt. Toby Regbo, Harry Gilby und Jessica Barden verkörpern die Cadbury-Geschwister, während Freddie Highmore als Executive Producer fungiert. Die Dreharbeiten in Birmingham sind bereits abgeschlossen.",
           "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "László Nemes Boards Jack The Ripper Series ‘Sickert’ (Exclusive)",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/laszlo-nemes-boards-jack-the-ripper-series-sickert-1236723121/",
-          "summary": "Oscar-Preisträger László Nemes („Son of Saul\") wird die historische Thriller-Serie „Sickert\" co-schreiben und inszenieren, die im London des Jahres 1888 angesiedelt ist und den deutsch-britischen Maler Walter Sickert in den Mittelpunkt stellt – eine Figur, die von einigen Historikern als möglicher Jack the Ripper verdächtigt wird. Produziert wird die Miniserie vom Oscar-nominierten Alexander Rodnyansky („Leviathan\", „Loveless\") über sein Label AR Content, mit Adam Baroukh als Co-Autor. Die Handlung verfolgt Sickert zwischen Kunstwelt, High Society und gesellschaftlichem Rand, während er zur Zielperson der Scotland-Yard-Ermittlungen wird und an seiner eig",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "How David Ellison’s Skydance Outwitted Everyone",
-          "link": "https://www.hollywoodreporter.com/business/business-news/david-ellison-skydance-warner-bros-paramount-1236723299/",
-          "summary": "Skydance-CEO David Ellison hat nach der im Juli abgeschlossenen Übernahme von Paramount auch Warner Bros. Discovery erworben und kontrolliert damit beide Medienkonzerne – ein Szenario, das die ursprünglich 2023 diskutierte umgekehrte Fusion (WBD übernimmt Paramount) ins Gegenteil verkehrte. Ellisons erstes Angebot von rund 19 US-Dollar pro Aktie (60 Prozent in bar, Rest in Aktien) wurde vom WBD-Vorstand zunächst einstimmig als unzureichend abgelehnt, bevor der Deal schließlich am Dienstag vollzogen wurde.",
-          "score": 9
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Emmy Awards Enter Streaming Era: Prime Video, TV Academy Ink Six-Year Deal",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/emmy-awards-move-amazon-prime-video-1236722884/",
-          "summary": "Die Television Academy und Prime Video haben einen Sechsjahresvertrag (2027-2032) geschlossen, der den Amazon-Streamingdienst zur exklusiven Heimat der Primetime Emmys macht – erstmals in der 79-jährigen Geschichte der Awards werden diese nicht mehr im Broadcast-TV ausgestrahlt. Damit sind die Emmys der erste EGOT-Award, der exklusiv auf einer Streaming-Plattform läuft, noch vor dem geplanten Wechsel der Oscars zu YouTube ab 2029. Academy-Chair Cris Abrego betont, dass der Deal insbesondere Kontinuität bietet und das bisherige Rotationsmodell zwischen den vier großen Broadcast-Sendern ablöst, während die Zukunft der Creative Arts Emmys (bisl",
-          "score": 9
-        },
-        {
-          "source": "Variety",
-          "title": "Skydance CEOs Acknowledge Layoffs Will Be Coming After Paramount-Warner Bros. Merger: Read the Full Memo",
-          "link": "https://variety.com/2026/film/news/skydance-ceo-memo-layoffs-paramount-warner-bros-merger-1236901335/",
-          "summary": "Nach dem offiziellen Abschluss der 111-Milliarden-Dollar-Fusion zwischen Paramount Skydance und Warner Bros. Discovery zur neuen Skydance Corp. haben CEO David Ellison und Co-CEO Ynon Kreiz in einem Memo an die Belegschaft bevorstehende Stellenstreichungen angekündigt. Die Entlassungen sind Teil des Ziels, über drei Jahre hinweg jährliche Kosteneinsparungen von mehr als 6 Milliarden Dollar zu erreichen, wobei der genaue Umfang der Job-Kürzungen bislang nicht beziffert wurde.",
-          "score": 10
-        },
-        {
-          "source": "Variety",
-          "title": "Steven Spielberg to Oversee ‘Transformers’ Franchise With Eighth Movie in the Works at Paramount Pictures",
-          "link": "https://variety.com/2026/film/news/steven-spielberg-transformers-8-movie-franchise-reboot-1236901409/",
-          "summary": "Steven Spielberg übernimmt die kreative Gesamtaufsicht über das achte „Transformers“-Live-Action-Movie bei Paramount Pictures und fungiert – wie schon bei früheren Teilen – als Executive Producer, wobei er an der Seite von Lorenzo di Bonaventura einen Film im Ton der frühen Franchise-Filme anstrebt. Ein Regisseur ist noch nicht benannt, ebenso bleibt die mögliche Rolle von Michael Bay offen; Serienstar Shia LaBeouf wird nicht zurückkehren. Der Deal zählte zu den ersten Projekten der neuen Studiochefs Dana Goldberg und Josh Greenstein nach der Paramount-Skydance-Fusion.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "How David Ellison Won the Battle: Timeline of Paramount’s Rocky Road to Acquiring Warner Bros. Discovery",
-          "link": "https://variety.com/2026/film/news/timeline-paramount-warner-bros-merger-skydance-1236895020/",
-          "summary": "Am 6. Oktober 2026 wurde die Übernahme von Warner Bros. Discovery durch David Ellisons Paramount Skydance offiziell abgeschlossen, womit das neue Unternehmen Skydance Corp. entstand – belastet mit rund 80 Milliarden Dollar Schulden. Ellison setzte sich dabei in einem turbulenten Bieterwettbewerb gegen Netflix durch, das ursprünglich im Dezember 2025 den Zuschlag für einen 82,7-Milliarden-Dollar-Deal erhalten hatte, bevor Paramount Skydance mit einem Übernahmeangebot konterte. Der Prozess involvierte zahlreiche Akteure, darunter Präsident Trump, zwölf Generalstaatsanwälte aus demokratisch regierten Bundesstaaten sowie Op",
-          "score": 10
         }
       ]
     }
