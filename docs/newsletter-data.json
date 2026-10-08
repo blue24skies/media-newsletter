@@ -1,160 +1,76 @@
 {
   "newsletters": [
     {
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "articles": [
         {
           "source": "DWDL",
-          "title": "sagamedia-Gründerin und TV-Produzentin Iris Bettray verstorben",
-          "link": "https://www.dwdl.de/nachrichten/108111/sagamediagruenderin_und_tvproduzentin_iris_bettray_verstorben/",
-          "summary": "Die TV-Produzentin und sagamedia-Mitgründerin Iris Bettray ist am 5. Oktober 2026 im Alter von nur 63 Jahren verstorben. Nach Karrierestationen bei Sat.1, RTL und AZ Media baute sie gemeinsam mit Jutta Pinzler die Produktionsfirma sagamedia auf, die in ihrem Nachruf auf LinkedIn Bettrays prägende Rolle und den von ihr geschaffenen besonderen Zusammenhalt würdigt. Noch Anfang 2025 hatte sie in einem DWDL-Interview trotz aller Härten des Geschäfts dazu ermutigt, den Schritt in die Selbstständigkeit zu wagen.",
-          "score": 7
+          "title": "Plattform-Ranking: ARD zieht ZDF davon, RTL+ wächst deutlich",
+          "link": "https://www.dwdl.de/zahlenzentrale/108124/plattformranking_ard_zieht_zdf_davon_rtl_waechst_deutlich/",
+          "summary": "Die ARD-Mediathek verzeichnete im September laut AGF-Daten mit einem Plus von 16,1 Prozent auf 106,2 Millionen gestreamte Stunden (bei den 14- bis 49-Jährigen sogar +21,9 Prozent) ein starkes Wachstum und baute ihren Vorsprung gegenüber dem stagnierenden ZDF-Streamingportal weiter aus. Treiber waren Inhalte wie die finale \"Babylon Berlin\"-Staffel, Fußball und die Landtagswahlen. Auch RTL+ legte deutlich zu (rund +11 Prozent insgesamt, fast +19 Prozent bei den Jüngeren), während Amazon sowohl insgesamt als auch beim jüngeren Publikum die Spitzenposition behauptete und das ZDF bei den 14- bis",
+          "score": 10
         },
         {
           "source": "DWDL",
-          "title": "RTL blickt hinter Kulissen - und macht sich selbst Konkurrenz",
-          "link": "https://www.dwdl.de/nachrichten/108110/rtl_blickt_hinter_kulissen__und_macht_sich_selbst_konkurrenz/",
-          "summary": "RTL setzt seine erfolgreiche \"Inside\"-Reihe ab dem 4. November mit vier neuen Folgen (u.a. Aldi, dm/Rossmann, Dr. Oetker, Lindt) mittwochs um 20:15 Uhr fort, nachdem im Frühjahr teils über 20 Prozent Marktanteil beim jungen Publikum erzielt wurden. Bemerkenswert ist, dass Schwestersender Vox zeitgleich mit der zweiteiligen Reportage \"Ready for Take-Off - Hinter den Kulissen von Eurowings\" eine thematisch ähnliche Doku platziert und damit konzernintern direkte Konkurrenz schafft. Dies überrascht insbesondere, da die Programmplanung bei RTL Deutschland mittlerweile senderübergreifend im Bereich von O",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Lege und der Vox-Lieferdienst melden sich im November zurück",
-          "link": "https://www.dwdl.de/nachrichten/108109/lege_und_der_voxlieferdienst_melden_sich_im_november_zurueck/",
-          "summary": "Sebastian Lege, der ab 2027 exklusiv zu RTL Deutschland wechselt, kehrt ab dem 2. November mit der vierten Staffel von \"Lege kommt auf den Geschmack\" montags um 20:15 Uhr auf Vox zurück, inklusive verschärfter Jury-Regeln (Dreiviertelmehrheit) und einer Sonderfolge zu viralen Foodtrends. Bereits am 1. November startet zudem der \"Vox-Lieferdienst\" mit wechselnden Besetzungen – den Auftakt machen Tim Mälzer und Philipp Vogel in Lüneburg, gefolgt von \"Herrmann & Zacherl\" in Dortmund. Ergänzend laufen am 3. und 10. November zwei neue Folgen von \"Doc Caros Körperkenner\".",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "RTLzwei zeigt den \"Promihof\" künftig erst am späteren Abend",
-          "link": "https://www.dwdl.de/nachrichten/108104/rtlzwei_zeigt_den_promihof_kuenftig_erst_am_spaeteren_abend/",
-          "summary": "RTLzwei verschiebt die zweite Staffel von \"Der Promihof\" vom Vorabend-Sendeplatz um 20:15 Uhr auf 22:15 Uhr donnerstags, nachdem die erste Staffel zwar bei RTL+ erfolgreich lief, aber lineare Quoten enttäuschte. Der Start erfolgt am 22. Oktober bei RTL+ und ab dem 29. Oktober im linearen Programm, das Konzept bleibt unverändert. Zum Cast zählen unter anderem Reality-Neulinge wie Spitzbua Markus und Thomas Dragunski sowie einige Teilnehmer, die zum Ausstrahlungszeitpunkt bereits bei \"Promi Big Brother\" präsent sind.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Verlegerverbände: BDZV und MVFP intensivieren Zusammenarbeit",
-          "link": "https://www.horizont.net/medien/nachrichten/verlegerverbaende-bdzv-und-mvfp-intensivieren-zusammenarbeit-236132?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die beiden Verlegerverbände BDZV und MVFP intensivieren ihre Zusammenarbeit, bleiben aber organisatorisch unabhängig. Ein zentrales gemeinsames Ziel ist der Einsatz für eine strengere Regulierung großer Digitalplattformen. Die Kooperation war zuvor bereits vom neuen MVFP-Vorsitzenden Lars Rose angekündigt worden.",
-          "score": 9
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "P7S1 Ad Manager: Pro Sieben Sat 1 startet Self-Service-Tool für den Mittelstand",
-          "link": "https://www.horizont.net/medien/nachrichten/p7s1-ad-manager-pro-sieben-sat-1-startet-self-service-tool-fuer-den-mittelstand-236114?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "ProSiebenSat.1 bringt mit dem P7S1 Ad Manager erstmals ein Self-Service-Tool für TV-Werbung in Deutschland an den Start, das gezielt mittelständische Unternehmen adressiert. Die von MFE Advertising entwickelte Self-Booking-Lösung setzt die im Sommer vom Seven-One-CEO Nicola Lussana angekündigte Strategie um, kleineren Werbekunden den Zugang zu Bewegtbildwerbung zu erleichtern.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "OOH-Unternehmer im Interview: Ströer-Chef Udo Müller: &quot;Wer sich ausruht, wird überrollt&quot;",
-          "link": "https://www.horizont.net/medien/nachrichten/ooh-unternehmer-im-interview-stroeer-chef-udo-mueller-wer-sich-ausruht-wird-ueberrollt-236093?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Im HORIZONT-Interview skizziert der zurückgekehrte Ströer-Gründer und Miteigentümer Udo Müller eine zugleich vielversprechende wie bedrohliche Zukunft, in der traditionelle Marktgewissheiten schwinden und auch etablierte Unternehmen kontinuierlich um ihre Relevanz ringen müssen. Sein zentrales Credo: Stillstand ist keine Option – wer sich ausruht, werde vom Markt überrollt. Der Beitrag ist allerdings kostenpflichtig und erst nach Anmeldung vollständig zugänglich.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "KI-Werbung: So baut OpenAI das Werbeangebot von ChatGPT aus",
-          "link": "https://www.horizont.net/medien/nachrichten/ki-werbung-so-baut-openai-das-werbeangebot-von-chatgpt-aus-236127?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "OpenAI hat seit Ende August Werbung in ChatGPT auf 31 europäische Länder einschließlich Deutschland ausgeweitet und arbeitet an der zügigen Professionalisierung des Angebots. Im Fokus stehen dabei vereinfachte Zugänge für Werbungtreibende sowie Lösungen zur Erfolgsmessung, während in den USA bereits neue Werbeformate getestet werden.",
-          "score": 9
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "HORIZONT Sportbusiness Awards: Plattform des Jahres: Was Magenta TV so erfolgreich macht",
-          "link": "https://www.horizont.net/medien/nachrichten/horizont-sportbusiness-awards-plattform-des-jahres-was-magenta-tv-so-erfolgreich-macht-236053?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Magenta TV wurde bei den HORIZONT Sportbusiness Awards als \"Plattform des Jahres\" ausgezeichnet, nachdem die Fußball-Weltmeisterschaft 2026 mit über 1000 Stunden Programm Rekordwerte erzielte. Im Interview erläutern Magenta-TV-Chef Arnim Butzen, Produktverantwortlicher Joachim Abel und Vermarkter Jörg Richartz die Faktoren hinter dem Erfolg der Plattform.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "BDZV und MVFP wollen gemeinsam Google & Co. einheizen",
-          "link": "https://kress.de/news/beitrag/156694-bdzv-und-mvfp-wollen-gemeinsam-google-amp-co-einheizen.html",
-          "summary": "Die Verlegerverbände BDZV und MVFP wollen ihre Zusammenarbeit über das 2025 gegründete „Bündnis Zukunft Presse“ ausbauen, um gegenüber Digitalkonzernen wie Google und Meta gemeinsam für faire Wettbewerbsbedingungen auf nationaler und europäischer Ebene einzutreten. Geplant ist die Bündelung von Expertise und Ressourcen bei politischer Kommunikation, gemeinsamen Initiativen und medienpolitischen Grundsatzfragen, wobei konkrete Konzepte in den kommenden Monaten erarbeitet werden sollen. Eine Fusion der beiden eigenständigen Verbände ist jedoch weiterhin nicht vorgesehen.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "NRW-Medienminister Liminski widerspricht Weimer Vor wenigen Wochen sorgte Medienstaatsminister...",
-          "link": "https://kress.de/news/beitrag/156683-zdf-privatisierung-nrw-medienminister-liminski-widerspricht-weimer.html",
-          "summary": "NRW-Medienminister Nathanael Liminski (CDU) widerspricht dem Vorschlag von Medienstaatsminister Wolfram Weimer zur Privatisierung des ZDF und hält den aktuellen Zeitpunkt für ungeeignet, eine solche Debatte zu führen. Zudem betont Liminski mit Blick auf einen möglichen AfD-Ministerpräsidenten in Sachsen-Anhalt, dass zwar die Medienstaatsverträge kündbar seien, das Grundgesetz jedoch eine auskömmliche Finanzierung des öffentlich-rechtlichen Rundfunks vorschreibe. Die Rundfunkkommission der Länder bereite sich zwar auf eine mögliche Kündigung vor, zugleich mahnt er zur Zurückhaltung im Umgang mit der AfD",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "One Media will kleineren mittelständischen Unternehmen den Einstieg in TV-Werbung erleichtern.",
-          "link": "https://meedia.de/news/beitrag/25195-seven-one-media-gibt-mittelstaendlern-ein-self-service-buchungstool-an-die-hand.html",
-          "summary": "Seven.One Media, der TV-Vermarkter von ProSiebenSat.1, führt mit dem „ProSiebenSat.1 AdManager“ ein Self-Service-Tool ein, mit dem kleinere mittelständische Unternehmen Addressable-TV-Kampagnen auf Connected TVs selbstständig planen und ausspielen können. Das bereits aus Italien und Spanien bekannte MFE-Tool ermöglicht insbesondere die Buchung von SwitchIn-Formaten in L-Form und soll die Einstiegshürde für TV-Werbung senken. Vermarktungschef Nicola Lussana zielt damit gezielt auf den Mittelstand als bislang unerschlossene Kundengruppe für reichweitenstarke Big-Screen-Werbung.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Gemeinsam mit Hochschule Düsseldorf entwickelt Neuer Index von Unbound Media: Wie „selbstbestimmt“...",
-          "link": "https://meedia.de/news/beitrag/25200-neuer-index-von-unbound-media-wie-selbstbestimmt-sind-media-und-daten-setups-wie-abhaengig-sind-sie.html",
-          "summary": "Die Düsseldorfer Agentur Unbound Media hat gemeinsam mit der Hochschule Düsseldorf den Media Sovereignty Index (MSI) entwickelt, ein zweistufiges Self-Assessment-Tool, das anhand von sechs Dimensionen die Selbstbestimmtheit von Werbungtreibenden bei ihrem Media- und Daten-Setup bewertet. Vor dem Hintergrund zunehmender Plattformkonzentration, Automatisierung und KI-gestützter Blackbox-Entscheidungen soll der Index Abhängigkeiten und Transparenzlücken sichtbar machen und Faktoren wie Datenkontrolle, Kosten und eigene Handlungsspielräume in den Fokus rücken. Der Quick-Check umfasst zwölf Fragen zur ersten Einordnung",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Schulterschluss auf der Buchmesse Frankfurter Appell: 140 Verlage fordern mehr Transparenz von...",
-          "link": "https://meedia.de/news/beitrag/25199-frankfurter-appell-140-verlage-fordern-mehr-transparenz-von-ki-unternehmen.html",
-          "summary": "Zum Auftakt der Frankfurter Buchmesse fordern 140 Verlage und Branchenorganisationen in einem gemeinsamen \"Frankfurter Appell\" strengere Regeln für den Umgang von KI-Unternehmen mit urheberrechtlich geschützten Werken, insbesondere mehr Transparenz über die für das KI-Training verwendeten Inhalte sowie bessere Durchsetzungsmöglichkeiten für Rechteinhaber. Kritisiert wird, dass KI-Anbieter geschützte Werke ohne Einwilligung oder Vergütung nutzen und erklärte Nutzungsvorbehalte oft sanktionslos ignorieren. Die Initiative des Börsenvereins spiegelt eine Debatte wider, die auch Medienhäuser und deren Verbände (MVFP, BDZV)",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts Enger Dreikampf zwischen \"TV total\", \"Wer wird Millionär?\" und \"Promi...",
-          "link": "https://meedia.de/news/beitrag/25194-enger-dreikampf-zwischen-quot-tv-total-quot-quot-wer-wird-millionaer-quot-und-quot-promi-big-brother-quot.html",
-          "summary": "Im Gesamtpublikum dominierten am Dienstagabend die ARD-Serien \"Die Kanzlei\" (3,93 Mio., 18,8 % Marktanteil) und \"In aller Freundschaft\" (3,02 Mio.), während \"Wer wird Millionär?\" mit 2,47 Mio. ebenfalls starke Werte erzielte und das ZDF mit \"Terra X History\" (1,79 Mio., 8,7 %) unter Normalniveau blieb. Bei den 14- bis 49-Jährigen entwickelte sich hingegen ein knapper Dreikampf, den \"TV total\" (0,44 Mio.) vor \"Wer wird Millionär?\" (0,41 Mio.) und \"Promi Big Brother\" (0,39 Mio.) für sich entschied.",
-          "score": 9
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Goodbye Warner, hello Skydance: how will the major merger really impact Hollywood?",
-          "link": "https://www.theguardian.com/film/2026/oct/07/paramount-warner-bros-skydance-merger-explainer",
-          "summary": "Nach einem turbulenten Übernahmeprozess – inklusive gescheitertem Netflix-Gebot – hat Skydance unter David Ellison Warner Bros und Paramount für 111 Milliarden Dollar zu einem neuen Medienkonzern vereint, wodurch sich Hollywoods „Big Five“ auf vier Großstudios (neben Sony, Disney und Universal) reduzieren. Die Fusion umfasst zudem die geplante Zusammenlegung der Streamingdienste HBO Max und Paramount+ sowie die Bündelung zahlreicher TV-Sender (u.a. HBO, CBS, CNN, MTV, Nickelodeon) unter einem Dach. Besondere Aufmerksamkeit erregt die Einbindung von CNN, da nach früheren redaktionellen Eingriffen bei CBS News",
+          "title": "Neo von ARD und ZDF hat sein erstes Programm",
+          "link": "https://www.dwdl.de/nachrichten/108123/neo_von_ard_und_zdf_hat_sein_erstes_programm/",
+          "summary": "Das ZDF hat mit der Comedyserie \"Ballz\" das erste Programm für den neuen Sender Neo angekündigt – die sechs rund 15-minütigen Folgen aus dem Bereich Instant Fiction (Produktion: Ziegler Film) erscheinen ab 19. November im Streamingportal und laufen linear am 5. und 12. Januar jeweils ab 20:15 Uhr. Bemerkenswert ist der prominente Primetime-Sendeplatz, der von der bisherigen ZDFneo-Strategie mit Krimi-Wiederholungen zur besten Sendezeit abweicht und somit auf den reichweitenstarken Vorlauf verzichtet. Inhaltlich thematisiert die als \"radikale Comedyserie\" angelegte Produktion Männlichkeit, Körperbilder und Ängste anhand des",
           "score": 10
         },
         {
           "source": "Guardian Media",
-          "title": "Disney accuses Trump officials of ‘blatant violations’ of constitution amid FCC battle",
-          "link": "https://www.theguardian.com/media/2026/oct/06/disney-trump-abc-fcc",
-          "summary": "Disney wirft der Trump-Regierung vor Gericht \"eklatante Verstöße gegen die US-Verfassung\" und Zensur vor, nachdem die FCC unter dem Trump-ernannten Vorsitzenden Brendan Carr eine vorzeitige Überprüfung der acht lokalen TV-Sendelizenzen von ABC angeordnet hat. Die Anwälte argumentieren, die Maßnahme ziele darauf ab, die redaktionelle Freiheit des Senders zu beschneiden (\"chilling effect\"), während die Regierung die Anordnung mit einer Untersuchung der Einstellungspraktiken von Disney rechtfertigt. Richterin Loren AliKhan zeigte sich während der etwa zweistündigen Anhörung von den Argumenten der Regierung wenig überzeugt.",
+          "title": "David Ellison denies he has ‘politicized’ Skydance despite close Trump links",
+          "link": "https://www.theguardian.com/media/2026/oct/06/skydance-david-ellison-trump",
+          "summary": "David Ellison, CEO des neu formierten Medienkonzerns Skydance, weist Vorwürfe zurück, das Unternehmen trotz seiner engen Verbindung zur Trump-Administration „politisiert\" zu haben, und betont parteiübergreifende Beziehungen zu Akteuren beider Lager. Im Zuge der abgeschlossenen Fusion von Paramount Skydance und Warner Bros Discovery (Mutterkonzern von CNN) sicherte er sowohl CNN als auch CBS News „vollständige redaktionelle Unabhängigkeit\" zu. Diese Aussagen reagieren auf Bedenken, Ellison könnte CNN editorial nach rechts verschieben.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "David Brindley Confirmed As Channel 4 Content Chief",
-          "link": "https://deadline.com/2026/10/david-brindley-named-channel-4-content-chief-1237147700/",
-          "summary": "David Brindley wurde zum neuen Director of Programmes bei Channel 4 ernannt und übernimmt damit die Verantwortung für alle Scripted- und Unscripted-Genres sowie einen Sitz im Vorstand. Er ersetzt den scheidenden Ian Katz und soll laut CEO Priya Dogra im Rahmen der strategischen Neuausrichtung des Senders verstärkt in markante britische Inhalte und kreative Talente investieren. In der neu strukturierten Commissioning-Führung arbeitet Brindley eng mit News- und Digital-Chefin Louisa Compton sowie Content-Strategie-Leiter Kiran Nataraja zusammen.",
+          "title": "Elizabeth Banks-Led Karen Read Series Ordered At Prime Video",
+          "link": "https://deadline.com/2026/10/elizabeth-banks-karen-read-series-ordered-prime-video-1237149876/",
+          "summary": "Prime Video hat eine noch titellose Dramaserie über den aufsehenerregenden Mordfall Karen Read bestellt, mit Elizabeth Banks in der Hauptrolle und als Executive Producerin. Das von Justin Noble (The Sex Lives of College Girls) geschriebene und als Showrunner verantwortete Projekt basiert auf dem Law&Crime/Audible-Podcast „Karen\" und entsteht in Zusammenarbeit von Warner Bros. Television, Brownstone Productions, David E. Kelley Productions, Audible und Law&Crime. Die genreübergreifende True-Crime-Serie thematisiert neben dem Fall selbst auch die gesellschaftliche Obsession mit True-Crime-Formaten.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "David Decker Lands Top Content Sales Role At Skydance With Jay Askinasi Overseeing Ads, Ray Hopkins Leading Distribution",
+          "link": "https://deadline.com/2026/10/david-decker-skydance-jay-askinasi-ray-hopkins-1237149956/",
+          "summary": "Skydance hat seine Führungsspitze für Content-Lizenzierung, Werbung und Distribution besetzt: David Decker wird President of Content Sales, Jay Askinasi übernimmt als Chief Revenue Officer Advertising und Ray Hopkins wird President of Distribution – alle berichten an JB Perrette. Decker verantwortet den internationalen und US-Vertrieb der Paramount- und WBD-TV-Bibliothek, während Hopkins die Distributionsverhandlungen für über 50 Kabelsender sowie CBS leitet, wobei gemäß einem kartellrechtlichen Vergleich separate Verhandlungen für WBD und Paramount erforderlich sind. Unklar bleibt die Zukunft bisheriger Paramount-Führungskräfte wie Kevin MacLellan und Don McGregor.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "The Set Up To Adapt Lisa Wilkinson Novel ‘The Titanic Story Of Evelyn’ For TV",
-          "link": "https://deadline.com/2026/10/titanic-story-of-evelyn-lisa-wilkinson-tv-adaptation-1237148890/",
-          "summary": "Die neue TV-Produktionsfirma The Set Up von Bruna Papandrea, Steve Hutensky und Alison Hurbert-Burns kooperiert mit der australischen Autorin Lisa Wilkinson für die TV-Adaption ihres Sachbuch-Bestsellers „The Titanic Story of Evelyn“. Das im April 2026 erschienene Buch erreichte sofort Platz eins der australischen Bestsellerliste und erzählt die wahre Geschichte von Evelyn Marsden, der einzigen in Australien geborenen Titanic-Überlebenden.",
+          "title": "Skydance Co-CEO Ynon Kreiz Says Jobs Cuts Will Be Handled “Respectfully, Transparently” As Company Restructures",
+          "link": "https://deadline.com/2026/10/skydance-ynon-kreiz-labor-force-reduction-cost-savings-1237149888/",
+          "summary": "Skydance Co-CEO Ynon Kreiz kündigte an, dass die geplanten 6 Milliarden Dollar Kosteneinsparungen nach dem Abschluss der Fusion von Paramount und Warner Bros. Discovery überwiegend aus Technologie, Marketing-Konsolidierung und Immobilienoptimierung stammen sollen, wobei Stellenabbau nur einen kleineren Teil ausmachen und „respektvoll und transparent\" gehandhabt werde. Die bis Ende 2028 angestrebten Einsparungen könnten laut den Co-CEOs sogar höher ausfallen, da bereits die frühere Paramount-Skydance-Fusion die Synergieziele übertraf (2,7 statt 2 Milliarden Dollar). Beide Führungskräfte betonen, dass es weniger um reine Kostens",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Disney+ Will Stream the 2027 Super Bowl and ‘New Year’s Rockin’ Eve’",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/disney-plus-stream-2027-super-bowl-new-years-rockin-eve-1236724428/",
-          "summary": "Disney bringt den Super Bowl LXI erstmals via Disney+ als englisch- und spanischsprachigen Streaming-Simulcast parallel zur ABC-Übertragung – es wird der erste Super Bowl unter dem ESPN-Branding überhaupt. Zusätzlich kommen zwei Monday-Night-Football-Spiele sowie Dick Clark's New Year's Rockin' Eve auf die Plattform, um Streaming-Nutzer an ESPN heranzuführen. Die Strategie zeigt, wie Disney mit seinem gesamten Portfolio (Themenparks, Filme, Produkte) voll auf das Großereignis setzt und Disney+ als zweitgrößten US-Streamingdienst nach Netflix positioniert.",
-          "score": 8
+          "title": "Karen Read Series Starring and Executive Produced by Elizabeth Banks Ordered at Amazon",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/karen-read-series-with-elizabeth-banks-ordered-amazon-1236724986/",
+          "summary": "Amazon Prime Video hat eine achtteilige Scripted-Dramaserie über den Kriminalfall Karen Read bestellt, bei der Elizabeth Banks die Hauptrolle übernimmt und als Executive Producer fungiert. Die von Justin Noble entwickelte Serie entsteht bei Warner Bros. Television und basiert auf dem Law&Crime/Audible-Podcast, wobei Read selbst die Produktion öffentlich als nicht autorisiert kritisiert und ihre Geschichte über LBI Entertainment sowie einen Buchdeal selbst erzählen möchte.",
+          "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Pixar, Lionsgate and Paramount Nab $100 Million in California Tax Credits",
-          "link": "https://www.hollywoodreporter.com/business/business-news/pixar-lionsgate-paramount-california-tax-credits-1236724236/",
-          "summary": "Kaliforniens Filmförderprogramm vergab in der jüngsten Runde 226,1 Millionen US-Dollar an Steuergutschriften an 35 Filmproduktionen, die rund 635,3 Millionen US-Dollar über 1.049 Drehtage im Bundesstaat ausgeben werden. Die höchsten Zuwendungen gingen an Pixar (40,1 Mio. USD für einen animierten Spielfilm), Lionsgate (30,8 Mio. USD für die Michael-Jackson-Biopic-Fortsetzung) und Paramount (29,3 Mio. USD für einen Krimi-Thriller), wobei Animationsprojekte aufgrund ihrer arbeitsintensiven Produktion und des günstigen Jobs-Verhältnisses zunehmend vom Programm profitieren.",
-          "score": 8
+          "title": "On the Floor as Skydance Tries to Win Over Wall Street",
+          "link": "https://www.hollywoodreporter.com/business/business-news/skydance-woos-wall-street-nyse-opening-bell-1236725367/",
+          "summary": "Skydance feierte sein Debüt als neuer Eigentümer von Paramount mit dem Läuten der Eröffnungsglocke an der New Yorker Börse (NYSE), wobei CEO David Ellison und Co-CEO Ynon Kreiz gezielt Wall-Street-Investoren umwarben. Zur Inszenierung gehörten prominente Filmrequisiten aus Franchises wie Forrest Gump, Top Gun: Maverick und Harry Potter sowie ein CNBC-Interview, in dem Ellison auf die ursprüngliche feindliche Übernahmeankündigung Bezug nahm.",
+          "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "‘The Cadburys’: BritBox Drops First Look at Chocolate Empire Drama (Exclusive)",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/the-cadburys-britbox-chocolate-tv-show-series-show-regbo-1236724287/",
-          "summary": "BritBox und UKTV haben erste Bilder zur sechsteiligen Historienserie „The Cadburys“ veröffentlicht, die 2027 in Nordamerika (BritBox) und Großbritannien (U) startet und den Aufstieg der Schokoladendynastie Cadbury im Birmingham der 1860er Jahre erzählt. Toby Regbo, Harry Gilby und Jessica Barden verkörpern die Cadbury-Geschwister, während Freddie Highmore als Executive Producer fungiert. Die Dreharbeiten in Birmingham sind bereits abgeschlossen.",
+          "title": "Netflix Plans Oscar Push for Lee Chang-dong’s ‘Possible Love,’ Promoting Jeon Do-yeon for Best Actress (Exclusive)",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/netflix-oscar-push-possible-love-jeon-do-yeon-1236725308/",
+          "summary": "Netflix startet eine mehrkategorige Oscar-Kampagne für Lee Chang-dongs vielbeachteten koreanischen Film „Possible Love\", der bereits den Großen Preis der Jury in Venedig gewann und mit Top-Kritikerwertungen (100 % auf Rotten Tomatoes, 93 auf MetaCritic) glänzt. Neben den Kategorien bester internationaler Film, bester Film, beste Regie und bestes Originaldrehbuch setzt Netflix besonders auf die Hauptdarstellerin Jeon Do-yeon, für die eine gezielte Lobbyarbeit um eine Nominierung als beste Hauptdarstellerin betrieben wird. Die Strategie knüpft an den historischen Oscar-Erfolg von „Parasite\" an und profitiert von der zunehmenden Internationalis",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Elizabeth Banks Officially Set to Play Karen Read in Amazon Series",
+          "link": "https://variety.com/2026/tv/news/elizabeth-banks-karen-series-amazon-1236905579/",
+          "summary": "Amazon hat offiziell eine achtteilige Dramaserie über den Kriminalfall Karen Read mit Elizabeth Banks in der Hauptrolle grünes Licht gegeben; Justin Noble fungiert als Showrunner und Autor, während David E. Kelley über seine Produktionsfirma als Executive Producer mitwirkt. Die auf dem Law&Crime/Audible-Podcast „Karen\" basierende, genreübergreifende True-Crime-Serie wird von Warner Bros. Television produziert und thematisiert neben dem Fall selbst auch die gesellschaftliche Obsession mit True Crime.",
           "score": 7
         }
       ]
