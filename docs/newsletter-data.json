@@ -1,76 +1,209 @@
 {
   "newsletters": [
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Plattform-Ranking: ARD zieht ZDF davon, RTL+ wächst deutlich",
-          "link": "https://www.dwdl.de/zahlenzentrale/108124/plattformranking_ard_zieht_zdf_davon_rtl_waechst_deutlich/",
-          "summary": "Die ARD-Mediathek verzeichnete im September laut AGF-Daten mit einem Plus von 16,1 Prozent auf 106,2 Millionen gestreamte Stunden (bei den 14- bis 49-Jährigen sogar +21,9 Prozent) ein starkes Wachstum und baute ihren Vorsprung gegenüber dem stagnierenden ZDF-Streamingportal weiter aus. Treiber waren Inhalte wie die finale \"Babylon Berlin\"-Staffel, Fußball und die Landtagswahlen. Auch RTL+ legte deutlich zu (rund +11 Prozent insgesamt, fast +19 Prozent bei den Jüngeren), während Amazon sowohl insgesamt als auch beim jüngeren Publikum die Spitzenposition behauptete und das ZDF bei den 14- bis",
+          "title": "ZDF veröffentlicht britisch-deutsche Vampirserie im November",
+          "link": "https://www.dwdl.de/nachrichten/108140/zdf_veroeffentlicht_britischdeutsche_vampirserie_im_november_/",
+          "summary": "Das ZDF bringt die britisch-deutsche Coming-of-Age-Comedy \"The Reluctant Vampire\" ab dem 20. November in die Mediathek, die lineare Ausstrahlung bei ZDFneo folgt am 1. Dezember auf einem nächtlichen Sendeplatz ab 1:10 Uhr. Die sechsteilige Serie von Boffola Pictures basiert auf einer Vorlage von Eric und Gary Morecambe und wird vom britischen BAFTA-Preisträger Lenny Rush in der Hauptrolle getragen.",
           "score": 10
         },
         {
           "source": "DWDL",
-          "title": "Neo von ARD und ZDF hat sein erstes Programm",
-          "link": "https://www.dwdl.de/nachrichten/108123/neo_von_ard_und_zdf_hat_sein_erstes_programm/",
-          "summary": "Das ZDF hat mit der Comedyserie \"Ballz\" das erste Programm für den neuen Sender Neo angekündigt – die sechs rund 15-minütigen Folgen aus dem Bereich Instant Fiction (Produktion: Ziegler Film) erscheinen ab 19. November im Streamingportal und laufen linear am 5. und 12. Januar jeweils ab 20:15 Uhr. Bemerkenswert ist der prominente Primetime-Sendeplatz, der von der bisherigen ZDFneo-Strategie mit Krimi-Wiederholungen zur besten Sendezeit abweicht und somit auf den reichweitenstarken Vorlauf verzichtet. Inhaltlich thematisiert die als \"radikale Comedyserie\" angelegte Produktion Männlichkeit, Körperbilder und Ängste anhand des",
+          "title": "Nach Skydance-Übernahme: Zeiler kündigt seinen Abschied an",
+          "link": "https://www.dwdl.de/nachrichten/108136/nach_skydanceuebernahme_zeiler_kuendigt_seinen_abschied_an/",
+          "summary": "Gerhard Zeiler, langjähriger Verantwortlicher für das internationale Geschäft von Warner Bros. Discovery, verlässt das Unternehmen nach der Skydance-Übernahme Ende kommender Woche und beendet damit eine 15-jährige Ära, in der er zahlreiche Konzernumbauten – von Time Warner über WarnerMedia bis WBD – begleitete. Der 71-Jährige, der zwischenzeitlich Ambitionen auf den SPÖ-Vorsitz geäußert hatte, verabschiedete sich in einem emotionalen internen Schreiben von seinem Team und betonte dabei dessen Zusammenhalt in schwierigen Zeiten.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "WDR erwirtschaftete 2025 einen hohen Überschuss",
+          "link": "https://www.dwdl.de/nachrichten/108137/wdr_erwirtschaftete_2025_einen_hohen_ueberschuss/",
+          "summary": "Der WDR erzielte 2025 trotz ausgebliebener Beitragserhöhung einen Überschuss von 54,5 Millionen Euro in der Betriebshaushaltsrechnung, bei Erträgen von 1.635,4 Millionen Euro (davon rund 77 Prozent aus dem Rundfunkbeitrag) und Aufwendungen von 1.580,9 Millionen Euro. Grund für den Überschuss ist laut WDR die Auflösung von in Vorjahren angesparten Beitragsmehrerträgen, die zur Beitragsstabilität in der aktuellen Beitragsperiode (2025-2028) beitragen sollen. Das Ergebnis wird der Ausgleichsrücklage zugeführt.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Nele Ludowig fragt für Disney+ \"Was schaut eigentlich...?\"",
+          "link": "https://www.dwdl.de/nachrichten/108133/nele_ludowig_fragt_fuer_disney_was_schaut_eigentlich/",
+          "summary": "Disney+ startet mit \"Was schaut eigentlich...?\" ein neues Interviewformat, in dem Moderatorin Nele Ludowig mit Gästen aus der Film- und Creator-Szene über deren persönliche Sehgewohnheiten spricht. Die Folgen erscheinen kostenlos auf dem YouTube-Kanal von Disney+ Deutschland und dienen durch den Fokus auf plattformeigene Inhalte erkennbar als Marketinginstrument für das kostenpflichtige Abo. Zu den ersten Gästen zählten der Cast der Serie \"The Shards\" sowie die Creatorin Ema Louise.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "RTL+ holt \"House of Villains\" 2027 nach Deutschland",
+          "link": "https://www.dwdl.de/nachrichten/108120/rtl_holt_house_of_villains_2027_nach_deutschland/",
+          "summary": "RTL+ adaptiert ab 2027 das US-Reality-Format \"House of Villains\" für den deutschen Markt, moderiert von Sophia Thomalla, bei dem bekannte Realitystars um ein Preisgeld von bis zu 100.000 Euro konkurrieren. Die Produktion übernimmt ITV Studios Germany im Auftrag von RTL+; ein konkreter Veröffentlichungstermin sowie offizielle Cast-Angaben stehen noch aus. Das Originalformat von NBCUniversal lief bereits für drei Staffeln bei E! bzw. Peacock in den USA.",
           "score": 10
         },
         {
+          "source": "DWDL",
+          "title": "Wenn \"Nanny\" Fran Drescher die \"Zweiflers\" aufmischt",
+          "link": "https://www.dwdl.de/nachrichten/108129/wenn_nanny_fran_drescher_die_zweiflers_aufmischt/",
+          "summary": "Die ARD präsentierte in Berlin ihr neues fiktionales Programm mit starkem Fokus auf regional verankerte Geschichten aus Deutschland und kündigte eine Vertical-Funktion für die Mediathek-App an. Highlight ist die zweite Staffel von \"Die Zweiflers\" (Start: 15. Januar in der ARD-Mediathek), die Hollywood-Star Fran Drescher in einer zentralen Rolle besetzt und laut Showrunner David Hadda als komplette Neuerzählung konzipiert wurde. Rund zwei Drittel der Mediatheksnutzung entfallen laut Channelmanagerin Sophie Burkhardt bereits auf fiktionale Inhalte.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Lost Boys\": ARD macht Doku über Boyband US5",
+          "link": "https://www.dwdl.de/nachrichten/108128/lost_boys_ard_macht_doku_ueber_boyband_us5/",
+          "summary": "Die ARD kündigt mit \"Lost Boys – Der Fall US5\" (Arbeitstitel) eine Doku von ARD Kultur an, die ab dem 2. Dezember in der Mediathek verfügbar sein wird und erstmals alle fünf Originalmitglieder der Boyband gemeinsam zu Wort kommen lässt. Im Fokus stehen dabei die bislang verschwiegenen Schattenseiten des Erfolgs wie psychischer Druck, Ausbeutung, Suchtprobleme und sexualisierte Übergriffe – unter anderem spricht Jay Khan über die Gewalt durch Musikmanager Lou Pearlman. Für Buch und Regie verantwortlich sind Julian Brimmers und Benjamin Westermann (nb Studios), produziert unter Federführung des SWR mit Beteiligung von",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Kabel Eins beschäftigt sich bald mit dem Fall Block",
+          "link": "https://www.dwdl.de/nachrichten/108118/kabel_eins_beschaeftigt_sich_bald_mit_dem_fall_block/",
+          "summary": "Kabel Eins bringt Ende Oktober zwei Formate zurück: Am 30. Oktober startet die neue Staffel von \"Deutschlands spektakulärste Kriminalfälle\" (freitags, 20:15 Uhr), die zum Auftakt den medial viel beachteten Fall um Block-House-Erbin Christina Block und die mutmaßliche Kindesentführung aufgreift. Bereits einen Tag zuvor, am 29. Oktober, kehrt \"Morlock Motors - Big Deals im Westerwald\" mit seiner fünften Staffel (donnerstags, 20:15 Uhr) zurück, nachdem der Sender die Zusammenarbeit mit Michael Manousakis kürzlich verlängert hatte.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "&quot;Die Nanny&quot;-Star: Fran Drescher spielt in zweiter Staffel von &quot;Die Zweiflers&quot; mit",
+          "link": "https://www.horizont.net/medien/nachrichten/die-nanny-star-fran-drescher-spielt-in-zweiter-staffel-von-die-zweiflers-mit-236165?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "US-Schauspielerin Fran Drescher, bekannt aus der Kultsitcom \"Die Nanny\", übernimmt in der zweiten Staffel der ARD-Serie \"Die Zweiflers\" über eine jüdische Frankfurter Familie eine tragende Rolle. Die neue Staffel thematisiert unter anderem ein ungeklärtes Verbrechen aus den 1950er Jahren. Die Besetzung wurde im Rahmen der Programmankündigung des Senders zur kommenden Seriensaison bekannt gegeben.",
+          "score": 9
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Plattform-Reichweiten: DAZN legt dank Bundesliga und Champions League kräftig zu",
+          "link": "https://www.horizont.net/medien/nachrichten/plattform-reichweiten-dazn-legt-dank-bundesliga-und-champions-league-kraeftig-zu-236154?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "DAZN konnte seine kumulierte Nettoreichweite im September laut aktuellen AGF-Zahlen dank Bundesliga und Champions League deutlich steigern und überholte dabei die Konkurrenten Sky und Wow. An der Spitze des Plattform-Rankings bleiben weiterhin die öffentlich-rechtlichen Mediatheken von ARD und ZDF.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "zwingen müssen, ihre Algorithmen zu verändern”, sagte er.",
+          "link": "https://kress.de/news/beitrag/156695-wolfram-weimer-meta-amp-co-muessen-ihre-algorithmen-veraendern.html",
+          "summary": "Kulturstaatsminister Wolfram Weimer kündigte bei der Eröffnung der Frankfurter Buchmesse an, Digitalplattformen wie Meta zur Veränderung ihrer Algorithmen zwingen zu wollen, da die Verbindung von Social-Media-Diskursen und Künstlicher Intelligenz einen „diskursiven Treibhaus-Effekt“ erzeuge, der extreme Positionen stärke und die politische Kultur deformiere. Unter Verweis auf das Verursacherprinzip – analog zur Gewässerverschmutzung durch Fabriken – betonte er, dass ein bloßes Social-Media-Verbot für Kinder und Jugendliche nicht ausreiche und die Plattformbetreiber selbst in die Verantwortung genommen werden müssten.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "einheizen Die Verlegerverbände BDZV und MVFP haben gelobt, ihre Zusammenarbeit zu intensivieren.",
+          "link": "https://kress.de/news/beitrag/156694-bdzv-und-mvfp-wollen-gemeinsam-google-amp-co-einheizen.html",
+          "summary": "Die Verlegerverbände BDZV und MVFP wollen ihre Zusammenarbeit auf Basis des 2025 gegründeten „Bündnisses Zukunft Presse“ intensivieren, um politische Positionen enger abzustimmen und sich auf nationaler wie europäischer Ebene gemeinsam gegen die Marktmacht globaler Digitalkonzerne wie Google und Meta einzusetzen. Geplant sind gebündelte Ressourcen in politischer Kommunikation, gemeinsame Initiativen und Veranstaltungen, wobei konkrete Konzepte in den kommenden Monaten erarbeitet werden sollen. Eine Fusion der beiden eigenständigen Verbände ist dabei ausdrücklich nicht vorgesehen.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "15 Uhr und Mitternacht auf einen Marktanteil von 21,4 Prozent und gewann die Prime Time.",
+          "link": "https://meedia.de/news/beitrag/25210-quot-3-millionen-euro-woche-quot-knackt-mit-dem-finale-die-3-millionen-marke.html",
+          "summary": "Das Finale der \"3-Millionen-Euro-Woche\" von RTLs \"Wer wird Millionär?\" erreichte am Donnerstag 3,07 Millionen Zuschauer und gewann mit einem Marktanteil von 21,4 Prozent in der Zielgruppe der 14- bis 49-Jährigen die Prime Time. Im Gesamtpublikum musste sich die Show mit 18,3 Prozent allerdings dem starken ARD-Krimistart \"Tiroler Blut: Der erste Schuss\" geschlagen geben, der 5,14 Millionen Zuschauer und 24,7 Prozent Marktanteil verbuchte. Das ZDF landete mit einer \"Bergretter\"-Wiederholung (2,52 Mio., 12,1 Prozent) hinter RTL.",
+          "score": 7
+        },
+        {
           "source": "Guardian Media",
-          "title": "David Ellison denies he has ‘politicized’ Skydance despite close Trump links",
-          "link": "https://www.theguardian.com/media/2026/oct/06/skydance-david-ellison-trump",
-          "summary": "David Ellison, CEO des neu formierten Medienkonzerns Skydance, weist Vorwürfe zurück, das Unternehmen trotz seiner engen Verbindung zur Trump-Administration „politisiert\" zu haben, und betont parteiübergreifende Beziehungen zu Akteuren beider Lager. Im Zuge der abgeschlossenen Fusion von Paramount Skydance und Warner Bros Discovery (Mutterkonzern von CNN) sicherte er sowohl CNN als auch CBS News „vollständige redaktionelle Unabhängigkeit\" zu. Diese Aussagen reagieren auf Bedenken, Ellison könnte CNN editorial nach rechts verschieben.",
+          "title": "Lost generation: the AI threat to Britain’s next great directors",
+          "link": "https://www.theguardian.com/film/2026/oct/09/ai-threat-britain-directors-ridley-scott-guy-ritchie",
+          "summary": "Die britische Werbeindustrie, traditionell eine wichtige Ausbildungsstätte für spätere Film- und TV-Regisseure wie Ridley Scott, Guy Ritchie und Dougal Wilson, führt im Wettlauf um Kostensenkung zunehmend KI-Technologie ein. Branchenvertreter wie Luke Scott (Ridley Scott Associates) warnen, dass dadurch eine „verlorene Generation“ entstehen könnte, der die praktische Lernerfahrung fehlt, da kreative Fähigkeiten vor allem durch das aktive Tun erworben werden. Zudem besteht laut Scott die Gefahr einer „Monokulturalisierung“ und einer trügerischen, „ersatzhaften Kreativität“ durch generative KI.",
+          "score": 9
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Russell T Davies on 40 years of bringing gay stories to our screens – podcast",
+          "link": "https://www.theguardian.com/news/audio/2026/oct/09/russell-t-davies-on-40-years-of-bringing-gay-stories-to-our-screens-podcast",
+          "summary": "Der Guardian-Podcast „Today in Focus\" porträtiert den Drehbuchautor und Doctor-Who-Showrunner Russell T Davies, der seit 40 Jahren – beginnend mit der tabubrechenden Serie „Queer As Folk\" – LGBTQ-Geschichten ins britische Fernsehen gebracht und deren Darstellung von Scham und Angst hin zu queerer Freude und Liebe gewandelt hat. Im Gespräch mit Helen Pidd erläutert Davies zudem seine Position, dass schwule Rollen mit schwulen Schauspielern besetzt werden sollten. Anlass ist die Veröffentlichung seiner Memoiren „The Queerest of Folk: A Life in Television\" (Transworld, 8. Oktober, £25).",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Elizabeth Banks-Led Karen Read Series Ordered At Prime Video",
-          "link": "https://deadline.com/2026/10/elizabeth-banks-karen-read-series-ordered-prime-video-1237149876/",
-          "summary": "Prime Video hat eine noch titellose Dramaserie über den aufsehenerregenden Mordfall Karen Read bestellt, mit Elizabeth Banks in der Hauptrolle und als Executive Producerin. Das von Justin Noble (The Sex Lives of College Girls) geschriebene und als Showrunner verantwortete Projekt basiert auf dem Law&Crime/Audible-Podcast „Karen\" und entsteht in Zusammenarbeit von Warner Bros. Television, Brownstone Productions, David E. Kelley Productions, Audible und Law&Crime. Die genreübergreifende True-Crime-Serie thematisiert neben dem Fall selbst auch die gesellschaftliche Obsession mit True-Crime-Formaten.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "David Decker Lands Top Content Sales Role At Skydance With Jay Askinasi Overseeing Ads, Ray Hopkins Leading Distribution",
-          "link": "https://deadline.com/2026/10/david-decker-skydance-jay-askinasi-ray-hopkins-1237149956/",
-          "summary": "Skydance hat seine Führungsspitze für Content-Lizenzierung, Werbung und Distribution besetzt: David Decker wird President of Content Sales, Jay Askinasi übernimmt als Chief Revenue Officer Advertising und Ray Hopkins wird President of Distribution – alle berichten an JB Perrette. Decker verantwortet den internationalen und US-Vertrieb der Paramount- und WBD-TV-Bibliothek, während Hopkins die Distributionsverhandlungen für über 50 Kabelsender sowie CBS leitet, wobei gemäß einem kartellrechtlichen Vergleich separate Verhandlungen für WBD und Paramount erforderlich sind. Unklar bleibt die Zukunft bisheriger Paramount-Führungskräfte wie Kevin MacLellan und Don McGregor.",
+          "title": "Focus Features & Blumhouse-Atomic Monster Snap Up Micro-Budget Horror Film ‘Play House’ From Nicolas Curcio",
+          "link": "https://deadline.com/2026/10/play-house-sells-focus-features-blumhouse-atomic-monster-1237151007/",
+          "summary": "Focus Features und Blumhouse-Atomic Monster haben sich in einem umkämpften Bieterverfahren die weltweiten Rechte (ausgenommen Lateinamerika und Indien) am Micro-Budget-Horrorfilm „Play House\" von Debütregisseur Nicolas Curcio gesichert – für einen Siebenstellen-Betrag, obwohl der Film für kaum mehr als 100.000 Dollar produziert wurde. Das über den Fantastic-Pitches-Wettbewerb finanzierte Projekt feierte kürzlich Premiere auf dem Fantastic Fest und soll 2027 in die Kinos kommen, mit Universal Pictures International als internationalem Vertrieb.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "Skydance Co-CEO Ynon Kreiz Says Jobs Cuts Will Be Handled “Respectfully, Transparently” As Company Restructures",
-          "link": "https://deadline.com/2026/10/skydance-ynon-kreiz-labor-force-reduction-cost-savings-1237149888/",
-          "summary": "Skydance Co-CEO Ynon Kreiz kündigte an, dass die geplanten 6 Milliarden Dollar Kosteneinsparungen nach dem Abschluss der Fusion von Paramount und Warner Bros. Discovery überwiegend aus Technologie, Marketing-Konsolidierung und Immobilienoptimierung stammen sollen, wobei Stellenabbau nur einen kleineren Teil ausmachen und „respektvoll und transparent\" gehandhabt werde. Die bis Ende 2028 angestrebten Einsparungen könnten laut den Co-CEOs sogar höher ausfallen, da bereits die frühere Paramount-Skydance-Fusion die Synergieziele übertraf (2,7 statt 2 Milliarden Dollar). Beide Führungskräfte betonen, dass es weniger um reine Kostens",
+          "title": "Craig Ferguson & Megyn Price Starring In Addiction Dramedy Series ‘Quitters’ For Angel",
+          "link": "https://deadline.com/2026/10/craig-ferguson-megyn-price-angel-series-quitters-1237150934/",
+          "summary": "Craig Ferguson und Megyn Price übernehmen die Hauptrollen in der achtteiligen Dramedy-Serie „Quitters\", die derzeit in Utah produziert und vom glaubensorientierten Anbieter Angel vertrieben wird. Die halbstündige Serie, geschrieben von Dave Parkin, erzählt die Geschichte einer opioidabhängigen Soccer-Mom (Price), die in einem unkonventionellen Reha-Zentrum unter Leitung einer ehemaligen Heavy-Metal-Legende (Ferguson) ihren Weg zurück ins Leben sucht. Produziert wird das Projekt unter anderem durch die FletChet-Entertainment-Banner („The Best Christmas Pageant Ever\") mit Finanzierung von Script 2 Screen Capital.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "International Insider: ‘Doctor Who’ Regeneration Underway; MIPCOM Preview; Busan Takeaways",
+          "link": "https://deadline.com/2026/10/international-insider-doctor-who-regeneration-underway-1237150019/",
+          "summary": "BBC Studios hat die Zukunft von „Doctor Who\" nach dem Ausstieg von Disney und der verhaltenen Resonanz auf die Russell-T.-Davies-Staffeln in einem „Bake-off-Style\"-Bieterverfahren ausgeschrieben, an dem sich namhafte Produzenten wie Jed Mercurios Hat Trick Mercurio, World Productions und STV Studios beteiligen. STV Studios plant dabei erstmals eine Verlagerung der Produktion nach Schottland. Die Auswahl des Gewinners erfolgt im März, die neue Serie soll in der Saison 2028/29 auf BBC-Bildschirmen starten.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Sarah Snook & ‘Game Of Thrones’ Stars Shows Adapted As Microdramas For Snips",
+          "link": "https://deadline.com/2026/10/snips-microdramas-succession-game-of-thrones-stars-adapted-1237150762/",
+          "summary": "Die Vertical-Video-Plattform Snips adaptiert mehrere Serien mit bekannten Schauspielern wie Sarah Snook (Succession) sowie den Game-of-Thrones-Stars Maisie Williams, Liam Cunningham, Iain Glen und Kit Harington in das vertikale 9:16-Microdrama-Format. Betroffene Titel sind unter anderem „The Beautiful Lie“, „Two Weeks to Live“, „Domina“, „Prisoners' Wives“ und „Gunpowder“, die jeweils von ihrer ursprünglichen Länge in Episoden von 45 Sekunden bis zwei Minuten umgewandelt werden. Die Strategie verdeutlicht den anhaltenden Trend, bestehende Film- und TV-Inhalte für das mobile Kurzformat zu monetarisieren",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Geeta Gandbhir, Sam Pollard, Alisa Payne Board ICE-Themed Oscar Contender ‘Water Cooler’ As EPs",
+          "link": "https://deadline.com/2026/10/water-cooler-executive-producer-announcement-1237150777/",
+          "summary": "Die Oscar-Anwärterin „Water Cooler\" von Regisseurin Emma V.F. gewinnt mit den Academy-Award-Nominierten Geeta Gandbhir, Sam Pollard und Alisa Payne drei prominente Executive Producer. Der im New Yorker Einwanderungsgericht gedrehte Kurzdokumentarfilm stellt beiläufige Alltagsgespräche von ICE-Agenten den brutalen Festnahmen von Migranten gegenüber, die ordnungsgemäß zu ihren Gerichtsterminen erschienen waren. Nach dem Gewinn des Best Documentary Short beim Palm Springs International ShortFest 2026 hat sich der Film für eine Oscar-Nominierung qualifiziert.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "ASOB Media Offers MIPCOM Buyers ‘A Study On Beauty’",
+          "link": "https://deadline.com/2026/10/asob-media-study-on-beauty-launch-mipcom-1237150950/",
+          "summary": "ASOB Media bringt zur MIPCOM Cannes die siebenteilige Doku-Serie „A Study on Beauty“ auf den Markt, die – erschaffen von Emmy-Gewinnerin Gabbi Pascua und Regisseur Alan Dennis – Kultur, Geschichte und menschliche Identität durch die Linse von Schönheit und Wellness beleuchtet. Die erste Staffel umfasst drei globale Kapitel (Frankreichs Parfümerie, Japans Onsen-Rituale und matriarchale Traditionen auf den Philippinen) und wird stilistisch mit „Chef's Table“ und „Parts Unknown“ verglichen. Begleitet wird das Projekt von einem Podcast („A Student of Beauty“) sowie einer Kurzform-Digitalserie („A Beauty Journey“), die b",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Netflix Eyes Major Layoffs – The Dish",
+          "link": "https://deadline.com/2026/10/netflix-layoffs-1237150620/",
+          "summary": "Netflix plant laut Branchenquellen umfangreiche Stellenstreichungen – Puck beziffert den Umfang auf rund 5% der Belegschaft –, was den ersten großen Personalabbau seit der Reduktion 2022 darstellen würde. Hintergrund ist der zunehmende Wall-Street-Druck angesichts eines Aktienkursrückgangs von über 40% im Jahresverlauf und eines nur schwachen Zuschauer-Engagement-Wachstums von 2% im ersten Halbjahr. Co-CEO Ted Sarandos räumte kürzlich ein, dass das Unternehmen nicht so schnell wachse wie gewünscht und man an einer Beschleunigung arbeite.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "The Netflix Ax Is Coming as Stock Languishes",
+          "link": "https://www.hollywoodreporter.com/business/business-news/netflix-ax-stock-languishes-1236726192/",
+          "summary": "Netflix plant vor der Q3-Bilanzveröffentlichung am 20. Oktober einen möglichen Stellenabbau von 5 Prozent oder mehr sowie eine Umstrukturierung, nachdem die Aktie seit Jahresbeginn um 20 Prozent gefallen ist. Trotz der weiterhin marktführenden Position im Streaming-Bereich und eines Content-Budgets von 20 Milliarden Dollar wird das Unternehmen von der Wall Street zunehmend als etabliertes Studio statt als Wachstums-Tech-Story betrachtet, während die Investoren-Aufmerksamkeit auf KI-Werten liegt und YouTube als Konkurrent auf TV-Bildschirmen wächst. Die Co-CEOs Ted Sarandos und Greg Peters wollen mit der Neuaufst",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "The Most Powerful Women in International TV",
+          "link": "https://www.hollywoodreporter.com/tv/tv-features/most-powerful-women-international-tv-1236723482/",
+          "summary": "Der Hollywood Reporter präsentiert seine Liste der mächtigsten Frauen im internationalen TV 2026 vor dem Hintergrund branchenweiter Megafusionen wie dem Sky-ITV-Deal (2,12 Mrd. USD) und der Banijay-All3Media-Konsolidierung. Die gelisteten Führungskräfte – darunter ITV-Chefin Carolyn McCall – betonen die Notwendigkeit, in KI und Effizienz zu investieren, ohne dabei die kreative Qualität zu opfern. Die Auswahl basierte auf der Entscheidungsbefugnis der Führungskräfte (Greenlighting, Commissioning, Finanzierung) sowie der Performance ihrer Arbeit in den vergangenen zwölf Monaten.",
+          "score": 10
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "$1.1 Billion for Five Warner Bros. Execs: Who Cashed Out From Paramount Sale",
+          "link": "https://www.hollywoodreporter.com/business/business-news/wbd-exes-1-billion-skydance-sale-1236726172/",
+          "summary": "Der Verkauf von Warner Bros. Discovery an Paramount hat den fünf Top-Führungskräften des Unternehmens laut SEC-Unterlagen zusammen über 1,1 Milliarden Dollar eingebracht, wobei Ex-CEO David Zaslav mit rund 606 Millionen Dollar aus Aktienverkäufen und werthaltigen Optionen den Löwenanteil erhielt. Seine vier Top-Stellvertreter – Perrette (157 Mio.), Campbell (129 Mio.), Weidenfels (122 Mio.) und Zeiler (92 Mio.) – teilten sich über 500 Millionen Dollar, wobei JB Perrette als einziger C-Suite-Mitglied zu Skydance wechselt. Die genannten Beträge verstehen sich vor Steuern und schließen Abfind",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Karen Read Series Starring and Executive Produced by Elizabeth Banks Ordered at Amazon",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/karen-read-series-with-elizabeth-banks-ordered-amazon-1236724986/",
-          "summary": "Amazon Prime Video hat eine achtteilige Scripted-Dramaserie über den Kriminalfall Karen Read bestellt, bei der Elizabeth Banks die Hauptrolle übernimmt und als Executive Producer fungiert. Die von Justin Noble entwickelte Serie entsteht bei Warner Bros. Television und basiert auf dem Law&Crime/Audible-Podcast, wobei Read selbst die Produktion öffentlich als nicht autorisiert kritisiert und ihre Geschichte über LBI Entertainment sowie einen Buchdeal selbst erzählen möchte.",
+          "title": "U.K. Box Office Back to Full Health — But What Lessons Do We Learn?",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/uk-box-office-london-film-festival-odyssey-spider-man-imax-1236726105/",
+          "summary": "Das britische und irische Kino verzeichnet aktuell ein Umsatzplus von 21 Prozent gegenüber 2025 – das stärkste Wachstum seit der Pandemie. Bei einer Panel-Session des BFI London Film Festival hoben Vertreter von Curzon, Picturehouse und BFI IMAX hervor, dass das breite Genre-Angebot – von Musicals über Franchise-Fortsetzungen bis zu Auteur-Produktionen wie Nolans „The Odyssey“ – zur Erholung beiträgt. Als wichtigste Erkenntnis gilt jedoch die außergewöhnlich starke Resonanz auf originäre, eigenständige Stoffe.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "On the Floor as Skydance Tries to Win Over Wall Street",
-          "link": "https://www.hollywoodreporter.com/business/business-news/skydance-woos-wall-street-nyse-opening-bell-1236725367/",
-          "summary": "Skydance feierte sein Debüt als neuer Eigentümer von Paramount mit dem Läuten der Eröffnungsglocke an der New Yorker Börse (NYSE), wobei CEO David Ellison und Co-CEO Ynon Kreiz gezielt Wall-Street-Investoren umwarben. Zur Inszenierung gehörten prominente Filmrequisiten aus Franchises wie Forrest Gump, Top Gun: Maverick und Harry Potter sowie ein CNBC-Interview, in dem Ellison auf die ursprüngliche feindliche Übernahmeankündigung Bezug nahm.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Netflix Plans Oscar Push for Lee Chang-dong’s ‘Possible Love,’ Promoting Jeon Do-yeon for Best Actress (Exclusive)",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/netflix-oscar-push-possible-love-jeon-do-yeon-1236725308/",
-          "summary": "Netflix startet eine mehrkategorige Oscar-Kampagne für Lee Chang-dongs vielbeachteten koreanischen Film „Possible Love\", der bereits den Großen Preis der Jury in Venedig gewann und mit Top-Kritikerwertungen (100 % auf Rotten Tomatoes, 93 auf MetaCritic) glänzt. Neben den Kategorien bester internationaler Film, bester Film, beste Regie und bestes Originaldrehbuch setzt Netflix besonders auf die Hauptdarstellerin Jeon Do-yeon, für die eine gezielte Lobbyarbeit um eine Nominierung als beste Hauptdarstellerin betrieben wird. Die Strategie knüpft an den historischen Oscar-Erfolg von „Parasite\" an und profitiert von der zunehmenden Internationalis",
+          "title": "Skydance’s Gerhard Zeiler, Warner Bros. Int’l President, to Depart With Eyes on Politics",
+          "link": "https://www.hollywoodreporter.com/business/business-news/skydance-gerhard-zeiler-exit-eyes-political-role-1236726118/",
+          "summary": "Gerhard Zeiler, President International bei Warner Bros. Discovery, verlässt das kürzlich zu Skydance fusionierte Unternehmen Ende nächster Woche – ein weiterer Führungswechsel im Zuge der Paramount-Warner-Bros.-Megafusion unter David Ellison. Zeiler wird eine mögliche politische Karriere in Österreich nachgesagt, nachdem er zunächst Interesse an der Führung der SPÖ signalisierte, dann aber einen anderen Kandidaten unterstützte und weiteres politisches Engagement ankündigte. Einen Nachfolger für seine Position nannte sein internes Abschiedsmemo nicht.",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "Elizabeth Banks Officially Set to Play Karen Read in Amazon Series",
-          "link": "https://variety.com/2026/tv/news/elizabeth-banks-karen-series-amazon-1236905579/",
-          "summary": "Amazon hat offiziell eine achtteilige Dramaserie über den Kriminalfall Karen Read mit Elizabeth Banks in der Hauptrolle grünes Licht gegeben; Justin Noble fungiert als Showrunner und Autor, während David E. Kelley über seine Produktionsfirma als Executive Producer mitwirkt. Die auf dem Law&Crime/Audible-Podcast „Karen\" basierende, genreübergreifende True-Crime-Serie wird von Warner Bros. Television produziert und thematisiert neben dem Fall selbst auch die gesellschaftliche Obsession mit True Crime.",
+          "title": "Netflix Gearing Up to Lay Off 5% of Workforce: Report",
+          "link": "https://variety.com/2026/tv/news/netflix-mass-layoffs-1236906567/",
+          "summary": "Netflix plant laut einem Bericht von Puck News eine umfangreiche Restrukturierung mit Stellenstreichungen von rund 5 % der Belegschaft, was bei etwa 16.000 Mitarbeitern (Stand Ende 2025) ungefähr 800 Arbeitsplätzen entspricht; die Ankündigung könnte bereits nächste Woche erfolgen. Betroffene Abteilungen sind bislang unklar, und Netflix selbst lehnte eine Stellungnahme ab. Es wäre der größte Stellenabbau seit 2022, als das Unternehmen nach einem erstmaligen Abonnentenrückgang rund 450 Mitarbeiter entließ – trotz zuletzt zweistelliger Umsatzzuwächse in allen Regionen.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Dawn Porter to Direct Documentary on Pioneering TV News Anchor Max Robinson",
+          "link": "https://variety.com/2026/tv/news/max-robinson-documentary-dawn-porter-1236906500/",
+          "summary": "Dokumentarfilmerin Dawn Porter („John Lewis: Good Trouble“) wird für Wise Child Studios einen Dokumentarfilm über den bahnbrechenden schwarzen TV-Nachrichtenmoderator Max Robinson realisieren, der in den späten 1970er-Jahren als ABC-News-Anchor die „Color Barrier“ im US-Fernsehjournalismus durchbrach. Der Film mit dem Titel „Color Bars: The Story of the Black Journalist Who Broke the TV News Color Barrier“ wird von Porter über ihr Trilogy-Films-Label sowie von CNN-Moderator Victor Blackwell (Fresh Fruit Films) produziert und zeichnet Aufstieg und Fall von Robinsons Karriere nach.",
           "score": 7
         }
       ]
