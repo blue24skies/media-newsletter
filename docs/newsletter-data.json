@@ -1,209 +1,146 @@
 {
   "newsletters": [
     {
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "articles": [
         {
           "source": "DWDL",
-          "title": "ZDF veröffentlicht britisch-deutsche Vampirserie im November",
-          "link": "https://www.dwdl.de/nachrichten/108140/zdf_veroeffentlicht_britischdeutsche_vampirserie_im_november_/",
-          "summary": "Das ZDF bringt die britisch-deutsche Coming-of-Age-Comedy \"The Reluctant Vampire\" ab dem 20. November in die Mediathek, die lineare Ausstrahlung bei ZDFneo folgt am 1. Dezember auf einem nächtlichen Sendeplatz ab 1:10 Uhr. Die sechsteilige Serie von Boffola Pictures basiert auf einer Vorlage von Eric und Gary Morecambe und wird vom britischen BAFTA-Preisträger Lenny Rush in der Hauptrolle getragen.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "Nach Skydance-Übernahme: Zeiler kündigt seinen Abschied an",
-          "link": "https://www.dwdl.de/nachrichten/108136/nach_skydanceuebernahme_zeiler_kuendigt_seinen_abschied_an/",
-          "summary": "Gerhard Zeiler, langjähriger Verantwortlicher für das internationale Geschäft von Warner Bros. Discovery, verlässt das Unternehmen nach der Skydance-Übernahme Ende kommender Woche und beendet damit eine 15-jährige Ära, in der er zahlreiche Konzernumbauten – von Time Warner über WarnerMedia bis WBD – begleitete. Der 71-Jährige, der zwischenzeitlich Ambitionen auf den SPÖ-Vorsitz geäußert hatte, verabschiedete sich in einem emotionalen internen Schreiben von seinem Team und betonte dabei dessen Zusammenhalt in schwierigen Zeiten.",
+          "title": "Erstmals GOA-Nominierungen für Formate auf Twitch und Mastodon",
+          "link": "https://www.dwdl.de/nachrichten/108141/erstmals_goanominierungen_fuer_formate_auf_twitch_und_mastodon/",
+          "summary": "Beim diesjährigen Grimme Online Award wurden aus fast 600 Einreichungen 28 Netzangebote nominiert, wobei erstmals Formate auf Twitch (\"ARD Game Jam - Classical Edition\") und Mastodon (\"KI und Koffein\") vertreten sind. Die Nominierungskommission warnt vor der wachsenden demokratischen Gefahr durch Big-Tech-Konzerne und deren Algorithmen, während thematisch Klimawandel, politische Berichterstattung und der Umgang mit Künstlicher Intelligenz im Fokus stehen.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "WDR erwirtschaftete 2025 einen hohen Überschuss",
-          "link": "https://www.dwdl.de/nachrichten/108137/wdr_erwirtschaftete_2025_einen_hohen_ueberschuss/",
-          "summary": "Der WDR erzielte 2025 trotz ausgebliebener Beitragserhöhung einen Überschuss von 54,5 Millionen Euro in der Betriebshaushaltsrechnung, bei Erträgen von 1.635,4 Millionen Euro (davon rund 77 Prozent aus dem Rundfunkbeitrag) und Aufwendungen von 1.580,9 Millionen Euro. Grund für den Überschuss ist laut WDR die Auflösung von in Vorjahren angesparten Beitragsmehrerträgen, die zur Beitragsstabilität in der aktuellen Beitragsperiode (2025-2028) beitragen sollen. Das Ergebnis wird der Ausgleichsrücklage zugeführt.",
+          "title": "Rechte gesichert: 3. Liga bleibt langfristig bei der Telekom",
+          "link": "https://www.dwdl.de/nachrichten/108138/rechte_gesichert_3_liga_bleibt_langfristig_bei_der_telekom/",
+          "summary": "Der DFB hat die Übertragungsrechte an allen 380 Saison-Spielen der 3. Liga ab der Saison 2027/28 bis 2031 erneut an die Deutsche Telekom vergeben, inklusive Relegationsspielen sowie Free-TV-Rechten an 38 Partien pro Saison. Offen ist bislang, ob die bisherige Sublizenzierung an die ARD fortgeführt wird – Telekom-TV-Chef Arnim Butzen deutet an, die Free-TV-Spiele künftig verstärkt selbst über MagentaTV oder ein Freemium-Modell zeigen zu wollen. Zudem erweitert die Telekom ihre Verwertungsmöglichkeiten auf digitalen und Social-Media-Kanälen für eine schnellere Highlight-Verbreitung.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Nele Ludowig fragt für Disney+ \"Was schaut eigentlich...?\"",
-          "link": "https://www.dwdl.de/nachrichten/108133/nele_ludowig_fragt_fuer_disney_was_schaut_eigentlich/",
-          "summary": "Disney+ startet mit \"Was schaut eigentlich...?\" ein neues Interviewformat, in dem Moderatorin Nele Ludowig mit Gästen aus der Film- und Creator-Szene über deren persönliche Sehgewohnheiten spricht. Die Folgen erscheinen kostenlos auf dem YouTube-Kanal von Disney+ Deutschland und dienen durch den Fokus auf plattformeigene Inhalte erkennbar als Marketinginstrument für das kostenpflichtige Abo. Zu den ersten Gästen zählten der Cast der Serie \"The Shards\" sowie die Creatorin Ema Louise.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "RTL+ holt \"House of Villains\" 2027 nach Deutschland",
-          "link": "https://www.dwdl.de/nachrichten/108120/rtl_holt_house_of_villains_2027_nach_deutschland/",
-          "summary": "RTL+ adaptiert ab 2027 das US-Reality-Format \"House of Villains\" für den deutschen Markt, moderiert von Sophia Thomalla, bei dem bekannte Realitystars um ein Preisgeld von bis zu 100.000 Euro konkurrieren. Die Produktion übernimmt ITV Studios Germany im Auftrag von RTL+; ein konkreter Veröffentlichungstermin sowie offizielle Cast-Angaben stehen noch aus. Das Originalformat von NBCUniversal lief bereits für drei Staffeln bei E! bzw. Peacock in den USA.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "Wenn \"Nanny\" Fran Drescher die \"Zweiflers\" aufmischt",
-          "link": "https://www.dwdl.de/nachrichten/108129/wenn_nanny_fran_drescher_die_zweiflers_aufmischt/",
-          "summary": "Die ARD präsentierte in Berlin ihr neues fiktionales Programm mit starkem Fokus auf regional verankerte Geschichten aus Deutschland und kündigte eine Vertical-Funktion für die Mediathek-App an. Highlight ist die zweite Staffel von \"Die Zweiflers\" (Start: 15. Januar in der ARD-Mediathek), die Hollywood-Star Fran Drescher in einer zentralen Rolle besetzt und laut Showrunner David Hadda als komplette Neuerzählung konzipiert wurde. Rund zwei Drittel der Mediatheksnutzung entfallen laut Channelmanagerin Sophie Burkhardt bereits auf fiktionale Inhalte.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Lost Boys\": ARD macht Doku über Boyband US5",
-          "link": "https://www.dwdl.de/nachrichten/108128/lost_boys_ard_macht_doku_ueber_boyband_us5/",
-          "summary": "Die ARD kündigt mit \"Lost Boys – Der Fall US5\" (Arbeitstitel) eine Doku von ARD Kultur an, die ab dem 2. Dezember in der Mediathek verfügbar sein wird und erstmals alle fünf Originalmitglieder der Boyband gemeinsam zu Wort kommen lässt. Im Fokus stehen dabei die bislang verschwiegenen Schattenseiten des Erfolgs wie psychischer Druck, Ausbeutung, Suchtprobleme und sexualisierte Übergriffe – unter anderem spricht Jay Khan über die Gewalt durch Musikmanager Lou Pearlman. Für Buch und Regie verantwortlich sind Julian Brimmers und Benjamin Westermann (nb Studios), produziert unter Federführung des SWR mit Beteiligung von",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "Kabel Eins beschäftigt sich bald mit dem Fall Block",
-          "link": "https://www.dwdl.de/nachrichten/108118/kabel_eins_beschaeftigt_sich_bald_mit_dem_fall_block/",
-          "summary": "Kabel Eins bringt Ende Oktober zwei Formate zurück: Am 30. Oktober startet die neue Staffel von \"Deutschlands spektakulärste Kriminalfälle\" (freitags, 20:15 Uhr), die zum Auftakt den medial viel beachteten Fall um Block-House-Erbin Christina Block und die mutmaßliche Kindesentführung aufgreift. Bereits einen Tag zuvor, am 29. Oktober, kehrt \"Morlock Motors - Big Deals im Westerwald\" mit seiner fünften Staffel (donnerstags, 20:15 Uhr) zurück, nachdem der Sender die Zusammenarbeit mit Michael Manousakis kürzlich verlängert hatte.",
+          "title": "DAZN zeigt CL-Konferenz erstmals kostenlos für alle",
+          "link": "https://www.dwdl.de/nachrichten/108107/dazn_zeigt_clkonferenz_erstmals_kostenlos_fuer_alle/",
+          "summary": "DAZN überträgt am 13. Oktober 2026 erstmals die Champions-League-Konferenz kostenlos und ohne Abo (nur mit Registrierung) in Deutschland – ab 18 Uhr mit fünfeinhalb Stunden Live-Programm, darunter Partien wie RB Leipzig gegen PSV Eindhoven. Mit der Gratis-Übertragung verfolgt der Streamer eine klare Marketingstrategie, um für das kostenpflichtige Abo-Angebot zu werben, über das weitere deutsche CL-Spiele exklusiv laufen. Insgesamt zeigt DAZN nach eigenen Angaben rund 100 Live-Spiele pro Saison kostenlos.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "&quot;Die Nanny&quot;-Star: Fran Drescher spielt in zweiter Staffel von &quot;Die Zweiflers&quot; mit",
-          "link": "https://www.horizont.net/medien/nachrichten/die-nanny-star-fran-drescher-spielt-in-zweiter-staffel-von-die-zweiflers-mit-236165?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "US-Schauspielerin Fran Drescher, bekannt aus der Kultsitcom \"Die Nanny\", übernimmt in der zweiten Staffel der ARD-Serie \"Die Zweiflers\" über eine jüdische Frankfurter Familie eine tragende Rolle. Die neue Staffel thematisiert unter anderem ein ungeklärtes Verbrechen aus den 1950er Jahren. Die Besetzung wurde im Rahmen der Programmankündigung des Senders zur kommenden Seriensaison bekannt gegeben.",
-          "score": 9
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Plattform-Reichweiten: DAZN legt dank Bundesliga und Champions League kräftig zu",
-          "link": "https://www.horizont.net/medien/nachrichten/plattform-reichweiten-dazn-legt-dank-bundesliga-und-champions-league-kraeftig-zu-236154?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "DAZN konnte seine kumulierte Nettoreichweite im September laut aktuellen AGF-Zahlen dank Bundesliga und Champions League deutlich steigern und überholte dabei die Konkurrenten Sky und Wow. An der Spitze des Plattform-Rankings bleiben weiterhin die öffentlich-rechtlichen Mediatheken von ARD und ZDF.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "zwingen müssen, ihre Algorithmen zu verändern”, sagte er.",
-          "link": "https://kress.de/news/beitrag/156695-wolfram-weimer-meta-amp-co-muessen-ihre-algorithmen-veraendern.html",
-          "summary": "Kulturstaatsminister Wolfram Weimer kündigte bei der Eröffnung der Frankfurter Buchmesse an, Digitalplattformen wie Meta zur Veränderung ihrer Algorithmen zwingen zu wollen, da die Verbindung von Social-Media-Diskursen und Künstlicher Intelligenz einen „diskursiven Treibhaus-Effekt“ erzeuge, der extreme Positionen stärke und die politische Kultur deformiere. Unter Verweis auf das Verursacherprinzip – analog zur Gewässerverschmutzung durch Fabriken – betonte er, dass ein bloßes Social-Media-Verbot für Kinder und Jugendliche nicht ausreiche und die Plattformbetreiber selbst in die Verantwortung genommen werden müssten.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "einheizen Die Verlegerverbände BDZV und MVFP haben gelobt, ihre Zusammenarbeit zu intensivieren.",
-          "link": "https://kress.de/news/beitrag/156694-bdzv-und-mvfp-wollen-gemeinsam-google-amp-co-einheizen.html",
-          "summary": "Die Verlegerverbände BDZV und MVFP wollen ihre Zusammenarbeit auf Basis des 2025 gegründeten „Bündnisses Zukunft Presse“ intensivieren, um politische Positionen enger abzustimmen und sich auf nationaler wie europäischer Ebene gemeinsam gegen die Marktmacht globaler Digitalkonzerne wie Google und Meta einzusetzen. Geplant sind gebündelte Ressourcen in politischer Kommunikation, gemeinsame Initiativen und Veranstaltungen, wobei konkrete Konzepte in den kommenden Monaten erarbeitet werden sollen. Eine Fusion der beiden eigenständigen Verbände ist dabei ausdrücklich nicht vorgesehen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "15 Uhr und Mitternacht auf einen Marktanteil von 21,4 Prozent und gewann die Prime Time.",
-          "link": "https://meedia.de/news/beitrag/25210-quot-3-millionen-euro-woche-quot-knackt-mit-dem-finale-die-3-millionen-marke.html",
-          "summary": "Das Finale der \"3-Millionen-Euro-Woche\" von RTLs \"Wer wird Millionär?\" erreichte am Donnerstag 3,07 Millionen Zuschauer und gewann mit einem Marktanteil von 21,4 Prozent in der Zielgruppe der 14- bis 49-Jährigen die Prime Time. Im Gesamtpublikum musste sich die Show mit 18,3 Prozent allerdings dem starken ARD-Krimistart \"Tiroler Blut: Der erste Schuss\" geschlagen geben, der 5,14 Millionen Zuschauer und 24,7 Prozent Marktanteil verbuchte. Das ZDF landete mit einer \"Bergretter\"-Wiederholung (2,52 Mio., 12,1 Prozent) hinter RTL.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Lost generation: the AI threat to Britain’s next great directors",
-          "link": "https://www.theguardian.com/film/2026/oct/09/ai-threat-britain-directors-ridley-scott-guy-ritchie",
-          "summary": "Die britische Werbeindustrie, traditionell eine wichtige Ausbildungsstätte für spätere Film- und TV-Regisseure wie Ridley Scott, Guy Ritchie und Dougal Wilson, führt im Wettlauf um Kostensenkung zunehmend KI-Technologie ein. Branchenvertreter wie Luke Scott (Ridley Scott Associates) warnen, dass dadurch eine „verlorene Generation“ entstehen könnte, der die praktische Lernerfahrung fehlt, da kreative Fähigkeiten vor allem durch das aktive Tun erworben werden. Zudem besteht laut Scott die Gefahr einer „Monokulturalisierung“ und einer trügerischen, „ersatzhaften Kreativität“ durch generative KI.",
-          "score": 9
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Russell T Davies on 40 years of bringing gay stories to our screens – podcast",
-          "link": "https://www.theguardian.com/news/audio/2026/oct/09/russell-t-davies-on-40-years-of-bringing-gay-stories-to-our-screens-podcast",
-          "summary": "Der Guardian-Podcast „Today in Focus\" porträtiert den Drehbuchautor und Doctor-Who-Showrunner Russell T Davies, der seit 40 Jahren – beginnend mit der tabubrechenden Serie „Queer As Folk\" – LGBTQ-Geschichten ins britische Fernsehen gebracht und deren Darstellung von Scham und Angst hin zu queerer Freude und Liebe gewandelt hat. Im Gespräch mit Helen Pidd erläutert Davies zudem seine Position, dass schwule Rollen mit schwulen Schauspielern besetzt werden sollten. Anlass ist die Veröffentlichung seiner Memoiren „The Queerest of Folk: A Life in Television\" (Transworld, 8. Oktober, £25).",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Focus Features & Blumhouse-Atomic Monster Snap Up Micro-Budget Horror Film ‘Play House’ From Nicolas Curcio",
-          "link": "https://deadline.com/2026/10/play-house-sells-focus-features-blumhouse-atomic-monster-1237151007/",
-          "summary": "Focus Features und Blumhouse-Atomic Monster haben sich in einem umkämpften Bieterverfahren die weltweiten Rechte (ausgenommen Lateinamerika und Indien) am Micro-Budget-Horrorfilm „Play House\" von Debütregisseur Nicolas Curcio gesichert – für einen Siebenstellen-Betrag, obwohl der Film für kaum mehr als 100.000 Dollar produziert wurde. Das über den Fantastic-Pitches-Wettbewerb finanzierte Projekt feierte kürzlich Premiere auf dem Fantastic Fest und soll 2027 in die Kinos kommen, mit Universal Pictures International als internationalem Vertrieb.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Craig Ferguson & Megyn Price Starring In Addiction Dramedy Series ‘Quitters’ For Angel",
-          "link": "https://deadline.com/2026/10/craig-ferguson-megyn-price-angel-series-quitters-1237150934/",
-          "summary": "Craig Ferguson und Megyn Price übernehmen die Hauptrollen in der achtteiligen Dramedy-Serie „Quitters\", die derzeit in Utah produziert und vom glaubensorientierten Anbieter Angel vertrieben wird. Die halbstündige Serie, geschrieben von Dave Parkin, erzählt die Geschichte einer opioidabhängigen Soccer-Mom (Price), die in einem unkonventionellen Reha-Zentrum unter Leitung einer ehemaligen Heavy-Metal-Legende (Ferguson) ihren Weg zurück ins Leben sucht. Produziert wird das Projekt unter anderem durch die FletChet-Entertainment-Banner („The Best Christmas Pageant Ever\") mit Finanzierung von Script 2 Screen Capital.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "International Insider: ‘Doctor Who’ Regeneration Underway; MIPCOM Preview; Busan Takeaways",
-          "link": "https://deadline.com/2026/10/international-insider-doctor-who-regeneration-underway-1237150019/",
-          "summary": "BBC Studios hat die Zukunft von „Doctor Who\" nach dem Ausstieg von Disney und der verhaltenen Resonanz auf die Russell-T.-Davies-Staffeln in einem „Bake-off-Style\"-Bieterverfahren ausgeschrieben, an dem sich namhafte Produzenten wie Jed Mercurios Hat Trick Mercurio, World Productions und STV Studios beteiligen. STV Studios plant dabei erstmals eine Verlagerung der Produktion nach Schottland. Die Auswahl des Gewinners erfolgt im März, die neue Serie soll in der Saison 2028/29 auf BBC-Bildschirmen starten.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Sarah Snook & ‘Game Of Thrones’ Stars Shows Adapted As Microdramas For Snips",
-          "link": "https://deadline.com/2026/10/snips-microdramas-succession-game-of-thrones-stars-adapted-1237150762/",
-          "summary": "Die Vertical-Video-Plattform Snips adaptiert mehrere Serien mit bekannten Schauspielern wie Sarah Snook (Succession) sowie den Game-of-Thrones-Stars Maisie Williams, Liam Cunningham, Iain Glen und Kit Harington in das vertikale 9:16-Microdrama-Format. Betroffene Titel sind unter anderem „The Beautiful Lie“, „Two Weeks to Live“, „Domina“, „Prisoners' Wives“ und „Gunpowder“, die jeweils von ihrer ursprünglichen Länge in Episoden von 45 Sekunden bis zwei Minuten umgewandelt werden. Die Strategie verdeutlicht den anhaltenden Trend, bestehende Film- und TV-Inhalte für das mobile Kurzformat zu monetarisieren",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Geeta Gandbhir, Sam Pollard, Alisa Payne Board ICE-Themed Oscar Contender ‘Water Cooler’ As EPs",
-          "link": "https://deadline.com/2026/10/water-cooler-executive-producer-announcement-1237150777/",
-          "summary": "Die Oscar-Anwärterin „Water Cooler\" von Regisseurin Emma V.F. gewinnt mit den Academy-Award-Nominierten Geeta Gandbhir, Sam Pollard und Alisa Payne drei prominente Executive Producer. Der im New Yorker Einwanderungsgericht gedrehte Kurzdokumentarfilm stellt beiläufige Alltagsgespräche von ICE-Agenten den brutalen Festnahmen von Migranten gegenüber, die ordnungsgemäß zu ihren Gerichtsterminen erschienen waren. Nach dem Gewinn des Best Documentary Short beim Palm Springs International ShortFest 2026 hat sich der Film für eine Oscar-Nominierung qualifiziert.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "ASOB Media Offers MIPCOM Buyers ‘A Study On Beauty’",
-          "link": "https://deadline.com/2026/10/asob-media-study-on-beauty-launch-mipcom-1237150950/",
-          "summary": "ASOB Media bringt zur MIPCOM Cannes die siebenteilige Doku-Serie „A Study on Beauty“ auf den Markt, die – erschaffen von Emmy-Gewinnerin Gabbi Pascua und Regisseur Alan Dennis – Kultur, Geschichte und menschliche Identität durch die Linse von Schönheit und Wellness beleuchtet. Die erste Staffel umfasst drei globale Kapitel (Frankreichs Parfümerie, Japans Onsen-Rituale und matriarchale Traditionen auf den Philippinen) und wird stilistisch mit „Chef's Table“ und „Parts Unknown“ verglichen. Begleitet wird das Projekt von einem Podcast („A Student of Beauty“) sowie einer Kurzform-Digitalserie („A Beauty Journey“), die b",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Netflix Eyes Major Layoffs – The Dish",
-          "link": "https://deadline.com/2026/10/netflix-layoffs-1237150620/",
-          "summary": "Netflix plant laut Branchenquellen umfangreiche Stellenstreichungen – Puck beziffert den Umfang auf rund 5% der Belegschaft –, was den ersten großen Personalabbau seit der Reduktion 2022 darstellen würde. Hintergrund ist der zunehmende Wall-Street-Druck angesichts eines Aktienkursrückgangs von über 40% im Jahresverlauf und eines nur schwachen Zuschauer-Engagement-Wachstums von 2% im ersten Halbjahr. Co-CEO Ted Sarandos räumte kürzlich ein, dass das Unternehmen nicht so schnell wachse wie gewünscht und man an einer Beschleunigung arbeite.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "The Netflix Ax Is Coming as Stock Languishes",
-          "link": "https://www.hollywoodreporter.com/business/business-news/netflix-ax-stock-languishes-1236726192/",
-          "summary": "Netflix plant vor der Q3-Bilanzveröffentlichung am 20. Oktober einen möglichen Stellenabbau von 5 Prozent oder mehr sowie eine Umstrukturierung, nachdem die Aktie seit Jahresbeginn um 20 Prozent gefallen ist. Trotz der weiterhin marktführenden Position im Streaming-Bereich und eines Content-Budgets von 20 Milliarden Dollar wird das Unternehmen von der Wall Street zunehmend als etabliertes Studio statt als Wachstums-Tech-Story betrachtet, während die Investoren-Aufmerksamkeit auf KI-Werten liegt und YouTube als Konkurrent auf TV-Bildschirmen wächst. Die Co-CEOs Ted Sarandos und Greg Peters wollen mit der Neuaufst",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "The Most Powerful Women in International TV",
-          "link": "https://www.hollywoodreporter.com/tv/tv-features/most-powerful-women-international-tv-1236723482/",
-          "summary": "Der Hollywood Reporter präsentiert seine Liste der mächtigsten Frauen im internationalen TV 2026 vor dem Hintergrund branchenweiter Megafusionen wie dem Sky-ITV-Deal (2,12 Mrd. USD) und der Banijay-All3Media-Konsolidierung. Die gelisteten Führungskräfte – darunter ITV-Chefin Carolyn McCall – betonen die Notwendigkeit, in KI und Effizienz zu investieren, ohne dabei die kreative Qualität zu opfern. Die Auswahl basierte auf der Entscheidungsbefugnis der Führungskräfte (Greenlighting, Commissioning, Finanzierung) sowie der Performance ihrer Arbeit in den vergangenen zwölf Monaten.",
+          "title": "Medienwandel: Wie sich Streaming die nächste Bastion des linearen Fernsehens schnappt",
+          "link": "https://www.horizont.net/medien/nachrichten/medienwandel-wie-sich-streaming-die-naechste-bastion-des-linearen-fernsehens-schnappt-236148?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Große Preisverleihungen und Award-Shows, die lange als Zugpferde und „gemeinsames Lagerfeuer“ des linearen Fernsehens galten, wandern zunehmend zu den großen Streaming-Plattformen ab. Die Zuschauerzahlen untermauern diesen Trend und markieren damit einen weiteren signifikanten Schritt im Medienwandel, bei dem Streaming eine bislang verlässliche Bastion des klassischen TVs erobert.",
           "score": 10
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "$1.1 Billion for Five Warner Bros. Execs: Who Cashed Out From Paramount Sale",
-          "link": "https://www.hollywoodreporter.com/business/business-news/wbd-exes-1-billion-skydance-sale-1236726172/",
-          "summary": "Der Verkauf von Warner Bros. Discovery an Paramount hat den fünf Top-Führungskräften des Unternehmens laut SEC-Unterlagen zusammen über 1,1 Milliarden Dollar eingebracht, wobei Ex-CEO David Zaslav mit rund 606 Millionen Dollar aus Aktienverkäufen und werthaltigen Optionen den Löwenanteil erhielt. Seine vier Top-Stellvertreter – Perrette (157 Mio.), Campbell (129 Mio.), Weidenfels (122 Mio.) und Zeiler (92 Mio.) – teilten sich über 500 Millionen Dollar, wobei JB Perrette als einziger C-Suite-Mitglied zu Skydance wechselt. Die genannten Beträge verstehen sich vor Steuern und schließen Abfind",
+          "source": "Horizont Medien",
+          "title": "Staatsvertrag für digitale Medien: Neue Medienwelt, neue Regeln: Was die Länder planen",
+          "link": "https://www.horizont.net/medien/nachrichten/staatsvertrag-fuer-digitale-medien-neue-medienwelt-neue-regeln-was-die-laender-planen-236173?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Bundesländer planen einen neuen Staatsvertrag für digitale Medien, der die Sichtbarkeit journalistischer Angebote auf Plattformen sowie Regeln für KI-Angebote festlegen soll. Die Rundfunkkommission beabsichtigt zudem eine Reform der Medienkonzentrationskontrolle, Anpassungen der Werberegeln, die Stärkung lokaler Medien sowie Maßnahmen gegen die künstliche Manipulation von Reichweiten.",
           "score": 7
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "U.K. Box Office Back to Full Health — But What Lessons Do We Learn?",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/uk-box-office-london-film-festival-odyssey-spider-man-imax-1236726105/",
-          "summary": "Das britische und irische Kino verzeichnet aktuell ein Umsatzplus von 21 Prozent gegenüber 2025 – das stärkste Wachstum seit der Pandemie. Bei einer Panel-Session des BFI London Film Festival hoben Vertreter von Curzon, Picturehouse und BFI IMAX hervor, dass das breite Genre-Angebot – von Musicals über Franchise-Fortsetzungen bis zu Auteur-Produktionen wie Nolans „The Odyssey“ – zur Erholung beiträgt. Als wichtigste Erkenntnis gilt jedoch die außergewöhnlich starke Resonanz auf originäre, eigenständige Stoffe.",
+          "source": "kress",
+          "title": "Gerhard Zeiler verlässt den US-Medienkonzern Skydance",
+          "link": "https://kress.de/news/beitrag/156711-gerhard-zeiler-verlaesst-den-us-medienkonzern-skydance.html",
+          "summary": "Gerhard Zeiler (71) verlässt noch im Oktober den durch die 110-Milliarden-Dollar-Übernahme von Warner Bros. Discovery entstandenen US-Medienkonzern Skydance, bei dem er als President International tätig war. Der frühere RTL-Group-CEO hatte zuvor öffentlich den SPÖ-Vorsitz angestrebt, was den Rücktritt von Parteichef Andreas Babler auslöste; nachdem Markus Marterbauer als neuer Parteichef vorgesehen ist, kündigte Zeiler jedoch an, diesen zu unterstützen. Seine Kandidatur hat er bislang nicht formell zurückgezogen.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "RTL+ startet \"House of Villains\" mit krawalligen Realitystars Fies, fieser, “House of Villains”:...",
+          "link": "https://kress.de/news/beitrag/156713-rtl-startet-quot-house-of-villains-quot-mit-krawalligen-realitystars.html",
+          "summary": "RTL+ adaptiert mit \"House of Villains\" ein NBC-Universal-Reality-Format, bei dem krawallige Realitystars unter Moderation von Sophia Thomalla in Machtkämpfen und wechselnden Allianzen um ein Preisgeld von bis zu 100.000 Euro und den Titel \"Ultimativer Super Villain\" konkurrieren. Die deutsche Produktion verantwortet ITV Studios Germany (u.a. \"Love Island VIP\", \"Ich bin ein Star\"). Konkrete Angaben zu Starttermin, Folgenzahl und Besetzung stehen bislang noch aus.",
           "score": 7
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "Skydance’s Gerhard Zeiler, Warner Bros. Int’l President, to Depart With Eyes on Politics",
-          "link": "https://www.hollywoodreporter.com/business/business-news/skydance-gerhard-zeiler-exit-eyes-political-role-1236726118/",
-          "summary": "Gerhard Zeiler, President International bei Warner Bros. Discovery, verlässt das kürzlich zu Skydance fusionierte Unternehmen Ende nächster Woche – ein weiterer Führungswechsel im Zuge der Paramount-Warner-Bros.-Megafusion unter David Ellison. Zeiler wird eine mögliche politische Karriere in Österreich nachgesagt, nachdem er zunächst Interesse an der Führung der SPÖ signalisierte, dann aber einen anderen Kandidaten unterstützte und weiteres politisches Engagement ankündigte. Einen Nachfolger für seine Position nannte sein internes Abschiedsmemo nicht.",
+          "source": "Deadline",
+          "title": "Netflix’s ‘The Blue Road’ Director Han Jun-hee On Taking Risks With Stories & Shooting In Japan",
+          "link": "https://deadline.com/2026/10/netflix-korea-the-blue-road-han-jun-hee-1237153975/",
+          "summary": "Der koreanische Autor und Regisseur Han Jun-hee (\"D.P.\", \"Weak Hero Class\") betonte in einer Masterclass beim Busan International Film Festival, dass das Eingehen von Risiken und das Erzählen unkonventioneller Geschichten entscheidend seien, während übermäßige Vorsicht – besonders im koreanischen Markt – selbst ein Risiko darstelle. Zentrale Strategie sei es, vermeintlich nischige Themen (etwa Militär- oder Highschool-Stoffe) durch universelle Emotionen und breitere Zielgruppenansprache zugänglich zu machen. Han stellt in Busans On-Screen-Sektion derzeit zwei Serien vor: \"The Blue Road\" (Buch und Regie) sowie \"Dead-End Job\" (Konzept).",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "‘La Bola Negra’ Directors Dig Into Generational Trauma: “Something Touched Deep Inside” – Contenders London",
+          "link": "https://deadline.com/2026/10/la-bola-negra-generational-trauma-contenders-london-1237151053/",
+          "summary": "Die spanischen Regisseure Javier Calvo und Javier Ambrossi präsentierten bei Deadlines Contenders London ihren preisgekrönten Film „La Bola Negra“, der die miteinander verbundenen Geschichten dreier schwuler Männer in den Jahren 1932, 1937 und 2017 erzählt und auf Alberto Conejeros Theaterstück „La piedra oscura“ sowie García Lorcas unvollendetem Werk basiert. Im Zentrum steht die reale Liebesgeschichte zwischen dem Fußballer Rafael Rodríguez Rapún und Lorca während des Spanischen Bürgerkriegs, erweitert um die fiktive Figur des Trompeters Sebastián (gespielt von Guitarricadelafuente). Die Regisseure recherchierten das unvollendete Lorca-Man",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Ray Gunn’ Review: Sam Rockwell And Scarlett Johansson Channel Bogie And Bacall In Brad Bird’s Nifty Sci-Fi/Film Noir Mashup – London Film Festival",
+          "link": "https://deadline.com/2026/10/ray-gunn-review-brad-bird-sam-rockwell-scarlett-johansson-1237152314/",
+          "summary": "Brad Birds neuer Animationsfilm „Ray Gunn“ aus der Skydance-Animation/Netflix-Kooperation feierte seine Weltpremiere beim London Film Festival und wird als aussichtsreicher Kandidat für die Kategorie „Bester Animationsfilm“ bei den Oscars gehandelt. Der Film vereint klassisches Film-Noir im Bogart-Stil mit futuristischen Sci-Fi-Elementen und einer prominenten Sprecherbesetzung, darunter Sam Rockwell und Scarlett Johansson, in einer als „alternative Zukunft“ von 1939 konzipierten Welt namens Metropia. Produziert unter Beteiligung von David Ellison, stellt das Werk eine visuell opulente Hommage an das Kino dar.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Marie-Clémentine Dusabejambo On Directing Rwanda’s Oscar Submission ‘Ben’Imana’: “We Need To Understand What Happened” – Contenders London",
+          "link": "https://deadline.com/2026/10/marie-clementine-dusabejambo-rwanda-oscar-submission-benimana-1237153895/",
+          "summary": "Die rwandische Regisseurin Marie-Clémentine Dusabejambo hat mit „Ben'Imana\" den ersten rwandischen Oscar-Beitrag überhaupt vorgelegt, nachdem der Film als erster rwandischer Spielfilm in die offizielle Cannes-Auswahl aufgenommen und mit der Caméra d'Or ausgezeichnet wurde. Der 2012 – 18 Jahre nach dem Genozid an den Tutsi – angesiedelte Film thematisiert Versöhnungsprozesse in einem rwandischen Dorf und verzichtet dabei bewusst auf stereotype Opfer-Täter-Darstellungen. Dusabejambo, die zur Zeit des Genozids sieben Jahre alt war, betont die Bedeutung authentischer historischer Aufarbeitung und arbeit",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Project Hail Mary’ DoP Greig Fraser Says The Film Was The “Most Complicated” He’s Ever Shot — Contenders London",
+          "link": "https://deadline.com/2026/10/project-hail-mary-dop-greig-fraser-film-most-complicated-1237153911/",
+          "summary": "Oscar-prämierter Kameramann Greig Fraser bezeichnete Phil Lord und Christopher Millers Weltraumfilm „Project Hail Mary\" beim Contenders London Event als den „kompliziertesten Film\", den er je gedreht hat – herausfordernder als Dune, The Batman oder Rogue One –, insbesondere aufgrund von Schwerelosigkeit, rotierenden Sets und der Aufnahme eines gesichtslosen Puppen-Charakters. Der mit Ryan Gosling und Sandra Hüller besetzte Amazon-MGM-Film spielte weltweit 684,5 Mio. Dollar ein und setzte laut Fraser und Produktionsdesigner Charles Wood bewusst auf Authentizität statt übermäßigen VFX-Einsatz.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Léa Seydoux & Marie Kreutzer On The “Earthquake” At The Heart Of ‘Gentle Monster’ — Contenders London",
+          "link": "https://deadline.com/2026/10/lea-seydoux-marie-kreutzer-on-earthquake-of-gentle-monster-1237153908/",
+          "summary": "Bei Deadlines Contenders London präsentierten Regisseurin Marie Kreutzer und Hauptdarstellerin Léa Seydoux ihr Cannes-Drama „Gentle Monster\", in dem Seydoux eine Pianistin spielt, deren Ehemann als Besitzer von Kinderpornografie entlarvt wird. Das Projekt hat für Kreutzer besondere Brisanz, da ihr vorheriger Film „Corsage\" durch die Verurteilung des Darstellers Florian Teichtmeister wegen desselben Delikts belastet wurde – eine beunruhigende Parallele, die ihre Arbeit an dem bereits 2020 begonnenen Stoff infrage stellte.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Guy Nattiv & Carrie Coon On Finding Empathy In ‘The Liberation’: “Who Are We To Say What Is Required For Someone To Move On?” — Contenders London",
+          "link": "https://deadline.com/2026/10/guy-nattiv-carrie-coon-the-liberation-lily-james-bleecker-1237153918/",
+          "summary": "Regisseur Guy Nattiv und Hauptdarstellerin Carrie Coon stellten beim Deadline Contenders London-Event ihren Film „The Liberation“ vor, der von Nattivs persönlicher Familiengeschichte inspiriert ist und eine Holocaust-Überlebende (Coon) zeigt, die in den frühen 1980ern in eine Frauen-Kommune gelockt wird. Der von Bleecker Street im Januar in den USA startende Film basiert auf den Erfahrungen von Nattivs Großmutter, die sich einem Kult anschloss, und entstand aus Nattivs jahrelanger, mit „viel Empathie“ geführter Aufarbeitung dieser Ereignisse.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Siân Heder & The ‘Being Heumann’ Crew On Creating An Inclusive Film & Production Environment — Contenders London",
+          "link": "https://deadline.com/2026/10/sian-heder-being-heumann-inclusive-contenders-london-1237153936/",
+          "summary": "Regisseurin Siân Heder und Produzent Kevin Walsh schufen für den Apple-Original-Film „Being Heumann“ ein durchgängig barrierefreies Produktionsumfeld – inklusive retrofitteter Maskenwagen und zugänglicher Rampen – um mit zehn behinderten Hauptdarsteller:innen zu arbeiten. Der Film erzählt die wahre Geschichte der Behindertenrechtsaktivistin Judy Heumann (gespielt von Ruth Madeley) und ihres 28-tägigen Sit-ins von 1977 im Federal Building in San Francisco, der längsten Besetzung eines Bundesgebäudes in der US-Geschichte.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Brad Bird on Why He Took ‘Ray Gunn’ to Skydance Instead of Pixar: Making Animated Films for Teens and Adults ‘Shouldn’t Be a Controversial Decision’",
+          "link": "https://variety.com/2026/film/global/brad-bird-ray-gunn-skydance-pixar-1236907403/",
+          "summary": "Regisseur Brad Bird realisiert sein über drei Jahrzehnte entwickeltes Projekt „Ray Gunn\" nicht bei Pixar oder Disney, sondern als Skydance-Animation-Produktion, die am 18. Dezember 2026 auf Netflix startet und zuvor beim BFI London Film Festival Premiere feiert. Bird begründet den Wechsel mit seinem Wunsch, Animationsfilme für Teenager und Erwachsene zu produzieren – was seiner Ansicht nach „keine kontroverse Entscheidung sein sollte\". Für den Score arbeitet Bird erneut mit Komponist Michael Giacchino zusammen, mit dem ihn bereits das sechste gemeinsame Projekt verbindet.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Six-Armed, Two-Legged Spider Princess Tale ‘Migali’ Unpacked by Its Director Ahead of MipJunior World Premiere",
+          "link": "https://variety.com/2026/tv/markets-festivals/spider-princess-migali-mipcom-animated-series-1236905328/",
+          "summary": "Die animierte Kinderserie „Migali\" (52x11 Minuten) feiert am 10. Oktober 2026 auf der MipJunior in Cannes ihre Weltpremiere und wird im Herbst auf TF1, RTBF, Ketnet und RTS ausgestrahlt. Produziert von Easy Peasy Entertainment (Auzou Publishing Group) und Bardaf! Productions in Co-Produktion mit mehreren europäischen Sendern, erzählt die Serie von der sechsjährigen Spinnenprinzessin Migali, die an der Royal Academy für Prinzen und Prinzessinnen Königin werden möchte. Regisseur Cédric Frémeaux begleitete die Adaption der beliebten Buchfigur von der Seite auf den Bildschirm.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Prime Video Takes Global on Turkish AI-Generated Movie ‘Çukur:Vartolu,’ a Spin-Off From the Hit Series Known Internationally as ‘The Pit’ (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/global/prime-video-turkish-ai-generated-movie-cukurvartolu-the-pit-1236907346/",
+          "summary": "Prime Video hat sich die weltweiten Rechte an „Çukur: Vartolu“ gesichert, einem KI-generierten Spin-off-Film der türkischen Erfolgsserie „The Pit“, produziert von Ay Yapims Singapur-basiertem KI-Studio AI Yapim. Das Projekt folgt auf die im August gestartete KI-Historiendrama „Castle Walls“ und überträgt den KI-nativen Produktionsansatz erstmals auf ein etabliertes Drama-Franchise. Ay Yapim gilt als eine der führenden türkischen TV-Produktionsfirmen und ist unter anderem für internationale Hits wie „Endless Love“ und „Ezel“ bekannt.",
+          "score": 9
+        },
+        {
+          "source": "Variety",
+          "title": "‘Under Siege,’ Netflix’s Second Most Ambitious Colombian Series – a ‘Huge Undertaking Even by Our Standards’ – Bows Nov. 6",
+          "link": "https://variety.com/2026/film/global/under-siege-netflix-second-most-ambitious-series-bows-nov-6-1236906083/",
+          "summary": "Netflix veröffentlicht am 6. November mit „Under Siege\" („Palacio\") seine nach eigenen Angaben zweitambitionierteste kolumbianische Serie – ein achtteiliges Drama über die Erstürmung des kolumbianischen Justizpalastes durch das M-19-Guerillakommando und die anschließende Rückeroberung durch die Armee 1985 in Bogotá. Regie führt ein Trio aus Edgar Nito, Samir Oliveros und dem Berlinale-Preisträger Jayro Bustamante, die Besetzung umfasst unter anderem Natalia Reyes („Terminator: Dark Fate\").",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "Netflix Gearing Up to Lay Off 5% of Workforce: Report",
-          "link": "https://variety.com/2026/tv/news/netflix-mass-layoffs-1236906567/",
-          "summary": "Netflix plant laut einem Bericht von Puck News eine umfangreiche Restrukturierung mit Stellenstreichungen von rund 5 % der Belegschaft, was bei etwa 16.000 Mitarbeitern (Stand Ende 2025) ungefähr 800 Arbeitsplätzen entspricht; die Ankündigung könnte bereits nächste Woche erfolgen. Betroffene Abteilungen sind bislang unklar, und Netflix selbst lehnte eine Stellungnahme ab. Es wäre der größte Stellenabbau seit 2022, als das Unternehmen nach einem erstmaligen Abonnentenrückgang rund 450 Mitarbeiter entließ – trotz zuletzt zweistelliger Umsatzzuwächse in allen Regionen.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "Dawn Porter to Direct Documentary on Pioneering TV News Anchor Max Robinson",
-          "link": "https://variety.com/2026/tv/news/max-robinson-documentary-dawn-porter-1236906500/",
-          "summary": "Dokumentarfilmerin Dawn Porter („John Lewis: Good Trouble“) wird für Wise Child Studios einen Dokumentarfilm über den bahnbrechenden schwarzen TV-Nachrichtenmoderator Max Robinson realisieren, der in den späten 1970er-Jahren als ABC-News-Anchor die „Color Barrier“ im US-Fernsehjournalismus durchbrach. Der Film mit dem Titel „Color Bars: The Story of the Black Journalist Who Broke the TV News Color Barrier“ wird von Porter über ihr Trilogy-Films-Label sowie von CNN-Moderator Victor Blackwell (Fresh Fruit Films) produziert und zeichnet Aufstieg und Fall von Robinsons Karriere nach.",
+          "title": "Netflix Romance ‘Love Untangled’ Director Namkoong Sun on Netflix Freedom and the Funding and Distribution Gap in Korean Indie Film",
+          "link": "https://variety.com/2026/tv/festivals/love-untangled-director-netflix-korean-indie-film-busan-1236907394/",
+          "summary": "Regisseurin Namkoong Sun berichtete auf dem Branchen-Panel „New Voices in Film\" des Busan International Film Festival und Netflix, dass sich ihr erster kommerzieller Spielfilm „Love Untangled\" – abgesehen vom Maßstab – kaum von ihren vorherigen Independent-Produktionen unterschied, die kreative Freiheit jedoch auch mit Verantwortung einherging. Nach zwei gesellschaftskritischen Independent-Filmen stieg sie bei dem Netflix-Projekt in der Adaptionsphase ein und schätzte das System, das vollständige Konzentration auf die Filmarbeit ermöglichte, mit nur etwas über einem Jahr zwischen Produktionsbeginn und Veröffentlichung.",
           "score": 7
         }
       ]
