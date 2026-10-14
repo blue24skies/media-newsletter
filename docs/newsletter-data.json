@@ -1,147 +1,133 @@
 {
   "newsletters": [
     {
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Netflix sichert sich in Spanien die Rechte an der Fußball-WM",
-          "link": "https://www.dwdl.de/nachrichten/108190/netflix_sichert_sich_in_spanien_die_rechte_an_der_fussballwm/",
-          "summary": "Netflix hat sich überraschend die exklusiven Übertragungsrechte für die Fußball-WM 2030 in Spanien und Andorra gesichert und wird alle 104 Spiele live streamen, wobei ausgewählte Partien – darunter alle Spiele der spanischen Nationalmannschaft, beide Halbfinals und das Finale – kostenlos im Free-TV verfügbar sein sollen. Mit dem Deal baut der Streamingdienst sein Sportportfolio weiter aus, das bereits die Frauenfußball-WM 2027 und 2031 sowie NFL-, WWE- und Box-Events umfasst. Welcher Sender die Free-TV-Partien übernimmt, ist bislang offen.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Prime Video gelingt mit \"Neagley\" der nächste Serien-Erfolg",
-          "link": "https://www.dwdl.de/zahlenzentrale/108189/prime_video_gelingt_mit_neagley_der_naechste_serienerfolg/",
-          "summary": "Prime Video platzierte mit der US-Serie \"Neagley\" in KW 40 einen weiteren Streaming-Erfolg: Das Format erreichte eine durchschnittliche Netto­reichweite von 882.000 Personen und landete damit auf Platz neun der Programmmarken-Charts, flankiert von \"Two and a half Men\" und \"Reacher\" in den Top 20. Meistgesehene Serie blieb jedoch \"Babylon Berlin\" (1,181 Mio.), während das Ranking insgesamt vom ZDF-\"Sportstudio\" (1,660 Mio.) dank Nations League angeführt wurde.",
+          "title": "ZDF dreht prominent besetzte Hexen-Serie",
+          "link": "https://www.dwdl.de/nachrichten/108200/zdf_dreht_prominent_besetzte_hexenserie/",
+          "summary": "Das ZDF produziert mit \"Der letzte Zirkel\" (Arbeitstitel) eine sechsteilige Mystery-Serie über vier Hexen, die sich gegen den Teufel behaupten müssen; die Dreharbeiten laufen noch bis Ende November in Tschechien. In den Hauptrollen sind unter anderem Collien Monica Fernandes, Svenja Jung, Havana Joy, Julika Jenkins und Alev Irmak zu sehen. Die Serie entsteht nach einem Konzept von Mimi Klein und Katharina Ruß, Regie führt Marijana Verhoef, produziert wird von Made For Film.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Waipu.TV und Funke nehmen neue Zielgruppen ins Visier",
-          "link": "https://www.dwdl.de/nachrichten/108185/waiputv_und_funke_nehmen_neue_zielgruppen_ins_visier/",
-          "summary": "Waipu.TV und die Funke Mediengruppe starten eine strategische Kooperation, die erstmals TV-Streaming und Programmzeitschrift in einem Bundle vereint: Für 4,99 Euro monatlich erhalten Kunden Waipu.tv Start inklusive Stick für zwölf Monate sowie ein Jahresabo der Funke-Programmzeitschrift \"TVdirekt\". Ziel ist die Erschließung neuer Zielgruppen, insbesondere Menschen, die beim Fernsehen Wert auf Orientierung und einfache Bedienung legen, wobei das Angebot vertraute Sehgewohnheiten mit modernem Streaming verbindet.",
-          "score": 8
+          "title": "HBO Max kündigt neues deutsches Original mit Max Riemelt an",
+          "link": "https://www.dwdl.de/nachrichten/108196/hbo_max_kuendigt_neues_deutsches_original_mit_max_riemelt_an/",
+          "summary": "HBO Max produziert mit \"A Decent Man\" ein neues deutsches Original, das in sechs Episoden toxische Männlichkeit, Schuld und generationenübergreifende Rollenbilder als psychologischen Thriller thematisiert. In der Hauptrolle spielt Max Riemelt, Regie führt Dustin Loose, die Bücher stammen von Florian Oeller, und die Produktion übernimmt UFA Fiction unter Produzentin Nataly Kudiabor. Die Serie ist inspiriert von der polnischen Vorlage \"Porządny człowiek\".",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "Freenet übernimmt IPTV-Anbieter waipu.tv komplett",
+          "link": "https://www.dwdl.de/nachrichten/108191/freenet_uebernimmt_iptvanbieter_waiputv_komplett/",
+          "summary": "Freenet hat die ausstehenden Minderheitsanteile von rund 25 Prozent an der Exaring AG, Betreiberin des IPTV-Anbieters waipu.tv, erworben und hält damit nun 100 Prozent der Anteile. Der initiale Kaufpreis beträgt rund 76 Mio. Euro (Unternehmensbewertung ca. 300 Mio. Euro), wobei performanceabhängige Nachzahlungen von bis zu 50 Mio. Euro möglich sind; finanziert wird die vollständig aus liquiden Mitteln gestemmte Transaktion. Mit dem Schritt stärkt Freenet IPTV als zentrale strategische Säule neben dem Mobilfunk-Kerngeschäft und setzt auf Wachstum durch steigende Kundenzahlen sowie Erlöspotenzi",
+          "score": 9
         },
         {
           "source": "Horizont Medien",
-          "title": "RTL-Partnerschaft: Der verlockende Pakt mit Youtube - und seine Folgen",
-          "link": "https://www.horizont.net/medien/kommentare/rtl-partnerschaft-der-verlockende-pakt-mit-youtube---und-seine-folgen-236201?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "RTL kooperiert mit YouTube und erzielt durch die Zweitverwertung von Content wie alten \"Alarm für Cobra 11\"-Folgen beachtliche Reichweiten (30 Millionen Views) sowie zweistellige Millionenerlöse. Der Artikel warnt jedoch kritisch davor, dass die langfristigen Kosten dieser Plattform-Abhängigkeit oft erst sichtbar werden, wenn es für Gegenmaßnahmen bereits zu spät ist.",
-          "score": 9
+          "title": "Wenn der Klick verschwindet: Wie Google und Open Attribution die Content-Vergütung neu erfinden",
+          "link": "https://www.horizont.net/medien/kommentare/wenn-der-klick-verschwindet-wie-google-und-open-attribution-die-content-verguetung-neu-erfinden-236175?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Google testet mit dem \"AI Contribution Model\" ein neues Vergütungssystem für Publisher, das sich von klassischen Klick-Metriken löst und stattdessen Inhalte belohnt, die einen signifikanten Beitrag zu KI-generierten Antworten leisten. In einem Gastbeitrag analysiert Markus Kellermann (CMO, MAI Group) die Auswirkungen dieses Modells auf Publisher und das digitale Marketing im Kontext einer zunehmend klickfreien Content-Nutzung.",
+          "score": 7
         },
         {
           "source": "kress",
-          "title": "Gerhard Zeiler verlässt den US-Medienkonzern Skydance Der österreichische Medienmanager Gerhard...",
-          "link": "https://kress.de/news/beitrag/156711-gerhard-zeiler-verlaesst-den-us-medienkonzern-skydance.html",
-          "summary": "Der 71-jährige österreichische Medienmanager Gerhard Zeiler verlässt noch im Oktober 2026 den durch die 110-Milliarden-Dollar-Übernahme von Warner Bros. Discovery entstandenen US-Konzern Skydance, wo er als President International tätig war. Hintergrund ist sein öffentlich gemachtes Interesse am SPÖ-Vorsitz, das zum angekündigten Rücktritt von Parteichef Andreas Babler führte – wenngleich nun Markus Marterbauer neuer Parteichef werden soll und Zeiler diesen unterstützen will. Zeiler blickt auf eine langjährige Medienkarriere zurück, unter anderem als neunjähriger CEO der RTL Group vor seinem Wechsel zu Time Warner im Jahr 2012.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "\"Aufmerksamkeit nicht einfach einkaufen\" Wie man Twitch geschickt als Werbekanal einsetzt",
-          "link": "https://meedia.de/news/beitrag/25234-wie-man-twitch-geschickt-als-werbekanal-einsetzt-und-wie-besser-nicht.html",
-          "summary": "Im Interview erläutert Nicole Lange, Product Manager kicker eSport beim Olympia-Verlag, warum Twitch für Marken und Medienhäuser zunehmend an Bedeutung gewinnt, um jüngere Zielgruppen zu erreichen. Entscheidend sei dabei nicht das reine Einkaufen von Reichweite, sondern der direkte Austausch mit der Community, die Qualität der Aufmerksamkeit und der sensible Umgang mit Creator-Content. Das Interview thematisiert zudem geeignete Werbeformen sowie typische Fehler, die Markenverantwortliche auf der Plattform vermeiden sollten.",
+          "title": "Bayerischer Rundfunk legt sich KI-Assistent zu Der Bayerische Rundfunk hat die KI-gestützte Anwendung \"Dein News-Assistent\" gestartet.",
+          "link": "https://kress.de/news/beitrag/156725-bayerischer-rundfunk-legt-sich-ki-assistent-zu.html",
+          "summary": "Der Bayerische Rundfunk hat mit „Dein News-Assistent\" eine KI-gestützte Anwendung gestartet, die ausschließlich auf journalistisch geprüften Inhalten von BR24 und tagesschau basiert und auf einer Retrieval-Augmented-Generation-Architektur (RAG) aufbaut. Das vom BR AI + Automation Lab in Zusammenarbeit mit der ARD Tech-Unit entwickelte Tool bietet KI-generierte Zusammenfassungen, Zeitleisten, Begriffserklärungen sowie einen quellenbasierten Chat. Laut ARD-Vorsitzendem Florian Hager soll die Anwendung zudem als Fundament für einen gemeinsamen Wissensraum der ARD dienen.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts \"Promi Big Brother\" besiegt \"Wer wird Millionär?\" und \"Die Höhle der...",
-          "link": "https://meedia.de/news/beitrag/25228-quot-promi-big-brother-quot-besiegt-quot-wer-wird-millionaer-quot-und-quot-die-hoehle-der-loewen-quot.html",
-          "summary": "Sat.1s \"Promi Big Brother\" dominierte am Montagabend die werberelevante Zielgruppe der 14- bis 49-Jährigen mit 0,40 Millionen Zuschauern und 10,7 Prozent Marktanteil und setzte sich damit gegen Formate wie \"Wer wird Millionär?\" und \"Die Höhle der Löwen\" durch. Im Gesamtpublikum siegte hingegen klar der ZDF-Krimi \"Sarah Kohr: Drecksarbeit\" mit 5,20 Millionen Zuschauern und starken 23,2 Prozent Marktanteil vor RTLs \"Wer wird Millionär?\" (2,56 Mio., 13,1 %).",
-          "score": 7
+          "title": "tv und wird damit alleinige Eigentümerin.",
+          "link": "https://meedia.de/news/beitrag/25240-freenet-uebernimmt-waipu-tv-vollstaendig.html",
+          "summary": "Die Freenet AG übernimmt für zunächst rund 76 Millionen Euro die ausstehenden 25 Prozent der Anteile an der IPTV-Plattform Waipu.tv und wird damit alleinige Eigentümerin; die Transaktion basiert auf einer Unternehmensbewertung von etwa 300 Millionen Euro, wobei bei entsprechender Geschäftsentwicklung weitere Zahlungen von bis zu 50 Millionen Euro hinzukommen können. CEO Robin Harries begründet den aus liquiden Mitteln finanzierten Kauf mit dem Wachstumspotenzial des deutschen IPTV-Marktes und einer günstigen Erwerbsgelegenheit. Im Zuge dessen sagt die bisherige Waipu.tv-Muttergesellschaft Exaring ihren geplan",
+          "score": 8
         },
         {
-          "source": "Guardian Media",
-          "title": "‘Universal appeal’: Celebrity Traitors producer reveals secrets to its success",
-          "link": "https://www.theguardian.com/tv-and-radio/2026/oct/13/universal-appeal-celebrity-traitors-producer-reveals-secrets-success",
-          "summary": "Die BBC-Realityshow Celebrity Traitors erreicht mit über 10 Millionen Zuschauern pro Episode außergewöhnlich hohe Einschaltquoten und etabliert sich laut Produzent Stephen Lambert (Studio Lambert) als \"Appointment-to-view TV\". Besonders bemerkenswert ist die Fähigkeit des Formats, auch junge Zielgruppen (1,6 Millionen der 16- bis 34-Jährigen bei der Premiere) zurück zum linearen Fernsehen zu holen und dem Trend schwindender Massenpublika im Streaming-Zeitalter entgegenzuwirken.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Steve Stark’s Toluca Pictures Extends MGM TV Overall Deal, Expands Amazon MGM Studios First-Look Pact & Taps Max Kisbye As President",
-          "link": "https://deadline.com/2026/10/steve-stark-toluca-pictures-mgm-tv-amazon-film-deals-1237155277/",
-          "summary": "Steve Starks Produktionsfirma Toluca Pictures hat ihren exklusiven Overall-Deal mit MGM Television mehrjährig verlängert und den First-Look-Pakt mit Amazon MGM Studios über Scripted-TV hinaus auf Spielfilme und Dokumentationen ausgeweitet. Als neuen President of Television & Film ernannte Stark den langjährigen MGM-Executive Max Kisbye, der Stacey Levin nachfolgt. Zusätzlich wurden die Entwicklungsexecutives Jessica Farrelly, Elan Fingles sowie Creative Executive Mia Stelling befördert.",
+          "source": "meedia",
+          "title": "Video Daily: TV-Quoten & Streaming-Charts \"Sommerhaus der Stars\" bei RTL so schwach wie nie Im Streaming bei RTL+ ist die Reality-Show “Das Sommerhaus der Stars” ein stabiler Erfolg. Linear hingegen schauen immer weniger zu. Am Dienstag waren es sogar so wenige wie nie. Selbst bei den 14- bis 49-Jährigen gab es mit 5,9 Prozent einen blamablen Marktanteil und nur Platz 7 der 20.15-Uhr-Tabelle",
+          "link": "https://meedia.de/news/beitrag/25239-quot-sommerhaus-der-stars-quot-bei-rtl-so-schwach-wie-nie.html",
+          "summary": "RTLs Reality-Show \"Das Sommerhaus der Stars\" verzeichnete am Dienstag mit nur 5,9 Prozent Marktanteil bei den 14- bis 49-Jährigen einen historischen Tiefstwert und landete lediglich auf Platz 7 der 20.15-Uhr-Tabelle, während das Format im Streaming bei RTL+ weiterhin stabil erfolgreich läuft. Linearer Tagessieger war die ARD-Serie \"Die Kanzlei\" mit 4,51 Millionen Zuschauern (21,5 Prozent), und bei den Netflix-Serien stieg die deutsche Produktion \"Die Falle\" auf Platz 2 ein.",
           "score": 9
         },
         {
           "source": "Deadline",
-          "title": "Fox Entertainment & Kevin Hart’s Hartbeat Strike Microdrama Deal",
-          "link": "https://deadline.com/2026/10/fox-entertainment-kevin-hart-hartbeat-microdrama-deal-1237155589/",
-          "summary": "Fox Entertainment und Kevin Harts Hartbeat kooperieren im Microdrama-Bereich: Fox Entertainment Studios erhält First-Look-Rechte für Film- und Serienadaptionen vertikaler Formate aus den Hartbeat-Marken Codeblack, Essence und Revolt, während Fox Entertainment Global den weltweiten Vertrieb übernimmt. Der Startschuss erfolgt mit 25 Live-Action-Titeln aus den Genres Thriller, Drama und Faith-Based, die über die von Holywater Tech betriebene Plattform My Drama veröffentlicht werden – ein Investment, an dem Fox bereits seit letztem Jahr beteiligt ist. Die beteiligten Marken bringen eine kombinierte Social-Media-Reichweite von über 20 Millionen Followern mit und",
+          "title": "Mongolian-German Feature ‘Zogsool’ Wins Big At Busan Film Festival’s Vision Awards",
+          "link": "https://deadline.com/2026/10/busan-vision-award-zogsool-mongolia-selvi-full-moon-1237156643/",
+          "summary": "Der mongolisch-deutsche Spielfilm „Zogsool\" von Regisseur Sakhya Byamba gewann bei den Vision Awards des Busan International Film Festivals vier Preise, darunter den Vision of Jiseok Award, den NETPAC- und den FIPRESCI-Award. Der auf den mongolischen Steppen gedrehte Film thematisiert die chaotischen Anfänge der Covid-Pandemie. Weitere Mehrfach-Gewinner waren das koreanische Werk „Full Moon\" von Jeong Jihye sowie indische Produktionen wie das tamilische Drama „Selvi\".",
+          "score": 10
+        },
+        {
+          "source": "Deadline",
+          "title": "Netflix Layoffs Underway, Streamer Cutting 1,000 Jobs, 6% Of Its Workforce",
+          "link": "https://deadline.com/2026/10/netflix-layoffs-underway-1237156351/",
+          "summary": "Netflix hat eine umfassende Entlassungsrunde eingeleitet und streicht rund 1.000 Stellen bzw. 6% seiner globalen Belegschaft – der größte Stellenabbau seit vier Jahren. Am stärksten betroffen sind die Bereiche Produkt, Technik, Recht und HR, während der Streaming-Gigant mit verlangsamtem Wachstum und zunehmendem Wettbewerb konfrontiert ist. Vor dem Hintergrund eines um über 40% gesunkenen Aktienkurses im vergangenen Jahr betonen die Co-CEOs Ted Sarandos und Greg Peters die Notwendigkeit disziplinierter Ressourcenallokation bei gleichzeitig weiterhin stabiler Geschäftsprognose.",
+          "score": 10
+        },
+        {
+          "source": "Deadline",
+          "title": "Moby, Hannah Stocking & Adam Rose Set For Microdrama Slate From TikTok & Made By Us Studios",
+          "link": "https://deadline.com/2026/10/tiktok-made-by-us-microdrama-hannah-stocking-adam-rose-moby-1237155360/",
+          "summary": "TikTok und Made By Us Studios haben eine mehrjährige Partnerschaft zur Produktion creator-geführter Mikro-Serien für TikTok und dessen App PineDrama geschlossen, wobei prominente Digital- und Musikstars wie Hannah Stocking, Adam Rose und Moby beteiligt sind. Die ersten beiden Produktionen umfassen den Rache-Thriller \"Player\" und die Genre-Serie \"The Knock\", die auf der MIPCOM vorgestellt wurden. Der Deal unterstreicht den wachsenden strategischen Stellenwert von Vertical Video und Mikrodramen bei großen Social-Media-Plattformen, nachdem bereits TikToks Kooperation mit Issa Raes Hoorae (\"Screen Time\") mit knapp 580 Millionen Views erfolgreich war.",
           "score": 8
         },
         {
           "source": "Deadline",
-          "title": "Fox Boss Rob Wade Commits Long Term To Creator Studios: “We’re Not Here To Flip A House”",
-          "link": "https://deadline.com/2026/10/fox-boss-rob-wade-creator-studio-gordon-ramsay-youtube-1237149939/",
-          "summary": "Fox Entertainment CEO Rob Wade bekennt sich langfristig zu den Fox Creator Studios (FCS) und grenzt sich damit von Wettbewerbern ab, die laut Wade im Creator- und KI-Bereich vor allem auf schnelle Verkäufe setzen – FCS werde Fox dagegen nie veräußern. Die Anfang des Jahres vorgestellte „Digital-first-Division“ – mit einem von Gordon Ramsay angeführten Food-Roster – verfolgt das Ziel, einen „Weg zur IP-Schöpfung im Internet“ zu schaffen, und kooperiert genreübergreifend mit Creatorn, deren Inhalte nicht zwingend exklusiv auf Fox-Plattformen wie Tubi laufen sollen.",
-          "score": 7
+          "title": "Ben Frow To Leave Skydance’s UK Network 5 After 14 Years",
+          "link": "https://deadline.com/2026/10/ben-frow-leave-5-skydance-14-years-1237156504/",
+          "summary": "Ben Frow, mit 14 Jahren dienstältester Content-Chef des britischen Senders 5 (ehemals Channel 5), wird seine Rolle als Chief Content Officer von Paramount UK im Sommer 2027 verlassen, bleibt jedoch bis Ende nächsten Jahres bei Skydance beschäftigt. Sein freiwilliger Abgang erfolgt nur eine Woche nach Abschluss der 110-Milliarden-Dollar-Fusion von Paramount mit Warner Bros. Discovery, die eine umfassende Umstrukturierung der Führungsebene auslöste. Übergangsweise übernimmt CBS-COO Bryon Rubin die Verantwortung für 5 sowie das australische Network Ten, während JB Perrette künftig Streaming und Networks außerhalb der USA leitet.",
+          "score": 8
         },
         {
-          "source": "Deadline",
-          "title": "Katherine Waterston Joins Post-9/11 Limited Series ‘The Best Of Us’",
-          "link": "https://deadline.com/2026/10/katherine-waterston-cast-the-best-of-us-1237155248/",
-          "summary": "Katherine Waterston schließt sich dem Cast der sechsteiligen Paramount+-Limited-Series „The Best of Us\" an, in der sie neben Jeremy Strong die Rolle der Anwältin und bald Ex-Frau Amy Smith spielt. Die in New York gedrehte Serie der Autoren Tobias Lindholm und Frank Pugliese dramatisiert den jahrelangen Rechtsstreit, der erkrankten 9/11-Ersthelfern nahezu eine Milliarde Dollar Entschädigung sicherte. Zur weiteren Besetzung gehören unter anderem Barry Pepper, Andrea Riseborough, Gaby Hoffmann und John Slattery.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Critics Choice Documentary Awards Nominations: ‘14th’ Nabs 6; Elizabeth Holmes Doc, ‘Once Upon A Time In Harlem’, ‘Nuisance Bear’ Land 5 Each",
-          "link": "https://deadline.com/2026/10/critics-choice-documentary-awards-2026-nominations-1237155430/",
-          "summary": "Bei den 11. Critics Choice Documentary Awards führt Ava DuVernays „14th“ über drohende Angriffe auf den 14. Verfassungszusatz mit sechs Nominierungen das Feld an, darunter in den Kategorien Beste Dokumentation, Beste Regie und Bestes Drehbuch. Mit jeweils fünf Nominierungen folgen „You Can See Everything“ (die Elizabeth-Holmes-Doku von Nathan Fielder und Lance Oppenheim), „Once Upon a Time in Harlem“ und „Nuisance Bear“. Weitere Produktionen wie „Everest: The Other Side“ und „The History of Concrete“ erhielten je vier Nominierungen.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Discovery+ Raises Prices In One Of Skydance’s First Streaming Moves After Merger Close",
-          "link": "https://deadline.com/2026/10/discovery-plus-raising-prices-skydance-streaming-1237155671/",
-          "summary": "Als eine der ersten Streaming-Maßnahmen nach dem Abschluss der Paramount-Warner-Bros.-Discovery-Fusion hat Skydance die Preise des eigenständigen Dienstes Discovery+ erhöht: Die werbefinanzierte Basisstufe kostet nun 6,99 Dollar (+1 Dollar), die werbereduzierte Stufe 11,99 Dollar (+2 Dollar). Die Erhöhung dient dem Schuldenabbau des mit rund 80 Milliarden Dollar belasteten Konzerns, der zudem 6 Milliarden Dollar Kosteneinsparungen durch Effizienzmaßnahmen, Immobilienverkäufe und Stellenabbau anstrebt. Discovery+ bleibt – im Gegensatz zu HBO Max – eine günstigere,",
+          "source": "Hollywood Reporter",
+          "title": "Netflix Lays Off Around 1,000 Employees In Largest Cuts Since 2022",
+          "link": "https://www.hollywoodreporter.com/business/business-news/netflix-hit-layoffs-growth-slows-1236720435/",
+          "summary": "Netflix streicht rund 1.000 Stellen (etwa 6 Prozent der Belegschaft) – der größte Personalabbau seit 2022 –, wobei vor allem die Bereiche Produkt, Technik, Recht und HR betroffen sind. Trotz weiterhin robuster Gewinne begründen die Co-CEOs Ted Sarandos und Greg Peters den Schritt mit der Notwendigkeit einer fokussierten Ressourcenverteilung, da das Wachstum und die Sehdauer zuletzt stagnierten. Das wachsende Werbegeschäft erfordert dabei eine Steigerung des Nutzerengagements, während das Unternehmen an seiner Jahresprognose festhält.",
           "score": 9
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Fox Entertainment and Hartbeat Ink Deal to Mine Microdramas for Film and TV Adaptation",
-          "link": "https://www.hollywoodreporter.com/business/business-news/fox-entertainment-hartbeat-microdramas-film-tv-adaptation-1236728410/",
-          "summary": "Fox Entertainment Studios hat eine First-Look-Vereinbarung mit Kevin Harts Firma Hartbeat geschlossen, um Microdramas der Marken Codeblack, Essence und Revolt für Film- und TV-Adaptionen zu nutzen. Den Auftakt bilden 25 Projekte auf der Microdrama-App My Drama (von Holywater, an der Fox beteiligt ist), wo zudem ein neuer Codeblack-Kanal startet. Fox verfolgt damit einen datengetriebenen Ansatz zur IP-Entwicklung, indem der Publikumserfolg vertikaler Serien in Echtzeit getestet wird, bevor erfolgversprechende Stoffe in größere Formate überführt werden.",
+          "title": "TikTok Inks Second Major Microdrama Deal, Partners With Made By Us Studios",
+          "link": "https://www.hollywoodreporter.com/business/business-news/tiktok-second-microdrama-agreement-made-by-us-studios-1236729095/",
+          "summary": "TikTok vertieft sein Engagement im Microdrama-Format durch eine Partnerschaft mit Made By Us Studios, der Produktionssparte der Creator-Management-Agentur Made By All, zur Koproduktion creator-geführter vertikaler Serien für TikTok und die Microdrama-App PineDrama. Es handelt sich um TikToks zweiten großen Microdrama-Deal nach der Zusammenarbeit mit Issa Raes Hoorae Media im April. Auf der MIPCOM wurden bereits die ersten beiden Projekte vorgestellt: der Thriller „Player“ mit Creatorin Hannah Stocking sowie die Genre-Microserie „The Knock“ mit Adam Rose und Zaria Simone.",
           "score": 8
         },
         {
-          "source": "Hollywood Reporter",
-          "title": "Fox Entertainment, Kevin Hart’s Hartbeat Sign Vertical Drama Deal",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/kevin-hart-hartbeat-sign-vertical-drama-deal-fox-1236728521/",
-          "summary": "Fox Entertainment und Kevin Harts Produktionsfirma Hartbeat haben eine Partnerschaft geschlossen, die Fox First-Look-Rechte an vertikalen Kurzformat-Serien der Hartbeat-Labels Codeblack, Essence und Revolt sichert, um daraus Film- und TV-Projekte zu entwickeln. Der Startschuss fällt mit 25 Live-Action-Titeln aus den Genres Thriller, Drama und Glaube, die auf einem neuen Codeblack-Kanal der von Holywater Tech betriebenen Vertical-Video-Plattform My Drama premieren. Das Konzept nutzt die vertikalen Dramen als Testfeld, um Geschichten und Charaktere beim Publikum zu erproben, bevor in längere Formate wie Spielfilme oder TV-Ser",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "‘Queen Silvia’ Ditches the Glass Slipper for Un-Cinderella Royal Romance",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/queen-silvia-royal-romance-mipcom-1236728603/",
-          "summary": "Die sechsstündige Limited Series „Queen Silvia“ – eine Koproduktion von Berlins Pyjama Pictures und Schwedens Unlimited Stories – feiert ihre Weltpremiere auf der Mipcom und erzählt die reale Liebesgeschichte zwischen der deutsch-brasilianischen Dolmetscherin Silvia Sommerlath und Schwedens Kronprinz Carl Gustaf, die sich bei den Olympischen Spielen 1972 in München kennenlernten. Statt eines klassischen Cinderella-Märchens zeigt die Serie unter der Regie von Miguel Alexandre eine unabhängige, karrierebewusste Protagonistin (gespielt von Alicia von Rittberg), die mit den Erwartungen der royalen Welt ringt. Die Handlung spannt sich vom München der",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "From ‘KPop Demon Hunters’ to a Stick-Figure YouTuber: THR’s First Animation Power List",
-          "link": "https://www.hollywoodreporter.com/lists/2026-animation-power-list/",
-          "summary": "The Hollywood Reporter lanciert seine erste \"Animation Power List\" – eine kuratierte Momentaufnahme der einflussreichsten Akteure der Animationsbranche über Film, TV und Online-Plattformen hinweg. Die Auswahl berücksichtigt neben kommerziellen Kennzahlen (Box Office, Einschaltquoten) bewusst auch schwerer messbare Einflussfaktoren wie ästhetische Trendsetzung, innovative Geschäftsmodelle und Talentförderung, und würdigt dabei sowohl Studiochefs und Star-Regisseure als auch oft übersehene Fachkräfte wie Character-Designer und FX-Supervisoren. Die Liste spiegelt die zunehmende Diversifizierung und Globalisierung der Branche wider – von Netflix-Phänomenen über chinesische",
+          "source": "Variety",
+          "title": "Apple TV’s Hit German Series ‘Where’s Wanda?’ Returns for Season 2, Again Asking: ‘How Far Would You Go to Save Your Child?’",
+          "link": "https://variety.com/2026/tv/global/apple-tv-wheres-wanda-ufa-fiction-mipcom-1236911062/",
+          "summary": "Apple TVs erste deutsche Serie „Where's Wanda?\" geht nach dem Erfolg der ersten Staffel in die zweite Runde, produziert von UFA Fiction unter Managing Director Nataly Kudiabor und erneut geschrieben von Oliver Lansley („Flack\"). Die Dark Comedy setzt die Geschichte der Familie Klatt fort, deren vermisste Tochter Wanda zwar gefunden wurde, nun aber – über einer Leiche stehend aufgegriffen – im Gefängnis landet. Die Serie punktet laut Kudiabor mit ihrem prominenten Ensemble (u.a. Heike Makatsch, Axel Stein) und dem zentralen Spannungsmotiv, wie weit Eltern zur Rettung ihres Kindes gehen würden.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Kevin Hart’s Hartbeat Inks Vertical Series Deal With Fox Entertainment",
-          "link": "https://variety.com/2026/tv/global/kevin-harts-heartbeat-vertical-fox-entertaiment-1236909809/",
-          "summary": "Kevin Harts Produktionsfirma Hartbeat hat einen Deal für Vertical Series mit Fox Entertainment abgeschlossen, der Fox Entertainment Studios First-Look-Rechte zur Entwicklung von Filmen und TV-Serien aus den Hartbeat-Submarken Codeblack, Essence und Revolt (zusammen über 20 Millionen Social-Media-Follower) sichert. Die Vertical Series starten zunächst auf der Plattform My Drama des Fox-Partners Holywater Tech, bevor Fox Entertainment Global sie weltweit vertreibt. Bereits 25 Live-Action-Titel verschiedener Genres befinden sich in Arbeit und dienen als erste Stufe der IP-Entwicklung für mögliche Film- und TV-Adaptionen.",
-          "score": 7
+          "title": "Netflix Lays Off 6% of Employees, Elimination About 1,000 Jobs in Biggest Cutbacks to Date",
+          "link": "https://variety.com/2026/tv/news/netflix-layoffs-1000-employees-1236911239/",
+          "summary": "Netflix entlässt rund 1.000 Mitarbeiter (6% der Belegschaft) in seinem bislang größten Stellenabbau, der vorrangig die Bereiche Produkt, Technologie, Recht und HR betrifft. Trotz zweistelligen Wachstums bei Umsatz (45,2 Mrd. USD, +16%) und Nettogewinn (11 Mrd. USD, +26%) im Jahr 2025 begründet das Co-CEO-Duo Sarandos und Peters den Schritt mit der Notwendigkeit einer disziplinierten Ressourcenpriorisierung – vor dem Hintergrund von Investorenbedenken über eine nachlassende Nutzerbindung pro Kopf im ersten Halbjahr 2026.",
+          "score": 9
         },
         {
           "source": "Variety",
-          "title": "’14th,’ ‘You Can See Everything’ and ‘Once Upon a Time in Harlem’ Lead Critics Choice Documentary Awards Nominations",
-          "link": "https://variety.com/2026/film/awards/critics-choice-documentary-awards-nominations-2026-1236909304/",
-          "summary": "Ava DuVernays „14th\" führt die diesjährigen Critics Choice Documentary Awards-Nominierungen mit sechs Nennungen an, gefolgt von „You Can See Everything\", „Nuisance Bear\", „Once Upon a Time in Harlem\" und „Rehearsals for a Revolution\" mit je fünf Nominierungen. Unter den Distributoren dominiert Netflix mit 17 Nominierungen deutlich vor Neon mit neun. Die Preisverleihung findet in ihrem 11. Jahr am 8. November im Edison statt.",
-          "score": 7
+          "title": "Ventana Sur Proyecta 2026: A Powerhouse New Generation Lineup Backed by Some of Latin America’s Finest Producers",
+          "link": "https://variety.com/2026/film/markets-festivals/ventana-sur-proyecta-2026-latin-americas-rising-talent-1236911203/",
+          "summary": "Das Ventana Sur Proyecta 2026 Koproduktionsforum präsentiert zwölf Projekte von Erst- und Zweitregisseuren, die von renommierten lateinamerikanischen Produzenten wie Rei Pictures, Piano und Luxbox unterstützt werden. Prominente Besetzungen umfassen die brasilianische Schauspielerin Maeve Jinkings („I'm Still Here\") in „Cabildo 71\" und Natalia Oreiro in „The Other Mountain\". Das Forum wird in Partnerschaft mit dem Festival von San Sebastián und dem Marché du Film von Cannes durchgeführt.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "‘Forensic Files’ to Resume Original Production Amid the Streaming Boom for Vintage True Crime Series",
+          "link": "https://variety.com/2026/tv/news/forensic-files-new-episodes-radial-content-partners-itv-1236911130/",
+          "summary": "Radial Entertainment produziert gemeinsam mit Content Partners und ITV Studios 20 neue Episoden der True-Crime-Serie „Forensic Files“, um das 400 Folgen umfassende Bestandsarchiv wiederzubeleben und neue Zuschauer zu gewinnen. Flankiert werden die Neuproduktionen durch eine gezielte SEO-Offensive über mehrere digitale Plattformen – ein Modell, das Radial bereits bei der Serie „The FBI Files“ anwendet. Die Strategie zielt auf die wachsende Nachfrage nach klassischen True-Crime-Formaten im werbefinanzierten Streaming-Markt ab.",
+          "score": 9
+        },
+        {
+          "source": "Variety",
+          "title": "Ben Frow Stepping Down as Chief Content Officer of 5, Skydance’s U.K. Network, After 14 Years",
+          "link": "https://variety.com/2026/tv/global/ben-frow-exiting-chief-content-officer-5-skydance-uk-network-1236911166/",
+          "summary": "Ben Frow, Chief Content Officer des Skydance-eigenen britischen Senders 5 (ehemals Channel 5), tritt nach 14 Jahren zurück: Er gibt seine operative Rolle im kommenden Sommer ab und verlässt das Unternehmen Ende 2027. Der Sender unter Leitung von Präsidentin Reemah Sakaan sucht einen neuen Kreativchef, der Frows Nachfolge antritt, der Formate wie „The Yorkshire Vet“ und „Cruising With Jane McDonald“ verantwortet hat.",
+          "score": 8
         }
       ]
     }
