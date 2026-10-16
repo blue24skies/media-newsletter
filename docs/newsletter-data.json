@@ -1,154 +1,133 @@
 {
   "newsletters": [
     {
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Ehemaliger Unions-Politiker Marco Wanderwitz wird FFA-Vorstand",
-          "link": "https://www.dwdl.de/nachrichten/108217/ehemaliger_unionspolitiker_marco_wanderwitz_wird_ffavorstand/",
-          "summary": "Der ehemalige CDU-Politiker Marco Wanderwitz wurde vom Verwaltungsrat der Filmförderanstalt (FFA) einstimmig zum neuen Vorstand bestellt und tritt sein Amt Mitte 2027 als Nachfolger von Peter Dinges an, der die FFA seit 2004 geführt hatte. Wanderwitz, langjähriger kultur- und medienpolitischer Sprecher der Unionsfraktion und an der Novellierung des Filmförderungsgesetzes beteiligt, übernimmt die Institution in einer schwierigen Phase: Die Fördermittel waren bereits 2026 ausgeschöpft und sinken 2027 von 250 auf 200 Millionen Euro.",
+          "title": "ARD-Polizeiserie \"Spuren\" erhält eine zweite Staffel",
+          "link": "https://www.dwdl.de/nachrichten/108238/ardpolizeiserie_spuren_erhaelt_eine_zweite_staffel/",
+          "summary": "Der SWR produziert mit \"Spuren II\" eine zweite Staffel seiner erfolgreichen Polizeiserie, die im Südschwarzwald gedreht wird und erneut Nina Kunzendorf und Tilman Strauß in den Hauptrollen zeigt. Das bewährte Team um Drehbuchautoren Robert Hummel und Martina Mouchot sowie Regisseur Stefan Krohmer setzt dabei weiterhin auf realistische Polizeiarbeit und thematisiert in vier neuen Folgen sexualisierte Gewalt in vorgeblich beschützender Umgebung. Die erste Staffel erreichte Anfang 2025 im Ersten durchschnittlich fast sechs Millionen Zuschauer und war auch in der Mediathek erfolgreich.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "ZDF weist Vorwürfe von Sebastian Lege zurück",
-          "link": "https://www.dwdl.de/nachrichten/108208/zdf_weist_vorwuerfe_von_sebastian_lege_zurueck/",
-          "summary": "Das ZDF weist Vorwürfe des Lebensmittel-Experten Sebastian Lege zurück, der dem Sender im Podcast \"Dr. Riemer\" vorgeworfen hatte, neue Formatideen abgeschmettert und auf mehr Moderation statt fachlicher Tiefe gedrängt zu haben. Der Sender verweist auf eine erfolgreiche 13-jährige Zusammenarbeit mit kontinuierlichen Formatweiterentwicklungen und erklärt, man hätte die Kooperation gerne \"zu angemessenen Konditionen\" fortgesetzt. Lege wechselt ab 2027 exklusiv zu RTL, wo er seine Formate künftig mit einer eigenen Produktionsfirma realisiert.",
-          "score": 7
+          "title": "Polnischer Sender TVP wird 15. Arte-Partnersender",
+          "link": "https://www.dwdl.de/nachrichten/108237/polnischer_sender_tvp_wird_15_artepartnersender/",
+          "summary": "Der polnische öffentlich-rechtliche Sender TVP ist als 15. Partnersender dem europäischen Arte-Netzwerk beigetreten; Arte-Präsidentin Heike Hempel und TVP-Generaldirektor Tomasz Sygut unterzeichneten dazu ein Assoziierungsabkommen. Auf dieser Basis sollen künftig verstärkt Koproduktionen entstehen, zudem erhält TVP – wie die übrigen Partnersender – beratende Stimme in den wichtigsten Arte-Gremien. Die Kooperation wird als Stärkung der Zusammenarbeit im Weimarer Dreieck und als Beitrag zur Resilienz öffentlich-rechtlicher Medien gegen Desinformation gewertet.",
+          "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Netflix kündigt Streichung von rund 1.000 Stellen an",
-          "link": "https://www.dwdl.de/nachrichten/108201/netflix_kuendigt_streichung_von_rund_1000_stellen_an/",
-          "summary": "Netflix streicht weltweit rund 1.000 Stellen (etwa sechs Prozent der Belegschaft), vor allem in den Bereichen Produkt, Technologie, Recht und Personalwesen – der größte Stellenabbau seit 2022. Hintergrund sind ein schwieriges Marktumfeld mit nur zweiprozentigem Wachstum der Streamingstunden, ein Kursverlust von über 40 Prozent und die gescheiterte Warner-Bros.-Übernahme. Strategisch setzt der Konzern verstärkt auf neue Erlösquellen wie Live-Events, Sport, Video-Podcasts und Creator-Inhalte sowie Preiserhöhungen und Bundles.",
+          "title": "Netflix trennt sich von Content-Chefin Bela Bajaria",
+          "link": "https://www.dwdl.de/nachrichten/108234/netflix_trennt_sich_von_contentchefin_bela_bajaria/",
+          "summary": "Netflix trennt sich im Zuge des größten Stellenabbaus seiner Geschichte (rund 1.000 Stellen) von Content-Chefin Bela Bajaria, die seit 2016 beim Streamer tätig und seit Anfang 2023 Chief Content Officer war. Hintergrund dürften wachsende Kritik an der inhaltlichen Aufstellung sowie Engagement-Probleme sein – sichtbar auch am drastischen Rückgang der Emmy-Auszeichnungen von einem Rekordwert von 44 (2021) auf nur noch 16 in diesem Jahr, womit Netflix hinter Apple TV und HBO Max zurückfiel.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Love Island VIP\" muss Sendeplatz um 20:15 Uhr räumen",
+          "link": "https://www.dwdl.de/nachrichten/108230/love_island_vip_muss_sendeplatz_um_2015_uhr_raeumen/",
+          "summary": "RTLzwei verlegt die Realityshow \"Love Island VIP\" aufgrund schwacher linearer Quoten (nur 150.000 Zuschauer, 1,9 bzw. 2,6 Prozent in der Zielgruppe) ab dem 22. Oktober vom 20:15-Uhr-Sendeplatz auf 22:15 Uhr, während die Dokusoap \"Zuhause im Glück\" die Primetime übernimmt. Infolge der Umstellung rutschen auch \"Stranger Sins\" (1:30 Uhr) und \"Maison Tabou\" (0:35 Uhr) in den Spätnachtbereich. Der Schritt folgt der Strategie von Geschäftsführer Thorsten Braun, Streaming und lineares Fernsehen künftig getrennt zu betrachten – im Streaming via RTL+ ist das Format we",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Drehstart für zweiten Schwarzwald-\"Tatort\" von Giganten Film",
+          "link": "https://www.dwdl.de/nachrichten/108222/drehstart_fuer_zweiten_schwarzwaldtatort_von_giganten_film/",
+          "summary": "In Baden-Baden haben die Dreharbeiten zum zweiten Schwarzwald-\"Tatort\" (Arbeitstitel \"Die Lüge\") begonnen, den Giganten Film im Auftrag des SWR produziert, nachdem der Sender die Herstellung der Krimireihe in diesem Jahr ausgelagert hatte. Unter der Regie von Sebastian Marka und nach einem Drehbuch von Erol Yesilkaya dreht sich die als Kammerspiel im Polizeipräsidium angelegte Folge um eine mordverdächtige Frau, die von den Kommissaren Tobler und Berg (Eva Löbau und Hans-Jochen Wagner) zum Geständnis bewegt werden soll. Der Dreh läuft noch bis Anfang November.",
           "score": 9
         },
         {
-          "source": "DWDL",
-          "title": "\"Forsthaus Rampensau\" wandert zu Sixx und in die Primetime",
-          "link": "https://www.dwdl.de/nachrichten/108197/forsthaus_rampensau_wandert_zu_sixx_und_in_die_primetime/",
-          "summary": "Die Realityshow \"Forsthaus Rampensau\" wechselt ab dem 6. November von ProSieben zu Sixx und Joyn und kehrt mit dem neuen Sendeplatz freitags um 20:15 Uhr in die Primetime zurück – ein Schritt, der zur post-MFE-Strategie einer Aufwertung des linearen Programms passt. Produziert wird die von Madame Zheng umgesetzte Staffel erneut mit prominent besetzten Paaren, darunter Claudia Obert und Theresia Fischer, die noch nichts von ihrer gemeinsamen Teilnahme wissen.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Andrea Lange bekommt Blauen Panther für \"The Summit\"",
-          "link": "https://www.dwdl.de/nachrichten/108186/andrea_lange_bekommt_blauen_panther_fuer_the_summit/",
-          "summary": "Die Prime-Video-Show \"The Summit - Der steile Weg zur Million\" wird beim Blauen Panther als \"bestes Entertainment-Format\" ausgezeichnet, wobei der Preis konkret an Executive Producerin Andrea Lange von Banijay Productions Germany geht. Die Jury lobte insbesondere die Verbindung von körperlichen Herausforderungen, strategischen Entscheidungen und sozialen Dynamiken, die das Format von klassischen Wettbewerben abhebe. Verliehen wird der bayerische TV- und Streaming-Award am 21. Oktober in München bei einer von Esther Sedlaczek moderierten Award-Show.",
-          "score": 7
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Neue Self-Booking-Plattform: Auch Esome steigt ins Rennen um den Mittelstand ein",
-          "link": "https://www.horizont.net/medien/nachrichten/neue-self-booking-plattform-auch-esome-steigt-ins-rennen-um-den-mittelstand-ein-236232?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der Digitalmarketing-Spezialist Esome startet eine neue Self-Booking-Plattform, die Werbung auf Streaming-Diensten wie Netflix, Prime Video und Joyn für kleine und mittelständische sowie lokale Unternehmen zugänglich machen soll. Damit positioniert sich Esome im wachsenden Wettbewerb um den bislang schwer erreichbaren Mittelstand im CTV-/Streaming-Werbemarkt.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Der neue Türsteher der Kaufentscheidung: Wie KI-Assistenten die nächste Stufe der Plattformmacht einläuten",
-          "link": "https://www.horizont.net/medien/talkingheads/der-neue-tuersteher-der-kaufentscheidung-wie-ki-assistenten-die-naechste-stufe-der-plattformmacht-einlaeuten-236216?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "KI-Assistenten entwickeln sich zunehmend zum entscheidenden Gatekeeper der Kaufentscheidung und läuten damit eine neue Stufe der Plattformmacht ein. Während die Medienbranche – wie beim HORIZONT Werbewirkungsgipfel deutlich wurde – noch um gemeinsame Standards bei Reichweite, Vergleichbarkeit und Transparenz ringt, verschiebt sich laut RMS-CEO Stefan Mölling die eigentliche Machtfrage bereits hin zur direkten Steuerung von Kaufentscheidungen durch KI.",
+          "source": "kress",
+          "title": "FAZ, Handelsblatt, SZ und Zeit wollen Vermarkter gründen",
+          "link": "https://kress.de/news/beitrag/156801-faz-handelsblatt-sz-und-zeit-wollen-vermarkter-gruenden.html",
+          "summary": "Die vier überregionalen Qualitätsmedien FAZ, Handelsblatt, SZ und Zeit planen die Gründung eines gemeinsamen Vermarkters mit gleichmäßiger Beteiligung von je 25 Prozent, in den bestehende Strukturen wie IQ Digital, IQ Media und das Joint Venture Republic einfließen sollen. Ziel ist es, angesichts eines schwierigen Werbemarkts und abwandernder Budgets zu digitalen Plattformen und KI-Anbietern gebündelte Reichweite aus einer Hand anzubieten. Das Vorhaben steht noch unter dem Prüfvorbehalt des Bundeskartellamts.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Neues Self-Booking-Tool Esome öffnet Netflix, Amazon und Co.",
-          "link": "https://meedia.de/news/beitrag/25251-esome-oeffnet-netflix-amazon-und-co-fuer-kleinere-werbekunden.html",
-          "summary": "Esome startet eine Self-Booking-Plattform, über die kleine und mittelständische sowie lokale Unternehmen Werbung auf Streaming-Diensten wie Netflix, Prime Video, Joyn und YouTube ab einem Budget von 3.000 Euro eigenständig planen und buchen können. Das Tool übernimmt Aussteuerung, Optimierung und technische Abwicklung und unterstützt optional bei der Spot-Produktion, um bislang agenturgebundene Premium-Streaming-Werbung auch für kleinere Werbekunden zugänglich zu machen. Damit folgt Esome einem Trend, den Wettbewerber wie Seven.One und Crossvertise bereits mit ähnlichen Angeboten angestoßen haben.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Auch der internationale Filmchef Doug Belgrad betroffen Netflix streicht rund 1.000 Stellen Der Streamer Netflix verschärft seinen Sparkurs und streicht weltweit rund 1.000 Arbeitsplätze. Das entspricht etwa sechs Prozent der Belegschaft. Es ist der größte Stellenabbau des Konzerns seit 2022. Nach Unternehmensangaben von Ende 2025 beschäftigte Netflix rund 16.000 Menschen. Betroffen sind unter anderem die Bereiche Personal, Recht und Technologie. Auch in der Filmabteilung kommt es zu Einschnitten",
-          "link": "https://meedia.de/news/beitrag/25249-netflix-streicht-rund-1-000-stellen.html",
-          "summary": "Netflix streicht weltweit rund 1.000 Stellen – etwa sechs Prozent der Belegschaft und damit den größten Stellenabbau seit 2022 –, wobei neben den Bereichen Personal, Recht und Technologie auch die Filmabteilung betroffen ist. Prominentestes Opfer ist Film-VP Doug Belgrad (ehemals Columbia-Pictures-Präsident), der die Eigenproduktionen von Realfilmen verantwortete; auch Independent-Film-Direktorin Sheroum Kim soll gehen. Hintergrund ist ein verlangsamtes Wachstum trotz weiterhin marktführender 325 Millionen Kundenhaushalten und zunehmender Wettbewerbsdruck nach der Warner-Bros.-Discovery-Übernahme.",
+          "title": "1 auf mehr Kundennähe, datenbasierte Produkte, neue Mittelstandsangebote und die europäische Vernetzung mit Media for Europe.",
+          "link": "https://meedia.de/news/beitrag/25259-seven-one-media-draengt-zurueck-in-den-wachstumsmodus.html",
+          "summary": "Seven.One Media, der Vermarkter von ProSiebenSat.1, strebt unter CEO Nicola Lussana zurück in den Wachstumsmodus und will Umsatz, Reichweite sowie Kundenbasis durch mehr Kundennähe, datenbasierte Werbeprodukte und gezielte Mittelstandsangebote ausbauen. Zentrale Hebel sind dabei die engere Verzahnung von linearem TV, Streaming und Connected TV sowie die europäische Vernetzung mit dem neuen Mehrheitseigner Media for Europe (MFE). Damit soll nach Jahren wechselnder Strategien und Führungen verlorenes Marktvertrauen zurückgewonnen werden.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Neue TKP-Preise Wie ARD Media das Audio-Portfolio fürs nächste Jahr ausbaut Mit zusätzlichen Sendern, dem Comeback der Deutschland-Kombi Young und flexibleren Werbemöglichkeiten möchte der Vermarkter ARD Media seine nationalen Audio-Angebote stärken. Die Deutschland-Kombi kommt künftig auf mehr als 120 Millionen Kontakte täglich. Wie ARD-Media-Chef Ralf Hape bei den Paketen genau umschichtet",
-          "link": "https://meedia.de/news/beitrag/25248-wie-ard-media-das-audio-portfolio-fuers-naechste-jahr-ausbaut.html",
-          "summary": "ARD Media baut sein nationales Audio-Vermarktungsportfolio für 2027 auf 14 Kombis aus, erweitert die Deutschland-Kombi um rbb 88.8 und SWR Aktuell (nun über 120 Millionen Kontakte täglich, +2,1 Prozent) und bringt die Deutschland-Kombi Young mit 13 Sendern zurück. Der TKP der Deutschland-Kombi liegt in der Zielgruppe 14–59 Jahre bei 5,57 Euro, womit sie laut Vermarkter das wirtschaftlichste nationale Radioangebot darstellt. Zusätzlich wird SWR Aktuell ab 2027 auch Teil der Deutschland-Kombi Entscheider.",
+          "title": "Beim Bundeskartellamt angemeldet \"FAZ\", \"Handelsblatt\", \"SZ\" und \"Zeit\" wollen gemeinsamen...",
+          "link": "https://meedia.de/news/beitrag/25255-quot-faz-quot-quot-handelsblatt-quot-quot-sz-quot-und-quot-zeit-quot-wollen-gemeinsamen-werbevermarkter-gruenden.html",
+          "summary": "Die Verlage von „FAZ\", „Handelsblatt\", „SZ\" und „Zeit\" haben beim Bundeskartellamt die Gründung eines gemeinsamen Werbevermarkters angemeldet, an dem jeder Partner voraussichtlich 25 Prozent halten soll. Dafür werden bestehende Strukturen wie die Digitalvermarktung IQ Digital, der Printvermarkter IQ Media sowie das Joint Venture Republic zusammengeführt, um durch erhöhte Reichweite und Kosteneffekte die Wettbewerbsposition gegenüber internationalen Plattformen zu stärken.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Werbeholdings nach Omnicom-IPG-Deal Publicis-Chef Sadoun: “Immer mehr Kunden wissen genau, was sie wollen” Seit der Übernahme von IPG durch Omnicom gibt es nur noch drei globale Agenturholdings",
-          "link": "https://meedia.de/news/beitrag/25243-publicis-chef-sadoun-immer-mehr-kunden-wissen-genau-was-sie-wollen.html",
-          "summary": "Nach der Übernahme von IPG durch Omnicom existieren nur noch drei globale Agenturholdings (Publicis Groupe, Omnicom, WPP), wodurch sich das Wettbewerbsfeld laut Publicis-CEO Arthur Sadoun um 25 Prozent verkleinert hat – ein Wandel, von dem seiner Einschätzung nach alle drei verbleibenden Player profitieren. Im Interview mit Campaign UK betont Sadoun zudem einen grundlegenden Trend im Neugeschäft: Immer mehr Kunden vergeben ihre Etats pitchlos, da sie genau wissen, welche Agenturleistung sie benötigen.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts \"Promi Big Brother\" besiegt Böhmermann und Barth, ARD-Thriller...",
-          "link": "https://meedia.de/news/beitrag/25247-quot-promi-big-brother-quot-besiegt-boehmermann-und-barth-ard-thriller-triumphiert-im-gesamtpublikum.html",
-          "summary": "Jan Böhmermanns \"Lass dich überwachen!\" floppte im Gesamtpublikum mit nur 1,01 Millionen Zuschauern und 4,9 Prozent Marktanteil erneut, während der ARD-Psycho-Thriller \"Frau ohne Namen\" mit 5,36 Millionen Zuschauern und 26,1 Prozent – dem doppelten ARD-Normalniveau – zum klaren Tagessieger avancierte. In der werberelevanten Zielgruppe der 14- bis 49-Jährigen sicherte sich hingegen \"Promi Big Brother\" (Sat.1) den Prime-Time-Sieg.",
-          "score": 8
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Wallace & Gromit maker Aardman falls short of return to profit",
-          "link": "https://www.theguardian.com/film/2026/oct/15/aardman-wallace-gromit-annual-loss",
-          "summary": "Das britische Animationsstudio Aardman verfehlte trotz eines Umsatzanstiegs von 8 % auf 20,4 Mio. £ sein Ziel zur Rückkehr in die Gewinnzone, konnte den Jahresverlust aber von 4,1 Mio. £ auf 1,1 Mio. £ verringern. Ursächlich waren Produktionsverzögerungen und ein herausfordernder Markt für Kinderinhalte. Das Unternehmen setzt auf neue Projekte wie einen dritten Shaun-das-Schaf-Film sowie auf seine 2024 gestartete Fünfjahresstrategie mit verstärkten IP-Investitionen und Kostensenkungen.",
+          "title": "\"Honeymoon-Phase ist vorbei\" KI in Medienhäusern: Strategien boomen, wirtschaftlicher Nutzen enttäuscht oft Wenn vom “Reifegrad” die Rede ist, denkt man an Käse",
+          "link": "https://meedia.de/news/beitrag/25245-ki-in-medienhaeusern-strategien-boomen-wirtschaftlicher-nutzen-enttaeuscht-oft.html",
+          "summary": "Laut dem gemeinsamen „KI-Reifegrad-Report“ von BDZV und Retresco verfügen inzwischen 79 Prozent der deutschen Medienhäuser über eine KI-Strategie – ein Anstieg um 19 Prozentpunkte gegenüber dem Vorjahr. Trotz messbarer Effizienzgewinne gelingt es jedoch nur wenigen, den wirtschaftlichen Nutzen belastbar nachzuweisen oder tragfähige Business Cases zu identifizieren. Zusätzlich erschwert wird die Umsetzung durch technische Hürden: 49 Prozent der 114 befragten Führungskräfte nennen Infrastruktur und Integration als zentrale Herausforderungen (2025: 28 Prozent).",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "Netflix to lay off about 1,000 employees in biggest cuts since 2022",
-          "link": "https://www.theguardian.com/media/2026/oct/14/netflix-job-layoffs-streaming",
-          "summary": "Netflix entlässt rund 1.000 Mitarbeiter (6 % der Belegschaft) – der größte Stellenabbau seit 2022 –, wobei die Kürzungen überwiegend die Bereiche Produkt, Technik, Recht und Personal betreffen. Der Streaming-Pionier reagiert damit auf wachsenden Wettbewerbsdruck um Zuschauer und Nutzerengagement, insbesondere durch YouTube und TikTok mit ihren kostenlosen, nutzergenerierten Inhalten. Verschärft werden die strategischen Zweifel durch die gescheiterte Übernahme der Warner-Bros-Discovery-Assets, die stattdessen von Paramount für 110 Mrd. Dollar erworben wurden.",
+          "title": "Lisa Nandy ‘minded to intervene’ in Sky’s £1.6bn purchase of ITV",
+          "link": "https://www.theguardian.com/business/2026/oct/15/lisa-nandy-culture-secretary-intervene-sky-purchase-itv",
+          "summary": "Kulturministerin Lisa Nandy hat angekündigt, dass sie „zu einem Eingreifen geneigt“ sei bei Skys geplanter Übernahme des Rundfunk- und Streaming-Geschäfts von ITV für 1,6 Mrd. Pfund, wodurch der größte kommerzielle Rundfunkanbieter Großbritanniens entstehen würde. Als Begründung nennt sie öffentliche Interessenserwägungen wie Meinungsvielfalt, Medienpluralität und die Sicherung eines breiten, qualitativ hochwertigen Programmangebots. Die beteiligten Unternehmen haben nun fünf Tage zur Stellungnahme; ein Eingreifen würde formelle Untersuchungen durch die Regulierungsbehörde Ofcom und die Wettbewerbsbehörde ausl",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Rafe Spall On Playing An Amnesiac Super Sleuth In ‘The Death Of Sherlock Holmes’: “This Is A Clean Slate”",
+          "link": "https://deadline.com/2026/10/rafe-spall-death-of-sherlock-holmes-interview-1237157929/",
+          "summary": "Rafe Spall übernimmt die Hauptrolle in „The Death of Sherlock Holmes\", das die dreijährige Lücke zwischen Holmes' scheinbarem Tod an den Reichenbachfällen und seiner Rückkehr thematisiert und den Detektiv als amnestischen Fremden in den Schweizer Alpen zeigt. Die Serie, die auf der MIPCOM Cannes vorgestellt wurde, verfolgt einen originellen Ansatz, indem Holmes seine Identität und Deduktionsfähigkeiten erst nach und nach wiederentdeckt – was Spall laut eigener Aussage einen „unbeschriebenen\" Neustart ohne Vergleich zu früheren Darstellern wie Cumberbatch oder Brett ermöglichte. Zentral ist zudem die Beziehung zu der allein",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "International Insider: Surfing To MIPCOM Cannes; Russell Brand Trial Begins; Nicole Wallace Interview",
+          "link": "https://deadline.com/2026/10/international-insider-mipcom-cannes-russell-brand-trial-1237158011/",
+          "summary": "Beim diesjährigen MIPCOM in Cannes dominierte der Baywatch-Reboot von Fox und Fremantle, während die neu formierten Branchengrößen Banijay und Skydance erstmals auf dem internationalen Markt auftraten. Skydance (unter David Decker) behält vorerst die bestehenden Paramount- und WB-Marken bei, wobei die interne Reorganisation und die internationale Aufstellung noch unklar sind. Die Branchenstimmung war von verhaltenem Optimismus geprägt, mit Blick auf die Herausforderungen des TV-Marktes und die offene Frage nach dem künftigen Verhältnis zwischen traditionellem Fernsehen und YouTube.",
+          "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "UK YouTube Breakout ‘A Memory Owed’, With James Bolam & Rumi Sutton, Moves Into Feature Development",
+          "link": "https://deadline.com/2026/10/youtube-short-memory-owed-air-force-feature-development-1237165601/",
+          "summary": "Der britische YouTube-Kurzfilm „A Memory Owed\" von Autor-Regisseur Martin Hemingway-Moseley, der einen WWII-RAF-Veteranen porträtiert und mit BAFTA-Nominee James Bolam sowie Rumi Sutton besetzt ist, hat über 600.000 Views und eine 99%-Zustimmungsrate erreicht und wird nun zu einem Spielfilm weiterentwickelt. Das Projekt hat bereits das Interesse eines Verleihers sowie eine unaufgeforderte Finanzierungsspende eines Zuschauers angezogen, während das Kreativteam derzeit am Treatment arbeitet und potenzielle Partner ansprechen will. Formelle Gespräche mit den Agenturen der Darsteller stehen noch aus, beide Schauspieler unterstützen",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "BBC Studios’ Boss Says Streaming Is The Future But Linear Still Pays The Bills",
+          "link": "https://deadline.com/2026/10/bbc-studios-boss-streaming-future-linear-pays-1237158106/",
+          "summary": "Marcus Arthur, neuer Chef für globale Kanäle und Streaming bei BBC Studios, betont die strategische Gratwanderung zwischen dem Aufbau einer streaming-first Zukunft und der Monetarisierung des weiterhin profitablen linearen Geschäfts, das in den nächsten fünf bis zehn Jahren zentral bleiben soll. Das Channels- und Streaming-Geschäft erwirtschaftete im Finanzjahr 2025/26 Einnahmen von 788 Millionen Pfund (1,1 Milliarden Dollar) und umfasst lineare Pay-TV-Netze, werbefinanzierte Kanäle, Direct-to-Consumer-Dienste sowie den SVoD-Anbieter BritBox International (außerhalb Nordamerikas).",
           "score": 10
         },
         {
           "source": "Deadline",
-          "title": "CBS Bringing ‘Pillsbury Bake-Off Classic’ To Primetime With Drew Barrymore As Host",
-          "link": "https://deadline.com/2026/10/cbs-pillsbury-bake-off-classic-drew-barrymore-host-1237157489/",
-          "summary": "CBS bringt den traditionsreichen „Pillsbury Bake-Off Classic“ mit Drew Barrymore als Moderatorin erstmals seit 2014 zurück ins Broadcast-Fernsehen – die Ausstrahlung erfolgt zur Primetime am 23. November um 20 Uhr ET/PT live auf CBS und Paramount+. Produziert wird das Special von Studio Large Eyes, Pantheon Media Group und Juma Entertainment in Zusammenarbeit mit General Mills, wobei Christina Tosi und Dook Chase als Promi-Jurymitglieder fungieren. Damit reiht sich Barrymore in eine prominente Moderatorenliste ein, zu der zuvor unter anderem Bob Barker, Alex Trebek, Martha Stewart und Oprah Winfrey gehörten.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Sky-ITV: UK Culture Secretary “Minded To Intervene” Over $2.1B Merger",
-          "link": "https://deadline.com/2026/10/sky-itv-culture-sec-lisa-nandy-minded-to-intervene-1237157983/",
-          "summary": "Die britische Kulturministerin Lisa Nandy erwägt eine Intervention beim £1,6 Mrd. (2,1 Mrd. $) schweren Zusammenschluss von Sky und ITV und beruft sich dabei auf Erwägungen des öffentlichen Interesses wie Meinungsvielfalt und Programmvielfalt im Rundfunk. Beide Unternehmen haben fünf Tage Zeit zur Stellungnahme, bevor eine mögliche Prüfung durch Ofcom und die Wettbewerbsbehörde CMA eingeleitet werden könnte. Zudem prüft Nandy eine Gesetzesreform, die den Bereich Streaming künftig stärker einbeziehen soll, da die bestehende Regulierung aus der Zeit des linearen Fernsehens stammt.",
+          "title": "Layoffs Take Place At ‘The Repair Shop’ Producer Ricochet",
+          "link": "https://deadline.com/2026/10/ricochet-layoffs-the-repair-shop-skydance-damon-pattison-1237157978/",
+          "summary": "Der Skydance-UK-eigene Produzent Ricochet (bekannt für die BBC-Erfolgsserie „The Repair Shop\") hat rund 10 Mitarbeiter entlassen – knapp ein Drittel der Belegschaft, die nun bei 24 liegt –, darunter Kreativchef Damon Pattison und Scotland-Office-Leiter Rob Butterfield. Die Entscheidung erfolgte laut Unternehmen aufgrund der Marktbedingungen und wurde bereits vor Abschluss des Skydance-Deals getroffen. Die Entlassungen reihen sich in eine breitere Welle von Stellenabbau in der britischen TV-Branche ein, von der auch BBC, Channel 4 und Banijay betroffen sind.",
           "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Russell Brand Trial: Woman Alleges She Was Raped By Star In Hotel Room After He Posed For Semi-Nude Photos",
-          "link": "https://deadline.com/2026/10/russell-brand-trial-woman-raped-hotel-room-photoshoot-1237157920/",
-          "summary": "Im laufenden Vergewaltigungsprozess gegen Russell Brand (51) am Southwark Crown Court in London wurde am vierten Verhandlungstag ein Video einer Polizeivernehmung aus dem Jahr 2023 abgespielt, in dem eine anonyme Klägerin (C1) angibt, 1999 am Rande der Labour-Party-Konferenz in Bournemouth von Brand vergewaltigt worden zu sein. Laut ihrer Aussage soll der Vorfall sich ereignet haben, nachdem sie ihn in ihr Hotelzimmer eingeladen hatte und er sie bat, Fotos von ihm in Unterwäsche zu machen. Der Prozess steht im Kontext weiterer Vorwürfe, wonach Brand gezielt Frauen in der TV-Branche zum Opfer gemacht",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "London TV Screenings Unveils 2027 Schedule Featuring Newly-Merged Banijay",
-          "link": "https://deadline.com/2026/10/london-tv-screenings-2027-banijay-itv-studios-fremantle-1237157961/",
-          "summary": "Die London TV Screenings 2027 finden ab dem 21. Februar statt und präsentieren erstmals die neu fusionierte Vertriebssparte Banijay-All3Media mit einem Katalog von 265.000 Stunden, wodurch sich die Zahl der Gründungsorganisatoren auf das Trio Banijay, Fremantle und ITV Studios reduziert. Die Hauptveranstaltungen von Banijay und ITV Studios finden am 24. Februar parallel statt, gefolgt von Fremantle am Folgetag, während ITV Studios möglicherweise zeitgleich seine Unabhängigkeit von der durch Sky übernommenen ITV erlangt. Weitere Distributoren wie Studiocanal, Sony, Mediawan Rights, Beta Film und Keshet International haben ebenfalls Termine bestätigt.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Radial Entertainment Completes Busy MIPCOM Week With ‘Making A Serial Killer’ Season 3 Order",
-          "link": "https://deadline.com/2026/10/radial-entertainment-making-serial-killer-season-3-1237157927/",
-          "summary": "Radial Entertainment hat zum Abschluss der MIPCOM-Woche eine dritte Staffel seiner True-Crime-Serie „Making a Serial Killer\" in Auftrag gegeben, die in Partnerschaft mit den britischen FirstLook Studios produziert wird. Die zehnteilige Serie, für die Radial die Rechte in den USA, Kanada, Deutschland, der Schweiz und Österreich hält, soll im Dezember auf noch nicht bekannt gegebenen Plattformen Premiere feiern. Die Bestellung ist Teil von Radials Strategie, langlebige True-Crime-Franchises mit internationaler Reichweite aufzubauen.",
-          "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Sky’s $2.1 Billion ITV Megadeal: U.K. Government Eyes Intervention",
-          "link": "https://www.hollywoodreporter.com/business/business-news/sky-itv-deal-uk-government-eyes-intervention-public-interest-1236730785/",
-          "summary": "Die britische Regierung erwägt eine Intervention in die geplante 2,1-Milliarden-Dollar-Übernahme der TV- und Streaming-Assets von ITV durch Comcasts Sky, wobei Kulturministerin Lisa Nandy auf Bedenken hinsichtlich der Medienkonzentration, Meinungsvielfalt und Pressefreiheit verweist. Der im Juli vereinbarte Deal umfasst ITVs terrestrische Sender und den Streamingdienst ITVX, während die Produktionssparte ITV Studios eigenständig bleibt. Die Fusion würde Großbritanniens größten Pay-TV-Anbieter mit dem größten kommerziellen Free-TV-Sender vereinen – von den Unternehmen als „UK-Champion“ gegen globale Streaming-Plattformen positioniert,",
-          "score": 8
+          "title": "‘Grey’s Anatomy’ Boss Meg Marinis on Texas Spinoff, Ellen Pompeo and Season 23 Premiere Cliffhangers",
+          "link": "https://www.hollywoodreporter.com/tv/tv-features/greys-anatomy-premiere-season-23-texas-spinoff-ellen-pompeo-1236733218/",
+          "summary": "Showrunnerin Meg Marinis bestätigt, dass trotz 23 Staffeln kein Ende von „Grey's Anatomy\" geplant ist und eine finale Entscheidung gemeinsam mit Schöpferin Shonda Rhimes getroffen werden soll. Stattdessen setzt ABC auf Expansion: Ein neues Spinoff, angesiedelt an einem ländlichen medizinischen Zentrum in West-Texas, startet in der Saison 2026-2027 und wird von Marinis und Rhimes entwickelt, mit Ellen Pompeo als Executive Producer. Das Spinoff sowie die Staffel-23-Premiere thematisieren medizinische Versorgungslücken und die Ungleichheit im Zugang zur Gesundheitsversorgung.",
+          "score": 7
         },
         {
           "source": "Variety",
-          "title": "British Government ‘Minded to Intervene’ in Sky’s Proposed $2 Billion Takeover of ITV",
-          "link": "https://variety.com/2026/tv/global/lisa-nandy-intervene-itv-sky-takeover-1236912867/",
-          "summary": "Die britische Kulturministerin Lisa Nandy erwägt eine Intervention in Skys geplante 2-Milliarden-Dollar-Übernahme von ITV, da sie Bedenken hinsichtlich der Medienpluralität – insbesondere bei Nachrichten und lokaler Berichterstattung – geltend macht. Der im Juli zwischen dem Comcast-eigenen Sky und ITV geschlossene Deal über 1,6 Milliarden Pfund sieht vor, dass ITV Studios als eigenständiges börsennotiertes Unternehmen abgespalten wird. Trotz regulatorischer Hürden gilt die aktuelle Regierungspolitik als tendenziell konsolidierungsfreundlich, da dies als Überlebensstrategie für öffentlich-rechtliche Sender gewertet wird.",
-          "score": 7
+          "title": "Omar Sy on Taking Creative Control of Netflix’s ‘Lupin’ and Why ‘Black Dumas’ Will Spark Political Debate in France",
+          "link": "https://variety.com/2026/tv/global/omar-sy-netflix-lupin-black-dumas-1236913875/",
+          "summary": "Omar Sy übernimmt bei der vierten Staffel der Netflix-Erfolgsserie „Lupin\" erstmals die Rolle des Co-Showrunners (neben Louis Leterrier) und co-produziert über die gemeinsame Firma Carrousel Studios, nachdem er größere kreative Kontrolle zur Bedingung für seine Rückkehr gemacht hatte. Die neue Staffel, die am 23. Oktober startet, spielt vier Jahre nach Teil 3 mit Assane Diop im Gefängnis. Zudem kündigt Sy sein Projekt „Black Dumas\" an, das laut ihm in Frankreich politische Debatten auslösen dürfte.",
+          "score": 9
+        },
+        {
+          "source": "Variety",
+          "title": "Netflix Is Profitable and Still Growing. Why Did It Just Make a Huge Round of Layoffs and Oust Its Top Content Exec?",
+          "link": "https://variety.com/2026/tv/news/why-netflix-made-layoffs-1236913767/",
+          "summary": "Trotz eines Nettogewinns von 11 Milliarden Dollar und 16% Umsatzwachstum in 2025 hat Netflix rund 1.000 Mitarbeiter entlassen – die bislang größte Kürzung des Unternehmens – und seinen obersten Content-Manager abgesetzt. Hintergrund ist nicht eine akute Krise, sondern die Sorge der Investoren über die nachlassende Wachstumsdynamik in der Region USA/Kanada, wo der Umsatzzuwachs im zweiten Quartal 2026 von 14% auf 10% zurückging (teils bedingt durch jüngste Preiserhöhungen). Netflix will zudem die operative Marge um 200 Basispunkte auf 31,5% steigern, während das Umsatzwachstum sich auf prognostizierte 13-14% abkühlt.",
+          "score": 10
         }
       ]
     }
