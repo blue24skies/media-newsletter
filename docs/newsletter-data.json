@@ -1,132 +1,48 @@
 {
   "newsletters": [
     {
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "articles": [
         {
           "source": "DWDL",
-          "title": "ARD-Polizeiserie \"Spuren\" erhält eine zweite Staffel",
-          "link": "https://www.dwdl.de/nachrichten/108238/ardpolizeiserie_spuren_erhaelt_eine_zweite_staffel/",
-          "summary": "Der SWR produziert mit \"Spuren II\" eine zweite Staffel seiner erfolgreichen Polizeiserie, die im Südschwarzwald gedreht wird und erneut Nina Kunzendorf und Tilman Strauß in den Hauptrollen zeigt. Das bewährte Team um Drehbuchautoren Robert Hummel und Martina Mouchot sowie Regisseur Stefan Krohmer setzt dabei weiterhin auf realistische Polizeiarbeit und thematisiert in vier neuen Folgen sexualisierte Gewalt in vorgeblich beschützender Umgebung. Die erste Staffel erreichte Anfang 2025 im Ersten durchschnittlich fast sechs Millionen Zuschauer und war auch in der Mediathek erfolgreich.",
+          "title": "Neuer Sendeplatz für \"Die Wollnys\" bei RTLzwei",
+          "link": "https://www.dwdl.de/nachrichten/108212/neuer_sendeplatz_fuer_die_wollnys_bei_rtlzwei/",
+          "summary": "RTLzwei verlegt seine Personality-Doku \"Die Wollnys\" ab dem 5. November vom gewohnten Mittwochabend auf den Donnerstag um 20:15 Uhr (Doppelfolgen), wo das Format unter anderem gegen \"Morlock Motors\" bei Kabel Eins antritt. Der Sendeplatzwechsel erfolgt vor dem Hintergrund zuletzt schwacher Quoten – unter einer halben Million Zuschauer und weniger als 4 Prozent Marktanteil in der Zielgruppe –, die auf deutliche Abnutzungserscheinungen hindeuten. Vorab stehen die Folgen jeweils sieben Tage früher bei RTL+ zum Abruf bereit.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "\"The Ultimate Hype\" findet bei Pluto TV ein neues Zuhause",
+          "link": "https://www.dwdl.de/nachrichten/108207/the_ultimate_hype_findet_bei_pluto_tv_ein_neues_zuhause/",
+          "summary": "Banijay Media bringt sein Kampfsport-Event \"The Ultimate Hype\" als regelmäßige Reihe zurück und wechselt dabei von RTL+ zum werbefinanzierten Streamingdienst Pluto TV, wo ab dem 30. Oktober 2026 mehrere \"Hype Fight Nights\" mit Reality-Stars, Creatorn und Profisportlern in Disziplinen wie Boxen, MMA und Slap-Fighting stattfinden. Parallel zum Serienstart führt Pluto TV seine bislang umfassendste Produkterneuerung durch und baut die Plattform auf einer gemeinsamen technologischen Basis mit Paramount+ neu auf.",
           "score": 8
         },
         {
-          "source": "DWDL",
-          "title": "Polnischer Sender TVP wird 15. Arte-Partnersender",
-          "link": "https://www.dwdl.de/nachrichten/108237/polnischer_sender_tvp_wird_15_artepartnersender/",
-          "summary": "Der polnische öffentlich-rechtliche Sender TVP ist als 15. Partnersender dem europäischen Arte-Netzwerk beigetreten; Arte-Präsidentin Heike Hempel und TVP-Generaldirektor Tomasz Sygut unterzeichneten dazu ein Assoziierungsabkommen. Auf dieser Basis sollen künftig verstärkt Koproduktionen entstehen, zudem erhält TVP – wie die übrigen Partnersender – beratende Stimme in den wichtigsten Arte-Gremien. Die Kooperation wird als Stärkung der Zusammenarbeit im Weimarer Dreieck und als Beitrag zur Resilienz öffentlich-rechtlicher Medien gegen Desinformation gewertet.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Netflix trennt sich von Content-Chefin Bela Bajaria",
-          "link": "https://www.dwdl.de/nachrichten/108234/netflix_trennt_sich_von_contentchefin_bela_bajaria/",
-          "summary": "Netflix trennt sich im Zuge des größten Stellenabbaus seiner Geschichte (rund 1.000 Stellen) von Content-Chefin Bela Bajaria, die seit 2016 beim Streamer tätig und seit Anfang 2023 Chief Content Officer war. Hintergrund dürften wachsende Kritik an der inhaltlichen Aufstellung sowie Engagement-Probleme sein – sichtbar auch am drastischen Rückgang der Emmy-Auszeichnungen von einem Rekordwert von 44 (2021) auf nur noch 16 in diesem Jahr, womit Netflix hinter Apple TV und HBO Max zurückfiel.",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Love Island VIP\" muss Sendeplatz um 20:15 Uhr räumen",
-          "link": "https://www.dwdl.de/nachrichten/108230/love_island_vip_muss_sendeplatz_um_2015_uhr_raeumen/",
-          "summary": "RTLzwei verlegt die Realityshow \"Love Island VIP\" aufgrund schwacher linearer Quoten (nur 150.000 Zuschauer, 1,9 bzw. 2,6 Prozent in der Zielgruppe) ab dem 22. Oktober vom 20:15-Uhr-Sendeplatz auf 22:15 Uhr, während die Dokusoap \"Zuhause im Glück\" die Primetime übernimmt. Infolge der Umstellung rutschen auch \"Stranger Sins\" (1:30 Uhr) und \"Maison Tabou\" (0:35 Uhr) in den Spätnachtbereich. Der Schritt folgt der Strategie von Geschäftsführer Thorsten Braun, Streaming und lineares Fernsehen künftig getrennt zu betrachten – im Streaming via RTL+ ist das Format we",
-          "score": 10
-        },
-        {
-          "source": "DWDL",
-          "title": "Drehstart für zweiten Schwarzwald-\"Tatort\" von Giganten Film",
-          "link": "https://www.dwdl.de/nachrichten/108222/drehstart_fuer_zweiten_schwarzwaldtatort_von_giganten_film/",
-          "summary": "In Baden-Baden haben die Dreharbeiten zum zweiten Schwarzwald-\"Tatort\" (Arbeitstitel \"Die Lüge\") begonnen, den Giganten Film im Auftrag des SWR produziert, nachdem der Sender die Herstellung der Krimireihe in diesem Jahr ausgelagert hatte. Unter der Regie von Sebastian Marka und nach einem Drehbuch von Erol Yesilkaya dreht sich die als Kammerspiel im Polizeipräsidium angelegte Folge um eine mordverdächtige Frau, die von den Kommissaren Tobler und Berg (Eva Löbau und Hans-Jochen Wagner) zum Geständnis bewegt werden soll. Der Dreh läuft noch bis Anfang November.",
-          "score": 9
-        },
-        {
-          "source": "kress",
-          "title": "FAZ, Handelsblatt, SZ und Zeit wollen Vermarkter gründen",
-          "link": "https://kress.de/news/beitrag/156801-faz-handelsblatt-sz-und-zeit-wollen-vermarkter-gruenden.html",
-          "summary": "Die vier überregionalen Qualitätsmedien FAZ, Handelsblatt, SZ und Zeit planen die Gründung eines gemeinsamen Vermarkters mit gleichmäßiger Beteiligung von je 25 Prozent, in den bestehende Strukturen wie IQ Digital, IQ Media und das Joint Venture Republic einfließen sollen. Ziel ist es, angesichts eines schwierigen Werbemarkts und abwandernder Budgets zu digitalen Plattformen und KI-Anbietern gebündelte Reichweite aus einer Hand anzubieten. Das Vorhaben steht noch unter dem Prüfvorbehalt des Bundeskartellamts.",
+          "source": "Horizont Medien",
+          "title": "Werbung in Leitmedien: So machen FAZ, SZ, Zeit und Co ihre Vermarktungs-Fusionspläne offiziell",
+          "link": "https://www.horizont.net/medien/nachrichten/werbung-in-leitmedien-so-machen-faz-sz-zeit-und-co-ihre-vermarktungs-fusionsplaene-offiziell-236193?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Verlage von FAZ, Handelsblatt/Wirtschaftswoche, Süddeutscher Zeitung, Zeit und Spiegel treiben ihre bereits im Mai angekündigten Pläne für eine gemeinsame Werbevermarktung nun offiziell voran. Nach anfänglicher Zurückhaltung folgen den Ankündigungen konkrete Vorbereitungen für eine Vermarktungsfusion der führenden deutschen Qualitätsmedien.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "1 auf mehr Kundennähe, datenbasierte Produkte, neue Mittelstandsangebote und die europäische Vernetzung mit Media for Europe.",
-          "link": "https://meedia.de/news/beitrag/25259-seven-one-media-draengt-zurueck-in-den-wachstumsmodus.html",
-          "summary": "Seven.One Media, der Vermarkter von ProSiebenSat.1, strebt unter CEO Nicola Lussana zurück in den Wachstumsmodus und will Umsatz, Reichweite sowie Kundenbasis durch mehr Kundennähe, datenbasierte Werbeprodukte und gezielte Mittelstandsangebote ausbauen. Zentrale Hebel sind dabei die engere Verzahnung von linearem TV, Streaming und Connected TV sowie die europäische Vernetzung mit dem neuen Mehrheitseigner Media for Europe (MFE). Damit soll nach Jahren wechselnder Strategien und Führungen verlorenes Marktvertrauen zurückgewonnen werden.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Beim Bundeskartellamt angemeldet \"FAZ\", \"Handelsblatt\", \"SZ\" und \"Zeit\" wollen gemeinsamen...",
-          "link": "https://meedia.de/news/beitrag/25255-quot-faz-quot-quot-handelsblatt-quot-quot-sz-quot-und-quot-zeit-quot-wollen-gemeinsamen-werbevermarkter-gruenden.html",
-          "summary": "Die Verlage von „FAZ\", „Handelsblatt\", „SZ\" und „Zeit\" haben beim Bundeskartellamt die Gründung eines gemeinsamen Werbevermarkters angemeldet, an dem jeder Partner voraussichtlich 25 Prozent halten soll. Dafür werden bestehende Strukturen wie die Digitalvermarktung IQ Digital, der Printvermarkter IQ Media sowie das Joint Venture Republic zusammengeführt, um durch erhöhte Reichweite und Kosteneffekte die Wettbewerbsposition gegenüber internationalen Plattformen zu stärken.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "\"Honeymoon-Phase ist vorbei\" KI in Medienhäusern: Strategien boomen, wirtschaftlicher Nutzen enttäuscht oft Wenn vom “Reifegrad” die Rede ist, denkt man an Käse",
-          "link": "https://meedia.de/news/beitrag/25245-ki-in-medienhaeusern-strategien-boomen-wirtschaftlicher-nutzen-enttaeuscht-oft.html",
-          "summary": "Laut dem gemeinsamen „KI-Reifegrad-Report“ von BDZV und Retresco verfügen inzwischen 79 Prozent der deutschen Medienhäuser über eine KI-Strategie – ein Anstieg um 19 Prozentpunkte gegenüber dem Vorjahr. Trotz messbarer Effizienzgewinne gelingt es jedoch nur wenigen, den wirtschaftlichen Nutzen belastbar nachzuweisen oder tragfähige Business Cases zu identifizieren. Zusätzlich erschwert wird die Umsetzung durch technische Hürden: 49 Prozent der 114 befragten Führungskräfte nennen Infrastruktur und Integration als zentrale Herausforderungen (2025: 28 Prozent).",
+          "title": "Sonderauswertung ma Audio Audio Trends 2026: Digitale Radionutzung steigt weiter Die digitale Radionutzung in Deutschland wächst weiter.",
+          "link": "https://meedia.de/news/beitrag/25258-audio-trends-2026-digitale-radionutzung-steigt-weiter.html",
+          "summary": "Laut der Studie „Audio Trends 2026“ der deutschen Medienanstalten nutzen inzwischen 66 Prozent der Radiohörenden (rund 42 Millionen Menschen) digitale Empfangswege wie DAB+ oder Webradio – ein Anstieg gegenüber 64 Prozent im Vorjahr. DAB+ bleibt mit 25 Millionen Nutzern in vier Wochen und über 14 Millionen täglichen Hörern der führende digitale Verbreitungsweg, während die Medienanstalten zunehmend Fragen der Auffindbarkeit und fairer Plattformbedingungen in den Fokus rücken.",
           "score": 7
         },
         {
           "source": "Guardian Media",
-          "title": "Lisa Nandy ‘minded to intervene’ in Sky’s £1.6bn purchase of ITV",
-          "link": "https://www.theguardian.com/business/2026/oct/15/lisa-nandy-culture-secretary-intervene-sky-purchase-itv",
-          "summary": "Kulturministerin Lisa Nandy hat angekündigt, dass sie „zu einem Eingreifen geneigt“ sei bei Skys geplanter Übernahme des Rundfunk- und Streaming-Geschäfts von ITV für 1,6 Mrd. Pfund, wodurch der größte kommerzielle Rundfunkanbieter Großbritanniens entstehen würde. Als Begründung nennt sie öffentliche Interessenserwägungen wie Meinungsvielfalt, Medienpluralität und die Sicherung eines breiten, qualitativ hochwertigen Programmangebots. Die beteiligten Unternehmen haben nun fünf Tage zur Stellungnahme; ein Eingreifen würde formelle Untersuchungen durch die Regulierungsbehörde Ofcom und die Wettbewerbsbehörde ausl",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "Rafe Spall On Playing An Amnesiac Super Sleuth In ‘The Death Of Sherlock Holmes’: “This Is A Clean Slate”",
-          "link": "https://deadline.com/2026/10/rafe-spall-death-of-sherlock-holmes-interview-1237157929/",
-          "summary": "Rafe Spall übernimmt die Hauptrolle in „The Death of Sherlock Holmes\", das die dreijährige Lücke zwischen Holmes' scheinbarem Tod an den Reichenbachfällen und seiner Rückkehr thematisiert und den Detektiv als amnestischen Fremden in den Schweizer Alpen zeigt. Die Serie, die auf der MIPCOM Cannes vorgestellt wurde, verfolgt einen originellen Ansatz, indem Holmes seine Identität und Deduktionsfähigkeiten erst nach und nach wiederentdeckt – was Spall laut eigener Aussage einen „unbeschriebenen\" Neustart ohne Vergleich zu früheren Darstellern wie Cumberbatch oder Brett ermöglichte. Zentral ist zudem die Beziehung zu der allein",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "International Insider: Surfing To MIPCOM Cannes; Russell Brand Trial Begins; Nicole Wallace Interview",
-          "link": "https://deadline.com/2026/10/international-insider-mipcom-cannes-russell-brand-trial-1237158011/",
-          "summary": "Beim diesjährigen MIPCOM in Cannes dominierte der Baywatch-Reboot von Fox und Fremantle, während die neu formierten Branchengrößen Banijay und Skydance erstmals auf dem internationalen Markt auftraten. Skydance (unter David Decker) behält vorerst die bestehenden Paramount- und WB-Marken bei, wobei die interne Reorganisation und die internationale Aufstellung noch unklar sind. Die Branchenstimmung war von verhaltenem Optimismus geprägt, mit Blick auf die Herausforderungen des TV-Marktes und die offene Frage nach dem künftigen Verhältnis zwischen traditionellem Fernsehen und YouTube.",
-          "score": 8
-        },
-        {
-          "source": "Deadline",
-          "title": "UK YouTube Breakout ‘A Memory Owed’, With James Bolam & Rumi Sutton, Moves Into Feature Development",
-          "link": "https://deadline.com/2026/10/youtube-short-memory-owed-air-force-feature-development-1237165601/",
-          "summary": "Der britische YouTube-Kurzfilm „A Memory Owed\" von Autor-Regisseur Martin Hemingway-Moseley, der einen WWII-RAF-Veteranen porträtiert und mit BAFTA-Nominee James Bolam sowie Rumi Sutton besetzt ist, hat über 600.000 Views und eine 99%-Zustimmungsrate erreicht und wird nun zu einem Spielfilm weiterentwickelt. Das Projekt hat bereits das Interesse eines Verleihers sowie eine unaufgeforderte Finanzierungsspende eines Zuschauers angezogen, während das Kreativteam derzeit am Treatment arbeitet und potenzielle Partner ansprechen will. Formelle Gespräche mit den Agenturen der Darsteller stehen noch aus, beide Schauspieler unterstützen",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "BBC Studios’ Boss Says Streaming Is The Future But Linear Still Pays The Bills",
-          "link": "https://deadline.com/2026/10/bbc-studios-boss-streaming-future-linear-pays-1237158106/",
-          "summary": "Marcus Arthur, neuer Chef für globale Kanäle und Streaming bei BBC Studios, betont die strategische Gratwanderung zwischen dem Aufbau einer streaming-first Zukunft und der Monetarisierung des weiterhin profitablen linearen Geschäfts, das in den nächsten fünf bis zehn Jahren zentral bleiben soll. Das Channels- und Streaming-Geschäft erwirtschaftete im Finanzjahr 2025/26 Einnahmen von 788 Millionen Pfund (1,1 Milliarden Dollar) und umfasst lineare Pay-TV-Netze, werbefinanzierte Kanäle, Direct-to-Consumer-Dienste sowie den SVoD-Anbieter BritBox International (außerhalb Nordamerikas).",
-          "score": 10
-        },
-        {
-          "source": "Deadline",
-          "title": "Layoffs Take Place At ‘The Repair Shop’ Producer Ricochet",
-          "link": "https://deadline.com/2026/10/ricochet-layoffs-the-repair-shop-skydance-damon-pattison-1237157978/",
-          "summary": "Der Skydance-UK-eigene Produzent Ricochet (bekannt für die BBC-Erfolgsserie „The Repair Shop\") hat rund 10 Mitarbeiter entlassen – knapp ein Drittel der Belegschaft, die nun bei 24 liegt –, darunter Kreativchef Damon Pattison und Scotland-Office-Leiter Rob Butterfield. Die Entscheidung erfolgte laut Unternehmen aufgrund der Marktbedingungen und wurde bereits vor Abschluss des Skydance-Deals getroffen. Die Entlassungen reihen sich in eine breitere Welle von Stellenabbau in der britischen TV-Branche ein, von der auch BBC, Channel 4 und Banijay betroffen sind.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "‘Grey’s Anatomy’ Boss Meg Marinis on Texas Spinoff, Ellen Pompeo and Season 23 Premiere Cliffhangers",
-          "link": "https://www.hollywoodreporter.com/tv/tv-features/greys-anatomy-premiere-season-23-texas-spinoff-ellen-pompeo-1236733218/",
-          "summary": "Showrunnerin Meg Marinis bestätigt, dass trotz 23 Staffeln kein Ende von „Grey's Anatomy\" geplant ist und eine finale Entscheidung gemeinsam mit Schöpferin Shonda Rhimes getroffen werden soll. Stattdessen setzt ABC auf Expansion: Ein neues Spinoff, angesiedelt an einem ländlichen medizinischen Zentrum in West-Texas, startet in der Saison 2026-2027 und wird von Marinis und Rhimes entwickelt, mit Ellen Pompeo als Executive Producer. Das Spinoff sowie die Staffel-23-Premiere thematisieren medizinische Versorgungslücken und die Ungleichheit im Zugang zur Gesundheitsversorgung.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Omar Sy on Taking Creative Control of Netflix’s ‘Lupin’ and Why ‘Black Dumas’ Will Spark Political Debate in France",
-          "link": "https://variety.com/2026/tv/global/omar-sy-netflix-lupin-black-dumas-1236913875/",
-          "summary": "Omar Sy übernimmt bei der vierten Staffel der Netflix-Erfolgsserie „Lupin\" erstmals die Rolle des Co-Showrunners (neben Louis Leterrier) und co-produziert über die gemeinsame Firma Carrousel Studios, nachdem er größere kreative Kontrolle zur Bedingung für seine Rückkehr gemacht hatte. Die neue Staffel, die am 23. Oktober startet, spielt vier Jahre nach Teil 3 mit Assane Diop im Gefängnis. Zudem kündigt Sy sein Projekt „Black Dumas\" an, das laut ihm in Frankreich politische Debatten auslösen dürfte.",
+          "title": "Trump’s new press secretary says it’s ‘unknown’ how much she’ll deal with media",
+          "link": "https://www.theguardian.com/us-news/2026/oct/15/katie-zacharia-trump-press-secretary-interview",
+          "summary": "Katie Zacharia wurde innerhalb von nur sechs Tagen zur neuen Pressesprecherin des Weißen Hauses ernannt und sieht sich nach ihrem kritisch aufgenommenen Debüt wachsenden Zweifeln an ihren juristischen Qualifikationen gegenüber, nachdem sie zugab, das Anwaltsexamen (Bar Exam) nicht bestanden zu haben. In einem Interview mit dem Guardian erklärte sie zudem, es sei „ungewiss“, in welchem Umfang sie künftig mit der Presse interagieren werde.",
           "score": 9
         },
         {
           "source": "Variety",
-          "title": "Netflix Is Profitable and Still Growing. Why Did It Just Make a Huge Round of Layoffs and Oust Its Top Content Exec?",
-          "link": "https://variety.com/2026/tv/news/why-netflix-made-layoffs-1236913767/",
-          "summary": "Trotz eines Nettogewinns von 11 Milliarden Dollar und 16% Umsatzwachstum in 2025 hat Netflix rund 1.000 Mitarbeiter entlassen – die bislang größte Kürzung des Unternehmens – und seinen obersten Content-Manager abgesetzt. Hintergrund ist nicht eine akute Krise, sondern die Sorge der Investoren über die nachlassende Wachstumsdynamik in der Region USA/Kanada, wo der Umsatzzuwachs im zweiten Quartal 2026 von 14% auf 10% zurückging (teils bedingt durch jüngste Preiserhöhungen). Netflix will zudem die operative Marge um 200 Basispunkte auf 31,5% steigern, während das Umsatzwachstum sich auf prognostizierte 13-14% abkühlt.",
+          "title": "How Netflix’s Messy Transition Will Rock Hollywood: Looking at You, NBCU",
+          "link": "https://variety.com/2026/film/news/netflix-peter-rice-bajaria-messy-dan-lin-jinny-howe-nbcu-1236914573/",
+          "summary": "Netflix hat Peter Rice (ehemals Fox Searchlight, Fox Networks Group und Disney) überraschend zum neuen Chief Content Officer ernannt und damit Bela Bajaria abgelöst – ein Wechsel, der branchenintern als unsauber und verärgernd wahrgenommen wird. Der Personalumbruch, ausgelöst auch durch Rices zunächst anders geplante Rekrutierung durch Skydance-Co-CEO Ynon Kreiz, wird voraussichtlich erhebliche Auswirkungen auf Netflix' umfangreiche Film- und TV-Operationen sowie die gesamte Hollywood-Landschaft (einschließlich NBCU) haben.",
           "score": 10
         }
       ]
