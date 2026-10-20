@@ -1,126 +1,112 @@
 {
   "newsletters": [
     {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "articles": [
         {
           "source": "DWDL",
-          "title": "ZDF findet Sendetermin für BBC-Serienhit \"Ludwig\"",
-          "link": "https://www.dwdl.de/nachrichten/108259/zdf_findet_sendetermin_fuer_bbcserienhit_ludwig/",
-          "summary": "Das ZDF zeigt die erste Staffel des BBC-Serienhits \"Ludwig – Mörderische Rätsel\" mit David Mitchell ab dem 29. November in Doppelfolgen sonntags ab 22:15 Uhr. Die Krimiserie um einen Rätselerfinder, der die Identität seines verschwundenen Zwillingsbruders bei der Polizei annimmt, war 2024 ein großer Erfolg für die BBC; das ZDF fungierte bei der bereits in Großbritannien ausgestrahlten zweiten Staffel als Koproduzent.",
+          "title": "Content-Dilemma: 44% finden trotz Auswahl kein passendes Programm",
+          "link": "https://www.dwdl.de/nachrichten/108271/contentdilemma_44_finden_trotz_auswahl_kein_passendes_programm/",
+          "summary": "Eine repräsentative Waipu.TV-Umfrage zeigt, dass 44 Prozent der Deutschen trotz des großen Angebots nicht immer passende Inhalte finden und ebenso viele nach längerer Suche gelegentlich ganz auf das Fernsehen verzichten. Als zentrale Zukunftswünsche nennen die Befragten eine einfachere Auffindbarkeit (45 Prozent) sowie gebündelte Inhalte auf einer Oberfläche (35 Prozent). KI-gestützte Empfehlungen werden mehrheitlich (59 Prozent) begrüßt, die Kontrolle über den TV-Konsum möchten die Nutzer jedoch nicht abgeben – nur vier Prozent würden ihren Fernsehabend vollständig von KI planen lassen.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Maison Tabou\" floppt auch bei RTL+, \"Promi BB\" unter Vorjahr",
+          "link": "https://www.dwdl.de/zahlenzentrale/108257/maison_tabou_floppt_auch_bei_rtl_promi_bb_unter_vorjahr/",
+          "summary": "Das neue RTLzwei/UFA-Fiction-Dating-Format \"Maison Tabou\" erweist sich sowohl linear (0,5 Prozent Marktanteil bei den Jüngeren) als auch im Streaming (Nettoreichweite von nur rund 69.000) als Flop und bleibt sogar hinter älteren Formaten wie \"Kampf der Realitystars\" zurück. Auch etablierte Reality-Marken schwächeln: \"Love Island VIP\", \"Promi Big Brother\" (0,862 Millionen) und \"Das Sommerhaus der Stars\" (1,020 Millionen) liegen allesamt unter ihren Vorjahreswerten, während die ARD-Produktion \"Werwölfe\" in Woche 2 auf 0,647 Millionen zulegen konnte.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Bavaria & Engizek versuchen sich an Film/Microdrama-Hybrid",
-          "link": "https://www.dwdl.de/nachrichten/108251/bavaria__engizek_versuchen_sich_an_filmmicrodramahybrid/",
-          "summary": "Bavaria und Engizek produzieren mit \"The Munich Billionaire\" einen innovativen Hybrid, bei dem parallel ein 90-minütiger Film (16:9) und eine 50-teilige Vertical Series (9:16) entstehen – beide Fassungen wurden von Drehbuch über Bildgestaltung bis Casting von Beginn an gemeinsam entwickelt. Die Romantic Dramedy folgt einer Münchner Erbin (Barbara Elisabeth Bühl), die bis Mitternacht einen Verlobten benennen muss und sich für einen vermeintlichen Kellner entscheidet, der sich als Tech-Milliardär entpuppt. Idee und Buch stammen von Ekrem Engizek, der auch als Produzent fungiert.",
-          "score": 8
+          "title": "Burda: Medien- und Beteiligungsgeschäft werden eigenständig",
+          "link": "https://www.dwdl.de/nachrichten/108268/burda_medien_und_beteiligungsgeschaeft_werden_eigenstaendig/",
+          "summary": "Burda überführt sein Medien- und Beteiligungsgeschäft in zwei rechtlich eigenständige Unternehmen, um mehr unternehmerische Flexibilität, Geschwindigkeit und fokussierte Profile zu schaffen – an den Eigentumsverhältnissen der Burda-Gesellschafter ändert sich dabei nichts. Burda Media wird künftig von Elisabeth Varn geführt (internationales Portfolio verantwortet CFO Lydia Rullkötter), während Maximilian Preisser als CEO von Burda Equity die digitalen Beteiligungen und das Investmentgeschäft bündelt. Der Bereich Venture & Networks unter Christian Teichmann (inkl. DLD und BPI) bleibt von der Neuordnung unberührt.",
+          "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Teleshopping: Jan Hofer verkauft künftig Mode bei HSE",
-          "link": "https://www.dwdl.de/nachrichten/108250/teleshopping_jan_hofer_verkauft_kuenftig_mode_bei_hse/",
-          "summary": "Jan Hofer, langjähriger \"Tagesschau\"-Sprecher, startet eine neue Karriere als \"Live-Commerce Creator\" bei HSE und präsentiert ab dem 17. November seine selbst mitentwickelte \"Jan Hofer Signature Collection\" – eine zwölfteilige Herrenmodelinie in gedeckten Farben. Der Launch erfolgt zunächst plattformübergreifend via Onlineshop, App, YouTube und Instagram, bevor am 19. November die klassische TV-Premiere folgt, was HSEs strategische Verlagerung vom reinen Teleshopping hin zu digitalen Live-Commerce-Kanälen unterstreicht.",
+          "title": "Netflix trennt sich auch von Filmchef Dan Lin",
+          "link": "https://www.dwdl.de/nachrichten/108263/netflix_trennt_sich_auch_von_filmchef_dan_lin/",
+          "summary": "Netflix trennt sich von seinem im April 2024 angetretenen Filmchef Dan Lin sowie von Co-Filmleiter Doug Belgrad – Teil eines umfassenden personellen Umbaus, der auch den Stellenabbau von rund 1.000 Mitarbeitern und die Entlassung von Content-Chefin Bela Bajaria umfasst. Ein Nachfolger für Lin soll erst benannt werden, wenn der neue Content-Chef Peter Rice seinen Posten antritt; als Kandidaten gelten die früheren Warner-Bros.-Filmchefs Michael De Luca und Pamela Abdy. Hintergrund ist zunehmende Kritik an der programmlichen Aufstellung des Streamingdienstes.",
           "score": 10
         },
         {
           "source": "DWDL",
-          "title": "RTL weitet neue \"Bauer sucht Frau\"-Staffel noch etwas aus",
-          "link": "https://www.dwdl.de/nachrichten/108215/rtl_weitet_neue_bauer_sucht_fraustaffel_noch_etwas_aus/",
-          "summary": "RTL verlängert die neue Staffel von \"Bauer sucht Frau\" mit Inka Bause auf 14 Ausgaben – zwei mehr als im Vorjahr und die höchste Zahl seit Jahren – und startet am 9. November mit den gewohnten Sendeplätzen montags und dienstags um 20:15 Uhr. Flankiert wird das quotenstarke Format (zuletzt über 3 Millionen Zuschauer) durch \"Ralf, der Bauernreporter\" und \"Extra\". Parallel kehrt bei Vox am 7. November \"Martin Rütters Tierheimhelden\" mit sechs neuen Folgen zurück, obwohl das Format zuletzt mit rückläufigen Quoten unter einer Million Zuschauern zu kämpfen hatte.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "40. Medientage München: Die großen Baustellen der Medienbranche",
-          "link": "https://www.horizont.net/medien/nachrichten/40.-medientage-muenchen-die-grossen-baustellen-der-medienbranche-236258?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die 40. Medientage München widmen sich den zentralen Herausforderungen der Branche, darunter die wachsende Marktmacht großer Plattformen über die Verbreitung digitaler Inhalte und die Finanzierung von Journalismus. Diskutiert werden zudem die Verantwortung von Medienunternehmen beim Einsatz künstlicher Intelligenz sowie die Frage, wer über die Nachrichtenauswahl auf mobilen Endgeräten entscheidet.",
-          "score": 8
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Transparenz: YouTube führt Kennzeichnung für KI-Musik ein",
-          "link": "https://www.horizont.net/medien/nachrichten/transparenz-youtube-fuehrt-kennzeichnung-fuer-ki-musik-ein-236240?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "YouTube führt eine Kennzeichnungspflicht für KI-generierte Musik ein, die zunächst im hauseigenen Musik-Dienst startet und mehr Transparenz für Nutzer schaffen soll. Damit folgt die Google-Plattform dem Vorbild von Streamingdiensten wie Spotify und Apple.",
+          "title": "Paramount+ legt \"Eating with my Ex\" als VIP-Version neu auf",
+          "link": "https://www.dwdl.de/nachrichten/108235/paramount_legt_eating_with_my_ex_als_vipversion_neu_auf/",
+          "summary": "Paramount+ startet am 3. November 2026 die Promi-Version des Dating-Formats \"Eating with my Ex VIP\" mit drei wöchentlich ausgestrahlten Folgen in Deutschland, Österreich und der Schweiz. In der von UFA Show & Factual produzierten Adaption treffen sich prominente Ex-Paare wie Tommy Haas & Alessandra Meyer-Wölden sowie diverse Reality-Stars zu konfliktgeladenen Abendessen. Das Format lief ursprünglich 2022 und 2023 in zwei Staffeln bei Discovery+ und TLC.",
           "score": 7
         },
         {
           "source": "kress",
-          "title": "Österreich macht ernst: 100 Millionen Euro für Medien",
-          "link": "https://kress.de/news/beitrag/156806-oesterreich-macht-ernst-100-millionen-euro-fuer-medien-zustellfoerderung-digitaltransformation-und-slapp-schutz.html",
-          "summary": "Österreichs ÖVP-SPÖ-Koalition hat sich auf ein Medienpaket von rund 100 Millionen Euro für die Jahre 2027 und 2028 geeinigt, das jährlich 26,5 Millionen Euro Zustellförderung für Printmedien sowie eine Aufstockung des Digitaltransformationsfonds auf je 24 Millionen Euro umfasst. Erstmals profitieren auch kostenlose Zeitungen von der Zustellförderung, ausgenommen bleiben jedoch die über Verteilboxen verbreiteten Gratis-Tageszeitungen wie \"Heute\" und \"Oe24\". Zudem soll die EU-Richtlinie gegen Einschüchterungsklagen (SLAPP) nun zügig in nationales Recht umgesetzt werden, um Medien und NGOs vor strateg",
+          "title": "Bauer Media Group kauft eisbach.media: Einstieg in die deutsche Außenwerbung Publishing, Audio",
+          "link": "https://kress.de/news/beitrag/156805-bauer-media-group-kauft-eisbach-media-einstieg-in-die-deutsche-aussenwerbung.html",
+          "summary": "Die Bauer Media Group übernimmt den Digital-Out-of-Home-Anbieter eisbach.media von der Goldbach Group und steigt damit erstmals in den deutschen Außenwerbemarkt ein. Mit rund 1.500 digitalen Screens – unter anderem in Shopping-Malls und am Uber Platz in Berlin – setzt der Konzern nach der Clear-Channel-Übernahme seine Outdoor-Strategie fort. Der Abschluss steht noch unter dem Vorbehalt der behördlichen Genehmigung; finanzielle Details wurden nicht genannt.",
           "score": 7
         },
         {
           "source": "kress",
           "title": "FAZ, Handelsblatt, SZ und Zeit wollen Vermarkter gründen Die Verlage hinter der Frankfurter...",
           "link": "https://kress.de/news/beitrag/156801-faz-handelsblatt-sz-und-zeit-wollen-vermarkter-gruenden.html",
-          "summary": "Die vier überregionalen Qualitätsmedien FAZ, Handelsblatt, SZ und Zeit planen die Gründung eines gemeinsamen Vermarkters mit gleichmäßiger Beteiligung von je 25 Prozent, in den die bestehenden Strukturen von IQ Digital, IQ Media und dem Joint Venture Republic einfließen sollen. Ziel ist es, angesichts des zunehmend schwierigen Werbemarkts – mit Budgetverschiebungen zu digitalen Plattformen und KI-Anbietern – durch gebündelte Reichweite und Vermarktung aus einer Hand die Wettbewerbsfähigkeit zu stärken. Das Vorhaben steht noch unter dem Vorbehalt der Prüfung durch das Bundeskartellamt; Name und Führungspersonalien sind b",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Hautcreme von Haka Kunz Die Marke Euterpflege geht erstmals in die Streaming-Werbung Die...",
-          "link": "https://meedia.de/news/beitrag/25266-die-marke-euterpflege-geht-erstmals-in-die-streaming-werbung.html",
-          "summary": "Die Hautpflegemarke Euterpflege der Haka Kunz GmbH startet unter dem Motto „Hör auf deine Haut\" erstmals eine Streaming-Werbekampagne, die von Oktober bis Anfang Dezember mit einem 15-sekündigen Spot auf Netflix, RTL+, Amazon Prime Video und YouTube läuft. Der crossmediale Mediamix kombiniert Streaming, Audio (Spotify, Podcasts), Social Media, Programmatic Advertising sowie Out-of-Home und Geofencing, wobei die Kanalauswahl auf KI-gestützten Personas basiert. Verantwortlich für die Mediaplanung sind die Stuttgarter wirkstoffmedia AG, e-fly und Globalist; eine zweite Kampagnenwelle ist für Anfang 2027 ge",
+          "summary": "Die vier überregionalen Qualitätsmedien FAZ, Handelsblatt, SZ und Zeit planen die Gründung eines gemeinsamen Vermarkters mit gleichmäßiger Beteiligung von je 25 Prozent, wofür bestehende Strukturen wie IQ Digital, IQ Media und das Joint Venture Republic zusammengeführt werden sollen. Ziel ist es, angesichts eines zunehmend schwierigen Werbemarkts mit abwandernden Budgets zu digitalen Plattformen und KI-Anbietern die Reichweite gebündelt anzubieten und so die Wettbewerbsfähigkeit des Qualitätsjournalismus zu sichern. Das Vorhaben steht noch unter dem Prüfvorbehalt des Bundeskartellamts; Name und Führungspersonalien der ne",
           "score": 7
         },
         {
-          "source": "meedia",
-          "title": "Dossier CTV: Der Chef der Ad Alliance im Interview Frank Vogel und die nächste Stufe des Targetings Bei der Ad Alliance soll Werbung künftig auch nach Gefühlswelten ausgespielt werden: Mithilfe von KI will der Vermarkter emotionales Targeting ermöglichen. Gleichzeitig entsteht ein konvergenter Adserver, der lineares TV und Connected TV in Echtzeit gemeinsam ausspielen kann. CEO Frank Vogel spricht über die neuen technologischen Möglichkeiten, die gewachsene Schlagkraft nach der Sky-Übernahme",
-          "link": "https://meedia.de/news/beitrag/25262-frank-vogel-und-die-naechste-stufe-des-targetings.html",
-          "summary": "Die Ad Alliance unter CEO Frank Vogel plant nach der Sky-Übernahme den Ausbau ihrer Targeting-Fähigkeiten, darunter KI-gestütztes emotionales Targeting und einen konvergenten Adserver, der lineares TV und Connected TV in Echtzeit gemeinsam ausspielt. Trotz rückläufiger Umsätze und eines unter Druck stehenden TV-Werbemarkts setzt der Vermarkter auf Daten, Technologie und eine engere Verzahnung der Angebote, um RTL als europäische Alternative zu Google, Meta und YouTube zu positionieren.",
+          "source": "Guardian Media",
+          "title": "BBC Three and BBC Scotland TV channels to be shut down next year",
+          "link": "https://www.theguardian.com/media/2026/oct/20/bbc-three-and-bbc-scotland-tv-channels-to-be-shut-down",
+          "summary": "Die BBC schließt im Frühjahr 2027 die TV-Kanäle BBC Three und BBC Scotland sowie den Radiosender Radio 4 Extra und verlagert die Inhalte ins Online-Angebot (iPlayer, YouTube), um Teil der angestrebten Einsparungen von 500 Mio. £ zu realisieren. Bislang wurden jedoch erst rund 200 Mio. £ eingespart, sodass laut BBC-Insidern im kommenden Jahr weitere, kontroversere Kürzungen erforderlich werden. BBC Three, das sich an junges Publikum richtet und Serien wie Fleabag und Killing Eve hervorbrachte, wird damit zum zweiten Mal nach 2016 als lineare TV-Ausstrahlung eingestellt.",
+          "score": 10
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Worried about what your phone is doing to your brain? This new fad will make it worse | Imogen West-Knights",
+          "link": "https://www.theguardian.com/commentisfree/2026/oct/20/phone-brain-started-watching-microdramas",
+          "summary": "Microdramas – hochemotionale Serienformate mit 60-90 Sekunden langen Episoden und reißerischen Plots – haben sich von China ausgehend auch im westlichen Markt etabliert und sollen in den USA bis Jahresende 1,5 Mrd. US-Dollar Umsatz generieren. In Großbritannien, das europaweit führend ist, konsumieren bereits 8,2 Millionen Menschen monatlich solche Inhalte, und selbst Channel 4 steigt in das Format ein. Die Autorin kritisiert das Phänomen als intellektuell abstumpfend und thematisiert die potenziell schädlichen Auswirkungen auf die Aufmerksamkeitsspanne und Gehirnfunktion der Nutzer.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "BBC Three To Be Switched Off For Second Time, As BBC Confirms TV & Radio Network Closures",
+          "link": "https://deadline.com/2026/10/bbc-tv-network-closures-bbc-three-1237167379/",
+          "summary": "Die BBC schließt im Frühjahr 2027 im Rahmen eines Sparprogramms von 500 Millionen Pfund die linearen Sender BBC Three, BBC Scotland und Radio 4 Extra, wobei BBC Three bereits zum zweiten Mal innerhalb eines Jahrzehnts vom linearen Fernsehen genommen wird. Die betroffenen Marken bleiben auf iPlayer bestehen, und der Sender kündigte höhere Investitionen für jüngere Zielgruppen an. Parallel dazu plant die BBC 100 Stellenstreichungen in ihrer Nachrichtenabteilung mit Einsparungen von 5,5 Millionen Pfund.",
           "score": 8
         },
         {
-          "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts \"Jenke\" punktet mit \"Raus aus Deutschland\", \"Tiroler Blut noch...",
-          "link": "https://meedia.de/news/beitrag/25253-quot-jenke-quot-punktet-mit-quot-raus-aus-deutschland-quot-quot-tiroler-blut-noch-erfolgreicher-als-bei-der-premiere.html",
-          "summary": "Die ARD-Krimireihe \"Tiroler Blut\" erzielte am Donnerstagabend mit 5,43 Millionen Zuschauern und einem Marktanteil von 25,7 Prozent den Tagessieg und übertraf damit sogar ihre Premiere der Vorwoche. Beim jungen Publikum konkurrierten ProSiebens \"Jenke. Report.\" und die RTL-Übertragung des Europa-League-Spiels TSG Hoffenheim gegen Besiktas Istanbul um die Prime-Time-Führung, während \"Promi Big Brother\" deutlich hinter seine Vortageswerte zurückfiel.",
-          "score": 9
-        },
-        {
           "source": "Deadline",
-          "title": "Edward Berger Says Movie Biz “Needed Netflix To Wake Up” But Studios Can Now “Inspire” The Streamer",
-          "link": "https://deadline.com/2026/10/edward-berger-netflix-hollywood-studios-1237167413/",
-          "summary": "Regisseur Edward Berger („Im Westen nichts Neues\") erklärte beim MIA Market in Rom, die Filmbranche habe Netflix als Disruptor gebraucht, um aus ihrer Selbstzufriedenheit aufzuwachen. Angesichts von Netflix' jüngster Entlassungswelle (rund 1.000 Stellen) und der Konsolidierung von Paramount und Warner Bros. unter Skydance prognostiziert Berger jedoch eine Umkehrung des Verhältnisses, in dem künftig die Studios den Streamer inspirieren könnten. Zugleich lobte er seine „stressfreie\" Zusammenarbeit mit Netflix, das die Finanzierung seines deutschen Films ermöglichte, die über lokale oder internationale Vertriebswege nicht realisierbar gewesen wäre.",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Dan Lin Axed As Netflix Film Boss; Stock Slumping Streamer Set To Unveil Earnings Tuesday",
-          "link": "https://deadline.com/2026/10/netflix-dan-lin-out-1237167562/",
-          "summary": "Netflix hat Film-Chef Dan Lin entlassen – im Zuge von rund 1.000 Stellenstreichungen vor den für Dienstag erwarteten, voraussichtlich schwachen Quartalszahlen; die Aktie notiert bei 69,76 USD, deutlich unter dem 52-Wochen-Hoch von 124,86 USD. Bemerkenswert ist, dass zuvor bereits Lins Co-Film-Chef Doug Belgrad gehen musste und Lins Abgang mit dem Amtsantritt von Bela Bajarias Nachfolger Peter Rice am 26. Oktober zusammenfällt. Ironischerweise hatte Lin exakt die ihm aufgetragene Strategie umgesetzt – weniger und günstigere Filme statt teurer 200-Mio.-Dollar-Produktionen –",
-          "score": 10
+          "title": "Italian Prioduction Shoots Get U.S. Backing With $112M One Media Capital Fund",
+          "link": "https://deadline.com/2026/10/italy-film-tv-fund-launches-mia-market-1237168455/",
+          "summary": "Beim MIA Market in Rom wurde der 100-Millionen-Euro (112 Mio. USD) One Media Capital Fund vorgestellt, eine Kooperation zwischen Raj Singhs Media Capital Technologies und dem italienischen RP1 Holding, der Film- und TV-Produktionen in Italien finanziert und die Distribution unterstützt. Der Fonds versteht sich als Ergänzung zu klassischen Bankkrediten und europäischen Fördermitteln und soll Italien als Produktionsstandort attraktiver machen. Die Initiative reagiert auf Forderungen der EU-Kommission und führender Branchenvertreter nach mehr Eigeninvestitionen, um europäische Produzenten gegenüber den dominierenden US-Playern wettbewerbsfähiger zu machen.",
+          "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Netflix Film Head Dan Lin Out",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/netflix-film-head-dan-lin-out-1236733802/",
-          "summary": "Netflix trennt sich von Filmchef Dan Lin im Rahmen umfangreicher Entlassungen, die rund 1.000 Mitarbeiter betreffen – der größte Stellenabbau des Streamers seit 2022. Lin, der 2024 die Nachfolge von Scott Stuber angetreten hatte, sollte die Ausgaben senken und gleichzeitig die Qualität des gesamten Filmangebots steigern, wobei er die Filmsparte nach Genres neu strukturierte und verstärkt auf mittelgroße Produktionen setzte. Chief Content Officer Peter Rice wird voraussichtlich die Suche nach einer neuen Führungskraft übernehmen.",
-          "score": 10
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Banijay CEO: We Need Scale to Compete With Big Tech",
-          "link": "https://www.hollywoodreporter.com/business/business-news/ceo-marco-bassetti-banijay-all3media-mega-merger-1236735291/",
-          "summary": "Banijay-CEO Marco Bassetti betont nach dem 8,5-Milliarden-Dollar-Mega-Merger mit All3Media die strategische Notwendigkeit von Größe, um gegen Big-Tech-Konzerne wie Alphabet und Meta zu bestehen. Das Unternehmen positioniert sich zunehmend als umfassende „Entertainment Company\" und erweitert sein Portfolio über die klassische Produktion hinaus in Bereiche wie Distribution, Sport, Live-Events und Social Media (Little Dot Studios). Bassetti verfolgt dabei eine Wachstumsstrategie durch Akquisitionen etablierter, erfolgreicher Unternehmen, um die Markteinführungszeit zu verkürzen.",
-          "score": 9
+          "title": "Two-Thirds of Microdramas Released in Latest Quarter Outside China Were AI Generated, Says Report",
+          "link": "https://www.hollywoodreporter.com/business/digital/ai-generated-microdramas-two-thirds-all-releases-1236735402/",
+          "summary": "Laut einem Bericht von Owl & Co. waren im dritten Quartal 2026 zwei Drittel der außerhalb Chinas veröffentlichten Microdramas KI-generiert – ein deutlicher Anstieg gegenüber 3 Prozent im ersten und 28 Prozent im zweiten Quartal. Diese Entwicklung spiegelt den Trend in China wider, wo bereits über 95 Prozent der Titel KI-generiert sind, und geht mit wachsender Kritik von US-Branchenarbeitern einher, die von schwindenden Jobmöglichkeiten berichten. Bei zahlungspflichtigen Apps dominierten KI-Titel zudem die Bestenlisten, während nur ein Live-Action-Titel unter die Top 5 der meistgesehenen Verticals gelangte.",
+          "score": 8
         },
         {
           "source": "Variety",
-          "title": "Dan Lin Out as Netflix Film Chief",
-          "link": "https://variety.com/2026/film/news/dan-lin-exits-netflix-film-chief-1236913606/",
-          "summary": "Netflix hat Filmchef Dan Lin nach knapp drei Jahren entlassen – nur wenige Tage nach einem massiven Stellenabbau von rund 1.000 Mitarbeitern und der überraschenden Entlassung von Content-Chefin Bela Bajaria. Der Schritt ist Teil einer umfassenden kreativen Umstrukturierung, in deren Zuge der erfahrene Branchenmanager Peter Rice Bajaria ersetzt; als mögliche Nachfolger für Lin werden die ehemaligen Warner-Bros.-Führungskräfte Mike De Luca und Pam Abdy gehandelt.",
-          "score": 10
+          "title": "Palestinian Filmmaker Rakan Mayasi on His Search for Unconventional Stories and Portraying ‘Communities That Have Not Been on Film Before’",
+          "link": "https://variety.com/2026/film/global/rakan-mayasi-yesterday-the-eye-didnt-sleep-1236917359/",
+          "summary": "Der palästinensische Regisseur Rakan Mayasi feierte mit seinem Debütfilm „Yesterday the Eye Didn't Sleep\" in Cannes' Un Certain Regard Premiere – einer poetischen Geschichte über zwei Frauen, die in eine Blutfehde einer Beduinen-Gemeinschaft im libanesischen Bekaa-Tal verwickelt werden. Der von Mayasis Großmutter inspirierte und stilistisch von seinem Mentor Abbas Kiarostami geprägte Film läuft weiterhin erfolgreich auf Festivals wie El Gouna, CineMed und dem Rome Film Festival. Der internationale Vertrieb wird von Salaud Morisset übernommen.",
+          "score": 7
         },
         {
           "source": "Variety",
-          "title": "Globo, Netflix Strike Biggest Licensing Deal Between the Two Companies, Led by Walter Salles’ Oscar Winner ‘I’m Still Here’ (EXCLUSIVE)",
-          "link": "https://variety.com/2026/streaming/global/globo-netflix-im-still-here-walter-salles-india-a-love-story-1236916336/",
-          "summary": "Globo und Netflix haben ihr bislang größtes Lizenzabkommen geschlossen: Ab Dezember 2026 bis Mitte 2027 werden 18 Globo-Titel in Brasilien oder weltweit auf Netflix verfügbar, angeführt vom Oscar-Gewinner „I'm Still Here\" von Walter Salles. Zum Paket gehören auch der International-Emmy-Gewinner „India – A Love Story\" sowie „Vitória\" mit Oscar-Nominierter Fernanda Montenegro in der Hauptrolle.",
-          "score": 10
+          "title": "BBC Three Among Linear Services Set to Close as Broadcaster Looks for Savings",
+          "link": "https://variety.com/2026/tv/global/bbc-three-linear-close-savings-1236917382/",
+          "summary": "Die BBC wird 2027 mehrere lineare Broadcast-Dienste einstellen, darunter BBC Three, BBC Scotland und BBC Radio 4 Extra, im Rahmen eines Sparprogramms zur Einsparung von 500 Millionen Pfund bis 2028. Die Inhalte dieser Sender bleiben digital über iPlayer, BBC Sounds und YouTube verfügbar, wobei BBC Scotland als eigenständiger Kanal auf iPlayer fortgeführt wird. Generaldirektor Matt Brittin begründet die Maßnahme mit akuten Kostendrücken und der notwendigen Neuausrichtung der Rundfunkanstalt für ein verändertes Medienumfeld.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Skydance Boss David Ellison, New Mattel CEO Roger Lynch Join Paley Center’s Board of Trustees (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/news/paley-center-david-ellison-skydance-board-of-trustees-1236916968/",
+          "summary": "Das Paley Center for Media hat vier neue Mitglieder in sein Board of Trustees berufen: Skydance-CEO David Ellison, den neuen Mattel-CEO Roger Lynch, Meta-Präsidentin und Vice Chairman Dina Powell McCormick sowie Charter-Communications-CEO Chris Winfrey. Zusätzlich wurde Recording-Academy- und MusiCares-CEO Harvey Mason Jr. in das Los Angeles Board of Governors der Organisation aufgenommen. Die von Paley-Präsidentin Maureen J. Reidy verkündeten Ernennungen sollen die Position des Hauses als führende gemeinnützige Kulturinstitution der Medienbranche stärken.",
+          "score": 7
         }
       ]
     }
