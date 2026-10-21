@@ -1,112 +1,154 @@
 {
   "newsletters": [
     {
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Content-Dilemma: 44% finden trotz Auswahl kein passendes Programm",
-          "link": "https://www.dwdl.de/nachrichten/108271/contentdilemma_44_finden_trotz_auswahl_kein_passendes_programm/",
-          "summary": "Eine repräsentative Waipu.TV-Umfrage zeigt, dass 44 Prozent der Deutschen trotz des großen Angebots nicht immer passende Inhalte finden und ebenso viele nach längerer Suche gelegentlich ganz auf das Fernsehen verzichten. Als zentrale Zukunftswünsche nennen die Befragten eine einfachere Auffindbarkeit (45 Prozent) sowie gebündelte Inhalte auf einer Oberfläche (35 Prozent). KI-gestützte Empfehlungen werden mehrheitlich (59 Prozent) begrüßt, die Kontrolle über den TV-Konsum möchten die Nutzer jedoch nicht abgeben – nur vier Prozent würden ihren Fernsehabend vollständig von KI planen lassen.",
+          "title": "\"Wer etwas verändern will, muss auch Veränderungen vornehmen\"",
+          "link": "https://www.dwdl.de/nachrichten/108289/wer_etwas_veraendern_will_muss_auch_veraenderungen_vornehmen/",
+          "summary": "Ein Jahr nach der Kontrollübernahme durch MFE sieht ProSiebenSat.1-CEO Marco Giordani den Konzern strategisch klar auf das Kerngeschäft Entertainment ausgerichtet, während Geschäftsbereiche außerhalb davon schrittweise verkauft werden, um Mittel für Investitionen ins Mediengeschäft freizusetzen. Künftig soll sich der Unternehmenserfolg nicht mehr allein an linearen TV-Quoten, sondern verstärkt an der Leistung im Digital- und Streaminggeschäft bemessen. Trotz schwieriger Marktlage und spürbarem Druck beschreibt Giordani die Unternehmensatmosphäre als „tatkräftig“ und verweist auf MFE als langfristig orientierten Ankeraktionär.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "ZDF koproduziert isländische Thriller-Serie \"Vigilant\"",
+          "link": "https://www.dwdl.de/nachrichten/108290/zdf_koproduziert_islaendische_thrillerserie_vigilant/",
+          "summary": "Das ZDF koproduziert gemeinsam mit dem isländischen Telekommunikationsunternehmen Síminn und ACT4 die sechsteilige englischsprachige Thriller-Serie \"Vigilant\", deren Dreharbeiten Ende Oktober beginnen. Die Serie über eine Journalistin und einen Selbstjustiz verübenden Rächer gegen Sexualstraftäter basiert auf dem Roman \"Stóri bróðir\" von Skúli Sigurðsson und wird von der BAFTA-prämierten Regisseurin Kari Skogland (\"The Handmaid's Tale\") inszeniert. Den internationalen Vertrieb übernehmen Zero Gravity (USA) und ZDF Studios (restliche Welt).",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "\"Maison Tabou\" floppt auch bei RTL+, \"Promi BB\" unter Vorjahr",
-          "link": "https://www.dwdl.de/zahlenzentrale/108257/maison_tabou_floppt_auch_bei_rtl_promi_bb_unter_vorjahr/",
-          "summary": "Das neue RTLzwei/UFA-Fiction-Dating-Format \"Maison Tabou\" erweist sich sowohl linear (0,5 Prozent Marktanteil bei den Jüngeren) als auch im Streaming (Nettoreichweite von nur rund 69.000) als Flop und bleibt sogar hinter älteren Formaten wie \"Kampf der Realitystars\" zurück. Auch etablierte Reality-Marken schwächeln: \"Love Island VIP\", \"Promi Big Brother\" (0,862 Millionen) und \"Das Sommerhaus der Stars\" (1,020 Millionen) liegen allesamt unter ihren Vorjahreswerten, während die ARD-Produktion \"Werwölfe\" in Woche 2 auf 0,647 Millionen zulegen konnte.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Burda: Medien- und Beteiligungsgeschäft werden eigenständig",
-          "link": "https://www.dwdl.de/nachrichten/108268/burda_medien_und_beteiligungsgeschaeft_werden_eigenstaendig/",
-          "summary": "Burda überführt sein Medien- und Beteiligungsgeschäft in zwei rechtlich eigenständige Unternehmen, um mehr unternehmerische Flexibilität, Geschwindigkeit und fokussierte Profile zu schaffen – an den Eigentumsverhältnissen der Burda-Gesellschafter ändert sich dabei nichts. Burda Media wird künftig von Elisabeth Varn geführt (internationales Portfolio verantwortet CFO Lydia Rullkötter), während Maximilian Preisser als CEO von Burda Equity die digitalen Beteiligungen und das Investmentgeschäft bündelt. Der Bereich Venture & Networks unter Christian Teichmann (inkl. DLD und BPI) bleibt von der Neuordnung unberührt.",
+          "title": "Söder mahnt in München: \"Wir brauchen eine europäische Idee\"",
+          "link": "https://www.dwdl.de/nachrichten/108288/soeder_mahnt_in_muenchen_wir_brauchen_eine_europaeische_idee/",
+          "summary": "Bei der Eröffnung der 40. Medientage München warnte der bayerische Ministerpräsident Markus Söder vor dem wachsenden Einfluss internationaler Tech-Konzerne und digitaler Plattformen auf die öffentliche Meinungsbildung und forderte gemeinsame europäische Lösungen zur Regulierung von Zugängen, Vergütung und Inhaltsbestimmung. Söder bezeichnete die unkontrollierte Verbreitung von Desinformation – etwa über WhatsApp-Gruppen oder durch ausländische Einflussnahme – nicht nur als wirtschaftliche Herausforderung für Medienunternehmen, sondern als Gefahr für den demokratischen Prozess, der man nicht \"kampflos\" begegnen dürfe.",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Netflix trennt sich auch von Filmchef Dan Lin",
-          "link": "https://www.dwdl.de/nachrichten/108263/netflix_trennt_sich_auch_von_filmchef_dan_lin/",
-          "summary": "Netflix trennt sich von seinem im April 2024 angetretenen Filmchef Dan Lin sowie von Co-Filmleiter Doug Belgrad – Teil eines umfassenden personellen Umbaus, der auch den Stellenabbau von rund 1.000 Mitarbeitern und die Entlassung von Content-Chefin Bela Bajaria umfasst. Ein Nachfolger für Lin soll erst benannt werden, wenn der neue Content-Chef Peter Rice seinen Posten antritt; als Kandidaten gelten die früheren Warner-Bros.-Filmchefs Michael De Luca und Pamela Abdy. Hintergrund ist zunehmende Kritik an der programmlichen Aufstellung des Streamingdienstes.",
+          "title": "Streaming-Boost für \"Babylon\", \"Sommerhaus\", \"Love Island\"",
+          "link": "https://www.dwdl.de/zahlenzentrale/108285/streamingboost_fuer_babylon_sommerhaus_love_island/",
+          "summary": "Die AGF-Konvergenz-Hitliste für September 2026 wird von der ARD-Serie \"Babylon Berlin\" angeführt, deren erste Folge der finalen Staffel durch Streaming-Abrufe von 2,84 auf 4,05 Millionen Zuschauer anstieg. Trotz Streaming-Zuwächsen von teils bis zu 90 Prozent sinkt die konvergente Gesamtreichweite im Staffelverlauf deutlich, hauptsächlich bedingt durch die rückläufige lineare Nutzung. Noch höhere Streaming-Aufschläge verzeichneten die Reality-Formate \"Sommerhaus der Stars\" und \"Love Island\".",
           "score": 10
         },
         {
           "source": "DWDL",
-          "title": "Paramount+ legt \"Eating with my Ex\" als VIP-Version neu auf",
-          "link": "https://www.dwdl.de/nachrichten/108235/paramount_legt_eating_with_my_ex_als_vipversion_neu_auf/",
-          "summary": "Paramount+ startet am 3. November 2026 die Promi-Version des Dating-Formats \"Eating with my Ex VIP\" mit drei wöchentlich ausgestrahlten Folgen in Deutschland, Österreich und der Schweiz. In der von UFA Show & Factual produzierten Adaption treffen sich prominente Ex-Paare wie Tommy Haas & Alessandra Meyer-Wölden sowie diverse Reality-Stars zu konfliktgeladenen Abendessen. Das Format lief ursprünglich 2022 und 2023 in zwei Staffeln bei Discovery+ und TLC.",
-          "score": 7
+          "title": "Netflix mit weniger Werbeumsatz als ursprünglich geplant",
+          "link": "https://www.dwdl.de/nachrichten/108278/netflix_mit_weniger_werbeumsatz_als_urspruenglich_geplant/",
+          "summary": "Netflix verzeichnete im dritten Quartal 2026 ein Umsatzwachstum von zwölf Prozent auf 12,9 Milliarden Dollar sowie einen Gewinnanstieg von 44 Prozent, verfehlte jedoch seine Werbeumsatzziele für das Jahr (2,7 statt 3 Milliarden Dollar), was zu einem deutlichen Kursrückgang der Aktie führte. Hintergrund sind das niedrigste Wachstum seit Jahren, Verzögerungen bei der Einführung neuer Werbeprodukte sowie umfangreiche Umstrukturierungen inklusive des Abbaus von 1.000 Stellen und des Abgangs von Content-Chefin Bela Bajaria und Film-Chef Dan Lin.",
+          "score": 9
         },
         {
-          "source": "kress",
-          "title": "Bauer Media Group kauft eisbach.media: Einstieg in die deutsche Außenwerbung Publishing, Audio",
-          "link": "https://kress.de/news/beitrag/156805-bauer-media-group-kauft-eisbach-media-einstieg-in-die-deutsche-aussenwerbung.html",
-          "summary": "Die Bauer Media Group übernimmt den Digital-Out-of-Home-Anbieter eisbach.media von der Goldbach Group und steigt damit erstmals in den deutschen Außenwerbemarkt ein. Mit rund 1.500 digitalen Screens – unter anderem in Shopping-Malls und am Uber Platz in Berlin – setzt der Konzern nach der Clear-Channel-Übernahme seine Outdoor-Strategie fort. Der Abschluss steht noch unter dem Vorbehalt der behördlichen Genehmigung; finanzielle Details wurden nicht genannt.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "FAZ, Handelsblatt, SZ und Zeit wollen Vermarkter gründen Die Verlage hinter der Frankfurter...",
-          "link": "https://kress.de/news/beitrag/156801-faz-handelsblatt-sz-und-zeit-wollen-vermarkter-gruenden.html",
-          "summary": "Die vier überregionalen Qualitätsmedien FAZ, Handelsblatt, SZ und Zeit planen die Gründung eines gemeinsamen Vermarkters mit gleichmäßiger Beteiligung von je 25 Prozent, wofür bestehende Strukturen wie IQ Digital, IQ Media und das Joint Venture Republic zusammengeführt werden sollen. Ziel ist es, angesichts eines zunehmend schwierigen Werbemarkts mit abwandernden Budgets zu digitalen Plattformen und KI-Anbietern die Reichweite gebündelt anzubieten und so die Wettbewerbsfähigkeit des Qualitätsjournalismus zu sichern. Das Vorhaben steht noch unter dem Prüfvorbehalt des Bundeskartellamts; Name und Führungspersonalien der ne",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "BBC Three and BBC Scotland TV channels to be shut down next year",
-          "link": "https://www.theguardian.com/media/2026/oct/20/bbc-three-and-bbc-scotland-tv-channels-to-be-shut-down",
-          "summary": "Die BBC schließt im Frühjahr 2027 die TV-Kanäle BBC Three und BBC Scotland sowie den Radiosender Radio 4 Extra und verlagert die Inhalte ins Online-Angebot (iPlayer, YouTube), um Teil der angestrebten Einsparungen von 500 Mio. £ zu realisieren. Bislang wurden jedoch erst rund 200 Mio. £ eingespart, sodass laut BBC-Insidern im kommenden Jahr weitere, kontroversere Kürzungen erforderlich werden. BBC Three, das sich an junges Publikum richtet und Serien wie Fleabag und Killing Eve hervorbrachte, wird damit zum zweiten Mal nach 2016 als lineare TV-Ausstrahlung eingestellt.",
+          "source": "DWDL",
+          "title": "Streaming überholt 2026 erstmals lineare Umsätze in Deutschland",
+          "link": "https://www.dwdl.de/nachrichten/108273/streaming_ueberholt_2026_erstmals_lineare_umsaetze_in_deutschland/",
+          "summary": "Laut VAUNET-Herbstprognose überschreitet Streaming 2026 erstmals die 50-Prozent-Marke am deutschen Audio- und Bewegtbildmarkt: Mit 8,6 Milliarden Euro Umsatz entfallen 52 Prozent auf Streaming, während der Gesamtmarkt um 1,8 Prozent auf 16,3 Milliarden Euro wächst. Das Wachstum stammt ausschließlich aus dem Streaming (Videowerbung +15 %, Audiostreaming +10 %), während klassisches TV (-6 % auf 3,1 Mrd. Euro) und Radio (-6 % auf 636 Mio. Euro) in der Werbung weiter deutlich einbüßen.",
           "score": 10
         },
         {
-          "source": "Guardian Media",
-          "title": "Worried about what your phone is doing to your brain? This new fad will make it worse | Imogen West-Knights",
-          "link": "https://www.theguardian.com/commentisfree/2026/oct/20/phone-brain-started-watching-microdramas",
-          "summary": "Microdramas – hochemotionale Serienformate mit 60-90 Sekunden langen Episoden und reißerischen Plots – haben sich von China ausgehend auch im westlichen Markt etabliert und sollen in den USA bis Jahresende 1,5 Mrd. US-Dollar Umsatz generieren. In Großbritannien, das europaweit führend ist, konsumieren bereits 8,2 Millionen Menschen monatlich solche Inhalte, und selbst Channel 4 steigt in das Format ein. Die Autorin kritisiert das Phänomen als intellektuell abstumpfend und thematisiert die potenziell schädlichen Auswirkungen auf die Aufmerksamkeitsspanne und Gehirnfunktion der Nutzer.",
+          "source": "Horizont Medien",
+          "title": "Gegen internationale Plattformen: Pro Sieben Sat 1-Chef Marco Giordani wirbt für mehr Zusammenarbeit",
+          "link": "https://www.horizont.net/medien/nachrichten/gegen-internationale-plattformen-pro-sieben-sat-1-chef-marco-giordani-wirbt-fuer-mehr-zusammenarbeit-236289?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "ProSiebenSat.1-Vorstandschef Marco Giordani plädiert angesichts der wachsenden Konkurrenz durch internationale Technologiekonzerne für eine engere Zusammenarbeit zwischen deutschen bzw. europäischen Medienunternehmen. Ziel ist es, die eigene Wettbewerbsposition gegenüber globalen Plattformen zu stärken.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Quartalszahlen: Netflix bilanziert schwächstes Wachstum seit drei Jahren",
+          "link": "https://www.horizont.net/medien/nachrichten/quartalszahlen-netflix-bilanziert-schwaechstes-wachstum-seit-drei-jahren-236288?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Netflix verzeichnete im vergangenen Quartal das schwächste Wachstum seit drei Jahren und reagiert mit dem strategischen Ziel, die Nutzungsdauer seiner Inhalte zu steigern. Die Co-CEOs Ted Sarandos und Greg Peters betonten gegenüber Analysten den Anspruch, ein unverzichtbarer Unterhaltungsdienst zu werden, und räumten gleichzeitig Verbesserungspotenzial ein.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Vaunet-Herbstprognose: Streaming boomt, doch das Werbegeld landet vor allem bei Big Tech",
+          "link": "https://www.horizont.net/medien/nachrichten/vaunet-herbstprognose-streaming-boomt-doch-das-werbegeld-landet-vor-allem-bei-big-tech-236284?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Laut der Vaunet-Herbstprognose stammen 2026 erstmals mehr als die Hälfte der Audio- und Bewegtbildumsätze aus Streamingangeboten, womit das Streaming die klassischen Medien überholt. Vom boomenden digitalen Werbemarkt profitieren jedoch vor allem die großen Tech-Plattformen, während deutsche Medienanbieter beim Werbegeld das Nachsehen haben.",
+          "score": 10
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Dune: Part Three’ Smashes BFI Imax Record With 33,000 Admissions Sold In First 24 Hours",
+          "link": "https://deadline.com/2026/10/dune-part-three-smashes-bfi-imax-record-ticket-sales-1237169586/",
+          "summary": "„Dune: Part Three“ hat mit 33.000 verkauften Tickets und einem Umsatz von über 880.000 £ (988.000 $) in den ersten 24 Stunden den Vorverkaufsrekord des BFI IMAX gebrochen und damit Christopher Nolans „The Odyssey“ (750.000 £) übertroffen. Der von Denis Villeneuve inszenierte Film startet im Dezember und wird am BFI IMAX in 70mm gezeigt, wobei Preview-Vorstellungen ab dem 15. Dezember beginnen und die Vorgängerfilme ab dem 11. Dezember erneut auf der Leinwand zu sehen sind.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "BBC Three To Be Switched Off For Second Time, As BBC Confirms TV & Radio Network Closures",
-          "link": "https://deadline.com/2026/10/bbc-tv-network-closures-bbc-three-1237167379/",
-          "summary": "Die BBC schließt im Frühjahr 2027 im Rahmen eines Sparprogramms von 500 Millionen Pfund die linearen Sender BBC Three, BBC Scotland und Radio 4 Extra, wobei BBC Three bereits zum zweiten Mal innerhalb eines Jahrzehnts vom linearen Fernsehen genommen wird. Die betroffenen Marken bleiben auf iPlayer bestehen, und der Sender kündigte höhere Investitionen für jüngere Zielgruppen an. Parallel dazu plant die BBC 100 Stellenstreichungen in ihrer Nachrichtenabteilung mit Einsparungen von 5,5 Millionen Pfund.",
-          "score": 8
+          "title": "Roku Streamer Howdy Buys ‘The Walsh Sisters’",
+          "link": "https://deadline.com/2026/10/bbc-the-walsh-sisters-sells-roku-howdy-marian-keyes-1237168424/",
+          "summary": "Roku hat für seinen neuen, werbefreien Budget-Streamingdienst Howdy (2,99 USD/Monat) die exklusiven US-Rechte an der BBC-RTÉ-Erfolgsadaption „The Walsh Sisters“ erworben, basierend auf den Bestsellerromanen von Marian Keyes und mit „Derry Girls“-Star Louisa Harland in der Besetzung. Staffel 1 startet ab dem 5. November mit wöchentlichen Episoden exklusiv in den USA, Staffel 2 folgt im kommenden Jahr. Der Deal wurde über den Distributor Cineflix Rights abgeschlossen und unterstreicht Howdys Strategie, hochwertige Inhalte kostengünstig anzubieten.",
+          "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Italian Prioduction Shoots Get U.S. Backing With $112M One Media Capital Fund",
-          "link": "https://deadline.com/2026/10/italy-film-tv-fund-launches-mia-market-1237168455/",
-          "summary": "Beim MIA Market in Rom wurde der 100-Millionen-Euro (112 Mio. USD) One Media Capital Fund vorgestellt, eine Kooperation zwischen Raj Singhs Media Capital Technologies und dem italienischen RP1 Holding, der Film- und TV-Produktionen in Italien finanziert und die Distribution unterstützt. Der Fonds versteht sich als Ergänzung zu klassischen Bankkrediten und europäischen Fördermitteln und soll Italien als Produktionsstandort attraktiver machen. Die Initiative reagiert auf Forderungen der EU-Kommission und führender Branchenvertreter nach mehr Eigeninvestitionen, um europäische Produzenten gegenüber den dominierenden US-Playern wettbewerbsfähiger zu machen.",
+          "title": "How TIFFCOM Is Building On Cannes Recognition To Strengthen Global Networks, Co-Production & Japanese IP",
+          "link": "https://deadline.com/2026/10/tiffcom-cannes-amuse-agbo-amazon-toei-1237168353/",
+          "summary": "Japan war als „Country of Honour\" beim diesjährigen Marché du Film in Cannes stark präsent und lancierte gemeinsam mit TIFFCOM den dreitägigen Japan IP Market, um Co-Produktionen, Kollaborationen und Exporte seiner Inhalte verstärkt international auszubauen. Unterstützt wird diese Strategie durch das staatliche Förderprogramm IP360, das bis 2033 die Auslandsverkäufe japanischer Inhalte (Film, Anime, Games und Musik) auf 126 Milliarden US-Dollar steigern soll. Damit wandelt sich Japan von einem einst primär binnenmarktorientierten Content-Produzenten zu einem global ausgerichteten Akteur mit Fokus auf Nord- und Südamerika, Europa sowie den übrigen asiatischen Ra",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Jane Tranter Calls For “Stories That Change The Lack Of Empathy In Our World” & Reveals How James Gandolfini Influenced Bad Wolf",
+          "link": "https://deadline.com/2026/10/jane-tranter-other-bennet-sister-james-gandolfini-influence-1237168477/",
+          "summary": "Bad-Wolf-CEO Jane Tranter appellierte in einer Keynote auf dem MIA Market in Rom an TV-Macher, Geschichten zu erzählen, die mehr Empathie in der Welt schaffen und Menschen in ihrer Andersartigkeit akzeptieren – exemplifiziert am BBC-Period-Drama „The Other Bennet Sister“, das die übersehene Austen-Figur Mary ins Zentrum stellt und für das ein dreiteiliges Weihnachtsspecial bestellt wurde. Die Adaption von Janice Hadlows Roman erzählt „Pride and Prejudice“ aus Marys Perspektive und läuft in den USA auf BritBox.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Disney and Netflix Are Courting Creators. YouTube Is Playing Hardball to Keep Them",
+          "link": "https://www.hollywoodreporter.com/business/business-news/disney-and-netflix-are-courting-creators-youtube-is-playing-hardball-to-keep-them-1236737199/",
+          "summary": "YouTube reagiert mit einer „Zuckerbrot-und-Peitsche\"-Strategie auf den wachsenden Wettbewerb um Top-Creator, da Netflix, Disney+ und Tubi zunehmend millionenschwere Deals für originale oder zeitgleich veröffentlichte Inhalte abschließen. Netflix startete zunächst im Kinder- und Familiensegment (CoComelon, Ms. Rachel, Mark Rober) und weitete seine Akquise erfolgreich auf weitere Genres wie Food, Talk und Teen-Content aus, mit kolportierten Investitionen von über einer Milliarde Dollar. Dieser Kampf um Creator-Talente könnte laut Branchenexperten die Zukunft des Streaming-Entertainments maßgeblich prägen.",
+          "score": 9
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Netflix Stock and Price Targets Drop as Wall Street Debates If the Streamer Can Flip the Script",
+          "link": "https://www.hollywoodreporter.com/business/business-news/netflix-stock-analyst-reactions-q3-2026-earnings-report-1236736638/",
+          "summary": "Netflix' Aktie fiel nach dem Q3-Bericht im vorbörslichen Handel um über 6 Prozent auf ein neues 52-Wochen-Tief von 64,35 Dollar, während Analysten wie Mark Mahaney von Evercore ISI ihre Kursziele senkten (von 110 auf 90 Dollar bei beibehaltenem „Outperform\"-Rating). Co-CEO Ted Sarandos betonte, es brauche keine grundlegende Strategieänderung, sondern „bessere Umsetzung in den USA\", während Co-CEO Greg Peters einen Rückgang der Werbeeinnahmen für 2026 einräumte. Zudem kündigte Netflix größere Entlassungen sowie bedeutende Führungswechsel an, darunter der Abgang von Filmchef Dan Lin und die Ablösung",
+          "score": 9
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "‘La Bola Negra’ Commish Domingo Corral Touts HBO Max TV Deal: “I’ve Found a Home”",
+          "link": "https://www.hollywoodreporter.com/business/business-news/la-bola-negra-producer-domingo-corral-1236737177/",
+          "summary": "Domingo Corral, ehemaliger Fiction- und Entertainment-Chef von Movistar Plus+, hat nach seiner Entlassung 2025 ein exklusives First-Look-TV-Abkommen mit HBO Max für seine neue unabhängige Produktionsfirma geschlossen. Bei Movistar Plus+ hatte Corral preisgekrönte Projekte wie Oliver Laxes oscarnominierten „Sirât“ und den spanischen Oscar-Beitrag „La Bola Negra“ (von Netflix in Cannes erworben) mitverantwortet; sein überraschender Abgang führte zu einem Protestschreiben von 144 Branchengrößen wie Bardem, Cruz und Almodóvar.",
           "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Two-Thirds of Microdramas Released in Latest Quarter Outside China Were AI Generated, Says Report",
-          "link": "https://www.hollywoodreporter.com/business/digital/ai-generated-microdramas-two-thirds-all-releases-1236735402/",
-          "summary": "Laut einem Bericht von Owl & Co. waren im dritten Quartal 2026 zwei Drittel der außerhalb Chinas veröffentlichten Microdramas KI-generiert – ein deutlicher Anstieg gegenüber 3 Prozent im ersten und 28 Prozent im zweiten Quartal. Diese Entwicklung spiegelt den Trend in China wider, wo bereits über 95 Prozent der Titel KI-generiert sind, und geht mit wachsender Kritik von US-Branchenarbeitern einher, die von schwindenden Jobmöglichkeiten berichten. Bei zahlungspflichtigen Apps dominierten KI-Titel zudem die Bestenlisten, während nur ein Live-Action-Titel unter die Top 5 der meistgesehenen Verticals gelangte.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "Palestinian Filmmaker Rakan Mayasi on His Search for Unconventional Stories and Portraying ‘Communities That Have Not Been on Film Before’",
-          "link": "https://variety.com/2026/film/global/rakan-mayasi-yesterday-the-eye-didnt-sleep-1236917359/",
-          "summary": "Der palästinensische Regisseur Rakan Mayasi feierte mit seinem Debütfilm „Yesterday the Eye Didn't Sleep\" in Cannes' Un Certain Regard Premiere – einer poetischen Geschichte über zwei Frauen, die in eine Blutfehde einer Beduinen-Gemeinschaft im libanesischen Bekaa-Tal verwickelt werden. Der von Mayasis Großmutter inspirierte und stilistisch von seinem Mentor Abbas Kiarostami geprägte Film läuft weiterhin erfolgreich auf Festivals wie El Gouna, CineMed und dem Rome Film Festival. Der internationale Vertrieb wird von Salaud Morisset übernommen.",
+          "title": "“Horror Is Now Cool” as the Hunt for the Next ‘Obsession’ and ‘Backrooms’ Is on: Rome’s MIA",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/horror-leaders-obsession-backrooms-1236737149/",
+          "summary": "Beim MIA Market in Rom feierten Horror-Branchenführer die YouTuber-turned-Regisseure Curry Barker und Kane Parsons als Vorreiter eines Genre-Aufschwungs, der durch die Erholung des US-Kinomarkts getragen wird. Andrea Romeo von Wonder Pictures kündigte an, gezielt nach neuen Gen-Z-Talenten zu suchen – idealerweise nach einem „italienischen Kane Parsons“, vorzugsweise einer jungen Regisseurin. Die Panel-Teilnehmer betonten, dass das einstige Nischen-Stigma des Horrors überwunden sei und nicht-traditionelle Talente aus Plattformen wie YouTube frische Impulse für das Genre liefern.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "BBC Three Among Linear Services Set to Close as Broadcaster Looks for Savings",
-          "link": "https://variety.com/2026/tv/global/bbc-three-linear-close-savings-1236917382/",
-          "summary": "Die BBC wird 2027 mehrere lineare Broadcast-Dienste einstellen, darunter BBC Three, BBC Scotland und BBC Radio 4 Extra, im Rahmen eines Sparprogramms zur Einsparung von 500 Millionen Pfund bis 2028. Die Inhalte dieser Sender bleiben digital über iPlayer, BBC Sounds und YouTube verfügbar, wobei BBC Scotland als eigenständiger Kanal auf iPlayer fortgeführt wird. Generaldirektor Matt Brittin begründet die Maßnahme mit akuten Kostendrücken und der notwendigen Neuausrichtung der Rundfunkanstalt für ein verändertes Medienumfeld.",
+          "title": "Young Audiences Want to Redefine Modern Storytelling, New Study Shows",
+          "link": "https://variety.com/2026/film/news/young-audiences-redefine-modern-storytelling-ucla-study-1236918129/",
+          "summary": "Eine aktuelle UCLA-Studie des Center for Scholars & Storytellers (Befragung von über 1.500 Jugendlichen im Alter von 10-24 Jahren) zeigt, dass junge Zuschauer authentischere Darstellungen fordern und YouTube (72,9 %) als wichtigstes Storytelling-Medium bevorzugen, wobei Kurzvideos als vollwertige Erzählform gelten. Die Befragten wünschen sich mehr neurodivergente Charaktere (55 %) sowie platonische Beziehungen (57,3 %) und tendieren eher zu unbekannten Schauspielern als zu Influencern. Bemerkenswert ist zudem die Generationenkluft bei KI: Während 44,2 % der 10- bis 13-Jährigen deren mediale Darstellung „faszinierend“ finden, d",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "Skydance Boss David Ellison, New Mattel CEO Roger Lynch Join Paley Center’s Board of Trustees (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/news/paley-center-david-ellison-skydance-board-of-trustees-1236916968/",
-          "summary": "Das Paley Center for Media hat vier neue Mitglieder in sein Board of Trustees berufen: Skydance-CEO David Ellison, den neuen Mattel-CEO Roger Lynch, Meta-Präsidentin und Vice Chairman Dina Powell McCormick sowie Charter-Communications-CEO Chris Winfrey. Zusätzlich wurde Recording-Academy- und MusiCares-CEO Harvey Mason Jr. in das Los Angeles Board of Governors der Organisation aufgenommen. Die von Paley-Präsidentin Maureen J. Reidy verkündeten Ernennungen sollen die Position des Hauses als führende gemeinnützige Kulturinstitution der Medienbranche stärken.",
+          "title": "Netflix Stock Deflates to Two-Year Low. What Will It Take to Revive Revenue Growth?",
+          "link": "https://variety.com/2026/tv/news/netflix-stock-falls-two-year-low-after-earnings-report-1236918535/",
+          "summary": "Netflix-Aktie fiel nach dem Q3-2026-Bericht um 7% auf ein Zweijahrestief (unter 64 USD, -30% seit Jahresbeginn), nachdem sich das Umsatzwachstum abschwächte und die Werbeeinnahmen-Prognose für 2026 um 300 Mio. USD auf 2,7 Mrd. USD gesenkt wurde. Co-CEO Ted Sarandos setzt zur Wiederbelebung des Engagements auf eine bessere Umsetzung des Kerngeschäfts mit mehr erfolgreichen Inhalten und vollzog einen umfassenden Umbau der Content-Führung, einschließlich der Ablösung von Bela Bajaria durch Peter Rice. Zudem baute Netflix im Vorfeld der Zahlen 1.000 Stellen (",
+          "score": 10
+        },
+        {
+          "source": "Variety",
+          "title": "‘Glee’ Reboot Officially Set at Disney+ and Hulu",
+          "link": "https://variety.com/2026/tv/news/glee-reboot-disney-hulu-1236918160/",
+          "summary": "Disney+ und Hulu haben offiziell einen Reboot der erfolgreichen Musical-Dramedy „Glee“ von Ryan Murphy grünes Licht gegeben, produziert von 20th Television. Details sind bislang spärlich, jedoch deutet sich eine Rückkehr mehrerer Originaldarsteller an, nachdem der Produzent bereits Kontakt zu rund zehn ehemaligen Castmitgliedern aufgenommen hat. Die 2009 bis 2015 auf Fox ausgestrahlte Serie bleibt kulturell relevant und verzeichnet weiterhin durchschnittlich 4,1 Millionen monatliche Hörer auf Spotify.",
           "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Italian Content Investment Dropped 7.4% in 2025 Largely Due to Uncertainty Over Domestic Tax Credits, Rome MIA Market Report Says",
+          "link": "https://variety.com/2026/film/global/italian-content-investment-dropped-uncertainty-tax-credits-1236918479/",
+          "summary": "Die Investitionen in Content-Produktion für Italiens Film-, TV- und Streaming-Industrie fielen 2025 um 7,4% auf 2 Milliarden Euro, wobei der Scripted-Bereich besonders stark unter der Unsicherheit über staatliche Steueranreize litt. Hauptursache war laut dem APA-Bericht die regulatorische Hängepartie der italienischen Regierung bei den heimischen Tax Credits, während die internationalen Produktionsrabatte unverändert bestehen blieben. Diese Planungsunsicherheit erhöht die finanziellen Belastungen der Produzenten und schmälert deren Gewinnmargen.",
+          "score": 10
         }
       ]
     }
