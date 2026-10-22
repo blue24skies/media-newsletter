@@ -1,154 +1,203 @@
 {
   "newsletters": [
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "articles": [
         {
           "source": "DWDL",
-          "title": "\"Wer etwas verändern will, muss auch Veränderungen vornehmen\"",
-          "link": "https://www.dwdl.de/nachrichten/108289/wer_etwas_veraendern_will_muss_auch_veraenderungen_vornehmen/",
-          "summary": "Ein Jahr nach der Kontrollübernahme durch MFE sieht ProSiebenSat.1-CEO Marco Giordani den Konzern strategisch klar auf das Kerngeschäft Entertainment ausgerichtet, während Geschäftsbereiche außerhalb davon schrittweise verkauft werden, um Mittel für Investitionen ins Mediengeschäft freizusetzen. Künftig soll sich der Unternehmenserfolg nicht mehr allein an linearen TV-Quoten, sondern verstärkt an der Leistung im Digital- und Streaminggeschäft bemessen. Trotz schwieriger Marktlage und spürbarem Druck beschreibt Giordani die Unternehmensatmosphäre als „tatkräftig“ und verweist auf MFE als langfristig orientierten Ankeraktionär.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "ZDF koproduziert isländische Thriller-Serie \"Vigilant\"",
-          "link": "https://www.dwdl.de/nachrichten/108290/zdf_koproduziert_islaendische_thrillerserie_vigilant/",
-          "summary": "Das ZDF koproduziert gemeinsam mit dem isländischen Telekommunikationsunternehmen Síminn und ACT4 die sechsteilige englischsprachige Thriller-Serie \"Vigilant\", deren Dreharbeiten Ende Oktober beginnen. Die Serie über eine Journalistin und einen Selbstjustiz verübenden Rächer gegen Sexualstraftäter basiert auf dem Roman \"Stóri bróðir\" von Skúli Sigurðsson und wird von der BAFTA-prämierten Regisseurin Kari Skogland (\"The Handmaid's Tale\") inszeniert. Den internationalen Vertrieb übernehmen Zero Gravity (USA) und ZDF Studios (restliche Welt).",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Söder mahnt in München: \"Wir brauchen eine europäische Idee\"",
-          "link": "https://www.dwdl.de/nachrichten/108288/soeder_mahnt_in_muenchen_wir_brauchen_eine_europaeische_idee/",
-          "summary": "Bei der Eröffnung der 40. Medientage München warnte der bayerische Ministerpräsident Markus Söder vor dem wachsenden Einfluss internationaler Tech-Konzerne und digitaler Plattformen auf die öffentliche Meinungsbildung und forderte gemeinsame europäische Lösungen zur Regulierung von Zugängen, Vergütung und Inhaltsbestimmung. Söder bezeichnete die unkontrollierte Verbreitung von Desinformation – etwa über WhatsApp-Gruppen oder durch ausländische Einflussnahme – nicht nur als wirtschaftliche Herausforderung für Medienunternehmen, sondern als Gefahr für den demokratischen Prozess, der man nicht \"kampflos\" begegnen dürfe.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Streaming-Boost für \"Babylon\", \"Sommerhaus\", \"Love Island\"",
-          "link": "https://www.dwdl.de/zahlenzentrale/108285/streamingboost_fuer_babylon_sommerhaus_love_island/",
-          "summary": "Die AGF-Konvergenz-Hitliste für September 2026 wird von der ARD-Serie \"Babylon Berlin\" angeführt, deren erste Folge der finalen Staffel durch Streaming-Abrufe von 2,84 auf 4,05 Millionen Zuschauer anstieg. Trotz Streaming-Zuwächsen von teils bis zu 90 Prozent sinkt die konvergente Gesamtreichweite im Staffelverlauf deutlich, hauptsächlich bedingt durch die rückläufige lineare Nutzung. Noch höhere Streaming-Aufschläge verzeichneten die Reality-Formate \"Sommerhaus der Stars\" und \"Love Island\".",
+          "title": "Studio Babelsberg startet Masterclass für AI & Virtual Production",
+          "link": "https://www.dwdl.de/nachrichten/108310/studio_babelsberg_startet_masterclass_fuer_ai__virtual_production/",
+          "summary": "Studio Babelsberg startet eine mehrmonatige \"AI & Virtual Production Masterclass\", in deren Rahmen fünf ausgewählte Serienprojekte mithilfe generativer KI und Virtual Production weiterentwickelt werden – unter anderem zur Erstellung von Trailern, Pilotsequenzen und Pitch-Materialien. Unter Leitung von VFX-Spezialist Marc Weigert nutzen die Teilnehmenden die hauseigene Infrastruktur (LEDcave, Grey Stage), um den praktischen Einsatz der Technologien unter realen Produktionsbedingungen zu testen. Das Programm wird von T-Systems, Nvidia und dem MediaTech Hub Potsdam unterstützt sowie mit 595.000 Euro durch die Medienboard Berlin-Brandenburg geförd",
           "score": 10
         },
         {
           "source": "DWDL",
-          "title": "Netflix mit weniger Werbeumsatz als ursprünglich geplant",
-          "link": "https://www.dwdl.de/nachrichten/108278/netflix_mit_weniger_werbeumsatz_als_urspruenglich_geplant/",
-          "summary": "Netflix verzeichnete im dritten Quartal 2026 ein Umsatzwachstum von zwölf Prozent auf 12,9 Milliarden Dollar sowie einen Gewinnanstieg von 44 Prozent, verfehlte jedoch seine Werbeumsatzziele für das Jahr (2,7 statt 3 Milliarden Dollar), was zu einem deutlichen Kursrückgang der Aktie führte. Hintergrund sind das niedrigste Wachstum seit Jahren, Verzögerungen bei der Einführung neuer Werbeprodukte sowie umfangreiche Umstrukturierungen inklusive des Abbaus von 1.000 Stellen und des Abgangs von Content-Chefin Bela Bajaria und Film-Chef Dan Lin.",
+          "title": "ZDF und MV Filmförderung setzen Fifty-Fifty-Modell fort",
+          "link": "https://www.dwdl.de/nachrichten/108309/zdf_und_mv_filmfoerderung_setzen_fiftyfiftymodell_fort/",
+          "summary": "Das ZDF und die MV Filmförderung verlängern ihr \"Fifty-Fifty-Modell\" zur Nachwuchsförderung bis zum 30. Juni 2028, wobei beide Partner je bis zu 600.000 Euro paritätisch bereitstellen. Gefördert werden zeitgenössische, formal wie inhaltlich innovative Projekte aus Mecklenburg-Vorpommern in den Bereichen Regie, Buch und Produktion – darunter Spiel-, Dokumentar- und Animationsfilme sowie Miniserien ab 40 Minuten. Vergleichbare Kooperationen unterhält das ZDF auch mit der MFG Baden-Württemberg, der Mitteldeutschen Medienförderung und HessenFilm.",
           "score": 9
         },
         {
           "source": "DWDL",
-          "title": "Streaming überholt 2026 erstmals lineare Umsätze in Deutschland",
-          "link": "https://www.dwdl.de/nachrichten/108273/streaming_ueberholt_2026_erstmals_lineare_umsaetze_in_deutschland/",
-          "summary": "Laut VAUNET-Herbstprognose überschreitet Streaming 2026 erstmals die 50-Prozent-Marke am deutschen Audio- und Bewegtbildmarkt: Mit 8,6 Milliarden Euro Umsatz entfallen 52 Prozent auf Streaming, während der Gesamtmarkt um 1,8 Prozent auf 16,3 Milliarden Euro wächst. Das Wachstum stammt ausschließlich aus dem Streaming (Videowerbung +15 %, Audiostreaming +10 %), während klassisches TV (-6 % auf 3,1 Mrd. Euro) und Radio (-6 % auf 636 Mio. Euro) in der Werbung weiter deutlich einbüßen.",
+          "title": "\"Sharing is caring\": Neue Allianzen, bekannter Kostendruck",
+          "link": "https://www.dwdl.de/nachrichten/108303/sharing_is_caring_neue_allianzen_bekannter_kostendruck_/",
+          "summary": "Beim TV-Gipfel der Medientage München dominierte trotz angespannter Marktlage der Wille zur aktiven Gestaltung durch Partnerschaften. Leonine-CEO Fred Kogel beklagte das bislang herausforderndste Geschäftsjahr mit um 20 bis 25 Prozent gestiegenen Produktionskosten, einem Einbruch bei kurzfristigen Beauftragungen (vor allem im Non-Fiction-Bereich) und Werbemittel-Verlagerungen ins Digitale. Netflix-Contentchefin Katja Hofem betonte dagegen, dass für das Deutschlandgeschäft keine Budgetkürzungen anstünden und Entscheidungen weiterhin in Berlin getroffen würden.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Video-Trends: Creator als News-Quelle, KI als Vertrauensproblem",
+          "link": "https://www.dwdl.de/nachrichten/108269/videotrends_creator_als_newsquelle_ki_als_vertrauensproblem/",
+          "summary": "Die aktuelle \"Video-Trends\"-Studie der Landesmedienanstalten zeigt eine anhaltend hohe Bewegtbild-Nutzung (93 Prozent täglich), wobei soziale Medien mit 72 Prozent das lineare Fernsehen (56 Prozent) deutlich übertreffen. Besonders kritisch ist der wachsende Vertrauensverlust durch KI-generierte Videos: 77 Prozent fürchten gezielte Täuschung, 72 Prozent vertrauen Videos generell weniger als früher, und 91 Prozent fordern eine klare Kennzeichnungspflicht – die seit August durch den EU AI Act teilweise bereits verankert ist.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Strobl: ARD plant große Sender-Allianz für ESC-Vorentscheid 2028",
+          "link": "https://www.dwdl.de/nachrichten/108305/strobl_ard_plant_grosse_senderallianz_fuer_escvorentscheid_2028/",
+          "summary": "ARD-Programmdirektorin Christine Strobl hat auf den Medientagen München für eine erweiterte Sender-Allianz beim deutschen ESC-Vorentscheid 2028 geworben und will die bisherige Kooperation mit RTL auf mehrere Schultern verteilen. RTL-Content-Chefin Inga Leschek sowie ProSiebenSat.1-Content-Chef Henrik Pabst signalisierten beide grundsätzliche Offenheit für eine solche Zusammenarbeit. Konkrete Pläne oder einen Zeitplan nannte Strobl allerdings noch nicht.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "RTL setzt \"Die Verräter\" fort und verlängert MMA-Deal",
+          "link": "https://www.dwdl.de/nachrichten/108300/rtl_setzt_die_verraeter_fort_und_verlaengert_mmadeal/",
+          "summary": "RTL verlängert sein Erfolgsformat \"Die Verräter – Vertraue niemandem\" um eine fünfte Staffel, die 2027 erneut mit Moderatorin Sonja Zietlow und Produzent Filmpool Entertainment in Belgien gedreht wird; das Format profitiert dabei besonders von der starken OnDemand-Nutzung auf RTL+. Zusätzlich verlängert RTL seine Ende 2024 geschlossene Partnerschaft mit Oktagon MMA, deren Events bei RTL+ und gelegentlich im Free-TV übertragen werden und vor allem beim jungen Publikum steigende Reichweiten erzielen.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "Pitch gewonnen: Raab Entertainment produziert für Prime Video",
+          "link": "https://www.dwdl.de/nachrichten/108296/pitch_gewonnen_raab_entertainment_produziert_fuer_prime_video/",
+          "summary": "Raab Entertainment hat laut DWDL.de einen Pitch von Prime Video und Red Bull für ein neues Show-Event gewonnen – ein Seifenkistenrennen-Spektakel mit prominenten Teams, das 2027 erscheinen soll. Mit einem mittleren einstelligen Millionenbudget handelt es sich um den bislang größten Produktionsauftrag des Streamingdienstes in Deutschland. Das Projekt knüpft an das von Stefan Raab geprägte Genre sportlich-absurder Promi-Wettkämpfe an und bietet zugleich prominente Vermarktungsmöglichkeiten.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Deutsche Medienhäuser fordern faire Regeln für Plattformen und KI",
+          "link": "https://www.dwdl.de/nachrichten/108294/deutsche_medienhaeuser_fordern_faire_regeln_fuer_plattformen_und_ki/",
+          "summary": "Auf einem VAUNET-Panel der Medientage München betonten Vertreter aus Politik, öffentlich-rechtlichem Rundfunk, Privatfernsehen und Verlagswesen ihre branchenübergreifenden Interessen bei der Plattformregulierung, der Auffindbarkeit journalistischer Inhalte und deren Refinanzierung. Während VAUNET-Chef Claus Grewenig im digitalen Medienstaatsvertrag einen wichtigen Fortschritt sieht und ARD-Generalsekretärin Susanne Pfab die Branchenkooperationen hervorhob, forderte BDZV-Chef Stefan Hilscher klare politische Signale gegenüber US-Plattformen. Besonders scharf kritisierte er Metas geänderte Commercial Terms, durch die der Konzern von Medienhäusern",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "\"Man muss die alle verklagen\": Wegner rechnet mit KI-Firmen ab",
+          "link": "https://www.dwdl.de/nachrichten/108291/man_muss_die_alle_verklagen_wegner_rechnet_mit_kifirmen_ab/",
+          "summary": "Zeit-Chefredakteur Jochen Wegner forderte bei der Eröffnung der 40. Medientage München ein konsequentes juristisches Vorgehen gegen KI-Unternehmen, die journalistische Inhalte ohne Erlaubnis zum Training ihrer Modelle nutzen, und beschrieb die zunehmende Schwierigkeit, Inhalte technisch zu schützen – etwa gegen die Umgehung von Zugriffssperren durch zwischengeschaltete Dienstleister. Zugleich zeigte er sich optimistisch gegenüber den Chancen der KI und beobachtet in Redaktionen eine neue Experimentierfreude, die ihn an die Anfänge des Internets erinnere.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "ProSiebenSat.1 verkauft Video-Marktplatz glomex an 3Q",
+          "link": "https://www.dwdl.de/nachrichten/108282/prosiebensat1_verkauft_videomarktplatz_glomex_an_3q/",
+          "summary": "ProSiebenSat.1 verkauft seine Video-Marktplatz-Tochter glomex an den europäischen Streaming-Infrastruktur-Anbieter 3Q, der Abschluss wird für das erste Quartal 2027 erwartet. Durch die Übernahme ergänzt 3Q sein SaaS-Lizenzmodell um Premium-Content, Distribution und ein umsatzbeteiligungsbasiertes Monetarisierungsmodell, während glomex als eigenständige Marke unter Geschäftsführer Lars Friedrichs fortgeführt wird. Der Verkauf ist Teil der Strategie von ProSiebenSat.1, sich stärker auf das Kerngeschäft Entertainment zu konzentrieren, wobei der Konzern zentraler Content- und Vermarktungspartner von glomex bleibt.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Studie von ARD, ZDF und Deutschlandfunk: Tech-Konzerne könnten den Medienmarkt bis 2035 dominieren",
+          "link": "https://www.horizont.net/medien/nachrichten/studie-von-ard-zdf-und-deutschlandfunk-tech-konzerne-koennten-den-medienmarkt-bis-2035-dominieren-236313?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Eine gemeinsame Studie von ARD, ZDF und Deutschlandfunk zeichnet in verschiedenen Szenarien, wie Künstliche Intelligenz und große Tech-Konzerne den Medienmarkt bis 2035 zunehmend dominieren könnten. Im pessimistischsten Szenario droht der Wegfall jeder zweiten journalistischen Stelle, wodurch traditionelle Medien wie Zeitungen und Sender massiv unter Druck geraten würden.",
+          "score": 9
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Interview: Rethink TV: Das plant Thorsten Braun für RTL Zwei",
+          "link": "https://www.horizont.net/medien/nachrichten/interview-rethink-tv-das-plant-thorsten-braun-fuer-rtl-zwei-236285?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "RTL-Zwei-Geschäftsführer Thorsten Braun kündigt eine umfassende Neuausrichtung des Grünwalder Senders an und erteilt der bisherigen \"Streaming First\"-Strategie eine Absage. Im Interview mit HORIZONT erläutert er zudem, welche Chancen sich durch das Ende der Zusammenarbeit mit den Geissens ergeben und wie er den Sender insgesamt neu positionieren will.",
           "score": 10
         },
         {
           "source": "Horizont Medien",
-          "title": "Gegen internationale Plattformen: Pro Sieben Sat 1-Chef Marco Giordani wirbt für mehr Zusammenarbeit",
-          "link": "https://www.horizont.net/medien/nachrichten/gegen-internationale-plattformen-pro-sieben-sat-1-chef-marco-giordani-wirbt-fuer-mehr-zusammenarbeit-236289?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "ProSiebenSat.1-Vorstandschef Marco Giordani plädiert angesichts der wachsenden Konkurrenz durch internationale Technologiekonzerne für eine engere Zusammenarbeit zwischen deutschen bzw. europäischen Medienunternehmen. Ziel ist es, die eigene Wettbewerbsposition gegenüber globalen Plattformen zu stärken.",
-          "score": 8
+          "title": "Studie: Bei den Medien boomt KI - doch der wirtschaftliche Durchbruch fehlt",
+          "link": "https://www.horizont.net/medien/nachrichten/studie-bei-den-medien-boomt-ki---doch-der-wirtschaftliche-durchbruch-fehlt-236279?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Eine Studie von Media Lab Bayern und dem KI-Kompetenzzentrum Medien zeigt, dass KI zwar fester Bestandteil des Arbeitsalltags in Medienhäusern geworden ist, es jedoch weiterhin an strategischer Verankerung und wirtschaftlichem Durchbruch mangelt. Die Ergebnisse, die eine deutliche Lücke zwischen praktischem Einsatz und strategischer Integration offenlegen, werden bei den Medientagen München vorgestellt.",
+          "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Quartalszahlen: Netflix bilanziert schwächstes Wachstum seit drei Jahren",
-          "link": "https://www.horizont.net/medien/nachrichten/quartalszahlen-netflix-bilanziert-schwaechstes-wachstum-seit-drei-jahren-236288?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Netflix verzeichnete im vergangenen Quartal das schwächste Wachstum seit drei Jahren und reagiert mit dem strategischen Ziel, die Nutzungsdauer seiner Inhalte zu steigern. Die Co-CEOs Ted Sarandos und Greg Peters betonten gegenüber Analysten den Anspruch, ein unverzichtbarer Unterhaltungsdienst zu werden, und räumten gleichzeitig Verbesserungspotenzial ein.",
+          "title": "Medien- und Beteiligungsgeschäft: Hubert Burda Media spaltet sich auf",
+          "link": "https://www.horizont.net/medien/nachrichten/medien--und-beteiligungsgeschaeft-hubert-burda-media-spaltet-sich-auf-236278?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Hubert Burda Media teilt den Konzern in zwei rechtlich eigenständige Unternehmen auf und trennt damit das Medien- vom Beteiligungsgeschäft. Ziel der Neuaufstellung ist die Schaffung zweier fokussierter Unternehmen mit klaren Profilen, während die Besitzverhältnisse unverändert bleiben.",
+          "score": 7
+        },
+        {
+          "source": "kress",
+          "title": "Medien- und Beteiligungsgeschäft werden eigenständige Unternehmen Burda überführt sein...",
+          "link": "https://kress.de/news/beitrag/156811-burda-teilt-sich-auf-medien-und-beteiligungsgeschaeft-werden-eigenstaendige-unternehmen.html",
+          "summary": "Burda überführt seine beiden Kerngeschäfte – Medien und Beteiligungen – in zwei rechtlich eigenständige Unternehmen (Burda Media und Burda Equity), wobei die rechtliche Umsetzung bis spätestens 2028 abgeschlossen sein soll. An den Eigentumsverhältnissen ändert sich nichts; die Gesellschafter bleiben mit unveränderten Anteilen an beiden Unternehmen beteiligt. Maximilian Preisser übernimmt die Führung von Burda Equity, während Elisabeth Varn seit Juli 2026 als Vorstand Media die Medien- und Verlagsaktivitäten verantwortet.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "„Auf Twitch liegt noch viel Potenzial“ Amazon Ads verbindet Streaming-TV, E-Commerce und Werbung über verschiedene Plattformen hinweg.",
+          "link": "https://meedia.de/news/beitrag/25290-nils-graef-auf-twitch-liegt-noch-viel-potenzial.html",
+          "summary": "Amazon-Deutschlandchef Nils Gräf positioniert die Amazon DSP als zentrale, KI-gestützte Buchungsplattform, die eigene Angebote wie Prime Video, Twitch und Fire TV mit externem Third-Party-Inventar verknüpft, um der zunehmenden Medienfragmentierung zu begegnen. Im Fokus stehen dabei Wachstumschancen im Connected-TV-Markt, interaktive Werbeformate zur Umwandlung von Zuschauern in Kunden sowie der Einsatz von KI in der Werbemittelproduktion. Zudem betont Gräf die Bedeutung unabhängiger Reichweitenmessung für den Markt.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "68 Prozent der Menschen in Deutschland haben bereits ein KI-Video für echt gehalten.",
+          "link": "https://meedia.de/news/beitrag/25291-video-trends-2026-ki-videos-erschuettern-das-vertrauen-in-bewegtbild.html",
+          "summary": "Laut der Studie „Video Trends 2026“ der Medienanstalten haben 68 Prozent der Menschen in Deutschland bereits ein KI-generiertes Video für echt gehalten, während 72 Prozent der Echtheit von Bewegtbild inzwischen weniger vertrauen als früher. Eine deutliche Mehrheit fordert strengere Regulierung: 91 Prozent sprechen sich für eine Kennzeichnungspflicht von KI-Inhalten und 83 Prozent für ein Deepfake-Verbot aus. DLM-Vorsitzender Dr. Thorsten Schmiege wertet die mangelnde Erkennbarkeit von KI-Videos als Warnsignal und mahnt klare Regeln an.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Bewegtbild-Marktplatz verkauft 3Q übernimmt Glomex von ProSiebenSat.1 ProSiebenSat.1 trennt sich von einer weiteren Tochterfirma: Der Münchner Streaming-Spezialist 3Q übernimmt Glomex vom TV-Konzern. Mit der Übernahme wollen die Unternehmen ihre Angebote für Publisher bündeln und deren Möglichkeiten zur Produktion, Verbreitung und Monetarisierung von Videoinhalten erweitern. Der Abschluss der Transaktion ist für das erste Quartal 2027 vorgesehen. Was sich 3Q von dem Video-Marktplatz erhofft",
+          "link": "https://meedia.de/news/beitrag/25288-3q-uebernimmt-glomex-von-prosiebensat-1.html",
+          "summary": "ProSiebenSat.1 verkauft seine Tochter Glomex an den Münchner Streaming-Spezialisten 3Q, wobei der Abschluss der Transaktion für das erste Quartal 2027 geplant ist und der Kaufpreis nicht genannt wurde. Durch den Zusammenschluss kombiniert 3Q seine europäische Videoinfrastruktur und SaaS-Plattform mit dem Video-Marktplatz, den Content-Syndizierungsangeboten und den Monetarisierungslösungen von Glomex. Ziel ist ein umfassenderes Angebot für Medienhäuser und Publisher zur Produktion, Verbreitung und Monetarisierung von Videoinhalten sowie zur Erschließung zusätzlicher Erlösquellen.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Buchungsrückgang beim CTV-Vorreiter Netflix senkt Werbeprognose: Wachstum verliert an Tempo Netflix...",
+          "link": "https://meedia.de/news/beitrag/25286-netflix-senkt-werbeprognose-wachstum-verliert-an-tempo.html",
+          "summary": "Netflix senkt seine Werbeprognose für 2026 von drei auf 2,7 Milliarden US-Dollar und begründet dies vor allem mit Verzögerungen bei der Einführung neuer Werbeprodukte sowie einem verlangsamten Umsatzwachstum im dritten Quartal. Trotz der Korrektur hält der Streaming-Marktführer an seinen Expansionsplänen fest und will das Werbeabo 2026 in 15 weiteren Ländern anbieten. Für die sonst wachstumsstarke CTV-Branche gilt die gedämpfte Prognose des Pioniers als ernüchternder Frühindikator und Warnsignal vor überzogener Werbe-Euphorie.",
+          "score": 9
+        },
+        {
+          "source": "meedia",
+          "title": "Verband der privaten Audio- und audiovisuellen Medien Vaunet-Zahlen: Umsatz steigt auf 16,3...",
+          "link": "https://meedia.de/news/beitrag/25279-vaunet-zahlen-umsatz-steigt-auf-16-3-milliarden-euro.html",
+          "summary": "Laut Vaunet-Herbstprognose steigen die Umsätze audio- und audiovisueller Medien 2026 um 1,8 Prozent auf 16,3 Milliarden Euro, getragen ausschließlich vom Streaming-Wachstum. Die Streamingerlöse übersteigen mit 8,6 Milliarden Euro (52 Prozent Anteil) erstmals die Erlöse klassischer Mediengattungen, während klassische TV- und Radiowerbung jeweils um 6 Prozent zurückgehen. Bemerkenswert: 72 Prozent der Streaming-Werbeumsätze entfallen auf vier globale Big-Tech-Plattformen.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Skydance Nordics & Germany Boss Says “We’re Doing Our Best To Manage The Change” After Mega-Merger",
+          "link": "https://deadline.com/2026/10/christina-sulebakk-on-skydance-merger-nordics-germany-1237170520/",
+          "summary": "Christina Sulebakk, Leiterin des Skydance-Geschäfts in den Nordics, Deutschland und Benelux, äußerte sich beim Munich Media Days als eine der ersten internationalen Senior-Führungskräfte öffentlich zur $110-Mrd.-Fusion und betonte dabei die Bedeutung von offener Kommunikation und Präsenz im Change-Management. Sie verwies auf die parallel stattfindende branchenweite Transformation bei Wettbewerbern wie RTL, ProSieben und Netflix. Während das internationale Skydance-Geschäft überwiegend von JB Perrette aus Los Angeles geleitet wird, bleiben zentrale Fragen zur künftigen Struktur und Aufteilung der Nicht-US-Territorien weiterhin offen.",
           "score": 10
         },
         {
-          "source": "Horizont Medien",
-          "title": "Vaunet-Herbstprognose: Streaming boomt, doch das Werbegeld landet vor allem bei Big Tech",
-          "link": "https://www.horizont.net/medien/nachrichten/vaunet-herbstprognose-streaming-boomt-doch-das-werbegeld-landet-vor-allem-bei-big-tech-236284?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Laut der Vaunet-Herbstprognose stammen 2026 erstmals mehr als die Hälfte der Audio- und Bewegtbildumsätze aus Streamingangeboten, womit das Streaming die klassischen Medien überholt. Vom boomenden digitalen Werbemarkt profitieren jedoch vor allem die großen Tech-Plattformen, während deutsche Medienanbieter beim Werbegeld das Nachsehen haben.",
+          "source": "Hollywood Reporter",
+          "title": "Chuck Lorre Talks David Ellison Optimism, Scientology and the Perks (Really!) of Working for Roseanne Barr",
+          "link": "https://www.hollywoodreporter.com/tv/tv-features/chuck-lorre-interview-david-ellison-roseanne-barr-1236737584/",
+          "summary": "TV-Produzent Chuck Lorre (u.a. „The Big Bang Theory“, „Two and a Half Men“) hat am 13. Oktober seine Memoiren „Sitcom“ veröffentlicht, in denen er offen über Konflikte mit Stars wie Charlie Sheen, Brett Butler, Cybill Shepherd und Roseanne Barr spricht. Die Enthüllungen lösten bereits öffentliche Gegenreaktionen aus, etwa von Tom Arnold, der Lorres Darstellung zu Drehbuch-Credits scharf zurückwies; Lorre selbst zeigt sich jedoch an keiner weiteren öffentlichen Auseinandersetzung interessiert.",
           "score": 10
         },
         {
-          "source": "Deadline",
-          "title": "‘Dune: Part Three’ Smashes BFI Imax Record With 33,000 Admissions Sold In First 24 Hours",
-          "link": "https://deadline.com/2026/10/dune-part-three-smashes-bfi-imax-record-ticket-sales-1237169586/",
-          "summary": "„Dune: Part Three“ hat mit 33.000 verkauften Tickets und einem Umsatz von über 880.000 £ (988.000 $) in den ersten 24 Stunden den Vorverkaufsrekord des BFI IMAX gebrochen und damit Christopher Nolans „The Odyssey“ (750.000 £) übertroffen. Der von Denis Villeneuve inszenierte Film startet im Dezember und wird am BFI IMAX in 70mm gezeigt, wobei Preview-Vorstellungen ab dem 15. Dezember beginnen und die Vorgängerfilme ab dem 11. Dezember erneut auf der Leinwand zu sehen sind.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Roku Streamer Howdy Buys ‘The Walsh Sisters’",
-          "link": "https://deadline.com/2026/10/bbc-the-walsh-sisters-sells-roku-howdy-marian-keyes-1237168424/",
-          "summary": "Roku hat für seinen neuen, werbefreien Budget-Streamingdienst Howdy (2,99 USD/Monat) die exklusiven US-Rechte an der BBC-RTÉ-Erfolgsadaption „The Walsh Sisters“ erworben, basierend auf den Bestsellerromanen von Marian Keyes und mit „Derry Girls“-Star Louisa Harland in der Besetzung. Staffel 1 startet ab dem 5. November mit wöchentlichen Episoden exklusiv in den USA, Staffel 2 folgt im kommenden Jahr. Der Deal wurde über den Distributor Cineflix Rights abgeschlossen und unterstreicht Howdys Strategie, hochwertige Inhalte kostengünstig anzubieten.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "How TIFFCOM Is Building On Cannes Recognition To Strengthen Global Networks, Co-Production & Japanese IP",
-          "link": "https://deadline.com/2026/10/tiffcom-cannes-amuse-agbo-amazon-toei-1237168353/",
-          "summary": "Japan war als „Country of Honour\" beim diesjährigen Marché du Film in Cannes stark präsent und lancierte gemeinsam mit TIFFCOM den dreitägigen Japan IP Market, um Co-Produktionen, Kollaborationen und Exporte seiner Inhalte verstärkt international auszubauen. Unterstützt wird diese Strategie durch das staatliche Förderprogramm IP360, das bis 2033 die Auslandsverkäufe japanischer Inhalte (Film, Anime, Games und Musik) auf 126 Milliarden US-Dollar steigern soll. Damit wandelt sich Japan von einem einst primär binnenmarktorientierten Content-Produzenten zu einem global ausgerichteten Akteur mit Fokus auf Nord- und Südamerika, Europa sowie den übrigen asiatischen Ra",
-          "score": 9
-        },
-        {
-          "source": "Deadline",
-          "title": "Jane Tranter Calls For “Stories That Change The Lack Of Empathy In Our World” & Reveals How James Gandolfini Influenced Bad Wolf",
-          "link": "https://deadline.com/2026/10/jane-tranter-other-bennet-sister-james-gandolfini-influence-1237168477/",
-          "summary": "Bad-Wolf-CEO Jane Tranter appellierte in einer Keynote auf dem MIA Market in Rom an TV-Macher, Geschichten zu erzählen, die mehr Empathie in der Welt schaffen und Menschen in ihrer Andersartigkeit akzeptieren – exemplifiziert am BBC-Period-Drama „The Other Bennet Sister“, das die übersehene Austen-Figur Mary ins Zentrum stellt und für das ein dreiteiliges Weihnachtsspecial bestellt wurde. Die Adaption von Janice Hadlows Roman erzählt „Pride and Prejudice“ aus Marys Perspektive und läuft in den USA auf BritBox.",
+          "source": "Hollywood Reporter",
+          "title": "Ben Silverman Still Doesn’t Want a Job — But He’s Busier Than Ever",
+          "link": "https://www.hollywoodreporter.com/business/business-news/ben-silverman-propagate-tv-docs-1236737224/",
+          "summary": "Produzent Ben Silverman, Chairman und Co-CEO von Propagate Content, verbindet zunehmend seine Leidenschaft für Golf mit seiner beruflichen Tätigkeit: Das Unternehmen belebt das Skins Game bei Amazon wieder, entwickelt eine Anthony-Kim-Dokumentation und bringt am 4. November die zweite Staffel der Golf-Comedy „Stick“ mit Owen Wilson auf Apple TV heraus. Der 56-jährige Silverman, der seit seinem 30. Lebensjahr TV produziert und aus einer künstlerisch geprägten Familie stammt, bleibt trotz seiner Aussage, keinen festen Job zu wollen, so aktiv wie nie zuvor.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "Disney and Netflix Are Courting Creators. YouTube Is Playing Hardball to Keep Them",
-          "link": "https://www.hollywoodreporter.com/business/business-news/disney-and-netflix-are-courting-creators-youtube-is-playing-hardball-to-keep-them-1236737199/",
-          "summary": "YouTube reagiert mit einer „Zuckerbrot-und-Peitsche\"-Strategie auf den wachsenden Wettbewerb um Top-Creator, da Netflix, Disney+ und Tubi zunehmend millionenschwere Deals für originale oder zeitgleich veröffentlichte Inhalte abschließen. Netflix startete zunächst im Kinder- und Familiensegment (CoComelon, Ms. Rachel, Mark Rober) und weitete seine Akquise erfolgreich auf weitere Genres wie Food, Talk und Teen-Content aus, mit kolportierten Investitionen von über einer Milliarde Dollar. Dieser Kampf um Creator-Talente könnte laut Branchenexperten die Zukunft des Streaming-Entertainments maßgeblich prägen.",
-          "score": 9
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Netflix Stock and Price Targets Drop as Wall Street Debates If the Streamer Can Flip the Script",
-          "link": "https://www.hollywoodreporter.com/business/business-news/netflix-stock-analyst-reactions-q3-2026-earnings-report-1236736638/",
-          "summary": "Netflix' Aktie fiel nach dem Q3-Bericht im vorbörslichen Handel um über 6 Prozent auf ein neues 52-Wochen-Tief von 64,35 Dollar, während Analysten wie Mark Mahaney von Evercore ISI ihre Kursziele senkten (von 110 auf 90 Dollar bei beibehaltenem „Outperform\"-Rating). Co-CEO Ted Sarandos betonte, es brauche keine grundlegende Strategieänderung, sondern „bessere Umsetzung in den USA\", während Co-CEO Greg Peters einen Rückgang der Werbeeinnahmen für 2026 einräumte. Zudem kündigte Netflix größere Entlassungen sowie bedeutende Führungswechsel an, darunter der Abgang von Filmchef Dan Lin und die Ablösung",
-          "score": 9
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "‘La Bola Negra’ Commish Domingo Corral Touts HBO Max TV Deal: “I’ve Found a Home”",
-          "link": "https://www.hollywoodreporter.com/business/business-news/la-bola-negra-producer-domingo-corral-1236737177/",
-          "summary": "Domingo Corral, ehemaliger Fiction- und Entertainment-Chef von Movistar Plus+, hat nach seiner Entlassung 2025 ein exklusives First-Look-TV-Abkommen mit HBO Max für seine neue unabhängige Produktionsfirma geschlossen. Bei Movistar Plus+ hatte Corral preisgekrönte Projekte wie Oliver Laxes oscarnominierten „Sirât“ und den spanischen Oscar-Beitrag „La Bola Negra“ (von Netflix in Cannes erworben) mitverantwortet; sein überraschender Abgang führte zu einem Protestschreiben von 144 Branchengrößen wie Bardem, Cruz und Almodóvar.",
+          "title": "Italy’s Movie and TV Spending Drops Amid Tax Incentive Uncertainty",
+          "link": "https://www.hollywoodreporter.com/business/business-news/italian-content-investment-2025-1236738051/",
+          "summary": "Italiens Investitionen in Kino-, TV- und VOD-Inhalte sanken 2025 erstmals seit 2018 um 7,4 Prozent auf 2 Milliarden Euro, maßgeblich bedingt durch Unsicherheiten bei der Reform des staatlichen Steueranreizsystems für unabhängige Produzenten. Besonders kleinere Unternehmen leiden unter erschwerter Planbarkeit, höheren Finanzierungskosten und sinkenden Margen. Parallel verschiebt sich der Markt weiter in Richtung Streaming, das 2025 einen Anteil von 43 Prozent erreichte und laut APA mittelfristig das lineare Fernsehen wertmäßig überholen dürfte.",
           "score": 8
         },
         {
           "source": "Hollywood Reporter",
-          "title": "“Horror Is Now Cool” as the Hunt for the Next ‘Obsession’ and ‘Backrooms’ Is on: Rome’s MIA",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/horror-leaders-obsession-backrooms-1236737149/",
-          "summary": "Beim MIA Market in Rom feierten Horror-Branchenführer die YouTuber-turned-Regisseure Curry Barker und Kane Parsons als Vorreiter eines Genre-Aufschwungs, der durch die Erholung des US-Kinomarkts getragen wird. Andrea Romeo von Wonder Pictures kündigte an, gezielt nach neuen Gen-Z-Talenten zu suchen – idealerweise nach einem „italienischen Kane Parsons“, vorzugsweise einer jungen Regisseurin. Die Panel-Teilnehmer betonten, dass das einstige Nischen-Stigma des Horrors überwunden sei und nicht-traditionelle Talente aus Plattformen wie YouTube frische Impulse für das Genre liefern.",
-          "score": 7
+          "title": "Peacock’s Hot Streak: Two Quarters of Profit After Years Of Losses",
+          "link": "https://www.hollywoodreporter.com/business/business-news/nbcuniversals-peacock-1236738039/",
+          "summary": "Peacocks Streamingdienst von NBCUniversal erzielte im dritten Quartal mit 48 Millionen Abonnenten einen Vorsteuergewinn von 261 Millionen US-Dollar – das zweite profitable Quartal in Folge nach Jahren der Verluste und einem Vorjahresverlust von 217 Millionen Dollar. Getragen wurde die Wende maßgeblich durch zusätzliche Werbeeinnahmen aus der FIFA-Club-WM (224 Millionen Dollar), höhere Abopreise und gesunkene Programmkosten, wodurch der Umsatz auf 1,8 Milliarden Dollar stieg. Trotz dieser Erfolge kämpft Comcast weiterhin mit einem rückläufigen Breitbandgeschäft und einem insgesamt um 6 Prozent gesun",
+          "score": 10
         },
         {
-          "source": "Variety",
-          "title": "Young Audiences Want to Redefine Modern Storytelling, New Study Shows",
-          "link": "https://variety.com/2026/film/news/young-audiences-redefine-modern-storytelling-ucla-study-1236918129/",
-          "summary": "Eine aktuelle UCLA-Studie des Center for Scholars & Storytellers (Befragung von über 1.500 Jugendlichen im Alter von 10-24 Jahren) zeigt, dass junge Zuschauer authentischere Darstellungen fordern und YouTube (72,9 %) als wichtigstes Storytelling-Medium bevorzugen, wobei Kurzvideos als vollwertige Erzählform gelten. Die Befragten wünschen sich mehr neurodivergente Charaktere (55 %) sowie platonische Beziehungen (57,3 %) und tendieren eher zu unbekannten Schauspielern als zu Influencern. Bemerkenswert ist zudem die Generationenkluft bei KI: Während 44,2 % der 10- bis 13-Jährigen deren mediale Darstellung „faszinierend“ finden, d",
+          "source": "Hollywood Reporter",
+          "title": "Stephen Lang, Uli Edel Reunite on ‘Mercy Rider’ 30 Years After ‘Last Exit to Brooklyn’ (Exclusive)",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/avatar-star-stephen-lang-director-uli-edel-reunite-1236738019/",
+          "summary": "Avatar-Star Stephen Lang und Regisseur Uli Edel arbeiten 37 Jahre nach „Last Exit to Brooklyn\" erneut zusammen – diesmal für den modernen Western-Thriller „The Mercy Rider\", in dem Lang einen texanischen Rancher spielt, der sich gegen Einwanderungsbehörden auflehnt. Der von Richard Julian geschriebene Film wird in Mexiko gedreht und von G. Mac Brown („The Departed\") sowie Co-Star Jack Hudson produziert.",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "Netflix Stock Deflates to Two-Year Low. What Will It Take to Revive Revenue Growth?",
-          "link": "https://variety.com/2026/tv/news/netflix-stock-falls-two-year-low-after-earnings-report-1236918535/",
-          "summary": "Netflix-Aktie fiel nach dem Q3-2026-Bericht um 7% auf ein Zweijahrestief (unter 64 USD, -30% seit Jahresbeginn), nachdem sich das Umsatzwachstum abschwächte und die Werbeeinnahmen-Prognose für 2026 um 300 Mio. USD auf 2,7 Mrd. USD gesenkt wurde. Co-CEO Ted Sarandos setzt zur Wiederbelebung des Engagements auf eine bessere Umsetzung des Kerngeschäfts mit mehr erfolgreichen Inhalten und vollzog einen umfassenden Umbau der Content-Führung, einschließlich der Ablösung von Bela Bajaria durch Peter Rice. Zudem baute Netflix im Vorfeld der Zahlen 1.000 Stellen (",
-          "score": 10
+          "title": "Comcast Plans Major Layoffs as It Preps for NBCU Spin-Off, Sees $1 Billion-Plus Restructuring Charge in Q4",
+          "link": "https://variety.com/2026/tv/news/comcast-layoffs-nbcuniversal-spin-off-1-billion-restructuring-charge-1236920356/",
+          "summary": "Comcast plant im Vorfeld der für 2027 erwarteten Abspaltung von NBCUniversal erhebliche Stellenstreichungen und rechnet im vierten Quartal 2026 mit einer Restrukturierungsbelastung von über 1 Milliarde US-Dollar. Die Kürzungen sollen laut CFO Jason Armstrong zunächst den Bereich Comcast Cable betreffen, nicht die NBCU-Divisionen, und dienen der Vereinfachung sowie Stärkung der Wettbewerbsposition für einen „schnellen Start“ in 2027.",
+          "score": 8
         },
         {
           "source": "Variety",
-          "title": "‘Glee’ Reboot Officially Set at Disney+ and Hulu",
-          "link": "https://variety.com/2026/tv/news/glee-reboot-disney-hulu-1236918160/",
-          "summary": "Disney+ und Hulu haben offiziell einen Reboot der erfolgreichen Musical-Dramedy „Glee“ von Ryan Murphy grünes Licht gegeben, produziert von 20th Television. Details sind bislang spärlich, jedoch deutet sich eine Rückkehr mehrerer Originaldarsteller an, nachdem der Produzent bereits Kontakt zu rund zehn ehemaligen Castmitgliedern aufgenommen hat. Die 2009 bis 2015 auf Fox ausgestrahlte Serie bleibt kulturell relevant und verzeichnet weiterhin durchschnittlich 4,1 Millionen monatliche Hörer auf Spotify.",
+          "title": "TV Festival Manchester Sets Dates, Venues and Advisory Chair",
+          "link": "https://variety.com/2026/tv/global/tv-festival-greater-manchester-2027-1236919627/",
+          "summary": "Das bisherige Edinburgh TV Festival firmiert künftig als \"TV Festival\" und verlegt sein 50-jähriges Standbein erstmals nach Manchester, wo die Erstausgabe vom 31. August bis 3. September 2027 in den Versa Studios (ehemaliges Granada-Studiogelände) und den Aviva Studios stattfindet. Die vom gemeinnützigen Veranstalter The TV Foundation getroffene Standortentscheidung stößt auf gemischte Resonanz, da viele die Nähe zum Edinburgh Fringe und den Charme der schottischen Stadt als Erfolgsfaktoren betonen, während die Organisatoren auf eine bessere Zugänglichkeit für die TV-Branche verweisen.",
           "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Italian Content Investment Dropped 7.4% in 2025 Largely Due to Uncertainty Over Domestic Tax Credits, Rome MIA Market Report Says",
-          "link": "https://variety.com/2026/film/global/italian-content-investment-dropped-uncertainty-tax-credits-1236918479/",
-          "summary": "Die Investitionen in Content-Produktion für Italiens Film-, TV- und Streaming-Industrie fielen 2025 um 7,4% auf 2 Milliarden Euro, wobei der Scripted-Bereich besonders stark unter der Unsicherheit über staatliche Steueranreize litt. Hauptursache war laut dem APA-Bericht die regulatorische Hängepartie der italienischen Regierung bei den heimischen Tax Credits, während die internationalen Produktionsrabatte unverändert bestehen blieben. Diese Planungsunsicherheit erhöht die finanziellen Belastungen der Produzenten und schmälert deren Gewinnmargen.",
-          "score": 10
         }
       ]
     }
