@@ -1,21 +1,35 @@
 {
   "newsletters": [
     {
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "articles": [
         {
-          "source": "DWDL",
-          "title": "\"Disko 76\": Die nächste RTL-Serie findet den Weg zu Sky",
-          "link": "https://www.dwdl.de/nachrichten/108324/disko_76_die_naechste_rtlserie_findet_den_weg_zu_sky/",
-          "summary": "RTL setzt seine Praxis der Zweitverwertung eigener Serien bei Sky fort: Der von UFA Fiction produzierte Sechsteiler „Disko 76“ (Erstausstrahlung RTL+ Frühjahr 2024) ist ab dem 1. November bei Sky und Wow abrufbar, ab dem 17. November läuft die Serie zudem linear in der Primetime auf Sky Atlantic. Die Serie über die Diskowelle im Bochum der 1970er-Jahre erhielt zwar wohlwollende Kritiken, blieb bei den bisherigen Free-TV-Auswertungen auf Nitro und RTL Up jedoch reichweitenschwach – was Sky die Chance auf ein noch unverbrauchtes Publikum eröffnet.",
-          "score": 9
+          "source": "meedia",
+          "title": "Vorbild USA Springer interessiert sich für TikTok-Geschäft in Europa Springer wäre nach eigenen...",
+          "link": "https://meedia.de/news/beitrag/25295-springer-interessiert-sich-fuer-tiktok-geschaeft-in-europa.html",
+          "summary": "Axel Springer bestätigt grundsätzliches Interesse an einer Beteiligung am europäischen TikTok-Geschäft, nachdem laut \"Financial Times\" Konzernchef Mathias Döpfner dem US-Botschafter in Frankreich einen entsprechenden Deal nach US-amerikanischem Vorbild vorgeschlagen haben soll. Der Verlag betont, dass sich diese Frage derzeit nicht konkret stelle, verweist aber auf Döpfners wiederholtes Eintreten für eine \"europäische Lösung\" trotz dessen scharfer Kritik an TikTok als \"Propagandamaschine\". Hintergrund sind die bestehenden Sicherheitsbedenken gegenüber dem chinesischen Mutterkonzern ByteDance.",
+          "score": 7
+        },
+        {
+          "source": "Guardian Media",
+          "title": "‘Cuts mean jobs’: Skydance staff brace for shake-up after $110bn megamerger",
+          "link": "https://www.theguardian.com/media/2026/oct/24/skydance-employees-brace-change-megamerger-dust-settles",
+          "summary": "Nach dem Abschluss der 110-Milliarden-Dollar-Fusion von Paramount und Warner Bros Discovery steht der neu entstandene Medienkonzern Skydance unter CEO David Ellison vor einem massiven Umbau, der bei den über 53.000 Mitarbeitern Sorgen vor Stellenstreichungen auslöst. Ellison strebt innerhalb von drei Jahren Einsparungen von 6 Milliarden Dollar an, um die hohe Schuldenlast von über 80 Milliarden Dollar abzubauen, wobei das Management bereits „schwierige Entscheidungen“ für die Belegschaft angekündigt hat. Der Zusammenschluss vereint zwei traditionsreiche Hollywood-Studios sowie Sender wie HBO, MTV, Discovery, CBS und CNN zu ein",
+          "score": 8
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Elon Musk reportedly invests $1bn in David Ellison’s Skydance",
+          "link": "https://www.theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment",
+          "summary": "Elon Musk hat laut Berichten rund 1 Mrd. US-Dollar in Skydance investiert, das Medienimperium unter Leitung von David Ellison, das nach der 111-Mrd.-Dollar-Fusion von Paramount mit Warner Bros Discovery entstanden ist. Die Kapitalspritze, flankiert von weiteren Investitionen bestehender Geldgeber wie Laurene Powell Jobs, festigt die Allianz zwischen zwei finanzstarken Trump-Unterstützern und knüpft an die engen Verbindungen zwischen Musk und Larry Ellison an. Die Unternehmensintegration soll Stellenstreichungen nach sich ziehen.",
+          "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Inside The BBC Cuts: Painful Service Closures Begin, But Worse Could Be To Come",
-          "link": "https://deadline.com/2026/10/inside-bbc-cuts-painful-closures-begin-worse-to-come-1237169573/",
-          "summary": "Die BBC steht vor einer der schmerzhaftesten Sparphasen ihrer Geschichte und muss bis 2028 rund 500 Millionen Pfund (670 Mio. USD) einsparen, nachdem seit 2020 über zwei Millionen Gebührenzahler verloren gingen. Die angekündigte Schließung der linearen Sender BBC Three, BBC Scotland und Radio 4 Extra im Frühjahr 2027 bringt allerdings nur etwa 10 Millionen Pfund Einsparung, und bislang wurden erst 200 Millionen des Gesamtziels konkretisiert. Generaldirektor Matt Brittin versucht, die verunsicherte Belegschaft mit der Botschaft zu beruhigen, die Kürzungen dienten zugleich der Neuerfindung der BBC als britische Premium-Med",
-          "score": 8
+          "title": "‘Nobody Wants This’ Creator Erin Foster Has “More Story To Tell” With A Season 4, But Isn’t Getting “Too Attached”",
+          "link": "https://deadline.com/2026/10/nobody-wants-this-erin-foster-more-story-to-tell-season-4-1237172691/",
+          "summary": "Erin Foster, Schöpferin der Netflix-Rom-Com \"Nobody Wants This\", signalisiert Bereitschaft für eine vierte Staffel und sieht insbesondere im Thema spätere Eheschließung noch erzählerisches Potenzial, betont jedoch, sich nicht zu sehr an eine Verlängerung zu klammern und die Marktnachfrage entscheiden zu lassen. Die Aussagen fallen in eine kontroverse Phase, nachdem Foster auf die \"Free Palestine\"-Äußerungen von Hauptdarsteller Adam Brody mit einer differenzierenden Distanzierung reagiert hatte, die unter pro-israelischen Fans für Diskussionen sorgte.",
+          "score": 7
         }
       ]
     }
