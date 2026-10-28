@@ -1,90 +1,69 @@
 {
   "newsletters": [
     {
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Amazon dominiert dank FC Bayern, starke \"Tatort\"-Woche",
-          "link": "https://www.dwdl.de/zahlenzentrale/108360/amazon_dominiert_dank_fc_bayern_starke_tatortwoche/",
-          "summary": "Amazon Prime Video dominierte in KW42 das Streaming-Nettoreichweitenranking mit 3,65 Millionen erreichten Personen durch die erstmals erfasste Champions-League-Übertragung des FC Bayern und übertraf DAZN (1,25 Millionen) um das Dreifache. Der \"Tatort\" verzeichnete dank der neuen Vorab-Verfügbarkeit ab Freitag mit 1,33 Millionen Streaming-Nutzern seine drittstärkste Woche des Jahres, während im Reality-Segment \"Das Sommerhaus der Stars\" (RTL+) weiterhin führt.",
-          "score": 8
+          "title": "Ex-Netflix-Filmchefin Sasha Bühler wechselt zu Prime Video",
+          "link": "https://www.dwdl.de/nachrichten/108373/exnetflixfilmchefin_sasha_buehler_wechselt_zu_prime_video/",
+          "summary": "Sasha Bühler, bisherige Film-Chefin von Netflix, wechselt zum 1. Dezember als Head of German Originals zu Prime Video und Amazon MGM Studios, wo sie an Tara Erer berichtet. Sie tritt die Nachfolge von Philip Pratt an, der zu Disney wechselt, und bringt umfangreiche Branchenerfahrung mit – unter anderem verantwortete sie bei Netflix den vierfach Oscar-prämierten Film „Im Westen nichts Neues\". Ihr Wechsel gilt als Signal für Amazons Wachstumsambitionen im deutschsprachigen Markt.",
+          "score": 10
         },
         {
           "source": "DWDL",
-          "title": "ARD zeigt neue Sport-Dokuserie über Sven Hannawald",
-          "link": "https://www.dwdl.de/nachrichten/108359/ard_zeigt_neue_sportdokuserie_ueber_sven_hannawald/",
-          "summary": "Die ARD setzt ihre Sport-Dokuserie \"Being\" mit einer Staffel über den früheren Skispringer und heutigen ARD-Experten Sven Hannawald fort, die ab dem 28. November in der Mediathek sowie am 1. und 3. Januar im Anschluss an die Vierschanzentournee linear ausgestrahlt wird. Die von Constantin Entertainment produzierte Doku zeichnet Hannawalds Lebensweg nach – inklusive seines historischen Tournee-Grand-Slams vor 25 Jahren und seiner Depressionserkrankung – und lässt neben der Familie auch Weggefährten wie Martin Schmitt, Jan Ullrich und Tom Bartels zu Wort kommen.",
+          "title": "RBB kooperiert mit dem MediaTech Hub Potsdam",
+          "link": "https://www.dwdl.de/nachrichten/108363/rbb_kooperiert_mit_dem_mediatech_hub_potsdam/",
+          "summary": "Der RBB und der MediaTech Hub Potsdam haben eine Kooperationsvereinbarung zur gemeinsamen Entwicklung und Erprobung neuer Medientechnologien unterzeichnet, mit Fokus auf künstliche Intelligenz und innovative Produktionsverfahren. Geplant sind regelmäßige Austauschformate sowie gemeinsame Innovationsprojekte, bei denen neue Entwicklungen in geschützten Testumgebungen unter Sicherheitsaspekten bewertet werden. Die am Standort Babelsberg ansässigen Partner verbinden dabei die praktische Medienexpertise des öffentlich-rechtlichen Rundfunks mit dem Innovationsnetzwerk aus Start-ups, Unternehmen und Forschungseinrichtungen des MTH.",
           "score": 7
         },
         {
-          "source": "DWDL",
-          "title": "Abschied von ITV Studios: Henssler produziert künftig selbst",
-          "link": "https://www.dwdl.de/nachrichten/108348/abschied_von_itv_studios_henssler_produziert_kuenftig_selbst/",
-          "summary": "Nach 13 Jahren und fast 200 Folgen wechselt die Vox-Erfolgsshow „Grill den Henssler“ die Produktionsfirma: Ab Ende 2026 übernimmt die von Steffen Henssler und Tobias Bischoff mitgegründete Mizu Productions das Format von ITV Studios Germany. Der Schritt reiht sich in einen branchenweiten Trend ein, bei dem zuletzt auch „Let’s Dance“ von Seapoint zum Lizenzgeber BBC Studios Germany wanderte. ITV Studios bleibt laut RTL Deutschland dennoch ein wichtiger Partner für weitere Projekte.",
-          "score": 9
-        },
-        {
-          "source": "kress",
-          "title": "Neuer Bereich „new media” unter Anna-Katharina Kölbl Aus Reichweite soll Umsatz werden: Funke will...",
-          "link": "https://kress.de/news/beitrag/156825-funke-will-junge-leser-erreichen-neuer-bereich-new-media-unter-anna-katharina-koelbl.html",
-          "summary": "Die Funke Regionalmedien gründen den neuen Bereich „new media\" unter Leitung von Anna-Katharina Kölbl, die zugleich zum Chief Growth Officer ernannt wird. Ziel ist es, die hohen Reichweiten der Regionalmarken (u. a. Hamburger Abendblatt, WAZ) auf Social Media und in Newslettern in tragfähige Umsatzkanäle zu verwandeln sowie durch Social-first-Ansätze und neue Produkte gezielt junge Zielgruppen zu erschließen.",
+          "source": "Horizont Medien",
+          "title": "Sasha Bühler: Amazon Prime Video holt ehemalige deutsche Filmchefin von Netflix",
+          "link": "https://www.horizont.net/medien/nachrichten/sasha-buehler-amazon-prime-video-holt-ehemalige-deutsche-filmchefin-von-netflix-236381?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Amazon Prime Video hat Sasha Bühler, ehemalige Filmchefin von Netflix Deutschland, als Nachfolgerin von Philip Pratt zur Leitung des deutschen Kreativteams berufen. In ihrer neuen Rolle verantwortet sie die Weiterentwicklung der deutschsprachigen Prime Video Originals mit Formaten wie „Superior\", „Holey Moley\" und „Der erste letzte Tag\". Der Wechsel markiert einen weiteren personellen Transfer zwischen den konkurrierenden Streaming-Anbietern.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "CTV Andreas Meffert: So durchdringen Werbungtreibenden die Blackbox CTV Connected TV (CTV) verändert den Bewegtbildmarkt grundlegend.",
-          "link": "https://meedia.de/news/beitrag/25313-andreas-meffert-so-durchdringen-werbungtreibenden-die-blackbox-ctv.html",
-          "summary": "Connected TV entwickelt sich zunehmend zu einem eigenständigen Werbekanal, doch während Marken ihre eigenen Kampagnen präzise messen können, fehlt ihnen weitgehend der Einblick in die CTV-Investitionen ihrer Wettbewerber. Diese Intransparenz erschwert laut Andreas Meffert (Market Commercial Leader bei Nielsen) die strategische Positionierung, zumal sich der CTV-Anteil an den Werbeausgaben je nach Branche stark unterscheidet – von 26,3 Prozent bei Deodorant-Marken bis zu deutlich zurückhaltenderen Werten in anderen Segmenten.",
+          "title": "Defizit von über 100 Millionen Euro Rechnungshof drängt Bayerischen Rundfunk zu eisernem Sparen Der...",
+          "link": "https://meedia.de/news/beitrag/25319-rechnungshof-draengt-bayerischen-rundfunk-zu-eisernem-sparen.html",
+          "summary": "Der Bayerische Oberste Rechnungshof (ORH) warnt in seinem turnusmäßigen Bericht, dass dem Bayerischen Rundfunk trotz eingeleiteter Reformen bis Ende 2028 ein Fehlbetrag von 106,4 Millionen Euro droht und seine Finanzreserven von zuletzt 226,4 Millionen Euro bis dahin vollständig aufgebraucht wären. Der ORH fordert von Intendantin Katja Wildermuth eine konsequente Fortsetzung des Sparkurses mit strukturellen Einschnitten, Stellenabbau sowie einer engeren Zusammenarbeit mit anderen ARD-Anstalten.",
           "score": 7
         },
         {
-          "source": "meedia",
-          "title": "Marken und Produkte für junge Zielgruppe Funke Regionalmedien gründet Einheit für Social- und...",
-          "link": "https://meedia.de/news/beitrag/25299-funke-regionalmedien-gruendet-einheit-fuer-social-und-newsletter-geschaeft.html",
-          "summary": "Funke Regionalmedien bündelt sein Newsletter- und Social-Media-Geschäft in der neuen Einheit „New Media“, die zudem Marken und Produkte für jüngere Zielgruppen aufbauen soll. Geleitet wird die Einheit von Anna-Katharina Kölbl, die als Chief Growth Officer in eine neu geschaffene Position aufsteigt. Ziel ist es, die Reichweite von Titeln wie „Hamburger Abendblatt“ und WAZ zu monetarisieren und Social-first-Ansätze als eigenständige Geschäftsmodelle zu entwickeln.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Derek Vs Derek’: British Rewilding Doc About Warring Neighbors Tests Its “Unexpected” Protagonists In All The Right Ways",
-          "link": "https://deadline.com/2026/10/derek-vs-derek-adam-wishart-global-breakout-1237169592/",
-          "summary": "Der britische Low-Budget-Dokumentarfilm „Derek vs Derek“ porträtiert zwei benachbarte Farmer in Devon – beide namens Derek –, von denen einer als Rewilding-Naturschützer und der andere als intensiver Milchbauer tätig ist, und entwickelte sich während der mehrjährigen Produktion von einer Rewilding-Geschichte zu einer universellen Erzählung über verfeindete Nachbarn, die voneinander lernen. Produziert von The Slate Works und Damer Films mit Exec Producer Adam Wishart (BAFTA-Nominierter für „9/11: Inside the President’s War Room“) und vertrieben von CAT&Docs, steht der Film kurz vor seiner US-Premiere.",
+          "source": "Guardian Media",
+          "title": "Film buffs love it. Trump and Tom Hanks hosted it. Can TCM survive a Hollywood mega-merger?",
+          "link": "https://www.theguardian.com/film/ng-interactive/2026/oct/28/turner-classic-movies-skydance-merger",
+          "summary": "Der US-Kabelsender Turner Classic Movies (TCM), seit 1994 ein kuratiertes Refugium für Liebhaber klassischer Filme, steht nach der Übernahme durch Skydance unter David Ellison vor einer ungewissen Zukunft. Fans und Branchenkenner äußern Sorge um den Fortbestand des Senders und seines spezialisierten, cineastischen Programmformats im Zuge der Hollywood-Megafusion.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Brett Morgen’s David Bowie Immersive Concert Experience Set For Berlinale World Premiere",
-          "link": "https://deadline.com/2026/10/brett-morgen-david-bowie-immersive-concert-berlin-1237205735/",
-          "summary": "Die Berlinale feiert in ihrer 77. Ausgabe die Weltpremiere von Brett Morgens immersivem Konzerterlebnis „David Bowie 'Stage'\" in der 17.000 Zuschauer fassenden Uber Arena. Das Werk basiert auf kürzlich entdecktem und restauriertem Filmmaterial der Isolar-II-Welttournee von 1978 und kombiniert großformatige Projektionen, transparente LED-Screens sowie ein von Patrick Woodroffe gestaltetes Lichtdesign mit einem 7.1-Surround-Soundmix von Oscar-Preisträger Paul Massey. Die Produktion entstand in Zusammenarbeit zwischen Rob Halletts Wonderworld, dem David-Bowie-Nachlass und Morgen, der die Originalnegative während der",
+          "title": "BBC “Disappointed” As Staff Plan Industrial Action Vote Over Job Cuts",
+          "link": "https://deadline.com/2026/10/bbc-disappointed-staff-industrial-action-vote-job-cuts-1237206978/",
+          "summary": "Die BBC plant den Abbau von über 100 Journalismus-Stellen als Teil einer Sparstrategie von 500 Millionen Pfund, woraufhin die Gewerkschaft NUJ vom 3. bis 24. November eine Urabstimmung über mögliche Streikmaßnahmen durchführt. BBC-Vizegeneraldirektor Rhodri Talfan Davies bezeichnete den Schritt als „enttäuschend\" und betonte, dass betriebsbedingte Kündigungen trotz überwiegend freiwilliger Abgänge nicht ausgeschlossen werden könnten. Parallel läuft eine separate Abstimmung zur Vergütung, nachdem die BBC ihr Gehaltsangebot auf 1,5 Prozent beziehungsweise mindestens 1.000 Pfund erhöht hat.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘Tokyo Vice’ Producer & Netflix Executive Suggest Tweaks To Japan’s Support System: “Incentives Can Be Lower So Long As They’re Certain”",
-          "link": "https://deadline.com/2026/10/japan-incentives-scheme-netflix-tokyo-vice-toho-tombo-1237205993/",
-          "summary": "Auf einem MPA-Seminar beim Tokyo International Film Festival regten Tokyo-Vice-Produzent Alex Boden und Netflix-APAC-Managerin Debra Richards Verbesserungen an Japans neuem IP360-Förderprogramm an, das die lokale Content-Industrie stärken und internationale Produktionen anziehen soll. Kritisiert wurde vor allem die auf rund 5 Mio. US-Dollar angehobene Mindestausgabenschwelle, die kleinere Indie-Produktionen und Koproduktionen ausschließe. Zentrale Forderung: Anreize könnten niedriger ausfallen, solange sie verlässlich und planbar seien – nur so lasse sich verhindern, dass Großprojekte wie Shogun oder Pachinko in andere Länder abwandern.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "David Bowie Returns to Berlin With Immersive Event",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/david-bowie-immersive-event-stages-world-premiere-berlinale-1236740636/",
-          "summary": "Der Oscar-nominierte Dokumentarfilmer Brett Morgen (\"Moonage Daydream\") präsentiert mit \"Stages\" ein immersives David-Bowie-Konzerterlebnis auf der Berlinale 2027, basierend auf restauriertem Originalmaterial der Isolar-II-Welttour von 1978. Die Weltpremiere findet am 14. Februar in Berlins Uber Arena statt und kombiniert großformatige Projektionen, transparente LED-Screens, Lichtdesign von Patrick Woodroffe sowie einen Spezial-Soundmix des Oscar-Preisträgers Paul Massey (\"Bohemian Rhapsody\"). Das in Kooperation mit dem David-Bowie-Nachlass entstandene Projekt würdigt insbesondere Bowies in Berlin entstandenes Werk v",
+          "title": "‘Talk To Me’ Backer Head Gear Opens U.S. Arm With Ambitious Indie Investment Plan",
+          "link": "https://deadline.com/2026/10/head-gear-opens-us-arm-with-ambitious-indie-investment-plan-1237206284/",
+          "summary": "Head Gear Films, bekannter Finanzierungspartner von Independent-Produktionen wie „Talk to Me“ und „The Apprentice“, eröffnet eine US-Niederlassung und plant im ersten Jahr Investitionen von 120 Mio. US-Dollar in amerikanische Indie-Film- und TV-Projekte. Geleitet wird die in Denver angesiedelte Einheit von Samantha Allwinton als Director of Operations. Der Markteintritt ist strategisch auf den erwarteten neuen föderalen Steueranreiz (Motion Picture, Television, and Entertainment Revitalization Act) abgestimmt, von dem CEO Phil Hunt profitieren will, indem Head Gear die verbleibenden Finanzierungslücken US-amerikanischer Produzenten schließt.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "HBO’s ‘Harry Potter and the Philosopher’s Stone’ Casts James and Lily Potter, Charlie Weasley",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/hbo-harry-potter-philosophers-stone-cast-james-lily-potter-1236740639/",
-          "summary": "HBO hat für seine kommende TV-Adaption von „Harry Potter and the Philosopher’s Stone“ Jasper Talbot und Hannah Chinn als James und Lily Potter sowie Harry Gilby als Charlie Weasley besetzt. Die Serie startet am 25. Dezember und umfasst eine umfangreiche Besetzung mit Dominic McLaughlin als Harry Potter, John Lithgow als Dumbledore und Paapa Essiedu als Snape. Für die bereits bestätigte zweite Staffel („Chamber of Secrets“) wurde zudem Kit Harington als Gilderoy Lockhart verpflichtet.",
+          "title": "TikTok Wants to Help Its Users Find Their Next Must Eat",
+          "link": "https://www.hollywoodreporter.com/business/digital/tiktok-launches-must-eat-food-restaurant-platform-1236741746/",
+          "summary": "TikTok hat in seinem US-Joint-Venture ein neues Produkt namens „Must Eat“ eingeführt, das Food-Creator und Restaurants fördern und Nutzern bei der Entdeckung neuer Lokale helfen soll. Der Launch erfolgte zunächst in New York, Los Angeles und der Bay Area mit den Kategorien „Everyday Eats“ und „Elevated Dining“. Laut CEO Adam Presser haben bereits über 27 Millionen Amerikaner im vergangenen Jahr ein zuvor auf TikTok entdecktes unabhängiges Restaurant oder Café besucht.",
           "score": 7
         },
         {
-          "source": "Variety",
-          "title": "Netflix Grapples With Digital-Ad Squeeze Amid Widening Glut of Streaming Commercials",
-          "link": "https://variety.com/2026/tv/news/netflix-streaming-ads-squeeze-greg-peters-ted-sarandos-1236931807/",
-          "summary": "Netflix hat seine Werbeumsatzprognose für Ende 2026 von 3 Milliarden auf 2,7 Milliarden US-Dollar gesenkt und begründet dies mit Verzögerungen bei der Einführung neuer Werbeprodukte und Partner-Integrationen. Mediaeinkäufer kritisieren jedoch, dass Netflix' Preiserwartungen zu hoch und nicht marktkonform seien, der Zugang zu Werbeinventar zu umständlich sei und dem Unternehmen erfahrene Vertriebsexperten für werbefinanzierte Sportübertragungen fehlten.",
+          "source": "Hollywood Reporter",
+          "title": "‘Transplant’ Creator Joseph Kay Sets Overall Deal at Netflix",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/transplant-creator-joseph-kay-netflix-1236741252/",
+          "summary": "Netflix hat einen exklusiven Overall-Deal mit Joseph Kay, dem Schöpfer und Showrunner der Medizin-Serie „Transplant“, abgeschlossen, in dessen Rahmen er neue TV-Serien für Netflix Kanada entwickeln und schreiben wird – beginnend mit einem noch unbetitelten Familiendrama. Kay arbeitete zuletzt als Consulting Producer an „North of North“ und als Co-Executive-Producer an der Netflix-Adaption von Carley Fortunes „This Summer Will Be Different“. Der Deal vertieft die bestehende Zusammenarbeit zwischen Kay und dem Streamingdienst, der ihn als erfahrenen Creator mit Talent zur Förderung anderer Autoren würdigt.",
           "score": 10
         }
       ]
