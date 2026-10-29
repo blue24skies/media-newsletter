@@ -1,70 +1,70 @@
 {
   "newsletters": [
     {
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Ex-Netflix-Filmchefin Sasha Bühler wechselt zu Prime Video",
-          "link": "https://www.dwdl.de/nachrichten/108373/exnetflixfilmchefin_sasha_buehler_wechselt_zu_prime_video/",
-          "summary": "Sasha Bühler, bisherige Film-Chefin von Netflix, wechselt zum 1. Dezember als Head of German Originals zu Prime Video und Amazon MGM Studios, wo sie an Tara Erer berichtet. Sie tritt die Nachfolge von Philip Pratt an, der zu Disney wechselt, und bringt umfangreiche Branchenerfahrung mit – unter anderem verantwortete sie bei Netflix den vierfach Oscar-prämierten Film „Im Westen nichts Neues\". Ihr Wechsel gilt als Signal für Amazons Wachstumsambitionen im deutschsprachigen Markt.",
+          "title": "Vorabend-Umbau: Sat.1 kürzt \"Newstime\"-Hauptausgabe",
+          "link": "https://www.dwdl.de/nachrichten/108389/vorabendumbau_sat1_kuerzt_newstimehauptausgabe/",
+          "summary": "Sat.1 verkürzt im Rahmen seiner Vorabend-Umstrukturierung die Hauptnachrichtensendung \"Newstime\" ab dem 14. Dezember um zehn Minuten; statt um 19:45 Uhr startet die Sendung dann wochentags erst um 19:55 Uhr. Hintergrund ist die Rückkehr des Senders zu Show-Formaten um 19 Uhr, womit nach über drei Jahren die bisherige Daily-Fiction-Strategie im Vorabend abgelöst wird.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Moorhuhn-Doku gewinnt ARD TopDocs Wettbewerb",
+          "link": "https://www.dwdl.de/nachrichten/108387/moorhuhndoku_gewinnt_ard_topdocs_wettbewerb/",
+          "summary": "Die Dokumentation \"Die unglaubliche Geschichte des Moorhuhns\" von Ariane Riecker und Olaf Jacobs (Hoferichter & Jacobs GmbH, Leipzig) hat sich beim 15. ARD TopDocs Wettbewerb durchgesetzt und wird mit bis zu 300.000 Euro Bruttoherstellungskosten durch mehrere ARD-Häuser realisiert. Das Projekt, das die Geschichte des Kult-Computerspiels mit Themen wie Popkultur, Wirtschaft und Zeitgeschichte verbindet, soll innerhalb eines Jahres fertiggestellt und in der ARD-Mediathek veröffentlicht werden. Es setzte sich gegen die Konkurrenzprojekte \"Der verschwundene Milliardär\" (i&u) und \"Er",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "Drehstart für zweite Staffel der RTL+-Serie \"Euphorie\"",
+          "link": "https://www.dwdl.de/nachrichten/108386/drehstart_fuer_zweite_staffel_der_rtlserie_euphorie/",
+          "summary": "RTL+ hat den Drehstart für die zweite Staffel der Serie \"Euphorie\" bestätigt, die mit sechs neuen Folgen (nach acht in Staffel eins) von Zeitsprung Pictures in Köln, dem Ruhrgebiet und erstmals auf Zypern produziert wird. Zentrale Änderung ist der Regiewechsel zu Stella Marie Markert, während das Drehbuch-Trio um Headwriter Jonas Lindt sowie Teile des Ensembles erhalten bleiben. Die Film- und Medienstiftung NRW fördert die Produktion mit 1,5 Millionen Euro; ein Veröffentlichungstermin steht noch nicht fest.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Jenke & Giesel wechseln zu Sat.1, \"Simpsons\"-Premieren zu Kabel Eins",
+          "link": "https://www.dwdl.de/nachrichten/108384/jenke__giesel_wechseln_zu_sat1_simpsonspremieren_zu_kabel_eins/",
+          "summary": "ProSiebenSat.1 plant für 2027 umfangreiche Programmänderungen zur klareren Positionierung seiner linearen Sender: Jenke von Wilmsdorff (von ProSieben) und Peter Giesel mit „Achtung Abzocke“ (von Kabel Eins) wechseln zu Sat.1, wo sie ab März 2027 einen neuen Factual-Dienstag bilden sollen, während auch „The Voice of Germany“ und „The Voice Kids“ exklusiv zu Sat.1 ziehen. ProSieben zeigt künftig samstags Spielfilme, Sat.1 setzt montags im zweiten Halbjahr 2027 auf Fiction mit neuen Staffeln von „Kommissar Rex“ und „Der letzte Bulle“ sowie auf zusätzliche Gameshows im Vor",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "Goursaud und Niewöhner drehen \"Oktoberfest\"-Film für Netflix",
+          "link": "https://www.dwdl.de/nachrichten/108377/goursaud_und_niewoehner_drehen_oktoberfestfilm_fuer_netflix/",
+          "summary": "Netflix produziert mit \"Oktoberfest\" eine Romantic Comedy von Regisseur Simon Verhoeven, in der Jeanne Goursaud als Wiesnkellnerin Miri und Jannis Niewöhner als gestresster New Yorker Geschäftsmann Tom die Hauptrollen übernehmen. Die Dreharbeiten starteten auf der Münchner Theresienwiese und werden im Studio Penzing fortgesetzt; neben einem internationalen Cast (u. a. Peter Gallagher, Fisher Stevens) wirken bekannte Münchner Schauspieler wie Senta Berger und Michaela May mit. Verantwortlich für die Produktion ist Wiedemann & Berg Film.",
           "score": 10
         },
         {
           "source": "DWDL",
-          "title": "RBB kooperiert mit dem MediaTech Hub Potsdam",
-          "link": "https://www.dwdl.de/nachrichten/108363/rbb_kooperiert_mit_dem_mediatech_hub_potsdam/",
-          "summary": "Der RBB und der MediaTech Hub Potsdam haben eine Kooperationsvereinbarung zur gemeinsamen Entwicklung und Erprobung neuer Medientechnologien unterzeichnet, mit Fokus auf künstliche Intelligenz und innovative Produktionsverfahren. Geplant sind regelmäßige Austauschformate sowie gemeinsame Innovationsprojekte, bei denen neue Entwicklungen in geschützten Testumgebungen unter Sicherheitsaspekten bewertet werden. Die am Standort Babelsberg ansässigen Partner verbinden dabei die praktische Medienexpertise des öffentlich-rechtlichen Rundfunks mit dem Innovationsnetzwerk aus Start-ups, Unternehmen und Forschungseinrichtungen des MTH.",
-          "score": 7
+          "title": "Für RTL entwickelte Krimireihe feiert TV-Premiere im Ersten",
+          "link": "https://www.dwdl.de/nachrichten/108375/fuer_rtl_entwickelte_krimireihe_feiert_tvpremiere_im_ersten/",
+          "summary": "Die ursprünglich 2023 von RTL bei UFA Fiction in Auftrag gegebene Krimireihe \"Mord im Revier – Ein Ruhrpott-Krimi\" mit Caro Cult und Eidin Jalali feiert überraschend ihre TV-Premiere am 5. Dezember im Ersten, basierend auf einer Lizenzvereinbarung mit der ARD Degeto. RTL plant die eigene Ausstrahlung erst 2027 im Rahmen des \"Tödlichen Dienst-Tags\" – ein ungewöhnlicher Schritt, da bereits produzierte, noch nicht ausgestrahlte Krimis an einen Wettbewerber abgegeben werden. Der Fall verdeutlicht den Trend zu neuen Kooperationsmodellen zwischen konkurrierenden Sendern.",
+          "score": 9
         },
         {
-          "source": "Horizont Medien",
-          "title": "Sasha Bühler: Amazon Prime Video holt ehemalige deutsche Filmchefin von Netflix",
-          "link": "https://www.horizont.net/medien/nachrichten/sasha-buehler-amazon-prime-video-holt-ehemalige-deutsche-filmchefin-von-netflix-236381?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Amazon Prime Video hat Sasha Bühler, ehemalige Filmchefin von Netflix Deutschland, als Nachfolgerin von Philip Pratt zur Leitung des deutschen Kreativteams berufen. In ihrer neuen Rolle verantwortet sie die Weiterentwicklung der deutschsprachigen Prime Video Originals mit Formaten wie „Superior\", „Holey Moley\" und „Der erste letzte Tag\". Der Wechsel markiert einen weiteren personellen Transfer zwischen den konkurrierenden Streaming-Anbietern.",
+          "source": "meedia",
+          "title": "Schulterschluss EU-Kanada MVFP und BDZV fordern besseren Schutz der Presseinhalte vor KI...",
+          "link": "https://meedia.de/news/beitrag/25330-mvfp-und-bdzv-fordern-besseren-schutz-der-presseinhalte-vor-ki.html",
+          "summary": "MVFP und BDZV haben sich mit europäischen und kanadischen Branchenverbänden zu einer transatlantischen Koalition zusammengeschlossen, die zum EU-Kanada-Gipfel in Montréal (29./30. Oktober) verbindliche Regeln für die Nutzung journalistischer Inhalte durch KI-Systeme fordert. Im Fokus stehen KI-generierte Suchzusammenfassungen sowie nicht identifizierte Bots und KI-Agenten, die Presseinhalte ohne ausreichende Kontroll- und Vergütungsmöglichkeiten der Verlage nutzen und so Besucherzahlen, Abo- und Werbeerlöse schmälern. Die Koalition verlangt von EU und Kanada, in der Gipfelerklärung Transparenz, durchsetzbare Rechte und fa",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Defizit von über 100 Millionen Euro Rechnungshof drängt Bayerischen Rundfunk zu eisernem Sparen Der...",
-          "link": "https://meedia.de/news/beitrag/25319-rechnungshof-draengt-bayerischen-rundfunk-zu-eisernem-sparen.html",
-          "summary": "Der Bayerische Oberste Rechnungshof (ORH) warnt in seinem turnusmäßigen Bericht, dass dem Bayerischen Rundfunk trotz eingeleiteter Reformen bis Ende 2028 ein Fehlbetrag von 106,4 Millionen Euro droht und seine Finanzreserven von zuletzt 226,4 Millionen Euro bis dahin vollständig aufgebraucht wären. Der ORH fordert von Intendantin Katja Wildermuth eine konsequente Fortsetzung des Sparkurses mit strukturellen Einschnitten, Stellenabbau sowie einer engeren Zusammenarbeit mit anderen ARD-Anstalten.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Film buffs love it. Trump and Tom Hanks hosted it. Can TCM survive a Hollywood mega-merger?",
-          "link": "https://www.theguardian.com/film/ng-interactive/2026/oct/28/turner-classic-movies-skydance-merger",
-          "summary": "Der US-Kabelsender Turner Classic Movies (TCM), seit 1994 ein kuratiertes Refugium für Liebhaber klassischer Filme, steht nach der Übernahme durch Skydance unter David Ellison vor einer ungewissen Zukunft. Fans und Branchenkenner äußern Sorge um den Fortbestand des Senders und seines spezialisierten, cineastischen Programmformats im Zuge der Hollywood-Megafusion.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "BBC “Disappointed” As Staff Plan Industrial Action Vote Over Job Cuts",
-          "link": "https://deadline.com/2026/10/bbc-disappointed-staff-industrial-action-vote-job-cuts-1237206978/",
-          "summary": "Die BBC plant den Abbau von über 100 Journalismus-Stellen als Teil einer Sparstrategie von 500 Millionen Pfund, woraufhin die Gewerkschaft NUJ vom 3. bis 24. November eine Urabstimmung über mögliche Streikmaßnahmen durchführt. BBC-Vizegeneraldirektor Rhodri Talfan Davies bezeichnete den Schritt als „enttäuschend\" und betonte, dass betriebsbedingte Kündigungen trotz überwiegend freiwilliger Abgänge nicht ausgeschlossen werden könnten. Parallel läuft eine separate Abstimmung zur Vergütung, nachdem die BBC ihr Gehaltsangebot auf 1,5 Prozent beziehungsweise mindestens 1.000 Pfund erhöht hat.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Talk To Me’ Backer Head Gear Opens U.S. Arm With Ambitious Indie Investment Plan",
-          "link": "https://deadline.com/2026/10/head-gear-opens-us-arm-with-ambitious-indie-investment-plan-1237206284/",
-          "summary": "Head Gear Films, bekannter Finanzierungspartner von Independent-Produktionen wie „Talk to Me“ und „The Apprentice“, eröffnet eine US-Niederlassung und plant im ersten Jahr Investitionen von 120 Mio. US-Dollar in amerikanische Indie-Film- und TV-Projekte. Geleitet wird die in Denver angesiedelte Einheit von Samantha Allwinton als Director of Operations. Der Markteintritt ist strategisch auf den erwarteten neuen föderalen Steueranreiz (Motion Picture, Television, and Entertainment Revitalization Act) abgestimmt, von dem CEO Phil Hunt profitieren will, indem Head Gear die verbleibenden Finanzierungslücken US-amerikanischer Produzenten schließt.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "TikTok Wants to Help Its Users Find Their Next Must Eat",
-          "link": "https://www.hollywoodreporter.com/business/digital/tiktok-launches-must-eat-food-restaurant-platform-1236741746/",
-          "summary": "TikTok hat in seinem US-Joint-Venture ein neues Produkt namens „Must Eat“ eingeführt, das Food-Creator und Restaurants fördern und Nutzern bei der Entdeckung neuer Lokale helfen soll. Der Launch erfolgte zunächst in New York, Los Angeles und der Bay Area mit den Kategorien „Everyday Eats“ und „Elevated Dining“. Laut CEO Adam Presser haben bereits über 27 Millionen Amerikaner im vergangenen Jahr ein zuvor auf TikTok entdecktes unabhängiges Restaurant oder Café besucht.",
-          "score": 7
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "‘Transplant’ Creator Joseph Kay Sets Overall Deal at Netflix",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/transplant-creator-joseph-kay-netflix-1236741252/",
-          "summary": "Netflix hat einen exklusiven Overall-Deal mit Joseph Kay, dem Schöpfer und Showrunner der Medizin-Serie „Transplant“, abgeschlossen, in dessen Rahmen er neue TV-Serien für Netflix Kanada entwickeln und schreiben wird – beginnend mit einem noch unbetitelten Familiendrama. Kay arbeitete zuletzt als Consulting Producer an „North of North“ und als Co-Executive-Producer an der Netflix-Adaption von Carley Fortunes „This Summer Will Be Different“. Der Deal vertieft die bestehende Zusammenarbeit zwischen Kay und dem Streamingdienst, der ihn als erfahrenen Creator mit Talent zur Förderung anderer Autoren würdigt.",
+          "title": "Für den Posten \"Head of German Originals\" Amazon Prime Video angelt sich die Ex-Netflix-Filmchefin...",
+          "link": "https://meedia.de/news/beitrag/25328-amazon-prime-video-angelt-sich-die-ex-netflix-filmchefin-sasha-buehler.html",
+          "summary": "Sasha Bühler, ehemalige Filmchefin von Netflix für den deutschsprachigen Raum, wechselt zum 1. Dezember als Head of German Originals zu Amazon Prime Video und Amazon MGM Studios Germany. Sie übernimmt die Verantwortung für Entwicklung, Beauftragung und Veröffentlichung deutscher Originalproduktionen wie „Maxton Hall“ und „LOL: Last One Laughing“ und folgt damit auf Philip Pratt, der zu Disney+ gewechselt ist. Bühler bringt umfangreiche Branchenerfahrung mit, unter anderem durch ihre Beteiligung an erfolgreichen Netflix-Titeln wie dem Oscar-prämierten „Im Westen nichts Neues“.",
           "score": 10
+        },
+        {
+          "source": "Deadline",
+          "title": "Gerry Cardinale’s RedBird Capital, Guy Oseary’s Sound Ventures Set $1 Billion Investment Partnership",
+          "link": "https://deadline.com/2026/10/redbird-capital-guy-oseary-sound-ventures-investment-partnership-1237208067/",
+          "summary": "Gerry Cardinales RedBird Capital Partners und Guy Osearys Sound Ventures bündeln ihre Kräfte in einer Milliarden-Dollar-Partnerschaft, um in aufstrebende Plattformen an der Schnittstelle von Technologie, Medien und Kultur zu investieren. Die Kooperation verbindet RedBirds globale Reichweite und Expertise im Unternehmensaufbau – einschließlich der KI-Investitionsplattform RedBird X – mit Sound Ventures' Zugang zu Gründern und Marketing-Know-how, das sich bereits bei frühen Investments in Anthropic und OpenAI bewährt hat. RedBird verwaltet über 21 Milliarden Dollar an Vermögenswerten und ist unter anderem ein bedeutender Investor bei Skydance.",
+          "score": 7
         }
       ]
     }
