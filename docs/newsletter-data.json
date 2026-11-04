@@ -1,56 +1,119 @@
 {
   "newsletters": [
     {
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Doppelsieg für Champions League, \"Are You The One\" mit Rekord",
-          "link": "https://www.dwdl.de/zahlenzentrale/108443/doppelsieg_fuer_champions_league_are_you_the_one_mit_rekord/",
-          "summary": "Die UEFA Champions League dominierte in Kalenderwoche 43 erneut das Streaming-Ranking, angeführt von Prime Video (2,556 Mio. Nettoreichweite) vor DAZN (1,669 Mio.), das einen seiner besten CL-Werte überhaupt erzielte. Auffällig ist die starke Präsenz von Reality-Formaten: \"Are You The One\" erreichte mit 992.000 Personen eine neue Bestmarke, während zahlreiche weitere Realityshows wie \"Sommerhaus der Stars\", \"Temptation Island VIP\" und \"Love Island VIP\" die Top 10 bzw. Top 20 prägten.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Amazon und Co. kämpfen weiter gegen Investitionspflicht",
-          "link": "https://www.dwdl.de/nachrichten/108442/amazon_und_co_kaempfen_weiter_gegen_investitionspflicht/",
-          "summary": "Der Lobby-Kampf um das geplante „Mediendienste-Investitionsverpflichtungsgesetz\" geht weiter, nachdem die abschließende Beratung im Kulturausschuss aufgrund anhaltender Uneinigkeit innerhalb der Regierungsparteien verschoben wurde. Die in der Motion Picture Association organisierten internationalen Streamingdienste führen für ihre Gegenwehr eine selbst beauftragte Online-Umfrage an, derzufolge die Mehrheit der Deutschen kein Unterangebot deutscher Inhalte wahrnimmt. Die Aussagekraft der Umfrage ist jedoch fraglich, da weniger als ein Drittel der Befragten vor der Befragung überhaupt von den Gesetzesplänen gehört hatte und sich die Meinung somit erst ad-ho",
+          "title": "30 Verbände dringen auf Verabschiedung der Investitionspflicht",
+          "link": "https://www.dwdl.de/nachrichten/108460/30_verbaende_dringen_auf_verabschiedung_der_investitionspflicht/",
+          "summary": "30 Verbände der Filmwirtschaft appellieren an die Politik, das Mediendienste-Investitionsverpflichtungs-Gesetz zügig zu verabschieden, nachdem der Punkt kurzfristig von der Tagesordnung des Kulturausschusses genommen wurde und der geplante Inkrafttreten-Termin Anfang 2027 gefährdet ist. Der nach fünf Jahren Diskussion erzielte Kompromiss wird von der deutschen Filmindustrie mitgetragen, während internationale Streamingdienste weiterhin grundsätzliche Ablehnung signalisieren und vor Schäden für den Produktionsstandort Deutschland warnen. Die Verbände betonen, dass eine Abschwächung des Gesetzes den Anreiz für ergänzende Branchenvereinbarungen über die vorgeseh",
           "score": 10
         },
         {
           "source": "DWDL",
-          "title": "Im Januar geht's los: Neo präsentiert sein neues Logo",
-          "link": "https://www.dwdl.de/nachrichten/108441/im_januar_gehts_los_neo_praesentiert_sein_neues_logo/",
-          "summary": "Im Zuge der im Reformstaatsvertrag vorgeschriebenen Senderkonsolidierung fusionieren ZDFneo und One zum neuen Sender \"Neo\" unter ZDF-Federführung, der am 5. Januar startet und nun sein von Brand New Media gestaltetes pinkfarbenes Logo mit dem Zusatz \"Von ARD und ZDF\" präsentiert hat. Programmlich setzt Neo stärker auf Primetime-Serien – etwa die Serie \"Ballz\" ab dem 5. Januar um 20:15 Uhr –, während weitere Design- und Programmdetails erst zu einem späteren Zeitpunkt bekanntgegeben werden sollen.",
+          "title": "ZDF zeigt \"James Bond\"-Collection im Streaming und TV",
+          "link": "https://www.dwdl.de/nachrichten/108459/zdf_zeigt_james_bondcollection_im_streaming_und_tv/",
+          "summary": "Das ZDF hat sich die Rechte an der kompletten \"James Bond\"-Collection mit 24 Filmen gesichert und stellt diese ab dem 1. Dezember 2026 für 60 Tage im Streamingportal bereit. Begleitend erfolgt eine lineare TV-Ausstrahlung ausgewählter Filme auf drei Sendern: im ZDF, beim neuen ARD/ZDF-Spartenkanal Neo (ab 16. Januar) sowie beim Kultursender 3sat (ab 18. Dezember). Die Rechte lagen zuvor bei RTL Deutschland, wo die Filme auf RTL, Vox und Nitro liefen.",
           "score": 8
         },
         {
-          "source": "Horizont Medien",
-          "title": "AGF-Streamingranking: Das waren die meistgestreamten Formate im Oktober",
-          "link": "https://www.horizont.net/medien/nachrichten/agf-streamingranking-das-waren-die-meistgestreamten-formate-im-oktober-236443?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Das AGF-Streamingranking für Oktober wird von Fußball-, Reality- und Romanzen-Formaten dominiert. Bemerkenswert ist, dass sich auch eine ARD-Dokumentation unter die Top 25 der meistgestreamten Formate des Monats platzieren konnte.",
-          "score": 10
-        },
-        {
-          "source": "Horizont Medien",
-          "title": "Fusion: Burda führt Focus-Redaktionen zusammen",
-          "link": "https://www.horizont.net/medien/nachrichten/fusion-burda-fuehrt-focus-redaktionen-zusammen-236418?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Unter dem Projektnamen \"Focus One\" fusioniert Hubert Burda Media die bislang getrennten Redaktionen von \"Focus\", \"Focus Money\", \"Focus Online\" und \"Focus+\" zu einer gemeinsam arbeitenden Einheit. Der erste Schritt der Zusammenlegung von Print- und Onlineredaktionen erfolgte bereits Ende Oktober, wie ein Unternehmenssprecher bestätigte.",
+          "source": "DWDL",
+          "title": "Sat.1 schickt \"Deal or no Deal\" zum Start in die Primetime",
+          "link": "https://www.dwdl.de/nachrichten/108455/sat1_schickt_deal_or_no_deal_zum_start_in_die_primetime/",
+          "summary": "Sat.1 startet die Neuauflage von \"Deal or No Deal\" mit Moderator Jörg Pilawa am 14. Dezember im werktäglichen Vorabendprogramm (19 Uhr) und flankiert den Launch bereits einen Abend zuvor mit einem Primetime-Promi-Spezial, bei dem Annette und Caro Frier sowie Knossi für das Publikum um bis zu 100.000 Euro spielen. Mit dem Primetime-Aufschlag will ProSiebenSat.1 zusätzliche Aufmerksamkeit für den Show-Neustart generieren, nachdem Sat.1 am Vorabend zuletzt auf Fiction wie \"Landarztpraxis\" setzte. Perspektivisch könnte Pilawa mit einer bereits pilotierten \"Glücksrad\"-Neuauflage weit",
           "score": 7
         },
         {
+          "source": "DWDL",
+          "title": "AGF und Disney sprechen über Reichweitenmessung von Disney+",
+          "link": "https://www.dwdl.de/nachrichten/108451/agf_und_disney_sprechen_ueber_reichweitenmessung_von_disney/",
+          "summary": "Die AGF Videoforschung und Disney prüfen eine mögliche Integration von Disney+ in die aktive AGF-Messung, um die Streaming-Reichweiten für den Werbemarkt transparenter und vergleichbar zu machen – ein konkreter Zeitplan wurde allerdings noch nicht genannt. Damit würde Disney+ dem bereits AGF-gemessenen Konkurrenten Prime Video folgen, während die AGF ihr Ziel eines einheitlichen, unabhängigen Marktstandards für Bewegtbild über alle Distributionswege hinweg weiter vorantreibt.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "Tobias Rosen hat früher als geplant bei der ndF begonnen",
+          "link": "https://www.dwdl.de/nachrichten/108436/tobias_rosen_hat_frueher_als_geplant_bei_der_ndf_begonnen/",
+          "summary": "Tobias Rosen hat seinen Wechsel von Construction Film zur ndF-Gruppe deutlich vorgezogen und bereits am Montag seine Tätigkeit aufgenommen – ursprünglich war sein Eintritt erst für Januar 2027 geplant. Gemeinsam mit Viola Fischer-Weiss und Matthias Walther bildet er künftig die Geschäftsführung der ndF GmbH, wobei er ab September 2027 Walthers Position übernehmen soll. Rosen bringt Erfahrung von Warner Bros. ITVP, Sky Deutschland und Construction Film mit.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Smart-TV-Nutzung 2026: So stark nimmt die Werbeakzeptanz bei Streamingdiensten zu",
+          "link": "https://www.horizont.net/medien/nachrichten/smart-tv-nutzung-2026-so-stark-nimmt-die-werbeakzeptanz-bei-streamingdiensten-zu-236454?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Eine Studie von WPP Media und Samsung Ads zeigt, dass die Werbeakzeptanz bei Smart-TV-Nutzern deutlich steigt: 85 Prozent stehen Werbung in kostenlosen, werbefinanzierten Streaming-Umfeldern positiv oder neutral gegenüber. Grund ist ein wachsendes Verständnis dafür, dass sich Gratis-Streamingangebote über Werbung finanzieren.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Bewegtbildmessung: Nächster Coup nach Amazon? Disney+ vor AGF-Einstieg",
+          "link": "https://www.horizont.net/medien/nachrichten/bewegtbildmessung-naechster-coup-nach-amazon-disney-vor-agf-einstieg-236459?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Nach der Integration von Amazon Prime Video steht mit Disney+ offenbar der nächste internationale Streaming-Dienst vor dem Einstieg in die AGF-Bewegtbildmessung. Damit wächst die Zahl der Plattformen, die sich an einem gemeinsamen Marktstandard für die Bewegtbildmessung beteiligen, weiter an.",
+          "score": 10
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "Online Audio Test von Allmedia Desk: Das sind die meistgenutzten Audio-Streamingdienste",
+          "link": "https://www.horizont.net/medien/nachrichten/online-audio-test-von-allmedia-desk-das-sind-die-meistgenutzten-audio-streamingdienste-236453?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der neue \"Online Audio Test\" der Buchungsplattform AllMediaDesk belegt das anhaltende Wachstum der Online-Audio-Nutzung, wobei YouTube seine Position als dominierende Streaming-Plattform behauptet. Die Studie bietet Fachleuten aktuelle Einblicke in die Reichweiten und Nutzungsmuster der meistgenutzten Audio-Streamingdienste.",
+          "score": 7
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "KI-Training ohne Zustimmung?: Synchronsprecher will gegen Netflix klagen",
+          "link": "https://www.horizont.net/medien/nachrichten/ki-training-ohne-zustimmung-synchronsprecher-will-gegen-netflix-klagen-236457?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der deutsche Synchronsprecher Matti Klemm, bekannt als Stimme von Jason Momoa und Mahershala Ali, will Klage gegen Netflix einreichen und beruft sich dabei auf die Verletzung seines Persönlichkeitsrechts sowie seiner Urheber- und Datenschutzrechte. Hintergrund ist die Debatte über umstrittene KI-Vertragsklauseln für Synchronstimmen. Unterstützt wird Klemm vom Verband Deutscher Sprecher:innen (VDS), dessen Mitglied er ist.",
+          "score": 8
+        },
+        {
           "source": "meedia",
-          "title": "Video Daily: TV-Quoten & Streaming-Charts \"Wer weiß denn sowas\"-Weltrekord und \"Wer wird Millionär?\" holen starke Zahlen, René-Benko-Film interessiert nur wenige Am Montag waren Quizshows angesagt: Am Vorabend sahen um die 3 Millionen den Auftakt des “Live-Weltrekords” im Rahmen von “Wer weiß denn sowas?”, bei dem Kai Pflaume innerhalb von knapp sechs Stunden während des Moderierens einen Marathon gelaufen ist. Ab 20.15 Uhr sahen dann ähnlich viele “Wer wird Millionär?” und bescherten der Show den Prime-Time-Sieg. Der ARD-Konkurrent “Benko",
-          "link": "https://meedia.de/news/beitrag/25353-quot-wer-weiss-denn-sowas-quot-weltrekord-und-quot-wer-wird-millionaer-quot-holen-starke-zahlen-rene-benko-film-interessiert-nur-wenige.html",
-          "summary": "Die Quizshows dominierten den Montag: Der Auftakt von Kai Pflaumes \"Live-Weltrekord\" bei \"Wer weiß denn sowas?\" erreichte am Vorabend bis zu 3,13 Millionen Zuschauer und Marktanteile von bis zu 19,5 Prozent, womit die Show sämtliche Prime-Time-Programme übertraf. In der Hauptsendezeit sicherte sich \"Wer wird Millionär?\" mit rund 3 Millionen Zuschauern den Prime-Time-Sieg, während der ARD-Film \"Benko – Size Does Matter\" mit nur 1,47 Millionen Zuschauern und einem schwachen Marktanteil von 6,8 Prozent enttäuschte.",
+          "title": "TV-Quoten & Streaming-Charts Markus Lanz holt am Wahltag Top-Marktanteile mit seiner USA-Doku Das...",
+          "link": "https://meedia.de/news/beitrag/25361-markus-lanz-holt-am-wahltag-top-marktanteile-mit-seiner-usa-doku.html",
+          "summary": "Markus Lanz erzielte mit seiner USA-Doku \"Amerika ungeschminkt: Was kommt nach Trump?\" am Vorabend der Midterm-Wahlen im ZDF in allen Altersgruppen deutlich überdurchschnittliche Marktanteile. Die Prime-Time-Siege gingen jedoch an die ARD-Serie \"Die Kanzlei\" (4,91 Mio. Zuschauer, 22,3 Prozent Marktanteil) sowie an die ProSieben-Show \"TV total\". Das ZDF blieb mit seinem 45-minütigen Midterms-Beitrag ab 20.15 Uhr beim Publikum weniger als halb so stark wie die ARD.",
           "score": 9
         },
         {
+          "source": "Guardian Media",
+          "title": "Broadcasters need content creators ‘more than creators need them’",
+          "link": "https://www.theguardian.com/media/2026/nov/04/broadcasters-content-creators-youtube-bbc-itv-channel-4",
+          "summary": "Die Produktionsfirma After Party Studios (APS), unterstützt von Elisabeth Murdoch, argumentiert, dass traditionelle Sender wie BBC, ITV und Channel 4 heute stärker auf Content-Creator angewiesen sind als umgekehrt, da sich das Mediennutzungsverhalten zunehmend zur Creator-Economy auf Plattformen wie YouTube und TikTok verschiebt. Laut APS-CEO interessieren sich Creator nur noch bei hoher Bezahlung oder außergewöhnlicher Reichweite für TV-Angebote. Während das klassische Fernsehen mit Formaten wie „Celebrity Traitors“ (15,7 Mio. Zuschauer) weiterhin Erfolge verzeichnet, leiden die Sender unter abwandernden Zuschauern und Werbek",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "Nick Hall Strikes Producing Deal With Vice Studios",
+          "link": "https://deadline.com/2026/11/nick-hall-producing-deal-vice-studios-1237212452/",
+          "summary": "Nick Hall, Emmy-prämierter Produzent von „The White Lotus\", geht eine nicht-exklusive Produktionspartnerschaft mit Vice Studios ein und entwickelt künftig Scripted-Projekte über sein Label Hallogram. Im Rahmen der Vereinbarung wird er zwei laufende Projekte als Executive Producer betreuen: die TV-Adaption von Anika Jade Levys Roman „Flat Earth\" sowie die Workplace-Comedy „Work Husbands\". Der Deal folgt auf strategische Weichenstellungen bei Vice nach der Übernahme aus der Insolvenz 2023, darunter die Verpflichtung von Amy Powell als President und ein 75-Mio.-Dollar-Kreditrahmen zum Ausbau des Programmportfolios.",
+          "score": 7
+        },
+        {
           "source": "Hollywood Reporter",
-          "title": "Cinemark Won’t Screen Brad Pitt’s ‘Cliff Booth’ Movie Over Netflix’s Demands, CEO Says",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/cinemark-tarantino-cliff-booth-brad-pitt-netflix-1236746813/",
-          "summary": "Die Kinoketten Cinemark und Regal verweigern dem Netflix-Film „The Further Mis-Adventures of Cliff Booth\" (mit Brad Pitt, geschrieben von Tarantino, inszeniert von Fincher) ihre IMAX-Leinwände, wodurch der Titel unter den großen Ketten exklusiv bei AMC läuft. Als Grund nennt Cinemark-CEO Sean Gamble das sehr kurze Kinofenster von nur zwei Wochen vor dem Streaming-Start sowie die Sorge, einen für das gesamte Kino-Ökosystem schädlichen Präzedenzfall zu schaffen. Der Film startet am 25. November im Kino und erscheint am 23. Dezember auf Netflix – es ist zugleich Netflix' erste IMAX-Veröffentlichung.",
+          "title": "NBCUniversal Invests in India Microdrama Producer in $80 Million Fundraising Round",
+          "link": "https://www.hollywoodreporter.com/business/business-news/nbcuniversal-indian-microdrama-producer-1236747724/",
+          "summary": "NBCUniversal und Hornbill Capital führen eine 80-Millionen-Dollar-Series-C-Finanzierungsrunde für den indischen Microdrama-Produzenten EloElo Group (Betreiber der Story-TV-Plattform) an, um dessen Expansion über Indien hinaus – einschließlich in den US-Markt – voranzutreiben. Die 2020 in Bengaluru gegründete Firma verfügt über mehr als 5.000 Microdramas in sechs Sprachen und über 40 Millionen monatlich aktive Nutzer. Das Investment unterstreicht NBCUniversals strategischen Vorstoß in Mobile-First-Storytelling und vertikale Kurzformate, nachdem Peacock bereits die vertikale Serie „Campus Confidential: Miami“ gestartet hat.",
           "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Daisy Ridley, Sosie Bacon and Simon Rex to Star in Road Trip Horror ‘Get Rid of It’ From ‘Whiplash’ and ‘Drive’ Producer",
+          "link": "https://variety.com/2026/film/global/daisy-ridley-sosie-bacon-simon-rex-get-rid-of-it-1236939126/",
+          "summary": "Daisy Ridley, Sosie Bacon und Simon Rex übernehmen die Hauptrollen im Road-Trip-Horrorfilm „Get Rid of It“ unter der Regie von Ry Russo-Young, der Anfang 2027 gedreht werden soll und derzeit beim American Film Market von Upgrade, CAA Media Finance und Range Select zum Verkauf angeboten wird. Die Handlung folgt zwei Schwestern auf einer Cross-Country-Reise, nachdem eine von ihnen nach einem One-Night-Stand schwanger wird und feststellt, dass das Ungeborene möglicherweise nicht menschlich ist. Produziert wird das Projekt von „Whiplash“-, „Nightcrawler“- und „Drive“-Produzent David Lancaster.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Thomasin McKenzie, Finn Cole and Antony Starr to Lead ‘The Lie of Sherwood Forest,’ Logical and Protagonist Launching at AFM (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/global/thomasin-mckenzie-finn-cole-starr-lie-of-sherwood-forest-1236939229/",
+          "summary": "Die deutsche Produktionsfirma augenschein verfilmt mit „The Lie of Sherwood Forest\" unter der Regie von Patrick Vollrath („7500\") eine neue, düster-realistische Robin-Hood-Adaption, die am 9. November in die Produktion geht. In den Hauptrollen agieren Thomasin McKenzie, Finn Cole und Antony Starr, während Logical Pictures International und Protagonist Pictures den Weltvertrieb übernehmen und das Projekt beim AFM lancieren.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "Paris Creator Week Aims to Become the Cannes of the Creator Economy as New Study Forecasts $1.2 Trillion Global Market",
+          "link": "https://variety.com/2026/biz/global/paris-creator-week-cannes-economy-study-1-2-trillion-1236939194/",
+          "summary": "Die Paris Creator Week verdoppelt ihre Größe auf 8.000 Teilnehmer und positioniert sich als „Cannes der Creator Economy\", wobei eine neue Studie den globalen Markt für 2026 auf 217,3 Milliarden US-Dollar (+26,2 % gegenüber dem Vorjahr) und bis 2033 auf 1,22 Billionen US-Dollar prognostiziert. Frankreich etabliert sich dabei als wichtiger internationaler Hub mit einem lokalen Marktvolumen von 10,1 Milliarden US-Dollar (227.000 Vollzeitstellen) und rangiert als siebtgrößte Creator Economy weltweit sowie drittgrößte in Europa hinter Großbritannien und Deutschland.",
+          "score": 7
         }
       ]
     }
