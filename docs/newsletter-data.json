@@ -1,49 +1,133 @@
 {
   "newsletters": [
     {
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "articles": [
         {
+          "source": "DWDL",
+          "title": "Netflix kündigt Spin-Off von \"Stranger Things\" für 2028 an",
+          "link": "https://www.dwdl.de/nachrichten/108490/netflix_kuendigt_spinoff_von_stranger_things_fuer_2028_an/",
+          "summary": "Netflix erweitert das \"Stranger Things\"-Universum um eine neue Live-Action-Serie mit dem Titel \"Other Worlds: A Stranger Things Adventure\", die 2028 starten soll und in den 1950er-Jahren – also vor der Original-Serie – angesiedelt ist. Entwickelt wird das Projekt von Kate Trefry und den Duffer-Brüdern, die trotz ihres Wechsels zu Paramount bei bestehenden Netflix-Franchises an Bord bleiben; Regie bei den ersten drei Folgen führt Joe Wright, gedreht wird in New Mexico.",
+          "score": 10
+        },
+        {
+          "source": "DWDL",
+          "title": "RTL+ kooperiert mit Microdrama-Plattform Inkitt CandyJar",
+          "link": "https://www.dwdl.de/nachrichten/108485/rtl_kooperiert_mit_microdramaplattform_inkitt_candyjar/",
+          "summary": "RTL+ geht eine Kooperation mit der KI-gestützten Microdrama-Plattform Inkitt CandyJar ein und integriert die jeweils ersten Folgen ausgewählter Romance-Kurzserien in sein Angebot. Für die vollständigen Serien müssen Nutzer allerdings zur Plattform des Anbieters wechseln. Damit macht RTL einen ersten, vorsichtigen Schritt in den aktuell stark gehypten Markt für Vertical Drama.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Fabian Wolfart wechselt als Produzent zu Construction Film",
+          "link": "https://www.dwdl.de/nachrichten/108469/fabian_wolfart_wechselt_als_produzent_zu_construction_film/",
+          "summary": "Die von Veronica Ferres 2013 gegründete Construction Filmproduktion verstärkt ihr Kreativteam mit dem erfahrenen Produzenten Fabian Wolfart, der künftig Film- und Serienprojekte entwickeln und realisieren soll. Wolfart war zuletzt Executive Producer des Kinofilms „So Happy It Hurts“ und zuvor unter anderem Produzent der vierten Staffel von „Das Boot“. Im Zuge personeller Veränderungen verlässt zugleich Produzentin Sarah Kirkegaard das Unternehmen.",
+          "score": 8
+        },
+        {
+          "source": "DWDL",
+          "title": "Sky veröffentlicht Breitscheidplatz-Doku zum 10. Jahrestag",
+          "link": "https://www.dwdl.de/nachrichten/108466/sky_veroeffentlicht_breitscheidplatzdoku_zum_10_jahrestag/",
+          "summary": "Sky veröffentlicht zum 10. Jahrestag des Anschlags auf den Berliner Breitscheidplatz am 17. Dezember den 84-minütigen Dokumentarfilm \"Breitscheidplatz Undercover\", der auf dem \"Spiegel\"-Buch sowie Interviews mit dem ehemaligen V-Mann Murat Cem basiert, welcher Anis Amri nahekam und mehrfach vergeblich vor ihm warnte. Zu seinem Schutz wird Cem im Film von Schauspieler Hasan Taşgın verkörpert; Regie führte Ina Kessebohm, produziert wurde die Doku von Filmallee und megaherz. Der Film ist bei Sky und Wow abrufbar und läuft linear um 20:15 Uhr bei Sky Crime.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "RTL und Vox machen sich gegenseitig das Leben schwer",
+          "link": "https://www.dwdl.de/nachrichten/108463/rtl_und_vox_machen_sich_gegenseitig_das_leben_schwer/",
+          "summary": "Durch mangelhafte konzerninterne Programmplanung konkurrierten die Schwestersender RTL und Vox am selben Abend mit thematisch ähnlichen Doku-Formaten über Einzelhandelsketten – \"Inside dm & Rossmann\" bei RTL und \"Ready for Take-Off\" über Eurowings bei Vox. Beide Sendungen blieben unter ihrem jeweiligen Senderschnitt: RTL erreichte 8,4 Prozent (14-59) bzw. 12,0 Prozent (14-49), Vox nur 5,2 bzw. 4,3 Prozent. Verschärft wurde die Situation durch eine zeitgleiche WDR-Wiederholung von \"Die Tricks von dm und Rossmann\", die mit 0,62 Millionen Zuschauern sogar mehr Publikum erreichte als das",
+          "score": 7
+        },
+        {
           "source": "Horizont Medien",
-          "title": "Unit Next.Gen: Seven-One regelt: Das ist die Gen-Z-Erfolgsformel des P7S1-Vermarkters",
-          "link": "https://www.horizont.net/medien/nachrichten/ein-jahr-next.gen-seven-one-regelt-das-ist-die-gen-z-erfolgsformel-des-p7s1-vermarkters-236452?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Seven-One Media, der Vermarkter von ProSiebenSat.1, hat mit seiner Spezialeinheit Next.Gen eine Strategie zur gezielten Ansprache der Gen Z in der fragmentierten Medienlandschaft etabliert. Nach rund einem Jahr zieht Geschäftsführer Lennart Harendza eine erste Bilanz über die entwickelte Erfolgsformel.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Deutscher Apotheker Verlag bündelt Media Sales unter Bärbel Kaiser Mehr als 23 Jahre hat Kornelia...",
-          "link": "https://kress.de/news/beitrag/156862-print-und-digitalvermarktung-in-einer-hand-deutscher-apotheker-verlag-buendelt-media-sales-unter-baerbel-kaiser.html",
-          "summary": "Die Mediengruppe Deutscher Apotheker Verlag bündelt ihre bisher getrennten Einheiten für Print-Anzeigen und Digital Sales im neuen Team Media Solutions unter Leitung von Bärbel Kaiser, um Synergien an der Schnittstelle von Print- und Digitalangeboten zu schaffen. Anlass der Neuordnung ist der Abschied der langjährigen Vermarktungsleiterin Kornelia Wind, die den Verlag zum 1. November nach über 23 Jahren verlassen hat. Parallel verstärkt sich die Geschäftsführung: Ingo Mahl, früherer CEO der Schlütersche Mediengruppe, übernimmt ab 1. Dezember als verlegerischer Geschäftsführer unter anderem die Verantwortung für das Media-Sales-Team.",
-          "score": 7
-        },
-        {
-          "source": "kress",
-          "title": "Burda bringt Print und Online beim Focus zusammen Gemeinsame Newsrooms in München und Berlin, ein...",
-          "link": "https://kress.de/news/beitrag/156857-wir-bauen-eine-integrierte-redaktion-burda-bringt-print-und-online-beim-focus-zusammen.html",
-          "summary": "Hubert Burda Media führt die bislang getrennten Redaktionen von Focus, Focus Money, Focus Online und Focus+ in gemeinsamen Newsrooms in München und Berlin zusammen, wobei die Integration Anfang 2027 beginnen und bis Mitte 2027 abgeschlossen sein soll. Ziel ist ein konsequenter „Digital First“-Ansatz, der die Traffic-Stärke von Focus Online mit der Recherchekraft der Printredaktionen verbindet, flankiert von einem Relaunch im ersten Halbjahr 2027 und einer inhaltlichen Neuausrichtung auf konstruktiven Journalismus. Zu möglichen personellen Konsequenzen des Umbaus machte Burda keine konkreten Angaben.",
+          "title": "RBB-Skandal: Der Fall Schlesinger und die Folgen für den Rundfunk",
+          "link": "https://www.horizont.net/medien/nachrichten/rbb-skandal-der-fall-schlesinger-und-die-folgen-fuer-den-rundfunk-236491?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die Affäre um die frühere RBB-Intendantin Patricia Schlesinger löste eine bundesweite Debatte über Rundfunkbeiträge und die Kontrolle der öffentlich-rechtlichen Sender aus. In der Folge wurden zahlreiche Regeln reformiert – sowohl beim RBB selbst als auch bei ARD, ZDF und Deutschlandradio.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "One Medie setzt wenige Monate nach ihrer Gründung bereits mehrere Markenprojekte um.",
-          "link": "https://meedia.de/news/beitrag/25376-seven-one-media-startet-social-kampagnen-fuer-knorr-merci-und-simon-mobile.html",
-          "summary": "Die Social-First-Einheit Next.Gen von Seven.One Media, dem ProSiebenSat.1-Vermarkter, realisiert wenige Monate nach ihrer Gründung bereits mehrere Markenkampagnen für Kunden wie Knorr, Merci, Chiquita und die Vodafone-Zweitmarke SIMon mobile. Das Angebot verbindet Social Media, Creator-Kampagnen und Streaming mit klassischem TV zu markensicheren, skalierbaren Omnichannel-Lösungen, die jüngere Zielgruppen ansprechen sollen. So setzt Knorr etwa auf eine Influencer-Kampagne zur Einführung einer neuen Airfryer-Gewürzmischung, während Merci rund um Musiker Wincent Weiss wirbt.",
+          "title": "TV-Quoten & Streaming-Charts RTL-Fußball besiegt ProSieben-Handball deutlich Während im...",
+          "link": "https://meedia.de/news/beitrag/25382-rtl-fussball-besiegt-prosieben-handball-deutlich.html",
+          "summary": "Am Donnerstagabend dominierte im Gesamtpublikum der ARD-\"Usedom-Krimi\" mit 5,31 Millionen Zuschauern und starken 23,9 Prozent Marktanteil, während das ZDF mit \"Die Bergretter\" solide 18,0 Prozent erreichte. Bei den werberelevanten 14- bis 49-Jährigen sicherte sich RTL mit der Europa-League-Partie Bayer Leverkusen gegen Olympique Marseille (bis zu 1,95 Millionen Zuschauer, 12,1 Prozent) den Prime-Time-Sieg und verwies ProSiebens Handball-Länderspiel sowie Sat.1s \"Das 1% Quiz\" (1,00 Millionen, 4,6 Prozent) auf die hinteren Plätze.",
+          "score": 9
+        },
+        {
+          "source": "Deadline",
+          "title": "‘Christmas At Maple Hollow Inn’ Microdrama Hopes To Channel The Spirit Of Festive TV Movies Through Meta’s Series Feature",
+          "link": "https://deadline.com/2026/11/christmas-at-maple-hollow-microdrama-1237213047/",
+          "summary": "Jonas Barnes' Pixie USA startet mit „Christmas at Maple Hollow Inn\" eines der ersten Microdramen, das Metas neues Series-Tool nutzt, welches Creator ab dem 14. November das Bündeln vertikaler Reels zu Episoden auf Facebook und Instagram ermöglicht. Die in Partnerschaft mit dem Lebensmittelhändler Bob Evans entwickelte romantische Weihnachtsproduktion umfasst 20 Episoden mit einer Gesamtlaufzeit von 38 Minuten und wird neben Meta-Plattformen auch auf YouTube und TikTok vertrieben. Das Projekt zielt darauf ab, die Atmosphäre eines klassischen Weihnachts-TV-Films als vertikale Serie nachzubilden.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘The Bend In The River’ Trailer: In Robb Moss Oscar Contender, Friends Reunite For Possibly Final Journey Down The Colorado",
-          "link": "https://deadline.com/2026/11/the-bend-in-the-river-trailer-1237214137/",
-          "summary": "Der von Robb Moss inszenierte Dokumentarfilm „The Bend in the River“ erscheint am 4. Dezember auf Netflix und gilt als Oscar-Anwärter. Der Film bildet den Abschluss eines fast 50-jährigen Filmprojekts, das mit „Riverdogs“ (späte 1970er) begann und eine Gruppe von Freunden bei wiederkehrenden Rafting-Touren auf dem Colorado River durch verschiedene Lebensphasen bis ins hohe Alter begleitet. Produziert wird das Werk unter anderem von Oscar-Preisträgerin Lisa Remington und Kristin Feeley vom Sundance Institute.",
+          "title": "Genre Label Vasaria Pictures Forms Pact With Vertical Horror Streamer TerrorBox",
+          "link": "https://deadline.com/2026/11/vasaria-pictures-terrorbox-streaming-pact-1237215465/",
+          "summary": "Vasaria Pictures, das Genre-Label der Saw-Autoren Patrick Melton und Marcus Dunston, ist eine Partnerschaft mit dem horrorfokussierten Vertical-Streamer TerrorBox eingegangen, um Kurzformat-Inhalte – oft von aufstrebenden Talenten – zu entwickeln und diese zu Spielfilmen auszubauen. Als Teil der Vereinbarung veröffentlicht TerrorBox Vasarias Kurzfilm „Jezebel“ als vertikale Serie, während beide Parteien zudem an einer vertikalen Adaption des Melton/Dunstan-Drehbuchs „Fate“ arbeiten. TerrorBox wurde dieses Jahr von der Box Entertainment Group (gegründet 2025 von Ryan Justice) als genrespezifisch",
           "score": 7
         },
         {
-          "source": "Variety",
-          "title": "How ‘Frontline’ Turned Into an Oscar-Winning Documentary Juggernaut",
-          "link": "https://variety.com/2026/film/features/frontline-documentary-oscar-one-in-a-million-youtube-gen-z-1236939749/",
-          "summary": "Unter der Leitung von Raney Aronson-Rath hat sich die traditionsreiche PBS-Investigativ-Dokumentarserie „Frontline\" zu einem preisgekrönten Erfolgsformat entwickelt, das mit 44 Emmys und dem ersten Dokumentar-Oscar für „20 Days in Mariupol\" (2024) ausgezeichnet wurde. Die Serie produziert jährlich rund 20 Dokumentationen und spricht zunehmend auch jüngere Generationen über Online-Plattformen an. Beim diesjährigen Oscar-Rennen tritt Aronson-Rath gegen Nathan Fielder und Lance Oppenheims Elizabeth-Holmes-Dokumentation „You Can See Everything\" an.",
+          "source": "Deadline",
+          "title": "Russell Brand’s Lawyer Refers Himself To Professional Watchdog After Rounding On Journalist Who Exposed Brand’s Behavior",
+          "link": "https://deadline.com/2026/11/russell-brands-lawyer-ian-winter-ros-urwin-outside-court-1237214505/",
+          "summary": "Nach der Verurteilung Russell Brands wegen Vergewaltigung und dreifachen sexuellen Übergriffs soll dessen Anwalt Ian Winter KC die Sunday-Times-Journalistin Rosamund Urwin, die maßgeblich an der Aufdeckung der Vorwürfe beteiligt war, vor dem Gericht verbal attackiert haben. Daraufhin meldete sich Winter selbst bei der britischen Anwaltsaufsichtsbehörde (Bar Standards Board), damit die Vorwürfe ordnungsgemäß geprüft werden können.",
           "score": 8
+        },
+        {
+          "source": "Deadline",
+          "title": "Fox Corp. Closes $22 Billion Acquisition Of Roku",
+          "link": "https://deadline.com/2026/11/fox-corp-closes-roku-acquisition-1237215436/",
+          "summary": "Fox Corp. hat die 22-Milliarden-Dollar-Übernahme von Roku abgeschlossen – deutlich schneller als die ursprünglich für das erste Halbjahr 2027 erwartete Frist, womit die Roku-Aktie ab Freitag vom Nasdaq verschwindet. Roku-Gründer Anthony Wood tritt dem Fox-Vorstand bei und wird Co-Chair der neuen Sparte Fox Digital Platforms, die unter anderem Roku, Tubi und Fox One bündelt, während Paul Cheesbrough als Co-Chair und CEO fungiert. Durch die Integration von Rokus Reichweite von über 100 Millionen Haushalten entsteht ein skalierter Streaming- und Werbekonzern, dessen künftige Führungsstruktur in Bereichen wie Werbung",
+          "score": 10
+        },
+        {
+          "source": "Deadline",
+          "title": "International Buyers From 12 Territories Launch Film Distribution Network Lokia On Eve Of AFM",
+          "link": "https://deadline.com/2026/11/international-film-buyers-form-distribution-network-lokia-1237215302/",
+          "summary": "Internationale Filmeinkäufer aus 12 Territorien haben zur AFM das in Luxemburg ansässige Distributionsnetzwerk Lokia gegründet, um gemeinsam Content zu entwickeln, zu produzieren und Markdaten zu bündeln – als direkte Reaktion auf Marktkonsolidierung und das schwächelnde Pre-Sales-Modell. Zu den Partnern zählen unter anderem Wild Bunch Germany/Austria, Praesens-Film und Kazoo Films; die Mitglieder bleiben eigenständige Einheiten, wollen künftig aber auch gemeinsam Content akquirieren und größere IP-Anteile halten. Initiiert wurde das Netzwerk von Michael Favelle (Odin's Eye Entertainment) und Mitgründer Heiko Nemmert (ehem",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Fox Closes Roku Deal, Creating New Streaming Power Player",
+          "link": "https://www.hollywoodreporter.com/business/digital/fox-closes-roku-deal-creating-new-streaming-power-player-1236749375/",
+          "summary": "Fox Corp. hat die 22-Milliarden-Dollar-Übernahme von Roku abgeschlossen und positioniert sich damit als bedeutender Streaming-Akteur mit zwei führenden werbefinanzierten Plattformen (Tubi und Roku Channel), dem Premium-Dienst Fox One sowie einer Reichweite von über 100 Millionen Haushalten weltweit. Roku-Gründer Anthony Wood tritt dem Fox-Vorstand bei und wird Co-Vorsitzender der neuen Sparte Fox Digital Platforms, wobei beide Unternehmen die Offenheit der Roku-Plattform für alle Content-Partner betonen.",
+          "score": 10
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "‘Buena Vista Social Club’ to Close on Broadway in January",
+          "link": "https://www.hollywoodreporter.com/lifestyle/arts/buena-vista-social-club-to-close-on-broadway-in-january-1236749360/",
+          "summary": "Das mit fünf Tony Awards ausgezeichnete Musical „Buena Vista Social Club\" – die erste Broadway-Produktion mit einer ausschließlich auf Spanisch gesungenen Partitur – wird am 17. Januar nach fast zwei Jahren schließen, soll aber vor Spielende seine Produktionskosten wieder einspielen. Trotz der Schließung expandiert die Marke weiter: Es gibt bereits Tourneeproduktionen sowie Aufführungen in Puerto Rico und Mexiko-Stadt, eine West-End-Premiere ist für 2027 geplant, und Lead-Produzent Orin Wolf deutete zudem einen möglichen Filmdeal an.",
+          "score": 7
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "‘Stranger Things’ Spinoff Series ‘Other Worlds’ Set in the 1950s Ordered by Netflix",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-stranger-things-spinoff-other-worlds-1236748971/",
+          "summary": "Netflix hat mit „Other Worlds: A Stranger Things Adventure\" eine im New Mexico der 1950er Jahre angesiedelte Live-Action-Prequel-Serie zum Erfolgshit bestellt, die vermutlich ein UFO-/Alien-Thema behandelt. Die Duffer Brothers fungieren als Co-Creators, übergeben die kreative Hauptverantwortung jedoch an Autorin Kate Trefry (Showrunnerin) und Regisseur Joe Wright, der die ersten drei Episoden inszeniert. Die Serie startet mit komplett neuer Besetzung und eigenständiger Handlung.",
+          "score": 8
+        },
+        {
+          "source": "Hollywood Reporter",
+          "title": "Apple TV Renews ‘Knife Edge: Chasing Michelin Stars’ for Season 3",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/knife-edge-chasing-michelin-stars-season-3-1236749097/",
+          "summary": "Apple TV hat die kulinarische Dokuserie „Knife Edge: Chasing Michelin Stars“ von Executive Producer Gordon Ramsay für eine dritte Staffel verlängert. Das von TopJaw-Mitbegründer Jesse Burgess moderierte Format begleitet weltweit Köche beim Kampf um Michelin-Sterne und zeichnet sich durch den außergewöhnlichen Zugang zum sonst für seine Geheimhaltung bekannten Michelin Guide aus. Die ersten beiden Staffeln mit je acht Episoden sind bereits auf Apple TV verfügbar.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "Fox’s Paul Cheesbrough Will Expand Duties After Roku Deal; Anjali Sud, Charlie Collier to Exit",
+          "link": "https://variety.com/2026/tv/news/paul-cheesbrough-fox-roku-1236941308/",
+          "summary": "Nach der 22-Milliarden-Dollar-Übernahme von Roku wird Paul Cheesbrough bei Fox Corp. zum Co-Chairman und CEO der neuen Division Fox Digital Platforms ernannt, die Roku, Tubi und Red Seat Ventures bündelt. Roku-Gründer Anthony Wood wechselt in den Fox-Vorstand und fungiert als Co-Chairman, während die Top-Manager Anjali Sud und Charlie Collier das Unternehmen verlassen. Die neue Struktur umfasst Roku (CEO Mustafa Ozgen), Direct-to-Consumer-Angebote wie Tubi und Fox One (CEO Pete Distad) sowie Red Seat Ventures und das Fintech-Unternehmen Credible.",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "‘Werwulf,’ ‘Cliff Booth,’ ‘The Odyssey’ and More Costume Designers Show Exclusive Sketches From the Year’s Biggest Movies",
+          "link": "https://variety.com/2026/artisans/news/werwulf-cliff-booth-odyssey-costume-designer-sketches-1236939372/",
+          "summary": "Führende Kostümdesigner geben exklusive Einblicke in ihre Entwürfe für die größten Filmproduktionen des Jahres, darunter Christopher Nolans „The Odyssey\" und das Michael-Jackson-Biopic „Michael\". Die schiere Zahl der Designs ist dabei bemerkenswert – Ellen Mirojnick fertigte über 5.300 Entwürfe für „The Odyssey\", während Marci Rodgers mehr als 3.000 Looks für „Michael\" lieferte, darunter die Rekonstruktion von Jacksons ikonischem „Motown 25\"-Auftritt. Die Beiträge verdeutlichen, wie Kostüme Charakterentwicklungen widerspiegeln und Figuren charakterisieren, noch bevor diese ein einziges Wort gesprochen haben.",
+          "score": 7
         }
       ]
     }
