@@ -1,76 +1,76 @@
 {
   "newsletters": [
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "articles": [
         {
-          "source": "Horizont Medien",
-          "title": "&quot;Raab gegen alle&quot;: RTL zeigt 2027 neue Samstagabendshow mit Stefan Raab",
-          "link": "https://www.horizont.net/medien/nachrichten/raab-gegen-alle-rtl-zeigt-2027-neue-samstagabendshow-mit-stefan-raab-236497?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "RTL bringt 2027 die neue Samstagabendshow „Raab gegen alle“, in der Stefan Raab gleichzeitig gegen 100 Teilnehmer antritt – wer den Entertainer besiegt, kann bis zu 100.000 Euro gewinnen. Parallel setzt der Sender die Formate „Wer weiß wie wann was war?“ mit Barbara Schöneberger sowie die „Stefan Raab Show“ fort und baut damit die Zusammenarbeit mit Raab weiter aus.",
-          "score": 8
+          "source": "DWDL",
+          "title": "Breiter Herbst-Aufschwung im Streaming, ZDF legt deutlich zu",
+          "link": "https://www.dwdl.de/zahlenzentrale/108502/breiter_herbstaufschwung_im_streaming_zdf_legt_deutlich_zu/",
+          "summary": "Der Streaming-Markt verzeichnete im Oktober 2026 einen saisonbedingt breiten Aufschwung mit zweistelligen Zuwächsen bei nahezu allen Anbietern, wobei das ZDF mit einem Plus von 21,4 Prozent (94 Mio. Stunden) der stärkste Gewinner unter den Generalisten war, jedoch weiterhin hinter der ARD-Mediathek (113 Mio. Stunden, +6,7 Prozent) liegt. Amazon Prime Video führt das Ranking mit rund 143 Millionen gestreamten Stunden an und dominiert insbesondere bei den 14- bis 49-Jährigen mit über 100 Millionen Stunden. RTL+ bleibt mit 71 Millionen Stunden stärkster deutscher Verfolger beim jungen Publikum und",
+          "score": 10
         },
         {
           "source": "Horizont Medien",
-          "title": "Interview: Zattoo-Manager Klaus Nadler fordert Konsolidierung im CTV-Markt",
-          "link": "https://www.horizont.net/medien/nachrichten/interview-zattoo-manager-klaus-nadler-fordert-konsolidierung-im-ctv-markt-236482?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Zattoos neuer Chief Sales Officer Klaus Nadler kritisiert die starke Fragmentierung des Connected-TV-Marktes in Deutschland und plädiert für eine engere Kooperation der Vermarkter. Er warnt davor, dass andernfalls die großen Plattformen die Konsolidierung des Marktes selbst vorantreiben und dominieren könnten.",
-          "score": 8
+          "title": "Kostenloser Live-Sport: Warum sich FAST-Channel und Pay-TV nicht kannibalisieren",
+          "link": "https://www.horizont.net/medien/kommentare/kostenloser-live-sport-warum-sich-fast-channel-und-pay-tv-nicht-kannibalisieren-236500?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Live-Sport ist zunehmend auf werbefinanzierten FAST-Channels (Free Ad-Supported Streaming TV) verfügbar und schafft damit ein hochwertiges Umfeld für Werbungtreibende, das bislang hinter Paywalls lag. Laut einer Analyse von Samsung Ads kannibalisieren sich kostenlose FAST-Sportkanäle und Pay-TV dabei nicht, sondern erschließen unterschiedliche Nutzergruppen. Für Fachleute relevant sind die sich abzeichnenden Trends im Sport-Live-Streaming sowie die wachsende Fragmentierung der Übertragungsrechte, die Fans teils mehrere Abos abverlangt.",
+          "score": 9
         },
         {
-          "source": "kress",
-          "title": "Wie Vermarkter des Jahres Frank Vogel die Ad Alliance umbauen will Ein Supermarkt-Spot, wenn im...",
-          "link": "https://kress.de/news/beitrag/156888-werbung-nach-gefuehlslage-wie-vermarkter-des-jahres-frank-vogel-die-ad-alliance-umbauen-will.html",
-          "summary": "Die Ad Alliance unter CEO Frank Vogel, von Meedia zum Vermarkter des Jahres 2026 gekürt, plant mithilfe von KI eine emotionsbasierte Werbeausspielung sowie bis 2028 einen vollständig konvergenten Adserver für lineares TV und Connected TV in Echtzeit. Den ursprünglich geplanten \"Hardcut\" zu einem einheitlichen TKP-Abrechnungsmodell ab 2028 hat der Vermarkter zugunsten größerer Wahlmöglichkeiten für Kunden aufgegeben. Hintergrund ist ein schwieriges Marktumfeld: 2025 sank der Bruttowerbeumsatz um 1,6 Prozent auf 6,53 Milliarden Euro, wobei das lineare TV-Geschäft zurückging, während",
-          "score": 7
+          "source": "Horizont Medien",
+          "title": "Plattform-Reichweiten: Amazon schiebt sich bei der Streaming-Reichweite am ZDF vorbei",
+          "link": "https://www.horizont.net/medien/nachrichten/plattform-reichweiten-amazon-schiebt-sich-bei-der-streaming-reichweite-am-zdf-vorbei-236516?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Laut AGF-Messung ist das Streaming-Nutzungsvolumen im Oktober flächendeckend gestiegen, wobei sich Amazon bei der kumulierten Reichweite am ZDF vorbeischob. Die Spitzenposition behauptet weiterhin die ARD.",
+          "score": 10
         },
         {
-          "source": "kress",
-          "title": "„Vermarkter des Jahres“ ist Ad-Alliance-Chef Frank Vogel, der seit Juni die Vermarktung von RTL Deutschland und Sky Deutschland führt.",
-          "link": "https://kress.de/news/beitrag/156861-meedia-zeichnet-frank-vogel-als-vermarkter-des-jahres-aus.html",
-          "summary": "Meedia zeichnet Frank Vogel, CEO der Ad Alliance, als „Vermarkter des Jahres“ 2026 aus und würdigt damit Erfolge wie die Super-ID mit Utiq und den neuen Print & Crossmedia Hub. Seit Juni 2026 verantwortet Vogel die gemeinsame Vermarktung von RTL Deutschland und Sky Deutschland im deutschsprachigen Europa sowie Sky Media, die internationale RTL-AdAlliance-Vermarktung und diverse AdTech-Beteiligungen. Im Interview kündigt er unter anderem emotionsbasierte Werbeausspielung, den verzögerten gemeinsamen TKP und Strategien im Wettbewerb mit Google und Meta an.",
-          "score": 7
+          "source": "Horizont Medien",
+          "title": "Für Amazon-Integration: AGF-Chefin Kerstin Niederauer-Kopf gewinnt internationalen Forschungspreis",
+          "link": "https://www.horizont.net/medien/nachrichten/fuer-amazon-integration-agf-chefin-kerstin-niederauer-kopf-gewinnt-internationalen-forschungspreis-236507?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "AGF-Chefin Kerstin Niederauer-Kopf wurde für die erfolgreiche Integration von Amazon Prime Video in die etablierte deutsche TV-Reichweitenwährung mit einem internationalen Forschungspreis ausgezeichnet. Die Integration globaler Streamingplattformen in bestehende TV-Messsysteme galt zuvor als kaum umsetzbar, wurde durch dieses Projekt jedoch als machbar demonstriert.",
+          "score": 9
         },
         {
-          "source": "kress",
-          "title": "Britt Danwerth will sagen können, „da haben wir wirklich etwas bewegt“ Sie begann als Management...",
-          "link": "https://kress.de/news/beitrag/156860-die-kress-pro-young-leaders-2026-britt-danwerth-will-sagen-koennen-da-haben-wir-wirklich-etwas-bewegt.html",
-          "summary": "Britt Danwerth (33), ehemalige Management Trainee und heute Director Transformation & Strategy bei Burda Media, zählt zu den von kress pro ausgewählten \"Young Leaders 2026\". Als rechte Hand von Burda-Media-CEO Elisabeth Varn steuert sie zentrale Transformationsprogramme mit dem Ziel, Burda Forward und den Burda Verlag zu einem gemeinsamen Medienunternehmen zusammenzuführen.",
+          "source": "Horizont Medien",
+          "title": "Digital-Studie: Zahl der deutschen Social-Media-Accounts erreicht Rekordwert",
+          "link": "https://www.horizont.net/medien/nachrichten/digital-2027-germany-zahl-der-deutschen-social-media-accounts-erreicht-rekordwert-236476?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Laut dem Report \"Digital 2027 Germany\" von We Are Social und Meltwater hat die Zahl der deutschen Social-Media-Accounts einen neuen Rekordwert erreicht. Bei der Mediennutzung verdrängt das TV erstmals knapp das Audio-Segment von der Spitzenposition.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "“Raab gegen alle” RTL kündigt neue Samstagabend-Show mit Stefan Raab an “Raab gegen alle”",
-          "link": "https://meedia.de/news/beitrag/25384-rtl-kuendigt-neue-samstagabend-show-mit-stefan-raab-an.html",
-          "summary": "RTL hat für 2026 die neue Samstagabend-Eventshow „Raab gegen alle“ angekündigt, in der Stefan Raab in zehn Spielrunden gegen insgesamt 100 Herausforderinnen und Herausforderer antritt, die ihn jeweils in ihrer Paradedisziplin schlagen sollen und dabei von prominenten Teamkapitänen begleitet werden. Der Sender bewirbt das Format als „Größenwahn mit Unterhaltungswert“ und plant zudem, bestehende Raab-Formate 2027 fortzusetzen; Bewerbungen für Kandidaten sind ab sofort möglich.",
-          "score": 8
+          "title": "Video Daily: TV-Quoten & Streaming-Charts ARD stark mit \"Tatort\" und \"Klein gegen Groß\", Böhmermann punktet mit Selenskyj-Interview Die Prime-Time-Siege gingen am Samstag und Sonntag bei Jung und Alt an Das Erste: Am Sonntag siegte der Schweiz-\"Tatort\"",
+          "link": "https://meedia.de/news/beitrag/25388-ard-stark-mit-quot-tatort-quot-und-quot-klein-gegen-gross-quot-boehmermann-punktet-mit-selenskyj-interview.html",
+          "summary": "Das Erste dominierte am Wochenende die Prime-Time bei allen Altersgruppen: Der Schweizer \"Tatort: Frei wie ein Adler\" erreichte am Sonntag 7,54 Millionen Zuschauer und einen Marktanteil von 30,3 Prozent – der beste Wert für eine Schweizer Produktion seit 1993. Am Samstag setzte sich \"Klein gegen Groß\" durch, während Sky mit der Formel 1 die NFL-Übertragungen von RTL übertraf und Jan Böhmermann mit seinem Selenskyj-Interview starke Quoten für das \"ZDF Magazin Royale\" erzielte.",
+          "score": 9
         },
         {
-          "source": "Guardian Media",
-          "title": "Hockey’s streaming spree means there’s one fewer thing holding Canada together",
-          "link": "https://www.theguardian.com/sport/2026/nov/06/hockeys-streaming-spree-means-theres-one-fewer-thing-holding-canada-together",
-          "summary": "Der NHL-Zugang in Kanada wird zunehmend fragmentiert und kostspielig, da immer mehr Spiele exklusiv über kostenpflichtige Streamingdienste wie Sportsnet+ (Rogers) und Amazon Prime verfügbar sind. Besonders symbolträchtig: Die öffentlich-rechtliche CBC überträgt seit 2025 erstmals seit 1952 keine „Hockey Night in Canada“-Samstagsspiele mehr. Der Artikel thematisiert, wie diese Verlagerung hin zu Paywall-Modellen den traditionell verbindenden, frei zugänglichen Charakter des Eishockeys in Kanada untergräbt.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "‘Our Blues’, ‘Midnight Diner’ & ‘C’Est La Vie’ Among Projects Backed By TAICCA Joint Venture Funds",
-          "link": "https://deadline.com/2026/11/our-blues-midnight-diner-taicca-joint-venture-funds-1237216640/",
-          "summary": "Die Taiwan Creative Content Agency (TAICCA) stellte auf dem TCCF-Showcase die Projekte ihrer vier gemeinsam mit lokalen Unternehmen gegründeten Content-Fonds vor, die in Filme, Serien, Live-Performances und immersive Ausstellungen investieren. Zu den Projekten des Fonds Enjoy Entertainment – einer Partnerschaft mit Far EasTone Telecommunications und Far Reach Entertainment – gehören unter anderem die Netflix-Serie „Our Blues“ (Premiere am 3. Dezember), der Horrorfilm „The Rope Curse 4: Kuntilanak“ mit 2,5 Mio. US-Dollar Einspielergebnis in Taiwan sowie der Actionfilm „96 Minutes“. Der Fonds hat seit se",
+          "source": "Hollywood Reporter",
+          "title": "‘KPop Demon Hunters’ Directors Board Animated Short ‘Living With a Visionary’ as Exec Producers (Exclusive)",
+          "link": "https://www.hollywoodreporter.com/movies/movie-news/kpop-demon-hunters-directors-short-living-with-a-visionary-1236750737/",
+          "summary": "Die Oscar-prämierten \"KPop Demon Hunters\"-Regisseure Maggie Kang und Chris Appelhans sind als Executive Producers beim preisgekrönten Animations-Kurzfilm \"Living With a Visionary\" von Stephen P. Neary eingestiegen, der diese Woche bei der New York Times Op-Docs-Reihe Premiere feiert. Der von James Cromwell erzählte Dokumentarfilm – basierend auf John Matthias' Memoiren und über drei Jahre hinweg aus Tausenden handgezeichneten Illustrationen auf Vellum-Schichten gefertigt – thematisiert eine 50-jährige Ehe sowie die Parkinson-Erkrankung der Ehefrau. Der Film wurde bereits mit dem Grand Jury Award für Animation beim AFI Fest sowie d",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "To Make a Doc About a Nomadic Cyclist, the ‘Perfect Road’ Filmmakers Spent 3 Months in a Campervan",
-          "link": "https://www.hollywoodreporter.com/movies/movie-news/perfect-road-doc-film-directors-spent-months-in-campervan-poff-1236744367/",
-          "summary": "Die dänischen Regisseure und Cousins Adam und Christian Bonke begleiteten für ihre Dokumentation „Perfect Road\" den nomadischen Radfahrer Maximilian Schnell auf einer extremen Reise über Europas höchste Gebirgspässe – und lebten dafür drei Monate gemeinsam mit ihrem Kameramann in einem Campervan. Der Film, der bei Elk Film und Dogwoof produziert wurde und in Zürich seine Weltpremiere feierte, verbindet Charakterstudie mit einer Meditation über moderne Lebensentscheidungen und läuft aktuell beim Tallinn Black Nights Film Festival (PÖFF) in Estland.",
+          "title": "Julianne Moore, Josh Brolin and Daisy Ridley Lead the Buzziest Titles at AFM",
+          "link": "https://www.hollywoodreporter.com/lists/afm-hotlist-2026-josh-brolin-daisy-ridley-james-mcavoy/",
+          "summary": "Der 47. American Film Market (10.-15. November, Los Angeles) findet inmitten eines tiefgreifenden Umbruchs der unabhängigen Filmbranche statt, geprägt von Konsolidierung, veränderten Zuschauergewohnheiten und erschütterten Finanzierungs- sowie Vertriebsmodellen. Hochkarätige Projekte mit Stars wie Julianne Moore, Josh Brolin und Daisy Ridley suchen dort nach Käufern, während laut IFTA-Chefin Jackie Brenneman eine neue Generation von Online-Creator-Filmemachern wie Curry Barker und Mark Fischbach eine erhebliche ungenutzte Nachfrage außerhalb des traditionellen Systems aufzeigt. Zugleich kehren internationale Verkäufer wie Südkoreas Fin",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Taiwan’s Content Agency and Partners Put $180 Million Into 27 Projects, From an ‘Our Blues’ Remake to an Off-Broadway Musical",
-          "link": "https://variety.com/2026/film/asia/taiwan-content-agency-partners-180-million-27-projects-1236942318/",
-          "summary": "Die Taiwan Creative Content Agency (TAICCA) und ihre vier Joint-Venture-Partner investieren insgesamt 180 Millionen US-Dollar in 27 Projekte, davon 23,7 Millionen von der Agentur selbst und 157 Millionen aus privatem Kapital, über neun Länder hinweg. Das Portfolio reicht von Film und TV über Musik bis zu Live-Events, darunter der Horrorfilm „The Rope Curse 4: Kuntilanak“ mit einem Franchise-Rekord von 2,6 Millionen US-Dollar an den taiwanesischen Kinokassen. Das Joint-Venture-Modell soll laut TAICCA-Vorsitzender Sue Wang eine professionellere und präzisere Bewertung von Investitionen ermöglichen.",
+          "title": "David Ellison on DC Shakeup: Jeremy Latcham Will ‘Build the Future of DC,’ Praises James Gunn and Peter Safran’s ‘Passion’",
+          "link": "https://variety.com/2026/film/news/david-ellison-dc-studios-james-gunn-peter-safran-jeremy-latcham-1236943242/",
+          "summary": "Skydance-CEO David Ellison hat einen überraschenden Führungswechsel bei DC Studios bekannt gegeben: James Gunn und Peter Safran scheiden als Co-CEOs und Co-Chairmen aus, während Marvel-Veteran Jeremy Latcham (\"Iron Man\", \"Guardians of the Galaxy\", \"The Avengers\") als President und Chief Creative Officer die Leitung der Film-, TV- und Animationssparte übernimmt. Latcham wird an Dana Goldberg und Josh Greenstein, Co-Chairs der Skydance Motion Picture Group, berichten. Gunn und Safran, die 2022 vom damaligen Warner-Bros.-Discovery-CEO David Zaslav mit dem Aufbau einer MCU-Konkurrenz beauftragt worden waren, verzeichneten in ih",
+          "score": 8
+        },
+        {
+          "source": "Variety",
+          "title": "James Gunn Speaks Out After Stepping Down at DC, Says It Had ‘Highest of Highs’ but ‘Has Been Trying’: ‘I Dislike the At-Times Corporate Nature of the Job’",
+          "link": "https://variety.com/2026/film/news/james-gunn-dc-speaks-out-1236943133/",
+          "summary": "James Gunn und Peter Safran wurden nach vierjähriger Leitung von DC Studios durch den Marvel-Veteranen Jeremy Latcham als Präsident und Chief Creative Officer ersetzt, eine überraschende Entscheidung von Skydance. In einem ausführlichen Statement äußerte sich Gunn zu den Herausforderungen der Position und kritisierte insbesondere die „zeitweise unternehmerische Natur des Jobs\". Unter seiner Führung wurde das Superhelden-Universum mit Projekten wie „Superman\", „Supergirl\", „Clayface\" und der HBO-Serie „Lanterns\" neu aufgestellt.",
           "score": 8
         }
       ]
