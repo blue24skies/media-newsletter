@@ -1,119 +1,70 @@
 {
   "newsletters": [
     {
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Autentic übernimmt französische Gedeon Media Group",
-          "link": "https://www.dwdl.de/nachrichten/108553/autentic_uebernimmt_franzoesische_gedeon_media_group/",
-          "summary": "Die deutsche Autentic hat die Vermögenswerte der insolventen französischen Gedeon Media Group (GMG) übernommen, einschließlich laufender Produktionen und eines Katalogs von rund 3.000 Stunden Factual-Content. Auf Basis dieser Akquisition startet Autentic zudem ein neues Studiogeschäft und stärkt damit seine Position im internationalen Dokumentations- und Factual-Markt.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "\"aniverse TV\": Joyn baut kostenloses Anime-Angebot aus",
-          "link": "https://www.dwdl.de/nachrichten/108550/aniverse_tv_joyn_baut_kostenloses_animeangebot_aus/",
-          "summary": "Joyn erweitert in Kooperation mit PLAION PICTURES und dessen Anime-Marke aniverse sein kostenloses Streaming-Angebot um die neue Mediathek „aniverse TV“ mit über 250 Episoden und 16 Filmen, darunter Titel wie „Overlord“ und „Hyouka“. Der ProSiebenSat.1-Streamer stärkt damit seinen werbefinanzierten Bereich, während Plaion Pictures bereits mehrere FAST-Channels betreibt.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "OffScreen Talent des Jahres 2026: Das sind die Nominierten",
-          "link": "https://www.dwdl.de/nachrichten/108537/offscreen_talent_des_jahres_2026_das_sind_die_nominierten/",
-          "summary": "DWDL hat die Nominierten für den mit 4.444 Euro dotierten Preis „OffScreen Talent des Jahres 2026\" bekanntgegeben, der Nachwuchskräfte hinter der Kamera würdigt. Zu den Anwärtern zählen die Producerinnen Jana Döhlinger (btf) und Janine Hiller (Constantin Entertainment, „Kaulitz & Kaulitz\"), die Autorin und Creatorin Zoe Magdalena („Hungry\") sowie Lennart Pohlig (Zeitsprung Pictures). Die Nominierten stehen für erfolgreiche Formate verschiedenster Genres und zeichnen sich durch Storytelling-Kompetenz, Organisationstalent und gesellschaftliche Relevanz aus.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "OnScreen Talent des Jahres 2026: Das sind die Nominierten",
-          "link": "https://www.dwdl.de/nachrichten/108536/onscreen_talent_des_jahres_2026_das_sind_die_nominierten/",
-          "summary": "Der DWDL Award ehrt in der Kategorie \"OnScreen Talent des Jahres 2026\" herausragende neue Persönlichkeiten vor der Kamera, wobei die Auszeichnung mit 4.444 Euro dotiert ist. Zu den Nominierten zählen der Humorist Tahsim Durgun (\"Deutschland, ich küss' dein Herz\"), die Investigativjournalistin Angelique Geray (\"Putins Wegwerfagenten\"), die Schauspielerin Jule Hermann (\"München Beats\", \"4 Blocks Zero\") sowie Marcant.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "Produktionsfirma des Jahres 2026: Das sind die Nominierten",
-          "link": "https://www.dwdl.de/nachrichten/108535/produktionsfirma_des_jahres_2026_das_sind_die_nominierten/",
-          "summary": "DWDL hat die Nominierten für die Auszeichnung „Produktionsfirma des Jahres 2026\" bekanntgegeben, darunter btf („Poldi\", „Mission Sommermärchen\"), Florida Entertainment („Wer stiehlt mir die Show?\", „Joko & Klaas gegen ProSieben\"), Kleine Brüder („Die Discounter\", „Die Friesenjunkies\") und NeueSuper. Die ausgewählten Firmen stehen laut Redaktion exemplarisch für die Verbindung von kreativer Innovationskraft, gesellschaftlicher Relevanz und Publikumserfolg.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Streamer des Jahres 2026: Das sind die Nominierten",
-          "link": "https://www.dwdl.de/nachrichten/108534/streamer_des_jahres_2026_das_sind_die_nominierten/",
-          "summary": "DWDL hat fünf Nominierte für den Titel \"Streamer des Jahres 2026\" bekanntgegeben: die öffentlich-rechtlichen Häuser ARD und ZDF, die US-Anbieter HBO Max und Netflix sowie Magenta TV, das vor allem mit der XXL-Übertragung der Fußball-WM punktete. Bewertet wurde das beste Gesamtangebot aller Plattformen mit aktiven Investitionen im deutschsprachigen Raum, wobei die Gewinner-Auflösung am folgenden Dienstag erfolgt.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "ProSiebenSat.1 steigert Gewinn trotz sinkender Umsätze",
-          "link": "https://www.dwdl.de/nachrichten/108542/prosiebensat1_steigert_gewinn_trotz_sinkender_umsaetze/",
-          "summary": "ProSiebenSat.1 verzeichnete in den ersten neun Monaten 2026 einen Umsatzrückgang von elf Prozent auf 2,244 Milliarden Euro (organisch minus drei Prozent), belastet vor allem durch das schwache TV-Werbegeschäft. Trotz sinkender Erlöse verbesserte sich das Ergebnis deutlich: Das bereinigte EBITDA stieg auf 198 Millionen Euro und das EBIT kehrte mit 73 Millionen Euro in die Gewinnzone zurück. Hauptgrund ist ein starker Kostenrückgang, insbesondere bei den Programmaufwendungen – wobei ein wesentlicher Teil auf die umgestellte Abschreibungsmethode für Lizenzrechte zurückzuführen ist.",
-          "score": 8
-        },
-        {
-          "source": "DWDL",
-          "title": "Enormes Interesse: 446 Einreichungen für die 1. DWDL Awards",
-          "link": "https://www.dwdl.de/nachrichten/108540/enormes_interesse_446_einreichungen_fuer_die_1_dwdl_awards/",
-          "summary": "Zum 25. Jubiläum verleiht DWDL erstmals die DWDL Awards und verzeichnete dabei mit 446 Einreichungen in fünf Kategorien ein überraschend großes Brancheninteresse, wobei die Kategorie \"Formatpflege des Jahres\" mit über 120 Einreichungen am stärksten nachgefragt war. Von den eingereichten Beiträgen erfüllten knapp über 400 die formalen Kriterien; über die Preisträger entscheidet eine prominent besetzte Branchenjury, die für die fachliche Glaubwürdigkeit der neuen Auszeichnung stehen soll.",
+          "title": "Weimer bejubelt Rekord-Etat, die Medienbranche ist ernüchtert",
+          "link": "https://www.dwdl.de/nachrichten/108562/weimer_bejubelt_rekordetat_die_medienbranche_ist_ernuechtert/",
+          "summary": "Kulturstaatsminister Wolfram Weimer verfügt künftig über einen Rekord-Etat von 2,58 Milliarden Euro – 220 Millionen mehr als im Regierungsentwurf vorgesehen –, wobei die Zusatzmittel vor allem in Kulturbauten und Denkmalschutz fließen. Die Medienbranche zeigt sich hingegen ernüchtert: Die Filmförderung sinkt um rund 50 auf 200,7 Millionen Euro, nachdem das versprochene Steueranreizmodell erneut verschoben wurde.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "Steuerung aus Frankfurt ARD legt drei Info-Radiowellen zusammen",
-          "link": "https://meedia.de/news/beitrag/25424-ard-legt-drei-info-radiowellen-zusammen-fuer-vier-bundeslaender.html",
-          "summary": "Ab dem 4. Januar 2027 bündeln hr Info, SWR Aktuell und AntenneSaar ihre Ressourcen und senden werktags von 9 bis 16 Uhr ein gemeinsames Informationsprogramm für Hessen, Baden-Württemberg, Rheinland-Pfalz und das Saarland, das vom hr-Hauptsitz in Frankfurt aus gesteuert wird. Die laut ARD in dieser Größenordnung bislang einmalige Kooperation erreicht ein potenzielles Publikum von über fünf Millionen Menschen; der Probebetrieb startet bereits am 16. November 2025. Hintergrund ist insbesondere der Spardruck beim hr, der zu einer Bündelung journalistischer Kapazitäten über Anstaltsgrenzen hinweg führt.",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Italienischer Mutterkonzern MFE mit operativem Plus ProSiebenSat.1 steigert Gewinn",
-          "link": "https://meedia.de/news/beitrag/25423-prosiebensat-1-steigert-gewinn-trotz-des-schwachen-werbemarkts.html",
-          "summary": "ProSiebenSat.1 verbesserte in den ersten neun Monaten 2026 trotz eines Umsatzrückgangs von elf Prozent (auf 2,244 Milliarden Euro) seine Profitabilität deutlich – das EBITDA stieg durch striktes Kostenmanagement um 159 auf 198 Millionen Euro. Ursächlich für den Umsatzrückgang waren der schwache TV-Werbemarkt sowie mehrere Unternehmensverkäufe; die Prognose eines gegenüber dem Vorjahr höheren bereinigten EBITDA für das Gesamtjahr wurde bestätigt. Der italienische Mutterkonzern MFE meldet ebenfalls ein positives operatives Ergebnis und Integrationsfortschritte, wobei Pier Silvio Berlusconi gleichzeitig au",
+          "title": "TV-Quoten & Streaming-Charts ProSiebens \"Catch Us\" besiegt mit dem Finale \"Ninja Warrior Germany\" Die ProSieben-Verfolgungsjagd-Spielshow “Catch Us.",
+          "link": "https://meedia.de/news/beitrag/25428-prosiebens-quot-catch-us-quot-besiegt-mit-dem-finale-quot-ninja-warrior-germany-quot.html",
+          "summary": "Das ProSieben-Finale von „Catch Us. Die Jagd durch Europa\" erreichte am Donnerstag in der Zielgruppe der 14- bis 49-Jährigen einen Marktanteil von 10,6 Prozent (0,34 Mio.) und setzte sich damit knapp gegen RTLs „Ninja Warrior Germany\" (9,9 Prozent, 0,28 Mio.) durch. Im Gesamtpublikum dominierte hingegen der ARD-Krimi „Wolfsland: Das Lied der Tochter\" mit 5,0 Millionen Zuschauern und starken 23,2 Prozent Marktanteil, gefolgt von der ZDF-Serie „Die Bergretter\" (4,45 Mio., 20,6 Prozent).",
           "score": 8
         },
         {
-          "source": "Guardian Media",
-          "title": "TV industry must tackle abuse or face crackdown, ministers warn",
-          "link": "https://www.theguardian.com/media/2026/nov/11/tv-entertainment-industry-protect-women-david-walliams-allegations-nandy",
-          "summary": "Die britische Kulturministerin Lisa Nandy fordert von der Unterhaltungsindustrie (TV, Film, Verlagswesen und ggf. Sport) verbesserte Schutzmaßnahmen für Frauen und Kinder und droht mit staatlichem Eingreifen, falls freiwillige Maßnahmen als unzureichend bewertet werden. Anlass sind die Vorwürfe gegen David Walliams und die Verurteilung von Russell Brand. Als mögliche gesetzliche Maßnahme steht eine verpflichtende Mitgliedschaft in der Creative Industries Independent Standards Authority (CIISA) im Raum, die über vertrauliche Whistleblowing-Verfahren gegen Mobbing und Belästigung vorgeht.",
-          "score": 7
+          "source": "meedia",
+          "title": "TV-Quoten & Streaming-Charts Großes Interesse an \"Inside Aldi\" bei Jung und Alt Erfolgreicher Abend...",
+          "link": "https://meedia.de/news/beitrag/25421-grosses-interesse-an-quot-inside-aldi-quot-bei-jung-und-alt.html",
+          "summary": "RTLs Dokumentation \"Inside Aldi: Die Geheimnisse des Discountergiganten\" erzielte am Mittwochabend mit 1,91 Millionen Zuschauern und 9,6 Prozent Marktanteil ein überdurchschnittliches Ergebnis (Sender-Schnitt: 7,7 Prozent) und gewann bei den 14- bis 49-Jährigen die Prime Time. Die Gesamtführung übernahm jedoch ZDFs \"Bares für Rares XXL\" mit 3,92 Millionen Zuschauern und starken 18,3 Prozent, während der ARD-Thriller \"Wäldern: Der lebende Tote\" mit nur 11,3 Prozent schwächelte.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Video Daily: TV-Quoten & Streaming-Charts \"Bauer sucht Frau\" legt noch zu und besiegt \"TV total\" Nach dem Staffelstart am Montag war der RTL-Hit “Bauer sucht Frau” 24 Stunden später noch erfolgreicher: Mit einem sehr starken Marktanteil von 17,0 Prozent gewann die Kuppel-Soap im jungen Publikum die Prime Time",
+          "link": "https://meedia.de/news/beitrag/25405-quot-bauer-sucht-frau-quot-legt-noch-zu-und-besiegt-quot-tv-total-quot.html",
+          "summary": "RTLs \"Bauer sucht Frau\" steigerte sich am zweiten Sendetag auf 17,0 Prozent Marktanteil beim jungen Publikum und übertraf damit sogar \"TV total\". Im Gesamtpublikum erreichte die Kuppel-Soap 15,5 Prozent (3,20 Mio. Zuschauer) und schlug das ZDF, musste sich aber den ARD-Serien geschlagen geben – \"Die Kanzlei\" dominierte die Prime Time mit 4,50 Mio. Zuschauern (20,1 Prozent). Der Erfolg von \"Bauer sucht Frau\" setzte den ARD-Serien spürbar zu, die im Vergleich zur Vorwoche an Reichweite einbüßten.",
+          "score": 8
         },
         {
           "source": "Guardian Media",
           "title": "‘Like having your brain squeezed’: Succession’s Jesse Armstrong and more on the rollercoaster of TV writers’ rooms",
           "link": "https://www.theguardian.com/tv-and-radio/2026/nov/11/succession-jesse-armstrong-writers-room-hunting-alice-bell",
-          "summary": "Guardian-Filmkritiker berichtet aus erster Hand über seine Erfahrung als Co-Autor und Executive Producer der neuen Channel-4-Drama-Thriller-Serie „Hunting Alice Bell\", die er gemeinsam mit Showrunner David Baddiel entwickelte und die Themen wie Misogynie, Online-Paranoia und digitale Mob-Justiz behandelt. Der Artikel beleuchtet die kollaborative Dynamik des TV-Writers'-Rooms – im Kontrast zum solitären Schreibprozess – und lässt renommierte Showrunner wie „Succession\"-Schöpfer Jesse Armstrong über ihre Erfahrungen mit dieser intensiven, abrasiven und zugleich unterstützenden Arbeitsweise zu Wort kommen.",
+          "summary": "Der Guardian-Filmkritiker beschreibt seine Erfahrungen als Co-Autor und Executive Producer der neuen Channel-4-Drama-Thriller-Serie „Hunting Alice Bell\", die unter Showrunner David Baddiel in einem kollaborativen Writers' Room entstand. Die Serie behandelt Themen wie Frauenfeindlichkeit, Online-Paranoia und digitale Mob-Herrschaft am Beispiel einer fälschlich im Netz beschuldigten Frau. Der Beitrag kontrastiert das einsame, individuelle Schreiben mit der kollaborativen, zugleich unterstützenden und fordernden Dynamik des TV-Writers'-Rooms und zieht dabei Einschätzungen renommierter Showrunner wie Jesse Armstrong („Succession\") heran.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Paramount+ Greenlights Damian Lewis-Starring Premier League Comedy Series ‘Day 1s’ From Matthew Vaughn, Cristiano Ronaldo & Thierry Henry",
-          "link": "https://deadline.com/2026/11/paramount-plus-day-1s-ronaldo-damian-lewis-vaughn-1237221704/",
-          "summary": "Paramount+ hat mit „Day 1s\" eine zehnteilige Fußballkomödie als Straight-to-Series-Order bestellt – eines der ersten großen Greenlights nach der Skydance-Fusion. Die Serie markiert das erste TV-Projekt aus den UR-Marv Studios von Cristiano Ronaldo und Regisseur Matthew Vaughn (der auch den Piloten inszenierte); Damian Lewis spielt die Hauptrolle, Thierry Henry fungiert als Executive Producer und „Borat\"-Autor Dan Mazer als Showrunner. Erzählt wird die Geschichte eines talentierten jungen Spielers beim Premier-League-Club Brentford FC, der seine langjährigen Freunde – seine „Day 1s\" – auf dem Weg zu Ruhm und Erfolg begleitet.",
+          "title": "‘Sesame Street’ And Cricket Media To Launch Free Streaming Channel Dedicated To The Series",
+          "link": "https://deadline.com/2026/11/sesame-street-cricket-media-launch-free-streaming-channel-1237214612/",
+          "summary": "Sesame Workshop und Cricket Media lancieren einen kostenlosen, werbefinanzierten 24/7-FAST-Kanal, der erstmals Zugriff auf die komplette „Sesame Street“-Bibliothek mit über 4.000 Episoden bietet, zunächst mit Inhalten aus den Staffeln 39 bis 46. Der monatlich aktualisierte Kanal läuft auf Plattformen wie Samsung TV Plus, LG Channels, Xumo Play und Vizio WatchFree+ mit etwa sieben Minuten familienfreundlicher Werbung pro Stunde und Werbepartnern wie Volkswagen und Toys“R”Us. Für 2027 sind eine Ausweitung auf weitere US-Plattformen sowie eine internationale Distribution geplant.",
           "score": 9
         },
         {
           "source": "Deadline",
-          "title": "Patrick Hoerl’s Autentic Buys Gedeon Media Group’s Assets & Launches Studio",
-          "link": "https://deadline.com/2026/11/autentic-buys-gedeon-assets-launches-studio-1237221671/",
-          "summary": "Patrick Hoerls deutscher Factual-Spezialist Autentic hat die Vermögenswerte der zuvor in die gerichtliche Liquidation gegangenen französischen Gedeon Media Group (GMG) übernommen und gründet auf dieser Basis das neue Produktions- und Vertriebsunternehmen Gedeon Studios. Der 3.000-Stunden-Katalog von GMG wird in Autentic Distribution integriert, während ein siebenköpfiges Team unter Leitung von Carine Nonnenmacher laufende Produktionen fortführt; GMG-Gründer Stéphane Millière bleibt als Senior Consultant an Bord.",
-          "score": 9
+          "title": "Stephanie Fuchs, Arianna Castoldi, Oscar Nominee Rémi Grellety Launch Autlook Collective, European Documentary Hub",
+          "link": "https://deadline.com/2026/11/autlook-collective-launch-stephanie-fuchs-arianna-castoldi-remi-grellety-interview-1237222700/",
+          "summary": "Drei führende Dokumentarfilm-Experten – Stephanie Fuchs (CEO Autlook Filmsales), Arianna Castoldi (ehem. Mediawan Rights) und der zweifach Oscar-nominierte Produzent Rémi Grellety (Warboys Films) – gründen mit Autlook Collective einen neuen europäischen Dokumentarfilm-Hub, der Sales- und Produktionsexpertise bündelt. Das Modell setzt bewusst auf eine frühe Einbindung bereits in der Entwicklungs- oder Produktionsphase, um Finanzierungspläne mitzugestalten und über ein internationales Netzwerk (inkl. Nordamerika) Festival-, Sales- und Award-Strategien zu entwickeln. Die Initiative positioniert sich damit antizyklisch, da sich viele Untern",
+          "score": 7
         },
         {
           "source": "Deadline",
-          "title": "Pierce Brosnan & Helen Mirren Talk Toxic ‘MobLand’ Marriage, Murder, Madness & What’s Next",
-          "link": "https://deadline.com/2026/11/mobland-pierce-brosnan-helen-mirren-interview-1237218887/",
-          "summary": "Die Schauspielgrößen Helen Mirren und Pierce Brosnan verkörpern in der zweiten Staffel der Gangster-Serie „MobLand“ das toxische Ehepaar Maeve und Conrad Harrigan, dessen von Mord und Intrigen geprägte Dynamik im Zentrum der von Guy Ritchie und Ronan Bennett mitentwickelten Produktion steht. Die beiden fanden erst spät in ihrer Karriere – nach „The Thursday Murder Club“ – zu einer gemeinsamen Zusammenarbeit und zeichnen sich durch ihr eingespieltes, trocken-humorvolles Zusammenspiel aus.",
-          "score": 7
+          "title": "NFL Quarterback Sam Hartman To Headline ‘The Bachelor’ For Season 30 On ABC",
+          "link": "https://deadline.com/2026/11/sam-hartman-the-bachelor-season-30-abc-nfl-1237222687/",
+          "summary": "ABC hat den 27-jährigen NFL-Quarterback Sam Hartman (Washington Commanders, Practice Squad) als Hauptfigur für die 30. Staffel von „The Bachelor“ verpflichtet, die am 21. März erstmals an einem Sonntag auf ABC Premiere feiert und am Folgetag auf Hulu streamt. Hartman, ehemaliger Spieler von Wake Forest und Notre Dame mit ACC-Rekorden, reiht sich damit in eine Reihe prominenter Sportler ein, die die Reality-Serie bereits anführten. Die von Warner Horizon Unscripted Television produzierte Staffel kehrt nach einer ausgelassenen Saison 2025-26 mit verschobenem Sendeplatz zurück.",
+          "score": 9
         },
         {
-          "source": "Variety",
-          "title": "We’re Dangerously Close to Another #OscarsSoWhite Year. Can Zendaya, Colman Domingo, Pedro Pascal and More Prevent It?",
-          "link": "https://variety.com/2026/film/awards/scars-so-white-2027-predictions-actors-diversity-1236945645/",
-          "summary": "Variety-Awards-Experte Clayton Davis warnt, dass die Oscars 2027 trotz Michael B. Jordans historischem Sieg für „Sinners\" auf eine Wiederholung des #OscarsSoWhite-Szenarios zusteuern könnten: In den aktuellen Gold-Derby-Prognosen von Ende Oktober besetzen nur drei Schauspieler of Color Nominierungspositionen in den vier Darstellerkategorien, und neun von zehn Hauptrollen-Plätzen entfallen auf weiße Darsteller. Sollte sich diese Tendenz bis zur Bekanntgabe der Nominierungen am 21. Januar bestätigen, drohe eine Situation wie 2015 und 2016, als alle 20 Schauspiel-Nominierten weiß waren.",
-          "score": 7
+          "source": "Hollywood Reporter",
+          "title": "Streaming Ratings: ‘From’ Dominates an Otherwise Quiet Halloween Week",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-oct-26-nov-1-2026-1236754707/",
+          "summary": "Die MGM+-Serie „From\" dominierte in ihrer zweiten Woche auf Netflix die Nielsen-Streaming-Charts mit 2,04 Milliarden Minuten (plus 24 Prozent) und stellte einen neuen Jahresrekord für lizenzierte Serien auf. Ansonsten verlief die Halloween-Woche verhalten: Kein weiterer Titel knackte die Milliarden-Marke, und Netflix' „Nobody Wants This\" blieb mit 847 Millionen Minuten rund 14 Prozent hinter der Vorjahresperformance zurück. Bei den Filmen führte „Hocus Pocus\" (405 Millionen Minuten) die Halloween-geprägten Rankings an.",
+          "score": 8
         }
       ]
     }
