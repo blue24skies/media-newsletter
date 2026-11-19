@@ -1,133 +1,105 @@
 {
   "newsletters": [
     {
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Neue Serien und Digitalformate: Arte stellt Programm für 2027 vor",
-          "link": "https://www.dwdl.de/nachrichten/108618/neue_serien_und_digitalformate_arte_stellt_programm_fuer_2027_vor/",
-          "summary": "Arte präsentierte sein Programm für das erste Halbjahr 2027 mit Schwerpunkten auf investigativen Dokumentationen (u.a. \"Die Mafia und die US-Präsidenten\", \"Nestlé verschlingt die Welt\"), europäischen Serien wie \"Berlin Reykjavik\" und dem Historiendrama \"Landesverräter\" sowie einem Themenschwerpunkt zum fünf Jahre andauernden russischen Angriffskrieg. Im Fokus steht die stärkere Ansprache eines jüngeren Publikums durch neue Nachrichten- und Wissensformate, darunter das digitale KI-Erklärformat \"arteficial\", das wöchentlich nicht-linear ausgestrahlt werden soll.",
+          "title": "\"Joko & Klaas Live - #dontlookaway\" ist Innovation des Jahres 2026",
+          "link": "https://www.dwdl.de/nachrichten/108626/joko__klaas_live__dontlookaway_ist_innovation_des_jahres_2026/",
+          "summary": "Der von Florida Entertainment produzierte Dokumentarfilm \"#dontlookaway\", ausgestrahlt im Rahmen von \"Joko & Klaas Live\" bei ProSieben, wurde bei den 1. DWDL Awards als \"Innovation des Jahres 2026\" ausgezeichnet. Das Format bricht bewusst mit klassischen Fernsehkonventionen: Ohne Moderation, Off-Kommentar oder prominente Anker zeigt es ukrainische Zivilisten und Soldaten, die ihren Kriegsalltag mit am Körper getragenen Kameras selbst dokumentieren – komplett auf Ukrainisch mit deutschen Untertiteln. Durch diesen radikalen Perspektivwechsel werden die Betroffenen zu Autoren ihrer eigenen Geschichte und erzeugen eine",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "MFE kann Synergien schneller heben als geplant",
+          "link": "https://www.dwdl.de/nachrichten/108622/mfe_kann_synergien_schneller_heben_als_geplant/",
+          "summary": "Der italienische Medienkonzern MFE-MediaForEurope realisiert bei der Integration der ProSiebenSat.1 schneller als geplant Synergieeffekte und übertrifft damit seine ursprünglichen Prognosen deutlich. Gleichzeitig ist das Unternehmen in den ersten neun Monaten 2026 in die Gewinnzone zurückgekehrt und verzeichnet eine deutliche Verbesserung der Profitabilität.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Zeitsprung Pictures ist Produktionsfirma des Jahres 2026",
-          "link": "https://www.dwdl.de/nachrichten/108612/zeitsprung_pictures_ist_produktionsfirma_des_jahres_2026/",
-          "summary": "Zeitsprung Pictures, 1985 von Michael Souvignier gegründet, wurde zur Produktionsfirma des Jahres 2026 gekürt. Ausgezeichnet wird das breite Portfolio, das historische Stoffe mit Gegenwartsbezug (etwa das Dokudrama „Nürnberg 45“ und der Dokumentarfilm „Biermann“) mit mutigen Unterhaltungsformaten wie der HBO-Adaption „Euphorie“ und der Reality-Satire „Shit Show“ verbindet. Weitere Projekte umfassen Doris Dörries Kinofilm „Frau Winkler verlässt das Haus“ sowie „Der Medicus 2“.",
-          "score": 8
+          "title": "DAZN holt erstmals Creator auf die eigene Plattform",
+          "link": "https://www.dwdl.de/nachrichten/108615/dazn_holt_erstmals_creator_auf_die_eigene_plattform/",
+          "summary": "DAZN geht erstmals eine Kooperation mit einem Creator ein und erprobt damit ein neues Format der Fußballübertragung auf der eigenen Plattform. Die Premiere erfolgt am Sonntag bei den LaLiga-Partien des FC Barcelona gegen Villarreal. Der Schritt signalisiert die zunehmende Integration von Creator-Content in professionelle Sport-Streaming-Angebote.",
+          "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Geschäftszahlen: Starkes Streaminggeschäft beflügelt Unterhaltungsriese Walt Disney",
-          "link": "https://www.horizont.net/medien/nachrichten/geschaeftszahlen-starkes-streaminggeschaeft-befluegelt-unterhaltungsriese-walt-disney-236631?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Walt Disney profitiert von einem starken Streaminggeschäft und plant für das Geschäftsjahr 2026/27 höhere Investitionen in Inhalte. Die Ausgaben sollen um neun Prozent auf 26 Milliarden Dollar steigen.",
-          "score": 9
-        },
-        {
-          "source": "kress",
-          "title": "Wie NOZ/mh:n Paywall und Anzeigen nach Kaufwahrscheinlichkeit steuert Nutzer, die vermutlich nie...",
-          "link": "https://kress.de/news/beitrag/156930-weniger-werbung-mehr-abos-wie-noz-mh-n-paywall-und-anzeigen-nach-kaufwahrscheinlichkeit-steuert.html",
-          "summary": "Die NOZ/mh:n-Gruppe steuert mit dem von pd digital entwickelten „Revenue Driven Design\" (RDD) Werbung und Paywall individuell nach einem „Likelihood to Subscribe\"-Score, der Nutzer in vier Gruppen nach Kaufwahrscheinlichkeit einteilt: Abonnierwillige erhalten weniger Werbung, unwahrscheinliche Käufer ein werbeintensives Umfeld ohne Bezahlschranke. Laut Verlagsangaben stiegen dadurch in der Hochpotenzial-Gruppe die Abo-Abschlüsse um 38 Prozent sowie der nationale Digitalvermarktungsumsatz und der Yield-TKP um jeweils 23 Prozent – trotz weniger Anzeigen für Abonnenten, erklärt dur",
-          "score": 7
-        },
-        {
-          "source": "meedia",
-          "title": "Streaming-Geschäft wächst, TV-Werbung schwächelt Wegen der Übernahme von Sky hat die RTL Group im...",
-          "link": "https://meedia.de/news/beitrag/25465-rtl-group-streaming-geschaeft-waechst-tv-werbung-schwaechelt.html",
-          "summary": "Die RTL Group steigerte ihren Umsatz im dritten Quartal 2026 vor allem durch die Übernahme von Sky Deutschland um 38,4 Prozent auf 1,85 Milliarden Euro, wobei auch ein organisches Wachstum von 4,8 Prozent erzielt wurde. Während die TV-Werbeumsätze um 8 Prozent auf 438 Millionen Euro einbrachen, legte das Streaming-Geschäft um 29,3 Prozent auf 150 Millionen Euro zu und erreichte das Ziel von 9 Millionen Abonnenten früher als erwartet. Für das Gesamtjahr rechnet die Gruppe nun mit einem Umsatz am unteren Ende der Prognose von rund 7,1 Milliarden Euro.",
-          "score": 10
-        },
-        {
-          "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts \"TV total\" besiegt \"Bauer sucht Frau\" deutlich Nach zwei Tagen mit den...",
-          "link": "https://meedia.de/news/beitrag/25464-quot-tv-total-quot-besiegt-quot-bauer-sucht-frau-quot-deutlich.html",
-          "summary": "Am Dienstag normalisierten sich die TV-Quoten nach den Mega-Events \"Tatort\" (Sonntag) und Länderspiel (Montag), wobei keine Sendung mehr als 5 Millionen Zuschauer erreichte. Den Tagessieg holte die 20-Uhr-\"Tagesschau\" (4,46 Mio.), während die ARD-Serie \"Die Kanzlei\" (4,15 Mio., 18,4 %) den Prime-Time-Sieg im Gesamtpublikum errang. Bei den 14- bis 49-Jährigen setzte sich \"TV total\" durch, während RTLs \"Bauer sucht Frau\" trotz solider Zahlen gegenüber der Vorwoche deutlich an Reichweite und Marktanteil verlor.",
-          "score": 9
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
-          "link": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
-          "summary": "FIFA erwartet für die US-Fernsehrechte der WM 2030 die teuerste Auktion der Turniergeschichte mit einem geschätzten Volumen von 1,5 bis 2 Milliarden US-Dollar, wobei neben traditionellen Sendern wie Fox, ESPN und NBC auch Streaming-Anbieter wie Netflix, Apple TV, Amazon und YouTube mitbieten. Branchenexperten sehen Netflix als klaren Favoriten, da der Streamingdienst bereit sei, „whatever it takes“ zu zahlen – ein möglicher Wendepunkt für die gesamte Sport- und Unterhaltungsindustrie. Netflix hat sich bereits die US-Rechte für die Frauen-Weltmeisterschaften 2027 und 2031 gesichert.",
-          "score": 9
-        },
-        {
-          "source": "Guardian Media",
-          "title": "The voice of a nation: the Czech children’s TV show that became a symbol of media freedom",
-          "link": "https://www.theguardian.com/world/2026/nov/18/vecernicek-czech-children-tv-show-media-freedom",
-          "summary": "Die tschechische Kinder-Fernsehsendung Večerníček, die seit 1965 zur abendlichen Sendezeit um 18:45 Uhr ausgestrahlt wird, ist zum Symbol der Massenproteste für den Erhalt des öffentlich-rechtlichen Rundfunks in Tschechien geworden. Die charakteristische Zeitungshut-Figur taucht bei den jüngsten Demonstrationen prominent auf, wobei Teilnehmer gefaltete Zeitungshüte tragen, um ihre Unterstützung für die Pressefreiheit und den öffentlichen Rundfunk zu demonstrieren.",
-          "score": 9
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Hundreds of thousands of Czechs protest in Prague over media freedom",
-          "link": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
-          "summary": "Rund 350.000 Menschen demonstrierten in Prag gegen einen Plan der Regierung unter Premierminister Andrej Babiš, die Rundfunkgebühren abzuschaffen und öffentlich-rechtliche Sender künftig aus dem Staatshaushalt zu finanzieren – eine der größten Protestkundgebungen in der Geschichte des Landes. Kritiker warnen, dass dies den Ministern mehr Einfluss auf die Redaktionen geben und dem Muster der Medieneinschränkungen in Ungarn, Polen, Serbien und der Slowakei folgen würde. Die Proteste begleiten eine Welle von Demonstrationen und Streiks bei Czech TV und Czech Radio, seit die erste Lesung des Gesetzes Ende Oktober nachts durchgesetzt wurde.",
-          "score": 7
-        },
-        {
-          "source": "Guardian Media",
-          "title": "Public media freedom has been eroded across central Europe. Now Czechs are rallying to protect theirs",
-          "link": "https://www.theguardian.com/world/2026/nov/14/protests-grow-czechia-changes-public-media-funding",
-          "summary": "In Tschechien protestieren Tausende gegen einen Gesetzentwurf der Regierung, der die obligatorischen Rundfunkgebühren abschaffen und die öffentlich-rechtlichen Sender stattdessen aus dem Staatshaushalt finanzieren soll – ein Schritt, den Kritiker als Bedrohung der redaktionellen Unabhängigkeit werten. Der erste Lesung des Gesetzes wurde Ende Oktober mitten in der Nacht durchgedrückt, woraufhin eine breite Protestbewegung entstand, deren prominentestes Gesicht der Fernsehmoderator Daniel Stach ist. Für Sonntag ist auf der Prager Letná-Ebene eine der größten Kundgebungen geplant, wobei der Kontext einer bereits erodierten Medienfreiheit in Mit",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "‘I Want Your Sex’ Sets HBO Max Streaming Release Date",
-          "link": "https://deadline.com/2026/11/i-want-your-sex-streaming-release-date-hbo-max-1237228093/",
-          "summary": "Gregg Arakis X-Rated-Komödie „I Want Your Sex“ mit Olivia Wilde und Cooper Hoffman startet am 4. Dezember auf HBO Max, gefolgt von der linearen HBO-Premiere am 5. Dezember. Der Streaming-Start markiert ein 126-Tage-Fenster nach dem Kinostart am 31. Juli und richtet sich mit seinem Mix aus Satire, Rom-Com und Krimi explizit an ein Gen-Z-Publikum.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "David Ellison Denies ‘Rush Hour 4’ Was A Donald Trump Greenlight, Says Taylor Sheridan Ties Still Strong",
-          "link": "https://deadline.com/2026/11/david-ellison-rush-hour-4-donald-trump-taylor-sheridan-1237228089/",
-          "summary": "Skydance-CEO David Ellison wies auf der DealBook-Konferenz der New York Times Berichte zurück, wonach „Rush Hour 4“ mit dem skandalbelasteten Regisseur Brett Ratner auf politischen Druck von Donald Trump im Zuge der 110-Milliarden-Dollar-Fusion von Paramount und Warner Bros. Discovery grünes Licht erhalten habe, und bezeichnete diese als „erfundene Geschichten“. Laut Ellison ging das Projekt auf eine interne Initiative von Filmstudio-Chef Josh Greenstein zurück. Zudem betonte er die weiterhin starke Bindung zu „Yellowstone“-Schöpfer Taylor Sheridan, obwohl dieser einen neuen Vertrag bei NBCUniversal vorbereitet.",
+          "title": "Digital Marketing Days: Wie es nach der Amazon-Integration mit der Bewegtbildmessung weitergeht",
+          "link": "https://www.horizont.net/medien/nachrichten/digital-marketing-days-wie-es-nach-der-amazon-integration-mit-der-bewegtbildmessung-weitergeht-236640?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Der zunehmend fragmentierte Bewegtbildmarkt – von linearem TV über Streaming und Connected TV bis hin zu FAST-Channels und YouTube – stellt Vermarkter und Werbekunden vor wachsende Herausforderungen bei der einheitlichen Messung. Bei den Digital Marketing Days von HORIZONT wurde insbesondere mit Blick auf die Amazon-Integration diskutiert, wie sich die Bewegtbildmessung künftig entwickelt und welche gemeinsamen Standards sich etablieren können.",
           "score": 8
         },
         {
-          "source": "Deadline",
-          "title": "David Ellison Asserts Potential Federal Tax Credit Not For Tom Cruise But To Save Below-The-Line Jobs",
-          "link": "https://deadline.com/2026/11/david-ellison-federal-tax-credit-support-1237228056/",
-          "summary": "Skydance-CEO David Ellison verteidigte beim NYT Dealbook Summit einen geplanten bundesweiten Steueranreiz für Film- und TV-Produktionen und betonte, dass dieser nicht Topstars wie Tom Cruise zugutekomme, sondern primär Below-the-Line-Arbeitskräften wie Gewerkschaftsmitgliedern, Maskenbildnern und Kulissenbauern. Unter Verweis auf positive ROI-Beispiele aus Kanada, Großbritannien, Australien sowie Texas argumentierte er gegen die These, dass solche Anreize kaum messbare wirtschaftliche Effekte erzielten. Die parteiübergreifende Initiative stockt derzeit jedoch im Lame-Duck-Congress.",
+          "source": "meedia",
+          "title": "Zweiter Anlauf nach Pitch-Abbruch Mediaplus bleibt Media-Betreuer des ZDF Das ZDF setzt bei der Mediaplanung weiterhin auf Mediaplus.",
+          "link": "https://meedia.de/news/beitrag/25477-mediaplus-bleibt-media-betreuer-des-zdf.html",
+          "summary": "Das ZDF hat seinen Mediaetat ab 2027 erneut an die Münchner Serviceplan-Tochter Mediaplus vergeben, die sich in einem europaweiten Vergabeverfahren gegen zwei Wettbewerber durchsetzte und den Sender bereits seit 2020 betreut. Der neue Vertrag läuft zunächst ein Jahr mit Verlängerungsoption um bis zu drei weitere Jahre; die Ausschreibungsunterlagen vom Juni 2026 nannten ein geschätztes Leistungsvolumen von 18 Millionen Euro netto. Die Neuvergabe folgte auf einen Pitch-Abbruch, den das ZDF mit einem angepassten Mediabudget infolge der Einsparvorgaben des Medienstaatsvertrags begründete.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘Frisco King’ Trailer: Samuel L. Jackson “Is Gonna Rob This Place Blind” In Taylor Sheridan’s ‘Tulsa King’ Spinoff",
-          "link": "https://deadline.com/2026/11/frisco-king-trailer-release-date-taylor-sheridan-paramount-1237157647/",
-          "summary": "Paramount+ hat den offiziellen Trailer zu „Frisco King\" veröffentlicht, dem von Taylor Sheridan vollständig geschriebenen „Tulsa King\"-Spinoff mit Samuel L. Jackson als New-Orleans-Gangster Russell Lee Washington Jr., der in der texanischen Vorstadt Frisco ein kriminelles Imperium aufbaut. Die Serie startet am 18. Dezember exklusiv auf Paramount+ mit zwei Episoden, gefolgt von wöchentlichen Veröffentlichungen jeweils freitags.",
+          "title": "‘The Watcher’: Luke David Blumm Returns, Veronica Dunne Among Quartet Joining Season 2 Cast",
+          "link": "https://deadline.com/2026/11/the-watcher-luke-david-blumm-returns-veronica-dunne-cast-1237228825/",
+          "summary": "Luke David Blumm kehrt als Carter Brannock für Staffel 2 von Netflix' „The Watcher\" zurück und vervollständigt damit die Brannock-Familie an der Seite der ebenfalls wiederkehrenden Stars Naomi Watts, Bobby Cannavale und Isabel Gravitt. Neu zur von Ryan Murphy und Ian Brennan produzierten Serie stoßen Veronica Dunne, Mia Kaplan, Langston Lee und Linda Reiter hinzu, während mit Jennifer Coolidge, Margo Martindale und Madelaine Petsch weitere prominente Besetzungen bereits bestätigt sind.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "‘The Traitors: New Blood’ Renewed For Season 2 At NBC",
+          "link": "https://deadline.com/2026/11/the-traitors-new-blood-renewed-season-2-nbc-1237229085/",
+          "summary": "NBC hat die zivile Reality-Show „The Traitors: New Blood“ von Studio Lambert noch vor dem zweiteiligen Staffelfinale für eine zweite Staffel verlängert, die im kommenden Jahr erscheinen soll. Die von Alan Cumming moderierte Serie erreichte in Staffel eins über 23 Millionen Zuschauer plattformübergreifend, wobei 61 % der Zuschauer erstmals das Franchise verfolgten. Sie ergänzt die erfolgreiche Celebrity-Version auf Peacock, deren fünfte Staffel am 14. Januar startet.",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "‘I, Daniel Blake’ Producer Says She Is “Bored Of Seeing Same Faces On Screen” As She Sets Out Blueprint To Revitalize Indie Movie Sector",
+          "link": "https://deadline.com/2026/11/i-daniel-blake-producer-bored-of-same-faces-indie-movies-1237229031/",
+          "summary": "Rebecca O'Brien, Produzentin und Partnerin von Ken Loach bei Sixteen Films, kritisierte in ihrer Lord Richard Attenborough Memorial Address beim British Screen Forum die zunehmende Homogenisierung des Independent-Film-Sektors und forderte Geldgeber auf, bei der Besetzung aus einem breiteren Talentpool zu schöpfen. Sie bemängelte zudem, dass vielversprechende britische Nachwuchsfilmemacher zu früh ins Studiosystem abwandern, wodurch der unabhängige Sektor zur reinen \"Forschungs- und Entwicklungsabteilung\" der Branche degradiert werde. Kritisch äußerte sie sich auch zu Schauspielern, die ihren Einfluss durch Produzententätigkeiten ausweiten wollen, oh",
+          "score": 7
+        },
+        {
+          "source": "Deadline",
+          "title": "Utopai Studios Opens Beverly Hills Office, Targets 500 Production Jobs Globally In 2027",
+          "link": "https://deadline.com/2026/11/utopai-studios-opens-beverly-hills-office-production-jobs-1237229012/",
+          "summary": "Das KI-Unternehmen Utopai Studios hat ein Büro in Beverly Hills eröffnet, um seine wachsende Hollywood-Produktion auszubauen, und plant die Schaffung von rund 500 Produktionsjobs weltweit im Jahr 2027 mit deutlich steigender Einstellung ab 2028. Zum aktuellen Slate gehören animierte und Live-Action-Projekte wie „Cortés“ mit Antonio Banderas (in Zusammenarbeit mit Ex Machina), während das Unternehmen erfahrene Fachkräfte von Studios wie Disney und DreamWorks rekrutiert. Der Vorstoß spiegelt den wachsenden Trend hybrider Produktionen wider, bei denen KI zunehmend als Ergänzung zur menschlichen Kreativität – trotz anhalt",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "From Book Club to Netflix: How Katherine Center’s ‘The Bodyguard’ Became ‘Guarding Stars’",
-          "link": "https://www.hollywoodreporter.com/movies/movie-features/netflix-guarding-stars-book-to-screen-journey-1236734083/",
-          "summary": "Netflix adaptiert Katherine Centers Roman „The Bodyguard\" (2022) unter dem Titel „Guarding Stars\" mit Leighton Meester und Jared Padalecki in den Hauptrollen; Premiere ist der 18. November. Regisseurin Liz Allen Rosenbaum orientierte sich bei der Entwicklung bewusst an beliebten BookTok-Romance-Tropes wie „enemies to lovers\" und „forced proximity\", um die Erwartungen der Buch- und Romance-Fans zu bedienen. Das Projekt entstand ursprünglich aus dem Instagram-Buchclub von Produzentin Genevieve Padalecki, was die zentrale Rolle der Leserschaft im gesamten Adaptionsprozess unterstreicht.",
-          "score": 8
-        },
-        {
-          "source": "Hollywood Reporter",
-          "title": "Amazon’s ‘One Night in Idaho’ Season 2 Reveals Premiere Date and Trailer (Exclusive)",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/one-night-in-idaho-season-2-premiere-date-trailer-amazon-1236756348/",
-          "summary": "Amazon Prime Video startet am 28. Dezember die zweite Staffel der True-Crime-Doku-Reihe „One Night in Idaho“ unter dem Titel „Catching a Killer“ mit drei neuen Episoden, die nach der Verurteilung von Bryan Kohberger zu viermal lebenslanger Haft greenlighted wurde. Die ursprünglich als Limited Series konzipierte Produktion setzt in der Fortsetzung auf exklusive Interviews mit zentralen Ermittlern, darunter leitende Detectives von Moscow PD und Idaho State Police sowie den ersten Beamten am Tatort.",
+          "title": "‘The Traitors: New Blood’ Renewed for Second Season at NBC",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/traitors-new-blood-renewed-season-2-nbc-1236759312/",
+          "summary": "NBC hat die Civilian-Spin-off-Reality-Show „The Traitors: New Blood\" kurz vor dem ersten Staffelfinale für eine zweite Staffel verlängert, wobei Alan Cumming erneut als Host fungiert. Die von Studio Lambert produzierte Show erreicht im Durchschnitt rund 2,9 Millionen Zuschauer über sieben Tage und insgesamt 23 Millionen über alle Plattformen, von denen etwa 61 Prozent neu im „Traitors\"-Franchise sind. Cumming, der bereits drei Emmys als bester Host gewann, wird parallel auch die fünfte Staffel der Promi-Variante auf Peacock moderieren.",
           "score": 7
         },
         {
           "source": "Variety",
-          "title": "Elon Musk Has Invested in Skydance, David Ellison Confirms: ‘To Have Him as a Shareholder Is an Honor’",
-          "link": "https://variety.com/2026/tv/news/elon-musk-invested-skydance-david-ellison-dealbook-conference-1236951800/",
-          "summary": "David Ellison, Chairman und CEO von Skydance, hat bestätigt, dass Elon Musk nach der Fusion von Paramount und Warner Bros. Discovery rund 1 Milliarde US-Dollar in das Unternehmen investiert hat, wobei er die genaue Summe offenließ. Auf die Frage, ob dies den Auftakt für eine umfassendere Zusammenarbeit (etwa mit Starlink) darstelle, würdigte Ellison Musk als „größten Unternehmer unserer Zeit“ und bezeichnete dessen Beteiligung als Ehre und Vertrauensbeweis.",
+          "title": "Jamie and Corinne Foxx Developing Horror Series ‘Buried’ as Foxxhole Productions Extends First-Look Deal at Fox Entertainment Studios (EXCLUSIVE)",
+          "link": "https://variety.com/2026/tv/news/jamie-corinne-foxx-horror-series-buried-foxxhole-fox-deal-1236952466/",
+          "summary": "Fox Entertainment Studios hat seinen First-Look-Deal mit Foxxhole Productions, geführt von Jamie und Corinne Foxx, bis 2028 verlängert, wobei Jamie Foxx als Executive Producer für scripted und unscripted Inhalte fungiert. Im Rahmen der Vereinbarung entwickeln die Partner die Horror-Serie „Buried“ gemeinsam mit den „The Conjuring“-Machern Chad und Carey Hayes sowie Shelley Meals.",
           "score": 8
         },
         {
           "source": "Variety",
-          "title": "‘Tulsa King’ Spinoff ‘Frisco King’ First Trailer Sees Samuel L. Jackson Building Crime Empire in Texas Suburbs",
-          "link": "https://variety.com/2026/tv/news/tulsa-king-spinoff-frisco-king-trailer-samuel-l-jackson-1236951909/",
-          "summary": "Paramount+ hat den ersten Trailer zum „Tulsa King“-Spinoff „Frisco King“ mit Samuel L. Jackson als Gangster Russell Lee Washington Jr. veröffentlicht, der in den Vorstädten von Frisco, Texas, ein kriminelles Imperium aufbaut. Die Serie, in der auch Sylvester Stallone in seiner Rolle als Dwight Manfreddi auftritt, startet am 18. Dezember 2026 mit zwei Episoden und danach wöchentlich freitags auf Paramount+.",
+          "title": "‘The Traitors: New Blood’ Renewed for Season 2 at NBC",
+          "link": "https://variety.com/2026/tv/news/the-traitors-new-blood-renewed-season-2-nbc-1236953330/",
+          "summary": "NBC hat die zivile Spinoff-Version „The Traitors: New Blood\" mit Moderator Alan Cumming für eine zweite Staffel verlängert, deren erste Staffel diesen Donnerstag endet. Das von Studio Lambert produzierte Format basiert auf dem niederländischen Banijay-Konzept „De Verraders\" und ergänzt die erfolgreiche Celebrity-Version auf Peacock, die mit ihrer fünften Staffel am 14. Januar startet.",
           "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "John Muszynski, Who Spent Decades Carefully Deciding Whether Disney, Fox, Even Netflix, Would Get Millions in Ad Dollars, Plans to Retire",
+          "link": "https://variety.com/2026/tv/news/john-muszynski-publicis-influential-media-buyer-retire-1236952654/",
+          "summary": "John Muszynski, einer der erfahrensten und einflussreichsten Media-Buyer der Branche bei Publicis Media, kündigt nach jahrzehntelanger Tätigkeit seinen Ruhestand an. Über seine Karriere hinweg entschied er maßgeblich über die Verteilung von Werbemillionen an führende Medienkonzerne wie Disney, Fox und Netflix und prägte dabei durch enge Beziehungen zu Top-Executives – etwa Mark Lazarus (heute CEO von Versant) – strategische Entwicklungen im TV- und Streaming-Markt.",
+          "score": 7
+        },
+        {
+          "source": "Variety",
+          "title": "AI Filmmaking Gets Its Awards Season: The Chroma Awards Return for a Bigger Second Year",
+          "link": "https://variety.com/2026/biz/news/ai-filmmaking-chroma-awards-return-for-bigger-second-year-1236939403/",
+          "summary": "Die von ElevenLabs in Partnerschaft mit CapCut, Cantina und Runware organisierten Chroma Awards gehen in ihre zweite Saison, mit weltweiten Einreichungen bis zum 7. Januar 2027 und einem Preispool von 450.000 US-Dollar in Cash-Preisen sowie über 1 Mio. US-Dollar an Promotion-Leistungen. Nach einem erfolgreichen Debüt mit über 6.600 Einreichungen aus 122 Ländern werden die Gewinner Mitte Februar in einem globalen Livestream bekanntgegeben und erstmals bei einer Red-Carpet-Gala geehrt. Die Auszeichnung positioniert sich als zentrale Plattform für AI-native Kreative in den Bereichen Film, Musikvideos, Werbung und Games.",
+          "score": 9
         }
       ]
     }
