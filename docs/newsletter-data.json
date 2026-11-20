@@ -1,105 +1,70 @@
 {
   "newsletters": [
     {
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "articles": [
         {
           "source": "DWDL",
-          "title": "\"Joko & Klaas Live - #dontlookaway\" ist Innovation des Jahres 2026",
-          "link": "https://www.dwdl.de/nachrichten/108626/joko__klaas_live__dontlookaway_ist_innovation_des_jahres_2026/",
-          "summary": "Der von Florida Entertainment produzierte Dokumentarfilm \"#dontlookaway\", ausgestrahlt im Rahmen von \"Joko & Klaas Live\" bei ProSieben, wurde bei den 1. DWDL Awards als \"Innovation des Jahres 2026\" ausgezeichnet. Das Format bricht bewusst mit klassischen Fernsehkonventionen: Ohne Moderation, Off-Kommentar oder prominente Anker zeigt es ukrainische Zivilisten und Soldaten, die ihren Kriegsalltag mit am Körper getragenen Kameras selbst dokumentieren – komplett auf Ukrainisch mit deutschen Untertiteln. Durch diesen radikalen Perspektivwechsel werden die Betroffenen zu Autoren ihrer eigenen Geschichte und erzeugen eine",
+          "title": "Filmförderung: FFA schließt auch Antragstellung für TV-Produktionen",
+          "link": "https://www.dwdl.de/nachrichten/108648/filmfoerderung_ffa_schliesst_auch_antragstellung_fuer_tvproduktionen/",
+          "summary": "Die Filmförderungsanstalt (FFA) hat nur wenige Tage nach Öffnung der Antragstellung sowohl Säule eins (Kinofilme) als auch Säule zwei (TV- und Streaming-Produktionen) der neuen BKM-Anreizförderung aufgrund außergewöhnlich hoher Antragszahlen bereits wieder geschlossen; lediglich Säule drei für Produktionsdienstleister bleibt offen. Grund ist die deutliche Kürzung des Fördervolumens für 2027 auf rund 201 Millionen Euro (gegenüber etwa 250 Millionen Euro im laufenden Jahr), wodurch Projekte mit Drehbeginn im ersten Halbjahr 2027 keine Förderung mehr erhalten können. Branchenverbände appellieren angesichts der bestätigten",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "Reform: BR will TV-Programm bis Mitte 2027 spürbar umbauen",
+          "link": "https://www.dwdl.de/nachrichten/108629/reform_br_will_tvprogramm_bis_mitte_2027_spuerbar_umbauen/",
+          "summary": "Der BR plant bis Sommer 2027 einen schrittweisen Umbau seines linearen TV-Programms, bei dem regionale Informationsformate wie \"Frankenschau aktuell\" und \"Abendschau – Der Süden\" aus dem Nachmittag in die reichweitenstärkere Primetime zwischen 19 und 20 Uhr verlagert werden sollen. Auch \"Wir in Bayern\" wird weiterentwickelt und bis 18 Uhr verlängert, um Service- und Verbraucherthemen zu bündeln, während der genaue Sendeplatz der Formate sowie möglicherweise der von \"Dahoam is Dahoam\" noch mit Redaktionen und Gremien abgestimmt wird. Die Serie bleibt dabei ausdrücklich im Programm und soll weiterhin im Zeitfenster zwischen 19",
           "score": 7
         },
         {
           "source": "DWDL",
-          "title": "MFE kann Synergien schneller heben als geplant",
-          "link": "https://www.dwdl.de/nachrichten/108622/mfe_kann_synergien_schneller_heben_als_geplant/",
-          "summary": "Der italienische Medienkonzern MFE-MediaForEurope realisiert bei der Integration der ProSiebenSat.1 schneller als geplant Synergieeffekte und übertrifft damit seine ursprünglichen Prognosen deutlich. Gleichzeitig ist das Unternehmen in den ersten neun Monaten 2026 in die Gewinnzone zurückgekehrt und verzeichnet eine deutliche Verbesserung der Profitabilität.",
-          "score": 8
+          "title": "Neue Spin-Offs von \"Navy CIS\" und \"Tulsa King\" ab Dezember",
+          "link": "https://www.dwdl.de/nachrichten/108643/neue_spinoffs_von_navy_cis_und_tulsa_king_ab_dezember/",
+          "summary": "Paramount+ startet im Dezember zwei neue Franchise-Ableger: \"Navy CIS: New York\" (ab 16.12.) mit LL Cool J und Scott Caan sowie \"Frisco King\" (ab 18.12.), ein \"Tulsa King\"-Spin-Off mit Samuel L. Jackson in der Hauptrolle. Ergänzt wird das Programm unter anderem durch die Animationsserie \"Lil Kev\" (ab 9.12.), das True-Crime-Drama \"Wer zum Teufel ist Hamish\" (ab 10.12.) sowie die Filme \"Scary Movie 6\" und \"Jackass: Einer geht noch\".",
+          "score": 7
         },
         {
           "source": "DWDL",
-          "title": "DAZN holt erstmals Creator auf die eigene Plattform",
-          "link": "https://www.dwdl.de/nachrichten/108615/dazn_holt_erstmals_creator_auf_die_eigene_plattform/",
-          "summary": "DAZN geht erstmals eine Kooperation mit einem Creator ein und erprobt damit ein neues Format der Fußballübertragung auf der eigenen Plattform. Die Premiere erfolgt am Sonntag bei den LaLiga-Partien des FC Barcelona gegen Villarreal. Der Schritt signalisiert die zunehmende Integration von Creator-Content in professionelle Sport-Streaming-Angebote.",
+          "title": "MDR arbeitet an Reality-Show zur Walpurgisnacht",
+          "link": "https://www.dwdl.de/nachrichten/108633/mdr_arbeitet_an_realityshow_zur_walpurgisnacht/",
+          "summary": "Der MDR entwickelt mit \"Die Hexenschmiede\" ein neues Reality-Format, das rund um die Walpurgisnacht und Harzer Mythen inszeniert ist und am 24. April 2027 in der ARD-Mediathek sowie im MDR-Fernsehen erscheinen soll. In fünf rund 40-minütigen Folgen, produziert von Cine Impuls Leipzig, treten drei Teams aus dem Harz in verschiedenen Challenges gegeneinander an, eingebettet in eine Rahmenhandlung um den Teufel und die Suche nach neuen Hexen. Das Format reiht sich in die jüngsten Reality-Experimente der ARD wie \"Werwölfe\" und \"Vibes - Find Your Fire\" ein.",
           "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "Digital Marketing Days: Wie es nach der Amazon-Integration mit der Bewegtbildmessung weitergeht",
-          "link": "https://www.horizont.net/medien/nachrichten/digital-marketing-days-wie-es-nach-der-amazon-integration-mit-der-bewegtbildmessung-weitergeht-236640?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Der zunehmend fragmentierte Bewegtbildmarkt – von linearem TV über Streaming und Connected TV bis hin zu FAST-Channels und YouTube – stellt Vermarkter und Werbekunden vor wachsende Herausforderungen bei der einheitlichen Messung. Bei den Digital Marketing Days von HORIZONT wurde insbesondere mit Blick auf die Amazon-Integration diskutiert, wie sich die Bewegtbildmessung künftig entwickelt und welche gemeinsamen Standards sich etablieren können.",
-          "score": 8
+          "title": "Digital Marketing Days: Drohen im CTV-Markt erneut Closed Shops?",
+          "link": "https://www.horizont.net/medien/nachrichten/digital-marketing-days-drohen-im-ctv-markt-erneut-closed-shops-236652?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Auf den Digital Marketing Days von HORIZONT diskutierte eine Expertenrunde über den rasant wachsenden Connected-TV-Markt, der dem klassischen Fernsehen zunehmend Zuschauer und Werbeerlöse abnimmt. Im Zentrum der Debatte stand die Frage, ob im Bewegtbildbereich ähnliche „Closed Shops“ bzw. Black Boxes drohen, wie man sie von den großen Internetplattformen kennt.",
+          "score": 7
         },
         {
           "source": "meedia",
-          "title": "Zweiter Anlauf nach Pitch-Abbruch Mediaplus bleibt Media-Betreuer des ZDF Das ZDF setzt bei der Mediaplanung weiterhin auf Mediaplus.",
-          "link": "https://meedia.de/news/beitrag/25477-mediaplus-bleibt-media-betreuer-des-zdf.html",
-          "summary": "Das ZDF hat seinen Mediaetat ab 2027 erneut an die Münchner Serviceplan-Tochter Mediaplus vergeben, die sich in einem europaweiten Vergabeverfahren gegen zwei Wettbewerber durchsetzte und den Sender bereits seit 2020 betreut. Der neue Vertrag läuft zunächst ein Jahr mit Verlängerungsoption um bis zu drei weitere Jahre; die Ausschreibungsunterlagen vom Juni 2026 nannten ein geschätztes Leistungsvolumen von 18 Millionen Euro netto. Die Neuvergabe folgte auf einen Pitch-Abbruch, den das ZDF mit einem angepassten Mediabudget infolge der Einsparvorgaben des Medienstaatsvertrags begründete.",
+          "title": "\"Anlass zur Zuversicht\" 19,3 Millionen Euro Überschuss: RBB kehrt in die schwarzen Zahlen zurück Der Rundfunk Berlin-Brandenburg (RBB) hat das Geschäftsjahr 2025 mit einem Überschuss von 19,3 Millionen Euro abgeschlossen. Zudem weist der öffentlich-rechtliche Sender erstmals seit 2019 wieder ein positives Eigenkapital aus: Zum Jahresende lag es bei 5,2 Millionen Euro. Hintergrund ist der straffe Sparkurs von Intendantin Ulrike Demmer",
+          "link": "https://meedia.de/news/beitrag/25484-19-3-millionen-euro-ueberschuss-rbb-kehrt-in-die-schwarzen-zahlen-zurueck.html",
+          "summary": "Der RBB hat das Geschäftsjahr 2025 mit einem Überschuss von 19,3 Millionen Euro abgeschlossen und weist erstmals seit 2019 wieder ein positives Eigenkapital (5,2 Millionen Euro) aus – Ergebnis des strikten Sparkurses von Intendantin Ulrike Demmer inklusive Investitionssperre. Trotz der stabilisierten Finanzlage bleibt die wirtschaftliche Situation angespannt, da Inflation, Preissteigerungen und geopolitische Entwicklungen die gewonnenen Spielräume laut Verwaltungsdirektorin Nicole Küchler-Stahn schnell wieder begrenzen könnten. Der Sender investiert nun gezielt wieder in die digitale Transformation.",
+          "score": 7
+        },
+        {
+          "source": "meedia",
+          "title": "Video Daily: TV-Quoten & Streaming-Charts \"Wer wir Millionär?\"-Promi-Special siegt im jungen Publikum, ist insgesamt aber chancenlos gegen ARD und ZDF Wie immer zeigte RTL im Rahmen des jährlichen Spendenmarathons auch ein “Prominenten-Special” von “Wer wird Millionär?”. Diesmal sahen insgesamt 2,83 Millionen zu und sorgten für einen Marktanteil von 16,0 Prozent. Klar davor landeten in der Prime Time aber die ARD-Krimi-Reihe “Wolfsland” und die ZDF-Serie “Die Bergretter”. Bei den 14- bis 49-Jährigen gewann das RTL-Quiz den Abend hingegen deutlich",
+          "link": "https://meedia.de/news/beitrag/25485-quot-wer-wir-millionaer-quot-promi-special-siegt-im-jungen-publikum-ist-insgesamt-aber-chancenlos-gegen-ard-und-zdf.html",
+          "summary": "RTLs \"Wer wird Millionär?\"-Promi-Special im Rahmen des Spendenmarathons erreichte 2,83 Millionen Zuschauer (16,0 % Marktanteil) und musste sich in der Prime Time dem ARD-Krimi \"Wolfsland\" (4,49 Mio., 20,4 %) sowie der ZDF-Serie \"Die Bergretter\" (4,39 Mio., 19,9 %) geschlagen geben. Bei den 14- bis 49-Jährigen gewann das RTL-Quiz den Abend hingegen deutlich und setzte dabei auch das konkurrierende \"1% Quiz\" von Sat.1 unter Druck.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "‘The Watcher’: Luke David Blumm Returns, Veronica Dunne Among Quartet Joining Season 2 Cast",
-          "link": "https://deadline.com/2026/11/the-watcher-luke-david-blumm-returns-veronica-dunne-cast-1237228825/",
-          "summary": "Luke David Blumm kehrt als Carter Brannock für Staffel 2 von Netflix' „The Watcher\" zurück und vervollständigt damit die Brannock-Familie an der Seite der ebenfalls wiederkehrenden Stars Naomi Watts, Bobby Cannavale und Isabel Gravitt. Neu zur von Ryan Murphy und Ian Brennan produzierten Serie stoßen Veronica Dunne, Mia Kaplan, Langston Lee und Linda Reiter hinzu, während mit Jennifer Coolidge, Margo Martindale und Madelaine Petsch weitere prominente Besetzungen bereits bestätigt sind.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "‘The Traitors: New Blood’ Renewed For Season 2 At NBC",
-          "link": "https://deadline.com/2026/11/the-traitors-new-blood-renewed-season-2-nbc-1237229085/",
-          "summary": "NBC hat die zivile Reality-Show „The Traitors: New Blood“ von Studio Lambert noch vor dem zweiteiligen Staffelfinale für eine zweite Staffel verlängert, die im kommenden Jahr erscheinen soll. Die von Alan Cumming moderierte Serie erreichte in Staffel eins über 23 Millionen Zuschauer plattformübergreifend, wobei 61 % der Zuschauer erstmals das Franchise verfolgten. Sie ergänzt die erfolgreiche Celebrity-Version auf Peacock, deren fünfte Staffel am 14. Januar startet.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "‘I, Daniel Blake’ Producer Says She Is “Bored Of Seeing Same Faces On Screen” As She Sets Out Blueprint To Revitalize Indie Movie Sector",
-          "link": "https://deadline.com/2026/11/i-daniel-blake-producer-bored-of-same-faces-indie-movies-1237229031/",
-          "summary": "Rebecca O'Brien, Produzentin und Partnerin von Ken Loach bei Sixteen Films, kritisierte in ihrer Lord Richard Attenborough Memorial Address beim British Screen Forum die zunehmende Homogenisierung des Independent-Film-Sektors und forderte Geldgeber auf, bei der Besetzung aus einem breiteren Talentpool zu schöpfen. Sie bemängelte zudem, dass vielversprechende britische Nachwuchsfilmemacher zu früh ins Studiosystem abwandern, wodurch der unabhängige Sektor zur reinen \"Forschungs- und Entwicklungsabteilung\" der Branche degradiert werde. Kritisch äußerte sie sich auch zu Schauspielern, die ihren Einfluss durch Produzententätigkeiten ausweiten wollen, oh",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Utopai Studios Opens Beverly Hills Office, Targets 500 Production Jobs Globally In 2027",
-          "link": "https://deadline.com/2026/11/utopai-studios-opens-beverly-hills-office-production-jobs-1237229012/",
-          "summary": "Das KI-Unternehmen Utopai Studios hat ein Büro in Beverly Hills eröffnet, um seine wachsende Hollywood-Produktion auszubauen, und plant die Schaffung von rund 500 Produktionsjobs weltweit im Jahr 2027 mit deutlich steigender Einstellung ab 2028. Zum aktuellen Slate gehören animierte und Live-Action-Projekte wie „Cortés“ mit Antonio Banderas (in Zusammenarbeit mit Ex Machina), während das Unternehmen erfahrene Fachkräfte von Studios wie Disney und DreamWorks rekrutiert. Der Vorstoß spiegelt den wachsenden Trend hybrider Produktionen wider, bei denen KI zunehmend als Ergänzung zur menschlichen Kreativität – trotz anhalt",
+          "title": "Milana Vayntrub Joins Daisy Ridley, Catherine Zeta-Jones In Tate Taylor Thriller ‘Cupid’",
+          "link": "https://deadline.com/2026/11/milana-vayntrub-cupid-1237230124/",
+          "summary": "Milana Vayntrub schließt sich dem Cast von Tate Taylors psychologischem Thriller „Cupid\" an, der neben ihr Daisy Ridley, Catherine Zeta-Jones, Judy Greer, Travis Fimmel und Darren Criss umfasst und sich derzeit in Natchez, Mississippi, in Produktion befindet. Der von den Van Dyke Brothers („Don't Worry Darling\") geschriebene Film erzählt die Geschichte eines Paares (Ridley und Criss), das über ein Wochenende seine Ehe im Haus einer unorthodoxen Eheberaterin (Zeta-Jones) retten will, deren Methoden zunehmend grausamer und gefährlicher werden. Upgrade übernimmt den internationalen Vertrieb, während CAA Media Finance die Finanzierung arrangierte",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "‘The Traitors: New Blood’ Renewed for Second Season at NBC",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/traitors-new-blood-renewed-season-2-nbc-1236759312/",
-          "summary": "NBC hat die Civilian-Spin-off-Reality-Show „The Traitors: New Blood\" kurz vor dem ersten Staffelfinale für eine zweite Staffel verlängert, wobei Alan Cumming erneut als Host fungiert. Die von Studio Lambert produzierte Show erreicht im Durchschnitt rund 2,9 Millionen Zuschauer über sieben Tage und insgesamt 23 Millionen über alle Plattformen, von denen etwa 61 Prozent neu im „Traitors\"-Franchise sind. Cumming, der bereits drei Emmys als bester Host gewann, wird parallel auch die fünfte Staffel der Promi-Variante auf Peacock moderieren.",
+          "title": "Andrea Scrosati to Leave Fremantle Group",
+          "link": "https://www.hollywoodreporter.com/business/business-news/andrea-scrosati-leaving-fremantle-1236759946/",
+          "summary": "Andrea Scrosati, Group COO und CEO Continental Europe von Fremantle, verlässt das Unternehmen nach achtjähriger Tätigkeit zum Jahresende 2027, um eine neue unternehmerische Tätigkeit zu verfolgen. Während seiner Amtszeit trieb er die M&A-Strategie voran und transformierte Fremantle von einem auf Formate fokussierten Unternehmen zu einer globalen Produktionsgruppe mit starker Präsenz in Premium-Drama, Independent-Film und Dokumentationen – unter anderem durch Übernahmen von Element Pictures, Lux Vide und der Asacha Media Group. Unter seiner Führung erzielte Fremantle 17 Oscar-Nominierungen und vier Academy Awards, etwa mit Produktionen wie „Poor Things\" und „The",
           "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "Jamie and Corinne Foxx Developing Horror Series ‘Buried’ as Foxxhole Productions Extends First-Look Deal at Fox Entertainment Studios (EXCLUSIVE)",
-          "link": "https://variety.com/2026/tv/news/jamie-corinne-foxx-horror-series-buried-foxxhole-fox-deal-1236952466/",
-          "summary": "Fox Entertainment Studios hat seinen First-Look-Deal mit Foxxhole Productions, geführt von Jamie und Corinne Foxx, bis 2028 verlängert, wobei Jamie Foxx als Executive Producer für scripted und unscripted Inhalte fungiert. Im Rahmen der Vereinbarung entwickeln die Partner die Horror-Serie „Buried“ gemeinsam mit den „The Conjuring“-Machern Chad und Carey Hayes sowie Shelley Meals.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "‘The Traitors: New Blood’ Renewed for Season 2 at NBC",
-          "link": "https://variety.com/2026/tv/news/the-traitors-new-blood-renewed-season-2-nbc-1236953330/",
-          "summary": "NBC hat die zivile Spinoff-Version „The Traitors: New Blood\" mit Moderator Alan Cumming für eine zweite Staffel verlängert, deren erste Staffel diesen Donnerstag endet. Das von Studio Lambert produzierte Format basiert auf dem niederländischen Banijay-Konzept „De Verraders\" und ergänzt die erfolgreiche Celebrity-Version auf Peacock, die mit ihrer fünften Staffel am 14. Januar startet.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "John Muszynski, Who Spent Decades Carefully Deciding Whether Disney, Fox, Even Netflix, Would Get Millions in Ad Dollars, Plans to Retire",
-          "link": "https://variety.com/2026/tv/news/john-muszynski-publicis-influential-media-buyer-retire-1236952654/",
-          "summary": "John Muszynski, einer der erfahrensten und einflussreichsten Media-Buyer der Branche bei Publicis Media, kündigt nach jahrzehntelanger Tätigkeit seinen Ruhestand an. Über seine Karriere hinweg entschied er maßgeblich über die Verteilung von Werbemillionen an führende Medienkonzerne wie Disney, Fox und Netflix und prägte dabei durch enge Beziehungen zu Top-Executives – etwa Mark Lazarus (heute CEO von Versant) – strategische Entwicklungen im TV- und Streaming-Markt.",
-          "score": 7
-        },
-        {
-          "source": "Variety",
-          "title": "AI Filmmaking Gets Its Awards Season: The Chroma Awards Return for a Bigger Second Year",
-          "link": "https://variety.com/2026/biz/news/ai-filmmaking-chroma-awards-return-for-bigger-second-year-1236939403/",
-          "summary": "Die von ElevenLabs in Partnerschaft mit CapCut, Cantina und Runware organisierten Chroma Awards gehen in ihre zweite Saison, mit weltweiten Einreichungen bis zum 7. Januar 2027 und einem Preispool von 450.000 US-Dollar in Cash-Preisen sowie über 1 Mio. US-Dollar an Promotion-Leistungen. Nach einem erfolgreichen Debüt mit über 6.600 Einreichungen aus 122 Ländern werden die Gewinner Mitte Februar in einem globalen Livestream bekanntgegeben und erstmals bei einer Red-Carpet-Gala geehrt. Die Auszeichnung positioniert sich als zentrale Plattform für AI-native Kreative in den Bereichen Film, Musikvideos, Werbung und Games.",
-          "score": 9
         }
       ]
     }
