@@ -1,98 +1,119 @@
 {
   "newsletters": [
     {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "articles": [
         {
           "source": "DWDL",
-          "title": "Netflix setzt \"Too Hot to Handle\" mit Pärchen und Parshad fort",
-          "link": "https://www.dwdl.de/nachrichten/108675/netflix_setzt_too_hot_to_handle_mit_paerchen_und_parshad_fort/",
-          "summary": "Netflix startet am 30. Dezember mit „Too Hot to Handle: Couples Edition“ eine deutschsprachige Weltpremiere des Reality-Formats, das erstmals sechs Pärchen statt Singles in den Mittelpunkt stellt und um einen Gewinn von bis zu 200.000 Euro konkurrieren lässt. Neu ist zudem, dass Comedienne und Content Creatorin Parshad neben KI-Assistentin Lana durch das Retreat führt. Produziert wird die Staffel – wie bereits die zweite reguläre Staffel – von Seapoint Productions.",
+          "title": "Starker Staffel-Start für \"Lord of the Rings\" bei Prime Video",
+          "link": "https://www.dwdl.de/zahlenzentrale/108690/starker_staffelstart_fuer_lord_of_the_rings_bei_prime_video/",
+          "summary": "Die dritte Staffel von „The Lord of the Rings: The Rings of Power“ startete am 11. November stark bei Prime Video und erreichte zum Auftakt 1,344 Mio. Abrufe. Dennoch wurde die Fantasy-Großproduktion von einem Sitcom-Klassiker übertroffen, während zudem die Reality-Formate „Temptation Island V.I.P.“ und „The Power“ neue Rekorde verzeichneten.",
+          "score": 9
+        },
+        {
+          "source": "DWDL",
+          "title": "RTL reicht Bundesliga-Highlights an Disney+ weiter",
+          "link": "https://www.dwdl.de/nachrichten/108687/rtl_reicht_bundesligahighlights_an_disney_weiter/",
+          "summary": "RTL Deutschland gibt sein 2024 erworbenes Bundesliga-Highlight-Paket per Sublizenz an Disney+ weiter, wo die Zusammenfassungen aller Spiele der 1. und 2. Bundesliga ab dem 8. Januar unter der Marke ESPN ohne Aufpreis verfügbar sein werden. Die bis Juni 2029 laufende Vereinbarung ergänzt das wachsende Sport-Portfolio von Disney+ (u.a. Women's Champions League, Formel E, Icon League), während das Rechtepaket bei RTL nach der Sky-Übernahme offenbar an Priorität verloren hatte. Finanzielle Details der Vereinbarung wurden nicht bekanntgegeben.",
           "score": 8
         },
         {
           "source": "DWDL",
-          "title": "Streaming-Erfolg verhilft \"Sommerhaus\" zum Spitzenplatz",
-          "link": "https://www.dwdl.de/zahlenzentrale/108667/streamingerfolg_verhilft_sommerhaus_zum_spitzenplatz/",
-          "summary": "RTLs \"Sommerhaus der Stars\" führt dank starker Streaming-Nutzung die AGF-Konvergenz-Hitliste für Oktober an, wobei gleich vier Folgen auf RTL+ nahe der Millionenmarke lagen. Bemerkenswert ist, dass die Reality-Show im Streaming teils mehr Zuschauer erreicht als linear – bei den 14- bis 49-Jährigen wurde die Sehbeteiligung zeitweise vervierfacht. Einen noch deutlicheren Streaming-Überhang zeigt die RTLzwei-Show \"Love Island VIP\".",
-          "score": 10
+          "title": "ndF holt Svenja Liebrecht für Talente-Vernetzung und Scouting",
+          "link": "https://www.dwdl.de/nachrichten/108674/ndf_holt_svenja_liebrecht_fuer_talentevernetzung_und_scouting/",
+          "summary": "Die ndF-Gruppe holt Svenja Liebrecht zum 1. Januar 2027 in die neu geschaffene Position des Director International Business & Creative Affairs. Die Managerin mit über 20 Jahren Erfahrung in der internationalen Film- und Fernsehbranche soll vor allem die Vernetzung kreativer Talente, das Scouting junger Kreativer sowie die Entwicklung neuer Partnerschaften vorantreiben.",
+          "score": 7
         },
         {
           "source": "DWDL",
-          "title": "Netflix findet Starttermin für neue Dramedy \"Liebe & Chaos\"",
-          "link": "https://www.dwdl.de/nachrichten/108659/netflix_findet_starttermin_fuer_neue_dramedy_liebe__chaos/",
-          "summary": "Netflix startet am 28. Januar die deutsche Adaption der schwedischen Serie \"Love & Anarchy\" unter dem Titel \"Liebe & Chaos\", produziert von der Kölner btf (\"How to sell drugs online (fast)\", \"King of Stonks\"). Die Dramedy mit Anne Schäfer und Ludwig Simon in den Hauptrollen erzählt die unkonventionelle Beziehung einer erfolgreichen Unternehmensberaterin und eines jüngeren IT-Technikers; Regie führen Hermine Huntgeburth und Charlotte Rolfes, das Drehbuch stammt von Elena Senft und Laura Lackmann.",
-          "score": 9
+          "title": "Karlsruhe verschiebt Urteil zum Rundfunkbeitrag erneut",
+          "link": "https://www.dwdl.de/nachrichten/108666/karlsruhe_verschiebt_urteil_zum_rundfunkbeitrag_erneut/",
+          "summary": "Das Bundesverfassungsgericht verschiebt seine Entscheidung zur Verfassungsbeschwerde von ARD und ZDF zum Rundfunkbeitrag zum zweiten Mal – ein Verkündungstermin wird nun voraussichtlich erst im ersten Quartal 2027 erwartet. Im Zentrum steht nicht nur die Beitragshöhe, sondern auch das Verfahren der Festsetzung, da die Länder sowohl der ursprünglichen KEF-Empfehlung (18,94 Euro) als auch der im Zwischenbericht reduzierten Empfehlung (18,64 Euro) nicht gefolgt sind. Durch die erneute Verschiebung bleibt der Rundfunkbeitrag auch ab dem 1. Januar 2027 unverändert bei 18,36 Euro.",
+          "score": 7
+        },
+        {
+          "source": "DWDL",
+          "title": "Prime Video holt \"Holey Moley\" vor Weihnachten nach Deutschland",
+          "link": "https://www.dwdl.de/nachrichten/108664/prime_video_holt_holey_moley_vor_weihnachten_nach_deutschland/",
+          "summary": "Prime Video startet am 18. Dezember die deutsche Adaption der US-Minigolf-Show \"Holey Moley – Minigolf Extreme\", produziert von UFA Show & Factual mit zunächst sechs Folgen. Kommentiert wird das in Portugal produzierte Format von Johannes B. Kerner und Ralf Schmitz, während Selfiesandra als Field-Reporterin fungiert; 24 Kandidaten treten auf acht themenbasierten Extrem-Bahnen um ein Preisgeld von 25.000 Euro an.",
+          "score": 7
         },
         {
           "source": "Horizont Medien",
-          "title": "TV-Sender: Sport1 will trotz Insolvenzantrag bei Holding weiter senden",
-          "link": "https://www.horizont.net/medien/nachrichten/tv-sender-sport1-will-trotz-insolvenzantrag-bei-holding-weiter-senden-236670?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
-          "summary": "Die Sport1 Media GmbH als Holding hat Insolvenz angemeldet, während der operative Sendebetrieb der Sport1 GmbH einschließlich des TV-Senders davon unberührt bleibt und ohne Unterbrechung weiterläuft. Laut Geschäftsführer Christian Hofmeister und dem Produktionspartner DMC bestehen keine Auswirkungen auf die Programmproduktion, einschließlich der bekannten Sendung \"Doppelpass\", sowie auf die operative Zusammenarbeit.",
+          "title": "&quot;Die Leute gucken schon&quot;: So ironisch wirbt Jung von Matt für das Streamingangebot des ZDF",
+          "link": "https://www.horizont.net/medien/nachrichten/die-leute-gucken-schon-so-ironisch-wirbt-jung-von-matt-fuer-das-streamingangebot-des-zdf-236710?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Das ZDF bewirbt mit einer von Jung von Matt entwickelten Kampagne sein vielseitiges Streamingangebot und setzt dabei auf Selbstironie. In zehn einminütigen Clips reagieren bekannte Sendergesichter wie Oliver Welke, Gundula Gause und Parshad Esmaeili mit typisch deutscher Skepsis auf das eigene Programm, bevor stets der augenzwinkernde Slogan „Die Leute gucken schon!“ folgt. Ziel ist es, mehr Nutzer neugierig zu machen und das Profil des Streamingangebots zu schärfen.",
+          "score": 8
+        },
+        {
+          "source": "Horizont Medien",
+          "title": "ARD-Doku: Deutsche True-Crime-Doku gewinnt internationalen Emmy",
+          "link": "https://www.horizont.net/medien/nachrichten/ard-doku-deutsche-true-crime-doku-gewinnt-internationalen-emmy-236703?utm_source=rss&utm_medium=referral&utm_campaign=news-medien&utm_term=",
+          "summary": "Die ARD-Produktion „Der talentierte Mr. F“, eine True-Crime-Dokumentation über die Jagd nach einem Filmdieb, wurde bei den International Emmy Awards in der Kategorie „Arts Programming“ ausgezeichnet. Der Erfolg unterstreicht die internationale Wettbewerbsfähigkeit deutscher Dokumentarformate im hochkompetitiven True-Crime-Segment.",
+          "score": 8
+        },
+        {
+          "source": "kress",
+          "title": "Maximilian Kleinsorg will Falkemedia zum „ersten AI-first Media House Europas“ machen",
+          "link": "https://kress.de/news/beitrag/156969-die-kress-pro-young-leaders-2026-maximilian-kleinsorg-will-falkemedia-zum-ersten-ai-first-media-house-europas-machen.html",
+          "summary": "Maximilian Kleinsorg (33), Head of AI & Systems Integration der Falkemedia-Gruppe, wurde als einer der kress pro Young Leaders 2026 ausgezeichnet und zählt zu den Führungskräften, die KI in deutschen Medienhäusern am entschiedensten vorantreiben. Sein erklärtes Ziel ist es, Falkemedia zum „ersten AI-first Media House Europas“ auszubauen und dabei einen verantwortungsvollen KI-Einsatz sicherzustellen, der Mehrwert schafft statt Fake News und gesellschaftliche Spaltung zu fördern. Zugleich verantwortet er den Geschäftsbereich „AI Ready“, über den Falkemedia sein KI-Know-how vermarktet.",
           "score": 7
         },
         {
           "source": "meedia",
-          "title": "4 Finger\" holt 31 Prozent, \"Promi Padel WM\" fällt durch Der vierte Fall des Frankfurter...",
-          "link": "https://meedia.de/news/beitrag/25492-frankfurt-quot-tatort-4-finger-quot-holt-31-prozent-quot-promi-padel-wm-quot-faellt-durch.html",
-          "summary": "Der vierte Frankfurter \"Tatort: 4 Finger\" erzielte am Sonntagabend mit 7,95 Millionen Zuschauern und 31,0 Prozent Marktanteil ein starkes Ergebnis und gewann auch beim jungen Publikum, trotz des sperrigen Themas eines früheren Terror-Anschlags. Konkurrenzformate wie \"Das Traumschiff\" (4,46 Millionen, 17,4 Prozent) blieben chancenlos, während \"Die Promi Padel WM\" von ProSieben floppte.",
+          "title": "Weltweites Media-Neugeschäft COMvergence: Publicis Media steht mit deutlichem Abstand auf Platz 1 Publicis Media dominiert das Neugeschäfts-Ranking nach drei Quartalen 2026 wie schon im Vorjahreszeitraum und auch nach der Interpublic-Übernahme durch Omnicom. Das besagt ein Report des Marktforschers COMvergence. Das meiste Neugeschäft auf Agenturebene schaffte die Omnicom-Agentur PHD",
+          "link": "https://meedia.de/news/beitrag/25509-comvergence-publicis-media-steht-mit-deutlichem-abstand-auf-platz-1.html",
+          "summary": "Laut dem COMvergence-Report „Global New Business Barometer“ führt Publicis Media das weltweite Media-Neugeschäfts-Ranking für Q1–Q3 2026 mit deutlichem Vorsprung an: Das Volumen von 7,18 Milliarden US-Dollar basiert auf Neukunden wie PepsiCo, Microsoft und LVMH. Omnicom Media folgt mit 4,79 Milliarden US-Dollar (überwiegend verteidigte Etats) auf Platz zwei, WPP Media mit 1,72 Milliarden US-Dollar auf Platz drei. Auf Agenturebene erzielte die Omnicom-Agentur PHD – unter anderem durch den Adidas-Gewinn – das meiste Neugeschäft.",
+          "score": 8
+        },
+        {
+          "source": "meedia",
+          "title": "Volvo-Schwestermarke Polestar vergibt globalen Mediaetat an Omnicoms Hearts United Dentsu X ist raus: Nach einem Pitch seit März wechselt der Elektroautobauer Polestar mit seinem weltweiten Mediageschäft zu Omnicom. Für Hearts United, wie Hearts &amp; Science seit der Fusion mit Mediahub heißt, ist es der erste globale Etatgewinn unter neuem Namen",
+          "link": "https://meedia.de/news/beitrag/25510-polestar-vergibt-globalen-mediaetat-an-omnicoms-hearts-united.html",
+          "summary": "Der Elektroautobauer Polestar verlagert nach einem seit März laufenden Pitch seinen weltweiten Mediaetat mit Billings von rund 125 Millionen US-Dollar von Dentsu X zu Omnicoms Hearts United – für die aus der Fusion von Hearts & Science und Mediahub entstandene Agentur der erste globale Etatgewinn unter neuem Namen. Der Etat umfasst EMEA, Nordamerika und den asiatisch-pazifischen Raum, wobei Australien (Billings über 10 Millionen AUD) an die Konzernschwester Mediahub geht, da diese dort aufgrund einer Beteiligung der Attivo Group nicht zusammengelegt wurde. Erste Aufgabe ist eine Modelloffensive mit vier neuen Fahrzeugen bis 2028, während Pol",
           "score": 7
         },
         {
-          "source": "Guardian Media",
-          "title": "Fewer than half in UK will pay TV licence fee within a decade, report warns",
-          "link": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
-          "summary": "Laut einer Analyse einer Medienberatungsfirma wird innerhalb der nächsten zehn Jahre weniger als die Hälfte der britischen Haushalte die BBC-Rundfunkgebühr zahlen, verglichen mit derzeit 77 %. Der Bericht warnt vor einer „Abwärtsspirale“ bei der Finanzierung des öffentlich-rechtlichen Senders, während die Regierung die Einführung einer Streaming-Abgabe prüft.",
-          "score": 7
+          "source": "meedia",
+          "title": "\"Steiler\" Boom-Trend Vertical Minds startet Streamingplattform Eilin",
+          "link": "https://meedia.de/news/beitrag/25507-vertical-minds-startet-streamingplattform-eilin-fuer-vertikale-serien.html",
+          "summary": "Das Münchner Medienunternehmen Vertical Minds startet am 1. Dezember die Streamingplattform Eilin für deutschsprachige Vertical-Drama-Serien im Hochformat, die speziell für Smartphones produziert werden und typischerweise aus rund 100 ein- bis zweiminütigen Episoden bestehen. Zum Launch stehen zwölf Titel mit einem ungewöhnlichen Preismodell bereit. Fraglich bleibt, ob die TikTok-Zielgruppe bereit ist, für solche Inhalte auf einer teils kostenpflichtigen Streaming-Plattform zu zahlen.",
+          "score": 10
         },
         {
           "source": "Guardian Media",
-          "title": "Telegraph departures signal concerns over direction under Axel Springer’s ownership",
-          "link": "https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
-          "summary": "Der Weggang von Chefredakteur Winnett vom Telegraph wird als Symptom breiter Bedenken über die strategische Ausrichtung der Zeitung unter dem neuen Eigentümer Axel Springer gewertet. Der Konzern unter CEO Mathias Döpfner hatte die Titel Anfang des Jahres für 575 Mio. £ erworben und dabei Investitionen sowie Expansion in Aussicht gestellt.",
+          "title": "BBC’s preschool shows to be made available in CBeebies hub on Netflix",
+          "link": "https://www.theguardian.com/media/2026/nov/24/bbc-preschool-shows-cbeebies-hub-netflix",
+          "summary": "Die BBC bringt im Rahmen einer sechsmonatigen Testphase 24 Programme ihres Vorschulkanals CBeebies – darunter Klassiker wie Teletubbies, Hey Duggee und Numberblocks – über einen eigenen Hub auf Netflix. Mit dieser Partnerschaft reagiert der Sender auf den generationellen Wandel im Medienkonsum und versucht, junge Zuschauer zurückzugewinnen, die zunehmend zu Streaming-Diensten abwandern.",
+          "score": 10
+        },
+        {
+          "source": "Guardian Media",
+          "title": "Channel 4 hit as Unilever switches from TV to influencer marketing",
+          "link": "https://www.theguardian.com/media/2026/nov/24/channel-4-unilever-tv-influencer-marketing",
+          "summary": "Channel 4 ist am stärksten von Unilevers Strategiewechsel betroffen: Der Konsumgüterkonzern (u.a. Dove) hat sein TV-Werbebudget beim Sender um rund 92 % gekürzt und verlagert die Ausgaben auf Online-Influencer-Marketing. Der Rückzug trifft den ohnehin angeschlagenen Broadcaster in einem schwachen Werbemarkt, der bereits zu umfangreichen Stellenstreichungen geführt hat.",
           "score": 7
         },
         {
           "source": "Deadline",
-          "title": "FCC To Vote On Plan To Relax Local TV And Radio Ownership Limits",
-          "link": "https://deadline.com/2026/11/fcc-media-ownership-brendan-carr-1237231829/",
-          "summary": "Die FCC plant im kommenden Monat eine Abstimmung über einen Vorschlag von Vorsitzendem Brendan Carr, der lokale Eigentumsbeschränkungen für TV- und Radiosender weiter lockern würde, indem er Unternehmen erlaubt, die bisherigen Obergrenzen (derzeit max. zwei Sender pro Markt) im Einzelfall zu überschreiten, sofern dies dem „öffentlichen Interesse“ dient. Zudem würden die sogenannten „Subcaps“ entfallen, die das Verhältnis von FM- und AM-Sendern pro Markt regulieren, während das Verbot des Besitzes zweier Rundfunknetzwerke bestehen bliebe. Der Vorstoß folgt auf eine Entscheidung vom vergangenen Sommer, mit der die 39-",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Vanessa Ferlito, John Carroll Lynch And Ted Levine Join Denzel Washington In New Thriller From Christopher McQuarrie And United Artists",
-          "link": "https://deadline.com/2026/11/vanessa-ferlito-john-carroll-lynch-denzel-washington-1237231409/",
-          "summary": "Vanessa Ferlito, John Carroll Lynch und Ted Levine schließen sich der Besetzung des noch unbetitelten Thrillers von Regisseur Christopher McQuarrie für Amazon MGM Studios und United Artists an, in dem Denzel Washington, Teyonah Parris und Miles Caton bereits bestätigt sind. Der Film erzählt die Geschichte eines ehemaligen Polizeidetektivs, der nach einer Krebsdiagnose aus lebenslanger Haft entlassen wird und zu seiner entfremdeten Familie zurückkehrt, während ihn seine dunkle Vergangenheit einholt. Der Kinostart ist für den 1. Oktober geplant.",
+          "title": "‘The Lord Of The Rings: The Rings Of Power’ Renewed For Season 4 At Amazon",
+          "link": "https://deadline.com/2026/11/lord-of-the-rings-rings-of-power-renewed-season-4-amazon-1237232657/",
+          "summary": "Amazon hat die Fantasy-Serie „The Lord of The Rings: The Rings of Power\" trotz sinkender Zuschauerzahlen und Fankritik für eine vierte Staffel verlängert, deren Dreharbeiten im Frühjahr in den Shepperton Studios beginnen. Die Showrunner J.D. Payne und Patrick McKay, die an ihrem Fünf-Staffel-Plan festhalten, kehren zurück. Staffel drei erreichte in den ersten zwölf Tagen 33 Millionen Zuschauer, verfehlte jedoch die Luminate-Streaming-Top-10.",
           "score": 7
         },
         {
           "source": "Hollywood Reporter",
-          "title": "‘Ted Lasso’ Lands Season 5 Renewal at Apple TV",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/ted-lasso-renewed-season-5-apple-tv-1236761387/",
-          "summary": "Apple TV hat die Emmy-prämierte Comedy-Serie „Ted Lasso\" um eine fünfte Staffel verlängert, nachdem Staffel vier mit rund 9,8 Milliarden Minuten Sehdauer und 12 Wochen in den Nielsen-Top-10 zu den meistgesehenen Streaming-Originalen 2026 zählt. Ein Writers Room für die neue Staffel wurde bereits eröffnet, wobei noch offen ist, welche Darsteller des großen Ensembles zurückkehren werden. Das Staffel-vier-Finale legte dabei mehrere Handlungsstränge an – etwa Teds Rückzug zum Assistenztrainer –, die in Staffel fünf weiterentwickelt werden könnten.",
-          "score": 8
+          "title": "‘The Rings of Power’ Officially Renewed for Season 4 With Showrunners Returning",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/the-rings-of-power-season-4-1236762209/",
+          "summary": "Amazon Prime Video hat „The Lord of the Rings: The Rings of Power\" offiziell für eine vierte Staffel verlängert, wobei die Showrunner J.D. Payne und Patrick McKay zurückkehren; die Vorproduktion läuft bereits, der Drehbeginn ist für diesen Frühling in den Shepperton Studios in Großbritannien geplant. Die Entscheidung folgt auf starke Abrufzahlen der dritten Staffel, die laut Prime Video innerhalb der ersten zwölf Tage 33 Millionen Zuschauer weltweit erreichte und zu den meistgesehenen Fortsetzungsstaffeln des Streamers zählt.",
+          "score": 7
         },
         {
           "source": "Variety",
-          "title": "‘Ted Lasso’ Renewed for Season 5 at Apple TV, With Jason Sudeikis Returning",
-          "link": "https://variety.com/2026/tv/news/ted-lasso-season-5-renewed-apple-tv-jason-sudeikis-1236956126/",
-          "summary": "Apple TV hat die Erfolgskomödie „Ted Lasso\" für eine fünfte Staffel verlängert, wobei Jason Sudeikis erneut als Hauptdarsteller und Executive Producer zurückkehrt. Die Entscheidung folgt auf die starken Einschaltquoten der Staffel 4, deren Premiere mit 296,6 Millionen gestreamten Minuten den bisher erfolgreichsten Serienstart in der Geschichte von Apple TV markierte. Sudeikis hatte zuvor Interesse an einem weiteren Dreistaffel-Bogen (Staffeln 5 und 6) bekundet.",
+          "title": "How Netflix and the NFL Hope to Establish New Thanksgiving Eve Tradition With Game and U2 Half-Time Show: ‘We Want to Create Those Global Water Cooler Moments’",
+          "link": "https://variety.com/2026/sports/news/netflix-nfl-thanksgiving-eve-u2-1236956485/",
+          "summary": "Netflix und die NFL etablieren mit einem Thanksgiving-Eve-Spiel (Rams gegen Packers im SoFi Stadium) am 25. November eine neue Feiertagstradition, ergänzt durch eine U2-Halbzeitshow. Die Partnerschaft baut auf dem Erfolg der Christmas-Day-Spiele auf, die jeweils über 30 Millionen globale Zuschauer erreichten, und positioniert den Streamer gezielt als Anbieter außergewöhnlicher Live-Sport-Events während Feiertagsperioden.",
           "score": 9
-        },
-        {
-          "source": "Variety",
-          "title": "Steven Spielberg to Direct Western Movie Starring Cillian Murphy, Jessie Buckley; Paul Thomas Anderson to Write Script Based on ‘The Heart in Winter’",
-          "link": "https://variety.com/2026/film/news/steven-spielberg-western-cillian-murphy-jessie-buckley-1236956084/",
-          "summary": "Steven Spielberg wird für Focus Features Kevin Barrys Western-Roman „The Heart in Winter\" verfilmen, wobei Paul Thomas Anderson das Drehbuch beisteuert und Cillian Murphy, Jessie Buckley sowie Mark Rylance die Hauptrollen übernehmen. Das Projekt, das die irische Liebesgeschichte um einen Dichter und die Braut eines Minenkapitäns auf ihrer Flucht nach San Francisco erzählt, peilt einen Kinostart für 2028 an. Die Produktion vereint Spielberg erneut mit Buckley (nach „Hamnet\") und markiert eine prominente Zusammenarbeit zweier renommierter Regisseure.",
-          "score": 8
-        },
-        {
-          "source": "Variety",
-          "title": "Shawn Levy’s 21 Laps Inks Rich Overall Film Deal at Sony",
-          "link": "https://variety.com/2026/film/news/shawn-levy-21-overall-film-deal-sony-1236956043/",
-          "summary": "Shawn Levys Produktionsfirma 21 Laps Entertainment hat nach einem kompetitiven Bieterverfahren mehrerer Studios einen umfangreichen Overall-Film-Deal mit Sony Pictures abgeschlossen, der sich über alle Labels des Studios erstreckt und im Herbst 2027 beginnt. Die Vereinbarung führt Levy mit Motion Picture Group Chairman/CEO Tom Rothman und President Sanford Panitch zusammen, mit denen er bereits frühere Erfolge wie „Night at the Museum“, „Cheaper by the Dozen“ und „Date Night“ realisierte.",
-          "score": 8
         }
       ]
     }
