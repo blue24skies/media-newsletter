@@ -1,63 +1,21 @@
 {
   "newsletters": [
     {
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "articles": [
         {
-          "source": "DWDL",
-          "title": "\"Forsthaus Rampensau\" kommt erst 2027 zu Sixx",
-          "link": "https://www.dwdl.de/nachrichten/108725/forsthaus_rampensau_kommt_erst_2027_zu_sixx/",
-          "summary": "Nach einem mehrfachen Verschiebungschaos ist die neue Staffel von \"Forsthaus Rampensau Germany\" seit dem 27. November 2026 bei Joyn verfügbar, die Free-TV-Premiere bei Sixx erfolgt jedoch erst am 1. Januar 2027 mit vier Folgen ab 20:15 Uhr, gefolgt von wöchentlich drei neuen Episoden freitags. ProSiebenSat.1 begründete die Verzögerungen offiziell mit \"produktionstechnischen Gründen\", laut \"Bild\"-Berichten soll jedoch der Vorwurf einer Kandidatin gegen einen Mitstreiter zur erneuten Sichtung des Materials geführt haben, wobei letztlich nur eine kurze Szene herausgeschnitten wurde.",
-          "score": 7
-        },
-        {
-          "source": "DWDL",
-          "title": "\"Schließung der Antragstellung ist ein Schock für die Branche\"",
-          "link": "https://www.dwdl.de/nachrichten/108723/schliessung_der_antragstellung_ist_ein_schock_fuer_die_branche/",
-          "summary": "Die Herbstumfrage der Produktionsallianz zeigt eine anhaltend kritische Lage der deutschen Produktionsbranche: 81 Prozent der Unternehmen bewerten die wirtschaftliche Situation als schlecht, wobei sinkende Auftraggeber-Budgets und steigende Herstellungskosten als Hauptprobleme gelten. Verschärft wird die Situation durch die überraschende Schließung der Antragstellung für die Kino- und TV-Förderung 2027 nach nur wenigen Tagen, die laut Produktionsallianz-CEO Michelle Müntefering ein verheerendes Signal – auch ins Ausland – sendet und Deutschland als europäischen Koproduktionspartner ausfallen lässt.",
-          "score": 9
-        },
-        {
-          "source": "DWDL",
-          "title": "Neue Wache, neue Folgen: \"Feuer & Flamme\" geht im März weiter",
-          "link": "https://www.dwdl.de/nachrichten/108720/neue_wache_neue_folgen_feuer__flamme_geht_im_maerz_weiter/",
-          "summary": "Die WDR/ARD-Dokutainmentreihe „Feuer & Flamme“ kehrt mit zehn neuen Folgen in der elften Staffel zurück. Ab dem 4. März 2026 werden diese mittwochs in der ARD-Mediathek veröffentlicht, die lineare Ausstrahlung folgt ab dem 20. März 2026 freitags um 20:15 Uhr im WDR Fernsehen.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "Öffentlich-rechtlicher Spardruck Diese TV- und Radiosender von ARD und ZDF verschwinden zum...",
-          "link": "https://meedia.de/news/beitrag/25537-diese-tv-und-radiosender-von-ard-und-zdf-verschwinden-zum-jahresende.html",
-          "summary": "Zum Jahreswechsel 2026/27 schalten ARD und ZDF im Zuge des Reformstaatsvertrags drei lineare TV-Sender ab: One, ARD alpha und Tagesschau24, dessen Nachrichtenangebot künftig nur noch digital auf tagesschau.de und in der ARD Mediathek fortgeführt wird. ZDFneo, ZDFinfo und Phoenix werden in gemeinsame ARD-ZDF-Angebote (\"Neo\", \"info\" und \"Phoenix von ARD und ZDF\") überführt, während bei den Radiowellen zahlreiche terrestrische Spezialangebote wegfallen oder auf digitale Plattformen verlagert werden.",
-          "score": 8
-        },
-        {
-          "source": "meedia",
-          "title": "TV-Quoten & Streaming-Charts Nitro besiegt mit dem Thanksgiving-Spiel der NFL ProSieben, Kabel Eins...",
-          "link": "https://meedia.de/news/beitrag/25533-nitro-besiegt-mit-dem-thanksgiving-spiel-der-nfl-prosieben-kabel-eins-und-rtl-zwei.html",
-          "summary": "Der RTL-Ableger Nitro erzielte mit dem NFL-Thanksgiving-Spiel beim jungen Publikum Marktanteile von bis zu 7,0 Prozent und übertraf damit größere Sender wie ProSieben, Kabel Eins und RTL Zwei. Den Prime-Time-Sieg bei den Privatsendern sicherte sich RTL mit dem Conference-League-Spiel des SC Freiburg (2,15 Mio. Zuschauer), während im Gesamtpublikum der ARD-Krimi „Steirerstich“ mit 4,91 Millionen Zuschauern und 22,6 Prozent Marktanteil dominierte.",
-          "score": 9
-        },
-        {
           "source": "Deadline",
-          "title": "Federal Incentive Will Level The Playing Field For America’s Creatives — Guest Column",
-          "link": "https://deadline.com/2026/11/federal-film-tv-incentive-guest-column-ruth-vitale-1237234279/",
-          "summary": "Ruth Vitale, CEO der Non-Profit-Koalition CreativeFuture, plädiert in diesem Gastbeitrag für ein nationales Produktionsanreiz-Programm der USA, um dem anhaltenden Rückgang heimischer Film- und TV-Produktionen entgegenzuwirken. Sie argumentiert, dass mindestens 65 Länder nationale Produktionsanreize bieten, während die USA lediglich auf bundesstaatliche Programme in 39 Staaten setzen, die internationale Angebote nicht überbieten können. Der Fokus liegt dabei auf dem Schutz amerikanischer Arbeitsplätze in der Kreativbranche, da das Urheberrecht nur bereits geschaffene Werke, nicht aber verlorene Produktionschancen schützt.",
-          "score": 7
-        },
-        {
-          "source": "Deadline",
-          "title": "Canal+ Sends Signal To African Creative Community With Academy Launch Backed By President Of South Africa",
-          "link": "https://deadline.com/2026/11/canal-plus-academy-backed-south-africa-pres-cyril-ramaphosa-1237234238/",
-          "summary": "Ein Jahr nach der 2-Milliarden-Dollar-Übernahme von MultiChoice hat Canal+ in Johannesburg die Canal+ Academy gestartet, die im ersten Jahr 800 bis 1.000 Personen ausbilden soll und das bestehende University-Modell mit der MultiChoice Talent Factory kombiniert. Das Programm umfasst sechs intensive Trainingskurse und sechs Masterclasses in Bereichen wie Schauspiel, afrikanische Serienproduktion, KI und digitales Filmemachen. Die Unterstützung durch den südafrikanischen Präsidenten Cyril Ramaphosa, der als Ehrengast auftrat, soll ein starkes Signal an die afrikanische Kreativbranche senden und Canal+' Fokus auf lokale Inhalte unterstreichen.",
-          "score": 8
+          "title": "Bob Greenblatt Opines Why Viewers Aren’t Sampling New Shows Today: “It’s Easier To Just Escape To Seinfeld or Downton Abbey”",
+          "link": "https://deadline.com/2026/11/bob-greenblatt-talks-challenge-launching-new-shows-today-1237234508/",
+          "summary": "TV-Produzent Bob Greenblatt (EP von „The Gilded Age\") erklärt im Interview mit der New York Times, dass Zuschauer angesichts der Flut neuer Streaming-Angebote lieber zu vertrauten Klassikern wie „Seinfeld\" oder „Downton Abbey\" greifen, weil sie dort genau wissen, was sie erwartet. Laut Luminate stieg das Zuschauerinteresse an älteren Titeln im dritten Quartal um über 40 Prozent gegenüber dem Vorjahr, während der Konsum neuer Serien und Filme zurückging. Netflix belegt diesen Trend mit Erfolgen wiederveröffentlichter Titel wie „Power\", das in der Woche vom 16.–22. November auf Platz acht der meistgesehenen Programme landete.",
+          "score": 9
         },
         {
           "source": "Hollywood Reporter",
-          "title": "How This Year’s Black Friday Deals Explain the Tumultuous State of Streaming",
-          "link": "https://www.hollywoodreporter.com/business/digital/how-black-friday-streaming-deals-explain-streaming-1236761117/",
-          "summary": "Die aktuellen Black-Friday-Angebote der Streaming-Anbieter spiegeln die Umbruchphase der Branche wider: Während Marktführer Netflix als einziger Dienst traditionell keinen Rabatt gewährt, locken HBO Max (50 Prozent Nachlass auf das werbefinanzierte Abo) und Paramount+ (2,99 USD monatlich für zwei Monate) mit aggressiven Deals. Diese Aktionen gelten als letztes Aufbäumen vor einer geplanten Rabatt-Bundle-Strategie und der von Skydance-CEO David Ellison angekündigten Fusion von HBO Max und Paramount+, die Anfang kommenden Jahres eingeleitet werden soll.",
-          "score": 10
+          "title": "Strong ‘I Play Rocky,’ ‘How to Rob a Bank’ KO and More: Amazon MGM Distribution Head on 2026 Highs and Lows",
+          "link": "https://www.hollywoodreporter.com/movies/movie-features/amazon-mgm-theatrical-i-play-rocky-rob-a-bank-bond-madden-1236764040/",
+          "summary": "Amazon MGM Studios verzeichnet mit Peter Farrellys faktenbasiertem Drama „I Play Rocky“ einen starken Kinostart, der nach zwei Wochen limitierter Veröffentlichung auf Platz 2 der US-Kinocharts aufstieg und über das Thanksgiving-Wochenende einen nordamerikanischen Gesamtumsatz von rund 22 Millionen Dollar erreichen dürfte. Der Film reiht sich in ein erfolgreiches Studiojahr ein, das Hits wie „Project Hail Mary“ und „Verity“ umfasste, jedoch auch Rückschläge wie den schwachen Start von David Leitchs „How to Rob a Bank“ (nur 5,1 Millionen Dollar bei 40 Millionen Dollar Budget) verzeichnete. Der US-",
+          "score": 7
         }
       ]
     }
